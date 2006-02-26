@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE newcomps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
+<comps>
+
+  <group>
+    <id>authoring-and-publishing</id>
+    <_name>Authoring and Publishing</_name>
+    <_description>These tools allow you to create documentation in the DocBook format and convert them to HTML, PDF, Postscript, and text.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">conglomerate</packagereq>
+        <packagereq type="optional">kile</packagereq>
+        <packagereq type="optional">scribus</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>development-tools</id>
+    <_name>Development Tools</_name>
+    <_description>These tools include core development tools such as automake, gcc, perl, python, and debuggers.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">abicheck</packagereq>
+        <packagereq type="optional">bazaar</packagereq>
+        <packagereq type="optional">bzr</packagereq>
+        <packagereq type="optional">ccache</packagereq>
+        <packagereq type="optional">cdiff</packagereq>
+        <packagereq type="optional">clisp</packagereq>
+        <packagereq type="optional">cogito</packagereq>
+        <packagereq type="optional">colordiff</packagereq>
+        <packagereq type="optional">cpan2rpm</packagereq>
+        <packagereq type="optional">cvsps</packagereq>
+        <packagereq type="optional">cvsweb</packagereq>
+        <packagereq type="optional">darcs</packagereq>
+        <packagereq type="optional">epydoc</packagereq>
+        <packagereq type="optional">erlang</packagereq>
+        <packagereq type="optional">fedora-rpmdevtools</packagereq>
+        <packagereq type="optional">fpc</packagereq>
+        <packagereq type="optional">gforth</packagereq>
+        <packagereq type="optional">ghc</packagereq>
+        <packagereq type="optional">git-core</packagereq>
+        <packagereq type="optional">lincvs</packagereq>
+        <packagereq type="optional">lua</packagereq>
+        <packagereq type="optional">mach</packagereq>
+        <packagereq type="optional">mock</packagereq>
+        <packagereq type="optional">meld</packagereq>
+        <packagereq type="optional">mercurial</packagereq>
+        <packagereq type="optional">monotone</packagereq>
+        <packagereq type="optional">pylint</packagereq>
+        <packagereq type="optional">ocaml</packagereq>
+        <packagereq type="optional">quilt</packagereq>
+        <packagereq type="optional">rpmlint</packagereq>
+        <packagereq type="optional">rpmproc</packagereq>
+        <packagereq type="optional">splint</packagereq>
+        <packagereq type="optional">tkcvs</packagereq>
+        <packagereq type="optional">tla</packagereq>
+        <packagereq type="optional">yasm</packagereq>
+        <packagereq type="optional">bigloo</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>dialup</id>
+    <_name>Dialup Networking Support</_name>
+    <description/>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+        <packagereq type="optional">pptp</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>editors</id>
+    <_name>Editors</_name>
+    <_description>Sometimes called text editors, these are programs that allow you to create and edit files. These include Emacs and Vi.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <grouplist>
+      <groupreq>base</groupreq>
+      <metapkg type="optional">xemacs</metapkg>
+    </grouplist>
+    <packagelist>
+        <packagereq type="optional">gobby</packagereq>
+        <packagereq type="optional">jed</packagereq>
+        <packagereq type="optional">leafpad</packagereq>
+        <packagereq type="optional">TeXmacs</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>engineering-and-scientific</id>
+    <_name>Engineering and Scientific</_name>
+    <_description>This group includes packages for performing mathematical and scientific computations and plotting, as well as unit conversion.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">blacs</packagereq>
+        <packagereq type="optional">blas</packagereq>
+        <packagereq type="optional">galculator</packagereq>
+        <packagereq type="optional">lapack</packagereq>
+        <packagereq type="optional">octave</packagereq>
+        <packagereq type="optional">qalculate-gtk</packagereq>
+        <packagereq type="optional">qalculate-kde</packagereq>
+        <packagereq type="optional">qcad</packagereq>
+        <packagereq type="optional">R</packagereq>
+        <packagereq type="optional">R-gnomeGUI</packagereq>
+        <packagereq type="optional">scalapack</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>ftp-server</id>
+    <_name>FTP Server</_name>
+    <_description>These tools allow you to run an FTP server on the system.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">proftpd</packagereq>
+        <packagereq type="optional">pure-ftpd</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>gnome-desktop</id>
+    <_name>GNOME Desktop Environment</_name>
+    <_description>GNOME is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">alacarte</packagereq>
+        <packagereq type="optional">brightside</packagereq>
+        <packagereq type="optional">byzanz</packagereq>
+        <packagereq type="optional">gdesklets</packagereq>
+        <packagereq type="optional">gfontview</packagereq>
+        <packagereq type="optional">glunarclock</packagereq>
+        <packagereq type="optional">gmpc</packagereq>
+        <packagereq type="optional">gnome-themes-clearlooks-bigpack</packagereq>
+        <packagereq type="optional">gnome-themes-extras</packagereq>
+        <packagereq type="optional">gnotime</packagereq>
+        <packagereq type="optional">gtweakui</packagereq>
+        <packagereq type="optional">istanbul</packagereq>
+        <packagereq type="optional">sabayon</packagereq>
+        <packagereq type="optional">seahorse</packagereq>
+        <packagereq type="optional">smeg</packagereq>
+        <packagereq type="optional">themes-backgrounds-gnome</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>gnome-software-development</id>
+    <_name>GNOME Software Development</_name>
+    <_description>Install these packages in order to develop GTK+ and GNOME graphical applications.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">anjuta</packagereq>
+        <packagereq type="optional">anjuta-docs</packagereq>
+        <packagereq type="optional">at-poke</packagereq>
+        <packagereq type="optional">gazpacho</packagereq>
+        <packagereq type="optional">gconfmm26-devel</packagereq>
+        <packagereq type="optional">glibmm24-devel</packagereq>
+        <packagereq type="optional">gnome-common</packagereq>
+        <packagereq type="optional">gtkmm24-devel</packagereq>
+        <packagereq type="optional">gtkalog</packagereq>
+        <packagereq type="optional">gnome-vfsmm26-devel</packagereq>
+        <packagereq type="optional">gquilt</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>games</id>
+    <_name>Games and Entertainment</_name>
+    <_description>Various ways to relax and spend your free time.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">abe</packagereq>
+        <packagereq type="optional">bzflag</packagereq>
+        <packagereq type="optional">celestia</packagereq>
+        <packagereq type="optional">cgoban</packagereq>
+        <packagereq type="optional">csmash</packagereq>
+        <packagereq type="optional">enigma</packagereq>
+        <packagereq type="optional">fillets-ng</packagereq>
+        <packagereq type="optional">foobillard</packagereq>
+        <packagereq type="optional">fortune-mod</packagereq>
+        <packagereq type="optional">freeciv</packagereq>
+        <packagereq type="optional">freedroid</packagereq>
+        <packagereq type="optional">freedroidrpg</packagereq>
+        <packagereq type="optional">gl-117</packagereq>
+        <packagereq type="optional">gnofract4d</packagereq>
+        <packagereq type="optional">gnome-sudoku</packagereq>
+        <packagereq type="optional">gnuchess</packagereq>
+        <packagereq type="optional">gnugo</packagereq>
+        <packagereq type="optional">grhino</packagereq>
+        <packagereq type="optional">gweled</packagereq>
+        <packagereq type="optional">lacewing</packagereq>
+        <packagereq type="optional">lincity-ng</packagereq>
+        <packagereq type="optional">lmarbles</packagereq>
+        <packagereq type="optional">Maelstrom</packagereq>
+        <packagereq type="optional">nethack</packagereq>
+        <packagereq type="optional">nethack-vultures</packagereq>
+        <packagereq type="optional">neverball</packagereq>
+        <packagereq type="optional">nexuiz</packagereq>
+        <packagereq type="optional">overgod</packagereq>
+        <packagereq type="optional">powermanga</packagereq>
+        <packagereq type="optional">ppracer</packagereq>
+        <packagereq type="optional">qascade</packagereq>
+        <packagereq type="optional">qqo</packagereq>
+        <packagereq type="optional">rocksndiamonds</packagereq>
+        <packagereq type="optional">scorched3d</packagereq>
+        <packagereq type="optional">sirius</packagereq>
+        <packagereq type="optional">sopwith</packagereq>
+        <packagereq type="optional">starfighter</packagereq>
+        <packagereq type="optional">supertux</packagereq>
+        <packagereq type="optional">torcs</packagereq>
+        <packagereq type="optional">uqm</packagereq>
+        <packagereq type="optional">viruskiller</packagereq>
+        <packagereq type="optional">wesnoth</packagereq>
+        <packagereq type="optional">xboard</packagereq>
+        <packagereq type="optional">xpilot-ng</packagereq>
+        <packagereq type="optional">xplanet</packagereq>
+        <packagereq type="optional">xscorch</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>education</id>
+    <_name>Educational Software</_name>
+    <_description>Educational software for learning</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">drgeo</packagereq>
+        <packagereq type="optional">gperiodic</packagereq>
+        <packagereq type="optional">stellarium</packagereq>
+        <packagereq type="optional">tuxtype2</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>graphical-internet</id>
+    <_name>Graphical Internet</_name>
+    <_description>This group includes graphical email, Web, and chat clients.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">amaya</packagereq>
+        <packagereq type="optional">apollon</packagereq>
+        <packagereq type="optional">azureus</packagereq>
+        <packagereq type="optional">balsa</packagereq>
+        <packagereq type="optional">bittorrent-gui</packagereq>
+        <packagereq type="optional">blogtk</packagereq>
+        <packagereq type="optional">bluefish</packagereq>
+        <packagereq type="optional">comical</packagereq>
+        <packagereq type="optional">contact-lookup-applet</packagereq>
+        <packagereq type="optional">d4x</packagereq>
+        <packagereq type="optional">deskbar-applet</packagereq>
+        <packagereq type="optional">dillo</packagereq>
+        <packagereq type="optional">drivel</packagereq>
+        <packagereq type="optional">fwbuilder</packagereq>
+        <packagereq type="optional">gajim</packagereq>
+        <packagereq type="optional">galeon</packagereq>
+        <packagereq type="optional">gnome-blog</packagereq>
+        <packagereq type="optional">gnome-telnet</packagereq>
+        <packagereq type="optional">gossip</packagereq>
+        <packagereq type="optional">gtk-gnutella</packagereq>
+        <packagereq type="optional">gwget</packagereq>
+        <packagereq type="optional">kickpim</packagereq>
+        <packagereq type="optional">konversation</packagereq>
+        <packagereq type="optional">kphone</packagereq>
+        <packagereq type="optional">licq</packagereq>
+        <packagereq type="optional">liferea</packagereq>
+        <packagereq type="optional">linphone</packagereq>
+        <packagereq type="optional">logjam</packagereq>
+        <packagereq type="optional">pan</packagereq>
+        <packagereq type="optional">prozilla</packagereq>
+        <packagereq type="optional">psi</packagereq>
+        <packagereq type="optional">putty</packagereq>
+        <packagereq type="optional">rssowl</packagereq>
+        <packagereq type="optional">screem</packagereq>
+        <packagereq type="optional">silky</packagereq>
+        <packagereq type="optional">straw</packagereq>
+        <packagereq type="optional">sylpheed</packagereq>
+        <packagereq type="optional">sylpheed-claws</packagereq>
+        <packagereq type="optional">x3270-x11</packagereq>
+        <packagereq type="optional">xchat-gnome</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>graphics</id>
+    <_name>Graphics</_name>
+    <_description>This group includes packages to help you manipulate and scan images.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">blender</packagereq>
+        <packagereq type="optional">digikam</packagereq>
+        <packagereq type="optional">fontforge</packagereq>
+        <packagereq type="optional">gpp</packagereq>
+        <packagereq type="optional">gqview</packagereq>
+        <packagereq type="optional">graphviz</packagereq>
+        <packagereq type="optional">gwenview</packagereq>
+        <packagereq type="optional">inkscape</packagereq>
+        <packagereq type="optional">qiv</packagereq>
+        <packagereq type="optional">showimg</packagereq>
+        <packagereq type="optional">skencil</packagereq>
+        <packagereq type="optional">sodipodi</packagereq>
+        <packagereq type="optional">tuxpaint</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>mail-server</id>
+    <_name>Mail Server</_name>
+    <_description>These packages allow you to configure an IMAP or Postfix mail server.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">cyrus-imapd</packagereq>
+      <packagereq type="optional">enemies-of-carlotta</packagereq>
+      <packagereq type="optional">perl-Cyrus</packagereq>
+      <packagereq type="optional">clamav</packagereq>
+      <packagereq type="optional">clamav-data</packagereq>
+      <packagereq type="optional">clamav-milter</packagereq>
+      <packagereq type="optional">exim</packagereq>
+      <packagereq type="optional">exim-doc</packagereq>
+      <packagereq type="optional">pyzor</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>news-server</id>
+    <_name>News Server</_name>
+    <_description>This group allows you to configure the system as a news server.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">leafnode</packagereq>
+        <packagereq type="optional">suck</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>office</id>
+    <_name>Office/Productivity</_name>
+    <_description>The applications include office suites, PDF viewers, and more.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">abiword</packagereq>
+        <packagereq type="optional">aiksaurus-gtk</packagereq>
+        <packagereq type="optional">dia</packagereq>
+        <packagereq type="optional">gdeskcal</packagereq>
+        <packagereq type="optional">glabels</packagereq>
+        <packagereq type="optional">gnotime</packagereq>
+        <packagereq type="optional">gnumeric</packagereq>
+        <packagereq type="optional">gourmet</packagereq>
+        <packagereq type="optional">grisbi</packagereq>
+        <packagereq type="optional">gsview</packagereq>
+        <packagereq type="optional">koffice-suite</packagereq>
+        <packagereq type="optional">krecipes</packagereq>
+        <packagereq type="optional">lyx</packagereq>
+        <packagereq type="optional">notecase</packagereq>
+        <packagereq type="optional">notemeister</packagereq>
+        <packagereq type="optional">MagicPoint</packagereq>
+        <packagereq type="optional">qcad</packagereq>
+        <packagereq type="optional">xfcalendar</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>sound-and-video</id>
+    <_name>Sound and Video</_name>
+    <_description>From CD recording to playing audio CDs and multimedia files, this package group allows you to work with sound and video on the system.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">abcde</packagereq>
+        <packagereq type="optional">alsamixergui</packagereq>
+        <packagereq type="optional">akode</packagereq>
+        <packagereq type="optional">amarok</packagereq>
+        <packagereq type="optional">audacity</packagereq>
+        <packagereq type="optional">bmp</packagereq>
+        <packagereq type="optional">camstream</packagereq>
+        <packagereq type="optional">camE</packagereq>
+        <packagereq type="optional">easytag</packagereq>
+        <packagereq type="optional">gcfilms</packagereq>
+        <packagereq type="optional">gcombust</packagereq>
+        <packagereq type="optional">gnomad2</packagereq>
+        <packagereq type="optional">gnomebaker</packagereq>
+        <packagereq type="optional">graveman</packagereq>
+        <packagereq type="optional">grip</packagereq>
+        <packagereq type="optional">kover</packagereq>
+        <packagereq type="optional">soundtracker</packagereq>
+        <packagereq type="optional">xmms</packagereq>
+        <packagereq type="optional">xmms-cdread</packagereq>
+        <packagereq type="optional">xmms-flac</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>system-tools</id>
+    <_name>System Tools</_name>
+    <_description>This group is a collection of various tools for the system, such as the client for connecting to SMB shares and tools to monitor network traffic.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">aide</packagereq>
+        <packagereq type="optional">airsnort</packagereq>
+        <packagereq type="optional">apcupsd</packagereq>
+        <packagereq type="optional">apt</packagereq>
+        <packagereq type="optional">cfengine</packagereq>
+	<packagereq type="optional">cfs</packagereq>
+	<packagereq type="optional">dkms</packagereq>
+        <packagereq type="optional">epylog</packagereq>
+        <packagereq type="optional">fuse</packagereq>
+        <packagereq type="optional">fwbuilder</packagereq>
+        <packagereq type="optional">ghex</packagereq>
+        <packagereq type="optional">hercules</packagereq>
+        <packagereq type="optional">ibmonitor</packagereq>
+        <packagereq type="optional">lirc</packagereq>
+        <packagereq type="optional">moodss</packagereq>
+        <packagereq type="optional">nagios</packagereq>
+        <packagereq type="optional">rdiff-backup</packagereq>
+        <packagereq type="optional">sabayon</packagereq>
+        <packagereq type="optional">shorewall</packagereq>
+        <packagereq type="optional">snort</packagereq>
+        <packagereq type="optional">ttywatch</packagereq>
+        <packagereq type="optional">unison</packagereq>
+        <packagereq type="optional">vnstat</packagereq>
+        <packagereq type="optional">vpnc</packagereq>
+        <packagereq type="optional">wine</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>hardware-support</id>
+    <_name>Hardware Support</_name>
+    <_description>This group is a collection of tools for various hardware specific utilities.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">acpitool</packagereq>
+        <packagereq type="optional">i810switch</packagereq>
+        <packagereq type="optional">i8kutils</packagereq>
+        <packagereq type="optional">s3switch</packagereq>
+        <packagereq type="optional">tpb</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>network-server</id>
+    <_name>Network Servers</_name>
+    <_description>This group is a collection of network servers for specific purposes</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">flumotion</packagereq>
+        <packagereq type="optional">icecast</packagereq>
+        <packagereq type="optional">ircd-hybrid</packagereq>
+        <packagereq type="optional">jabberd</packagereq>
+        <packagereq type="optional">kannel</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>text-internet</id>
+    <_name>Text-based Internet</_name>
+    <_description>This group includes text-based email, Web, and chat clients. These applications do not require the X Window System.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">bittorrent</packagereq>
+        <packagereq type="optional">centericq</packagereq>
+        <packagereq type="optional">cone</packagereq>
+        <packagereq type="optional">elmo</packagereq>
+        <packagereq type="optional">irssi</packagereq>
+        <packagereq type="optional">naim</packagereq>
+        <packagereq type="optional">ncftp</packagereq>
+        <packagereq type="optional">nget</packagereq>
+        <packagereq type="optional">ninja</packagereq>
+        <packagereq type="optional">nmh</packagereq>
+        <packagereq type="optional">rtorrent</packagereq>
+        <packagereq type="optional">snownews</packagereq>
+        <packagereq type="optional">tin</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>web-server</id>
+    <_name>Web Server</_name>
+    <_description>These tools allow you to run a Web server on the system.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">apachetop</packagereq>
+        <packagereq type="optional">awstats</packagereq>
+        <packagereq type="optional">boa</packagereq>
+        <packagereq type="optional">lighttpd</packagereq>
+        <packagereq type="optional">lighttpd-fastcgi</packagereq>
+        <packagereq type="optional">mediawiki</packagereq>
+        <packagereq type="optional">moin</packagereq>
+        <packagereq type="optional">plone</packagereq>
+        <packagereq type="optional">thttpd</packagereq>
+        <packagereq type="optional">zope</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>xemacs</id>
+    <_name>XEmacs</_name>
+    <_description>The XEmacs text editor.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <grouplist>
+      <groupreq>base</groupreq>
+    </grouplist>
+    <packagelist>
+      <packagereq type="mandatory">xemacs</packagereq>
+      <packagereq type="default">xemacs-el</packagereq>
+      <packagereq type="default">xemacs-info</packagereq>
+      <packagereq type="default">xemacs-sumo</packagereq>
+      <packagereq type="optional">xemacs-sumo-el</packagereq>
+      <packagereq type="default">xemacs-sumo-info</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>xfce-desktop</id>
+    <_name>XFCE</_name>
+    <_description>A lightweight desktop environment that works well on low end machines.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">libxfce4mcs</packagereq>
+      <packagereq type="mandatory">libxfce4util</packagereq>
+      <packagereq type="mandatory">libxfcegui4</packagereq>
+      <packagereq type="default">xfce-mcs-manager</packagereq>
+      <packagereq type="default">xfce-mcs-plugins</packagereq>
+      <packagereq type="mandatory">xfce-utils</packagereq>
+      <packagereq type="default">xfce4-iconbox</packagereq>
+      <packagereq type="mandatory">xfce4-panel</packagereq>
+      <packagereq type="default">xfce4-systray</packagereq>
+      <packagereq type="mandatory">xfdesktop</packagereq>
+      <packagereq type="mandatory">xffm</packagereq>
+      <packagereq type="default">xffm-icons</packagereq>
+      <packagereq type="default">xfprint</packagereq>
+      <packagereq type="mandatory">xfwm4</packagereq>
+        <packagereq type="optional">xfce4-toys</packagereq>
+        <packagereq type="optional">xfwm4-themes</packagereq>
+      <packagereq type="default">xfwm4-themes</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>window-managers</id>
+    <_name>Window Managers</_name>
+    <_description>Simple window managers that aren't part of a larger desktop environment.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="optional">bbkeys</packagereq>
+        <packagereq type="optional">blackbox</packagereq>
+        <packagereq type="optional">fluxbox</packagereq>
+        <packagereq type="optional">fluxconf</packagereq>
+        <packagereq type="optional">hackedbox</packagereq>
+        <packagereq type="optional">WindowMaker</packagereq>
+        <packagereq type="optional">wmx</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>xfce-software-development</id>
+    <_name>XFCE Software Development</_name>
+    <_description>Install these packages in order to develop GTK+ and XFCE graphical applications.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <grouplist>
+      <groupreq>x-software-development</groupreq>
+    </grouplist>
+    <packagelist>
+      <packagereq type="default">glade2</packagereq>
+      <packagereq type="mandatory">glib2-devel</packagereq>
+      <packagereq type="mandatory">gtk-doc</packagereq>
+      <packagereq type="mandatory">gtk2-devel</packagereq>
+      <packagereq type="mandatory">libxfce4mcs-devel</packagereq>
+      <packagereq type="mandatory">libxfce4util-devel</packagereq>
+      <packagereq type="mandatory">libxfcegui4-devel</packagereq>
+      <packagereq type="default">pygtk2-devel</packagereq>
+      <packagereq type="mandatory">xfce-mcs-manager-devel</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>mail-server</id>
+    <_name>Mail Server</_name>
+    <_description>These packages allow you to configure an IMAP or SMTP mail server.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">amavisd-new</packagereq>
+      <packagereq type="optional">clamav</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>base-x</id>
+    <_name>X Window System</_name>
+    <_description>Install this group of packages to use the base graphical (X) user interface.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">aterm</packagereq>
+      <packagereq type="optional">fonttools</packagereq>
+      <packagereq type="optional">rxvt</packagereq>
+      <packagereq type="optional">xlockmore</packagereq>
+    </packagelist>
+  </group>
+
+
+  <group>
+    <id>kde-desktop</id>
+    <_name>KDE (K Desktop Environment)</_name>
+    <_description>KDE is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">basket</packagereq>
+      <packagereq type="optional">kickpim</packagereq>
+      <packagereq type="optional">kdissert</packagereq>
+      <packagereq type="optional">kbibtex</packagereq>
+      <packagereq type="optional">kiosktool</packagereq>
+      <packagereq type="optional">kmymoney2</packagereq>
+      <packagereq type="optional">kyum</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>kde-software-development</id>
+    <_name>KDE Software Development</_name>
+    <_description>Install these packages to develop QT and KDE graphical applications.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">gambas</packagereq>
+      <packagereq type="optional">kdesvn</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>admin-tools</id>
+    <_name>Administration Tools</_name>
+    <_description>This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">gparted</packagereq>
+      <packagereq type="optional">gsynaptics</packagereq>
+      <packagereq type="optional">qtparted</packagereq>
+      <packagereq type="optional">synaptic</packagereq>
+      <packagereq type="optional">system-config-control</packagereq>
+      <packagereq type="optional">yumex</packagereq>
+    </packagelist>
+  </group>
+
+
+  <group>
+    <id>java</id>
+    <_name>Java</_name>
+    <_description>Support for running programs written in the Java programming language.</_description>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">jikes</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+    <id>java-development</id>
+    <_name>Java Development</_name>
+    <_description>Support for developing programs in the Java programming language.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">jlint</packagereq>
+    </packagelist>
+  </group>
+
+  <category>
+    <id>desktops</id>
+    <_name>Desktop Environments</_name>
+    <_description>Desktop environments</_description>
+    <display_order>10</display_order>
+    <grouplist>
+      <groupid>xfce-desktop</groupid>
+    </grouplist>
+  </category>
+
+  <category>
+    <id>apps</id>
+    <_name>Applications</_name>
+    <_description>Applications for a variety of tasks</_description>
+    <display_order>20</display_order>
+    <grouplist>
+      <groupid>education</groupid>
+    </grouplist>
+  </category>
+
+  <category>
+    <id>base-system</id>
+    <_name>Base System</_name>
+    <_description>Various core pieces of the system.</_description>
+    <display_order>99</display_order>
+    <grouplist>
+      <groupid>hardware-support</groupid>
+    </grouplist>
+  </category>
+
+  <category>
+    <id>development</id>
+    <_name>Development</_name>
+    <_description>Packages which provide functionality for developing and building applications.</_description>
+    <display_order>70</display_order>
+    <grouplist>
+      <groupid>xfce-software-development</groupid>
+    </grouplist>
+  </category>
+
+  <category>
+    <id>servers</id>
+    <_name>Servers</_name>
+    <_description>Software used for running network servers</_description>
+    <display_order>90</display_order>
+    <grouplist>
+      <groupid>network-server</groupid>
+    </grouplist>
+  </category>
+</comps>

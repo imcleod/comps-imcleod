@@ -1,0 +1,21 @@
+#!/bin/sh 
+
+COMPSFILE=$1
+
+if [ -z "$COMPSFILE" ]; then
+    echo "Usage: $0 <compsfile>"
+    exit 1
+fi
+
+cd po
+POS=$(ls *.po)
+LANGS=
+for po in $POS ; do
+  lang=$(echo $po |sed s/\.po//)
+  echo -n "$lang: "
+  LANG=C intltool-update --gettext-package=comps $lang
+done
+
+cd ..
+LANG=C intltool-merge -x -u po/ $COMPSFILE.in $COMPSFILE
+
