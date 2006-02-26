@@ -10,7 +10,6 @@ clean:
 	@rm -fv *~
 
 %.xml: %.xml.in
-	python -c 'import libxml2; libxml2.parseFile("$<")'
 	./update-comps $@
 	@if [ "$@" == "$(RAWHIDECOMPS)" ] ; then \
 		cat $(RAWHIDECOMPS) | sed 's/redhat-release/rawhide-release/g' > comps-rawhide.xml ; \
