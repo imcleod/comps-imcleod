@@ -101,6 +101,7 @@
         <packagereq type="optional">blas</packagereq>
         <packagereq type="optional">galculator</packagereq>
         <packagereq type="optional">lapack</packagereq>
+        <packagereq type="optional">numpy</packagereq>
         <packagereq type="optional">octave</packagereq>
         <packagereq type="optional">qalculate-gtk</packagereq>
         <packagereq type="optional">qalculate-kde</packagereq>
@@ -133,19 +134,23 @@
         <packagereq type="optional">alacarte</packagereq>
         <packagereq type="optional">brightside</packagereq>
         <packagereq type="optional">byzanz</packagereq>
+        <packagereq type="optional">deskbar-applet</packagereq>
         <packagereq type="optional">gdesklets</packagereq>
         <packagereq type="optional">gfontview</packagereq>
         <packagereq type="optional">glunarclock</packagereq>
         <packagereq type="optional">gmpc</packagereq>
-        <packagereq type="optional">gnome-themes-clearlooks-bigpack</packagereq>
+        <packagereq type="optional">gnome-applet-rhythmbox</packagereq>
+        <packagereq type="optional">gnome-theme-clearlooks-bigpack</packagereq>
         <packagereq type="optional">gnome-themes-extras</packagereq>
         <packagereq type="optional">gnotime</packagereq>
         <packagereq type="optional">gtweakui</packagereq>
         <packagereq type="optional">istanbul</packagereq>
+        <packagereq type="optional">lock-keys-applet</packagereq>
         <packagereq type="optional">sabayon</packagereq>
         <packagereq type="optional">seahorse</packagereq>
         <packagereq type="optional">smeg</packagereq>
         <packagereq type="optional">themes-backgrounds-gnome</packagereq>
+        <packagereq type="optional">wp_tray</packagereq>
     </packagelist>
   </group>
 
@@ -167,6 +172,7 @@
         <packagereq type="optional">gtkalog</packagereq>
         <packagereq type="optional">gnome-vfsmm26-devel</packagereq>
         <packagereq type="optional">gquilt</packagereq>
+        <packagereq type="optional">libsexy-devel</packagereq>
     </packagelist>
   </group>
 
@@ -300,6 +306,7 @@
         <packagereq type="optional">blender</packagereq>
         <packagereq type="optional">digikam</packagereq>
         <packagereq type="optional">fontforge</packagereq>
+        <packagereq type="optional">fyre</packagereq>
         <packagereq type="optional">gpp</packagereq>
         <packagereq type="optional">gqview</packagereq>
         <packagereq type="optional">graphviz</packagereq>
@@ -395,6 +402,7 @@
         <packagereq type="optional">graveman</packagereq>
         <packagereq type="optional">grip</packagereq>
         <packagereq type="optional">kover</packagereq>
+        <packagereq type="optional">soundconverter</packagereq>
         <packagereq type="optional">soundtracker</packagereq>
         <packagereq type="optional">xmms</packagereq>
         <packagereq type="optional">xmms-cdread</packagereq>
@@ -419,6 +427,7 @@
         <packagereq type="optional">epylog</packagereq>
         <packagereq type="optional">fuse</packagereq>
         <packagereq type="optional">fwbuilder</packagereq>
+        <packagereq type="optional">ghasher</packagereq>
         <packagereq type="optional">ghex</packagereq>
         <packagereq type="optional">hercules</packagereq>
         <packagereq type="optional">ibmonitor</packagereq>
@@ -447,6 +456,7 @@
         <packagereq type="optional">acpitool</packagereq>
         <packagereq type="optional">i810switch</packagereq>
         <packagereq type="optional">i8kutils</packagereq>
+        <packagereq type="optional">libifp</packagereq>
         <packagereq type="optional">s3switch</packagereq>
         <packagereq type="optional">tpb</packagereq>
     </packagelist>
@@ -506,6 +516,7 @@
         <packagereq type="optional">moin</packagereq>
         <packagereq type="optional">plone</packagereq>
         <packagereq type="optional">thttpd</packagereq>
+        <packagereq type="optional">TurboGears</packagereq>
         <packagereq type="optional">zope</packagereq>
     </packagelist>
   </group>
@@ -614,6 +625,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="optional">alltray</packagereq>
       <packagereq type="optional">aterm</packagereq>
       <packagereq type="optional">fonttools</packagereq>
       <packagereq type="optional">rxvt</packagereq>
