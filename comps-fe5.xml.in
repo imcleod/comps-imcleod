@@ -108,6 +108,7 @@
         <packagereq type="optional">qalculate-gtk</packagereq>
         <packagereq type="optional">qalculate-kde</packagereq>
         <packagereq type="optional">qcad</packagereq>
+	<packagereq type="optional">qucs</packagereq>
         <packagereq type="optional">R</packagereq>
         <packagereq type="optional">R-gnomeGUI</packagereq>
         <packagereq type="optional">scalapack</packagereq>
@@ -246,6 +247,7 @@
     <uservisible>true</uservisible>
     <packagelist>
         <packagereq type="optional">drgeo</packagereq>
+	<packagereq type="optional">drgeo-doc</packagereq>
         <packagereq type="optional">gperiodic</packagereq>
         <packagereq type="optional">stellarium</packagereq>
         <packagereq type="optional">tuxtype2</packagereq>
@@ -414,6 +416,7 @@
         <packagereq type="optional">soundconverter</packagereq>
         <packagereq type="optional">soundtracker</packagereq>
 	<packagereq type="optional">tagtool</packagereq>
+	<packagereq type="optional">ushare</packagereq>
         <packagereq type="optional">xmms</packagereq>
         <packagereq type="optional">xmms-cdread</packagereq>
         <packagereq type="optional">xmms-flac</packagereq>
