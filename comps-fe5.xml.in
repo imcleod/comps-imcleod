@@ -687,6 +687,16 @@
   </group>
 
   <group>
+    <id>web-development</id>
+    <_name>Web Development</_name>
+    <_description>These packages are helpful when developing web applications or web pages.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+    </packagelist>
+  </group>
+
+  <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
     <_description>This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware.</_description>
@@ -762,6 +772,7 @@
     <display_order>70</display_order>
     <grouplist>
       <groupid>xfce-software-development</groupid>
+      <groupid>web-development</groupid>
     </grouplist>
   </category>
 
