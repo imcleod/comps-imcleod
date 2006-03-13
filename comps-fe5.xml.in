@@ -101,7 +101,9 @@
         <packagereq type="optional">blas</packagereq>
         <packagereq type="optional">cernlib-utils</packagereq>
         <packagereq type="optional">galculator</packagereq>
+        <packagereq type="optional">hmmer</packagereq>
         <packagereq type="optional">kst</packagereq>
+        <packagereq type="optional">lagan</packagereq>
         <packagereq type="optional">lapack</packagereq>
         <packagereq type="optional">numpy</packagereq>
         <packagereq type="optional">octave</packagereq>
@@ -112,6 +114,7 @@
         <packagereq type="optional">R</packagereq>
         <packagereq type="optional">R-gnomeGUI</packagereq>
         <packagereq type="optional">scalapack</packagereq>
+        <packagereq type="optional">SIBsim4</packagereq>
     </packagelist>
   </group>
 
@@ -436,6 +439,7 @@
         <packagereq type="optional">apt</packagereq>
         <packagereq type="optional">cfengine</packagereq>
 	<packagereq type="optional">cfs</packagereq>
+	<packagereq type="optional">crack</packagereq>
 	<packagereq type="optional">dkms</packagereq>
         <packagereq type="optional">epylog</packagereq>
         <packagereq type="optional">fuse</packagereq>
@@ -448,6 +452,7 @@
         <packagereq type="optional">moodss</packagereq>
         <packagereq type="optional">moomps</packagereq>
         <packagereq type="optional">nagios</packagereq>
+        <packagereq type="optional">nfswatch</packagereq>
         <packagereq type="optional">rdiff-backup</packagereq>
         <packagereq type="optional">sabayon</packagereq>
         <packagereq type="optional">shorewall</packagereq>
