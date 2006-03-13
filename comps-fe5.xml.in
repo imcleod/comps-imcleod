@@ -386,8 +386,6 @@
         <packagereq type="optional">MagicPoint</packagereq>
         <packagereq type="optional">pybliographer</packagereq>
         <packagereq type="optional">qcad</packagereq>
-        <packagereq type="optional">workrave</packagereq>
-        <packagereq type="optional">xfcalendar</packagereq>
     </packagelist>
   </group>
 
@@ -582,6 +580,7 @@
         <packagereq type="optional">xfce4-toys</packagereq>
         <packagereq type="optional">xfwm4-themes</packagereq>
       <packagereq type="default">xfwm4-themes</packagereq>
+        <packagereq type="optional">xfcalendar</packagereq>
     </packagelist>
   </group>
 
@@ -647,6 +646,7 @@
       <packagereq type="optional">aterm</packagereq>
       <packagereq type="optional">fonttools</packagereq>
       <packagereq type="optional">rxvt</packagereq>
+      <packagereq type="optional">workrave</packagereq>
       <packagereq type="optional">xlockmore</packagereq>
     </packagelist>
   </group>
