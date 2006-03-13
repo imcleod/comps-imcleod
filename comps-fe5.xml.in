@@ -102,10 +102,12 @@
         <packagereq type="optional">blas</packagereq>
         <packagereq type="optional">cernlib-utils</packagereq>
         <packagereq type="optional">galculator</packagereq>
+        <packagereq type="optional">gdl</packagereq>
         <packagereq type="optional">hmmer</packagereq>
         <packagereq type="optional">kst</packagereq>
         <packagereq type="optional">lagan</packagereq>
         <packagereq type="optional">lapack</packagereq>
+        <packagereq type="optional">ncarg</packagereq>
         <packagereq type="optional">numpy</packagereq>
         <packagereq type="optional">octave</packagereq>
         <packagereq type="optional">qalculate-gtk</packagereq>
@@ -322,6 +324,7 @@
         <packagereq type="optional">fontforge</packagereq>
         <packagereq type="optional">fyre</packagereq>
         <packagereq type="optional">grads</packagereq>
+        <packagereq type="optional">gv</packagereq>
         <packagereq type="optional">gpp</packagereq>
         <packagereq type="optional">gqview</packagereq>
         <packagereq type="optional">graphviz</packagereq>
@@ -444,6 +447,7 @@
 	<packagereq type="optional">cfs</packagereq>
 	<packagereq type="optional">crack</packagereq>
 	<packagereq type="optional">dkms</packagereq>
+        <packagereq type="optional">environment-modules</packagereq>
         <packagereq type="optional">epylog</packagereq>
         <packagereq type="optional">fuse</packagereq>
         <packagereq type="optional">fwbuilder</packagereq>
@@ -674,6 +678,7 @@
       <packagereq type="optional">kbibtex</packagereq>
       <packagereq type="optional">kiosktool</packagereq>
       <packagereq type="optional">kmymoney2</packagereq>
+      <packagereq type="optional">kompose</packagereq>
       <packagereq type="optional">kyum</packagereq>
     </packagelist>
   </group>
