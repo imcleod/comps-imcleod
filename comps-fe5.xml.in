@@ -563,8 +563,9 @@
     </grouplist>
     <packagelist>
       <packagereq type="mandatory">xemacs</packagereq>
-      <packagereq type="default">xemacs-el</packagereq>
+      <packagereq type="optional">xemacs-el</packagereq>
       <packagereq type="default">xemacs-info</packagereq>
+      <packagereq type="optional">xemacs-nox</packagereq>
       <packagereq type="default">xemacs-sumo</packagereq>
       <packagereq type="optional">xemacs-sumo-el</packagereq>
       <packagereq type="default">xemacs-sumo-info</packagereq>
