@@ -355,6 +355,7 @@
       <packagereq type="optional">clamav-milter</packagereq>
       <packagereq type="optional">exim</packagereq>
       <packagereq type="optional">exim-doc</packagereq>
+      <packagereq type="optional">mlmmj</packagereq>
       <packagereq type="optional">pyzor</packagereq>
     </packagelist>
   </group>
@@ -546,6 +547,9 @@
         <packagereq type="optional">lighttpd</packagereq>
         <packagereq type="optional">lighttpd-fastcgi</packagereq>
         <packagereq type="optional">mediawiki</packagereq>
+        <packagereq type="optional">mod_cband</packagereq>
+        <packagereq type="optional">mod_geoip</packagereq>
+        <packagereq type="optional">mod_security</packagereq>
         <packagereq type="optional">moin</packagereq>
         <packagereq type="optional">plone</packagereq>
         <packagereq type="optional">thttpd</packagereq>
