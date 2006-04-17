@@ -4,8 +4,8 @@
 
   <group>
     <id>authoring-and-publishing</id>
-    <name>Authoring and Publishing</name>
-    <description>These tools allow you to create documentation in the DocBook format and convert them to HTML, PDF, Postscript, and text.</description>
+    <_name>Authoring and Publishing</_name>
+    <_description>These tools allow you to create documentation in the DocBook format and convert them to HTML, PDF, Postscript, and text.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -17,8 +17,8 @@
 
   <group>
     <id>development-tools</id>
-    <name>Development Tools</name>
-    <description>These tools include core development tools such as automake, gcc, perl, python, and debuggers.</description>
+    <_name>Development Tools</_name>
+    <_description>These tools include core development tools such as automake, gcc, perl, python, and debuggers.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -65,7 +65,7 @@
 
   <group>
     <id>dialup</id>
-    <name>Dialup Networking Support</name>
+    <_name>Dialup Networking Support</_name>
     <description/>
     <default>true</default>
     <uservisible>false</uservisible>
@@ -76,8 +76,8 @@
 
   <group>
     <id>editors</id>
-    <name>Editors</name>
-    <description>Sometimes called text editors, these are programs that allow you to create and edit files. These include Emacs and Vi.</description>
+    <_name>Editors</_name>
+    <_description>Sometimes called text editors, these are programs that allow you to create and edit files. These include Emacs and Vi.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <grouplist>
@@ -94,8 +94,8 @@
 
   <group>
     <id>engineering-and-scientific</id>
-    <name>Engineering and Scientific</name>
-    <description>This group includes packages for performing mathematical and scientific computations and plotting, as well as unit conversion.</description>
+    <_name>Engineering and Scientific</_name>
+    <_description>This group includes packages for performing mathematical and scientific computations and plotting, as well as unit conversion.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -124,8 +124,8 @@
 
   <group>
     <id>ftp-server</id>
-    <name>FTP Server</name>
-    <description>These tools allow you to run an FTP server on the system.</description>
+    <_name>FTP Server</_name>
+    <_description>These tools allow you to run an FTP server on the system.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -136,8 +136,8 @@
 
   <group>
     <id>gnome-desktop</id>
-    <name>GNOME Desktop Environment</name>
-    <description>GNOME is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</description>
+    <_name>GNOME Desktop Environment</_name>
+    <_description>GNOME is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -169,8 +169,8 @@
 
   <group>
     <id>gnome-software-development</id>
-    <name>GNOME Software Development</name>
-    <description>Install these packages in order to develop GTK+ and GNOME graphical applications.</description>
+    <_name>GNOME Software Development</_name>
+    <_description>Install these packages in order to develop GTK+ and GNOME graphical applications.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -191,8 +191,8 @@
 
   <group>
     <id>games</id>
-    <name>Games and Entertainment</name>
-    <description>Various ways to relax and spend your free time.</description>
+    <_name>Games and Entertainment</_name>
+    <_description>Various ways to relax and spend your free time.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -260,8 +260,8 @@
 
   <group>
     <id>education</id>
-    <name>Educational Software</name>
-    <description>Educational software for learning</description>
+    <_name>Educational Software</_name>
+    <_description>Educational software for learning</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -275,8 +275,8 @@
 
   <group>
     <id>graphical-internet</id>
-    <name>Graphical Internet</name>
-    <description>This group includes graphical email, Web, and chat clients.</description>
+    <_name>Graphical Internet</_name>
+    <_description>This group includes graphical email, Web, and chat clients.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -326,8 +326,8 @@
 
   <group>
     <id>graphics</id>
-    <name>Graphics</name>
-    <description>This group includes packages to help you manipulate and scan images.</description>
+    <_name>Graphics</_name>
+    <_description>This group includes packages to help you manipulate and scan images.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -352,8 +352,8 @@
 
   <group>
     <id>mail-server</id>
-    <name>Mail Server</name>
-    <description>These packages allow you to configure an IMAP or Postfix mail server.</description>
+    <_name>Mail Server</_name>
+    <_description>These packages allow you to configure an IMAP or Postfix mail server.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -372,8 +372,8 @@
 
   <group>
     <id>news-server</id>
-    <name>News Server</name>
-    <description>This group allows you to configure the system as a news server.</description>
+    <_name>News Server</_name>
+    <_description>This group allows you to configure the system as a news server.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -384,8 +384,8 @@
 
   <group>
     <id>office</id>
-    <name>Office/Productivity</name>
-    <description>The applications include office suites, PDF viewers, and more.</description>
+    <_name>Office/Productivity</_name>
+    <_description>The applications include office suites, PDF viewers, and more.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -414,8 +414,8 @@
 
   <group>
     <id>sound-and-video</id>
-    <name>Sound and Video</name>
-    <description>From CD recording to playing audio CDs and multimedia files, this package group allows you to work with sound and video on the system.</description>
+    <_name>Sound and Video</_name>
+    <_description>From CD recording to playing audio CDs and multimedia files, this package group allows you to work with sound and video on the system.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -450,8 +450,8 @@
 
   <group>
     <id>system-tools</id>
-    <name>System Tools</name>
-    <description>This group is a collection of various tools for the system, such as the client for connecting to SMB shares and tools to monitor network traffic.</description>
+    <_name>System Tools</_name>
+    <_description>This group is a collection of various tools for the system, such as the client for connecting to SMB shares and tools to monitor network traffic.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -490,8 +490,8 @@
 
   <group>
     <id>hardware-support</id>
-    <name>Hardware Support</name>
-    <description>This group is a collection of tools for various hardware specific utilities.</description>
+    <_name>Hardware Support</_name>
+    <_description>This group is a collection of tools for various hardware specific utilities.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -506,8 +506,8 @@
 
   <group>
     <id>network-server</id>
-    <name>Network Servers</name>
-    <description>This group is a collection of network servers for specific purposes</description>
+    <_name>Network Servers</_name>
+    <_description>This group is a collection of network servers for specific purposes</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -522,8 +522,8 @@
 
   <group>
     <id>text-internet</id>
-    <name>Text-based Internet</name>
-    <description>This group includes text-based email, Web, and chat clients. These applications do not require the X Window System.</description>
+    <_name>Text-based Internet</_name>
+    <_description>This group includes text-based email, Web, and chat clients. These applications do not require the X Window System.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -546,8 +546,8 @@
 
   <group>
     <id>web-server</id>
-    <name>Web Server</name>
-    <description>These tools allow you to run a Web server on the system.</description>
+    <_name>Web Server</_name>
+    <_description>These tools allow you to run a Web server on the system.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -571,8 +571,8 @@
 
   <group>
     <id>xemacs</id>
-    <name>XEmacs</name>
-    <description>The XEmacs text editor.</description>
+    <_name>XEmacs</_name>
+    <_description>The XEmacs text editor.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <grouplist>
@@ -591,8 +591,8 @@
 
   <group>
     <id>xfce-desktop</id>
-    <name>XFCE</name>
-    <description>A lightweight desktop environment that works well on low end machines.</description>
+    <_name>XFCE</_name>
+    <_description>A lightweight desktop environment that works well on low end machines.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -619,8 +619,8 @@
 
   <group>
     <id>window-managers</id>
-    <name>Window Managers</name>
-    <description>Simple window managers that aren't part of a larger desktop environment.</description>
+    <_name>Window Managers</_name>
+    <_description>Simple window managers that aren't part of a larger desktop environment.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -636,8 +636,8 @@
 
   <group>
     <id>xfce-software-development</id>
-    <name>XFCE Software Development</name>
-    <description>Install these packages in order to develop GTK+ and XFCE graphical applications.</description>
+    <_name>XFCE Software Development</_name>
+    <_description>Install these packages in order to develop GTK+ and XFCE graphical applications.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <grouplist>
@@ -658,8 +658,8 @@
 
   <group>
     <id>mail-server</id>
-    <name>Mail Server</name>
-    <description>These packages allow you to configure an IMAP or SMTP mail server.</description>
+    <_name>Mail Server</_name>
+    <_description>These packages allow you to configure an IMAP or SMTP mail server.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -670,8 +670,8 @@
 
   <group>
     <id>base-x</id>
-    <name>X Window System</name>
-    <description>Install this group of packages to use the base graphical (X) user interface.</description>
+    <_name>X Window System</_name>
+    <_description>Install this group of packages to use the base graphical (X) user interface.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -687,8 +687,8 @@
 
   <group>
     <id>kde-desktop</id>
-    <name>KDE (K Desktop Environment)</name>
-    <description>KDE is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</description>
+    <_name>KDE (K Desktop Environment)</_name>
+    <_description>KDE is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -705,8 +705,8 @@
 
   <group>
     <id>kde-software-development</id>
-    <name>KDE Software Development</name>
-    <description>Install these packages to develop QT and KDE graphical applications.</description>
+    <_name>KDE Software Development</_name>
+    <_description>Install these packages to develop QT and KDE graphical applications.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -717,8 +717,8 @@
 
   <group>
     <id>web-development</id>
-    <name>Web Development</name>
-    <description>These packages are helpful when developing web applications or web pages.</description>
+    <_name>Web Development</_name>
+    <_description>These packages are helpful when developing web applications or web pages.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -727,8 +727,8 @@
 
   <group>
     <id>admin-tools</id>
-    <name>Administration Tools</name>
-    <description>This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware.</description>
+    <_name>Administration Tools</_name>
+    <_description>This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -743,8 +743,8 @@
 
   <group>
     <id>java</id>
-    <name>Java</name>
-    <description>Support for running programs written in the Java programming language.</description>
+    <_name>Java</_name>
+    <_description>Support for running programs written in the Java programming language.</_description>
     <default>true</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -754,8 +754,8 @@
 
   <group>
     <id>java-development</id>
-    <name>Java Development</name>
-    <description>Support for developing programs in the Java programming language.</description>
+    <_name>Java Development</_name>
+    <_description>Support for developing programs in the Java programming language.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -765,8 +765,8 @@
 
   <category>
     <id>desktops</id>
-    <name>Desktop Environments</name>
-    <description>Desktop environments</description>
+    <_name>Desktop Environments</_name>
+    <_description>Desktop environments</_description>
     <display_order>10</display_order>
     <grouplist>
       <groupid>xfce-desktop</groupid>
@@ -775,8 +775,8 @@
 
   <category>
     <id>apps</id>
-    <name>Applications</name>
-    <description>Applications for a variety of tasks</description>
+    <_name>Applications</_name>
+    <_description>Applications for a variety of tasks</_description>
     <display_order>20</display_order>
     <grouplist>
       <groupid>education</groupid>
@@ -785,8 +785,8 @@
 
   <category>
     <id>base-system</id>
-    <name>Base System</name>
-    <description>Various core pieces of the system.</description>
+    <_name>Base System</_name>
+    <_description>Various core pieces of the system.</_description>
     <display_order>99</display_order>
     <grouplist>
       <groupid>hardware-support</groupid>
@@ -795,8 +795,8 @@
 
   <category>
     <id>development</id>
-    <name>Development</name>
-    <description>Packages which provide functionality for developing and building applications.</description>
+    <_name>Development</_name>
+    <_description>Packages which provide functionality for developing and building applications.</_description>
     <display_order>70</display_order>
     <grouplist>
       <groupid>xfce-software-development</groupid>
@@ -806,8 +806,8 @@
 
   <category>
     <id>servers</id>
-    <name>Servers</name>
-    <description>Software used for running network servers</description>
+    <_name>Servers</_name>
+    <_description>Software used for running network servers</_description>
     <display_order>90</display_order>
     <grouplist>
       <groupid>network-server</groupid>
