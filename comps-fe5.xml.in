@@ -206,7 +206,6 @@
         <packagereq type="optional">bzflag</packagereq>
         <packagereq type="optional">celestia</packagereq>
         <packagereq type="optional">cgoban</packagereq>
-        <packagereq type="optional">childsplay</packagereq>
         <packagereq type="optional">crystal-stacker</packagereq>
         <packagereq type="optional">crystal-stacker-themes</packagereq>
         <packagereq type="optional">csmash</packagereq>
@@ -272,6 +271,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+        <packagereq type="optional">childsplay</packagereq>
         <packagereq type="optional">drgeo</packagereq>
         <packagereq type="optional">drgeo-doc</packagereq>
         <packagereq type="optional">gcompris</packagereq>
