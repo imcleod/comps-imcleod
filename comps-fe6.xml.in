@@ -31,6 +31,7 @@
         <packagereq type="optional">bzr</packagereq>
         <packagereq type="optional">ccache</packagereq>
         <packagereq type="optional">clisp</packagereq>
+        <packagereq type="optional">cmake</packagereq>
         <packagereq type="optional">cogito</packagereq>
         <packagereq type="optional">colordiff</packagereq>
         <packagereq type="optional">cpan2rpm</packagereq>
@@ -41,8 +42,9 @@
         <packagereq type="optional">darcs</packagereq>
         <packagereq type="optional">epydoc</packagereq>
         <packagereq type="optional">erlang</packagereq>
-        <packagereq type="optional">flasm</packagereq>
         <packagereq type="optional">fedora-rpmdevtools</packagereq>
+        <packagereq type="optional">flasm</packagereq>
+        <packagereq type="optional">ftnchek</packagereq>
         <packagereq type="optional">fpc</packagereq>
         <packagereq type="optional">gauche</packagereq>
         <packagereq type="optional">gforth</packagereq>
@@ -118,6 +120,8 @@
         <packagereq type="optional">cernlib-utils</packagereq>
         <packagereq type="optional">galculator</packagereq>
         <packagereq type="optional">gdl</packagereq>
+        <packagereq type="optional">hdf</packagereq>
+        <packagereq type="optional">hdf5</packagereq>
         <packagereq type="optional">hmmer</packagereq>
         <packagereq type="optional">kst</packagereq>
         <packagereq type="optional">lagan</packagereq>
@@ -125,6 +129,7 @@
         <packagereq type="optional">ncarg</packagereq>
         <packagereq type="optional">numpy</packagereq>
         <packagereq type="optional">octave</packagereq>
+        <packagereq type="optional">paraview</packagereq>
         <packagereq type="optional">qalculate-gtk</packagereq>
         <packagereq type="optional">qalculate-kde</packagereq>
         <packagereq type="optional">qcad</packagereq>
@@ -740,6 +745,7 @@
       <packagereq type="optional">kiosktool</packagereq>
       <packagereq type="optional">kmymoney2</packagereq>
       <packagereq type="optional">kompose</packagereq>
+      <packagereq type="optional">ksynaptics</packagereq>
       <packagereq type="optional">kyum</packagereq>
     </packagelist>
   </group>
