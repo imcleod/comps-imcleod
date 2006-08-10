@@ -212,11 +212,14 @@
     <uservisible>true</uservisible>
     <packagelist>
         <packagereq type="optional">abe</packagereq>
+        <packagereq type="optional">auriferous</packagereq>
         <packagereq type="optional">blobwars</packagereq>
         <packagereq type="optional">bsd-games</packagereq>
         <packagereq type="optional">bzflag</packagereq>
         <packagereq type="optional">celestia</packagereq>
         <packagereq type="optional">cgoban</packagereq>
+        <packagereq type="optional">chess</packagereq>
+        <packagereq type="optional">clanbomber</packagereq>
         <packagereq type="optional">crossfire-client</packagereq>
         <packagereq type="optional">crystal-stacker</packagereq>
         <packagereq type="optional">crystal-stacker-themes</packagereq>
@@ -242,6 +245,7 @@
         <packagereq type="optional">lmarbles</packagereq>
         <packagereq type="optional">lucidlife</packagereq>
         <packagereq type="optional">Maelstrom</packagereq>
+        <packagereq type="optional">monkey-bubble</packagereq>
         <packagereq type="optional">nazghul-haxima</packagereq>
         <packagereq type="optional">nethack</packagereq>
         <packagereq type="optional">nethack-vultures</packagereq>
@@ -249,6 +253,7 @@
         <packagereq type="optional">nexuiz</packagereq>
         <packagereq type="optional">njam</packagereq>
         <packagereq type="optional">overgod</packagereq>
+        <packagereq type="optional">pingus</packagereq>
         <packagereq type="optional">pipenightdreams</packagereq>
         <packagereq type="optional">powermanga</packagereq>
         <packagereq type="optional">ppracer</packagereq>
@@ -263,6 +268,7 @@
         <packagereq type="optional">sirius</packagereq>
         <packagereq type="optional">sopwith</packagereq>
         <packagereq type="optional">starfighter</packagereq>
+        <packagereq type="optional">sturmbahnfahrer</packagereq>
         <packagereq type="optional">supertux</packagereq>
         <packagereq type="optional">tong</packagereq>
         <packagereq type="optional">torcs</packagereq>
@@ -487,6 +493,7 @@
         <packagereq type="optional">aide</packagereq>
         <packagereq type="optional">airsnort</packagereq>
         <packagereq type="optional">apcupsd</packagereq>
+        <packagereq type="optional">bochs</packagereq>
         <packagereq type="optional">cfengine</packagereq>
         <packagereq type="optional">cfs</packagereq>
         <packagereq type="optional">crack</packagereq>
@@ -497,7 +504,9 @@
         <packagereq type="optional">fwbuilder</packagereq>
         <packagereq type="optional">ghasher</packagereq>
         <packagereq type="optional">ghex</packagereq>
+        <packagereq type="optional">gkrellm</packagereq>
         <packagereq type="optional">gtklp</packagereq>
+        <packagereq type="optional">gtkterm</packagereq>
         <packagereq type="optional">hercules</packagereq>
         <packagereq type="optional">ibmonitor</packagereq>
         <packagereq type="optional">inadyn</packagereq>
