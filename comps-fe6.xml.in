@@ -553,6 +553,8 @@
         <packagereq type="optional">smart-gui</packagereq>
         <packagereq type="optional">snort</packagereq>
         <packagereq type="optional">synaptic</packagereq>
+        <packagereq type="optional">torque-client</packagereq>
+        <packagereq type="optional">torque-gui</packagereq>
         <packagereq type="optional">ttywatch</packagereq>
         <packagereq type="optional">unison</packagereq>
         <packagereq type="optional">vnstat</packagereq>
@@ -591,6 +593,7 @@
         <packagereq type="optional">jabberd</packagereq>
         <packagereq type="optional">kannel</packagereq>
         <packagereq type="optional">ushare</packagereq>
+        <packagereq type="optional">torque-server</packagereq>
     </packagelist>
   </group>
 
