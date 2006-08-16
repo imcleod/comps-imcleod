@@ -571,6 +571,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+        <packagereq type="optional">ctrlproxy</packagereq>
         <packagereq type="optional">flumotion</packagereq>
         <packagereq type="optional">icecast</packagereq>
         <packagereq type="optional">ircd-hybrid</packagereq>
