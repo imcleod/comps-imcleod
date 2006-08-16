@@ -656,10 +656,12 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+        <packagereq type="optional">argus</packagereq>
         <packagereq type="optional">bittorrent</packagereq>
         <packagereq type="optional">centericq</packagereq>
         <packagereq type="optional">cone</packagereq>
         <packagereq type="optional">elmo</packagereq>
+        <packagereq type="optional">iperf</packagereq>
         <packagereq type="optional">irssi</packagereq>
         <packagereq type="optional">libtranslate</packagereq>
         <packagereq type="optional">nail</packagereq>
