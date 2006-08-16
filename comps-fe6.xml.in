@@ -359,6 +359,7 @@
         <packagereq type="optional">galeon</packagereq>
         <packagereq type="optional">gnome-blog</packagereq>
         <packagereq type="optional">gnome-telnet</packagereq>
+        <packagereq type="optional">gnome-translate</packagereq>
         <packagereq type="optional">gossip</packagereq>
         <packagereq type="optional">gtk-gnutella</packagereq>
         <packagereq type="optional">gwget</packagereq>
@@ -444,6 +445,7 @@
     <uservisible>true</uservisible>
     <packagelist>
         <packagereq type="optional">leafnode</packagereq>
+        <packagereq type="optional">newscache</packagereq>
         <packagereq type="optional">suck</packagereq>
     </packagelist>
   </group>
@@ -497,6 +499,7 @@
         <packagereq type="optional">bmp</packagereq>
         <packagereq type="optional">camstream</packagereq>
         <packagereq type="optional">camE</packagereq>
+        <packagereq type="optional">dvdisaster</packagereq>
         <packagereq type="optional">easytag</packagereq>
         <packagereq type="optional">gcdmaster</packagereq>
         <packagereq type="optional">gcfilms</packagereq>
@@ -542,6 +545,7 @@
         <packagereq type="optional">connect-proxy</packagereq>
         <packagereq type="optional">crack</packagereq>
         <packagereq type="optional">dkms</packagereq>
+        <packagereq type="optional">enca</packagereq>
         <packagereq type="optional">environment-modules</packagereq>
         <packagereq type="optional">epylog</packagereq>
         <packagereq type="optional">fedora-package-config-apt</packagereq>
@@ -613,6 +617,7 @@
         <packagereq type="optional">dnsmasq</packagereq>
         <packagereq type="optional">flumotion</packagereq>
         <packagereq type="optional">icecast</packagereq>
+        <packagereq type="optional">ipxripd</packagereq>
         <packagereq type="optional">ircd-hybrid</packagereq>
         <packagereq type="optional">jabberd</packagereq>
         <packagereq type="optional">kannel</packagereq>
@@ -634,6 +639,8 @@
         <packagereq type="optional">cone</packagereq>
         <packagereq type="optional">elmo</packagereq>
         <packagereq type="optional">irssi</packagereq>
+        <packagereq type="optional">libtranslate</packagereq>
+        <packagereq type="optional">nail</packagereq>
         <packagereq type="optional">naim</packagereq>
         <packagereq type="optional">ncftp</packagereq>
         <packagereq type="optional">nget</packagereq>
@@ -667,6 +674,7 @@
         <packagereq type="optional">moin</packagereq>
         <packagereq type="optional">plone</packagereq>
         <packagereq type="optional">php-pecl-apc</packagereq>
+        <packagereq type="optional">phpldapadmin</packagereq>
         <packagereq type="optional">tclhttpd</packagereq>
         <packagereq type="optional">thttpd</packagereq>
         <packagereq type="optional">TurboGears</packagereq>
