@@ -513,6 +513,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+        <packagereq type="optional">ez-ipupdate</packagereq>
         <packagereq type="optional">flumotion</packagereq>
         <packagereq type="optional">icecast</packagereq>
         <packagereq type="optional">ircd-hybrid</packagereq>
@@ -683,6 +684,7 @@
       <packagereq type="optional">rxvt</packagereq>
       <packagereq type="optional">workrave</packagereq>
       <packagereq type="optional">xlockmore</packagereq>
+      <packagereq type="optional">xwrits</packagereq>
     </packagelist>
   </group>
 
