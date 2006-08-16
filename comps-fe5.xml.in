@@ -9,9 +9,11 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+        <packagereq type="optional">BibTool</packagereq>
         <packagereq type="optional">conglomerate</packagereq>
         <packagereq type="optional">docbook2X</packagereq>
         <packagereq type="optional">kile</packagereq>
+        <packagereq type="optional">ooo2txt</packagereq>
         <packagereq type="optional">scribus</packagereq>
     </packagelist>
   </group>
@@ -26,6 +28,7 @@
         <packagereq type="optional">abicheck</packagereq>
 	<packagereq type="optional">aplus-fsf</packagereq>
         <packagereq type="optional">archmage</packagereq>
+        <packagereq type="optional">asa</packagereq>
         <packagereq type="optional">bazaar</packagereq>
         <packagereq type="optional">bigloo</packagereq>
         <packagereq type="optional">bzr</packagereq>
@@ -411,6 +414,7 @@
       <packagereq type="optional">clamav</packagereq>
       <packagereq type="optional">clamav-data</packagereq>
       <packagereq type="optional">clamav-milter</packagereq>
+      <packagereq type="optional">esmtp</packagereq>
       <packagereq type="optional">exim</packagereq>
       <packagereq type="optional">exim-doc</packagereq>
       <packagereq type="optional">mlmmj</packagereq>
@@ -458,6 +462,7 @@
         <packagereq type="optional">qcad</packagereq>
         <packagereq type="optional">revelation</packagereq>
         <packagereq type="optional">texmaker</packagereq>
+        <packagereq type="optional">xchm</packagereq>
     </packagelist>
   </group>
 
