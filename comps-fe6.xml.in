@@ -134,6 +134,7 @@
         <packagereq type="optional">gdl</packagereq>
         <packagereq type="optional">gnucap</packagereq>
         <packagereq type="optional">grads</packagereq>
+        <packagereq type="optional">gtkwave</packagereq>
         <packagereq type="optional">hdf</packagereq>
         <packagereq type="optional">hdf5</packagereq>
         <packagereq type="optional">hmmer</packagereq>
@@ -370,6 +371,7 @@
         <packagereq type="optional">gnome-translate</packagereq>
         <packagereq type="optional">gossip</packagereq>
         <packagereq type="optional">gtk-gnutella</packagereq>
+        <packagereq type="optional">gtorrentviewer</packagereq>
         <packagereq type="optional">gwget</packagereq>
         <packagereq type="optional">kickpim</packagereq>
         <packagereq type="optional">konversation</packagereq>
@@ -440,8 +442,10 @@
       <packagereq type="optional">esmtp</packagereq>
       <packagereq type="optional">exim</packagereq>
       <packagereq type="optional">exim-doc</packagereq>
+      <packagereq type="optional">milter-regex</packagereq>
       <packagereq type="optional">mlmmj</packagereq>
       <packagereq type="optional">pyzor</packagereq>
+      <packagereq type="optional">spamass-milter</packagereq>
     </packagelist>
   </group>
 
@@ -566,6 +570,7 @@
         <packagereq type="optional">ghex</packagereq>
         <packagereq type="optional">gkrellm</packagereq>
         <packagereq type="optional">gnokii</packagereq>
+        <packagereq type="optional">grepmail</packagereq>
         <packagereq type="optional">gtklp</packagereq>
         <packagereq type="optional">gtkterm</packagereq>
         <packagereq type="optional">hercules</packagereq>
@@ -637,9 +642,10 @@
         <packagereq type="optional">kannel</packagereq>
         <packagereq type="optional">l2tpd</packagereq>
         <packagereq type="optional">nsd</packagereq>
-        <packagereq type="optional">ushare</packagereq>
-        <packagereq type="optional">torque-server</packagereq>
+        <packagereq type="optional">rbldnsd</packagereq>
         <packagereq type="optional">sobby</packagereq>
+        <packagereq type="optional">torque-server</packagereq>
+        <packagereq type="optional">ushare</packagereq>
     </packagelist>
   </group>
 
@@ -870,6 +876,7 @@
     <packagelist>
       <packagereq type="optional">gparted</packagereq>
       <packagereq type="optional">gsynaptics</packagereq>
+      <packagereq type="optional">lat</packagereq>
       <packagereq type="optional">qtparted</packagereq>
       <packagereq type="optional">system-config-control</packagereq>
       <packagereq type="optional">yumex</packagereq>
