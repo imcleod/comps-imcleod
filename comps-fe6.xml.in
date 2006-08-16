@@ -480,6 +480,7 @@
     <uservisible>true</uservisible>
     <packagelist>
         <packagereq type="optional">abcde</packagereq>
+        <packagereq type="optional">adplay</packagereq>
         <packagereq type="optional">alsamixergui</packagereq>
         <packagereq type="optional">akode</packagereq>
         <packagereq type="optional">amarok</packagereq>
@@ -500,12 +501,14 @@
         <packagereq type="optional">kid3</packagereq>
         <packagereq type="optional">kover</packagereq>
         <packagereq type="optional">libvisual-plugins</packagereq>
+	<packagereq type="optional">nomadsync</packagereq>
         <packagereq type="optional">soundconverter</packagereq>
         <packagereq type="optional">soundtracker</packagereq>
         <packagereq type="optional">sweep</packagereq>
         <packagereq type="optional">tagtool</packagereq>
         <packagereq type="optional">ushare</packagereq>
         <packagereq type="optional">xmms</packagereq>
+        <packagereq type="optional">xmms-adplug</packagereq>
         <packagereq type="optional">xmms-cdread</packagereq>
         <packagereq type="optional">xmms-flac</packagereq>
     </packagelist>
@@ -541,6 +544,7 @@
         <packagereq type="optional">ghasher</packagereq>
         <packagereq type="optional">ghex</packagereq>
         <packagereq type="optional">gkrellm</packagereq>
+        <packagereq type="optional">gnokii</packagereq>
         <packagereq type="optional">gtklp</packagereq>
         <packagereq type="optional">gtkterm</packagereq>
         <packagereq type="optional">hercules</packagereq>
