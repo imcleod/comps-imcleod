@@ -12,9 +12,11 @@
         <packagereq type="optional">BibTool</packagereq>
         <packagereq type="optional">conglomerate</packagereq>
         <packagereq type="optional">docbook2X</packagereq>
+        <packagereq type="optional">html401-dtds</packagereq>
         <packagereq type="optional">kile</packagereq>
         <packagereq type="optional">ooo2txt</packagereq>
         <packagereq type="optional">scribus</packagereq>
+        <packagereq type="optional">w3c-markup-validator</packagereq>
     </packagelist>
   </group>
 
@@ -41,13 +43,15 @@
         <packagereq type="optional">cppunit</packagereq>
         <packagereq type="optional">cproto</packagereq>
         <packagereq type="optional">curry</packagereq>
+        <packagereq type="optional">cvs2cl</packagereq>
         <packagereq type="optional">cvs2svn</packagereq>
+        <packagereq type="optional">cvsgraph</packagereq>
+        <packagereq type="optional">cvsplot</packagereq>
         <packagereq type="optional">cvsps</packagereq>
         <packagereq type="optional">cvsweb</packagereq>
         <packagereq type="optional">darcs</packagereq>
         <packagereq type="optional">epydoc</packagereq>
         <packagereq type="optional">erlang</packagereq>
-        <packagereq type="optional">fedora-rpmdevtools</packagereq>
         <packagereq type="optional">flasm</packagereq>
         <packagereq type="optional">ftnchek</packagereq>
         <packagereq type="optional">fpc</packagereq>
@@ -70,17 +74,21 @@
         <packagereq type="optional">mock</packagereq>
         <packagereq type="optional">monotone</packagereq>
         <packagereq type="optional">ocaml</packagereq>
+        <packagereq type="optional">perltidy</packagereq>
         <packagereq type="optional">pgadmin3</packagereq>
         <packagereq type="optional">pl</packagereq>
         <packagereq type="optional">plt-scheme</packagereq>
+        <packagereq type="optional">pscan</packagereq>
         <packagereq type="optional">pylint</packagereq>
         <packagereq type="optional">q</packagereq>
         <packagereq type="optional">qgit</packagereq>
         <packagereq type="optional">quilt</packagereq>
+        <packagereq type="optional">rpmdevtools</packagereq>
         <packagereq type="optional">rpmlint</packagereq>
         <packagereq type="optional">splint</packagereq>
         <packagereq type="optional">Sprog</packagereq>
         <packagereq type="optional">srecord</packagereq>
+        <packagereq type="optional">svn2cl</packagereq>
         <packagereq type="optional">svnmailer</packagereq>
         <packagereq type="optional">tkcvs</packagereq>
         <packagereq type="optional">tla</packagereq>
@@ -530,6 +538,7 @@
         <packagereq type="optional">gnomebaker</packagereq>
         <packagereq type="optional">graveman</packagereq>
         <packagereq type="optional">grip</packagereq>
+        <packagereq type="optional">id3v2</packagereq>
         <packagereq type="optional">jack-audio-connection-kit</packagereq>
         <packagereq type="optional">kid3</packagereq>
         <packagereq type="optional">kover</packagereq>
@@ -560,6 +569,7 @@
         <packagereq type="optional">apt</packagereq>
         <packagereq type="optional">arc</packagereq>
         <packagereq type="optional">bochs</packagereq>
+        <packagereq type="optional">cabextract</packagereq>
         <packagereq type="optional">chrpath</packagereq>
         <packagereq type="optional">cfengine</packagereq>
         <packagereq type="optional">cfs</packagereq>
@@ -589,6 +599,7 @@
         <packagereq type="optional">isic</packagereq>
         <packagereq type="optional">john</packagereq>
         <packagereq type="optional">ksmarttray</packagereq>
+        <packagereq type="optional">lft</packagereq>
         <packagereq type="optional">lirc</packagereq>
         <packagereq type="optional">mmv</packagereq>
         <packagereq type="optional">moodss</packagereq>
@@ -615,6 +626,7 @@
         <packagereq type="optional">torque-gui</packagereq>
         <packagereq type="optional">ttywatch</packagereq>
         <packagereq type="optional">unison</packagereq>
+        <packagereq type="optional">upx</packagereq>
         <packagereq type="optional">vnstat</packagereq>
         <packagereq type="optional">vpnc</packagereq>
         <packagereq type="optional">wine</packagereq>
@@ -630,9 +642,12 @@
     <uservisible>true</uservisible>
     <packagelist>
         <packagereq type="optional">acpitool</packagereq>
+        <packagereq type="optional">hddtemp</packagereq>
         <packagereq type="optional">i810switch</packagereq>
         <packagereq type="optional">i8kutils</packagereq>
         <packagereq type="optional">libifp</packagereq>
+        <packagereq type="optional">openct</packagereq>
+        <packagereq type="optional">opensc</packagereq>
         <packagereq type="optional">s3switch</packagereq>
         <packagereq type="optional">tpb</packagereq>
     </packagelist>
@@ -860,6 +875,7 @@
       <packagereq type="optional">kmymoney2</packagereq>
       <packagereq type="optional">knemo</packagereq>
       <packagereq type="optional">kompose</packagereq>
+      <packagereq type="optional">ksensors</packagereq>
       <packagereq type="optional">ksynaptics</packagereq>
       <packagereq type="optional">kyum</packagereq>
       <packagereq type="optional">metamonitor</packagereq>
