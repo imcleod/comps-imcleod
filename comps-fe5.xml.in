@@ -712,9 +712,15 @@
       <packagereq type="default">xfce-mcs-manager</packagereq>
       <packagereq type="default">xfce-mcs-plugins</packagereq>
       <packagereq type="mandatory">xfce-utils</packagereq>
+      <packagereq type="default">xfce4-appfinder</packagereq>
       <packagereq type="default">xfce4-iconbox</packagereq>
+      <packagereq type="default">xfce4-icon-theme</packagereq>
+      <packagereq type="default">xfce4-mixer</packagereq>
       <packagereq type="mandatory">xfce4-panel</packagereq>
+      <packagereq type='mandatory">xfce4-session</packagereq>
+      <packagereq type='mandatory">xfce4-session-engines</packagereq>
       <packagereq type="default">xfce4-systray</packagereq>
+      <packagereq type='default">xfce4-trigger-launcher</packagereq>
       <packagereq type="mandatory">xfdesktop</packagereq>
       <packagereq type="mandatory">xffm</packagereq>
       <packagereq type="default">xffm-icons</packagereq>
@@ -763,6 +769,8 @@
       <packagereq type="mandatory">libxfce4mcs-devel</packagereq>
       <packagereq type="mandatory">libxfce4util-devel</packagereq>
       <packagereq type="mandatory">libxfcegui4-devel</packagereq>
+      <packagereq type="mandatory">xfce4-panel-devel</packagereq>
+      <packagereq type="mandatory">xfce4-session-devel</packagereq>
       <packagereq type="default">pygtk2-devel</packagereq>
       <packagereq type="mandatory">xfce-mcs-manager-devel</packagereq>
     </packagelist>
