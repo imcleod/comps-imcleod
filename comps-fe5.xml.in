@@ -221,6 +221,7 @@
         <packagereq type="optional">gnome-vfsmm26-devel</packagereq>
         <packagereq type="optional">gquilt</packagereq>
         <packagereq type="optional">libsexy-devel</packagereq>
+        <packagereq type="optional">libsexymm-devel</packagereq>
     </packagelist>
   </group>
 
@@ -301,7 +302,7 @@
         <packagereq type="optional">trackballs</packagereq>
         <packagereq type="optional">trackballs-music</packagereq>
         <packagereq type="optional">tuxkart</packagereq>
-	<packagereq type="optional">tuxpuck</packagereq>
+        <packagereq type="optional">tuxpuck</packagereq>
         <packagereq type="optional">ularn</packagereq>
         <packagereq type="optional">uqm</packagereq>
         <packagereq type="optional">viruskiller</packagereq>
@@ -312,7 +313,7 @@
         <packagereq type="optional">xarchon</packagereq>
         <packagereq type="optional">xboard</packagereq>
         <packagereq type="optional">xgalaxy</packagereq>
-	<packagereq type="optional">xmoto</packagereq>
+        <packagereq type="optional">xmoto</packagereq>
         <packagereq type="optional">xpilot-ng</packagereq>
         <packagereq type="optional">xplanet</packagereq>
         <packagereq type="optional">xscorch</packagereq>
@@ -367,7 +368,7 @@
         <packagereq type="optional">gtk-gnutella</packagereq>
         <packagereq type="optional">gtorrentviewer</packagereq>
         <packagereq type="optional">gwget</packagereq>
-	<packagereq type="optional">kadu</packagereq>
+        <packagereq type="optional">kadu</packagereq>
         <packagereq type="optional">kickpim</packagereq>
         <packagereq type="optional">konversation</packagereq>
         <packagereq type="optional">kphone</packagereq>
@@ -609,7 +610,7 @@
     <uservisible>true</uservisible>
     <packagelist>
         <packagereq type="optional">flumotion</packagereq>
-	<packagereq type="optional">freenx</packagereq>
+        <packagereq type="optional">freenx</packagereq>
         <packagereq type="optional">icecast</packagereq>
         <packagereq type="optional">ipxripd</packagereq>
         <packagereq type="optional">ircd-hybrid</packagereq>
@@ -729,10 +730,10 @@
       <packagereq type="default">xffm-icons</packagereq>
       <packagereq type="default">xfprint</packagereq>
       <packagereq type="mandatory">xfwm4</packagereq>
-        <packagereq type="optional">xfce4-toys</packagereq>
-        <packagereq type="optional">xfwm4-themes</packagereq>
+      <packagereq type="optional">xfce4-toys</packagereq>
+      <packagereq type="optional">xfwm4-themes</packagereq>
       <packagereq type="default">xfwm4-themes</packagereq>
-        <packagereq type="optional">xfcalendar</packagereq>
+      <packagereq type="optional">xfcalendar</packagereq>
     </packagelist>
   </group>
 

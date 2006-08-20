@@ -28,7 +28,7 @@
     <uservisible>true</uservisible>
     <packagelist>
         <packagereq type="optional">abicheck</packagereq>
-	<packagereq type="optional">aplus-fsf</packagereq>
+        <packagereq type="optional">aplus-fsf</packagereq>
         <packagereq type="optional">archmage</packagereq>
         <packagereq type="optional">asa</packagereq>
         <packagereq type="optional">bazaar</packagereq>
@@ -61,7 +61,7 @@
         <packagereq type="optional">ghc</packagereq>
         <packagereq type="optional">git</packagereq>
         <packagereq type="optional">gphpedit</packagereq>
-	<packagereq type='optional'>gprolog</packagereq>
+        <packagereq type='optional'>gprolog</packagereq>
         <packagereq type="optional">haddock</packagereq>
         <packagereq type="optional">highlight</packagereq>
         <packagereq type="optional">hugs98</packagereq>
@@ -169,7 +169,7 @@
         <packagereq type="optional">rrdtool</packagereq>
         <packagereq type="optional">scalapack</packagereq>
         <packagereq type="optional">SIBsim4</packagereq>
-	<packagereq type="optional">veusz</packagereq>
+        <packagereq type="optional">veusz</packagereq>
     </packagelist>
   </group>
 
@@ -261,7 +261,7 @@
         <packagereq type="optional">auriferous</packagereq>
         <packagereq type="optional">blobwars</packagereq>
         <packagereq type="optional">bsd-games</packagereq>
-	<packagereq type="optional">bygfoot</packagereq>
+        <packagereq type="optional">bygfoot</packagereq>
         <packagereq type="optional">bzflag</packagereq>
         <packagereq type="optional">celestia</packagereq>
         <packagereq type="optional">cgoban</packagereq>
@@ -299,12 +299,12 @@
         <packagereq type="optional">nazghul-haxima</packagereq>
         <packagereq type="optional">nethack</packagereq>
         <packagereq type="optional">nethack-vultures</packagereq>
-	<packagereq type="optional">netpanzer</packagereq>
+        <packagereq type="optional">netpanzer</packagereq>
         <packagereq type="optional">neverball</packagereq>
         <packagereq type="optional">nexuiz</packagereq>
         <packagereq type="optional">njam</packagereq>
         <packagereq type="optional">overgod</packagereq>
-	<packagereq type="optional">pengupop</packagereq>
+        <packagereq type="optional">pengupop</packagereq>
         <packagereq type="optional">pinball</packagereq>
         <packagereq type="optional">pingus</packagereq>
         <packagereq type="optional">pipenightdreams</packagereq>
@@ -328,7 +328,7 @@
         <packagereq type="optional">trackballs</packagereq>
         <packagereq type="optional">trackballs-music</packagereq>
         <packagereq type="optional">tuxkart</packagereq>
-	<packagereq type="optional">tuxpuck</packagereq>
+        <packagereq type="optional">tuxpuck</packagereq>
         <packagereq type="optional">ularn</packagereq>
         <packagereq type="optional">uqm</packagereq>
         <packagereq type="optional">viruskiller</packagereq>
@@ -339,7 +339,7 @@
         <packagereq type="optional">xarchon</packagereq>
         <packagereq type="optional">xboard</packagereq>
         <packagereq type="optional">xgalaxy</packagereq>
-	<packagereq type="optional">xmoto</packagereq>
+        <packagereq type="optional">xmoto</packagereq>
         <packagereq type="optional">xpilot-ng</packagereq>
         <packagereq type="optional">xplanet</packagereq>
         <packagereq type="optional">xscorch</packagereq>
@@ -395,7 +395,7 @@
         <packagereq type="optional">gtk-gnutella</packagereq>
         <packagereq type="optional">gtorrentviewer</packagereq>
         <packagereq type="optional">gwget</packagereq>
-	<packagereq type="optional">kadu</packagereq>
+        <packagereq type="optional">kadu</packagereq>
         <packagereq type="optional">kickpim</packagereq>
         <packagereq type="optional">knetstats</packagereq>
         <packagereq type="optional">konversation</packagereq>
@@ -555,7 +555,7 @@
         <packagereq type="optional">kid3</packagereq>
         <packagereq type="optional">kover</packagereq>
         <packagereq type="optional">libvisual-plugins</packagereq>
-	<packagereq type="optional">nomadsync</packagereq>
+		<packagereq type="optional">nomadsync</packagereq>
         <packagereq type="optional">soundconverter</packagereq>
         <packagereq type="optional">soundtracker</packagereq>
         <packagereq type="optional">sweep</packagereq>
@@ -677,7 +677,7 @@
         <packagereq type="optional">ctrlproxy</packagereq>
         <packagereq type="optional">dnsmasq</packagereq>
         <packagereq type="optional">flumotion</packagereq>
-	<packagereq type="optional">freenx</packagereq>	
+        <packagereq type="optional">freenx</packagereq>	
         <packagereq type="optional">icecast</packagereq>
         <packagereq type="optional">ipxripd</packagereq>
         <packagereq type="optional">ircd-hybrid</packagereq>
@@ -804,10 +804,10 @@
       <packagereq type="default">xffm-icons</packagereq>
       <packagereq type="default">xfprint</packagereq>
       <packagereq type="mandatory">xfwm4</packagereq>
-        <packagereq type="optional">xfce4-toys</packagereq>
-        <packagereq type="optional">xfwm4-themes</packagereq>
+      <packagereq type="optional">xfce4-toys</packagereq>
+      <packagereq type="optional">xfwm4-themes</packagereq>
       <packagereq type="default">xfwm4-themes</packagereq>
-        <packagereq type="optional">xfcalendar</packagereq>
+      <packagereq type="optional">xfcalendar</packagereq>
     </packagelist>
   </group>
 
