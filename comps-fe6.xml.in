@@ -667,6 +667,8 @@
     <uservisible>true</uservisible>
     <packagelist>
         <packagereq type="optional">acpitool</packagereq>
+        <packagereq type="optional">gpsd</packagereq>
+        <packagereq type="optional">gpsd-clients</packagereq>
         <packagereq type="optional">hddtemp</packagereq>
         <packagereq type="optional">i810switch</packagereq>
         <packagereq type="optional">i8kutils</packagereq>
