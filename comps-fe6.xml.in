@@ -460,10 +460,11 @@
   <group>
     <id>mail-server</id>
     <_name>Mail Server</_name>
-    <_description>These packages allow you to configure an IMAP or Postfix mail server.</_description>
+    <_description>These packages allow you to configure an IMAP or SMTP mail server.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="optional">amavisd-new</packagereq>
       <packagereq type="optional">cyrus-imapd</packagereq>
       <packagereq type="optional">enemies-of-carlotta</packagereq>
       <packagereq type="optional">perl-Cyrus</packagereq>
@@ -562,7 +563,7 @@
         <packagereq type="optional">kid3</packagereq>
         <packagereq type="optional">kover</packagereq>
         <packagereq type="optional">libvisual-plugins</packagereq>
-		<packagereq type="optional">nomadsync</packagereq>
+        <packagereq type="optional">nomadsync</packagereq>
         <packagereq type="optional">soundconverter</packagereq>
         <packagereq type="optional">soundtracker</packagereq>
         <packagereq type="optional">sweep</packagereq>
@@ -629,6 +630,7 @@
         <packagereq type="optional">nagios</packagereq>
         <packagereq type="optional">nfswatch</packagereq>
         <packagereq type="optional">oddjob</packagereq>
+        <packagereq type="optional">p7zip</packagereq>
         <packagereq type="optional">par2cmdline</packagereq>
         <packagereq type="optional">pbzip2</packagereq>
         <packagereq type="optional">puppet</packagereq>
@@ -687,7 +689,7 @@
         <packagereq type="optional">ctrlproxy</packagereq>
         <packagereq type="optional">dnsmasq</packagereq>
         <packagereq type="optional">flumotion</packagereq>
-        <packagereq type="optional">freenx</packagereq>	
+        <packagereq type="optional">freenx</packagereq>
         <packagereq type="optional">icecast</packagereq>
         <packagereq type="optional">ipxripd</packagereq>
         <packagereq type="optional">ircd-hybrid</packagereq>
@@ -695,11 +697,13 @@
         <packagereq type="optional">kannel</packagereq>
         <packagereq type="optional">l2tpd</packagereq>
         <packagereq type="optional">nsd</packagereq>
+        <packagereq type="optional">oidentd</packagereq>
         <packagereq type="optional">openvpn</packagereq>
         <packagereq type="optional">puppet-server</packagereq>
         <packagereq type="optional">rbldnsd</packagereq>
         <packagereq type="optional">sobby</packagereq>
         <packagereq type="optional">torque-server</packagereq>
+        <packagereq type="optional">ucarp</packagereq>
         <packagereq type="optional">ushare</packagereq>
         <packagereq type="optional">vnc-reflector</packagereq>
     </packagelist>
@@ -861,18 +865,6 @@
       <packagereq type="mandatory">xfce4-session-devel</packagereq>
       <packagereq type="default">pygtk2-devel</packagereq>
       <packagereq type="mandatory">xfce-mcs-manager-devel</packagereq>
-    </packagelist>
-  </group>
-
-  <group>
-    <id>mail-server</id>
-    <_name>Mail Server</_name>
-    <_description>These packages allow you to configure an IMAP or SMTP mail server.</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="optional">amavisd-new</packagereq>
-      <packagereq type="optional">clamav</packagereq>
     </packagelist>
   </group>
 
