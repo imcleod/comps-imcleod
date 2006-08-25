@@ -203,6 +203,7 @@
         <packagereq type="optional">deskbar-applet</packagereq>
         <packagereq type="optional">gdesklets</packagereq>
         <packagereq type="optional">gfontview</packagereq>
+	<packagereq type="optional">glipper</packagereq>
         <packagereq type="optional">glunarclock</packagereq>
         <packagereq type="optional">gnochm</packagereq>
         <packagereq type="optional">gmpc</packagereq>
@@ -218,7 +219,7 @@
         <packagereq type="optional">nautilus-image-converter</packagereq>
         <packagereq type="optional">nautilus-open-terminal</packagereq>
         <packagereq type="optional">nautilus-search-tool</packagereq>
-        <packagereq type="optional">sabayon</packagereq>
+	<packagereq type="optional">sabayon</packagereq>
         <packagereq type="optional">seahorse</packagereq>
         <packagereq type="optional">smeg</packagereq>
         <packagereq type="optional">themes-backgrounds-gnome</packagereq>
@@ -399,6 +400,7 @@
         <packagereq type="optional">gnome-blog</packagereq>
         <packagereq type="optional">gnome-telnet</packagereq>
         <packagereq type="optional">gnome-translate</packagereq>
+	<packagereq type="optional">gnubiff</packagereq>
         <packagereq type="optional">gossip</packagereq>
         <packagereq type="optional">gtk-gnutella</packagereq>
         <packagereq type="optional">gtorrentviewer</packagereq>
@@ -958,12 +960,13 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">gparted</packagereq>
-      <packagereq type="optional">gsynaptics</packagereq>
-      <packagereq type="optional">lat</packagereq>
-      <packagereq type="optional">qtparted</packagereq>
-      <packagereq type="optional">system-config-control</packagereq>
-      <packagereq type="optional">yumex</packagereq>
+	<packagereq type="optional">gparted</packagereq>
+	<packagereq type="optional">gsynaptics</packagereq>
+	<packagereq type="optional">lat</packagereq>
+	<packagereq type="optional">pessulus</packagereq>
+	<packagereq type="optional">qtparted</packagereq>
+	<packagereq type="optional">system-config-control</packagereq>
+	<packagereq type="optional">yumex</packagereq>
     </packagelist>
   </group>
 
