@@ -157,6 +157,7 @@
         <packagereq type="optional">R-gnomeGUI</packagereq>
         <packagereq type="optional">scalapack</packagereq>
         <packagereq type="optional">SIBsim4</packagereq>
+        <packagereq type="optional">xdrawchem</packagereq>
     </packagelist>
   </group>
 
@@ -451,6 +452,7 @@
       <packagereq type="optional">clamav</packagereq>
       <packagereq type="optional">clamav-data</packagereq>
       <packagereq type="optional">clamav-milter</packagereq>
+      <packagereq type="optional">crm114</packagereq>
       <packagereq type="optional">esmtp</packagereq>
       <packagereq type="optional">exim</packagereq>
       <packagereq type="optional">exim-doc</packagereq>
@@ -492,6 +494,7 @@
         <packagereq type="optional">gramps</packagereq>
         <packagereq type="optional">grisbi</packagereq>
         <packagereq type="optional">gsview</packagereq>
+        <packagereq type="optional">hnb</packagereq>
         <packagereq type="optional">koffice-suite</packagereq>
         <packagereq type="optional">krecipes</packagereq>
         <packagereq type="optional">lyx</packagereq>
@@ -654,6 +657,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+        <packagereq type="optional">abook</packagereq>
         <packagereq type="optional">argus</packagereq>
         <packagereq type="optional">bittorrent</packagereq>
         <packagereq type="optional">centericq</packagereq>
