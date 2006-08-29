@@ -976,4 +976,17 @@
       <groupid>network-server</groupid>
     </grouplist>
   </category>
+
+  <group>
+    <id>japanese-support</id>
+    <_name>Japanese Support</_name>
+    <_description>This group is a collection of tools and resources of Japanese environments.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">scim-input-pad</packagereq>
+      <packagereq type="optional">scim-skk</packagereq>
+      <packagereq type="optional">scim-tomoe</packagereq>
+    </packagelist>
+  </group>
 </comps>
