@@ -634,6 +634,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+        <packagereq type="optional">ejabberd</packagereq>
         <packagereq type="optional">flumotion</packagereq>
         <packagereq type="optional">freenx</packagereq>
         <packagereq type="optional">icecast</packagereq>
