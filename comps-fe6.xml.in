@@ -65,13 +65,13 @@
         <packagereq type="optional">ghc</packagereq>
         <packagereq type="optional">git</packagereq>
         <packagereq type="optional">gphpedit</packagereq>
-        <packagereq type='optional'>gprolog</packagereq>
+        <packagereq type="optional">gprolog</packagereq>
         <packagereq type="optional">haddock</packagereq>
         <packagereq type="optional">highlight</packagereq>
         <packagereq type="optional">hugs98</packagereq>
         <packagereq type="optional">ipython</packagereq>
         <packagereq type="optional">kuipc</packagereq>
-        <packagereq type='optional'>lightning</packagereq>
+        <packagereq type="optional">lightning</packagereq>
         <packagereq type="optional">lcov</packagereq>
         <packagereq type="optional">lincvs</packagereq>
         <packagereq type="optional">lua</packagereq>
@@ -150,6 +150,7 @@
     <packagelist>
         <packagereq type="optional">blacs</packagereq>
         <packagereq type="optional">blas</packagereq>
+        <packagereq type="optional">cdo</packagereq>
         <packagereq type="optional">cernlib-utils</packagereq>
         <packagereq type="optional">galculator</packagereq>
         <packagereq type="optional">gdl</packagereq>
@@ -158,6 +159,7 @@
         <packagereq type="optional">gnucap</packagereq>
         <packagereq type="optional">grads</packagereq>
         <packagereq type="optional">gtkwave</packagereq>
+        <packagereq type="optional">gts</packagereq>
         <packagereq type="optional">hdf</packagereq>
         <packagereq type="optional">hdf5</packagereq>
         <packagereq type="optional">hmmer</packagereq>
@@ -166,8 +168,12 @@
         <packagereq type="optional">lagan</packagereq>
         <packagereq type="optional">lapack</packagereq>
         <packagereq type="optional">ncarg</packagereq>
+        <packagereq type="optional">ncview</packagereq>
+        <packagereq type="optional">nco</packagereq>
+        <packagereq type="optional">netcdf</packagereq>
         <packagereq type="optional">numpy</packagereq>
         <packagereq type="optional">octave</packagereq>
+        <packagereq type="optional">osiv</packagereq>
         <packagereq type="optional">paraview</packagereq>
         <packagereq type="optional">paw</packagereq>
         <packagereq type="optional">pcb</packagereq>
@@ -179,6 +185,7 @@
         <packagereq type="optional">R-gnomeGUI</packagereq>
         <packagereq type="optional">rrdtool</packagereq>
         <packagereq type="optional">scalapack</packagereq>
+        <packagereq type="optional">scrip</packagereq>
         <packagereq type="optional">SIBsim4</packagereq>
         <packagereq type="optional">veusz</packagereq>
         <packagereq type="optional">xcircuit</packagereq>
@@ -689,6 +696,7 @@
         <packagereq type="optional">upx</packagereq>
         <packagereq type="optional">vnstat</packagereq>
         <packagereq type="optional">vpnc</packagereq>
+        <packagereq type="optional">wifiroamd</packagereq>
         <packagereq type="optional">wine</packagereq>
         <packagereq type="optional">x3270-x11</packagereq>
     </packagelist>
@@ -798,6 +806,7 @@
         <packagereq type="optional">mod_geoip</packagereq>
         <packagereq type="optional">mod_security</packagereq>
         <packagereq type="optional">moin</packagereq>
+        <packagereq type="optional">moin-latex</packagereq>
         <packagereq type="optional">namazu</packagereq>
         <packagereq type="optional">perl-HTML-Mason</packagereq>
         <packagereq type="optional">perl-Kwiki</packagereq>
