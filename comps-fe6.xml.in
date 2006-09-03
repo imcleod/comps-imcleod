@@ -18,6 +18,28 @@
     </packagelist>
   </group>
   <group>
+    <id>arabic-support</id>
+    <_name>Arabic Support</_name>
+    <_description>This group is a collection of tools and resources of Arabic environments.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">dejavu-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>armenian-support</id>
+    <_name>Armenian Support</_name>
+    <_description>This group is a collection of tools and resources of Armenian environments.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">dejavu-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>authoring-and-publishing</id>
     <_name>Authoring and Publishing</_name>
     <_description>These tools allow you to create documentation in the DocBook format and convert them to HTML, PDF, Postscript, and text.</_description>
@@ -537,6 +559,17 @@
       <packagereq type="optional">opensc</packagereq>
       <packagereq type="optional">s3switch</packagereq>
       <packagereq type="optional">tpb</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>hebrew-support</id>
+    <_name>Hebrew Support</_name>
+    <_description>This group is a collection of tools and resources of Hebrew environments.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">dejavu-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
     </packagelist>
   </group>
   <group>
