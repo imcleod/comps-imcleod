@@ -17,6 +17,28 @@
     </packagelist>
   </group>
   <group>
+    <id>arabic-support</id>
+    <_name>Arabic Support</_name>
+    <_description>This group is a collection of tools and resources of Arabic environments.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">dejavu-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>armenian-support</id>
+    <_name>Armenian Support</_name>
+    <_description>This group is a collection of tools and resources of Armenian environments.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">dejavu-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>authoring-and-publishing</id>
     <_name>Authoring and Publishing</_name>
     <_description>These tools allow you to create documentation in the DocBook format and convert them to HTML, PDF, Postscript, and text.</_description>
@@ -41,6 +63,8 @@
     <packagelist>
       <packagereq type="optional">alltray</packagereq>
       <packagereq type="optional">aterm</packagereq>
+      <packagereq type="optional">dejavu-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">efont-unicode-bdf</packagereq>
       <packagereq type="optional">fonttools</packagereq>
       <packagereq type="optional">rss-glx</packagereq>
@@ -483,6 +507,17 @@
     </packagelist>
   </group>
   <group>
+    <id>hebrew-support</id>
+    <_name>Hebrew Support</_name>
+    <_description>This group is a collection of tools and resources of Hebrew environments.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">dejavu-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>japanese-support</id>
     <_name>Japanese Support</_name>
     <_description>This group is a collection of tools and resources of Japanese environments.</_description>
@@ -708,6 +743,7 @@
       <packagereq type="optional">environment-modules</packagereq>
       <packagereq type="optional">epylog</packagereq>
       <packagereq type="optional">fatsort</packagereq>
+      <packagereq type="optional">freeze</packagereq>
       <packagereq type="optional">fuse</packagereq>
       <packagereq type="optional">fwbuilder</packagereq>
       <packagereq type="optional">ghasher</packagereq>
@@ -723,10 +759,12 @@
       <packagereq type="optional">jfbterm</packagereq>
       <packagereq type="optional">keychain</packagereq>
       <packagereq type="optional">lirc</packagereq>
+      <packagereq type="optional">lzop</packagereq>
       <packagereq type="optional">moodss</packagereq>
       <packagereq type="optional">moomps</packagereq>
       <packagereq type="optional">nagios</packagereq>
       <packagereq type="optional">nfswatch</packagereq>
+      <packagereq type="optional">nomarch</packagereq>
       <packagereq type="optional">oddjob</packagereq>
       <packagereq type="optional">pbzip2</packagereq>
       <packagereq type="optional">puppet</packagereq>
