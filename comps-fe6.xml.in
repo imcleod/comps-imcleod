@@ -145,6 +145,7 @@
       <packagereq type="optional">monotone</packagereq>
       <packagereq type="optional">nqc</packagereq>
       <packagereq type="optional">ocaml</packagereq>
+      <packagereq type="optional">patchy</packagereq>
       <packagereq type="optional">perltidy</packagereq>
       <packagereq type="optional">pgadmin3</packagereq>
       <packagereq type="optional">pl</packagereq>
@@ -549,6 +550,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
       <packagereq type="optional">gpsd</packagereq>
       <packagereq type="optional">gpsd-clients</packagereq>
