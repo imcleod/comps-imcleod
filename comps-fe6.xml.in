@@ -997,11 +997,13 @@
     <packagelist>
       <packagereq type="mandatory">xemacs</packagereq>
       <packagereq type="default">xemacs-info</packagereq>
-      <packagereq type="default">xemacs-sumo</packagereq>
-      <packagereq type="default">xemacs-sumo-info</packagereq>
+      <packagereq type="default">xemacs-packages-base</packagereq>
+      <packagereq type="default">xemacs-packages-extra</packagereq>
+      <packagereq type="default">xemacs-packages-extra-info</packagereq>
       <packagereq type="optional">xemacs-el</packagereq>
       <packagereq type="optional">xemacs-nox</packagereq>
-      <packagereq type="optional">xemacs-sumo-el</packagereq>
+      <packagereq type="optional">xemacs-packages-base-el</packagereq>
+      <packagereq type="optional">xemacs-packages-extra-el</packagereq>
     </packagelist>
   </group>
   <group>
