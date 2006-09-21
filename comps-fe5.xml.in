@@ -50,6 +50,7 @@
       <packagereq type="optional">docbook2X</packagereq>
       <packagereq type="optional">kile</packagereq>
       <packagereq type="optional">ooo2txt</packagereq>
+      <packagereq type="optional">pydot</packagereq>
       <packagereq type="optional">python-docutils</packagereq>
       <packagereq type="optional">scribus</packagereq>
     </packagelist>
@@ -71,6 +72,7 @@
       <packagereq type="optional">rss-glx-xscreensaver</packagereq>
       <packagereq type="optional">rxvt</packagereq>
       <packagereq type="optional">workrave</packagereq>
+      <packagereq type="optional">xkeycaps</packagereq>
       <packagereq type="optional">xlockmore</packagereq>
     </packagelist>
   </group>
@@ -117,12 +119,14 @@
       <packagereq type="optional">gputils</packagereq>
       <packagereq type="optional">highlight</packagereq>
       <packagereq type="optional">hugs98</packagereq>
+      <packagereq type="optional">jam</packagereq>
       <packagereq type="optional">kuipc</packagereq>
       <packagereq type="optional">lcov</packagereq>
       <packagereq type="optional">lightning</packagereq>
       <packagereq type="optional">lincvs</packagereq>
       <packagereq type="optional">lua</packagereq>
       <packagereq type="optional">mach</packagereq>
+      <packagereq type="optional">mcrypt</packagereq>
       <packagereq type="optional">meld</packagereq>
       <packagereq type="optional">mercurial</packagereq>
       <packagereq type="optional">mock</packagereq>
@@ -146,6 +150,7 @@
       <packagereq type="optional">tla</packagereq>
       <packagereq type="optional">tolua++</packagereq>
       <packagereq type="optional">ucblogo</packagereq>
+      <packagereq type="optional">xbsql</packagereq>
       <packagereq type="optional">yap</packagereq>
       <packagereq type="optional">yasm</packagereq>
     </packagelist>
@@ -229,7 +234,7 @@
       <packagereq type="optional">qcad</packagereq>
       <packagereq type="optional">qucs</packagereq>
       <packagereq type="optional">R</packagereq>
-      <packagereq type="optional">R-gnomeGUI</packagereq>
+      <packagereq type="optional">R-RScaLAPACK</packagereq>
       <packagereq type="optional">scalapack</packagereq>
       <packagereq type="optional">SIBsim4</packagereq>
       <packagereq type="optional">xdrawchem</packagereq>
@@ -301,6 +306,7 @@
       <packagereq type="optional">neverball</packagereq>
       <packagereq type="optional">nexuiz</packagereq>
       <packagereq type="optional">njam</packagereq>
+      <packagereq type="optional">oneko</packagereq>
       <packagereq type="optional">overgod</packagereq>
       <packagereq type="optional">pengupop</packagereq>
       <packagereq type="optional">pinball</packagereq>
@@ -488,6 +494,7 @@
       <packagereq type="optional">gwenview</packagereq>
       <packagereq type="optional">inkscape</packagereq>
       <packagereq type="optional">k3d</packagereq>
+      <packagereq type="optional">pydot</packagereq>
       <packagereq type="optional">qiv</packagereq>
       <packagereq type="optional">renrot</packagereq>
       <packagereq type="optional">showimg</packagereq>
@@ -580,6 +587,7 @@
       <packagereq type="optional">ksynaptics</packagereq>
       <packagereq type="optional">kyum</packagereq>
       <packagereq type="optional">metamonitor</packagereq>
+      <packagereq type="optional">rekall</packagereq>
       <packagereq type="optional">rss-glx-kde</packagereq>
       <packagereq type="optional">smb4k</packagereq>
     </packagelist>
@@ -750,6 +758,7 @@
       <packagereq type="optional">crack</packagereq>
       <packagereq type="optional">denyhosts</packagereq>
       <packagereq type="optional">dkms</packagereq>
+      <packagereq type="optional">ebtables</packagereq>
       <packagereq type="optional">enca</packagereq>
       <packagereq type="optional">environment-modules</packagereq>
       <packagereq type="optional">epylog</packagereq>
@@ -764,6 +773,7 @@
       <packagereq type="optional">grepmail</packagereq>
       <packagereq type="optional">gtklp</packagereq>
       <packagereq type="optional">gtkterm</packagereq>
+      <packagereq type="optional">gxemul</packagereq>
       <packagereq type="optional">hercules</packagereq>
       <packagereq type="optional">hfsplus-tools</packagereq>
       <packagereq type="optional">ibmonitor</packagereq>
@@ -775,6 +785,7 @@
       <packagereq type="optional">moodss</packagereq>
       <packagereq type="optional">moomps</packagereq>
       <packagereq type="optional">nagios</packagereq>
+      <packagereq type="optional">netgo</packagereq>
       <packagereq type="optional">nfswatch</packagereq>
       <packagereq type="optional">nomarch</packagereq>
       <packagereq type="optional">oddjob</packagereq>
@@ -782,9 +793,12 @@
       <packagereq type="optional">puppet</packagereq>
       <packagereq type="optional">qstat</packagereq>
       <packagereq type="optional">rdiff-backup</packagereq>
+      <packagereq type="optional">rootsh</packagereq>
       <packagereq type="optional">sabayon</packagereq>
+      <packagereq type="optional">scrub</packagereq>
       <packagereq type="optional">shorewall</packagereq>
       <packagereq type="optional">snort</packagereq>
+      <packagereq type="optional">stripesnoop</packagereq>
       <packagereq type="optional">swaks</packagereq>
       <packagereq type="optional">swatch</packagereq>
       <packagereq type="optional">syslog-ng</packagereq>
@@ -793,7 +807,9 @@
       <packagereq type="optional">unison</packagereq>
       <packagereq type="optional">vnstat</packagereq>
       <packagereq type="optional">vpnc</packagereq>
+      <packagereq type="optional">wlassistant</packagereq>
       <packagereq type="optional">wine</packagereq>
+      <packagereq type="optional">xsupplicant</packagereq>
     </packagelist>
   </group>
   <group>
