@@ -49,6 +49,7 @@
       <packagereq type="optional">conglomerate</packagereq>
       <packagereq type="optional">docbook2X</packagereq>
       <packagereq type="optional">kile</packagereq>
+      <packagereq type="optional">lilypond</packagereq>
       <packagereq type="optional">ooo2txt</packagereq>
       <packagereq type="optional">pydot</packagereq>
       <packagereq type="optional">python-docutils</packagereq>
@@ -209,6 +210,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="optional">atlas</packagereq>
       <packagereq type="optional">blacs</packagereq>
       <packagereq type="optional">blas</packagereq>
       <packagereq type="optional">cernlib-utils</packagereq>
@@ -229,6 +231,7 @@
       <packagereq type="optional">ncarg</packagereq>
       <packagereq type="optional">numpy</packagereq>
       <packagereq type="optional">octave</packagereq>
+      <packagereq type="optional">octave-forge</packagereq>
       <packagereq type="optional">paraview</packagereq>
       <packagereq type="optional">paw</packagereq>
       <packagereq type="optional">qalculate-gtk</packagereq>
