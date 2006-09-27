@@ -89,6 +89,16 @@
     </packagelist>
   </group>
   <group>
+    <id>czech-support</id>
+    <_name>Czech Support</_name>
+    <_description>This group is a collection of tools and resources of Czech environments.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-dict-cs_CZ</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>development-tools</id>
     <_name>Development Tools</_name>
     <_description>These tools include core development tools such as automake, gcc, perl, python, and debuggers.</_description>
