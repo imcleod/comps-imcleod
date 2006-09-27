@@ -55,6 +55,7 @@
       <packagereq type="optional">python-docutils</packagereq>
       <packagereq type="optional">scribus</packagereq>
       <packagereq type="optional">tetex-eurofont</packagereq>
+      <packagereq type="optional">tetex-prosper</packagereq>
     </packagelist>
   </group>
   <group>
@@ -150,6 +151,7 @@
       <packagereq type="optional">splint</packagereq>
       <packagereq type="optional">srecord</packagereq>
       <packagereq type="optional">svnmailer</packagereq>
+      <packagereq type="optional">sysconftool</packagereq>
       <packagereq type="optional">tkcvs</packagereq>
       <packagereq type="optional">tla</packagereq>
       <packagereq type="optional">tolua++</packagereq>
@@ -216,6 +218,8 @@
       <packagereq type="optional">blacs</packagereq>
       <packagereq type="optional">blas</packagereq>
       <packagereq type="optional">cernlib-utils</packagereq>
+      <packagereq type="optional">dx</packagereq>
+      <packagereq type="optional">dx-samples</packagereq>
       <packagereq type="optional">galculator</packagereq>
       <packagereq type="optional">gdl</packagereq>
       <packagereq type="optional">geant321</packagereq>
@@ -234,6 +238,7 @@
       <packagereq type="optional">numpy</packagereq>
       <packagereq type="optional">octave</packagereq>
       <packagereq type="optional">octave-forge</packagereq>
+      <packagereq type="optional">openbabel</packagereq>
       <packagereq type="optional">paraview</packagereq>
       <packagereq type="optional">paw</packagereq>
       <packagereq type="optional">qalculate-gtk</packagereq>
@@ -450,6 +455,7 @@
       <packagereq type="optional">gaim-gaym</packagereq>
       <packagereq type="optional">gajim</packagereq>
       <packagereq type="optional">galeon</packagereq>
+      <packagereq type="optional">gg2</packagereq>
       <packagereq type="optional">gnome-blog</packagereq>
       <packagereq type="optional">gnome-telnet</packagereq>
       <packagereq type="optional">gnome-translate</packagereq>
@@ -725,6 +731,7 @@
       <packagereq type="optional">bmp</packagereq>
       <packagereq type="optional">camE</packagereq>
       <packagereq type="optional">camstream</packagereq>
+      <packagereq type="optional">cdlabelgen</packagereq>
       <packagereq type="optional">dvdisaster</packagereq>
       <packagereq type="optional">easytag</packagereq>
       <packagereq type="optional">gcdmaster</packagereq>
@@ -733,12 +740,14 @@
       <packagereq type="optional">glrellmms</packagereq>
       <packagereq type="optional">gnomad2</packagereq>
       <packagereq type="optional">gnomebaker</packagereq>
+      <packagereq type="optional">gnomeradio</packagereq>
       <packagereq type="optional">graveman</packagereq>
       <packagereq type="optional">grip</packagereq>
       <packagereq type="optional">jack-audio-connection-kit</packagereq>
       <packagereq type="optional">kid3</packagereq>
       <packagereq type="optional">kover</packagereq>
       <packagereq type="optional">libvisual-plugins</packagereq>
+      <packagereq type="optional">regionset</packagereq>
       <packagereq type="optional">rosegarden4</packagereq>
       <packagereq type="optional">soundconverter</packagereq>
       <packagereq type="optional">soundtracker</packagereq>
@@ -770,6 +779,7 @@
       <packagereq type="optional">denyhosts</packagereq>
       <packagereq type="optional">dkms</packagereq>
       <packagereq type="optional">ebtables</packagereq>
+      <packagereq type="optional">ed2k_hash</packagereq>
       <packagereq type="optional">enca</packagereq>
       <packagereq type="optional">environment-modules</packagereq>
       <packagereq type="optional">epylog</packagereq>
@@ -821,6 +831,7 @@
       <packagereq type="optional">wlassistant</packagereq>
       <packagereq type="optional">wine</packagereq>
       <packagereq type="optional">xsupplicant</packagereq>
+      <packagereq type="optional">zidrav</packagereq>
     </packagelist>
   </group>
   <group>
@@ -835,6 +846,8 @@
       <packagereq type="optional">bittorrent</packagereq>
       <packagereq type="optional">centericq</packagereq>
       <packagereq type="optional">cone</packagereq>
+      <packagereq type="optional">ctorrent</packagereq>
+      <packagereq type="optional">ekg</packagereq>
       <packagereq type="optional">elmo</packagereq>
       <packagereq type="optional">iperf</packagereq>
       <packagereq type="optional">irssi</packagereq>
