@@ -563,10 +563,9 @@
     <id>java</id>
     <_name>Java</_name>
     <_description>Support for running programs written in the Java programming language.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="optional">jikes</packagereq>
     </packagelist>
   </group>
   <group>
@@ -576,6 +575,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="optional">jikes</packagereq>
       <packagereq type="optional">jlint</packagereq>
     </packagelist>
   </group>
