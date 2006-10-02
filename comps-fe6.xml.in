@@ -177,6 +177,7 @@
       <packagereq type="optional">qgit</packagereq>
       <packagereq type="optional">quilt</packagereq>
       <packagereq type="optional">rapidsvn</packagereq>
+      <packagereq type="optional">regexxer</packagereq>
       <packagereq type="optional">rpmdevtools</packagereq>
       <packagereq type="optional">rpmlint</packagereq>
       <packagereq type="optional">smarteiffel</packagereq>
@@ -447,6 +448,7 @@
       <packagereq type="optional">gnome-applet-netspeed</packagereq>
       <packagereq type="optional">gnome-applet-rhythmbox</packagereq>
       <packagereq type="optional">gnome-applet-sensors</packagereq>
+      <packagereq type="optional">gnome-applet-timer</packagereq>
       <packagereq type="optional">gnome-theme-clearlooks-bigpack</packagereq>
       <packagereq type="optional">gnome-themes-extras</packagereq>
       <packagereq type="optional">gnotime</packagereq>
@@ -527,6 +529,7 @@
       <packagereq type="optional">galeon</packagereq>
       <packagereq type="optional">gg2</packagereq>
       <packagereq type="optional">gnome-blog</packagereq>
+      <packagereq type="optional">gnome-ppp</packagereq>
       <packagereq type="optional">gnome-telnet</packagereq>
       <packagereq type="optional">gnome-translate</packagereq>
       <packagereq type="optional">gnubiff</packagereq>
@@ -888,6 +891,7 @@
       <packagereq type="optional">dkms</packagereq>
       <packagereq type="optional">ebtables</packagereq>
       <packagereq type="optional">ed2k_hash</packagereq>
+      <packagereq type="optional">emelfm2</packagereq>
       <packagereq type="optional">enca</packagereq>
       <packagereq type="optional">environment-modules</packagereq>
       <packagereq type="optional">epylog</packagereq>
@@ -1103,14 +1107,35 @@
       <packagereq type="default">xfce4-appfinder</packagereq>
       <packagereq type="default">xfce4-icon-theme</packagereq>
       <packagereq type="default">xfce4-iconbox</packagereq>
+      <packagereq type="default">xfce4-mailwatch-plugin</packagereq>
       <packagereq type="default">xfce4-mixer</packagereq>
       <packagereq type="default">xfce4-systray</packagereq>
       <packagereq type="default">xfce4-trigger-launcher</packagereq>
       <packagereq type="default">xffm-icons</packagereq>
       <packagereq type="default">xfprint</packagereq>
       <packagereq type="optional">xfcalendar</packagereq>
+      <packagereq type="optional">xfce4-battery-plugin</packagereq>
+      <packagereq type="optional">xfce4-clipman-plugin</packagereq>
+      <packagereq type="optional">xfce4-cpugraph-plugin</packagereq>
+      <packagereq type="optional">xfce4-diskperf-plugin</packagereq>
+      <packagereq type="optional">xfce4-fsguard-plugin</packagereq>
+      <packagereq type="optional">xfce4-genmon-plugin</packagereq>
+      <packagereq type="optional">xfce4-minicmd-plugin</packagereq>
+      <packagereq type="optional">xfce4-mount-plugin</packagereq>
+      <packagereq type="optional">xfce4-netload-plugin</packagereq>
+      <packagereq type="optional">xfce4-notes-plugin</packagereq>
+      <packagereq type="optional">xfce4-quicklauncher-plugin</packagereq>
+      <packagereq type="optional">xfce4-screenshooter-plugin</packagereq>
+      <packagereq type="optional">xfce4-sensors-plugin</packagereq>
+      <packagereq type="optional">xfce4-systemload-plugin</packagereq>
+      <packagereq type="optional">xfce4-taskmanager</packagereq>
       <packagereq type="optional">xfce4-toys</packagereq>
       <packagereq type="optional">xfwm4-themes</packagereq>
+      <packagereq type="optional">xfce4-wavelan-plugin</packagereq>
+      <packagereq type="optional">xfce4-weather-plugin</packagereq>
+      <packagereq type="optional">xfce4-websearch-plugin</packagereq>
+      <packagereq type="optional">xfce4-xkb-plugin</packagereq>
+      <packagereq type="optional">xfce4-xmms-plugin</packagereq>
     </packagelist>
   </group>
   <group>
