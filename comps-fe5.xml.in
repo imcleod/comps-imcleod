@@ -570,8 +570,7 @@
     <_description>Support for running programs written in the Java programming language.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
-    <packagelist>
-    </packagelist>
+    <packagelist/>
   </group>
   <group>
     <id>java-development</id>
@@ -839,8 +838,8 @@
       <packagereq type="optional">unison</packagereq>
       <packagereq type="optional">vnstat</packagereq>
       <packagereq type="optional">vpnc</packagereq>
-      <packagereq type="optional">wlassistant</packagereq>
       <packagereq type="optional">wine</packagereq>
+      <packagereq type="optional">wlassistant</packagereq>
       <packagereq type="optional">xsupplicant</packagereq>
       <packagereq type="optional">zidrav</packagereq>
     </packagelist>
