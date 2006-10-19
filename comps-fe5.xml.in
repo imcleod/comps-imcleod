@@ -234,6 +234,7 @@
       <packagereq type="optional">genius</packagereq>	
       <packagereq type="optional">ghdl</packagereq>
       <packagereq type="optional">gnucap</packagereq>
+      <packagereq type="optional">gpredict</packagereq>
       <packagereq type="optional">grads</packagereq>
       <packagereq type="optional">gtkwave</packagereq>
       <packagereq type="optional">gts</packagereq>
@@ -259,6 +260,7 @@
       <packagereq type="optional">osiv</packagereq>
       <packagereq type="optional">paraview</packagereq>
       <packagereq type="optional">paw</packagereq>
+      <packagereq type="optional">plotutils</packagereq>
       <packagereq type="optional">qalculate-gtk</packagereq>
       <packagereq type="optional">qalculate-kde</packagereq>
       <packagereq type="optional">qcad</packagereq>
@@ -436,6 +438,7 @@
       <packagereq type="optional">anjuta</packagereq>
       <packagereq type="optional">anjuta-docs</packagereq>
       <packagereq type="optional">at-poke</packagereq>
+      <packagereq type="optional">bakery-devel</packagereq>
       <packagereq type="optional">bit-devel</packagereq>
       <packagereq type="optional">bitgtkmm-devel</packagereq>
       <packagereq type="optional">cairomm-devel</packagereq>
@@ -445,14 +448,20 @@
       <packagereq type="optional">gconfmm26-devel</packagereq>
       <packagereq type="optional">glibmm24-devel</packagereq>
       <packagereq type="optional">gnome-common</packagereq>
+      <packagereq type="optional">gnome-python2-gda-devel</packagereq>
       <packagereq type="optional">gnome-vfsmm26-devel</packagereq>
       <packagereq type="optional">gquilt</packagereq>
       <packagereq type="optional">gtk+extra</packagereq>
       <packagereq type="optional">gtkalog</packagereq>
       <packagereq type="optional">gtkdatabox</packagereq>
       <packagereq type="optional">gtkmm24-devel</packagereq>
+      <packagereq type="optional">libglademm24-devel</packagereq>
+      <packagereq type="optional">libgnomecanvasmm26-devel</packagereq>
+      <packagereq type="optional">libgnomemm26-devel</packagereq>
+      <packagereq type="optional">libgnomeuimm26-devel</packagereq>
       <packagereq type="optional">libsexy-devel</packagereq>
       <packagereq type="optional">libsexymm-devel</packagereq>
+      <packagereq type="optional">libsigc++20-devel</packagereq>
       <packagereq type="optional">papyrus-devel</packagereq>
     </packagelist>
   </group>
@@ -510,6 +519,7 @@
       <packagereq type="optional">straw</packagereq>
       <packagereq type="optional">sylpheed</packagereq>
       <packagereq type="optional">sylpheed-claws</packagereq>
+      <packagereq type="optional">transmission</packagereq>
       <packagereq type="optional">valknut</packagereq>
       <packagereq type="optional">x3270-x11</packagereq>
       <packagereq type="optional">xchat-gnome</packagereq>
@@ -535,6 +545,7 @@
       <packagereq type="optional">gwenview</packagereq>
       <packagereq type="optional">inkscape</packagereq>
       <packagereq type="optional">k3d</packagereq>
+      <packagereq type="optional">pstoedit</packagereq>
       <packagereq type="optional">pydot</packagereq>
       <packagereq type="optional">qiv</packagereq>
       <packagereq type="optional">rawstudio</packagereq>
@@ -693,6 +704,7 @@
       <packagereq type="optional">jabberd</packagereq>
       <packagereq type="optional">kannel</packagereq>
       <packagereq type="optional">l2tpd</packagereq>
+      <packagereq type="optional">NetworkManager-vpnc</packagereq>
       <packagereq type="optional">nsd</packagereq>
       <packagereq type="optional">openvpn</packagereq>
       <packagereq type="optional">puppet-server</packagereq>
@@ -725,6 +737,7 @@
       <packagereq type="optional">dia</packagereq>
       <packagereq type="optional">gdeskcal</packagereq>
       <packagereq type="optional">glabels</packagereq>
+      <packagereq type="optional">glom</packagereq>
       <packagereq type="optional">gnotime</packagereq>
       <packagereq type="optional">gnumeric</packagereq>
       <packagereq type="optional">gourmet</packagereq>
@@ -845,6 +858,7 @@
       <packagereq type="optional">nfswatch</packagereq>
       <packagereq type="optional">nomarch</packagereq>
       <packagereq type="optional">oddjob</packagereq>
+      <packagereq type="optional">pam_keyring</packagereq>
       <packagereq type="optional">pbzip2</packagereq>
       <packagereq type="optional">puppet</packagereq>
       <packagereq type="optional">qstat</packagereq>
