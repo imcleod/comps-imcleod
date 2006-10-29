@@ -1,7 +1,7 @@
 XMLINFILES=$(wildcard *.xml.in)
 XMLFILES = $(patsubst %.xml.in,%.xml,$(XMLINFILES))
 
-all: po comps $(XMLFILES)
+all: po $(XMLFILES)
 
 po: $(XMLINFILES)
 	make -C po || exit 1
