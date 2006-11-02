@@ -133,7 +133,6 @@
       <packagereq type="optional">cvs2cl</packagereq>
       <packagereq type="optional">cvs2svn</packagereq>
       <packagereq type="optional">cvsgraph</packagereq>
-      <packagereq type="optional">cvsplot</packagereq>
       <packagereq type="optional">cvsps</packagereq>
       <packagereq type="optional">cvsweb</packagereq>
       <packagereq type="optional">darcs</packagereq>
@@ -234,7 +233,6 @@
       <packagereq type="optional">scite</packagereq>
       <packagereq type="optional">scribes</packagereq>
       <packagereq type="optional">scribes-templates</packagereq>
-      <packagereq type="optional">TeXmacs</packagereq>
     </packagelist>
   </group>
   <group>
@@ -273,7 +271,6 @@
       <packagereq type="optional">geant321</packagereq>
       <packagereq type="optional">genius</packagereq>	
       <packagereq type="optional">geda-docs</packagereq>
-      <packagereq type="optional">geda-example</packagereq>
       <packagereq type="optional">geda-gattrib</packagereq>
       <packagereq type="optional">geda-gnetlist</packagereq>
       <packagereq type="optional">geda-gschem</packagereq>
@@ -318,7 +315,6 @@
       <packagereq type="optional">qcad</packagereq>
       <packagereq type="optional">qucs</packagereq>
       <packagereq type="optional">R</packagereq>
-      <packagereq type="optional">R-gnomeGUI</packagereq>
       <packagereq type="optional">rrdtool</packagereq>
       <packagereq type="optional">scalapack</packagereq>
       <packagereq type="optional">scrip</packagereq>
@@ -413,16 +409,13 @@
       <packagereq type="optional">pipenightdreams</packagereq>
       <packagereq type="optional">powermanga</packagereq>
       <packagereq type="optional">ppracer</packagereq>
-      <packagereq type="optional">qascade</packagereq>
       <packagereq type="optional">qgo</packagereq>
-      <packagereq type="optional">qqo</packagereq>
       <packagereq type="optional">rafkill</packagereq>
       <packagereq type="optional">raidem</packagereq>
       <packagereq type="optional">rocksndiamonds</packagereq>
       <packagereq type="optional">rogue</packagereq>
       <packagereq type="optional">scorched3d</packagereq>
       <packagereq type="optional">shippy</packagereq>
-      <packagereq type="optional">sirius</packagereq>
       <packagereq type="optional">sopwith</packagereq>
       <packagereq type="optional">starfighter</packagereq>
       <packagereq type="optional">sturmbahnfahrer</packagereq>
@@ -459,8 +452,6 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">alacarte</packagereq>
-      <packagereq type="optional">brightside</packagereq>
       <packagereq type="optional">buoh</packagereq>
       <packagereq type="optional">byzanz</packagereq>
       <packagereq type="optional">deskbar-applet</packagereq>
@@ -470,7 +461,6 @@
       <packagereq type="optional">gmpc</packagereq>
       <packagereq type="optional">gnochm</packagereq>
       <packagereq type="optional">gnome-applet-netspeed</packagereq>
-      <packagereq type="optional">gnome-applet-rhythmbox</packagereq>
       <packagereq type="optional">gnome-applet-sensors</packagereq>
       <packagereq type="optional">gnome-applet-timer</packagereq>
       <packagereq type="optional">gnome-theme-clearlooks-bigpack</packagereq>
@@ -487,7 +477,6 @@
       <packagereq type="optional">rss-glx-gnome-screensaver</packagereq>
       <packagereq type="optional">sabayon</packagereq>
       <packagereq type="optional">seahorse</packagereq>
-      <packagereq type="optional">smeg</packagereq>
       <packagereq type="optional">themes-backgrounds-gnome</packagereq>
       <packagereq type="optional">verbiste-gnome</packagereq>
       <packagereq type="optional">wallpapoz</packagereq>
@@ -505,7 +494,6 @@
     <packagelist>
       <packagereq type="optional">anjuta</packagereq>
       <packagereq type="optional">anjuta-docs</packagereq>
-      <packagereq type="optional">at-poke</packagereq>
       <packagereq type="optional">bakery-devel</packagereq>
       <packagereq type="optional">bit-devel</packagereq>
       <packagereq type="optional">bitgtkmm-devel</packagereq>
@@ -521,7 +509,6 @@
       <packagereq type="optional">gquilt</packagereq>
       <packagereq type="optional">gtk+extra</packagereq>
       <packagereq type="optional">gtk2hs</packagereq>
-      <packagereq type="optional">gtkalog</packagereq>
       <packagereq type="optional">gtkdatabox</packagereq>
       <packagereq type="optional">gtkmm24-devel</packagereq>
       <packagereq type="optional">libglademm24-devel</packagereq>
@@ -561,7 +548,6 @@
       <packagereq type="optional">gg2</packagereq>
       <packagereq type="optional">gnome-blog</packagereq>
       <packagereq type="optional">gnome-ppp</packagereq>
-      <packagereq type="optional">gnome-telnet</packagereq>
       <packagereq type="optional">gnome-translate</packagereq>
       <packagereq type="optional">gnubiff</packagereq>
       <packagereq type="optional">gossip</packagereq>
@@ -627,7 +613,6 @@
       <packagereq type="optional">renrot</packagereq>
       <packagereq type="optional">showimg</packagereq>
       <packagereq type="optional">skencil</packagereq>
-      <packagereq type="optional">sodipodi</packagereq>
       <packagereq type="optional">tuxpaint</packagereq>
       <packagereq type="optional">ufraw</packagereq>
       <packagereq type="optional">wings</packagereq>
@@ -676,26 +661,6 @@
       <packagereq type="optional">scim-input-pad</packagereq>
       <packagereq type="optional">scim-skk</packagereq>
       <packagereq type="optional">scim-tomoe</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>java</id>
-    <_name>Java</_name>
-    <_description>Support for running programs written in the Java programming language.</_description>
-    <default>true</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="optional">jikes</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>java-development</id>
-    <_name>Java Development</_name>
-    <_description>Support for developing programs in the Java programming language.</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="optional">jlint</packagereq>
     </packagelist>
   </group>
   <group>
@@ -770,7 +735,6 @@
       <packagereq type="optional">exim-doc</packagereq>
       <packagereq type="optional">milter-regex</packagereq>
       <packagereq type="optional">mlmmj</packagereq>
-      <packagereq type="optional">perl-Cyrus</packagereq>
       <packagereq type="optional">pyzor</packagereq>
       <packagereq type="optional">spamass-milter</packagereq>
     </packagelist>
@@ -838,13 +802,11 @@
       <packagereq type="optional">gnumeric</packagereq>
       <packagereq type="optional">gramps</packagereq>
       <packagereq type="optional">grisbi</packagereq>
-      <packagereq type="optional">gsview</packagereq>
       <packagereq type="optional">hnb</packagereq>
       <packagereq type="optional">koffice-suite</packagereq>
       <packagereq type="optional">krecipes</packagereq>
       <packagereq type="optional">lyx</packagereq>
       <packagereq type="optional">notecase</packagereq>
-      <packagereq type="optional">notemeister</packagereq>
       <packagereq type="optional">pybliographer</packagereq>
       <packagereq type="optional">qa-assistant</packagereq>
       <packagereq type="optional">qcad</packagereq>
@@ -870,7 +832,6 @@
       <packagereq type="optional">amarok</packagereq>
       <packagereq type="optional">audacity</packagereq>
       <packagereq type="optional">bin2iso</packagereq>
-      <packagereq type="optional">bmp</packagereq>
       <packagereq type="optional">brasero</packagereq>
       <packagereq type="optional">camE</packagereq>
       <packagereq type="optional">cdlabelgen</packagereq>
@@ -879,7 +840,6 @@
       <packagereq type="optional">gcdmaster</packagereq>
       <packagereq type="optional">gcfilms</packagereq>
       <packagereq type="optional">gcombust</packagereq>
-      <packagereq type="optional">glrellmms</packagereq>
       <packagereq type="optional">gnomad2</packagereq>
       <packagereq type="optional">gnomebaker</packagereq>
       <packagereq type="optional">gnomeradio</packagereq>
@@ -889,7 +849,6 @@
       <packagereq type="optional">jack-audio-connection-kit</packagereq>
       <packagereq type="optional">kid3</packagereq>
       <packagereq type="optional">kover</packagereq>
-      <packagereq type="optional">libvisual-plugins</packagereq>
       <packagereq type="optional">nomadsync</packagereq>
       <packagereq type="optional">regionset</packagereq>
       <packagereq type="optional">rosegarden4</packagereq>
@@ -962,7 +921,6 @@
       <packagereq type="optional">ip6sic</packagereq>
       <packagereq type="optional">isic</packagereq>
       <packagereq type="optional">jfbterm</packagereq>
-      <packagereq type="optional">john</packagereq>
       <packagereq type="optional">kdirstat</packagereq>
       <packagereq type="optional">keychain</packagereq>
       <packagereq type="optional">ksmarttray</packagereq>
@@ -1034,7 +992,6 @@
       <packagereq type="optional">cone</packagereq>
       <packagereq type="optional">ctorrent</packagereq>
       <packagereq type="optional">ekg</packagereq>
-      <packagereq type="optional">elmo</packagereq>
       <packagereq type="optional">iperf</packagereq>
       <packagereq type="optional">irssi</packagereq>
       <packagereq type="optional">libtranslate</packagereq>
@@ -1042,7 +999,6 @@
       <packagereq type="optional">nail</packagereq>
       <packagereq type="optional">naim</packagereq>
       <packagereq type="optional">ncftp</packagereq>
-      <packagereq type="optional">nget</packagereq>
       <packagereq type="optional">ninja</packagereq>
       <packagereq type="optional">nmh</packagereq>
       <packagereq type="optional">pork</packagereq>
@@ -1179,7 +1135,6 @@
       <packagereq type="optional">xfce4-sensors-plugin</packagereq>
       <packagereq type="optional">xfce4-systemload-plugin</packagereq>
       <packagereq type="optional">xfce4-taskmanager</packagereq>
-      <packagereq type="optional">xfce4-toys</packagereq>
       <packagereq type="optional">xfce4-wavelan-plugin</packagereq>
       <packagereq type="optional">xfce4-weather-plugin</packagereq>
       <packagereq type="optional">xfce4-websearch-plugin</packagereq>
@@ -1198,17 +1153,12 @@
       <groupreq>x-software-development</groupreq>
     </grouplist>
     <packagelist>
-      <packagereq type="mandatory">glib2-devel</packagereq>
-      <packagereq type="mandatory">gtk-doc</packagereq>
-      <packagereq type="mandatory">gtk2-devel</packagereq>
       <packagereq type="mandatory">libxfce4mcs-devel</packagereq>
       <packagereq type="mandatory">libxfce4util-devel</packagereq>
       <packagereq type="mandatory">libxfcegui4-devel</packagereq>
       <packagereq type="mandatory">xfce-mcs-manager-devel</packagereq>
       <packagereq type="mandatory">xfce4-panel-devel</packagereq>
       <packagereq type="mandatory">xfce4-session-devel</packagereq>
-      <packagereq type="default">glade2</packagereq>
-      <packagereq type="default">pygtk2-devel</packagereq>
     </packagelist>
   </group>
   <category>
