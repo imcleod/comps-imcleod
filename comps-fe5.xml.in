@@ -279,6 +279,7 @@
       <packagereq type="optional">SIBsim4</packagereq>
       <packagereq type="optional">toped</packagereq>
       <packagereq type="optional">wcstools</packagereq>
+      <packagereq type="optional">wvs-data</packagereq>
       <packagereq type="optional">xdrawchem</packagereq>
     </packagelist>
   </group>
@@ -436,6 +437,7 @@
       <packagereq type="optional">nautilus-image-converter</packagereq>
       <packagereq type="optional">nautilus-open-terminal</packagereq>
       <packagereq type="optional">nautilus-search-tool</packagereq>
+      <packagereq type="optional">panelfm</packagereq>
       <packagereq type="optional">rss-glx-gnome-screensaver</packagereq>
       <packagereq type="optional">sabayon</packagereq>
       <packagereq type="optional">seahorse</packagereq>
@@ -611,6 +613,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="optional">jfbterm</packagereq>
       <packagereq type="optional">scim-input-pad</packagereq>
       <packagereq type="optional">scim-skk</packagereq>
       <packagereq type="optional">scim-tomoe</packagereq>
