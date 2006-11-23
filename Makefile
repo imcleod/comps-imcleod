@@ -4,7 +4,7 @@ XMLFILES = $(patsubst %.xml.in,%.xml,$(XMLINFILES))
 all: po $(XMLFILES)
 
 po: $(XMLINFILES)
-	make -C po || exit 1
+	make -C po -f Makefile || exit 1
 
 clean:
 	@rm -fv *~
