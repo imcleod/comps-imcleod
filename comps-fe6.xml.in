@@ -1152,7 +1152,9 @@
       <packagereq type="optional">xfce4-clipman-plugin</packagereq>
       <packagereq type="optional">xfce4-cpugraph-plugin</packagereq>
       <packagereq type="optional">xfce4-datetime-plugin</packagereq>
+      <packagereq type="optional">xfce4-dict-plugin</packagereq>
       <packagereq type="optional">xfce4-diskperf-plugin</packagereq>
+      <packagereq type="optional">xfce4-eyes-plugin</packagereq>
       <packagereq type="optional">xfce4-fsguard-plugin</packagereq>
       <packagereq type="optional">xfce4-genmon-plugin</packagereq>
       <packagereq type="optional">xfce4-minicmd-plugin</packagereq>
@@ -1188,6 +1190,7 @@
       <packagereq type="mandatory">xfce-mcs-manager-devel</packagereq>
       <packagereq type="mandatory">xfce4-panel-devel</packagereq>
       <packagereq type="mandatory">xfce4-session-devel</packagereq>
+      <packagereq type="optional">xfce4-dev-tools</packagereq>
     </packagelist>
   </group>
   <category>
