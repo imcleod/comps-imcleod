@@ -967,7 +967,9 @@
     <_description>These packages are helpful when developing web applications or web pages.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
-    <packagelist/>
+    <packagelist>
+      <packagereq type="optional">Django</packagereq>
+    </packagelist>
   </group>
   <group>
     <id>web-server</id>
