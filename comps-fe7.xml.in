@@ -913,6 +913,16 @@
     </packagelist>
   </group>
   <group>
+    <id>smolt</id>
+    <_name>Hardware Reporting Tools</_name>
+    <_description>This group is a collection of tools that may be used to send hardware and operating system info to The Fedora Project for analysis.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">smolt-firstboot</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>sound-and-video</id>
     <_name>Sound and Video</_name>
     <_description>From CD recording to playing audio CDs and multimedia files, this package group allows you to work with sound and video on the system.</_description>
