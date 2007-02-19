@@ -91,6 +91,7 @@
       <packagereq type="optional">rss-glx</packagereq>
       <packagereq type="optional">rss-glx-xscreensaver</packagereq>
       <packagereq type="optional">rxvt</packagereq>
+      <packagereq type="optional">smolt</packagereq>
       <packagereq type="optional">workrave</packagereq>
       <packagereq type="optional">xdaliclock</packagereq>
       <packagereq type="optional">xkeycaps</packagereq>
@@ -910,16 +911,6 @@
       <packagereq type="optional">tinyerp-server</packagereq>
       <packagereq type="optional">xchm</packagereq>
       <packagereq type="optional">Zim</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>smolt</id>
-    <_name>Hardware Reporting Tools</_name>
-    <_description>This group is a collection of tools that may be used to send hardware and operating system info to The Fedora Project for analysis.</_description>
-    <default>true</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="optional">smolt-firstboot</packagereq>
     </packagelist>
   </group>
   <group>
