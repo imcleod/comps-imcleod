@@ -1128,6 +1128,17 @@
     </packagelist>
   </group>
   <group>
+    <id>virtualization</id>
+    <_name>Virtualization</_name>
+    <_description>These packages provide a virtualization environment.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">kvm</packagereq>
+      <packagereq type="default">qemu</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>web-development</id>
     <_name>Web Development</_name>
     <_description>These packages are helpful when developing web applications or web pages.</_description>
