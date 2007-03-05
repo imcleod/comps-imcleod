@@ -859,11 +859,8 @@
       <packagereq type="optional">jabberd</packagereq>
       <packagereq type="optional">kannel</packagereq>
       <packagereq type="optional">l2tpd</packagereq>
-      <packagereq type="default">NetworkManager-openvpn</packagereq>
-      <packagereq type="default">NetworkManager-vpnc</packagereq>
       <packagereq type="optional">nsd</packagereq>
       <packagereq type="optional">oidentd</packagereq>
-      <packagereq type="default">openvpn</packagereq>
       <packagereq type="optional">puppet-server</packagereq>
       <packagereq type="optional">rbldnsd</packagereq>
       <packagereq type="optional">rinetd</packagereq>
@@ -995,6 +992,10 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">NetworkManager-openvpn</packagereq>
+      <packagereq type="default">NetworkManager-vpnc</packagereq>
+      <packagereq type="default">openvpn</packagereq>
+      <packagereq type="default">vpnc</packagereq>
       <packagereq type="optional">aide</packagereq>
       <packagereq type="optional">aircrack-ng</packagereq>
       <packagereq type="optional">airsnort</packagereq>
@@ -1098,7 +1099,6 @@
       <packagereq type="optional">upx</packagereq>
       <packagereq type="optional">viaideinfo</packagereq>
       <packagereq type="optional">vnstat</packagereq>
-      <packagereq type="default">vpnc</packagereq>
       <packagereq type="optional">wifiroamd</packagereq>
       <packagereq type="optional">wine</packagereq>
       <packagereq type="optional">wlassistant</packagereq>
