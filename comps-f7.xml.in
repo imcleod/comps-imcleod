@@ -103,6 +103,17 @@
     </packagelist>
   </group>
   <group>
+    <id>bengali-support</id>
+    <_name>Bengali Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>bn</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-bn</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>czech-support</id>
     <_name>Czech Support</_name>
     <_description>This group is a collection of tools and resources of Czech environments.</_description>
@@ -353,6 +364,7 @@
       <packagereq type="optional">sextractor</packagereq>
       <packagereq type="optional">SIBsim4</packagereq>
       <packagereq type="optional">tcd-utils</packagereq>
+      <packagereq type="optional">TeXmacs</packagereq>
       <packagereq type="optional">tideEditor</packagereq>
       <packagereq type="optional">toped</packagereq>
       <packagereq type="optional">veusz</packagereq>
@@ -458,8 +470,8 @@
       <packagereq type="optional">nexuiz</packagereq>
       <packagereq type="optional">njam</packagereq>
       <packagereq type="optional">oneko</packagereq>
-      <packagereq type="optional">openarena</packagereq>      
-      <packagereq type="optional">openlierox</packagereq>      
+      <packagereq type="optional">openarena</packagereq>
+      <packagereq type="optional">openlierox</packagereq>
       <packagereq type="optional">overgod</packagereq>
       <packagereq type="optional">pachi</packagereq>
       <packagereq type="optional">pengupop</packagereq>
@@ -705,6 +717,17 @@
     </packagelist>
   </group>
   <group>
+    <id>gujarati-support</id>
+    <_name>Gujarati Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>gu</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-gu</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>hardware-support</id>
     <_name>Hardware Support</_name>
     <_description>This group is a collection of tools for various hardware specific utilities.</_description>
@@ -734,6 +757,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-he</packagereq>
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
     </packagelist>
@@ -751,6 +775,7 @@
       <packagereq type="optional">scim-input-pad</packagereq>
       <packagereq type="optional">scim-skk</packagereq>
       <packagereq type="optional">scim-tomoe</packagereq>
+      <packagereq type="optional">VLGothic-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -846,6 +871,17 @@
     </packagelist>
   </group>
   <group>
+    <id>marathi-support</id>
+    <_name>Marathi Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>mr</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-mr</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>network-server</id>
     <_name>Network Servers</_name>
     <_description>This group is a collection of network servers for specific purposes</_description>
@@ -928,6 +964,28 @@
     </packagelist>
   </group>
   <group>
+    <id>oriya-support</id>
+    <_name>Oriya Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>or</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-or</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>punjabi-support</id>
+    <_name>Punjabi Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>pa</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-pa</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>sound-and-video</id>
     <_name>Sound and Video</_name>
     <_description>From CD recording to playing audio CDs and multimedia files, this package group allows you to work with sound and video on the system.</_description>
@@ -939,6 +997,7 @@
       <packagereq type="optional">akode</packagereq>
       <packagereq type="optional">alsamixergui</packagereq>
       <packagereq type="optional">amarok</packagereq>
+      <packagereq type="optional">ardour</packagereq>
       <packagereq type="optional">audacity</packagereq>
       <packagereq type="optional">aumix</packagereq>
       <packagereq type="optional">banshee</packagereq>
@@ -946,6 +1005,7 @@
       <packagereq type="optional">brasero</packagereq>
       <packagereq type="optional">camE</packagereq>
       <packagereq type="optional">cdlabelgen</packagereq>
+      <packagereq type="optional">Democracy</packagereq>
       <packagereq type="optional">dvdauthor</packagereq>
       <packagereq type="optional">dvdisaster</packagereq>
       <packagereq type="optional">easytag</packagereq>
@@ -959,6 +1019,7 @@
       <packagereq type="optional">graveman</packagereq>
       <packagereq type="optional">grip</packagereq>
       <packagereq type="optional">gtkpod</packagereq>
+      <packagereq type="optional">HelixPlayer</packagereq>
       <packagereq type="optional">id3v2</packagereq>
       <packagereq type="optional">isomaster</packagereq>
       <packagereq type="optional">jack-audio-connection-kit</packagereq>
@@ -997,6 +1058,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">BackupPC</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
       <packagereq type="default">NetworkManager-vpnc</packagereq>
       <packagereq type="default">openvpn</packagereq>
@@ -1110,6 +1172,28 @@
       <packagereq type="optional">x3270-x11</packagereq>
       <packagereq type="optional">xsupplicant</packagereq>
       <packagereq type="optional">zidrav</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>tamil-support</id>
+    <_name>Tamil Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ta</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-ta</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>telegu-support</id>
+    <_name>Telegu Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>te</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-te</packagereq>
     </packagelist>
   </group>
   <group>
