@@ -870,6 +870,9 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">ipw2100-firmware</packagereq>
+      <packagereq type="default">ipw2200-firmware</packagereq>
+      <packagereq type="default">iwlwifi-firmware</packagereq>
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
       <packagereq type="optional">bcm43xx-fwcutter</packagereq>
