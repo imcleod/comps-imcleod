@@ -22,6 +22,16 @@
     </packagelist>
   </group>
   <group>
+    <id>afrikaans-support</id>
+    <_name>Afrikaans Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>af</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-af</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>arabic-support</id>
     <_name>Arabic Support</_name>
     <_description>This group is a collection of tools and resources of Arabic environments.</_description>
@@ -117,6 +127,46 @@
     </packagelist>
   </group>
   <group>
+    <id>bulgarian-support</id>
+    <_name>Bulgarian Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>bg</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-bg</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>catalan-support</id>
+    <_name>Catalan Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ca</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-ca</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>clustering</id>
+    <_name>Clustering</_name>
+    <_description>Clustering Support</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">heartbeat</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>croatian-support</id>
+    <_name>Croatian Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>hr</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-hr</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>czech-support</id>
     <_name>Czech Support</_name>
     <_description>This group is a collection of tools and resources of Czech environments.</_description>
@@ -124,6 +174,16 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-dict-cs_CZ</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>danish-support</id>
+    <_name>Danish Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>da</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-da</packagereq>
     </packagelist>
   </group>
   <group>
@@ -170,16 +230,19 @@
       <packagereq type="optional">flasm</packagereq>
       <packagereq type="optional">fpc</packagereq>
       <packagereq type="optional">ftnchek</packagereq>
+      <packagereq type="optional">gambas-ide</packagereq>
       <packagereq type="optional">gauche</packagereq>
       <packagereq type="optional">gcl</packagereq>
       <packagereq type="optional">gforth</packagereq>
       <packagereq type="optional">ghc</packagereq>
+      <packagereq type="optional">giggle</packagereq>
       <packagereq type="optional">git</packagereq>
       <packagereq type="optional">gnu-smalltalk</packagereq>
       <packagereq type="optional">gphpedit</packagereq>
       <packagereq type="optional">gprolog</packagereq>
       <packagereq type="optional">gpsim</packagereq>
       <packagereq type="optional">gputils</packagereq>
+      <packagereq type="optional">gtranslator</packagereq>
       <packagereq type="optional">haddock</packagereq>
       <packagereq type="optional">highlight</packagereq>
       <packagereq type="optional">hugs98</packagereq>
@@ -255,6 +318,16 @@
     </packagelist>
   </group>
   <group>
+    <id>dutch-support</id>
+    <_name>Dutch Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>nl</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-nl</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>editors</id>
     <_name>Editors</_name>
     <_description>Sometimes called text editors, these are programs that allow you to create and edit files. These include Emacs and Vi.</_description>
@@ -265,6 +338,7 @@
       <metapkg type="optional">xemacs</metapkg>
     </grouplist>
     <packagelist>
+      <packagereq type="optional">geany</packagereq>
       <packagereq type="optional">gobby</packagereq>
       <packagereq type="optional">jed</packagereq>
       <packagereq type="optional">leafpad</packagereq>
@@ -321,8 +395,10 @@
       <packagereq type="optional">genius</packagereq>
       <packagereq type="optional">geomview</packagereq>
       <packagereq type="optional">ghdl</packagereq>
+      <packagereq type="optional">gnome-chemistry-utils</packagereq>
       <packagereq type="optional">gnucap</packagereq>
       <packagereq type="optional">gpredict</packagereq>
+      <packagereq type="optional">grace</packagereq>
       <packagereq type="optional">grads</packagereq>
       <packagereq type="optional">gresistor</packagereq>
       <packagereq type="optional">gtkwave</packagereq>
@@ -383,6 +459,26 @@
     </packagelist>
   </group>
   <group>
+    <id>estonian-support</id>
+    <_name>Estonian Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ee</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-ee</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>french-support</id>
+    <_name>French Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>fr</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-fr</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>ftp-server</id>
     <_name>FTP Server</_name>
     <_description>These tools allow you to run an FTP server on the system.</_description>
@@ -391,6 +487,16 @@
     <packagelist>
       <packagereq type="optional">proftpd</packagereq>
       <packagereq type="optional">pure-ftpd</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>galician-support</id>
+    <_name>Galician Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>gl</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-gl</packagereq>
     </packagelist>
   </group>
   <group>
@@ -531,6 +637,16 @@
     </packagelist>
   </group>
   <group>
+    <id>german-support</id>
+    <_name>German Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>de</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-de</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>gnome-desktop</id>
     <_name>GNOME Desktop Environment</_name>
     <_description>GNOME is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</_description>
@@ -543,10 +659,12 @@
       <packagereq type="optional">byzanz</packagereq>
       <packagereq type="optional">deskbar-applet</packagereq>
       <packagereq type="optional">gdesklets</packagereq>
+      <packagereq type="optional">gimme</packagereq>
       <packagereq type="optional">glipper</packagereq>
       <packagereq type="optional">glunarclock</packagereq>
       <packagereq type="optional">gmpc</packagereq>
       <packagereq type="optional">gnochm</packagereq>
+      <packagereq type="optional">gnome-applet-music</packagereq>
       <packagereq type="optional">gnome-applet-netspeed</packagereq>
       <packagereq type="optional">gnome-applet-sensors</packagereq>
       <packagereq type="optional">gnome-applet-timer</packagereq>
@@ -641,6 +759,7 @@
       <packagereq type="optional">gajim</packagereq>
       <packagereq type="optional">galeon</packagereq>
       <packagereq type="optional">gg2</packagereq>
+      <packagereq type="optional">gnash-plugin</packagereq>
       <packagereq type="optional">gnome-blog</packagereq>
       <packagereq type="optional">gnome-ppp</packagereq>
       <packagereq type="optional">gnome-translate</packagereq>
@@ -724,6 +843,16 @@
     </packagelist>
   </group>
   <group>
+    <id>greek-support</id>
+    <_name>Greek Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>el</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-el</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>gujarati-support</id>
     <_name>Gujarati Support</_name>
     <_description/>
@@ -767,9 +896,40 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-he</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-he</packagereq>
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">fonts-hebrew-fancy</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>hungarian-support</id>
+    <_name>Hungarian Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>hu</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-hu</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>irish-support</id>
+    <_name>Irish Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ga</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-ga</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>italian-support</id>
+    <_name>Italian Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>it</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-it</packagereq>
     </packagelist>
   </group>
   <group>
@@ -856,6 +1016,16 @@
     </packagelist>
   </group>
   <group>
+    <id>lithuanian-support</id>
+    <_name>Lithuanian Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>lt</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-lt</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>mail-server</id>
     <_name>Mail Server</_name>
     <_description>These packages allow you to configure an IMAP or SMTP mail server.</_description>
@@ -881,6 +1051,16 @@
       <packagereq type="optional">spamass-milter</packagereq>
       <packagereq type="optional">sqlgrey</packagereq>
       <packagereq type="optional">uw-imap</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>malay-support</id>
+    <_name>Malay Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ms</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-ms</packagereq>
     </packagelist>
   </group>
   <group>
@@ -938,6 +1118,17 @@
     </packagelist>
   </group>
   <group>
+    <id>norwegian-support</id>
+    <_name>Norwegian Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>nb</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-nb</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-nn</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>office</id>
     <_name>Office/Productivity</_name>
     <_description>The applications include office suites, PDF viewers, and more.</_description>
@@ -953,7 +1144,9 @@
       <packagereq type="optional">glabels</packagereq>
       <packagereq type="optional">glom</packagereq>
       <packagereq type="optional">gnotime</packagereq>
+      <packagereq type="optional">gnucash</packagereq>
       <packagereq type="optional">gnumeric</packagereq>
+      <packagereq type="optional">gourmet</packagereq>
       <packagereq type="optional">gramps</packagereq>
       <packagereq type="optional">grisbi</packagereq>
       <packagereq type="optional">hnb</packagereq>
@@ -989,6 +1182,26 @@
     </packagelist>
   </group>
   <group>
+    <id>polish-support</id>
+    <_name>Polish Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>pl</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-pl</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>portuguese-support</id>
+    <_name>Portuguese Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>pt</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-pt</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>punjabi-support</id>
     <_name>Punjabi Support</_name>
     <_description/>
@@ -997,6 +1210,36 @@
     <langonly>pa</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-pa</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>russian-support</id>
+    <_name>Russian Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ru</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-ru</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>slovak-support</id>
+    <_name>Slovak Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>sk</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-sk</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>slovenian-support</id>
+    <_name>Slovenian Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>sl</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-sl</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1030,6 +1273,7 @@
       <packagereq type="optional">gcdmaster</packagereq>
       <packagereq type="optional">gcfilms</packagereq>
       <packagereq type="optional">gcombust</packagereq>
+      <packagereq type="optional">gcstar</packagereq>
       <packagereq type="optional">gnomad2</packagereq>
       <packagereq type="optional">gnomebaker</packagereq>
       <packagereq type="optional">gnomeradio</packagereq>
@@ -1066,6 +1310,26 @@
       <packagereq type="optional">xmms-adplug</packagereq>
       <packagereq type="optional">xmms-cdread</packagereq>
       <packagereq type="optional">xmms-flac</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>spanish-support</id>
+    <_name>Spanish Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>es</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-es</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>swedish-support</id>
+    <_name>Swedish Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>sv</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-sv</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1247,6 +1511,16 @@
     </packagelist>
   </group>
   <group>
+    <id>thai-support</id>
+    <_name>Thai Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>th</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-th</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>virtualization</id>
     <_name>Virtualization</_name>
     <_description>These packages provide a virtualization environment.</_description>
@@ -1265,6 +1539,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional">Django</packagereq>
+      <packagereq type="optional">gallery2</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1300,6 +1575,16 @@
       <packagereq type="optional">TurboGears</packagereq>
       <packagereq type="optional">vdradmin-am</packagereq>
       <packagereq type="optional">zope</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>welsh-support</id>
+    <_name>Welsh Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>cy</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-cy</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1419,6 +1704,16 @@
       <packagereq type="mandatory">xfce4-panel-devel</packagereq>
       <packagereq type="mandatory">xfce4-session-devel</packagereq>
       <packagereq type="optional">xfce4-dev-tools</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>zulu-support</id>
+    <_name>Zulu Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>zu</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-zu</packagereq>
     </packagelist>
   </group>
   <category>
