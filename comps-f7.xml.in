@@ -9,6 +9,8 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional">cacti</packagereq>
+      <packagereq type="optional">etherape</packagereq>
+      <packagereq type="optional">ettercap-gtk</packagereq>
       <packagereq type="optional">galternatives</packagereq>
       <packagereq type="optional">gparted</packagereq>
       <packagereq type="optional">gsynaptics</packagereq>
@@ -588,6 +590,7 @@
       <packagereq type="optional">cairomm-devel</packagereq>
       <packagereq type="optional">conexus-devel</packagereq>
       <packagereq type="optional">conexusmm-devel</packagereq>
+      <packagereq type="optional">ddd</packagereq>
       <packagereq type="optional">gazpacho</packagereq>
       <packagereq type="optional">gconfmm26-devel</packagereq>
       <packagereq type="optional">glibmm24-devel</packagereq>
@@ -741,6 +744,7 @@
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
       <packagereq type="optional">bcm43xx-fwcutter</packagereq>
+      <packagereq type="optional">firmware-addon-dell</packagereq>
       <packagereq type="optional">gpsd</packagereq>
       <packagereq type="optional">gpsd-clients</packagereq>
       <packagereq type="optional">hddtemp</packagereq>
@@ -765,6 +769,7 @@
       <packagereq type="conditional" requires="aspell">aspell-he</packagereq>
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+      <packagereq type="optional">fonts-hebrew-fancy</packagereq>
     </packagelist>
   </group>
   <group>
@@ -864,9 +869,11 @@
       <packagereq type="optional">clement</packagereq>
       <packagereq type="optional">crm114</packagereq>
       <packagereq type="optional">cyrus-imapd</packagereq>
+      <packagereq type="optional">dbmail</packagereq>
       <packagereq type="optional">enemies-of-carlotta</packagereq>
       <packagereq type="optional">esmtp</packagereq>
       <packagereq type="optional">exim</packagereq>
+      <packagereq type="optional">exim-clamav</packagereq>
       <packagereq type="optional">exim-doc</packagereq>
       <packagereq type="optional">milter-regex</packagereq>
       <packagereq type="optional">mlmmj</packagereq>
