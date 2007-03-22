@@ -772,7 +772,6 @@
       <packagereq type="optional">kadu</packagereq>
       <packagereq type="optional">kasablanca</packagereq>
       <packagereq type="optional">kazehakase</packagereq>
-      <packagereq type="optional">kickpim</packagereq>
       <packagereq type="optional">kita</packagereq>
       <packagereq type="optional">knetstats</packagereq>
       <packagereq type="optional">konversation</packagereq>
@@ -958,11 +957,16 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">amarok</packagereq>
+      <packagereq type="default">gtk-qt-engine</packagereq>
+      <packagereq type="default">kmenu-gnome</packagereq>
+      <packagereq type="default">knetworkmanager</packagereq>
+      <packagereq type="default">koffice-suite</packagereq>
+      <packagereq type="default">konversation</packagereq>
       <packagereq type="optional">basket</packagereq>
       <packagereq type="optional">beryl-kde</packagereq>
       <packagereq type="optional">crystal</packagereq>
       <packagereq type="optional">dolphin</packagereq>
-      <packagereq type="optional">gtk-qt-engine</packagereq>
       <packagereq type="optional">kasablanca</packagereq>
       <packagereq type="optional">katapult</packagereq>
       <packagereq type="optional">kbackup</packagereq>
@@ -980,11 +984,9 @@
       <packagereq type="optional">kiosktool</packagereq>
       <packagereq type="optional">klamav</packagereq>
       <packagereq type="optional">kleansweep</packagereq>
-      <packagereq type="optional">kmenu-gnome</packagereq>
       <packagereq type="optional">kmobiletools</packagereq>
       <packagereq type="optional">kmymoney2</packagereq>
       <packagereq type="optional">knemo</packagereq>
-      <packagereq type="optional">knetworkmanager</packagereq>
       <packagereq type="optional">kompose</packagereq>
       <packagereq type="optional">kooldock</packagereq>
       <packagereq type="optional">krecipes</packagereq>
