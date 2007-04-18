@@ -293,6 +293,8 @@
       <packagereq type="optional">phpcs</packagereq>
       <packagereq type="optional">pikdev</packagereq>
       <packagereq type="optional">pl</packagereq>
+      <packagereq type="optional">plague-client</packagereq>
+      <packagereq type="optional">plague</packagereq>
       <packagereq type="optional">plt-scheme</packagereq>
       <packagereq type="optional">pscan</packagereq>
       <packagereq type="optional">pungi</packagereq>
@@ -339,6 +341,15 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="optional">pptp</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>dns-server</id>
+    <_name>DNS Name Server</_name>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">pdns</packagereq>
     </packagelist>
   </group>
   <group>
@@ -621,6 +632,7 @@
       <packagereq type="optional">poker2d</packagereq>
       <packagereq type="optional">powermanga</packagereq>
       <packagereq type="optional">ppracer</packagereq>
+      <packagereq type="optional">prboom</packagereq>
       <packagereq type="optional">qgo</packagereq>
       <packagereq type="optional">rafkill</packagereq>
       <packagereq type="optional">raidem</packagereq>
@@ -1363,6 +1375,7 @@
       <packagereq type="optional">muine</packagereq>
       <packagereq type="optional">nomadsync</packagereq>
       <packagereq type="optional">nyquist</packagereq>
+      <packagereq type="optional">pitivi</packagereq>
       <packagereq type="optional">regionset</packagereq>
       <packagereq type="optional">rosegarden4</packagereq>
       <packagereq type="optional">soundconverter</packagereq>
@@ -1498,6 +1511,7 @@
       <packagereq type="optional">par2cmdline</packagereq>
       <packagereq type="optional">pbzip2</packagereq>
       <packagereq type="optional">powerman</packagereq>
+      <packagereq type="optional">prelude-manager</packagereq>
       <packagereq type="optional">puppet</packagereq>
       <packagereq type="optional">pwgen</packagereq>
       <packagereq type="optional">qdbm</packagereq>
@@ -1625,9 +1639,13 @@
     <_description>These packages are helpful when developing web applications or web pages.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
+    <grouplist>
+      <groupreq>web-server</groupreq>
+    </grouplist>
     <packagelist>
       <packagereq type="optional">Django</packagereq>
       <packagereq type="optional">gallery2</packagereq>
+      <packagereq type="optional">php-manual-en</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1692,6 +1710,7 @@
       <packagereq type="optional">obconf</packagereq>
       <packagereq type="optional">obmenu</packagereq>
       <packagereq type="optional">openbox</packagereq>
+      <packagereq type="optional">pekwm</packagereq>
       <packagereq type="optional">WindowMaker</packagereq>
       <packagereq type="optional">wmx</packagereq>
       <packagereq type="optional">xcompmgr</packagereq>
