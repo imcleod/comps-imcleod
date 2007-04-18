@@ -84,6 +84,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
+      <packagereq type="default">ntfs-3g</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1417,6 +1418,7 @@
       <packagereq type="default">jigdo</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
       <packagereq type="default">NetworkManager-vpnc</packagereq>
+      <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">openvpn</packagereq>
       <packagereq type="default">vpnc</packagereq>
       <packagereq type="optional">aide</packagereq>
