@@ -38,6 +38,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-ar</packagereq>
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
     </packagelist>
@@ -74,6 +75,15 @@
       <packagereq type="optional">tetex-eurofont</packagereq>
       <packagereq type="optional">tetex-prosper</packagereq>
       <packagereq type="optional">w3c-markup-validator</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>base</id>
+    <_name>Base</_name>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
     </packagelist>
   </group>
   <group>
@@ -172,7 +182,9 @@
     <_description>This group is a collection of tools and resources of Czech environments.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
+    <langonly>cs</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-cs</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-dict-cs_CZ</packagereq>
     </packagelist>
   </group>
@@ -923,6 +935,16 @@
     </packagelist>
   </group>
   <group>
+    <id>hindi-support</id>
+    <_name>Hindi Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>hi</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-hi</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>hungarian-support</id>
     <_name>Hungarian Support</_name>
     <default>false</default>
@@ -1558,6 +1580,16 @@
     <langonly>th</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-th</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>urdu-support</id>
+    <_name>Urdu Support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ur</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
     </packagelist>
   </group>
   <group>
