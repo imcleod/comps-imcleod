@@ -1,0 +1,1747 @@
+# translation of pl.po to Polish
+# Grzegorz Rajda <marius@w9.pl>, 2004.
+# Tom Berner <tom@man.lodz.pl>, 2004.
+# Rajmund Paczkowski <Rajmund.Paczkowski@gmail.com>, 2004.
+# Tom Berner <tom@lodz.pl>, 2005.
+# Piotr Drąg <raven@pmail.pl>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-04-19 16:21-0400\n"
+"PO-Revision-Date: 2007-02-23 00:19+0200\n"
+"Last-Translator: Piotr Drąg <raven@pmail.pl>\n"
+"Language-Team: Polish <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+
+#: ../comps-jboss-app-platform.xml.in.h:1
+msgid "JBoss Enterprise Application Platform"
+msgstr ""
+
+#: ../comps-jboss-app-platform.xml.in.h:2
+msgid "Packages which comprise the JBoss Enterprise Application Platform"
+msgstr ""
+
+#: ../comps-taroon.xml.in.h:1 ../comps-rhel4.xml.in.h:1
+#: ../comps-rhel4-u5.xml.in.h:1 ../comps-fc6.xml.in.h:1
+#: ../comps-fc7.xml.in.h:2 ../comps-rhel5-client-core.xml.in.h:1
+#: ../comps-rhel5-client-workstation.xml.in.h:1
+#: ../comps-rhel5-server-core.xml.in.h:1
+msgid "Administration Tools"
+msgstr "Narzędzia administracyjne"
+
+#: ../comps-taroon.xml.in.h:2 ../comps-fc6.xml.in.h:2 ../comps-fc7.xml.in.h:3
+#: ../comps-rhel5-client-core.xml.in.h:2 ../comps-rhel5-server-core.xml.in.h:2
+msgid "Afrikaans Support"
+msgstr "Obsługa afrykanerskiego"
+
+#: ../comps-taroon.xml.in.h:3 ../comps-rhel4.xml.in.h:2
+#: ../comps-rhel4-u5.xml.in.h:2 ../comps-fc6.xml.in.h:3
+#: ../comps-fc7.xml.in.h:4 ../comps-rhel5-client-core.xml.in.h:3
+#: ../comps-rhel5-server-core.xml.in.h:3
+msgid "Applications"
+msgstr "Aplikacje"
+
+#: ../comps-taroon.xml.in.h:4 ../comps-rhel4.xml.in.h:3
+#: ../comps-rhel4-u5.xml.in.h:3 ../comps-fc6.xml.in.h:7
+#: ../comps-fc7.xml.in.h:9 ../comps-rhel5-client-core.xml.in.h:7
+#: ../comps-rhel5-server-core.xml.in.h:7
+msgid "Authoring and Publishing"
+msgstr "Pisanie i publikowanie"
+
+#: ../comps-taroon.xml.in.h:5 ../comps-rhel4.xml.in.h:4
+#: ../comps-rhel4-u5.xml.in.h:4 ../comps-fc6.xml.in.h:8
+#: ../comps-fc7.xml.in.h:10 ../comps-rhel5-client-core.xml.in.h:8
+#: ../comps-rhel5-client-workstation.xml.in.h:2
+#: ../comps-rhel5-server-core.xml.in.h:8
+msgid "Base"
+msgstr "Część podstawowa"
+
+#: ../comps-taroon.xml.in.h:6 ../comps-rhel4.xml.in.h:5
+#: ../comps-rhel4-u5.xml.in.h:5 ../comps-fc6.xml.in.h:10
+#: ../comps-fc7.xml.in.h:12 ../comps-rhel5-client-core.xml.in.h:10
+#: ../comps-rhel5-client-workstation.xml.in.h:3
+#: ../comps-rhel5-server-core.xml.in.h:10
+msgid "Basic support for the Ruby programming language."
+msgstr "Podstawowa obsługa języka programowania Ruby."
+
+#: ../comps-taroon.xml.in.h:7
+msgid "Brazilian Support"
+msgstr "Obsługa brazylijskiego"
+
+#: ../comps-taroon.xml.in.h:8 ../comps-rhel5-client-core.xml.in.h:15
+#: ../comps-rhel5-server-core.xml.in.h:14
+msgid "British Support"
+msgstr "Obsługa brytyjskiego"
+
+#: ../comps-taroon.xml.in.h:9
+msgid "Canadian Support"
+msgstr "Obsługa kanadyjskiego"
+
+#: ../comps-taroon.xml.in.h:10 ../comps-fc6.xml.in.h:16
+#: ../comps-fc7.xml.in.h:18 ../comps-rhel5-client-core.xml.in.h:17
+#: ../comps-rhel5-server-core.xml.in.h:16
+msgid "Catalan Support"
+msgstr "Obsługa katalońskiego"
+
+#: ../comps-taroon.xml.in.h:11 ../comps-fc6.xml.in.h:17
+#: ../comps-fc7.xml.in.h:19 ../comps-rhel5-client-core.xml.in.h:18
+#: ../comps-rhel5-client-supplementary.xml.in.h:1
+#: ../comps-rhel5-cluster-st.xml.in.h:4 ../comps-rhel5-cluster.xml.in.h:4
+#: ../comps-rhel5-server-core.xml.in.h:17
+#: ../comps-rhel5-server-supplementary.xml.in.h:1 ../comps-rhel5-vt.xml.in.h:4
+msgid "Chinese Support"
+msgstr "Obsługa chińskiego"
+
+#: ../comps-taroon.xml.in.h:12 ../comps-rhel4.xml.in.h:6
+#: ../comps-rhel4-u5.xml.in.h:6
+msgid "Compatibility Arch Development Support"
+msgstr "Obsługa tworzenia oprogramowania dla architektur zgodności"
+
+#: ../comps-taroon.xml.in.h:13
+msgid "Compatibility Arch Mozilla Support"
+msgstr "Obsługa architektur zgodnych z Mozillą"
+
+#: ../comps-taroon.xml.in.h:14 ../comps-rhel4.xml.in.h:7
+#: ../comps-rhel4-u5.xml.in.h:7
+msgid "Compatibility Arch Support"
+msgstr "Obsługa architektur zgodności"
+
+#: ../comps-taroon.xml.in.h:15 ../comps-rhel4.xml.in.h:8
+#: ../comps-rhel4-u5.xml.in.h:8 ../comps-fc6.xml.in.h:20
+#: ../comps-fc7.xml.in.h:22 ../comps-rhel5-client-core.xml.in.h:22
+#: ../comps-rhel5-client-workstation.xml.in.h:4
+#: ../comps-rhel5-server-core.xml.in.h:18
+msgid "Core"
+msgstr "Rdzeń"
+
+#: ../comps-taroon.xml.in.h:16
+msgid "Cyrillic Support"
+msgstr "Obsługa cyrylicy"
+
+#: ../comps-taroon.xml.in.h:17 ../comps-fc6.xml.in.h:22
+#: ../comps-fc7.xml.in.h:24 ../comps-rhel5-client-core.xml.in.h:24
+#: ../comps-rhel5-server-core.xml.in.h:20
+msgid "Czech Support"
+msgstr "Obsługa czeskiego"
+
+#: ../comps-taroon.xml.in.h:18 ../comps-rhel4.xml.in.h:9
+#: ../comps-rhel4-u5.xml.in.h:9 ../comps-fc6.xml.in.h:23
+#: ../comps-fc7.xml.in.h:25 ../comps-rhel5-client-core.xml.in.h:25
+#: ../comps-rhel5-client-workstation.xml.in.h:5
+#: ../comps-rhel5-server-core.xml.in.h:21
+msgid "DNS Name Server"
+msgstr "Serwer nazw DNS"
+
+#: ../comps-taroon.xml.in.h:19 ../comps-fc6.xml.in.h:24
+#: ../comps-fc7.xml.in.h:26 ../comps-rhel5-client-core.xml.in.h:26
+#: ../comps-rhel5-server-core.xml.in.h:22
+msgid "Danish Support"
+msgstr "Obsługa duńskiego"
+
+#: ../comps-taroon.xml.in.h:20 ../comps-rhel4.xml.in.h:10
+#: ../comps-rhel4-u5.xml.in.h:10
+msgid "Desktops"
+msgstr "Środowiska graficzne"
+
+#: ../comps-taroon.xml.in.h:21 ../comps-rhel4.xml.in.h:11
+#: ../comps-rhel4-u5.xml.in.h:11 ../comps-fc6.xml.in.h:27
+#: ../comps-fc7.xml.in.h:29 ../comps-rhel5-client-core.xml.in.h:29
+#: ../comps-rhel5-server-core.xml.in.h:25
+msgid "Development"
+msgstr "Programowanie"
+
+#: ../comps-taroon.xml.in.h:22 ../comps-rhel4.xml.in.h:12
+#: ../comps-rhel4-u5.xml.in.h:12 ../comps-fc6.xml.in.h:28
+#: ../comps-fc7.xml.in.h:30 ../comps-rhel5-client-core.xml.in.h:30
+#: ../comps-rhel5-client-workstation.xml.in.h:6
+#: ../comps-rhel5-server-core.xml.in.h:26
+msgid "Development Libraries"
+msgstr "Biblioteki programistyczne"
+
+#: ../comps-taroon.xml.in.h:23 ../comps-rhel4.xml.in.h:13
+#: ../comps-rhel4-u5.xml.in.h:13 ../comps-fc6.xml.in.h:29
+#: ../comps-fc7.xml.in.h:31 ../comps-rhel5-client-core.xml.in.h:31
+#: ../comps-rhel5-client-workstation.xml.in.h:7
+#: ../comps-rhel5-server-core.xml.in.h:27
+msgid "Development Tools"
+msgstr "Narzędzia programistyczne"
+
+#: ../comps-taroon.xml.in.h:24 ../comps-rhel4.xml.in.h:14
+#: ../comps-rhel4-u5.xml.in.h:14 ../comps-rhel5-client-core.xml.in.h:32
+#: ../comps-rhel5-server-core.xml.in.h:28
+msgid "Dialup Networking Support"
+msgstr "Obsługa sieci dial-up"
+
+#: ../comps-taroon.xml.in.h:25 ../comps-fc6.xml.in.h:31
+#: ../comps-fc7.xml.in.h:33 ../comps-rhel5-client-core.xml.in.h:33
+#: ../comps-rhel5-server-core.xml.in.h:29
+msgid "Dutch Support"
+msgstr "Obsługa holenderskiego"
+
+#: ../comps-taroon.xml.in.h:26 ../comps-rhel4.xml.in.h:15
+#: ../comps-rhel4-u5.xml.in.h:15 ../comps-fc6.xml.in.h:33
+#: ../comps-fc7.xml.in.h:35 ../comps-rhel5-client-core.xml.in.h:34
+#: ../comps-rhel5-client-workstation.xml.in.h:9
+#: ../comps-rhel5-server-core.xml.in.h:30
+msgid "Editors"
+msgstr "Edytory"
+
+#: ../comps-taroon.xml.in.h:27 ../comps-rhel4.xml.in.h:16
+#: ../comps-rhel4-u5.xml.in.h:16 ../comps-fc6.xml.in.h:34
+#: ../comps-fc7.xml.in.h:38
+msgid "Emacs"
+msgstr "Emacs"
+
+#: ../comps-taroon.xml.in.h:28 ../comps-rhel4.xml.in.h:17
+#: ../comps-rhel4-u5.xml.in.h:17 ../comps-fc6.xml.in.h:35
+#: ../comps-fc7.xml.in.h:39 ../comps-rhel5-client-core.xml.in.h:35
+#: ../comps-rhel5-client-workstation.xml.in.h:10
+#: ../comps-rhel5-server-core.xml.in.h:31
+msgid "Engineering and Scientific"
+msgstr "Inżynieria i nauka"
+
+#: ../comps-taroon.xml.in.h:29 ../comps-fc6.xml.in.h:37
+#: ../comps-fc7.xml.in.h:41 ../comps-rhel5-client-core.xml.in.h:36
+#: ../comps-rhel5-server-core.xml.in.h:32
+msgid "Estonian Support"
+msgstr "Obsługa estońskiego"
+
+#: ../comps-taroon.xml.in.h:30 ../comps-rhel4.xml.in.h:18
+#: ../comps-rhel4-u5.xml.in.h:18 ../comps-fc6.xml.in.h:39
+#: ../comps-fc7.xml.in.h:43 ../comps-rhel5-client-core.xml.in.h:38
+#: ../comps-rhel5-client-workstation.xml.in.h:11
+#: ../comps-rhel5-server-core.xml.in.h:34
+msgid "FTP Server"
+msgstr "Serwer FTP"
+
+#: ../comps-taroon.xml.in.h:31 ../comps-fc6.xml.in.h:41
+#: ../comps-fc7.xml.in.h:45 ../comps-rhel5-client-core.xml.in.h:40
+#: ../comps-rhel5-server-core.xml.in.h:36
+msgid "Finnish Support"
+msgstr "Obsługa fińskiego"
+
+#: ../comps-taroon.xml.in.h:32 ../comps-fc6.xml.in.h:42
+#: ../comps-fc7.xml.in.h:46 ../comps-rhel5-client-core.xml.in.h:41
+#: ../comps-rhel5-cluster-st.xml.in.h:6 ../comps-rhel5-cluster.xml.in.h:7
+#: ../comps-rhel5-server-core.xml.in.h:37 ../comps-rhel5-vt.xml.in.h:5
+msgid "French Support"
+msgstr "Obsługa francuskiego"
+
+#: ../comps-taroon.xml.in.h:33 ../comps-rhel4.xml.in.h:19
+#: ../comps-rhel4-u5.xml.in.h:19 ../comps-fc6.xml.in.h:43
+#: ../comps-fc7.xml.in.h:47 ../comps-rhel5-client-core.xml.in.h:42
+#: ../comps-rhel5-server-core.xml.in.h:38
+msgid ""
+"From CD recording to playing audio CDs and multimedia files, this package "
+"group allows you to work with sound and video on the system."
+msgstr ""
+"Od nagrywania CD do odtwarzania CD dźwiękowych i plików multimedialnych, ta "
+"grupa pakietów pozwala na pracę z dźwiękiem i obrazem."
+
+#: ../comps-taroon.xml.in.h:34 ../comps-rhel4.xml.in.h:20
+#: ../comps-rhel4-u5.xml.in.h:20
+msgid "GNOME"
+msgstr "GNOME"
+
+#: ../comps-taroon.xml.in.h:35 ../comps-rhel4.xml.in.h:21
+#: ../comps-rhel4-u5.xml.in.h:21 ../comps-fc6.xml.in.h:44
+#: ../comps-fc7.xml.in.h:48 ../comps-rhel5-client-core.xml.in.h:43
+#: ../comps-rhel5-client-workstation.xml.in.h:12
+#: ../comps-rhel5-server-core.xml.in.h:39
+msgid "GNOME Desktop Environment"
+msgstr "Środowisko graficzne GNOME"
+
+#: ../comps-taroon.xml.in.h:36 ../comps-rhel4.xml.in.h:22
+#: ../comps-rhel4-u5.xml.in.h:22 ../comps-fc6.xml.in.h:45
+#: ../comps-fc7.xml.in.h:49 ../comps-rhel5-client-core.xml.in.h:44
+#: ../comps-rhel5-client-workstation.xml.in.h:13
+#: ../comps-rhel5-server-core.xml.in.h:40
+msgid "GNOME Software Development"
+msgstr "Narzędzia programistyczne GNOME"
+
+#: ../comps-taroon.xml.in.h:37 ../comps-rhel4.xml.in.h:23
+#: ../comps-rhel4-u5.xml.in.h:23 ../comps-rhel5-client-core.xml.in.h:45
+#: ../comps-rhel5-client-workstation.xml.in.h:14
+#: ../comps-rhel5-server-core.xml.in.h:41
+msgid ""
+"GNOME is a powerful, graphical user interface which includes a panel, "
+"desktop, system icons, and a graphical file manager."
+msgstr ""
+"GNOME jest graficznym interfejsem użytkownika o dużych możliwościach, "
+"zawierającym panel, pulpit, ikony systemowe oraz graficzny menedżer plików."
+
+#: ../comps-taroon.xml.in.h:38 ../comps-rhel4.xml.in.h:24
+#: ../comps-rhel4-u5.xml.in.h:24 ../comps-fc6.xml.in.h:49
+#: ../comps-fc7.xml.in.h:53 ../comps-rhel5-client-core.xml.in.h:48
+#: ../comps-rhel5-server-core.xml.in.h:44
+msgid "Games and Entertainment"
+msgstr "Gry i rozrywka"
+
+#: ../comps-taroon.xml.in.h:39 ../comps-fc6.xml.in.h:50
+#: ../comps-fc7.xml.in.h:54 ../comps-rhel5-client-core.xml.in.h:49
+#: ../comps-rhel5-cluster-st.xml.in.h:7 ../comps-rhel5-cluster.xml.in.h:8
+#: ../comps-rhel5-server-core.xml.in.h:45 ../comps-rhel5-vt.xml.in.h:6
+msgid "German Support"
+msgstr "Obsługa niemieckiego"
+
+#: ../comps-taroon.xml.in.h:40 ../comps-rhel4.xml.in.h:25
+#: ../comps-rhel4-u5.xml.in.h:25 ../comps-fc6.xml.in.h:51
+#: ../comps-fc7.xml.in.h:55 ../comps-rhel5-client-core.xml.in.h:50
+#: ../comps-rhel5-client-workstation.xml.in.h:15
+#: ../comps-rhel5-server-core.xml.in.h:46
+msgid "Graphical Internet"
+msgstr "Graficzny Internet"
+
+#: ../comps-taroon.xml.in.h:41 ../comps-rhel4.xml.in.h:26
+#: ../comps-rhel4-u5.xml.in.h:26 ../comps-fc6.xml.in.h:52
+#: ../comps-fc7.xml.in.h:56 ../comps-rhel5-client-core.xml.in.h:51
+#: ../comps-rhel5-server-core.xml.in.h:47
+msgid "Graphics"
+msgstr "Grafika"
+
+#: ../comps-taroon.xml.in.h:42 ../comps-fc6.xml.in.h:53
+#: ../comps-fc7.xml.in.h:57 ../comps-rhel5-client-core.xml.in.h:52
+#: ../comps-rhel5-server-core.xml.in.h:48
+msgid "Greek Support"
+msgstr "Obsługa greckiego"
+
+#: ../comps-taroon.xml.in.h:43 ../comps-fc6.xml.in.h:55
+#: ../comps-fc7.xml.in.h:60 ../comps-rhel5-client-core.xml.in.h:54
+#: ../comps-rhel5-server-core.xml.in.h:50
+msgid "Hebrew Support"
+msgstr "Obsługa hebrajskiego"
+
+#: ../comps-taroon.xml.in.h:44 ../comps-fc6.xml.in.h:57
+#: ../comps-fc7.xml.in.h:62 ../comps-rhel5-client-core.xml.in.h:56
+#: ../comps-rhel5-server-core.xml.in.h:52
+msgid "Hungarian Support"
+msgstr "Obsługa węgierskiego"
+
+#: ../comps-taroon.xml.in.h:45
+msgid "ISO8859-14 Support"
+msgstr "Obsługa ISO8859-14"
+
+#: ../comps-taroon.xml.in.h:46
+msgid "ISO8859-15 Support"
+msgstr "Obsługa ISO8859-15"
+
+#: ../comps-taroon.xml.in.h:47
+msgid "ISO8859-2 Support"
+msgstr "Obsługa ISO8859-2"
+
+#: ../comps-taroon.xml.in.h:48
+msgid "ISO8859-9 Support"
+msgstr "Obsługa ISO8859-9"
+
+#: ../comps-taroon.xml.in.h:49 ../comps-fc6.xml.in.h:58
+#: ../comps-fc7.xml.in.h:63 ../comps-rhel5-client-core.xml.in.h:57
+#: ../comps-rhel5-server-core.xml.in.h:53
+msgid "Icelandic Support"
+msgstr "Obsługa islandzkiego"
+
+#: ../comps-taroon.xml.in.h:50 ../comps-rhel4.xml.in.h:27
+#: ../comps-rhel4-u5.xml.in.h:27 ../comps-fc6.xml.in.h:60
+#: ../comps-fc7.xml.in.h:65 ../comps-rhel5-client-core.xml.in.h:59
+#: ../comps-rhel5-client-workstation.xml.in.h:16
+#: ../comps-rhel5-server-core.xml.in.h:55
+msgid ""
+"Install these packages in order to develop GTK+ and GNOME graphical "
+"applications."
+msgstr "Zainstaluj te pakiety, aby tworzyć graficzne aplikacje GTK+ i GNOME."
+
+#: ../comps-taroon.xml.in.h:51 ../comps-rhel4.xml.in.h:28
+#: ../comps-rhel4-u5.xml.in.h:28 ../comps-fc6.xml.in.h:61
+#: ../comps-fc7.xml.in.h:67 ../comps-rhel5-client-core.xml.in.h:60
+#: ../comps-rhel5-client-workstation.xml.in.h:17
+#: ../comps-rhel5-server-core.xml.in.h:56
+msgid "Install these packages to develop QT and KDE graphical applications."
+msgstr "Zainstaluj te pakiety, aby tworzyć graficzne aplikacje Qt i KDE."
+
+#: ../comps-taroon.xml.in.h:52
+msgid "Install these packages to recompile the kernel."
+msgstr "Zainstaluj te pakiety, aby ponownie skompilować jądro."
+
+#: ../comps-taroon.xml.in.h:53 ../comps-rhel4.xml.in.h:29
+#: ../comps-rhel4-u5.xml.in.h:29 ../comps-fc6.xml.in.h:62
+#: ../comps-fc7.xml.in.h:68 ../comps-rhel5-client-core.xml.in.h:61
+#: ../comps-rhel5-server-core.xml.in.h:57
+msgid ""
+"Install these tools to enable the system to print or act as a print server."
+msgstr ""
+"Zainstaluj te narzędzia, aby umożliwić systemowi drukowanie lub pracę jako "
+"serwer druku."
+
+#: ../comps-taroon.xml.in.h:54 ../comps-rhel4.xml.in.h:30
+#: ../comps-rhel4-u5.xml.in.h:30 ../comps-fc6.xml.in.h:63
+#: ../comps-fc7.xml.in.h:69 ../comps-rhel5-client-core.xml.in.h:62
+#: ../comps-rhel5-client-workstation.xml.in.h:18
+#: ../comps-rhel5-server-core.xml.in.h:58
+msgid ""
+"Install this group of packages to use the base graphical (X) user interface."
+msgstr ""
+"Zainstaluj tę grupę pakietów, aby używać podstawowego graficznego (X Window) "
+"interfejsu użytkownika."
+
+#: ../comps-taroon.xml.in.h:55 ../comps-fc6.xml.in.h:65
+#: ../comps-fc7.xml.in.h:71 ../comps-rhel5-client-core.xml.in.h:64
+#: ../comps-rhel5-cluster-st.xml.in.h:10 ../comps-rhel5-cluster.xml.in.h:11
+#: ../comps-rhel5-server-core.xml.in.h:60 ../comps-rhel5-vt.xml.in.h:9
+msgid "Italian Support"
+msgstr "Obsługa włoskiego"
+
+#: ../comps-taroon.xml.in.h:56 ../comps-fc6.xml.in.h:66
+#: ../comps-fc7.xml.in.h:72 ../comps-rhel5-client-core.xml.in.h:65
+#: ../comps-rhel5-cluster-st.xml.in.h:11 ../comps-rhel5-cluster.xml.in.h:12
+#: ../comps-rhel5-server-core.xml.in.h:61 ../comps-rhel5-vt.xml.in.h:10
+msgid "Japanese Support"
+msgstr "Obsługa japońskiego"
+
+#: ../comps-taroon.xml.in.h:57 ../comps-rhel4.xml.in.h:31
+#: ../comps-rhel4-u5.xml.in.h:31
+msgid "KDE"
+msgstr "KDE"
+
+#: ../comps-taroon.xml.in.h:58
+msgid "KDE Desktop Environment"
+msgstr "Środowisko graficzne KDE"
+
+#: ../comps-taroon.xml.in.h:59 ../comps-rhel4.xml.in.h:33
+#: ../comps-rhel4-u5.xml.in.h:33 ../comps-fc6.xml.in.h:70
+#: ../comps-fc7.xml.in.h:76 ../comps-rhel5-client-core.xml.in.h:69
+#: ../comps-rhel5-client-workstation.xml.in.h:21
+#: ../comps-rhel5-server-core.xml.in.h:65
+msgid "KDE Software Development"
+msgstr "Narzędzia programistyczne KDE"
+
+#: ../comps-taroon.xml.in.h:60 ../comps-rhel4.xml.in.h:34
+#: ../comps-rhel4-u5.xml.in.h:34 ../comps-rhel5-client-core.xml.in.h:70
+#: ../comps-rhel5-server-core.xml.in.h:66
+msgid ""
+"KDE is a powerful, graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE jest graficznym interfejsem użytkownika o dużych możliwościach, "
+"zawierającym panel, pulpit, ikony systemowe oraz graficzny menedżer plików."
+
+#: ../comps-taroon.xml.in.h:61
+msgid "Kernel Development"
+msgstr "Programowanie jądra"
+
+#: ../comps-taroon.xml.in.h:62 ../comps-fc6.xml.in.h:73
+#: ../comps-fc7.xml.in.h:79 ../comps-rhel5-client-core.xml.in.h:72
+#: ../comps-rhel5-cluster-st.xml.in.h:13 ../comps-rhel5-cluster.xml.in.h:14
+#: ../comps-rhel5-server-core.xml.in.h:68 ../comps-rhel5-vt.xml.in.h:12
+msgid "Korean Support"
+msgstr "Obsługa koreańskiego"
+
+#: ../comps-taroon.xml.in.h:63 ../comps-rhel4.xml.in.h:35
+#: ../comps-rhel4-u5.xml.in.h:35 ../comps-fc6.xml.in.h:75
+#: ../comps-fc7.xml.in.h:81 ../comps-rhel5-client-core.xml.in.h:74
+#: ../comps-rhel5-client-workstation.xml.in.h:22
+#: ../comps-rhel5-server-core.xml.in.h:70
+msgid "Legacy Network Server"
+msgstr "Klasyczne serwery sieciowe"
+
+#: ../comps-taroon.xml.in.h:64 ../comps-rhel4.xml.in.h:36
+#: ../comps-rhel4-u5.xml.in.h:36 ../comps-fc6.xml.in.h:76
+#: ../comps-fc7.xml.in.h:82 ../comps-rhel5-client-core.xml.in.h:75
+#: ../comps-rhel5-client-workstation.xml.in.h:23
+#: ../comps-rhel5-server-core.xml.in.h:71
+msgid "Legacy Software Development"
+msgstr "Tworzenie klasycznego oprogramowania"
+
+#: ../comps-taroon.xml.in.h:65 ../comps-rhel4.xml.in.h:37
+#: ../comps-rhel4-u5.xml.in.h:37 ../comps-fc6.xml.in.h:77
+#: ../comps-fc7.xml.in.h:83 ../comps-rhel5-client-core.xml.in.h:76
+#: ../comps-rhel5-server-core.xml.in.h:72
+msgid "Legacy Software Support"
+msgstr "Obsługa klasycznego oprogramowanie"
+
+#: ../comps-taroon.xml.in.h:66 ../comps-rhel4.xml.in.h:38
+#: ../comps-rhel4-u5.xml.in.h:38 ../comps-fc6.xml.in.h:79
+#: ../comps-fc7.xml.in.h:85 ../comps-rhel5-client-core.xml.in.h:78
+#: ../comps-rhel5-client-workstation.xml.in.h:24
+#: ../comps-rhel5-server-core.xml.in.h:73
+msgid "Mail Server"
+msgstr "Serwer pocztowy"
+
+#: ../comps-taroon.xml.in.h:67 ../comps-rhel5-client-core.xml.in.h:81
+#: ../comps-rhel5-client-workstation.xml.in.h:25
+#: ../comps-rhel5-server-core.xml.in.h:76
+msgid "Miscellaneous Included Packages"
+msgstr "Różne zawarte pakiety"
+
+#: ../comps-taroon.xml.in.h:68
+msgid "Mozilla packages for the x86 platform"
+msgstr "Pakiety Mozilli dla platformy x86"
+
+#: ../comps-taroon.xml.in.h:69 ../comps-rhel4.xml.in.h:39
+#: ../comps-rhel4-u5.xml.in.h:39
+msgid "Multilib support packages"
+msgstr "Pakiety obsługi Multilib"
+
+#: ../comps-taroon.xml.in.h:70 ../comps-rhel4.xml.in.h:40
+#: ../comps-rhel4-u5.xml.in.h:40 ../comps-fc6.xml.in.h:83
+#: ../comps-fc7.xml.in.h:89 ../comps-rhel5-client-core.xml.in.h:82
+#: ../comps-rhel5-client-workstation.xml.in.h:26
+#: ../comps-rhel5-server-core.xml.in.h:77
+msgid "MySQL Database"
+msgstr "Baza danych MySQL"
+
+#: ../comps-taroon.xml.in.h:71 ../comps-rhel4.xml.in.h:41
+#: ../comps-rhel4-u5.xml.in.h:41 ../comps-fc6.xml.in.h:84
+#: ../comps-fc7.xml.in.h:90 ../comps-rhel5-client-core.xml.in.h:83
+#: ../comps-rhel5-client-workstation.xml.in.h:27
+#: ../comps-rhel5-server-core.xml.in.h:78
+msgid "Network Servers"
+msgstr "Serwery sieciowe"
+
+#: ../comps-taroon.xml.in.h:72 ../comps-rhel4.xml.in.h:42
+#: ../comps-rhel4-u5.xml.in.h:42 ../comps-fc6.xml.in.h:85
+#: ../comps-fc7.xml.in.h:91 ../comps-rhel5-client-core.xml.in.h:84
+#: ../comps-rhel5-client-workstation.xml.in.h:28
+#: ../comps-rhel5-server-core.xml.in.h:79
+msgid "News Server"
+msgstr "Serwer grup dyskusyjnych"
+
+#: ../comps-taroon.xml.in.h:73 ../comps-fc6.xml.in.h:87
+#: ../comps-fc7.xml.in.h:93 ../comps-rhel5-client-core.xml.in.h:85
+#: ../comps-rhel5-server-core.xml.in.h:80
+msgid "Norwegian Support"
+msgstr "Obsługa norweskiego"
+
+#: ../comps-taroon.xml.in.h:74 ../comps-rhel4.xml.in.h:43
+#: ../comps-rhel4-u5.xml.in.h:43 ../comps-fc6.xml.in.h:88
+#: ../comps-fc7.xml.in.h:94 ../comps-rhel5-client-core.xml.in.h:86
+#: ../comps-rhel5-server-core.xml.in.h:81
+msgid "Office/Productivity"
+msgstr "Biuro/praca biurowa"
+
+#: ../comps-taroon.xml.in.h:75 ../comps-fc6.xml.in.h:91
+#: ../comps-fc7.xml.in.h:97 ../comps-rhel5-client-core.xml.in.h:91
+#: ../comps-rhel5-server-core.xml.in.h:85
+msgid "Polish Support"
+msgstr "Obsługa polskiego"
+
+#: ../comps-taroon.xml.in.h:76 ../comps-fc6.xml.in.h:92
+#: ../comps-fc7.xml.in.h:98 ../comps-rhel5-client-core.xml.in.h:92
+#: ../comps-rhel5-server-core.xml.in.h:86
+msgid "Portuguese Support"
+msgstr "Obsługa portugalskiego"
+
+#: ../comps-taroon.xml.in.h:77 ../comps-rhel4.xml.in.h:45
+#: ../comps-rhel4-u5.xml.in.h:45 ../comps-fc6.xml.in.h:94
+#: ../comps-fc7.xml.in.h:100 ../comps-rhel5-client-core.xml.in.h:94
+#: ../comps-rhel5-server-core.xml.in.h:88
+msgid "Printing Support"
+msgstr "Obsługa drukowania"
+
+#: ../comps-taroon.xml.in.h:78 ../comps-fc6.xml.in.h:96
+#: ../comps-fc7.xml.in.h:102 ../comps-rhel5-client-core.xml.in.h:96
+#: ../comps-rhel5-server-core.xml.in.h:90
+msgid "Romanian Support"
+msgstr "Obsługa rumuńskiego"
+
+#: ../comps-taroon.xml.in.h:79 ../comps-rhel4.xml.in.h:46
+#: ../comps-rhel4-u5.xml.in.h:46 ../comps-fc6.xml.in.h:97
+#: ../comps-fc7.xml.in.h:103 ../comps-rhel5-client-core.xml.in.h:97
+#: ../comps-rhel5-client-workstation.xml.in.h:31
+#: ../comps-rhel5-server-core.xml.in.h:91
+msgid "Ruby"
+msgstr "Ruby"
+
+#: ../comps-taroon.xml.in.h:80 ../comps-fc6.xml.in.h:98
+#: ../comps-fc7.xml.in.h:104 ../comps-rhel5-client-core.xml.in.h:98
+#: ../comps-rhel5-cluster-st.xml.in.h:19 ../comps-rhel5-cluster.xml.in.h:19
+#: ../comps-rhel5-server-core.xml.in.h:92 ../comps-rhel5-vt.xml.in.h:17
+msgid "Russian Support"
+msgstr "Obsługa rosyjskiego"
+
+#: ../comps-taroon.xml.in.h:81
+msgid "SQL Database"
+msgstr "Baza danych SQL"
+
+#: ../comps-taroon.xml.in.h:82 ../comps-fc6.xml.in.h:99
+#: ../comps-fc7.xml.in.h:105 ../comps-rhel5-client-core.xml.in.h:99
+#: ../comps-rhel5-server-core.xml.in.h:93
+msgid "Serbian Support"
+msgstr "Obsługa serbskiego"
+
+#: ../comps-taroon.xml.in.h:83 ../comps-rhel4.xml.in.h:47
+#: ../comps-rhel4-u5.xml.in.h:47
+msgid "Server"
+msgstr "Serwer"
+
+#: ../comps-taroon.xml.in.h:84 ../comps-rhel4.xml.in.h:48
+#: ../comps-rhel4-u5.xml.in.h:48 ../comps-fc6.xml.in.h:100
+#: ../comps-fc7.xml.in.h:106 ../comps-rhel5-client-core.xml.in.h:100
+#: ../comps-rhel5-client-workstation.xml.in.h:32
+#: ../comps-rhel5-server-core.xml.in.h:94
+msgid "Server Configuration Tools"
+msgstr "Narzędzia konfiguracyjne serwera"
+
+#: ../comps-taroon.xml.in.h:85 ../comps-rhel4.xml.in.h:49
+#: ../comps-rhel4-u5.xml.in.h:49 ../comps-fc6.xml.in.h:101
+#: ../comps-fc7.xml.in.h:107 ../comps-rhel5-client-core.xml.in.h:101
+#: ../comps-rhel5-server-core.xml.in.h:95
+msgid "Servers"
+msgstr "Serwery"
+
+#: ../comps-taroon.xml.in.h:86 ../comps-fc6.xml.in.h:103
+#: ../comps-fc7.xml.in.h:110 ../comps-rhel5-client-core.xml.in.h:104
+#: ../comps-rhel5-server-core.xml.in.h:98
+msgid "Slovak Support"
+msgstr "Obsługa słowackiego"
+
+#: ../comps-taroon.xml.in.h:87 ../comps-fc6.xml.in.h:104
+#: ../comps-fc7.xml.in.h:111 ../comps-rhel5-client-core.xml.in.h:105
+#: ../comps-rhel5-server-core.xml.in.h:99
+msgid "Slovenian Support"
+msgstr "Obsługa słoweńskiego"
+
+#: ../comps-taroon.xml.in.h:88 ../comps-rhel4.xml.in.h:50
+#: ../comps-rhel4-u5.xml.in.h:50 ../comps-fc6.xml.in.h:105
+#: ../comps-fc7.xml.in.h:112 ../comps-rhel5-client-core.xml.in.h:106
+#: ../comps-rhel5-client-workstation.xml.in.h:34
+#: ../comps-rhel5-server-core.xml.in.h:100
+msgid "Smallest possible installation"
+msgstr "Najmniejsza możliwa instalacja"
+
+#: ../comps-taroon.xml.in.h:89 ../comps-rhel4.xml.in.h:51
+#: ../comps-rhel4-u5.xml.in.h:51 ../comps-rhel5-client-core.xml.in.h:108
+#: ../comps-rhel5-client-workstation.xml.in.h:35
+#: ../comps-rhel5-server-core.xml.in.h:102
+msgid ""
+"Sometimes called text editors, these are programs that allow you to create "
+"and edit files. These include Emacs and Vi."
+msgstr ""
+"Czasem nazywane edytorami tekstu, są to programy umożliwiające tworzenie i "
+"modyfikowanie plików. Zawiera Emacsa i Vi."
+
+#: ../comps-taroon.xml.in.h:90 ../comps-rhel4.xml.in.h:52
+#: ../comps-rhel4-u5.xml.in.h:52 ../comps-fc6.xml.in.h:108
+#: ../comps-fc7.xml.in.h:115 ../comps-rhel5-client-core.xml.in.h:109
+#: ../comps-rhel5-server-core.xml.in.h:103
+msgid "Sound and Video"
+msgstr "Dźwięk i obraz"
+
+#: ../comps-taroon.xml.in.h:91 ../comps-fc6.xml.in.h:111
+#: ../comps-fc7.xml.in.h:118 ../comps-rhel5-client-core.xml.in.h:110
+#: ../comps-rhel5-cluster-st.xml.in.h:21 ../comps-rhel5-cluster.xml.in.h:21
+#: ../comps-rhel5-server-core.xml.in.h:104 ../comps-rhel5-vt.xml.in.h:19
+msgid "Spanish Support"
+msgstr "Obsługa hiszpańskiego"
+
+#: ../comps-taroon.xml.in.h:92 ../comps-rhel4.xml.in.h:53
+#: ../comps-rhel4-u5.xml.in.h:53
+msgid "Support for developing packages for the non-primary architecture"
+msgstr "Obsługa tworzenia pakietów dla innych architektur niż podstawowa"
+
+#: ../comps-taroon.xml.in.h:93 ../comps-fc6.xml.in.h:115
+#: ../comps-fc7.xml.in.h:122 ../comps-rhel5-client-core.xml.in.h:113
+#: ../comps-rhel5-server-core.xml.in.h:107
+msgid "Swedish Support"
+msgstr "Obsługa szwedzkiego"
+
+#: ../comps-taroon.xml.in.h:94
+msgid "Syriac Support"
+msgstr "Obsługa syryjskiego"
+
+#: ../comps-taroon.xml.in.h:95 ../comps-rhel4.xml.in.h:54
+#: ../comps-rhel4-u5.xml.in.h:54
+msgid "System"
+msgstr "System"
+
+#: ../comps-taroon.xml.in.h:96 ../comps-rhel4.xml.in.h:55
+#: ../comps-rhel4-u5.xml.in.h:55 ../comps-fc6.xml.in.h:116
+#: ../comps-fc7.xml.in.h:123 ../comps-rhel5-client-core.xml.in.h:114
+#: ../comps-rhel5-client-workstation.xml.in.h:38
+#: ../comps-rhel5-server-core.xml.in.h:108
+msgid "System Tools"
+msgstr "Narzędzia systemowe"
+
+#: ../comps-taroon.xml.in.h:97 ../comps-rhel4.xml.in.h:56
+#: ../comps-rhel4-u5.xml.in.h:56 ../comps-fc6.xml.in.h:119
+#: ../comps-fc7.xml.in.h:126 ../comps-rhel5-client-core.xml.in.h:117
+#: ../comps-rhel5-client-workstation.xml.in.h:39
+#: ../comps-rhel5-server-core.xml.in.h:111
+msgid "Text-based Internet"
+msgstr "Tekstowy Internet"
+
+#: ../comps-taroon.xml.in.h:98 ../comps-rhel4.xml.in.h:57
+#: ../comps-rhel4-u5.xml.in.h:57 ../comps-fc6.xml.in.h:122
+#: ../comps-fc7.xml.in.h:129
+msgid "The GNU Emacs text editor."
+msgstr "Edytor tekstu GNU Emacs."
+
+#: ../comps-taroon.xml.in.h:99 ../comps-rhel4.xml.in.h:58
+#: ../comps-rhel4-u5.xml.in.h:58 ../comps-fc7.xml.in.h:130
+msgid "The XEmacs text editor."
+msgstr "Edytor tekstu XEmacs."
+
+#: ../comps-taroon.xml.in.h:100 ../comps-rhel4.xml.in.h:59
+#: ../comps-rhel4-u5.xml.in.h:59 ../comps-fc6.xml.in.h:123
+#: ../comps-fc7.xml.in.h:131 ../comps-rhel5-client-core.xml.in.h:119
+#: ../comps-rhel5-server-core.xml.in.h:113
+msgid "The applications include office suites, PDF viewers, and more."
+msgstr ""
+"Aplikacje zawierające pakiety biurowe, przeglądarki PDF i wiele więcej."
+
+#: ../comps-taroon.xml.in.h:101 ../comps-rhel4.xml.in.h:60
+#: ../comps-rhel4-u5.xml.in.h:60 ../comps-fc6.xml.in.h:124
+#: ../comps-fc7.xml.in.h:132 ../comps-rhel5-client-core.xml.in.h:120
+#: ../comps-rhel5-client-workstation.xml.in.h:41
+#: ../comps-rhel5-server-core.xml.in.h:114
+msgid ""
+"The packages in this group are core libraries needed to develop applications."
+msgstr ""
+"Pakiety z tej grupy są podstawowymi bibliotekami wymaganymi do tworzenia "
+"aplikacji."
+
+#: ../comps-taroon.xml.in.h:102 ../comps-rhel4.xml.in.h:61
+#: ../comps-rhel4-u5.xml.in.h:61
+msgid "These packages allow you to configure an IMAP or Postfix mail server."
+msgstr ""
+"Te pakiety pozwalają na skonfigurowanie serwera pocztowego IMAP lub Postfix."
+
+#: ../comps-taroon.xml.in.h:103 ../comps-rhel4.xml.in.h:62
+#: ../comps-rhel4-u5.xml.in.h:62 ../comps-fc6.xml.in.h:126
+#: ../comps-fc7.xml.in.h:134 ../comps-rhel5-client-core.xml.in.h:122
+#: ../comps-rhel5-client-workstation.xml.in.h:43
+#: ../comps-rhel5-server-core.xml.in.h:116
+msgid ""
+"These packages allow you to develop applications for the X Window System."
+msgstr "Te pakiety pozwalają na tworzenia aplikacji dla systemu X Window."
+
+#: ../comps-taroon.xml.in.h:104 ../comps-rhel4.xml.in.h:63
+#: ../comps-rhel4-u5.xml.in.h:63 ../comps-fc6.xml.in.h:127
+#: ../comps-fc7.xml.in.h:136 ../comps-rhel5-client-core.xml.in.h:123
+#: ../comps-rhel5-client-workstation.xml.in.h:44
+#: ../comps-rhel5-server-core.xml.in.h:117
+msgid ""
+"These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgstr ""
+"Te pakiety zawierają serwery usług sieciowych, takie jak DHCP, Kerberos i "
+"NIS."
+
+#: ../comps-taroon.xml.in.h:105 ../comps-rhel4.xml.in.h:64
+#: ../comps-rhel4-u5.xml.in.h:64 ../comps-fc6.xml.in.h:128
+#: ../comps-fc7.xml.in.h:137 ../comps-rhel5-client-core.xml.in.h:124
+#: ../comps-rhel5-client-workstation.xml.in.h:45
+#: ../comps-rhel5-server-core.xml.in.h:118
+msgid ""
+"These packages include servers for old network protocols such as rsh and "
+"telnet."
+msgstr ""
+"Te pakiety zawierają serwery starych protokołów sieciowych, takich jak rsh i "
+"telnet."
+
+#: ../comps-taroon.xml.in.h:106 ../comps-rhel4.xml.in.h:65
+#: ../comps-rhel4-u5.xml.in.h:65
+msgid ""
+"These packages provide compatibility support for previous releases of Red "
+"Hat Enterprise Linux."
+msgstr ""
+"Te pakiety dostarczają obsługę zgodności z poprzednimi wydaniami Red Hat "
+"Enterprise Linuksa."
+
+#: ../comps-taroon.xml.in.h:107 ../comps-rhel4.xml.in.h:66
+#: ../comps-rhel4-u5.xml.in.h:66 ../comps-rhel5-client-core.xml.in.h:127
+#: ../comps-rhel5-server-core.xml.in.h:121
+msgid ""
+"These tools allow you to create documentation in the DocBook format and "
+"convert them to HTML, PDF, Postscript, and text."
+msgstr ""
+"Te narzędzia pozwalają na tworzenia dokumentacji w formacie DocBook i "
+"konwersji jej do formatów HTML, PDF, PostScript i tekstu."
+
+#: ../comps-taroon.xml.in.h:108 ../comps-rhel4.xml.in.h:67
+#: ../comps-rhel4-u5.xml.in.h:67 ../comps-fc6.xml.in.h:133
+#: ../comps-fc7.xml.in.h:142 ../comps-rhel5-client-core.xml.in.h:128
+#: ../comps-rhel5-client-workstation.xml.in.h:47
+#: ../comps-rhel5-server-core.xml.in.h:122
+msgid "These tools allow you to run a Web server on the system."
+msgstr "Te narzędzia pozwalają na uruchomienie serwera WWW."
+
+#: ../comps-taroon.xml.in.h:109 ../comps-rhel4.xml.in.h:68
+#: ../comps-rhel4-u5.xml.in.h:68 ../comps-fc6.xml.in.h:134
+#: ../comps-fc7.xml.in.h:143 ../comps-rhel5-client-core.xml.in.h:129
+#: ../comps-rhel5-client-workstation.xml.in.h:48
+#: ../comps-rhel5-server-core.xml.in.h:123
+msgid "These tools allow you to run an FTP server on the system."
+msgstr "Te narzędzia pozwalają uruchomienie serwera FTP."
+
+#: ../comps-taroon.xml.in.h:110 ../comps-rhel4.xml.in.h:69
+#: ../comps-rhel4-u5.xml.in.h:69 ../comps-fc6.xml.in.h:135
+#: ../comps-fc7.xml.in.h:144 ../comps-rhel5-client-core.xml.in.h:130
+#: ../comps-rhel5-client-workstation.xml.in.h:49
+#: ../comps-rhel5-server-core.xml.in.h:124
+msgid ""
+"These tools include core development tools such as automake, gcc, perl, "
+"python, and debuggers."
+msgstr ""
+"Te narzędzia zawierają podstawowe narzędzia programistyczne, takie jak "
+"Automake, GCC, Perl, Python i debugery."
+
+#: ../comps-taroon.xml.in.h:111 ../comps-rhel4.xml.in.h:70
+#: ../comps-rhel4-u5.xml.in.h:70 ../comps-fc6.xml.in.h:136
+#: ../comps-fc7.xml.in.h:145 ../comps-rhel5-client-core.xml.in.h:131
+#: ../comps-rhel5-client-workstation.xml.in.h:50
+#: ../comps-rhel5-server-core.xml.in.h:125
+msgid "This group allows you to configure the system as a news server."
+msgstr "Ta grupa pozwala na skonfigurowanie serwera grup dyskusyjnych."
+
+#: ../comps-taroon.xml.in.h:112 ../comps-rhel4.xml.in.h:71
+#: ../comps-rhel4-u5.xml.in.h:71 ../comps-fc6.xml.in.h:137
+#: ../comps-fc7.xml.in.h:146 ../comps-rhel5-client-core.xml.in.h:132
+#: ../comps-rhel5-client-workstation.xml.in.h:51
+#: ../comps-rhel5-server-core.xml.in.h:126
+msgid "This group contains all of Red Hat's custom server configuration tools."
+msgstr ""
+"Ta grupa zawiera wszystkie narzędzia konfiguracyjne serwerów stworzone przez "
+"Red Hata."
+
+#: ../comps-taroon.xml.in.h:113 ../comps-rhel4.xml.in.h:73
+#: ../comps-rhel4-u5.xml.in.h:73 ../comps-fc6.xml.in.h:139
+#: ../comps-fc7.xml.in.h:148 ../comps-rhel5-client-core.xml.in.h:134
+#: ../comps-rhel5-client-workstation.xml.in.h:53
+#: ../comps-rhel5-server-core.xml.in.h:128
+msgid "This group includes graphical email, Web, and chat clients."
+msgstr ""
+"Ta grupa zawiera graficzne klienty poczty elektronicznej, WWW i komunikatory."
+
+#: ../comps-taroon.xml.in.h:114 ../comps-rhel4.xml.in.h:74
+#: ../comps-rhel4-u5.xml.in.h:74 ../comps-fc6.xml.in.h:140
+#: ../comps-fc7.xml.in.h:149 ../comps-rhel5-client-core.xml.in.h:135
+#: ../comps-rhel5-client-workstation.xml.in.h:54
+#: ../comps-rhel5-server-core.xml.in.h:129
+msgid ""
+"This group includes packages for performing mathematical and scientific "
+"computations and plotting, as well as unit conversion."
+msgstr ""
+"Ta grupa zawiera pakiety do przeprowadzania obliczeń matematycznych i "
+"naukowych, rysowania wykresów i konwersji jednostek."
+
+#: ../comps-taroon.xml.in.h:115 ../comps-rhel4.xml.in.h:75
+#: ../comps-rhel4-u5.xml.in.h:75 ../comps-fc6.xml.in.h:141
+#: ../comps-fc7.xml.in.h:150 ../comps-rhel5-client-core.xml.in.h:136
+#: ../comps-rhel5-server-core.xml.in.h:130
+msgid "This group includes packages to help you manipulate and scan images."
+msgstr "Ta grupa zawiera pakiety do obróbki i skanowania obrazów."
+
+#: ../comps-taroon.xml.in.h:116 ../comps-rhel4.xml.in.h:76
+#: ../comps-rhel4-u5.xml.in.h:76 ../comps-fc6.xml.in.h:142
+#: ../comps-fc7.xml.in.h:151 ../comps-rhel5-client-core.xml.in.h:137
+#: ../comps-rhel5-client-workstation.xml.in.h:55
+#: ../comps-rhel5-server-core.xml.in.h:131
+msgid ""
+"This group includes text-based email, Web, and chat clients. These "
+"applications do not require the X Window System."
+msgstr ""
+"Ta grupa zawiera tekstowe klienty poczty elektronicznej, WWW i komunikatory. "
+"Aplikacje te nie wymagają systemu X Window."
+
+#: ../comps-taroon.xml.in.h:117 ../comps-rhel4.xml.in.h:77
+#: ../comps-rhel4-u5.xml.in.h:77 ../comps-fc6.xml.in.h:143
+#: ../comps-fc7.xml.in.h:152 ../comps-rhel5-client-core.xml.in.h:138
+#: ../comps-rhel5-client-workstation.xml.in.h:56
+#: ../comps-rhel5-server-core.xml.in.h:132
+msgid ""
+"This group is a collection of graphical administration tools for the system, "
+"such as for managing user accounts and configuring system hardware."
+msgstr ""
+"Ta grupa zawiera zbiór graficznych narzędzi administracyjnych, takich jak do "
+"zarządzania kontami użytkowników i skonfigurowania sprzętu systemu."
+
+#: ../comps-taroon.xml.in.h:118 ../comps-rhel4.xml.in.h:78
+#: ../comps-rhel4-u5.xml.in.h:78 ../comps-fc6.xml.in.h:144
+#: ../comps-fc7.xml.in.h:155 ../comps-rhel5-client-core.xml.in.h:139
+#: ../comps-rhel5-client-workstation.xml.in.h:57
+#: ../comps-rhel5-server-core.xml.in.h:133
+msgid ""
+"This group is a collection of various tools for the system, such as the "
+"client for connecting to SMB shares and tools to monitor network traffic."
+msgstr ""
+"Ta grupa zawiera zbiór różnych narzędzi systemowych, takich jak klient do "
+"łączenia się do udziałów SMB i narzędzia do monitorowania ruchu sieciowego."
+
+#: ../comps-taroon.xml.in.h:119 ../comps-rhel4.xml.in.h:79
+#: ../comps-rhel4-u5.xml.in.h:79 ../comps-fc6.xml.in.h:145
+#: ../comps-fc7.xml.in.h:156 ../comps-rhel5-client-core.xml.in.h:140
+#: ../comps-rhel5-client-workstation.xml.in.h:58
+#: ../comps-rhel5-server-core.xml.in.h:134
+msgid ""
+"This package group allows you to run a DNS name server (BIND) on the system."
+msgstr "Ta grupa pakietów pozwala na uruchomienie serwera nazw DNS (BIND)."
+
+#: ../comps-taroon.xml.in.h:120 ../comps-rhel4.xml.in.h:80
+#: ../comps-rhel4-u5.xml.in.h:80 ../comps-fc6.xml.in.h:146
+#: ../comps-fc7.xml.in.h:157 ../comps-rhel5-client-core.xml.in.h:141
+#: ../comps-rhel5-server-core.xml.in.h:135
+msgid ""
+"This package group allows you to share files between Linux and MS Windows"
+"(tm) systems."
+msgstr ""
+"Ta grupa pakietów pozwala na na współdzielenie plików między systemami Linux "
+"i Microsoft Windows(tm)."
+
+#: ../comps-taroon.xml.in.h:121 ../comps-rhel4.xml.in.h:81
+#: ../comps-rhel4-u5.xml.in.h:81 ../comps-fc6.xml.in.h:147
+#: ../comps-fc7.xml.in.h:158 ../comps-rhel5-client-core.xml.in.h:142
+#: ../comps-rhel5-client-workstation.xml.in.h:59
+#: ../comps-rhel5-server-core.xml.in.h:136
+msgid "This package group contains packages useful for use with MySQL."
+msgstr "Ta grupa pakietów zawiera przydatne narzędzia do używania z MySQL."
+
+#: ../comps-taroon.xml.in.h:122 ../comps-rhel4.xml.in.h:82
+#: ../comps-rhel4-u5.xml.in.h:82 ../comps-fc6.xml.in.h:148
+#: ../comps-fc7.xml.in.h:159 ../comps-rhel5-client-core.xml.in.h:143
+#: ../comps-rhel5-client-workstation.xml.in.h:60
+#: ../comps-rhel5-server-core.xml.in.h:137
+msgid "This package group includes packages useful for use with Postgresql."
+msgstr ""
+"Ta grupa pakietów zawiera przydatne narzędzia do używania z PostgreSQL."
+
+#: ../comps-taroon.xml.in.h:123 ../comps-fc6.xml.in.h:151
+#: ../comps-fc7.xml.in.h:163 ../comps-rhel5-client-core.xml.in.h:144
+#: ../comps-rhel5-server-core.xml.in.h:138
+msgid "Turkish Support"
+msgstr "Obsługa tureckiego"
+
+#: ../comps-taroon.xml.in.h:124 ../comps-fc6.xml.in.h:152
+#: ../comps-fc7.xml.in.h:164 ../comps-rhel5-client-core.xml.in.h:145
+#: ../comps-rhel5-server-core.xml.in.h:139
+msgid "Ukrainian Support"
+msgstr "Obsługa ukraińskiego"
+
+#: ../comps-taroon.xml.in.h:125
+msgid "Unsupported Development Libraries"
+msgstr "Nieobsługiwane biblioteki programistyczne"
+
+#: ../comps-taroon.xml.in.h:126 ../comps-rhel4.xml.in.h:83
+#: ../comps-rhel4-u5.xml.in.h:83 ../comps-fc6.xml.in.h:154
+#: ../comps-fc7.xml.in.h:167 ../comps-rhel5-client-core.xml.in.h:147
+#: ../comps-rhel5-server-core.xml.in.h:141
+msgid "Various ways to relax and spend your free time."
+msgstr "Różne sposoby na odpoczynek i spędzenie wolnego czasu."
+
+#: ../comps-taroon.xml.in.h:127 ../comps-rhel4.xml.in.h:84
+#: ../comps-rhel4-u5.xml.in.h:84 ../comps-fc6.xml.in.h:157
+#: ../comps-fc7.xml.in.h:171 ../comps-rhel5-client-core.xml.in.h:148
+#: ../comps-rhel5-client-workstation.xml.in.h:61
+#: ../comps-rhel5-server-core.xml.in.h:142
+msgid "Web Server"
+msgstr "Serwer WWW"
+
+#: ../comps-taroon.xml.in.h:128 ../comps-rhel4.xml.in.h:85
+#: ../comps-rhel4-u5.xml.in.h:85 ../comps-fc6.xml.in.h:159
+#: ../comps-fc7.xml.in.h:174 ../comps-rhel5-client-core.xml.in.h:150
+#: ../comps-rhel5-server-core.xml.in.h:144
+msgid "Windows File Server"
+msgstr "Serwer plików Windows"
+
+#: ../comps-taroon.xml.in.h:129 ../comps-rhel4.xml.in.h:86
+#: ../comps-rhel4-u5.xml.in.h:86
+msgid "Workstation Common"
+msgstr "Typowa stacja robocza"
+
+#: ../comps-taroon.xml.in.h:130 ../comps-rhel4.xml.in.h:87
+#: ../comps-rhel4-u5.xml.in.h:87 ../comps-fc6.xml.in.h:160
+#: ../comps-fc7.xml.in.h:175 ../comps-rhel5-client-core.xml.in.h:151
+#: ../comps-rhel5-client-workstation.xml.in.h:64
+#: ../comps-rhel5-server-core.xml.in.h:145
+msgid "X Software Development"
+msgstr "Narzędzia programistyczne X Window"
+
+#: ../comps-taroon.xml.in.h:131 ../comps-rhel4.xml.in.h:88
+#: ../comps-rhel4-u5.xml.in.h:88 ../comps-fc6.xml.in.h:161
+#: ../comps-fc7.xml.in.h:176 ../comps-rhel5-client-core.xml.in.h:152
+#: ../comps-rhel5-client-workstation.xml.in.h:65
+#: ../comps-rhel5-server-core.xml.in.h:146
+msgid "X Window System"
+msgstr "System X Window"
+
+#: ../comps-taroon.xml.in.h:132 ../comps-rhel4.xml.in.h:89
+#: ../comps-rhel4-u5.xml.in.h:89 ../comps-fc7.xml.in.h:177
+msgid "XEmacs"
+msgstr "XEmacs"
+
+#: ../comps-taroon.xml.in.h:133
+msgid "ppc64 Compatibility Arch Support"
+msgstr "Obsługa architektur zgodnych z PPC64"
+
+#: ../comps-taroon.xml.in.h:134 ../comps-rhel4.xml.in.h:91
+#: ../comps-rhel4-u5.xml.in.h:91
+msgid "x86 Compatibility Arch Development Support"
+msgstr "Obsługa tworzenia oprogramowania dla architektur zgodnych z x86"
+
+#: ../comps-taroon.xml.in.h:135 ../comps-rhel4.xml.in.h:92
+#: ../comps-rhel4-u5.xml.in.h:92
+msgid "x86 Compatibility Arch Support"
+msgstr "Obsługa zgodności z architekturą x86"
+
+#: ../comps-taroon-docs-emea.xml.in.h:1 ../comps-rhel4-docs-dvd.xml.in.h:2
+msgid "Brazilian Portuguese"
+msgstr "brazylijski portugalski"
+
+#: ../comps-taroon-docs-emea.xml.in.h:2 ../comps-taroon-docs-apac.xml.in.h:1
+#: ../comps-rhel4-docs-dvd.xml.in.h:3
+msgid "English"
+msgstr "angielski"
+
+#: ../comps-taroon-docs-emea.xml.in.h:3 ../comps-rhel4-docs-dvd.xml.in.h:4
+msgid "French"
+msgstr "francuski"
+
+#: ../comps-taroon-docs-emea.xml.in.h:4 ../comps-rhel4-docs-dvd.xml.in.h:5
+msgid "German"
+msgstr "niemiecki"
+
+#: ../comps-taroon-docs-emea.xml.in.h:5 ../comps-rhel4-docs-dvd.xml.in.h:8
+msgid "Italian"
+msgstr "włoski"
+
+#: ../comps-taroon-docs-emea.xml.in.h:6 ../comps-taroon-docs-apac.xml.in.h:4
+msgid "Red Hat Enterprise Linux 3 Documentation"
+msgstr "Dokumentacja Red Hat Enterprise Linuksa 3"
+
+#: ../comps-taroon-docs-emea.xml.in.h:7 ../comps-rhel4-docs-dvd.xml.in.h:14
+msgid "Spanish"
+msgstr "hiszpański"
+
+#: ../comps-taroon-docs-emea.xml.in.h:8 ../comps-rhel4-docs-dvd.xml.in.h:17
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the "
+"Brazilian Portuguese language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku "
+"portugalskim brazylijskim."
+
+#: ../comps-taroon-docs-emea.xml.in.h:9 ../comps-taroon-docs-apac.xml.in.h:6
+#: ../comps-rhel4-docs-dvd.xml.in.h:18
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the "
+"English language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku angielskim."
+
+#: ../comps-taroon-docs-emea.xml.in.h:10 ../comps-rhel4-docs-dvd.xml.in.h:19
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the French "
+"language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku francuskim."
+
+#: ../comps-taroon-docs-emea.xml.in.h:11 ../comps-rhel4-docs-dvd.xml.in.h:20
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the German "
+"language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku niemieckim."
+
+#: ../comps-taroon-docs-emea.xml.in.h:12 ../comps-rhel4-docs-dvd.xml.in.h:23
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the "
+"Italian language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku włoskim."
+
+#: ../comps-taroon-docs-emea.xml.in.h:13 ../comps-rhel4-docs-dvd.xml.in.h:28
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the "
+"Spanish language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku "
+"hiszpańskim."
+
+#: ../comps-taroon-docs-apac.xml.in.h:2 ../comps-rhel4-docs-dvd.xml.in.h:9
+msgid "Japanese"
+msgstr "japoński"
+
+#: ../comps-taroon-docs-apac.xml.in.h:3 ../comps-rhel4-docs-dvd.xml.in.h:10
+msgid "Korean"
+msgstr "koreański"
+
+#: ../comps-taroon-docs-apac.xml.in.h:5 ../comps-rhel4-docs-dvd.xml.in.h:13
+msgid "Simplified Chinese"
+msgstr "chiński uproszczony"
+
+#: ../comps-taroon-docs-apac.xml.in.h:7 ../comps-rhel4-docs-dvd.xml.in.h:24
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the "
+"Japanese language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku japońskim."
+
+#: ../comps-taroon-docs-apac.xml.in.h:8 ../comps-rhel4-docs-dvd.xml.in.h:25
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the Korean "
+"language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku koreańskim."
+
+#: ../comps-taroon-docs-apac.xml.in.h:9 ../comps-rhel4-docs-dvd.xml.in.h:27
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the "
+"Simplified Chinese language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku chińskim "
+"uproszczonym."
+
+#: ../comps-taroon-docs-apac.xml.in.h:10 ../comps-rhel4-docs-dvd.xml.in.h:30
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the "
+"Traditional Chinese language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku chińskim "
+"tradycyjnym."
+
+#: ../comps-taroon-docs-apac.xml.in.h:11 ../comps-rhel4-docs-dvd.xml.in.h:31
+msgid "Traditional Chinese"
+msgstr "chiński tradycyjny"
+
+#: ../comps-rhel4.xml.in.h:32 ../comps-rhel4-u5.xml.in.h:32
+#: ../comps-fc6.xml.in.h:69 ../comps-fc7.xml.in.h:75
+#: ../comps-rhel5-client-core.xml.in.h:68
+#: ../comps-rhel5-server-core.xml.in.h:64
+msgid "KDE (K Desktop Environment)"
+msgstr "Środowisko graficzne KDE"
+
+#: ../comps-rhel4.xml.in.h:44 ../comps-rhel4-u5.xml.in.h:44
+#: ../comps-fc6.xml.in.h:93 ../comps-fc7.xml.in.h:99
+#: ../comps-rhel5-client-core.xml.in.h:93
+#: ../comps-rhel5-client-workstation.xml.in.h:30
+#: ../comps-rhel5-server-core.xml.in.h:87
+msgid "PostgreSQL Database"
+msgstr "Baza danych PostgreSQL"
+
+#: ../comps-rhel4.xml.in.h:72 ../comps-rhel4-u5.xml.in.h:72
+#: ../comps-fc6.xml.in.h:138 ../comps-fc7.xml.in.h:147
+#: ../comps-rhel5-client-core.xml.in.h:133
+#: ../comps-rhel5-client-workstation.xml.in.h:52
+#: ../comps-rhel5-server-core.xml.in.h:127
+msgid ""
+"This group includes a minimal set of packages. Useful for creating small "
+"router/firewall boxes, for example."
+msgstr ""
+"Ta grupa zawiera minimalny zestaw pakietów. Przydatna do tworzenia na "
+"przykład małych routerów/zapór sieciowych."
+
+#: ../comps-rhel4.xml.in.h:90 ../comps-rhel4-u5.xml.in.h:90
+msgid "ppc64 Compatibility Arch Development Support"
+msgstr "Obsługa tworzenia oprogramowania dla architektur zgodnych z PPC64"
+
+#: ../comps-fc6.xml.in.h:4 ../comps-fc7.xml.in.h:5
+msgid "Applications to perform a variety of tasks"
+msgstr "Aplikacje do wykonywania różnych zadań"
+
+#: ../comps-fc6.xml.in.h:5 ../comps-fc7.xml.in.h:6
+#: ../comps-rhel5-client-core.xml.in.h:5 ../comps-rhel5-server-core.xml.in.h:5
+msgid "Arabic Support"
+msgstr "Obsługa arabskiego"
+
+#: ../comps-fc6.xml.in.h:6 ../comps-fc7.xml.in.h:8
+#: ../comps-rhel5-client-core.xml.in.h:6 ../comps-rhel5-cluster-st.xml.in.h:1
+#: ../comps-rhel5-cluster.xml.in.h:1 ../comps-rhel5-server-core.xml.in.h:6
+#: ../comps-rhel5-vt.xml.in.h:1
+msgid "Assamese Support"
+msgstr "Obsługa asamskiego"
+
+#: ../comps-fc6.xml.in.h:9 ../comps-fc7.xml.in.h:11
+#: ../comps-rhel5-client-core.xml.in.h:9 ../comps-rhel5-server-core.xml.in.h:9
+msgid "Base System"
+msgstr "Podstawowy system"
+
+#: ../comps-fc6.xml.in.h:11 ../comps-fc7.xml.in.h:13
+#: ../comps-rhel5-client-core.xml.in.h:11
+msgid "Basque Support"
+msgstr "Obsługa baskijskiego"
+
+#: ../comps-fc6.xml.in.h:12 ../comps-fc7.xml.in.h:14
+#: ../comps-rhel5-client-core.xml.in.h:12 ../comps-rhel5-cluster-st.xml.in.h:2
+#: ../comps-rhel5-cluster.xml.in.h:2 ../comps-rhel5-server-core.xml.in.h:11
+#: ../comps-rhel5-vt.xml.in.h:2
+msgid "Bengali Support"
+msgstr "Obsługa bengalskiego"
+
+#: ../comps-fc6.xml.in.h:13 ../comps-fc7.xml.in.h:15
+#: ../comps-rhel5-client-core.xml.in.h:13 ../comps-rhel5-cluster-st.xml.in.h:3
+#: ../comps-rhel5-cluster.xml.in.h:3 ../comps-rhel5-server-core.xml.in.h:12
+#: ../comps-rhel5-vt.xml.in.h:3
+msgid "Brazilian Portuguese Support"
+msgstr "Obsługa portugalskiego brazylijskiego"
+
+#: ../comps-fc6.xml.in.h:14 ../comps-fc7.xml.in.h:16
+#: ../comps-rhel5-client-core.xml.in.h:14
+#: ../comps-rhel5-server-core.xml.in.h:13
+msgid "Breton Support"
+msgstr "Obsługa bretońskiego"
+
+#: ../comps-fc6.xml.in.h:15 ../comps-fc7.xml.in.h:17
+#: ../comps-rhel5-client-core.xml.in.h:16
+#: ../comps-rhel5-server-core.xml.in.h:15
+msgid "Bulgarian Support"
+msgstr "Obsługa bułgarskiego"
+
+#: ../comps-fc6.xml.in.h:18 ../comps-fc7.xml.in.h:20
+#: ../comps-rhel5-client-core.xml.in.h:20 ../comps-rhel5-cluster.xml.in.h:5
+msgid "Clustering"
+msgstr "Klastry"
+
+#: ../comps-fc6.xml.in.h:19 ../comps-fc7.xml.in.h:21
+msgid "Clustering Support"
+msgstr "Obsługa klastrów."
+
+#: ../comps-fc6.xml.in.h:21 ../comps-fc7.xml.in.h:23
+#: ../comps-rhel5-client-core.xml.in.h:23
+#: ../comps-rhel5-server-core.xml.in.h:19
+msgid "Croatian Support"
+msgstr "Obsługa chorwackiego"
+
+#: ../comps-fc6.xml.in.h:25 ../comps-fc7.xml.in.h:27
+#: ../comps-rhel5-client-core.xml.in.h:27
+#: ../comps-rhel5-server-core.xml.in.h:23
+msgid "Desktop Environments"
+msgstr "Środowiska graficzne"
+
+#: ../comps-fc6.xml.in.h:26 ../comps-fc7.xml.in.h:28
+#: ../comps-rhel5-client-core.xml.in.h:28
+#: ../comps-rhel5-server-core.xml.in.h:24
+msgid "Desktop environments"
+msgstr "Środowiska graficzne"
+
+#: ../comps-fc6.xml.in.h:30 ../comps-fc7.xml.in.h:32
+msgid "Dial-up Networking Support"
+msgstr "Obsługa sieci dial-up"
+
+#: ../comps-fc6.xml.in.h:32 ../comps-fc7.xml.in.h:34
+#: ../comps-rhel5-client-workstation.xml.in.h:8
+msgid "Eclipse"
+msgstr "Eclipse"
+
+#: ../comps-fc6.xml.in.h:36 ../comps-fc7.xml.in.h:40
+msgid "English (UK) Support"
+msgstr "Obsługa angielskiego (Wielka Brytania)"
+
+#: ../comps-fc6.xml.in.h:38 ../comps-fc7.xml.in.h:42
+#: ../comps-rhel5-client-core.xml.in.h:37
+#: ../comps-rhel5-server-core.xml.in.h:33
+msgid "Ethiopic Support"
+msgstr "Obsługa etiopskiego"
+
+#: ../comps-fc6.xml.in.h:40 ../comps-fc7.xml.in.h:44
+#: ../comps-rhel5-client-core.xml.in.h:39
+#: ../comps-rhel5-server-core.xml.in.h:35
+msgid "Faeroese Support"
+msgstr "Obsługa farerskiego"
+
+#: ../comps-fc6.xml.in.h:46 ../comps-fc7.xml.in.h:50
+msgid ""
+"GNOME is a powerful graphical user interface which includes a panel, "
+"desktop, system icons, and a graphical file manager."
+msgstr ""
+"GNOME jest graficznym interfejsem użytkownika o dużych możliwościach, "
+"zawierającym panel, pulpit, ikony systemowe oraz graficzny menedżer plików."
+
+#: ../comps-fc6.xml.in.h:47 ../comps-fc7.xml.in.h:51
+#: ../comps-rhel5-client-core.xml.in.h:46
+#: ../comps-rhel5-server-core.xml.in.h:42
+msgid "Gaelic Support"
+msgstr "Obsługa gaelickiego"
+
+#: ../comps-fc6.xml.in.h:48 ../comps-fc7.xml.in.h:52
+#: ../comps-rhel5-client-core.xml.in.h:47
+#: ../comps-rhel5-server-core.xml.in.h:43
+msgid "Galician Support"
+msgstr "Obsługa galisyjskiego"
+
+#: ../comps-fc6.xml.in.h:54 ../comps-fc7.xml.in.h:58
+#: ../comps-rhel5-client-core.xml.in.h:53 ../comps-rhel5-cluster-st.xml.in.h:8
+#: ../comps-rhel5-cluster.xml.in.h:9 ../comps-rhel5-server-core.xml.in.h:49
+#: ../comps-rhel5-vt.xml.in.h:7
+msgid "Gujarati Support"
+msgstr "Obsługa gudżarati"
+
+#: ../comps-fc6.xml.in.h:56 ../comps-fc7.xml.in.h:61
+#: ../comps-rhel5-client-core.xml.in.h:55 ../comps-rhel5-cluster-st.xml.in.h:9
+#: ../comps-rhel5-cluster.xml.in.h:10 ../comps-rhel5-server-core.xml.in.h:51
+#: ../comps-rhel5-vt.xml.in.h:8
+msgid "Hindi Support"
+msgstr "Obsługa hindi"
+
+#: ../comps-fc6.xml.in.h:59 ../comps-fc7.xml.in.h:64
+#: ../comps-rhel5-client-core.xml.in.h:58
+#: ../comps-rhel5-server-core.xml.in.h:54
+msgid "Indonesian Support"
+msgstr "Obsługa indonezyjskiego"
+
+#: ../comps-fc6.xml.in.h:64 ../comps-fc7.xml.in.h:70
+#: ../comps-rhel5-client-core.xml.in.h:63
+#: ../comps-rhel5-server-core.xml.in.h:59
+msgid "Irish Support"
+msgstr "Obsługa irlandzkiego"
+
+#: ../comps-fc6.xml.in.h:67 ../comps-fc7.xml.in.h:73
+#: ../comps-rhel5-client-core.xml.in.h:66
+#: ../comps-rhel5-client-supplementary.xml.in.h:2
+#: ../comps-rhel5-client-workstation.xml.in.h:19
+#: ../comps-rhel5-server-core.xml.in.h:62
+#: ../comps-rhel5-server-supplementary.xml.in.h:2
+msgid "Java"
+msgstr "Java"
+
+#: ../comps-fc6.xml.in.h:68 ../comps-fc7.xml.in.h:74
+#: ../comps-rhel5-client-core.xml.in.h:67
+#: ../comps-rhel5-client-workstation.xml.in.h:20
+#: ../comps-rhel5-server-core.xml.in.h:63
+msgid "Java Development"
+msgstr "Programowanie w Javie"
+
+#: ../comps-fc6.xml.in.h:71 ../comps-fc7.xml.in.h:77
+msgid ""
+"KDE is a powerful graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE jest graficznym interfejsem użytkownika o dużych możliwościach, "
+"zawierającym panel, pulpit, ikony systemowe oraz graficzny menedżer plików."
+
+#: ../comps-fc6.xml.in.h:72 ../comps-fc7.xml.in.h:78
+#: ../comps-rhel5-client-core.xml.in.h:71
+#: ../comps-rhel5-cluster-st.xml.in.h:12 ../comps-rhel5-cluster.xml.in.h:13
+#: ../comps-rhel5-server-core.xml.in.h:67 ../comps-rhel5-vt.xml.in.h:11
+msgid "Kannada Support"
+msgstr "Obsługa kannada"
+
+#: ../comps-fc6.xml.in.h:74 ../comps-fc7.xml.in.h:80
+#: ../comps-rhel5-client-core.xml.in.h:73
+#: ../comps-rhel5-server-core.xml.in.h:69
+msgid "Languages"
+msgstr "Języki"
+
+#: ../comps-fc6.xml.in.h:78 ../comps-fc7.xml.in.h:84
+#: ../comps-rhel5-client-core.xml.in.h:77
+msgid "Lithuanian Support"
+msgstr "Obsługa litewskiego"
+
+#: ../comps-fc6.xml.in.h:80 ../comps-fc7.xml.in.h:86
+msgid "Malay Support"
+msgstr "Obsługa malajskiego"
+
+#: ../comps-fc6.xml.in.h:81 ../comps-fc7.xml.in.h:87
+#: ../comps-rhel5-client-core.xml.in.h:79
+#: ../comps-rhel5-cluster-st.xml.in.h:14 ../comps-rhel5-cluster.xml.in.h:15
+#: ../comps-rhel5-server-core.xml.in.h:74 ../comps-rhel5-vt.xml.in.h:13
+msgid "Malayalam Support"
+msgstr "Obsługa malajalam"
+
+#: ../comps-fc6.xml.in.h:82 ../comps-fc7.xml.in.h:88
+#: ../comps-rhel5-client-core.xml.in.h:80
+#: ../comps-rhel5-cluster-st.xml.in.h:15 ../comps-rhel5-cluster.xml.in.h:16
+#: ../comps-rhel5-server-core.xml.in.h:75 ../comps-rhel5-vt.xml.in.h:14
+msgid "Marathi Support"
+msgstr "Obsługa marathi"
+
+#: ../comps-fc6.xml.in.h:86 ../comps-fc7.xml.in.h:92
+msgid "Northern Sotho Support"
+msgstr "Obsługa północnego sotho"
+
+#: ../comps-fc6.xml.in.h:89 ../comps-fc7.xml.in.h:95
+#: ../comps-rhel5-client-core.xml.in.h:87
+#: ../comps-rhel5-cluster-st.xml.in.h:16 ../comps-rhel5-cluster.xml.in.h:17
+#: ../comps-rhel5-server-core.xml.in.h:82 ../comps-rhel5-vt.xml.in.h:15
+msgid "Oriya Support"
+msgstr "Obsługa oriya"
+
+#: ../comps-fc6.xml.in.h:90 ../comps-fc7.xml.in.h:96
+#: ../comps-rhel5-client-core.xml.in.h:88
+#: ../comps-rhel5-server-core.xml.in.h:83
+msgid ""
+"Packages which provide functionality for developing and building "
+"applications."
+msgstr "Pakiety dostarczające funkcjonalność tworzenia i budowania aplikacji."
+
+#: ../comps-fc6.xml.in.h:95 ../comps-fc7.xml.in.h:101
+#: ../comps-rhel5-client-core.xml.in.h:95
+#: ../comps-rhel5-cluster-st.xml.in.h:18 ../comps-rhel5-cluster.xml.in.h:18
+#: ../comps-rhel5-server-core.xml.in.h:89 ../comps-rhel5-vt.xml.in.h:16
+msgid "Punjabi Support"
+msgstr "Obsługa pendżabi"
+
+#: ../comps-fc6.xml.in.h:102 ../comps-fc7.xml.in.h:109
+#: ../comps-rhel5-client-core.xml.in.h:103
+#: ../comps-rhel5-cluster-st.xml.in.h:20 ../comps-rhel5-cluster.xml.in.h:20
+#: ../comps-rhel5-server-core.xml.in.h:97 ../comps-rhel5-vt.xml.in.h:18
+msgid "Sinhala Support"
+msgstr "Obsługa sinhala"
+
+#: ../comps-fc6.xml.in.h:106 ../comps-fc7.xml.in.h:113
+#: ../comps-rhel5-client-core.xml.in.h:107
+#: ../comps-rhel5-server-core.xml.in.h:101
+msgid "Software used for running network servers"
+msgstr "Oprogramowanie używane do uruchamiania serwerów sieciowych"
+
+#: ../comps-fc6.xml.in.h:107 ../comps-fc7.xml.in.h:114
+msgid ""
+"Sometimes called text editors, these are programs that allow you to create "
+"and edit text files. This includes Emacs and Vi."
+msgstr ""
+"Czasem nazywane edytorami tekstu, są to programy umożliwiające tworzenie i "
+"modyfikowanie plików tekstowych. Zawiera Emacsa i Vi."
+
+#: ../comps-fc6.xml.in.h:109 ../comps-fc7.xml.in.h:116
+msgid "Southern Ndebele Support"
+msgstr "Obsługa południowego ndebele"
+
+#: ../comps-fc6.xml.in.h:110 ../comps-fc7.xml.in.h:117
+msgid "Southern Sotho Support"
+msgstr "Obsługa południowego sotho"
+
+#: ../comps-fc6.xml.in.h:112 ../comps-fc7.xml.in.h:119
+#: ../comps-rhel5-client-core.xml.in.h:111
+#: ../comps-rhel5-client-workstation.xml.in.h:36
+#: ../comps-rhel5-server-core.xml.in.h:105
+msgid "Support for developing programs in the Java programming language."
+msgstr "Obsługa tworzenia programów w języku programowania Java."
+
+#: ../comps-fc6.xml.in.h:113 ../comps-fc7.xml.in.h:120
+#: ../comps-rhel5-client-core.xml.in.h:112
+#: ../comps-rhel5-client-workstation.xml.in.h:37
+#: ../comps-rhel5-server-core.xml.in.h:106
+msgid "Support for running programs written in the Java programming language."
+msgstr "Obsługa uruchamiania programów napisanych w języku programowania Java."
+
+#: ../comps-fc6.xml.in.h:114 ../comps-fc7.xml.in.h:121
+msgid "Swati Support"
+msgstr "Obsługa swati"
+
+#: ../comps-fc6.xml.in.h:117 ../comps-fc7.xml.in.h:124
+#: ../comps-rhel5-client-core.xml.in.h:115
+#: ../comps-rhel5-cluster-st.xml.in.h:22 ../comps-rhel5-cluster.xml.in.h:22
+#: ../comps-rhel5-server-core.xml.in.h:109 ../comps-rhel5-vt.xml.in.h:20
+msgid "Tamil Support"
+msgstr "Obsługa tamilskiego"
+
+#: ../comps-fc6.xml.in.h:118 ../comps-fc7.xml.in.h:125
+#: ../comps-rhel5-client-core.xml.in.h:116
+#: ../comps-rhel5-cluster-st.xml.in.h:23 ../comps-rhel5-cluster.xml.in.h:23
+#: ../comps-rhel5-server-core.xml.in.h:110 ../comps-rhel5-vt.xml.in.h:21
+msgid "Telugu Support"
+msgstr "Obsługa telugu"
+
+#: ../comps-fc6.xml.in.h:120 ../comps-fc7.xml.in.h:127
+#: ../comps-rhel5-client-core.xml.in.h:118
+#: ../comps-rhel5-server-core.xml.in.h:112
+msgid "Thai Support"
+msgstr "Obsługa tajskiego"
+
+#: ../comps-fc6.xml.in.h:121 ../comps-fc7.xml.in.h:128
+#: ../comps-rhel5-client-workstation.xml.in.h:40
+msgid "The Eclipse Integrated Development Environment."
+msgstr "Zintegrowane środowisko programistyczne Eclipse."
+
+#: ../comps-fc6.xml.in.h:125 ../comps-fc7.xml.in.h:133
+#: ../comps-rhel5-client-core.xml.in.h:121
+#: ../comps-rhel5-client-workstation.xml.in.h:42
+#: ../comps-rhel5-server-core.xml.in.h:115
+msgid "These packages allow you to configure an IMAP or SMTP mail server."
+msgstr ""
+"Te pakiety pozwalają na skonfigurowanie serwera pocztowego IMAP lub SMTP."
+
+#: ../comps-fc6.xml.in.h:129 ../comps-fc7.xml.in.h:138
+msgid "These packages provide a virtualization environment."
+msgstr "Te pakiety dostarczają środowiska wirtualizacji."
+
+#: ../comps-fc6.xml.in.h:130 ../comps-fc7.xml.in.h:139
+msgid "These packages provide compatibility with previous releases."
+msgstr "Te pakiety zapewniają zgodność z poprzednimi wydaniami."
+
+#: ../comps-fc6.xml.in.h:131 ../comps-fc7.xml.in.h:140
+#: ../comps-rhel5-client-core.xml.in.h:126
+#: ../comps-rhel5-server-core.xml.in.h:120
+msgid ""
+"These packages provide support for various locales including fonts and input "
+"methods."
+msgstr ""
+"Te pakiety zapewniają obsługę różnych lokalizacji, w tym czcionki i metody "
+"wejścia."
+
+#: ../comps-fc6.xml.in.h:132 ../comps-fc7.xml.in.h:141
+msgid ""
+"These tools allow you to create documents in the DocBook format and convert "
+"them into HTML, PDF, Postscript, and text."
+msgstr ""
+"Te narzędzia pozwalają na tworzenie dokumentacji w formacie DocBook i "
+"konwersji jej do formatów HTML, PDF, PostScript i tekstu."
+
+#: ../comps-fc6.xml.in.h:149 ../comps-fc7.xml.in.h:161
+msgid "Tsonga Support"
+msgstr "Obsługa tsonga"
+
+#: ../comps-fc6.xml.in.h:150 ../comps-fc7.xml.in.h:162
+msgid "Tswana Support"
+msgstr "Obsługa tswana"
+
+#: ../comps-fc6.xml.in.h:153 ../comps-fc7.xml.in.h:166
+#: ../comps-rhel5-client-core.xml.in.h:146
+#: ../comps-rhel5-server-core.xml.in.h:140
+msgid "Various core pieces of the system."
+msgstr "Różne podstawowe fragmenty systemu."
+
+#: ../comps-fc6.xml.in.h:155 ../comps-fc7.xml.in.h:168
+msgid "Venda Support"
+msgstr "Obsługa venda"
+
+#: ../comps-fc6.xml.in.h:156 ../comps-fc7.xml.in.h:169
+#: ../comps-rhel5-vt.xml.in.h:22
+msgid "Virtualization"
+msgstr "Wirtualizacja"
+
+#: ../comps-fc6.xml.in.h:158 ../comps-fc7.xml.in.h:172
+#: ../comps-rhel5-client-core.xml.in.h:149
+#: ../comps-rhel5-server-core.xml.in.h:143
+msgid "Welsh Support"
+msgstr "Obsługa walijskiego"
+
+#: ../comps-fc6.xml.in.h:162 ../comps-fc7.xml.in.h:180
+msgid "Xhosa Support"
+msgstr "Obsługa xhosa"
+
+#: ../comps-fc6.xml.in.h:163 ../comps-fc7.xml.in.h:181
+#: ../comps-rhel5-client-core.xml.in.h:153
+msgid "Zulu Support"
+msgstr "Obsługa zuluskiego"
+
+#: ../comps-fc7.xml.in.h:1
+msgid "A lightweight desktop environment that works well on low end machines."
+msgstr ""
+"Lekkie środowisko graficzne, które dobrze działa na słabych komputerach."
+
+#: ../comps-fc7.xml.in.h:7
+msgid "Armenian Support"
+msgstr "Obsługa ormiańskiego"
+
+#: ../comps-fc7.xml.in.h:36
+msgid "Educational Software"
+msgstr "Oprogramowanie edukacyjne"
+
+#: ../comps-fc7.xml.in.h:37
+msgid "Educational software for learning"
+msgstr "Oprogramowanie edukacyjne"
+
+#: ../comps-fc7.xml.in.h:59
+msgid "Hardware Support"
+msgstr "Obsługa sprzętu"
+
+#: ../comps-fc7.xml.in.h:66
+msgid ""
+"Install these packages in order to develop GTK+ and XFCE graphical "
+"applications."
+msgstr "Zainstaluj te pakiety, aby tworzyć graficzne aplikacje GTK+ i XFCE."
+
+#: ../comps-fc7.xml.in.h:108
+msgid ""
+"Simple window managers that aren't part of a larger desktop environment."
+msgstr ""
+"Proste menedżery okien nie będące częścią większego środowiska graficznego."
+
+#: ../comps-fc7.xml.in.h:135
+msgid ""
+"These packages are helpful when developing web applications or web pages."
+msgstr "Te pakiety pozwalają na tworzenia aplikacji WWW lub stron WWW."
+
+#: ../comps-fc7.xml.in.h:153
+msgid ""
+"This group is a collection of tools and resources of Armenian environments."
+msgstr "Ta grupa jest zbiorem narzędzi i zasobów dla środowisk ormiańskich."
+
+#: ../comps-fc7.xml.in.h:154
+msgid ""
+"This group is a collection of tools for various hardware specific utilities."
+msgstr "Ta grupa jest zbiorem programów dla różnych narzędzi sprzętowych."
+
+#: ../comps-fc7.xml.in.h:160
+#, fuzzy
+msgid "Tibetan Support"
+msgstr "Obsługa niemieckiego"
+
+#: ../comps-fc7.xml.in.h:165
+#, fuzzy
+msgid "Urdu Support"
+msgstr "Obsługa zuluskiego"
+
+#: ../comps-fc7.xml.in.h:170
+msgid "Web Development"
+msgstr "Tworzenie WWW"
+
+#: ../comps-fc7.xml.in.h:173
+msgid "Window Managers"
+msgstr "Menedżery okien"
+
+#: ../comps-fc7.xml.in.h:178
+msgid "XFCE"
+msgstr "XFCE"
+
+#: ../comps-fc7.xml.in.h:179
+msgid "XFCE Software Development"
+msgstr "Narzędzia programistyczne XFCE"
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:1
+msgid "Bengali"
+msgstr "bengalski"
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:6
+msgid "Gujarati"
+msgstr "gudżarati"
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:7
+msgid "Hindi"
+msgstr "hindi"
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:11
+msgid "Punjabi"
+msgstr "pendżabi"
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:12
+msgid "Red Hat Enterprise Linux 4 Documentation"
+msgstr "Dokumentacja Red Hat Enterprise Linuksa 4"
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:15
+msgid "Tamil"
+msgstr "tamilski"
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:16
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the "
+"Bengali language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku bengalskim."
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:21
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the "
+"Gujarati language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku gudżarati."
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:22
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the Hindi "
+"language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku hindi."
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:26
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the "
+"Punjabi language."
+msgstr ""
+"Ta grupa zawiera dokumentację Red Hat Enterprise Linuksa w języku pendżabi."
+
+#: ../comps-rhel4-docs-dvd.xml.in.h:29
+msgid ""
+"This group contains the Red Hat Enterprise Linux documentation in the Tamil "
+"language."
+msgstr ""
+"Ta grupa zawiera dokumentacje Red Hat Enterprise Linuksa w języku tamilskim."
+
+#: ../comps-rhel5-client-core.xml.in.h:4 ../comps-rhel5-server-core.xml.in.h:4
+msgid "Applications for a variety of tasks"
+msgstr "Aplikacje dla różnych zadań"
+
+#: ../comps-rhel5-client-core.xml.in.h:19 ../comps-rhel5-cluster-st.xml.in.h:5
+msgid "Cluster Storage"
+msgstr "Klastrowa pamięć masowa"
+
+#: ../comps-rhel5-client-core.xml.in.h:21 ../comps-rhel5-cluster.xml.in.h:6
+msgid "Clustering Support."
+msgstr "Obsługa klastrów."
+
+#: ../comps-rhel5-client-core.xml.in.h:89
+#: ../comps-rhel5-cluster-st.xml.in.h:17
+msgid "Packages which provide support for cluster storage."
+msgstr "Pakiety dostarczające obsługę klastrowej pamięci masowej."
+
+#: ../comps-rhel5-client-core.xml.in.h:90
+#: ../comps-rhel5-client-workstation.xml.in.h:29
+#: ../comps-rhel5-server-core.xml.in.h:84
+msgid "Packages which provide support for single-node GFS."
+msgstr "Pakiety dostarczające obsługę jednowęzłowego GFS."
+
+#: ../comps-rhel5-client-core.xml.in.h:102
+#: ../comps-rhel5-client-workstation.xml.in.h:33
+#: ../comps-rhel5-server-core.xml.in.h:96
+msgid "Single Node GFS Support"
+msgstr "Obsługa jednowęzłowego GFS"
+
+#: ../comps-rhel5-client-core.xml.in.h:125
+#: ../comps-rhel5-client-workstation.xml.in.h:46
+#: ../comps-rhel5-server-core.xml.in.h:119
+msgid "These packages provide compatibility support with previous releases."
+msgstr "Te pakiety zapewniają obsługę zgodności z poprzednimi wydaniami."
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:3
+#: ../comps-rhel5-server-supplementary.xml.in.h:3
+msgid "Java Runtime Environments and Development Kits"
+msgstr "Środowiska wykonawcze i zestawy programistyczne"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:4
+#: ../comps-rhel5-server-supplementary.xml.in.h:4
+msgid "Misc"
+msgstr "Różne"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:5
+#: ../comps-rhel5-server-supplementary.xml.in.h:5
+msgid "Misc packages"
+msgstr "Różne pakiety"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:6
+#: ../comps-rhel5-server-supplementary.xml.in.h:6
+msgid "Multimedia"
+msgstr "Multimedia"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:7
+#: ../comps-rhel5-server-supplementary.xml.in.h:7
+msgid "Multimedia applications"
+msgstr "Aplikacje multimedialne"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:8
+#: ../comps-rhel5-server-supplementary.xml.in.h:8
+msgid ""
+"Packages which provide additional functionality for Red Hat Enterprise Linux"
+msgstr ""
+"Pakiety dostarczające dodatkową funkcjonalność dla Red Hat Enterprise Linuksa"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:9
+#: ../comps-rhel5-server-supplementary.xml.in.h:9
+msgid "Red Hat Enterprise Linux Extras"
+msgstr "Red Hat Enterprise Linux Extras"
+
+#: ../comps-rhel5-client-workstation.xml.in.h:62
+msgid "Workstation"
+msgstr "Stacja robocza"
+
+#: ../comps-rhel5-client-workstation.xml.in.h:63
+msgid "Workstation applications and utilities."
+msgstr "Aplikacje i narzędzia stacji roboczej."
+
+#: ../comps-rhel5-vt.xml.in.h:23
+msgid "Virtualization Support."
+msgstr "Obsługa wirtualizacji."
+
+#~ msgid "Compatibility Arch"
+#~ msgstr "Architektura zgodności"
+
+#~ msgid "Compatibility Arch Libraries"
+#~ msgstr "Biblioteki architektury zgodności"
+
+#~ msgid "Multilib library packages"
+#~ msgstr "Pakiety biblioteki Multilib"
+
+#~ msgid ""
+#~ "Packages which provide functionality for the compatibility architecture."
+#~ msgstr "Pakiety dostarczające funkcjonalność architektury zgodności."
