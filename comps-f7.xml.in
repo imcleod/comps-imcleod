@@ -47,6 +47,15 @@
     </packagelist>
   </group>
   <group>
+    <id>albanian-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>sq</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-sq</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>arabic-support</id>
     <_name>Arabic Support</_name>
     <_description/>
@@ -56,7 +65,7 @@
     <packagelist>
       <packagereq type="mandatory">fonts-arabic</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-ar</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-ar</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-ar</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Arabic</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ar</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ar</packagereq>
@@ -74,6 +83,7 @@
     <packagelist>
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+      <packagereq type="optional">m17n-db-armenian</packagereq>
     </packagelist>
   </group>
   <group>
@@ -373,6 +383,15 @@
     </packagelist>
   </group>
   <group>
+    <id>belarusian-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>be</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-be</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>bengali-support</id>
     <_name>Bengali Support</_name>
     <_description/>
@@ -388,6 +407,15 @@
     </packagelist>
   </group>
   <group>
+    <id>bosnian-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>bs</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-bs</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>brazilian-support</id>
     <_name>Brazilian Portuguese Support</_name>
     <_description/>
@@ -398,6 +426,7 @@
       <packagereq type="conditional" requires="aspell">aspell-pt</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Brazil</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-pt_BR</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-pt_br</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pt_BR</packagereq>
     </packagelist>
   </group>
@@ -467,11 +496,13 @@
     <langonly>zh</langonly>
     <packagelist>
       <packagereq type="mandatory">fonts-chinese</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-zh</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-zh</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Chinese-Big5</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-zh_CN</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-zh_TW</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-zh_cn</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-zh_tw</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_CN</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-chewing</packagereq>
@@ -575,7 +606,7 @@
     <packagelist>
       <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-cs</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-cs</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-cs</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-cs</packagereq>
@@ -597,7 +628,7 @@
     <langonly>da</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-da</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-da</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-da</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-da</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-da</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Danish</packagereq>
@@ -880,7 +911,7 @@
     <langonly>nl</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-nl</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-nl</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-nl</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-nl</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-nl</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Dutch</packagereq>
@@ -933,6 +964,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="gcompris">gcompris-sound-en</packagereq>
       <packagereq type="optional">childsplay</packagereq>
       <packagereq type="optional">drgeo</packagereq>
       <packagereq type="optional">drgeo-doc</packagereq>
@@ -1100,6 +1132,15 @@
     </packagelist>
   </group>
   <group>
+    <id>filipino-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>fil</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-fil</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>finnish-support</id>
     <_name>Finnish Support</_name>
     <_description/>
@@ -1107,7 +1148,7 @@
     <uservisible>false</uservisible>
     <langonly>fi</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-fi</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-fi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-fi</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Finnish</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-fi</packagereq>
@@ -1124,13 +1165,14 @@
     <langonly>fr</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-fr</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-fr</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-fr</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-fr</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-fr</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-French</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-fr</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-fr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fr</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-fr_ca</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fr</packagereq>
     </packagelist>
   </group>
@@ -1319,6 +1361,16 @@
     </packagelist>
   </group>
   <group>
+    <id>georgian-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ka</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-ka</packagereq>
+      <packagereq type="optional">m17n-db-georgian</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>german-support</id>
     <_name>German Support</_name>
     <_description/>
@@ -1327,13 +1379,14 @@
     <langonly>de</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-de</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-de</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-de</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-de</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-de</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-German</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-de</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-de</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-de</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-de_du</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-de</packagereq>
     </packagelist>
   </group>
@@ -1669,7 +1722,7 @@
     <langonly>el</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-el</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-el</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-el</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-el</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Greek</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-el</packagereq>
@@ -1732,6 +1785,7 @@
     <packagelist>
       <packagereq type="mandatory">fonts-hebrew</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-he</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-iw</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-he</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Hebrew</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-he</packagereq>
@@ -1767,7 +1821,7 @@
     <langonly>hu</langonly>
     <packagelist>
       <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-hu</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-hu</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-hu</packagereq>
@@ -1827,7 +1881,7 @@
     <langonly>it</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-it</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-it</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-it</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-it</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-it</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Italian</packagereq>
@@ -1846,7 +1900,7 @@
     <langonly>ja</langonly>
     <packagelist>
       <packagereq type="mandatory">fonts-japanese</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-ja</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-ja</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Japanese</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ja</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-ja</packagereq>
@@ -2137,6 +2191,7 @@
     <packagelist>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-km</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-km</packagereq>
+      <packagereq type="optional">m17n-db-khmer</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2148,13 +2203,23 @@
     <langonly>ko</langonly>
     <packagelist>
       <packagereq type="mandatory">fonts-korean</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-ko</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-ko</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Korean</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-ko</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ko</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ko_KR</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-hangul</packagereq>
       <packagereq type="optional">lv</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>lao-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>lo</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-lo</packagereq>
+      <packagereq type="optional">m17n-db-lao</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2300,6 +2365,15 @@
     </packagelist>
   </group>
   <group>
+    <id>maori-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>mi</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-mi_tn</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>marathi-support</id>
     <_name>Marathi Support</_name>
     <_description/>
@@ -2419,11 +2493,15 @@
     <langonly>nb</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-no</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-no</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-nb</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-nn</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Norwegian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Norwegian-Nynorsk</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-nb</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-nn</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-no</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-no_gr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nb_NO</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nn_NO</packagereq>
     </packagelist>
@@ -2525,7 +2603,7 @@
     <packagelist>
       <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-pl</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-pl</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-pl</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-pl</packagereq>
@@ -2545,7 +2623,7 @@
     <langonly>pt</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-pt</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-pt</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-pt</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-pt</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-pt</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Portuguese</packagereq>
@@ -2628,7 +2706,7 @@
       <packagereq type="mandatory">fonts-KOI8-R</packagereq>
       <packagereq type="mandatory">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-ru</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-ru</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-ru</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-ru</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ru</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Russian</packagereq>
@@ -2639,6 +2717,15 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-cyrillic</packagereq>
       <packagereq type="default">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">m17n-db-russian</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>samoan-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>sm</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-sm</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2656,6 +2743,9 @@
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Serbian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr-Latn</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-sr_cr</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-sr_cr_bo</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-sr_lt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sr_CS</packagereq>
       <packagereq type="optional">m17n-db-serbian</packagereq>
     </packagelist>
@@ -2740,6 +2830,17 @@
       <packagereq type="mandatory">samba</packagereq>
       <packagereq type="mandatory">samba-client</packagereq>
       <packagereq type="default">system-config-samba</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>somali-support</id>
+    <_name>Somail Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="conditional" requires="gcompris">gcompris-sound-so</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-so</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2867,7 +2968,7 @@
     <langonly>es</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-es</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-es</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-es</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-es</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-es</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Spanish</packagereq>
@@ -2922,7 +3023,7 @@
     <langonly>sv</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-sv</packagereq>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-sv</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-sv</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-sv</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-sv</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Swedish</packagereq>
@@ -3100,6 +3201,15 @@
     </packagelist>
   </group>
   <group>
+    <id>tagalog-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>tl</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-tl</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>tamil-support</id>
     <_name>Tamil Support</_name>
     <_description/>
@@ -3196,6 +3306,15 @@
     </packagelist>
   </group>
   <group>
+    <id>tonga-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>to</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-to</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>tsonga-support</id>
     <_name>Tsonga Support</_name>
     <_description/>
@@ -3225,7 +3344,7 @@
     <uservisible>false</uservisible>
     <langonly>tr</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="eclipse-sdk">eclipse-sdk-nls-tr</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-sdk-nls-tr</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-tr</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Turkish</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-tr</packagereq>
@@ -3276,6 +3395,16 @@
     <langonly>tn</langonly>
     <packagelist>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ve_ZA</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>vietnamese-support</id>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>vi</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-vi</packagereq>
+      <packagereq type="optional">m17n-db-vietnamese</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3587,11 +3716,14 @@
     <_description>These packages provide support for various locales including fonts and input methods.</_description>
     <grouplist>
       <groupid>afrikaans-support</groupid>
+      <groupid>albanian-support</groupid>
       <groupid>arabic-support</groupid>
       <groupid>armenian-support</groupid>
       <groupid>assamese-support</groupid>
       <groupid>basque-support</groupid>
+      <groupid>belarusian-support</groupid>
       <groupid>bengali-support</groupid>
+      <groupid>bosnian-support</groupid>
       <groupid>brazilian-support</groupid>
       <groupid>breton-support</groupid>
       <groupid>british-support</groupid>
@@ -3605,10 +3737,12 @@
       <groupid>estonian-support</groupid>
       <groupid>ethiopic-support</groupid>
       <groupid>faeroese-support</groupid>
+      <groupid>filipino-support</groupid>
       <groupid>finnish-support</groupid>
       <groupid>french-support</groupid>
       <groupid>gaelic-support</groupid>
       <groupid>galician-support</groupid>
+      <groupid>georgian-support</groupid>
       <groupid>german-support</groupid>
       <groupid>greek-support</groupid>
       <groupid>gujarati-support</groupid>
@@ -3621,38 +3755,48 @@
       <groupid>italian-support</groupid>
       <groupid>japanese-support</groupid>
       <groupid>kannada-support</groupid>
+      <groupid>khmer-support</groupid>
       <groupid>korean-support</groupid>
+      <groupid>lao-support</groupid>
+      <groupid>latvian-support</groupid>
       <groupid>lithuanian-support</groupid>
       <groupid>malay-support</groupid>
       <groupid>malayalam-support</groupid>
+      <groupid>maori-support</groupid>
       <groupid>marathi-support</groupid>
       <groupid>northern-sotho-support</groupid>
       <groupid>norwegian-support</groupid>
       <groupid>oriya-support</groupid>
+      <groupid>persian-support</groupid>
       <groupid>polish-support</groupid>
       <groupid>portuguese-support</groupid>
       <groupid>punjabi-support</groupid>
       <groupid>romanian-support</groupid>
       <groupid>russian-support</groupid>
+      <groupid>samoan-support</groupid>
       <groupid>serbian-support</groupid>
       <groupid>sinhala-support</groupid>
       <groupid>slovak-support</groupid>
       <groupid>slovenian-support</groupid>
+      <groupid>somali-support</groupid>
       <groupid>southern-ndebele-support</groupid>
       <groupid>southern-sotho-support</groupid>
       <groupid>spanish-support</groupid>
       <groupid>swati-support</groupid>
       <groupid>swedish-support</groupid>
+      <groupid>tagalog-support</groupid>
       <groupid>tamil-support</groupid>
       <groupid>telugu-support</groupid>
       <groupid>thai-support</groupid>
       <groupid>tibetan-support</groupid>
+      <groupid>tonga-support</groupid>
       <groupid>tsonga-support</groupid>
       <groupid>tswana-support</groupid>
       <groupid>turkish-support</groupid>
       <groupid>ukrainian-support</groupid>
       <groupid>urdu-support</groupid>
       <groupid>venda-support</groupid>
+      <groupid>vietnamese-support</groupid>
       <groupid>welsh-support</groupid>
       <groupid>xhosa-support</groupid>
       <groupid>zulu-support</groupid>
