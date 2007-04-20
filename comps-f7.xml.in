@@ -363,6 +363,7 @@
     <uservisible>false</uservisible>
     <langonly>eu</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-eu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-eu_ES</packagereq>
     </packagelist>
   </group>
@@ -391,6 +392,7 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-pt</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Brazil</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-pt_BR</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pt_BR</packagereq>
     </packagelist>
   </group>
@@ -414,6 +416,7 @@
     <langonly>en_GB</langonly>
     <packagelist>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-British</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-en_GB</packagereq>
     </packagelist>
   </group>
   <group>
@@ -444,6 +447,7 @@
       <packagereq type="conditional" requires="aspell">aspell-ca</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ca</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Catalan</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ca</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ca_ES</packagereq>
     </packagelist>
   </group>
@@ -458,6 +462,8 @@
       <packagereq type="mandatory">fonts-chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Chinese-Big5</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-zh_CN</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-zh_TW</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_CN</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-chewing</packagereq>
@@ -564,6 +570,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-cs</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Czech</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-cs</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-cs</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-dict-cs_CZ</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-cs_CZ</packagereq>
@@ -580,6 +587,7 @@
       <packagereq type="conditional" requires="aspell">aspell-da</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-da</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Danish</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-da</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-da</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-da_DK</packagereq>
     </packagelist>
@@ -859,6 +867,7 @@
       <packagereq type="conditional" requires="aspell">aspell-nl</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-nl</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Dutch</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-nl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nl</packagereq>
     </packagelist>
   </group>
@@ -1044,6 +1053,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ee</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Estonian</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-et</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-et_EE</packagereq>
     </packagelist>
   </group>
@@ -1079,6 +1089,7 @@
     <langonly>fi</langonly>
     <packagelist>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Finnish</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-fi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fi_FI</packagereq>
     </packagelist>
   </group>
@@ -1093,6 +1104,7 @@
       <packagereq type="conditional" requires="aspell">aspell-fr</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-fr</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-French</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-fr</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-fr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fr</packagereq>
     </packagelist>
@@ -1131,6 +1143,7 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-gl</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-gl</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-gl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-gl_ES</packagereq>
     </packagelist>
   </group>
@@ -1290,6 +1303,7 @@
       <packagereq type="conditional" requires="aspell">aspell-de</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-de</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-German</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-de</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-de</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-de</packagereq>
     </packagelist>
@@ -1628,6 +1642,7 @@
       <packagereq type="conditional" requires="aspell">aspell-el</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-el</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Greek</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-el</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-el_GR</packagereq>
       <packagereq type="optional">m17n-db-greek</packagereq>
     </packagelist>
@@ -1722,6 +1737,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-hu</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Hungarian</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-hu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hu_HU</packagereq>
     </packagelist>
   </group>
@@ -1758,6 +1774,7 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-ga</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ga</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ga</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ga_IE</packagereq>
     </packagelist>
   </group>
@@ -1772,6 +1789,7 @@
       <packagereq type="conditional" requires="aspell">aspell-it</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-it</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Italian</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-it</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-it</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-it</packagereq>
     </packagelist>
@@ -1786,6 +1804,7 @@
     <packagelist>
       <packagereq type="mandatory">fonts-japanese</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Japanese</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ja</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-ja</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ja_JP</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-anthy</packagereq>
@@ -2063,6 +2082,17 @@
     </packagelist>
   </group>
   <group>
+    <id>khmer-support</id>
+    <_name>Khmer Support</_name>
+    <_description/>
+    <default>false</false>
+    <uservisible>false</uservisible>
+    <langonly>km</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-km</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>korean-support</id>
     <_name>Korean Support</_name>
     <_description/>
@@ -2076,6 +2106,17 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ko_KR</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-hangul</packagereq>
       <packagereq type="optional">lv</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>latvian-support</id>
+    <_name>Latvian Support</_name>
+    <_description/>
+    <default>false</false>
+    <uservisible>false</uservisible>
+    <langonly>lv</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-lv</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2188,6 +2229,7 @@
     <langonly>ms</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-ms</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ms</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ms_MY</packagereq>
     </packagelist>
   </group>
@@ -2327,6 +2369,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-nn</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Norwegian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Norwegian-Nynorsk</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-nb</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nb_NO</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nn_NO</packagereq>
     </packagelist>
@@ -2407,6 +2450,17 @@
     </packagelist>
   </group>
   <group>
+    <id>persian-support</id>
+    <_name>Persian Support</_name>
+    <_description/>
+    <default>false</false>
+    <uservisible>false</uservisible>
+    <langonly>fa</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-fa</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>polish-support</id>
     <_name>Polish Support</_name>
     <_description/>
@@ -2420,6 +2474,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-pl</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Polish</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-pl</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-pl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pl_PL</packagereq>
     </packagelist>
@@ -2435,6 +2490,7 @@
       <packagereq type="conditional" requires="aspell">aspell-pt</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-pt</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Portuguese</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-pt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pt_PT</packagereq>
     </packagelist>
   </group>
@@ -2513,6 +2569,7 @@
       <packagereq type="conditional" requires="aspell">aspell-ru</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ru</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Russian</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ru</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-ru</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-cyrillic</packagereq>
@@ -2533,6 +2590,8 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Serbian</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr-Latn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sr_CS</packagereq>
       <packagereq type="optional">m17n-db-serbian</packagereq>
     </packagelist>
@@ -2581,6 +2640,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-sk</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Slovak</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-sk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sk_SK</packagereq>
       <packagereq type="optional">m17n-db-slovak</packagereq>
     </packagelist>
@@ -2599,6 +2659,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-sl</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Slovenian</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-sl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sl_SI</packagereq>
     </packagelist>
   </group>
@@ -2741,6 +2802,7 @@
       <packagereq type="conditional" requires="aspell">aspell-es</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-es</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Spanish</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-es</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-es</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-es</packagereq>
     </packagelist>
@@ -2792,6 +2854,7 @@
       <packagereq type="conditional" requires="aspell">aspell-sv</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-sv</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Swedish</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-sv</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sv</packagereq>
       <packagereq type="optional">m17n-db-swedish</packagereq>
     </packagelist>
@@ -3088,6 +3151,7 @@
     <langonly>tr</langonly>
     <packagelist>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Turkish</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-tr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-tr_TR</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
@@ -3104,6 +3168,7 @@
       <packagereq type="mandatory">fonts-KOI8-R</packagereq>
       <packagereq type="mandatory">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Ukrainian</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-uk</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-cyrillic</packagereq>
       <packagereq type="default">fonts-KOI8-R-75dpi</packagereq>
     </packagelist>
@@ -3230,6 +3295,7 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-cy</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-cy</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-cy</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-cy_GB</packagereq>
     </packagelist>
   </group>
