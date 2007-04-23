@@ -2856,7 +2856,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">alsa-utils</packagereq>
-      <packagereq type="mandatory">sox</packagereq>
       <packagereq type="mandatory">vorbis-tools</packagereq>
       <packagereq type="default">cdparanoia</packagereq>
       <packagereq type="default">genisoimage</packagereq>
@@ -2864,6 +2863,7 @@
       <packagereq type="default">icedax</packagereq>
       <packagereq type="default">rhythmbox</packagereq>
       <packagereq type="default">sound-juicer</packagereq>
+      <packagereq type="default">sox</packagereq>
       <packagereq type="default">totem</packagereq>
       <packagereq type="default">totem-mozplugin</packagereq>
       <packagereq type="default">wodim</packagereq>
