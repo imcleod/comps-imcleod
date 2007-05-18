@@ -83,6 +83,7 @@
     <_description>This group is a collection of tools and resources of Armenian environments.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
+    <langonly>hy</langonly>
     <packagelist>
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
@@ -1896,6 +1897,18 @@
     </packagelist>
   </group>
   <group>
+    <id>inuktitut-support</id>
+    <_name>Inuktitut Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>iu</langonly>
+    <packagelist>
+      <packagereq type="optional">dejavu-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>irish-support</id>
     <_name>Irish Support</_name>
     <_description/>
@@ -2264,6 +2277,8 @@
     <langonly>lo</langonly>
     <packagelist>
       <packagereq type="conditional" requires="moodle">moodle-lo</packagereq>
+      <packagereq type="optional">dejavu-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">m17n-db-lao</packagereq>
     </packagelist>
   </group>
@@ -3819,6 +3834,7 @@
       <groupid>hungarian-support</groupid>
       <groupid>icelandic-support</groupid>
       <groupid>indonesian-support</groupid>
+      <groupid>inuktitut-support</groupid>
       <groupid>irish-support</groupid>
       <groupid>italian-support</groupid>
       <groupid>japanese-support</groupid>
