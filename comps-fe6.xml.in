@@ -1198,6 +1198,8 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional">Django</packagereq>
+      <packagereq type="optional">python-cherrypy</packagereq>
+      <packagereq type="optional">TurboGears</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1231,7 +1233,6 @@
       <packagereq type="optional">tclhttpd</packagereq>
       <packagereq type="optional">thttpd</packagereq>
       <packagereq type="optional">tiquit</packagereq>
-      <packagereq type="optional">TurboGears</packagereq>
       <packagereq type="optional">vdr-wapd</packagereq>
       <packagereq type="optional">vdradmin-am</packagereq>
       <packagereq type="optional">zope</packagereq>
