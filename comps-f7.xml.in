@@ -429,6 +429,17 @@
     </packagelist>
   </group>
   <group>
+    <id>bhutanese-support</id>
+    <_name>Bhutanese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>dz</langonly>
+    <packagelist>
+      <packagereq type="mandatory">jomolhari-fonts</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>brazilian-support</id>
     <_name>Brazilian Portuguese Support</_name>
     <_description/>
@@ -3385,6 +3396,7 @@
     <packagelist>
       <packagereq type="mandatory">m17n-db-tibetan</packagereq>
       <packagereq type="mandatory">tibetan-machine-uni-fonts</packagereq>
+      <packagereq type="default">jomolhari-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3795,6 +3807,7 @@
       <groupid>belarusian-support</groupid>
       <groupid>bengali-support</groupid>
       <groupid>bosnian-support</groupid>
+      <groupid>bhutanese-support</groupid>
       <groupid>brazilian-support</groupid>
       <groupid>breton-support</groupid>
       <groupid>british-support</groupid>
