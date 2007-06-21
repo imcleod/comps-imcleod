@@ -443,6 +443,7 @@
     <langonly>dz</langonly>
     <packagelist>
       <packagereq type="mandatory">jomolhari-fonts</packagereq>
+      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-dz</packagereq>
     </packagelist>
   </group>
   <group>
