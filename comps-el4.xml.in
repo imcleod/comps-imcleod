@@ -177,6 +177,10 @@
     <_description>This group is a collection of tools for various hardware specific utilities.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
+    <packagelist>
+     <packagereq type="optional">ctapi-cyberjack</packagereq>
+     <packagereq type="optional">ctapi-cyberjack-pcsc</packagereq>
+     <packagereq type="optional">ctapi-cyberjack-tools</packagereq>
     <packagelist/>
   </group>
   <group>
