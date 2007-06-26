@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lv\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-04-19 16:21-0400\n"
+"POT-Creation-Date: 2007-06-26 14:03-0400\n"
 "PO-Revision-Date: 2006-11-21 06:57+0200\n"
 "Last-Translator: Gatis Kalnins <gatis.kalnins@metatrons.lv>\n"
 "Language-Team: Latvian <locale@laka.lv>\n"
@@ -16,224 +16,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.1\n"
 
-#: ../comps-jboss-app-platform.xml.in.h:1
-msgid "JBoss Enterprise Application Platform"
+#: ../comps-fe5.xml.in.h:1 ../comps-fe6.xml.in.h:1 ../comps-f7.xml.in.h:1
+#: ../comps-f8.xml.in.h:1
+msgid "A lightweight desktop environment that works well on low end machines."
 msgstr ""
 
-#: ../comps-jboss-app-platform.xml.in.h:2
-msgid "Packages which comprise the JBoss Enterprise Application Platform"
-msgstr ""
-
-#: ../comps-taroon.xml.in.h:1 ../comps-rhel4.xml.in.h:1
-#: ../comps-rhel4-u5.xml.in.h:1 ../comps-fc6.xml.in.h:1
-#: ../comps-fc7.xml.in.h:2 ../comps-rhel5-client-core.xml.in.h:1
-#: ../comps-rhel5-client-workstation.xml.in.h:1
-#: ../comps-rhel5-server-core.xml.in.h:1
+#: ../comps-fe5.xml.in.h:2 ../comps-fe6.xml.in.h:2 ../comps-f7.xml.in.h:2
+#: ../comps-f8.xml.in.h:2 ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
 msgid "Administration Tools"
 msgstr "Administrēšanas rīki"
 
-#: ../comps-taroon.xml.in.h:2 ../comps-fc6.xml.in.h:2 ../comps-fc7.xml.in.h:3
-#: ../comps-rhel5-client-core.xml.in.h:2 ../comps-rhel5-server-core.xml.in.h:2
-msgid "Afrikaans Support"
-msgstr "Āfrikāņu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:3 ../comps-rhel4.xml.in.h:2
-#: ../comps-rhel4-u5.xml.in.h:2 ../comps-fc6.xml.in.h:3
-#: ../comps-fc7.xml.in.h:4 ../comps-rhel5-client-core.xml.in.h:3
-#: ../comps-rhel5-server-core.xml.in.h:3
+#: ../comps-fe5.xml.in.h:3 ../comps-fe6.xml.in.h:3 ../comps-f7.xml.in.h:5
+#: ../comps-f8.xml.in.h:5 ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
 msgid "Applications"
 msgstr "Lietojumprogrammas"
 
-#: ../comps-taroon.xml.in.h:4 ../comps-rhel4.xml.in.h:3
-#: ../comps-rhel4-u5.xml.in.h:3 ../comps-fc6.xml.in.h:7
-#: ../comps-fc7.xml.in.h:9 ../comps-rhel5-client-core.xml.in.h:7
-#: ../comps-rhel5-server-core.xml.in.h:7
+#: ../comps-fe5.xml.in.h:4 ../comps-fe6.xml.in.h:4 ../comps-el4.xml.in.h:3
+#: ../comps-el5.xml.in.h:3
+msgid "Applications for a variety of tasks"
+msgstr "Programmas dažādiem mērķiem"
+
+#: ../comps-fe5.xml.in.h:5 ../comps-fe6.xml.in.h:5 ../comps-f7.xml.in.h:7
+#: ../comps-f8.xml.in.h:7 ../comps-el4.xml.in.h:4 ../comps-el5.xml.in.h:4
+msgid "Arabic Support"
+msgstr "Arābu valodas atbalsts"
+
+#: ../comps-fe5.xml.in.h:6 ../comps-fe6.xml.in.h:6 ../comps-f7.xml.in.h:8
+#: ../comps-f8.xml.in.h:8 ../comps-el4.xml.in.h:5 ../comps-el5.xml.in.h:5
+#, fuzzy
+msgid "Armenian Support"
+msgstr "Romāņu valodas atbalsts"
+
+#: ../comps-fe5.xml.in.h:7 ../comps-fe6.xml.in.h:7 ../comps-f7.xml.in.h:10
+#: ../comps-f8.xml.in.h:10 ../comps-el4.xml.in.h:6 ../comps-el5.xml.in.h:6
 msgid "Authoring and Publishing"
 msgstr "Publikāciju sagatavošana"
 
-#: ../comps-taroon.xml.in.h:5 ../comps-rhel4.xml.in.h:4
-#: ../comps-rhel4-u5.xml.in.h:4 ../comps-fc6.xml.in.h:8
-#: ../comps-fc7.xml.in.h:10 ../comps-rhel5-client-core.xml.in.h:8
-#: ../comps-rhel5-client-workstation.xml.in.h:2
-#: ../comps-rhel5-server-core.xml.in.h:8
-msgid "Base"
+#: ../comps-fe5.xml.in.h:8 ../comps-fe6.xml.in.h:8 ../comps-f7.xml.in.h:12
+#: ../comps-f8.xml.in.h:12 ../comps-el4.xml.in.h:7 ../comps-el5.xml.in.h:7
+msgid "Base System"
 msgstr "Pamatsistēma"
 
-#: ../comps-taroon.xml.in.h:6 ../comps-rhel4.xml.in.h:5
-#: ../comps-rhel4-u5.xml.in.h:5 ../comps-fc6.xml.in.h:10
-#: ../comps-fc7.xml.in.h:12 ../comps-rhel5-client-core.xml.in.h:10
-#: ../comps-rhel5-client-workstation.xml.in.h:3
-#: ../comps-rhel5-server-core.xml.in.h:10
-msgid "Basic support for the Ruby programming language."
-msgstr "Programmēšanas valodas Ruby pamatatbalsts"
+#: ../comps-fe5.xml.in.h:9 ../comps-fe6.xml.in.h:10 ../comps-f7.xml.in.h:31
+#: ../comps-f8.xml.in.h:31 ../comps-el4.xml.in.h:8 ../comps-el5.xml.in.h:9
+msgid "Desktop Environments"
+msgstr "Darbvirsma"
 
-#: ../comps-taroon.xml.in.h:7
-msgid "Brazilian Support"
-msgstr "Brazīļu valodas atbalsts"
+#: ../comps-fe5.xml.in.h:10 ../comps-fe6.xml.in.h:11 ../comps-f7.xml.in.h:32
+#: ../comps-f8.xml.in.h:32 ../comps-el4.xml.in.h:9 ../comps-el5.xml.in.h:10
+msgid "Desktop environments"
+msgstr "Darbvirsma"
 
-#: ../comps-taroon.xml.in.h:8 ../comps-rhel5-client-core.xml.in.h:15
-#: ../comps-rhel5-server-core.xml.in.h:14
-msgid "British Support"
-msgstr "Britu angļu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:9
-msgid "Canadian Support"
-msgstr "Kanādas angļu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:10 ../comps-fc6.xml.in.h:16
-#: ../comps-fc7.xml.in.h:18 ../comps-rhel5-client-core.xml.in.h:17
-#: ../comps-rhel5-server-core.xml.in.h:16
-msgid "Catalan Support"
-msgstr "Kataloniešu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:11 ../comps-fc6.xml.in.h:17
-#: ../comps-fc7.xml.in.h:19 ../comps-rhel5-client-core.xml.in.h:18
-#: ../comps-rhel5-client-supplementary.xml.in.h:1
-#: ../comps-rhel5-cluster-st.xml.in.h:4 ../comps-rhel5-cluster.xml.in.h:4
-#: ../comps-rhel5-server-core.xml.in.h:17
-#: ../comps-rhel5-server-supplementary.xml.in.h:1 ../comps-rhel5-vt.xml.in.h:4
-msgid "Chinese Support"
-msgstr "Ķīniešu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:12 ../comps-rhel4.xml.in.h:6
-#: ../comps-rhel4-u5.xml.in.h:6
-msgid "Compatibility Arch Development Support"
-msgstr "Izstrādes atbalsts savietojamām arhitektūrām"
-
-#: ../comps-taroon.xml.in.h:13
-msgid "Compatibility Arch Mozilla Support"
-msgstr "Mozilla atbalsts savietojamām arhitektūrām"
-
-#: ../comps-taroon.xml.in.h:14 ../comps-rhel4.xml.in.h:7
-#: ../comps-rhel4-u5.xml.in.h:7
-msgid "Compatibility Arch Support"
-msgstr "Arhitektūru savietojamības atbalsts"
-
-#: ../comps-taroon.xml.in.h:15 ../comps-rhel4.xml.in.h:8
-#: ../comps-rhel4-u5.xml.in.h:8 ../comps-fc6.xml.in.h:20
-#: ../comps-fc7.xml.in.h:22 ../comps-rhel5-client-core.xml.in.h:22
-#: ../comps-rhel5-client-workstation.xml.in.h:4
-#: ../comps-rhel5-server-core.xml.in.h:18
-msgid "Core"
-msgstr "Pamatsistēma"
-
-#: ../comps-taroon.xml.in.h:16
-msgid "Cyrillic Support"
-msgstr "Kirillicas atbalsts"
-
-#: ../comps-taroon.xml.in.h:17 ../comps-fc6.xml.in.h:22
-#: ../comps-fc7.xml.in.h:24 ../comps-rhel5-client-core.xml.in.h:24
-#: ../comps-rhel5-server-core.xml.in.h:20
-msgid "Czech Support"
-msgstr "Čehu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:18 ../comps-rhel4.xml.in.h:9
-#: ../comps-rhel4-u5.xml.in.h:9 ../comps-fc6.xml.in.h:23
-#: ../comps-fc7.xml.in.h:25 ../comps-rhel5-client-core.xml.in.h:25
-#: ../comps-rhel5-client-workstation.xml.in.h:5
-#: ../comps-rhel5-server-core.xml.in.h:21
-msgid "DNS Name Server"
-msgstr "DNS vārdu serveris"
-
-#: ../comps-taroon.xml.in.h:19 ../comps-fc6.xml.in.h:24
-#: ../comps-fc7.xml.in.h:26 ../comps-rhel5-client-core.xml.in.h:26
-#: ../comps-rhel5-server-core.xml.in.h:22
-msgid "Danish Support"
-msgstr "Dāņu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:20 ../comps-rhel4.xml.in.h:10
-#: ../comps-rhel4-u5.xml.in.h:10
-msgid "Desktops"
-msgstr "Darbvirsmas"
-
-#: ../comps-taroon.xml.in.h:21 ../comps-rhel4.xml.in.h:11
-#: ../comps-rhel4-u5.xml.in.h:11 ../comps-fc6.xml.in.h:27
-#: ../comps-fc7.xml.in.h:29 ../comps-rhel5-client-core.xml.in.h:29
-#: ../comps-rhel5-server-core.xml.in.h:25
+#: ../comps-fe5.xml.in.h:11 ../comps-fe6.xml.in.h:12 ../comps-f7.xml.in.h:33
+#: ../comps-f8.xml.in.h:33 ../comps-el4.xml.in.h:10 ../comps-el5.xml.in.h:11
 msgid "Development"
 msgstr "Programmēšana"
 
-#: ../comps-taroon.xml.in.h:22 ../comps-rhel4.xml.in.h:12
-#: ../comps-rhel4-u5.xml.in.h:12 ../comps-fc6.xml.in.h:28
-#: ../comps-fc7.xml.in.h:30 ../comps-rhel5-client-core.xml.in.h:30
-#: ../comps-rhel5-client-workstation.xml.in.h:6
-#: ../comps-rhel5-server-core.xml.in.h:26
-msgid "Development Libraries"
-msgstr "Programmēšanas bibliotekas"
-
-#: ../comps-taroon.xml.in.h:23 ../comps-rhel4.xml.in.h:13
-#: ../comps-rhel4-u5.xml.in.h:13 ../comps-fc6.xml.in.h:29
-#: ../comps-fc7.xml.in.h:31 ../comps-rhel5-client-core.xml.in.h:31
-#: ../comps-rhel5-client-workstation.xml.in.h:7
-#: ../comps-rhel5-server-core.xml.in.h:27
+#: ../comps-fe5.xml.in.h:12 ../comps-fe6.xml.in.h:13 ../comps-f7.xml.in.h:35
+#: ../comps-f8.xml.in.h:35 ../comps-el4.xml.in.h:11 ../comps-el5.xml.in.h:12
 msgid "Development Tools"
 msgstr "Programmēšanas rīki"
 
-#: ../comps-taroon.xml.in.h:24 ../comps-rhel4.xml.in.h:14
-#: ../comps-rhel4-u5.xml.in.h:14 ../comps-rhel5-client-core.xml.in.h:32
-#: ../comps-rhel5-server-core.xml.in.h:28
+#: ../comps-fe5.xml.in.h:13 ../comps-fe6.xml.in.h:14 ../comps-el4.xml.in.h:12
+#: ../comps-el5.xml.in.h:13
 msgid "Dialup Networking Support"
 msgstr "Iezvanpiekļuve datortīkliem"
 
-#: ../comps-taroon.xml.in.h:25 ../comps-fc6.xml.in.h:31
-#: ../comps-fc7.xml.in.h:33 ../comps-rhel5-client-core.xml.in.h:33
-#: ../comps-rhel5-server-core.xml.in.h:29
-msgid "Dutch Support"
-msgstr "Dāņu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:26 ../comps-rhel4.xml.in.h:15
-#: ../comps-rhel4-u5.xml.in.h:15 ../comps-fc6.xml.in.h:33
-#: ../comps-fc7.xml.in.h:35 ../comps-rhel5-client-core.xml.in.h:34
-#: ../comps-rhel5-client-workstation.xml.in.h:9
-#: ../comps-rhel5-server-core.xml.in.h:30
+#: ../comps-fe5.xml.in.h:14 ../comps-fe6.xml.in.h:15 ../comps-f7.xml.in.h:39
+#: ../comps-f8.xml.in.h:39 ../comps-el4.xml.in.h:13 ../comps-el5.xml.in.h:14
 msgid "Editors"
 msgstr "Redaktori"
 
-#: ../comps-taroon.xml.in.h:27 ../comps-rhel4.xml.in.h:16
-#: ../comps-rhel4-u5.xml.in.h:16 ../comps-fc6.xml.in.h:34
-#: ../comps-fc7.xml.in.h:38
-msgid "Emacs"
-msgstr "Emacs"
+#: ../comps-fe5.xml.in.h:15 ../comps-fe6.xml.in.h:16 ../comps-f7.xml.in.h:40
+#: ../comps-f8.xml.in.h:40 ../comps-el4.xml.in.h:14 ../comps-el5.xml.in.h:15
+msgid "Educational Software"
+msgstr ""
 
-#: ../comps-taroon.xml.in.h:28 ../comps-rhel4.xml.in.h:17
-#: ../comps-rhel4-u5.xml.in.h:17 ../comps-fc6.xml.in.h:35
-#: ../comps-fc7.xml.in.h:39 ../comps-rhel5-client-core.xml.in.h:35
-#: ../comps-rhel5-client-workstation.xml.in.h:10
-#: ../comps-rhel5-server-core.xml.in.h:31
+#: ../comps-fe5.xml.in.h:16 ../comps-fe6.xml.in.h:17 ../comps-f7.xml.in.h:41
+#: ../comps-f8.xml.in.h:41 ../comps-el4.xml.in.h:15 ../comps-el5.xml.in.h:16
+msgid "Educational software for learning"
+msgstr ""
+
+#: ../comps-fe5.xml.in.h:17 ../comps-fe6.xml.in.h:18 ../comps-f7.xml.in.h:42
+#: ../comps-f8.xml.in.h:42 ../comps-el4.xml.in.h:16 ../comps-el5.xml.in.h:17
 msgid "Engineering and Scientific"
 msgstr "Inženerija un Zinātne"
 
-#: ../comps-taroon.xml.in.h:29 ../comps-fc6.xml.in.h:37
-#: ../comps-fc7.xml.in.h:41 ../comps-rhel5-client-core.xml.in.h:36
-#: ../comps-rhel5-server-core.xml.in.h:32
-msgid "Estonian Support"
-msgstr "Igauņu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:30 ../comps-rhel4.xml.in.h:18
-#: ../comps-rhel4-u5.xml.in.h:18 ../comps-fc6.xml.in.h:39
-#: ../comps-fc7.xml.in.h:43 ../comps-rhel5-client-core.xml.in.h:38
-#: ../comps-rhel5-client-workstation.xml.in.h:11
-#: ../comps-rhel5-server-core.xml.in.h:34
+#: ../comps-fe5.xml.in.h:18 ../comps-fe6.xml.in.h:19 ../comps-f7.xml.in.h:46
+#: ../comps-f8.xml.in.h:46 ../comps-el4.xml.in.h:17 ../comps-el5.xml.in.h:18
 msgid "FTP Server"
 msgstr "FTP serveris"
 
-#: ../comps-taroon.xml.in.h:31 ../comps-fc6.xml.in.h:41
-#: ../comps-fc7.xml.in.h:45 ../comps-rhel5-client-core.xml.in.h:40
-#: ../comps-rhel5-server-core.xml.in.h:36
-msgid "Finnish Support"
-msgstr "Somu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:32 ../comps-fc6.xml.in.h:42
-#: ../comps-fc7.xml.in.h:46 ../comps-rhel5-client-core.xml.in.h:41
-#: ../comps-rhel5-cluster-st.xml.in.h:6 ../comps-rhel5-cluster.xml.in.h:7
-#: ../comps-rhel5-server-core.xml.in.h:37 ../comps-rhel5-vt.xml.in.h:5
-msgid "French Support"
-msgstr "Franču valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:33 ../comps-rhel4.xml.in.h:19
-#: ../comps-rhel4-u5.xml.in.h:19 ../comps-fc6.xml.in.h:43
-#: ../comps-fc7.xml.in.h:47 ../comps-rhel5-client-core.xml.in.h:42
-#: ../comps-rhel5-server-core.xml.in.h:38
+#: ../comps-fe5.xml.in.h:19 ../comps-fe6.xml.in.h:20 ../comps-f7.xml.in.h:51
+#: ../comps-f8.xml.in.h:51 ../comps-el4.xml.in.h:18 ../comps-el5.xml.in.h:19
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
@@ -241,31 +116,18 @@ msgstr ""
 "No CD ierakstīšanas līdz MP3 formāta atskaņošanai; šī pakotņu grupa satur "
 "programmas darbam ar skaņu un video."
 
-#: ../comps-taroon.xml.in.h:34 ../comps-rhel4.xml.in.h:20
-#: ../comps-rhel4-u5.xml.in.h:20
-msgid "GNOME"
-msgstr "GNOME"
-
-#: ../comps-taroon.xml.in.h:35 ../comps-rhel4.xml.in.h:21
-#: ../comps-rhel4-u5.xml.in.h:21 ../comps-fc6.xml.in.h:44
-#: ../comps-fc7.xml.in.h:48 ../comps-rhel5-client-core.xml.in.h:43
-#: ../comps-rhel5-client-workstation.xml.in.h:12
-#: ../comps-rhel5-server-core.xml.in.h:39
+#: ../comps-fe5.xml.in.h:20 ../comps-fe6.xml.in.h:21 ../comps-f7.xml.in.h:52
+#: ../comps-f8.xml.in.h:52 ../comps-el4.xml.in.h:19 ../comps-el5.xml.in.h:20
 msgid "GNOME Desktop Environment"
 msgstr "GNOME Darbvirsma"
 
-#: ../comps-taroon.xml.in.h:36 ../comps-rhel4.xml.in.h:22
-#: ../comps-rhel4-u5.xml.in.h:22 ../comps-fc6.xml.in.h:45
-#: ../comps-fc7.xml.in.h:49 ../comps-rhel5-client-core.xml.in.h:44
-#: ../comps-rhel5-client-workstation.xml.in.h:13
-#: ../comps-rhel5-server-core.xml.in.h:40
+#: ../comps-fe5.xml.in.h:21 ../comps-fe6.xml.in.h:22 ../comps-f7.xml.in.h:53
+#: ../comps-f8.xml.in.h:53 ../comps-el4.xml.in.h:20 ../comps-el5.xml.in.h:21
 msgid "GNOME Software Development"
 msgstr "GNOME Programmu izstrāde"
 
-#: ../comps-taroon.xml.in.h:37 ../comps-rhel4.xml.in.h:23
-#: ../comps-rhel4-u5.xml.in.h:23 ../comps-rhel5-client-core.xml.in.h:45
-#: ../comps-rhel5-client-workstation.xml.in.h:14
-#: ../comps-rhel5-server-core.xml.in.h:41
+#: ../comps-fe5.xml.in.h:22 ../comps-fe6.xml.in.h:23 ../comps-el4.xml.in.h:21
+#: ../comps-el5.xml.in.h:22
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
@@ -273,80 +135,34 @@ msgstr ""
 "GNOME ir jaudīga, grafiska lietotāja saskarne, kas ietver rīkjoslas, "
 "darbvirsmu, sistēmas piktogrammas un grafisku datņu pārvaldnieku."
 
-#: ../comps-taroon.xml.in.h:38 ../comps-rhel4.xml.in.h:24
-#: ../comps-rhel4-u5.xml.in.h:24 ../comps-fc6.xml.in.h:49
-#: ../comps-fc7.xml.in.h:53 ../comps-rhel5-client-core.xml.in.h:48
-#: ../comps-rhel5-server-core.xml.in.h:44
+#: ../comps-fe5.xml.in.h:23 ../comps-fe6.xml.in.h:24 ../comps-f7.xml.in.h:57
+#: ../comps-f8.xml.in.h:57 ../comps-el5.xml.in.h:23
 msgid "Games and Entertainment"
 msgstr "Spēles un izklaide"
 
-#: ../comps-taroon.xml.in.h:39 ../comps-fc6.xml.in.h:50
-#: ../comps-fc7.xml.in.h:54 ../comps-rhel5-client-core.xml.in.h:49
-#: ../comps-rhel5-cluster-st.xml.in.h:7 ../comps-rhel5-cluster.xml.in.h:8
-#: ../comps-rhel5-server-core.xml.in.h:45 ../comps-rhel5-vt.xml.in.h:6
-msgid "German Support"
-msgstr "Vācu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:40 ../comps-rhel4.xml.in.h:25
-#: ../comps-rhel4-u5.xml.in.h:25 ../comps-fc6.xml.in.h:51
-#: ../comps-fc7.xml.in.h:55 ../comps-rhel5-client-core.xml.in.h:50
-#: ../comps-rhel5-client-workstation.xml.in.h:15
-#: ../comps-rhel5-server-core.xml.in.h:46
+#: ../comps-fe5.xml.in.h:24 ../comps-fe6.xml.in.h:25 ../comps-f7.xml.in.h:60
+#: ../comps-f8.xml.in.h:60 ../comps-el4.xml.in.h:22 ../comps-el5.xml.in.h:24
 msgid "Graphical Internet"
 msgstr "Interneta grafiskā režīma rīki"
 
-#: ../comps-taroon.xml.in.h:41 ../comps-rhel4.xml.in.h:26
-#: ../comps-rhel4-u5.xml.in.h:26 ../comps-fc6.xml.in.h:52
-#: ../comps-fc7.xml.in.h:56 ../comps-rhel5-client-core.xml.in.h:51
-#: ../comps-rhel5-server-core.xml.in.h:47
+#: ../comps-fe5.xml.in.h:25 ../comps-fe6.xml.in.h:26 ../comps-f7.xml.in.h:61
+#: ../comps-f8.xml.in.h:61 ../comps-el4.xml.in.h:23 ../comps-el5.xml.in.h:25
 msgid "Graphics"
 msgstr "Grafika"
 
-#: ../comps-taroon.xml.in.h:42 ../comps-fc6.xml.in.h:53
-#: ../comps-fc7.xml.in.h:57 ../comps-rhel5-client-core.xml.in.h:52
-#: ../comps-rhel5-server-core.xml.in.h:48
-msgid "Greek Support"
-msgstr "Grieķu valodas atbalsts"
+#: ../comps-fe5.xml.in.h:26 ../comps-fe6.xml.in.h:27 ../comps-f7.xml.in.h:64
+#: ../comps-f8.xml.in.h:64 ../comps-el4.xml.in.h:24 ../comps-el5.xml.in.h:26
+#, fuzzy
+msgid "Hardware Support"
+msgstr "Ebreju valodas atbalsts"
 
-#: ../comps-taroon.xml.in.h:43 ../comps-fc6.xml.in.h:55
-#: ../comps-fc7.xml.in.h:60 ../comps-rhel5-client-core.xml.in.h:54
-#: ../comps-rhel5-server-core.xml.in.h:50
+#: ../comps-fe5.xml.in.h:27 ../comps-fe6.xml.in.h:28 ../comps-f7.xml.in.h:65
+#: ../comps-f8.xml.in.h:65 ../comps-el4.xml.in.h:25 ../comps-el5.xml.in.h:27
 msgid "Hebrew Support"
 msgstr "Ebreju valodas atbalsts"
 
-#: ../comps-taroon.xml.in.h:44 ../comps-fc6.xml.in.h:57
-#: ../comps-fc7.xml.in.h:62 ../comps-rhel5-client-core.xml.in.h:56
-#: ../comps-rhel5-server-core.xml.in.h:52
-msgid "Hungarian Support"
-msgstr "Ungāru valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:45
-msgid "ISO8859-14 Support"
-msgstr "ISO8859-14 atbalsts"
-
-#: ../comps-taroon.xml.in.h:46
-msgid "ISO8859-15 Support"
-msgstr "ISO8859-15 atbalsts"
-
-#: ../comps-taroon.xml.in.h:47
-msgid "ISO8859-2 Support"
-msgstr "ISO8859-2 atbalsts"
-
-#: ../comps-taroon.xml.in.h:48
-msgid "ISO8859-9 Support"
-msgstr "ISO8859-9 atbalsts"
-
-#: ../comps-taroon.xml.in.h:49 ../comps-fc6.xml.in.h:58
-#: ../comps-fc7.xml.in.h:63 ../comps-rhel5-client-core.xml.in.h:57
-#: ../comps-rhel5-server-core.xml.in.h:53
-msgid "Icelandic Support"
-msgstr "Islandiešu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:50 ../comps-rhel4.xml.in.h:27
-#: ../comps-rhel4-u5.xml.in.h:27 ../comps-fc6.xml.in.h:60
-#: ../comps-fc7.xml.in.h:65 ../comps-rhel5-client-core.xml.in.h:59
-#: ../comps-rhel5-client-workstation.xml.in.h:16
-#: ../comps-rhel5-server-core.xml.in.h:55
+#: ../comps-fe5.xml.in.h:28 ../comps-fe6.xml.in.h:29 ../comps-f7.xml.in.h:70
+#: ../comps-f8.xml.in.h:70 ../comps-el4.xml.in.h:26 ../comps-el5.xml.in.h:28
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
@@ -354,1175 +170,8 @@ msgstr ""
 "Uzstādiet šīs pakotnes, ja vēlaties nodarboties ar GTK+ un GNOME programmu "
 "izstrādi."
 
-#: ../comps-taroon.xml.in.h:51 ../comps-rhel4.xml.in.h:28
-#: ../comps-rhel4-u5.xml.in.h:28 ../comps-fc6.xml.in.h:61
-#: ../comps-fc7.xml.in.h:67 ../comps-rhel5-client-core.xml.in.h:60
-#: ../comps-rhel5-client-workstation.xml.in.h:17
-#: ../comps-rhel5-server-core.xml.in.h:56
-msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr ""
-"Uzstādiet šīs pakotnes, ja vēlaties nodarboties ar QT un KDE programmu "
-"izstrādi."
-
-#: ../comps-taroon.xml.in.h:52
-msgid "Install these packages to recompile the kernel."
-msgstr "Uzstādiet šīs programmas, ja vēlaties pārkompilēt sistēmas kodolu."
-
-#: ../comps-taroon.xml.in.h:53 ../comps-rhel4.xml.in.h:29
-#: ../comps-rhel4-u5.xml.in.h:29 ../comps-fc6.xml.in.h:62
-#: ../comps-fc7.xml.in.h:68 ../comps-rhel5-client-core.xml.in.h:61
-#: ../comps-rhel5-server-core.xml.in.h:57
-msgid ""
-"Install these tools to enable the system to print or act as a print server."
-msgstr ""
-"Uzstādiet šīs pakotnes, ja vēlaties izmantot drukas sistēmu, vai arī "
-"izmantot šo datoru kā drukas serveri."
-
-#: ../comps-taroon.xml.in.h:54 ../comps-rhel4.xml.in.h:30
-#: ../comps-rhel4-u5.xml.in.h:30 ../comps-fc6.xml.in.h:63
-#: ../comps-fc7.xml.in.h:69 ../comps-rhel5-client-core.xml.in.h:62
-#: ../comps-rhel5-client-workstation.xml.in.h:18
-#: ../comps-rhel5-server-core.xml.in.h:58
-msgid ""
-"Install this group of packages to use the base graphical (X) user interface."
-msgstr ""
-"Uzstādiet šīs pakotnes, ja vēlaties izmantot grafisku lietotāja saskarni (X)."
-
-#: ../comps-taroon.xml.in.h:55 ../comps-fc6.xml.in.h:65
-#: ../comps-fc7.xml.in.h:71 ../comps-rhel5-client-core.xml.in.h:64
-#: ../comps-rhel5-cluster-st.xml.in.h:10 ../comps-rhel5-cluster.xml.in.h:11
-#: ../comps-rhel5-server-core.xml.in.h:60 ../comps-rhel5-vt.xml.in.h:9
-msgid "Italian Support"
-msgstr "Itāļu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:56 ../comps-fc6.xml.in.h:66
-#: ../comps-fc7.xml.in.h:72 ../comps-rhel5-client-core.xml.in.h:65
-#: ../comps-rhel5-cluster-st.xml.in.h:11 ../comps-rhel5-cluster.xml.in.h:12
-#: ../comps-rhel5-server-core.xml.in.h:61 ../comps-rhel5-vt.xml.in.h:10
-msgid "Japanese Support"
-msgstr "Japāņu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:57 ../comps-rhel4.xml.in.h:31
-#: ../comps-rhel4-u5.xml.in.h:31
-msgid "KDE"
-msgstr "KDE"
-
-#: ../comps-taroon.xml.in.h:58
-msgid "KDE Desktop Environment"
-msgstr "KDE Darbvirsma"
-
-#: ../comps-taroon.xml.in.h:59 ../comps-rhel4.xml.in.h:33
-#: ../comps-rhel4-u5.xml.in.h:33 ../comps-fc6.xml.in.h:70
-#: ../comps-fc7.xml.in.h:76 ../comps-rhel5-client-core.xml.in.h:69
-#: ../comps-rhel5-client-workstation.xml.in.h:21
-#: ../comps-rhel5-server-core.xml.in.h:65
-msgid "KDE Software Development"
-msgstr "KDE Programmu izstrāde"
-
-#: ../comps-taroon.xml.in.h:60 ../comps-rhel4.xml.in.h:34
-#: ../comps-rhel4-u5.xml.in.h:34 ../comps-rhel5-client-core.xml.in.h:70
-#: ../comps-rhel5-server-core.xml.in.h:66
-msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDE ir jaudīga, grafiska lietotāja saskarne, kas ietver rīkjoslas, "
-"darbvirsmu, sistēmas piktogrammas un grafisku datņu pārvaldnieku."
-
-#: ../comps-taroon.xml.in.h:61
-msgid "Kernel Development"
-msgstr "Kodola programmēšana"
-
-#: ../comps-taroon.xml.in.h:62 ../comps-fc6.xml.in.h:73
-#: ../comps-fc7.xml.in.h:79 ../comps-rhel5-client-core.xml.in.h:72
-#: ../comps-rhel5-cluster-st.xml.in.h:13 ../comps-rhel5-cluster.xml.in.h:14
-#: ../comps-rhel5-server-core.xml.in.h:68 ../comps-rhel5-vt.xml.in.h:12
-msgid "Korean Support"
-msgstr "Korejiešu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:63 ../comps-rhel4.xml.in.h:35
-#: ../comps-rhel4-u5.xml.in.h:35 ../comps-fc6.xml.in.h:75
-#: ../comps-fc7.xml.in.h:81 ../comps-rhel5-client-core.xml.in.h:74
-#: ../comps-rhel5-client-workstation.xml.in.h:22
-#: ../comps-rhel5-server-core.xml.in.h:70
-msgid "Legacy Network Server"
-msgstr "Novecojuši tīkla serveri"
-
-#: ../comps-taroon.xml.in.h:64 ../comps-rhel4.xml.in.h:36
-#: ../comps-rhel4-u5.xml.in.h:36 ../comps-fc6.xml.in.h:76
-#: ../comps-fc7.xml.in.h:82 ../comps-rhel5-client-core.xml.in.h:75
-#: ../comps-rhel5-client-workstation.xml.in.h:23
-#: ../comps-rhel5-server-core.xml.in.h:71
-msgid "Legacy Software Development"
-msgstr "Novecojušu programmu programmēšanas rīki"
-
-#: ../comps-taroon.xml.in.h:65 ../comps-rhel4.xml.in.h:37
-#: ../comps-rhel4-u5.xml.in.h:37 ../comps-fc6.xml.in.h:77
-#: ../comps-fc7.xml.in.h:83 ../comps-rhel5-client-core.xml.in.h:76
-#: ../comps-rhel5-server-core.xml.in.h:72
-msgid "Legacy Software Support"
-msgstr "Novecojušas programmatūras atbalsts"
-
-#: ../comps-taroon.xml.in.h:66 ../comps-rhel4.xml.in.h:38
-#: ../comps-rhel4-u5.xml.in.h:38 ../comps-fc6.xml.in.h:79
-#: ../comps-fc7.xml.in.h:85 ../comps-rhel5-client-core.xml.in.h:78
-#: ../comps-rhel5-client-workstation.xml.in.h:24
-#: ../comps-rhel5-server-core.xml.in.h:73
-msgid "Mail Server"
-msgstr "Pasta serveris"
-
-#: ../comps-taroon.xml.in.h:67 ../comps-rhel5-client-core.xml.in.h:81
-#: ../comps-rhel5-client-workstation.xml.in.h:25
-#: ../comps-rhel5-server-core.xml.in.h:76
-msgid "Miscellaneous Included Packages"
-msgstr "Dažādas iekļautās pakotnes"
-
-#: ../comps-taroon.xml.in.h:68
-msgid "Mozilla packages for the x86 platform"
-msgstr "Mozilla pakotnes x86 platformai"
-
-#: ../comps-taroon.xml.in.h:69 ../comps-rhel4.xml.in.h:39
-#: ../comps-rhel4-u5.xml.in.h:39
-msgid "Multilib support packages"
-msgstr "Multilib atbalsta pakotnes"
-
-#: ../comps-taroon.xml.in.h:70 ../comps-rhel4.xml.in.h:40
-#: ../comps-rhel4-u5.xml.in.h:40 ../comps-fc6.xml.in.h:83
-#: ../comps-fc7.xml.in.h:89 ../comps-rhel5-client-core.xml.in.h:82
-#: ../comps-rhel5-client-workstation.xml.in.h:26
-#: ../comps-rhel5-server-core.xml.in.h:77
-msgid "MySQL Database"
-msgstr "MySQL datu bāze"
-
-#: ../comps-taroon.xml.in.h:71 ../comps-rhel4.xml.in.h:41
-#: ../comps-rhel4-u5.xml.in.h:41 ../comps-fc6.xml.in.h:84
-#: ../comps-fc7.xml.in.h:90 ../comps-rhel5-client-core.xml.in.h:83
-#: ../comps-rhel5-client-workstation.xml.in.h:27
-#: ../comps-rhel5-server-core.xml.in.h:78
-msgid "Network Servers"
-msgstr "Tīkla serveri"
-
-#: ../comps-taroon.xml.in.h:72 ../comps-rhel4.xml.in.h:42
-#: ../comps-rhel4-u5.xml.in.h:42 ../comps-fc6.xml.in.h:85
-#: ../comps-fc7.xml.in.h:91 ../comps-rhel5-client-core.xml.in.h:84
-#: ../comps-rhel5-client-workstation.xml.in.h:28
-#: ../comps-rhel5-server-core.xml.in.h:79
-msgid "News Server"
-msgstr "Ziņu serveris"
-
-#: ../comps-taroon.xml.in.h:73 ../comps-fc6.xml.in.h:87
-#: ../comps-fc7.xml.in.h:93 ../comps-rhel5-client-core.xml.in.h:85
-#: ../comps-rhel5-server-core.xml.in.h:80
-msgid "Norwegian Support"
-msgstr "Norvēģu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:74 ../comps-rhel4.xml.in.h:43
-#: ../comps-rhel4-u5.xml.in.h:43 ../comps-fc6.xml.in.h:88
-#: ../comps-fc7.xml.in.h:94 ../comps-rhel5-client-core.xml.in.h:86
-#: ../comps-rhel5-server-core.xml.in.h:81
-msgid "Office/Productivity"
-msgstr "Birojs/Ražošana"
-
-#: ../comps-taroon.xml.in.h:75 ../comps-fc6.xml.in.h:91
-#: ../comps-fc7.xml.in.h:97 ../comps-rhel5-client-core.xml.in.h:91
-#: ../comps-rhel5-server-core.xml.in.h:85
-msgid "Polish Support"
-msgstr "Poļu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:76 ../comps-fc6.xml.in.h:92
-#: ../comps-fc7.xml.in.h:98 ../comps-rhel5-client-core.xml.in.h:92
-#: ../comps-rhel5-server-core.xml.in.h:86
-msgid "Portuguese Support"
-msgstr "Portugāļu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:77 ../comps-rhel4.xml.in.h:45
-#: ../comps-rhel4-u5.xml.in.h:45 ../comps-fc6.xml.in.h:94
-#: ../comps-fc7.xml.in.h:100 ../comps-rhel5-client-core.xml.in.h:94
-#: ../comps-rhel5-server-core.xml.in.h:88
-msgid "Printing Support"
-msgstr "Drukas sistēma"
-
-#: ../comps-taroon.xml.in.h:78 ../comps-fc6.xml.in.h:96
-#: ../comps-fc7.xml.in.h:102 ../comps-rhel5-client-core.xml.in.h:96
-#: ../comps-rhel5-server-core.xml.in.h:90
-msgid "Romanian Support"
-msgstr "Romāņu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:79 ../comps-rhel4.xml.in.h:46
-#: ../comps-rhel4-u5.xml.in.h:46 ../comps-fc6.xml.in.h:97
-#: ../comps-fc7.xml.in.h:103 ../comps-rhel5-client-core.xml.in.h:97
-#: ../comps-rhel5-client-workstation.xml.in.h:31
-#: ../comps-rhel5-server-core.xml.in.h:91
-msgid "Ruby"
-msgstr "Ruby"
-
-#: ../comps-taroon.xml.in.h:80 ../comps-fc6.xml.in.h:98
-#: ../comps-fc7.xml.in.h:104 ../comps-rhel5-client-core.xml.in.h:98
-#: ../comps-rhel5-cluster-st.xml.in.h:19 ../comps-rhel5-cluster.xml.in.h:19
-#: ../comps-rhel5-server-core.xml.in.h:92 ../comps-rhel5-vt.xml.in.h:17
-msgid "Russian Support"
-msgstr "Krievu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:81
-msgid "SQL Database"
-msgstr "SQL datu bāze"
-
-#: ../comps-taroon.xml.in.h:82 ../comps-fc6.xml.in.h:99
-#: ../comps-fc7.xml.in.h:105 ../comps-rhel5-client-core.xml.in.h:99
-#: ../comps-rhel5-server-core.xml.in.h:93
-msgid "Serbian Support"
-msgstr "Serbu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:83 ../comps-rhel4.xml.in.h:47
-#: ../comps-rhel4-u5.xml.in.h:47
-msgid "Server"
-msgstr "Serveris"
-
-#: ../comps-taroon.xml.in.h:84 ../comps-rhel4.xml.in.h:48
-#: ../comps-rhel4-u5.xml.in.h:48 ../comps-fc6.xml.in.h:100
-#: ../comps-fc7.xml.in.h:106 ../comps-rhel5-client-core.xml.in.h:100
-#: ../comps-rhel5-client-workstation.xml.in.h:32
-#: ../comps-rhel5-server-core.xml.in.h:94
-msgid "Server Configuration Tools"
-msgstr "Servera iestatīšanas rīki"
-
-#: ../comps-taroon.xml.in.h:85 ../comps-rhel4.xml.in.h:49
-#: ../comps-rhel4-u5.xml.in.h:49 ../comps-fc6.xml.in.h:101
-#: ../comps-fc7.xml.in.h:107 ../comps-rhel5-client-core.xml.in.h:101
-#: ../comps-rhel5-server-core.xml.in.h:95
-msgid "Servers"
-msgstr "Serveri"
-
-#: ../comps-taroon.xml.in.h:86 ../comps-fc6.xml.in.h:103
-#: ../comps-fc7.xml.in.h:110 ../comps-rhel5-client-core.xml.in.h:104
-#: ../comps-rhel5-server-core.xml.in.h:98
-msgid "Slovak Support"
-msgstr "Slovāku valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:87 ../comps-fc6.xml.in.h:104
-#: ../comps-fc7.xml.in.h:111 ../comps-rhel5-client-core.xml.in.h:105
-#: ../comps-rhel5-server-core.xml.in.h:99
-msgid "Slovenian Support"
-msgstr "Slovēņu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:88 ../comps-rhel4.xml.in.h:50
-#: ../comps-rhel4-u5.xml.in.h:50 ../comps-fc6.xml.in.h:105
-#: ../comps-fc7.xml.in.h:112 ../comps-rhel5-client-core.xml.in.h:106
-#: ../comps-rhel5-client-workstation.xml.in.h:34
-#: ../comps-rhel5-server-core.xml.in.h:100
-msgid "Smallest possible installation"
-msgstr "Vismazākā iespējamā instalācija"
-
-#: ../comps-taroon.xml.in.h:89 ../comps-rhel4.xml.in.h:51
-#: ../comps-rhel4-u5.xml.in.h:51 ../comps-rhel5-client-core.xml.in.h:108
-#: ../comps-rhel5-client-workstation.xml.in.h:35
-#: ../comps-rhel5-server-core.xml.in.h:102
-msgid ""
-"Sometimes called text editors, these are programs that allow you to create "
-"and edit files. These include Emacs and Vi."
-msgstr ""
-"Šīs programmas, kuras reizēm dēvē par teksta redaktoriem, ļauj labot "
-"tekstus. Ietver Emacs un Vi."
-
-#: ../comps-taroon.xml.in.h:90 ../comps-rhel4.xml.in.h:52
-#: ../comps-rhel4-u5.xml.in.h:52 ../comps-fc6.xml.in.h:108
-#: ../comps-fc7.xml.in.h:115 ../comps-rhel5-client-core.xml.in.h:109
-#: ../comps-rhel5-server-core.xml.in.h:103
-msgid "Sound and Video"
-msgstr "Skaņa un video"
-
-#: ../comps-taroon.xml.in.h:91 ../comps-fc6.xml.in.h:111
-#: ../comps-fc7.xml.in.h:118 ../comps-rhel5-client-core.xml.in.h:110
-#: ../comps-rhel5-cluster-st.xml.in.h:21 ../comps-rhel5-cluster.xml.in.h:21
-#: ../comps-rhel5-server-core.xml.in.h:104 ../comps-rhel5-vt.xml.in.h:19
-msgid "Spanish Support"
-msgstr "Spāņu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:92 ../comps-rhel4.xml.in.h:53
-#: ../comps-rhel4-u5.xml.in.h:53
-msgid "Support for developing packages for the non-primary architecture"
-msgstr "Pakotņu izstrādes atbalsts sekundārām arhitektūrām"
-
-#: ../comps-taroon.xml.in.h:93 ../comps-fc6.xml.in.h:115
-#: ../comps-fc7.xml.in.h:122 ../comps-rhel5-client-core.xml.in.h:113
-#: ../comps-rhel5-server-core.xml.in.h:107
-msgid "Swedish Support"
-msgstr "Zviedru valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:94
-msgid "Syriac Support"
-msgstr "Sīriešu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:95 ../comps-rhel4.xml.in.h:54
-#: ../comps-rhel4-u5.xml.in.h:54
-msgid "System"
-msgstr "Sistēma"
-
-#: ../comps-taroon.xml.in.h:96 ../comps-rhel4.xml.in.h:55
-#: ../comps-rhel4-u5.xml.in.h:55 ../comps-fc6.xml.in.h:116
-#: ../comps-fc7.xml.in.h:123 ../comps-rhel5-client-core.xml.in.h:114
-#: ../comps-rhel5-client-workstation.xml.in.h:38
-#: ../comps-rhel5-server-core.xml.in.h:108
-msgid "System Tools"
-msgstr "Sistēmas rīki"
-
-#: ../comps-taroon.xml.in.h:97 ../comps-rhel4.xml.in.h:56
-#: ../comps-rhel4-u5.xml.in.h:56 ../comps-fc6.xml.in.h:119
-#: ../comps-fc7.xml.in.h:126 ../comps-rhel5-client-core.xml.in.h:117
-#: ../comps-rhel5-client-workstation.xml.in.h:39
-#: ../comps-rhel5-server-core.xml.in.h:111
-msgid "Text-based Internet"
-msgstr "Interneta teksta režīma rīki"
-
-#: ../comps-taroon.xml.in.h:98 ../comps-rhel4.xml.in.h:57
-#: ../comps-rhel4-u5.xml.in.h:57 ../comps-fc6.xml.in.h:122
-#: ../comps-fc7.xml.in.h:129
-msgid "The GNU Emacs text editor."
-msgstr "Teksta redaktors GNU Emacs"
-
-#: ../comps-taroon.xml.in.h:99 ../comps-rhel4.xml.in.h:58
-#: ../comps-rhel4-u5.xml.in.h:58 ../comps-fc7.xml.in.h:130
-msgid "The XEmacs text editor."
-msgstr "Teksta redaktors XEmacs"
-
-#: ../comps-taroon.xml.in.h:100 ../comps-rhel4.xml.in.h:59
-#: ../comps-rhel4-u5.xml.in.h:59 ../comps-fc6.xml.in.h:123
-#: ../comps-fc7.xml.in.h:131 ../comps-rhel5-client-core.xml.in.h:119
-#: ../comps-rhel5-server-core.xml.in.h:113
-msgid "The applications include office suites, PDF viewers, and more."
-msgstr ""
-"Grupa ietver biroja programmas, PDF formāta datņu lasīšanas programmas utt."
-
-#: ../comps-taroon.xml.in.h:101 ../comps-rhel4.xml.in.h:60
-#: ../comps-rhel4-u5.xml.in.h:60 ../comps-fc6.xml.in.h:124
-#: ../comps-fc7.xml.in.h:132 ../comps-rhel5-client-core.xml.in.h:120
-#: ../comps-rhel5-client-workstation.xml.in.h:41
-#: ../comps-rhel5-server-core.xml.in.h:114
-msgid ""
-"The packages in this group are core libraries needed to develop applications."
-msgstr "Šī grupa ietver bibliotekas, kas nepieciešamas programmu izstrādei."
-
-#: ../comps-taroon.xml.in.h:102 ../comps-rhel4.xml.in.h:61
-#: ../comps-rhel4-u5.xml.in.h:61
-msgid "These packages allow you to configure an IMAP or Postfix mail server."
-msgstr "Šīs pakotnes dod iespēju uzstādīt pasta serverus IMAP vai Postfix."
-
-#: ../comps-taroon.xml.in.h:103 ../comps-rhel4.xml.in.h:62
-#: ../comps-rhel4-u5.xml.in.h:62 ../comps-fc6.xml.in.h:126
-#: ../comps-fc7.xml.in.h:134 ../comps-rhel5-client-core.xml.in.h:122
-#: ../comps-rhel5-client-workstation.xml.in.h:43
-#: ../comps-rhel5-server-core.xml.in.h:116
-msgid ""
-"These packages allow you to develop applications for the X Window System."
-msgstr "Šīs pakotnes dod iespēju izstrādāt programmas X Window sistēmai."
-
-#: ../comps-taroon.xml.in.h:104 ../comps-rhel4.xml.in.h:63
-#: ../comps-rhel4-u5.xml.in.h:63 ../comps-fc6.xml.in.h:127
-#: ../comps-fc7.xml.in.h:136 ../comps-rhel5-client-core.xml.in.h:123
-#: ../comps-rhel5-client-workstation.xml.in.h:44
-#: ../comps-rhel5-server-core.xml.in.h:117
-msgid ""
-"These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr "Šīs pakotnes ietver tādus tīkla servisus kā DHCP, Kerberos un NIS."
-
-#: ../comps-taroon.xml.in.h:105 ../comps-rhel4.xml.in.h:64
-#: ../comps-rhel4-u5.xml.in.h:64 ../comps-fc6.xml.in.h:128
-#: ../comps-fc7.xml.in.h:137 ../comps-rhel5-client-core.xml.in.h:124
-#: ../comps-rhel5-client-workstation.xml.in.h:45
-#: ../comps-rhel5-server-core.xml.in.h:118
-msgid ""
-"These packages include servers for old network protocols such as rsh and "
-"telnet."
-msgstr ""
-"Šīs pakotnes ietver tādus novecojušus tīkla protokolus kā rsh un telnet."
-
-#: ../comps-taroon.xml.in.h:106 ../comps-rhel4.xml.in.h:65
-#: ../comps-rhel4-u5.xml.in.h:65
-msgid ""
-"These packages provide compatibility support for previous releases of Red "
-"Hat Enterprise Linux."
-msgstr ""
-"Šīs pakotnes nodrošina savietojamību ar Red Hat Enterprise Linux "
-"iepriekšējām versijām."
-
-#: ../comps-taroon.xml.in.h:107 ../comps-rhel4.xml.in.h:66
-#: ../comps-rhel4-u5.xml.in.h:66 ../comps-rhel5-client-core.xml.in.h:127
-#: ../comps-rhel5-server-core.xml.in.h:121
-msgid ""
-"These tools allow you to create documentation in the DocBook format and "
-"convert them to HTML, PDF, Postscript, and text."
-msgstr ""
-"Šie rīki dod iespēju izveidot dokumentāciju DocBook formātā un pārveidot to "
-"HTML, PDF, Postscript un teksta formātā."
-
-#: ../comps-taroon.xml.in.h:108 ../comps-rhel4.xml.in.h:67
-#: ../comps-rhel4-u5.xml.in.h:67 ../comps-fc6.xml.in.h:133
-#: ../comps-fc7.xml.in.h:142 ../comps-rhel5-client-core.xml.in.h:128
-#: ../comps-rhel5-client-workstation.xml.in.h:47
-#: ../comps-rhel5-server-core.xml.in.h:122
-msgid "These tools allow you to run a Web server on the system."
-msgstr "Šie rīki ļauj datoru izmantot kā interneta serveri."
-
-#: ../comps-taroon.xml.in.h:109 ../comps-rhel4.xml.in.h:68
-#: ../comps-rhel4-u5.xml.in.h:68 ../comps-fc6.xml.in.h:134
-#: ../comps-fc7.xml.in.h:143 ../comps-rhel5-client-core.xml.in.h:129
-#: ../comps-rhel5-client-workstation.xml.in.h:48
-#: ../comps-rhel5-server-core.xml.in.h:123
-msgid "These tools allow you to run an FTP server on the system."
-msgstr "Šie rīki ļauj datoru izmantot kā FTP serveri."
-
-#: ../comps-taroon.xml.in.h:110 ../comps-rhel4.xml.in.h:69
-#: ../comps-rhel4-u5.xml.in.h:69 ../comps-fc6.xml.in.h:135
-#: ../comps-fc7.xml.in.h:144 ../comps-rhel5-client-core.xml.in.h:130
-#: ../comps-rhel5-client-workstation.xml.in.h:49
-#: ../comps-rhel5-server-core.xml.in.h:124
-msgid ""
-"These tools include core development tools such as automake, gcc, perl, "
-"python, and debuggers."
-msgstr ""
-"Šie rīki ietver programmēšanas pamatrīkus, tādus kā automake, gcc, perl, "
-"python un atkļūdotājus."
-
-#: ../comps-taroon.xml.in.h:111 ../comps-rhel4.xml.in.h:70
-#: ../comps-rhel4-u5.xml.in.h:70 ../comps-fc6.xml.in.h:136
-#: ../comps-fc7.xml.in.h:145 ../comps-rhel5-client-core.xml.in.h:131
-#: ../comps-rhel5-client-workstation.xml.in.h:50
-#: ../comps-rhel5-server-core.xml.in.h:125
-msgid "This group allows you to configure the system as a news server."
-msgstr "Šie rīki dod iespēju izmantot datoru kā ziņu serveri."
-
-#: ../comps-taroon.xml.in.h:112 ../comps-rhel4.xml.in.h:71
-#: ../comps-rhel4-u5.xml.in.h:71 ../comps-fc6.xml.in.h:137
-#: ../comps-fc7.xml.in.h:146 ../comps-rhel5-client-core.xml.in.h:132
-#: ../comps-rhel5-client-workstation.xml.in.h:51
-#: ../comps-rhel5-server-core.xml.in.h:126
-msgid "This group contains all of Red Hat's custom server configuration tools."
-msgstr ""
-"Šī grupa ietver kompānijas RedHat izstrādātos servera administrēšanas rīkus."
-
-#: ../comps-taroon.xml.in.h:113 ../comps-rhel4.xml.in.h:73
-#: ../comps-rhel4-u5.xml.in.h:73 ../comps-fc6.xml.in.h:139
-#: ../comps-fc7.xml.in.h:148 ../comps-rhel5-client-core.xml.in.h:134
-#: ../comps-rhel5-client-workstation.xml.in.h:53
-#: ../comps-rhel5-server-core.xml.in.h:128
-msgid "This group includes graphical email, Web, and chat clients."
-msgstr "Šī grupa ietver grafiskus e-pasta, interneta un čata klientus."
-
-#: ../comps-taroon.xml.in.h:114 ../comps-rhel4.xml.in.h:74
-#: ../comps-rhel4-u5.xml.in.h:74 ../comps-fc6.xml.in.h:140
-#: ../comps-fc7.xml.in.h:149 ../comps-rhel5-client-core.xml.in.h:135
-#: ../comps-rhel5-client-workstation.xml.in.h:54
-#: ../comps-rhel5-server-core.xml.in.h:129
-msgid ""
-"This group includes packages for performing mathematical and scientific "
-"computations and plotting, as well as unit conversion."
-msgstr ""
-"Šī grupa ietver programmas matemātisku un citu zinātnisku aprēķinu veikšanai."
-
-#: ../comps-taroon.xml.in.h:115 ../comps-rhel4.xml.in.h:75
-#: ../comps-rhel4-u5.xml.in.h:75 ../comps-fc6.xml.in.h:141
-#: ../comps-fc7.xml.in.h:150 ../comps-rhel5-client-core.xml.in.h:136
-#: ../comps-rhel5-server-core.xml.in.h:130
-msgid "This group includes packages to help you manipulate and scan images."
-msgstr "Šī grupa ietver programmas darbam ar grafiku un skeneriem."
-
-#: ../comps-taroon.xml.in.h:116 ../comps-rhel4.xml.in.h:76
-#: ../comps-rhel4-u5.xml.in.h:76 ../comps-fc6.xml.in.h:142
-#: ../comps-fc7.xml.in.h:151 ../comps-rhel5-client-core.xml.in.h:137
-#: ../comps-rhel5-client-workstation.xml.in.h:55
-#: ../comps-rhel5-server-core.xml.in.h:131
-msgid ""
-"This group includes text-based email, Web, and chat clients. These "
-"applications do not require the X Window System."
-msgstr ""
-"Šī grupa ietver teksta režīma e-pasta, interneta un čata klientus. Šo "
-"programmu izmantošanai nav nepieciešams uzstādīt X Window sistēmu."
-
-#: ../comps-taroon.xml.in.h:117 ../comps-rhel4.xml.in.h:77
-#: ../comps-rhel4-u5.xml.in.h:77 ../comps-fc6.xml.in.h:143
-#: ../comps-fc7.xml.in.h:152 ../comps-rhel5-client-core.xml.in.h:138
-#: ../comps-rhel5-client-workstation.xml.in.h:56
-#: ../comps-rhel5-server-core.xml.in.h:132
-msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
-msgstr ""
-"Šī grupa ietver grafiskus rīkus sistēmas iestatīšanai. Ar šo rīku palīdzību "
-"iespējams pievienot jaunus lietotāju profilus, iestatīt skaņas karti, ekrānu "
-"un tml."
-
-#: ../comps-taroon.xml.in.h:118 ../comps-rhel4.xml.in.h:78
-#: ../comps-rhel4-u5.xml.in.h:78 ../comps-fc6.xml.in.h:144
-#: ../comps-fc7.xml.in.h:155 ../comps-rhel5-client-core.xml.in.h:139
-#: ../comps-rhel5-client-workstation.xml.in.h:57
-#: ../comps-rhel5-server-core.xml.in.h:133
-msgid ""
-"This group is a collection of various tools for the system, such as the "
-"client for connecting to SMB shares and tools to monitor network traffic."
-msgstr ""
-"Šī grupa ietver dažādas sistēmas palīgprogrammas: piemēram, klientprogrammas "
-"piekļuvei SMB serveriem un tīkla trafika novērošanai."
-
-#: ../comps-taroon.xml.in.h:119 ../comps-rhel4.xml.in.h:79
-#: ../comps-rhel4-u5.xml.in.h:79 ../comps-fc6.xml.in.h:145
-#: ../comps-fc7.xml.in.h:156 ../comps-rhel5-client-core.xml.in.h:140
-#: ../comps-rhel5-client-workstation.xml.in.h:58
-#: ../comps-rhel5-server-core.xml.in.h:134
-msgid ""
-"This package group allows you to run a DNS name server (BIND) on the system."
-msgstr "Šīs grupas pakotnes ļaus Jums uzstādīt iestatīt DNS serveri BIND."
-
-#: ../comps-taroon.xml.in.h:120 ../comps-rhel4.xml.in.h:80
-#: ../comps-rhel4-u5.xml.in.h:80 ../comps-fc6.xml.in.h:146
-#: ../comps-fc7.xml.in.h:157 ../comps-rhel5-client-core.xml.in.h:141
-#: ../comps-rhel5-server-core.xml.in.h:135
-msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
-msgstr ""
-"Šī pakotņu grupa dod iespēju veikt informācijas apmaiņu starp Linux un MS "
-"Windows (tm) sistēmām."
-
-#: ../comps-taroon.xml.in.h:121 ../comps-rhel4.xml.in.h:81
-#: ../comps-rhel4-u5.xml.in.h:81 ../comps-fc6.xml.in.h:147
-#: ../comps-fc7.xml.in.h:158 ../comps-rhel5-client-core.xml.in.h:142
-#: ../comps-rhel5-client-workstation.xml.in.h:59
-#: ../comps-rhel5-server-core.xml.in.h:136
-msgid "This package group contains packages useful for use with MySQL."
-msgstr "Šī grupa satur pakotnes, kas noder MySQL izmantošanas laikā."
-
-#: ../comps-taroon.xml.in.h:122 ../comps-rhel4.xml.in.h:82
-#: ../comps-rhel4-u5.xml.in.h:82 ../comps-fc6.xml.in.h:148
-#: ../comps-fc7.xml.in.h:159 ../comps-rhel5-client-core.xml.in.h:143
-#: ../comps-rhel5-client-workstation.xml.in.h:60
-#: ../comps-rhel5-server-core.xml.in.h:137
-msgid "This package group includes packages useful for use with Postgresql."
-msgstr "Šī grupa satur pakotnes, kas noder PostgreSQL izmantošanas laikā."
-
-#: ../comps-taroon.xml.in.h:123 ../comps-fc6.xml.in.h:151
-#: ../comps-fc7.xml.in.h:163 ../comps-rhel5-client-core.xml.in.h:144
-#: ../comps-rhel5-server-core.xml.in.h:138
-msgid "Turkish Support"
-msgstr "Turku valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:124 ../comps-fc6.xml.in.h:152
-#: ../comps-fc7.xml.in.h:164 ../comps-rhel5-client-core.xml.in.h:145
-#: ../comps-rhel5-server-core.xml.in.h:139
-msgid "Ukrainian Support"
-msgstr "Ukraiņu valodas atbalsts"
-
-#: ../comps-taroon.xml.in.h:125
-msgid "Unsupported Development Libraries"
-msgstr "Neatbalstītās izstrādes bibliotekas"
-
-#: ../comps-taroon.xml.in.h:126 ../comps-rhel4.xml.in.h:83
-#: ../comps-rhel4-u5.xml.in.h:83 ../comps-fc6.xml.in.h:154
-#: ../comps-fc7.xml.in.h:167 ../comps-rhel5-client-core.xml.in.h:147
-#: ../comps-rhel5-server-core.xml.in.h:141
-msgid "Various ways to relax and spend your free time."
-msgstr "Dažādi veidi, lai atslābinātos un pavadītu brīvo laiku."
-
-#: ../comps-taroon.xml.in.h:127 ../comps-rhel4.xml.in.h:84
-#: ../comps-rhel4-u5.xml.in.h:84 ../comps-fc6.xml.in.h:157
-#: ../comps-fc7.xml.in.h:171 ../comps-rhel5-client-core.xml.in.h:148
-#: ../comps-rhel5-client-workstation.xml.in.h:61
-#: ../comps-rhel5-server-core.xml.in.h:142
-msgid "Web Server"
-msgstr "Interneta serveris"
-
-#: ../comps-taroon.xml.in.h:128 ../comps-rhel4.xml.in.h:85
-#: ../comps-rhel4-u5.xml.in.h:85 ../comps-fc6.xml.in.h:159
-#: ../comps-fc7.xml.in.h:174 ../comps-rhel5-client-core.xml.in.h:150
-#: ../comps-rhel5-server-core.xml.in.h:144
-msgid "Windows File Server"
-msgstr "Windows datņu serveris"
-
-#: ../comps-taroon.xml.in.h:129 ../comps-rhel4.xml.in.h:86
-#: ../comps-rhel4-u5.xml.in.h:86
-msgid "Workstation Common"
-msgstr "Tipveida darba stacija"
-
-#: ../comps-taroon.xml.in.h:130 ../comps-rhel4.xml.in.h:87
-#: ../comps-rhel4-u5.xml.in.h:87 ../comps-fc6.xml.in.h:160
-#: ../comps-fc7.xml.in.h:175 ../comps-rhel5-client-core.xml.in.h:151
-#: ../comps-rhel5-client-workstation.xml.in.h:64
-#: ../comps-rhel5-server-core.xml.in.h:145
-msgid "X Software Development"
-msgstr "X programmu izstrāde"
-
-#: ../comps-taroon.xml.in.h:131 ../comps-rhel4.xml.in.h:88
-#: ../comps-rhel4-u5.xml.in.h:88 ../comps-fc6.xml.in.h:161
-#: ../comps-fc7.xml.in.h:176 ../comps-rhel5-client-core.xml.in.h:152
-#: ../comps-rhel5-client-workstation.xml.in.h:65
-#: ../comps-rhel5-server-core.xml.in.h:146
-msgid "X Window System"
-msgstr "X Window sistēma"
-
-#: ../comps-taroon.xml.in.h:132 ../comps-rhel4.xml.in.h:89
-#: ../comps-rhel4-u5.xml.in.h:89 ../comps-fc7.xml.in.h:177
-msgid "XEmacs"
-msgstr "XEmacs"
-
-#: ../comps-taroon.xml.in.h:133
-msgid "ppc64 Compatibility Arch Support"
-msgstr "Savietojamības atbalsts ar arhitektūru ppc64"
-
-#: ../comps-taroon.xml.in.h:134 ../comps-rhel4.xml.in.h:91
-#: ../comps-rhel4-u5.xml.in.h:91
-msgid "x86 Compatibility Arch Development Support"
-msgstr "Atbalsts izstrādei priekš arhitektūras x86"
-
-#: ../comps-taroon.xml.in.h:135 ../comps-rhel4.xml.in.h:92
-#: ../comps-rhel4-u5.xml.in.h:92
-msgid "x86 Compatibility Arch Support"
-msgstr "Savietojamības atbalsts ar arhitektūru x86"
-
-#: ../comps-taroon-docs-emea.xml.in.h:1 ../comps-rhel4-docs-dvd.xml.in.h:2
-msgid "Brazilian Portuguese"
-msgstr "Brazīļu portugāļu atbalsts"
-
-#: ../comps-taroon-docs-emea.xml.in.h:2 ../comps-taroon-docs-apac.xml.in.h:1
-#: ../comps-rhel4-docs-dvd.xml.in.h:3
-msgid "English"
-msgstr "Angļu"
-
-#: ../comps-taroon-docs-emea.xml.in.h:3 ../comps-rhel4-docs-dvd.xml.in.h:4
-msgid "French"
-msgstr "Franču"
-
-#: ../comps-taroon-docs-emea.xml.in.h:4 ../comps-rhel4-docs-dvd.xml.in.h:5
-msgid "German"
-msgstr "Vācu"
-
-#: ../comps-taroon-docs-emea.xml.in.h:5 ../comps-rhel4-docs-dvd.xml.in.h:8
-msgid "Italian"
-msgstr "Itāļu"
-
-#: ../comps-taroon-docs-emea.xml.in.h:6 ../comps-taroon-docs-apac.xml.in.h:4
-msgid "Red Hat Enterprise Linux 3 Documentation"
-msgstr "Red Hat Enterprise Linux 3 dokumentācija"
-
-#: ../comps-taroon-docs-emea.xml.in.h:7 ../comps-rhel4-docs-dvd.xml.in.h:14
-msgid "Spanish"
-msgstr "Spāņu"
-
-#: ../comps-taroon-docs-emea.xml.in.h:8 ../comps-rhel4-docs-dvd.xml.in.h:17
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the "
-"Brazilian Portuguese language."
-msgstr ""
-"Šī grupa satur Red Hat Enterprise Linux dokumentāciju brazīļu portugāļu "
-"valodā"
-
-#: ../comps-taroon-docs-emea.xml.in.h:9 ../comps-taroon-docs-apac.xml.in.h:6
-#: ../comps-rhel4-docs-dvd.xml.in.h:18
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the "
-"English language."
-msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju angļu valodā"
-
-#: ../comps-taroon-docs-emea.xml.in.h:10 ../comps-rhel4-docs-dvd.xml.in.h:19
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the French "
-"language."
-msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju franču valodā"
-
-#: ../comps-taroon-docs-emea.xml.in.h:11 ../comps-rhel4-docs-dvd.xml.in.h:20
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the German "
-"language."
-msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju vācu valodā"
-
-#: ../comps-taroon-docs-emea.xml.in.h:12 ../comps-rhel4-docs-dvd.xml.in.h:23
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the "
-"Italian language."
-msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju itāļu valodā"
-
-#: ../comps-taroon-docs-emea.xml.in.h:13 ../comps-rhel4-docs-dvd.xml.in.h:28
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the "
-"Spanish language."
-msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju spāņu valodā"
-
-#: ../comps-taroon-docs-apac.xml.in.h:2 ../comps-rhel4-docs-dvd.xml.in.h:9
-msgid "Japanese"
-msgstr "Japāņu"
-
-#: ../comps-taroon-docs-apac.xml.in.h:3 ../comps-rhel4-docs-dvd.xml.in.h:10
-msgid "Korean"
-msgstr "Korejiešu"
-
-#: ../comps-taroon-docs-apac.xml.in.h:5 ../comps-rhel4-docs-dvd.xml.in.h:13
-msgid "Simplified Chinese"
-msgstr "Vienkāršota ķīniešu"
-
-#: ../comps-taroon-docs-apac.xml.in.h:7 ../comps-rhel4-docs-dvd.xml.in.h:24
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the "
-"Japanese language."
-msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju japāņu valodā"
-
-#: ../comps-taroon-docs-apac.xml.in.h:8 ../comps-rhel4-docs-dvd.xml.in.h:25
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the Korean "
-"language."
-msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju korejiešu valodā"
-
-#: ../comps-taroon-docs-apac.xml.in.h:9 ../comps-rhel4-docs-dvd.xml.in.h:27
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the "
-"Simplified Chinese language."
-msgstr ""
-"Šī grupa satur Red Hat Enterprise Linux dokumentāciju vienkāršotā ķīniešu "
-"valodā"
-
-#: ../comps-taroon-docs-apac.xml.in.h:10 ../comps-rhel4-docs-dvd.xml.in.h:30
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the "
-"Traditional Chinese language."
-msgstr ""
-"Šī grupa satur Red Hat Enterprise Linux dokumentāciju tradicionālā ķīniešu "
-"valodā"
-
-#: ../comps-taroon-docs-apac.xml.in.h:11 ../comps-rhel4-docs-dvd.xml.in.h:31
-msgid "Traditional Chinese"
-msgstr "Tradicionālā ķīniešu"
-
-#: ../comps-rhel4.xml.in.h:32 ../comps-rhel4-u5.xml.in.h:32
-#: ../comps-fc6.xml.in.h:69 ../comps-fc7.xml.in.h:75
-#: ../comps-rhel5-client-core.xml.in.h:68
-#: ../comps-rhel5-server-core.xml.in.h:64
-msgid "KDE (K Desktop Environment)"
-msgstr "KDE (K darbvirsmas vide)"
-
-#: ../comps-rhel4.xml.in.h:44 ../comps-rhel4-u5.xml.in.h:44
-#: ../comps-fc6.xml.in.h:93 ../comps-fc7.xml.in.h:99
-#: ../comps-rhel5-client-core.xml.in.h:93
-#: ../comps-rhel5-client-workstation.xml.in.h:30
-#: ../comps-rhel5-server-core.xml.in.h:87
-msgid "PostgreSQL Database"
-msgstr "PostgreSQL datu bāze"
-
-#: ../comps-rhel4.xml.in.h:72 ../comps-rhel4-u5.xml.in.h:72
-#: ../comps-fc6.xml.in.h:138 ../comps-fc7.xml.in.h:147
-#: ../comps-rhel5-client-core.xml.in.h:133
-#: ../comps-rhel5-client-workstation.xml.in.h:52
-#: ../comps-rhel5-server-core.xml.in.h:127
-msgid ""
-"This group includes a minimal set of packages. Useful for creating small "
-"router/firewall boxes, for example."
-msgstr ""
-"Šī grupa satur minimālu pakotņu komplektāciju. Tā der, piemēram, nelielu "
-"maršrutētāju/ugunssienu izveidei."
-
-#: ../comps-rhel4.xml.in.h:90 ../comps-rhel4-u5.xml.in.h:90
-msgid "ppc64 Compatibility Arch Development Support"
-msgstr "Atbalsts izstrādei priekš arhitektūras ppc64"
-
-#: ../comps-fc6.xml.in.h:4 ../comps-fc7.xml.in.h:5
-msgid "Applications to perform a variety of tasks"
-msgstr "Programmas dažādiem mērķiem"
-
-#: ../comps-fc6.xml.in.h:5 ../comps-fc7.xml.in.h:6
-#: ../comps-rhel5-client-core.xml.in.h:5 ../comps-rhel5-server-core.xml.in.h:5
-msgid "Arabic Support"
-msgstr "Arābu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:6 ../comps-fc7.xml.in.h:8
-#: ../comps-rhel5-client-core.xml.in.h:6 ../comps-rhel5-cluster-st.xml.in.h:1
-#: ../comps-rhel5-cluster.xml.in.h:1 ../comps-rhel5-server-core.xml.in.h:6
-#: ../comps-rhel5-vt.xml.in.h:1
-msgid "Assamese Support"
-msgstr "Asamiešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:9 ../comps-fc7.xml.in.h:11
-#: ../comps-rhel5-client-core.xml.in.h:9 ../comps-rhel5-server-core.xml.in.h:9
-msgid "Base System"
-msgstr "Pamatsistēma"
-
-#: ../comps-fc6.xml.in.h:11 ../comps-fc7.xml.in.h:13
-#: ../comps-rhel5-client-core.xml.in.h:11
-msgid "Basque Support"
-msgstr "Basku valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:12 ../comps-fc7.xml.in.h:14
-#: ../comps-rhel5-client-core.xml.in.h:12 ../comps-rhel5-cluster-st.xml.in.h:2
-#: ../comps-rhel5-cluster.xml.in.h:2 ../comps-rhel5-server-core.xml.in.h:11
-#: ../comps-rhel5-vt.xml.in.h:2
-msgid "Bengali Support"
-msgstr "Bengāļu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:13 ../comps-fc7.xml.in.h:15
-#: ../comps-rhel5-client-core.xml.in.h:13 ../comps-rhel5-cluster-st.xml.in.h:3
-#: ../comps-rhel5-cluster.xml.in.h:3 ../comps-rhel5-server-core.xml.in.h:12
-#: ../comps-rhel5-vt.xml.in.h:3
-msgid "Brazilian Portuguese Support"
-msgstr "Brazīļu portugāļu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:14 ../comps-fc7.xml.in.h:16
-#: ../comps-rhel5-client-core.xml.in.h:14
-#: ../comps-rhel5-server-core.xml.in.h:13
-msgid "Breton Support"
-msgstr "Bretaņas valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:15 ../comps-fc7.xml.in.h:17
-#: ../comps-rhel5-client-core.xml.in.h:16
-#: ../comps-rhel5-server-core.xml.in.h:15
-msgid "Bulgarian Support"
-msgstr "Bulgāru valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:18 ../comps-fc7.xml.in.h:20
-#: ../comps-rhel5-client-core.xml.in.h:20 ../comps-rhel5-cluster.xml.in.h:5
-msgid "Clustering"
-msgstr "Klasteris"
-
-#: ../comps-fc6.xml.in.h:19 ../comps-fc7.xml.in.h:21
-msgid "Clustering Support"
-msgstr "Klastera atbalsts"
-
-#: ../comps-fc6.xml.in.h:21 ../comps-fc7.xml.in.h:23
-#: ../comps-rhel5-client-core.xml.in.h:23
-#: ../comps-rhel5-server-core.xml.in.h:19
-msgid "Croatian Support"
-msgstr "Horvātu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:25 ../comps-fc7.xml.in.h:27
-#: ../comps-rhel5-client-core.xml.in.h:27
-#: ../comps-rhel5-server-core.xml.in.h:23
-msgid "Desktop Environments"
-msgstr "Darbvirsma"
-
-#: ../comps-fc6.xml.in.h:26 ../comps-fc7.xml.in.h:28
-#: ../comps-rhel5-client-core.xml.in.h:28
-#: ../comps-rhel5-server-core.xml.in.h:24
-msgid "Desktop environments"
-msgstr "Darbvirsma"
-
-#: ../comps-fc6.xml.in.h:30 ../comps-fc7.xml.in.h:32
-msgid "Dial-up Networking Support"
-msgstr "Iezvanpiekļuve datortīkliem"
-
-#: ../comps-fc6.xml.in.h:32 ../comps-fc7.xml.in.h:34
-#: ../comps-rhel5-client-workstation.xml.in.h:8
-msgid "Eclipse"
-msgstr "Eclipse"
-
-#: ../comps-fc6.xml.in.h:36 ../comps-fc7.xml.in.h:40
-msgid "English (UK) Support"
-msgstr "Angļu (UK) valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:38 ../comps-fc7.xml.in.h:42
-#: ../comps-rhel5-client-core.xml.in.h:37
-#: ../comps-rhel5-server-core.xml.in.h:33
-msgid "Ethiopic Support"
-msgstr "Etiopiešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:40 ../comps-fc7.xml.in.h:44
-#: ../comps-rhel5-client-core.xml.in.h:39
-#: ../comps-rhel5-server-core.xml.in.h:35
-msgid "Faeroese Support"
-msgstr "Fareru valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:46 ../comps-fc7.xml.in.h:50
-msgid ""
-"GNOME is a powerful graphical user interface which includes a panel, "
-"desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME ir jaudīga, grafiska lietotāja saskarne, kas ietver rīkjoslas, "
-"darbvirsmu, sistēmas piktogrammas un grafisku datņu pārvaldnieku."
-
-#: ../comps-fc6.xml.in.h:47 ../comps-fc7.xml.in.h:51
-#: ../comps-rhel5-client-core.xml.in.h:46
-#: ../comps-rhel5-server-core.xml.in.h:42
-msgid "Gaelic Support"
-msgstr "Gēļu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:48 ../comps-fc7.xml.in.h:52
-#: ../comps-rhel5-client-core.xml.in.h:47
-#: ../comps-rhel5-server-core.xml.in.h:43
-msgid "Galician Support"
-msgstr "Galīciešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:54 ../comps-fc7.xml.in.h:58
-#: ../comps-rhel5-client-core.xml.in.h:53 ../comps-rhel5-cluster-st.xml.in.h:8
-#: ../comps-rhel5-cluster.xml.in.h:9 ../comps-rhel5-server-core.xml.in.h:49
-#: ../comps-rhel5-vt.xml.in.h:7
-msgid "Gujarati Support"
-msgstr "Gujarati valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:56 ../comps-fc7.xml.in.h:61
-#: ../comps-rhel5-client-core.xml.in.h:55 ../comps-rhel5-cluster-st.xml.in.h:9
-#: ../comps-rhel5-cluster.xml.in.h:10 ../comps-rhel5-server-core.xml.in.h:51
-#: ../comps-rhel5-vt.xml.in.h:8
-msgid "Hindi Support"
-msgstr "Hindu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:59 ../comps-fc7.xml.in.h:64
-#: ../comps-rhel5-client-core.xml.in.h:58
-#: ../comps-rhel5-server-core.xml.in.h:54
-msgid "Indonesian Support"
-msgstr "Indonēziešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:64 ../comps-fc7.xml.in.h:70
-#: ../comps-rhel5-client-core.xml.in.h:63
-#: ../comps-rhel5-server-core.xml.in.h:59
-msgid "Irish Support"
-msgstr "Īru valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:67 ../comps-fc7.xml.in.h:73
-#: ../comps-rhel5-client-core.xml.in.h:66
-#: ../comps-rhel5-client-supplementary.xml.in.h:2
-#: ../comps-rhel5-client-workstation.xml.in.h:19
-#: ../comps-rhel5-server-core.xml.in.h:62
-#: ../comps-rhel5-server-supplementary.xml.in.h:2
-msgid "Java"
-msgstr "Java"
-
-#: ../comps-fc6.xml.in.h:68 ../comps-fc7.xml.in.h:74
-#: ../comps-rhel5-client-core.xml.in.h:67
-#: ../comps-rhel5-client-workstation.xml.in.h:20
-#: ../comps-rhel5-server-core.xml.in.h:63
-msgid "Java Development"
-msgstr "Izstrāde Java valodā"
-
-#: ../comps-fc6.xml.in.h:71 ../comps-fc7.xml.in.h:77
-msgid ""
-"KDE is a powerful graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDE ir jaudīga, grafiska lietotāja saskarne, kas ietver rīkjoslas, "
-"darbvirsmu, sistēmas piktogrammas un grafisku datņu pārvaldnieku."
-
-#: ../comps-fc6.xml.in.h:72 ../comps-fc7.xml.in.h:78
-#: ../comps-rhel5-client-core.xml.in.h:71
-#: ../comps-rhel5-cluster-st.xml.in.h:12 ../comps-rhel5-cluster.xml.in.h:13
-#: ../comps-rhel5-server-core.xml.in.h:67 ../comps-rhel5-vt.xml.in.h:11
-msgid "Kannada Support"
-msgstr "Kanādiešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:74 ../comps-fc7.xml.in.h:80
-#: ../comps-rhel5-client-core.xml.in.h:73
-#: ../comps-rhel5-server-core.xml.in.h:69
-msgid "Languages"
-msgstr "Valodas"
-
-#: ../comps-fc6.xml.in.h:78 ../comps-fc7.xml.in.h:84
-#: ../comps-rhel5-client-core.xml.in.h:77
-msgid "Lithuanian Support"
-msgstr "Lietuviešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:80 ../comps-fc7.xml.in.h:86
-msgid "Malay Support"
-msgstr "Malajiešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:81 ../comps-fc7.xml.in.h:87
-#: ../comps-rhel5-client-core.xml.in.h:79
-#: ../comps-rhel5-cluster-st.xml.in.h:14 ../comps-rhel5-cluster.xml.in.h:15
-#: ../comps-rhel5-server-core.xml.in.h:74 ../comps-rhel5-vt.xml.in.h:13
-msgid "Malayalam Support"
-msgstr "Malajalamiešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:82 ../comps-fc7.xml.in.h:88
-#: ../comps-rhel5-client-core.xml.in.h:80
-#: ../comps-rhel5-cluster-st.xml.in.h:15 ../comps-rhel5-cluster.xml.in.h:16
-#: ../comps-rhel5-server-core.xml.in.h:75 ../comps-rhel5-vt.xml.in.h:14
-msgid "Marathi Support"
-msgstr "Marati valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:86 ../comps-fc7.xml.in.h:92
-msgid "Northern Sotho Support"
-msgstr "Northern Sotho Support"
-
-#: ../comps-fc6.xml.in.h:89 ../comps-fc7.xml.in.h:95
-#: ../comps-rhel5-client-core.xml.in.h:87
-#: ../comps-rhel5-cluster-st.xml.in.h:16 ../comps-rhel5-cluster.xml.in.h:17
-#: ../comps-rhel5-server-core.xml.in.h:82 ../comps-rhel5-vt.xml.in.h:15
-msgid "Oriya Support"
-msgstr "Oriya Support"
-
-#: ../comps-fc6.xml.in.h:90 ../comps-fc7.xml.in.h:96
-#: ../comps-rhel5-client-core.xml.in.h:88
-#: ../comps-rhel5-server-core.xml.in.h:83
-msgid ""
-"Packages which provide functionality for developing and building "
-"applications."
-msgstr "Pakotnes, kas nodrošina programmu izstrādes procesu."
-
-#: ../comps-fc6.xml.in.h:95 ../comps-fc7.xml.in.h:101
-#: ../comps-rhel5-client-core.xml.in.h:95
-#: ../comps-rhel5-cluster-st.xml.in.h:18 ../comps-rhel5-cluster.xml.in.h:18
-#: ../comps-rhel5-server-core.xml.in.h:89 ../comps-rhel5-vt.xml.in.h:16
-msgid "Punjabi Support"
-msgstr "Pendžabiešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:102 ../comps-fc7.xml.in.h:109
-#: ../comps-rhel5-client-core.xml.in.h:103
-#: ../comps-rhel5-cluster-st.xml.in.h:20 ../comps-rhel5-cluster.xml.in.h:20
-#: ../comps-rhel5-server-core.xml.in.h:97 ../comps-rhel5-vt.xml.in.h:18
-msgid "Sinhala Support"
-msgstr "Sinhala Support"
-
-#: ../comps-fc6.xml.in.h:106 ../comps-fc7.xml.in.h:113
-#: ../comps-rhel5-client-core.xml.in.h:107
-#: ../comps-rhel5-server-core.xml.in.h:101
-msgid "Software used for running network servers"
-msgstr "Programmas, kas tiek izmantotas tīkla serveriem"
-
-#: ../comps-fc6.xml.in.h:107 ../comps-fc7.xml.in.h:114
-msgid ""
-"Sometimes called text editors, these are programs that allow you to create "
-"and edit text files. This includes Emacs and Vi."
-msgstr ""
-"Šīs programmas, kuras reizēm dēvē par teksta redaktoriem, ļauj labot "
-"tekstus. Ietver Emacs un Vi."
-
-#: ../comps-fc6.xml.in.h:109 ../comps-fc7.xml.in.h:116
-msgid "Southern Ndebele Support"
-msgstr "Dienvidu Ndebele atbalsts"
-
-#: ../comps-fc6.xml.in.h:110 ../comps-fc7.xml.in.h:117
-msgid "Southern Sotho Support"
-msgstr "Dienvidu Sotho atbalsts"
-
-#: ../comps-fc6.xml.in.h:112 ../comps-fc7.xml.in.h:119
-#: ../comps-rhel5-client-core.xml.in.h:111
-#: ../comps-rhel5-client-workstation.xml.in.h:36
-#: ../comps-rhel5-server-core.xml.in.h:105
-msgid "Support for developing programs in the Java programming language."
-msgstr "Izstrādes programmu atbalsts darbam ar Java programmēšanas valodu"
-
-#: ../comps-fc6.xml.in.h:113 ../comps-fc7.xml.in.h:120
-#: ../comps-rhel5-client-core.xml.in.h:112
-#: ../comps-rhel5-client-workstation.xml.in.h:37
-#: ../comps-rhel5-server-core.xml.in.h:106
-msgid "Support for running programs written in the Java programming language."
-msgstr "Atbalsts Javas valodā rakstīto programmu startēšanai"
-
-#: ../comps-fc6.xml.in.h:114 ../comps-fc7.xml.in.h:121
-msgid "Swati Support"
-msgstr "Swati atbalsts"
-
-#: ../comps-fc6.xml.in.h:117 ../comps-fc7.xml.in.h:124
-#: ../comps-rhel5-client-core.xml.in.h:115
-#: ../comps-rhel5-cluster-st.xml.in.h:22 ../comps-rhel5-cluster.xml.in.h:22
-#: ../comps-rhel5-server-core.xml.in.h:109 ../comps-rhel5-vt.xml.in.h:20
-msgid "Tamil Support"
-msgstr "Tamilu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:118 ../comps-fc7.xml.in.h:125
-#: ../comps-rhel5-client-core.xml.in.h:116
-#: ../comps-rhel5-cluster-st.xml.in.h:23 ../comps-rhel5-cluster.xml.in.h:23
-#: ../comps-rhel5-server-core.xml.in.h:110 ../comps-rhel5-vt.xml.in.h:21
-msgid "Telugu Support"
-msgstr "Telugu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:120 ../comps-fc7.xml.in.h:127
-#: ../comps-rhel5-client-core.xml.in.h:118
-#: ../comps-rhel5-server-core.xml.in.h:112
-msgid "Thai Support"
-msgstr "Tajiešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:121 ../comps-fc7.xml.in.h:128
-#: ../comps-rhel5-client-workstation.xml.in.h:40
-msgid "The Eclipse Integrated Development Environment."
-msgstr "Integrētā izstrādes vide Eclipse"
-
-#: ../comps-fc6.xml.in.h:125 ../comps-fc7.xml.in.h:133
-#: ../comps-rhel5-client-core.xml.in.h:121
-#: ../comps-rhel5-client-workstation.xml.in.h:42
-#: ../comps-rhel5-server-core.xml.in.h:115
-msgid "These packages allow you to configure an IMAP or SMTP mail server."
-msgstr "Šīs pakotnes dod iespēju iestatīt IMAP vai SMTP pasta serveri."
-
-#: ../comps-fc6.xml.in.h:129 ../comps-fc7.xml.in.h:138
-#, fuzzy
-msgid "These packages provide a virtualization environment."
-msgstr "Šīs pakotnes nodrošina savietojamību ar iepriekšējām versijām."
-
-#: ../comps-fc6.xml.in.h:130 ../comps-fc7.xml.in.h:139
-msgid "These packages provide compatibility with previous releases."
-msgstr "Šīs pakotnes nodrošina savietojamību ar iepriekšējām versijām."
-
-#: ../comps-fc6.xml.in.h:131 ../comps-fc7.xml.in.h:140
-#: ../comps-rhel5-client-core.xml.in.h:126
-#: ../comps-rhel5-server-core.xml.in.h:120
-msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
-msgstr ""
-"Šīs pakotnes nodrošina dažādu reģionālo iestatījumu (šriftu un ievades "
-"metožu) atbalstu"
-
-#: ../comps-fc6.xml.in.h:132 ../comps-fc7.xml.in.h:141
-msgid ""
-"These tools allow you to create documents in the DocBook format and convert "
-"them into HTML, PDF, Postscript, and text."
-msgstr ""
-"Šie rīki dod iespēju izveidot dokumentāciju DocBook formātā un pārveidot to "
-"HTML, PDF, Postscript un teksta formātā."
-
-#: ../comps-fc6.xml.in.h:149 ../comps-fc7.xml.in.h:161
-msgid "Tsonga Support"
-msgstr "Tsonga valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:150 ../comps-fc7.xml.in.h:162
-msgid "Tswana Support"
-msgstr "Tswana Support"
-
-#: ../comps-fc6.xml.in.h:153 ../comps-fc7.xml.in.h:166
-#: ../comps-rhel5-client-core.xml.in.h:146
-#: ../comps-rhel5-server-core.xml.in.h:140
-msgid "Various core pieces of the system."
-msgstr "Dažādas sistēmas pamatdaļas"
-
-#: ../comps-fc6.xml.in.h:155 ../comps-fc7.xml.in.h:168
-msgid "Venda Support"
-msgstr "Venda atbalsts"
-
-#: ../comps-fc6.xml.in.h:156 ../comps-fc7.xml.in.h:169
-#: ../comps-rhel5-vt.xml.in.h:22
-msgid "Virtualization"
-msgstr "Virtualizācija"
-
-#: ../comps-fc6.xml.in.h:158 ../comps-fc7.xml.in.h:172
-#: ../comps-rhel5-client-core.xml.in.h:149
-#: ../comps-rhel5-server-core.xml.in.h:143
-msgid "Welsh Support"
-msgstr "Velsiešu valodas atbalsts"
-
-#: ../comps-fc6.xml.in.h:162 ../comps-fc7.xml.in.h:180
-msgid "Xhosa Support"
-msgstr "Xhosa atbalsts"
-
-#: ../comps-fc6.xml.in.h:163 ../comps-fc7.xml.in.h:181
-#: ../comps-rhel5-client-core.xml.in.h:153
-msgid "Zulu Support"
-msgstr "Zulu valodas atbalsts"
-
-#: ../comps-fc7.xml.in.h:1
-msgid "A lightweight desktop environment that works well on low end machines."
-msgstr ""
-
-#: ../comps-fc7.xml.in.h:7
-#, fuzzy
-msgid "Armenian Support"
-msgstr "Romāņu valodas atbalsts"
-
-#: ../comps-fc7.xml.in.h:36
-msgid "Educational Software"
-msgstr ""
-
-#: ../comps-fc7.xml.in.h:37
-msgid "Educational software for learning"
-msgstr ""
-
-#: ../comps-fc7.xml.in.h:59
-#, fuzzy
-msgid "Hardware Support"
-msgstr "Ebreju valodas atbalsts"
-
-#: ../comps-fc7.xml.in.h:66
+#: ../comps-fe5.xml.in.h:29 ../comps-fe6.xml.in.h:30 ../comps-f7.xml.in.h:71
+#: ../comps-f8.xml.in.h:71
 #, fuzzy
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
@@ -1531,194 +180,1173 @@ msgstr ""
 "Uzstādiet šīs pakotnes, ja vēlaties nodarboties ar GTK+ un GNOME programmu "
 "izstrādi."
 
-#: ../comps-fc7.xml.in.h:108
+#: ../comps-fe5.xml.in.h:30 ../comps-fe6.xml.in.h:31 ../comps-f7.xml.in.h:72
+#: ../comps-f8.xml.in.h:72 ../comps-el4.xml.in.h:27 ../comps-el5.xml.in.h:29
+msgid "Install these packages to develop QT and KDE graphical applications."
+msgstr ""
+"Uzstādiet šīs pakotnes, ja vēlaties nodarboties ar QT un KDE programmu "
+"izstrādi."
+
+#: ../comps-fe5.xml.in.h:31 ../comps-fe6.xml.in.h:32 ../comps-f7.xml.in.h:74
+#: ../comps-f8.xml.in.h:74 ../comps-el4.xml.in.h:28 ../comps-el5.xml.in.h:30
+msgid ""
+"Install this group of packages to use the base graphical (X) user interface."
+msgstr ""
+"Uzstādiet šīs pakotnes, ja vēlaties izmantot grafisku lietotāja saskarni (X)."
+
+#: ../comps-fe5.xml.in.h:32 ../comps-fe6.xml.in.h:33 ../comps-f7.xml.in.h:78
+#: ../comps-f8.xml.in.h:78 ../comps-el4.xml.in.h:29 ../comps-el5.xml.in.h:31
+msgid "Japanese Support"
+msgstr "Japāņu valodas atbalsts"
+
+#: ../comps-fe5.xml.in.h:33 ../comps-f7.xml.in.h:79 ../comps-f8.xml.in.h:79
+#: ../comps-el4.xml.in.h:30
+msgid "Java"
+msgstr "Java"
+
+#: ../comps-fe5.xml.in.h:34 ../comps-f7.xml.in.h:80 ../comps-f8.xml.in.h:80
+#: ../comps-el4.xml.in.h:31
+msgid "Java Development"
+msgstr "Izstrāde Java valodā"
+
+#: ../comps-fe5.xml.in.h:35 ../comps-fe6.xml.in.h:34 ../comps-f7.xml.in.h:81
+#: ../comps-f8.xml.in.h:81 ../comps-el4.xml.in.h:32 ../comps-el5.xml.in.h:32
+msgid "KDE (K Desktop Environment)"
+msgstr "KDE (K darbvirsmas vide)"
+
+#: ../comps-fe5.xml.in.h:36 ../comps-fe6.xml.in.h:35 ../comps-f7.xml.in.h:82
+#: ../comps-f8.xml.in.h:82 ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:33
+msgid "KDE Software Development"
+msgstr "KDE Programmu izstrāde"
+
+#: ../comps-fe5.xml.in.h:37 ../comps-fe6.xml.in.h:36 ../comps-el4.xml.in.h:34
+#: ../comps-el5.xml.in.h:34
+msgid ""
+"KDE is a powerful, graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE ir jaudīga, grafiska lietotāja saskarne, kas ietver rīkjoslas, "
+"darbvirsmu, sistēmas piktogrammas un grafisku datņu pārvaldnieku."
+
+#: ../comps-fe5.xml.in.h:38 ../comps-fe6.xml.in.h:37 ../comps-f7.xml.in.h:94
+#: ../comps-f8.xml.in.h:94 ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:35
+msgid "Mail Server"
+msgstr "Pasta serveris"
+
+#: ../comps-fe5.xml.in.h:39 ../comps-fe6.xml.in.h:38 ../comps-f7.xml.in.h:100
+#: ../comps-f8.xml.in.h:100 ../comps-el4.xml.in.h:36 ../comps-el5.xml.in.h:36
+msgid "Network Servers"
+msgstr "Tīkla serveri"
+
+#: ../comps-fe5.xml.in.h:40 ../comps-fe6.xml.in.h:39 ../comps-f7.xml.in.h:101
+#: ../comps-f8.xml.in.h:101 ../comps-el4.xml.in.h:37 ../comps-el5.xml.in.h:37
+msgid "News Server"
+msgstr "Ziņu serveris"
+
+#: ../comps-fe5.xml.in.h:41 ../comps-fe6.xml.in.h:40 ../comps-f7.xml.in.h:104
+#: ../comps-f8.xml.in.h:104 ../comps-el4.xml.in.h:38 ../comps-el5.xml.in.h:38
+msgid "Office/Productivity"
+msgstr "Birojs/Ražošana"
+
+#: ../comps-fe5.xml.in.h:42 ../comps-fe6.xml.in.h:41 ../comps-f7.xml.in.h:106
+#: ../comps-f8.xml.in.h:106 ../comps-el4.xml.in.h:39 ../comps-el5.xml.in.h:39
+msgid ""
+"Packages which provide functionality for developing and building "
+"applications."
+msgstr "Pakotnes, kas nodrošina programmu izstrādes procesu."
+
+#: ../comps-fe5.xml.in.h:43 ../comps-fe6.xml.in.h:42 ../comps-f7.xml.in.h:119
+#: ../comps-f8.xml.in.h:119 ../comps-el4.xml.in.h:40 ../comps-el5.xml.in.h:40
+msgid "Servers"
+msgstr "Serveri"
+
+#: ../comps-fe5.xml.in.h:44 ../comps-fe6.xml.in.h:43 ../comps-f7.xml.in.h:120
+#: ../comps-f8.xml.in.h:120 ../comps-el4.xml.in.h:41 ../comps-el5.xml.in.h:41
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
 
-#: ../comps-fc7.xml.in.h:135
+#: ../comps-fe5.xml.in.h:45 ../comps-fe6.xml.in.h:44 ../comps-f7.xml.in.h:125
+#: ../comps-f8.xml.in.h:125 ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:42
+msgid "Software used for running network servers"
+msgstr "Programmas, kas tiek izmantotas tīkla serveriem"
+
+#: ../comps-fe5.xml.in.h:46 ../comps-fe6.xml.in.h:45 ../comps-el4.xml.in.h:43
+#: ../comps-el5.xml.in.h:43
+msgid ""
+"Sometimes called text editors, these are programs that allow you to create "
+"and edit files. These include Emacs and Vi."
+msgstr ""
+"Šīs programmas, kuras reizēm dēvē par teksta redaktoriem, ļauj labot "
+"tekstus. Ietver Emacs un Vi."
+
+#: ../comps-fe5.xml.in.h:47 ../comps-fe6.xml.in.h:46 ../comps-f7.xml.in.h:128
+#: ../comps-f8.xml.in.h:128 ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:44
+msgid "Sound and Video"
+msgstr "Skaņa un video"
+
+#: ../comps-fe5.xml.in.h:48 ../comps-f7.xml.in.h:132 ../comps-f8.xml.in.h:132
+#: ../comps-el4.xml.in.h:45
+msgid "Support for developing programs in the Java programming language."
+msgstr "Izstrādes programmu atbalsts darbam ar Java programmēšanas valodu"
+
+#: ../comps-fe5.xml.in.h:49 ../comps-f7.xml.in.h:133 ../comps-f8.xml.in.h:133
+#: ../comps-el4.xml.in.h:46
+msgid "Support for running programs written in the Java programming language."
+msgstr "Atbalsts Javas valodā rakstīto programmu startēšanai"
+
+#: ../comps-fe5.xml.in.h:50 ../comps-fe6.xml.in.h:47 ../comps-f7.xml.in.h:136
+#: ../comps-f8.xml.in.h:136 ../comps-el4.xml.in.h:47 ../comps-el5.xml.in.h:45
+msgid "System Tools"
+msgstr "Sistēmas rīki"
+
+#: ../comps-fe5.xml.in.h:51 ../comps-fe6.xml.in.h:48 ../comps-f7.xml.in.h:140
+#: ../comps-f8.xml.in.h:140 ../comps-el4.xml.in.h:48 ../comps-el5.xml.in.h:46
+msgid "Text-based Internet"
+msgstr "Interneta teksta režīma rīki"
+
+#: ../comps-fe5.xml.in.h:52 ../comps-fe6.xml.in.h:49 ../comps-el4.xml.in.h:49
+#: ../comps-el5.xml.in.h:47
+msgid "The XEmacs text editor."
+msgstr "Teksta redaktors XEmacs"
+
+#: ../comps-fe5.xml.in.h:53 ../comps-fe6.xml.in.h:50 ../comps-f7.xml.in.h:143
+#: ../comps-f8.xml.in.h:143 ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:48
+msgid "The applications include office suites, PDF viewers, and more."
+msgstr ""
+"Grupa ietver biroja programmas, PDF formāta datņu lasīšanas programmas utt."
+
+#: ../comps-fe5.xml.in.h:54 ../comps-fe6.xml.in.h:51 ../comps-f7.xml.in.h:145
+#: ../comps-f8.xml.in.h:145 ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:49
+msgid "These packages allow you to configure an IMAP or SMTP mail server."
+msgstr "Šīs pakotnes dod iespēju iestatīt IMAP vai SMTP pasta serveri."
+
+#: ../comps-fe5.xml.in.h:55 ../comps-fe6.xml.in.h:52 ../comps-f7.xml.in.h:147
+#: ../comps-f8.xml.in.h:147 ../comps-el4.xml.in.h:52 ../comps-el5.xml.in.h:50
 #, fuzzy
 msgid ""
 "These packages are helpful when developing web applications or web pages."
 msgstr "Šīs pakotnes dod iespēju izstrādāt programmas X Window sistēmai."
 
-#: ../comps-fc7.xml.in.h:153
+#: ../comps-fe5.xml.in.h:56 ../comps-fe6.xml.in.h:53 ../comps-el4.xml.in.h:53
+#: ../comps-el5.xml.in.h:51
+msgid ""
+"These tools allow you to create documentation in the DocBook format and "
+"convert them to HTML, PDF, Postscript, and text."
+msgstr ""
+"Šie rīki dod iespēju izveidot dokumentāciju DocBook formātā un pārveidot to "
+"HTML, PDF, Postscript un teksta formātā."
+
+#: ../comps-fe5.xml.in.h:57 ../comps-fe6.xml.in.h:54 ../comps-f7.xml.in.h:154
+#: ../comps-f8.xml.in.h:154 ../comps-el4.xml.in.h:54 ../comps-el5.xml.in.h:52
+msgid "These tools allow you to run a Web server on the system."
+msgstr "Šie rīki ļauj datoru izmantot kā interneta serveri."
+
+#: ../comps-fe5.xml.in.h:58 ../comps-fe6.xml.in.h:55 ../comps-f7.xml.in.h:155
+#: ../comps-f8.xml.in.h:155 ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:53
+msgid "These tools allow you to run an FTP server on the system."
+msgstr "Šie rīki ļauj datoru izmantot kā FTP serveri."
+
+#: ../comps-fe5.xml.in.h:59 ../comps-fe6.xml.in.h:56 ../comps-f7.xml.in.h:156
+#: ../comps-f8.xml.in.h:156 ../comps-el4.xml.in.h:56 ../comps-el5.xml.in.h:54
+msgid ""
+"These tools include core development tools such as automake, gcc, perl, "
+"python, and debuggers."
+msgstr ""
+"Šie rīki ietver programmēšanas pamatrīkus, tādus kā automake, gcc, perl, "
+"python un atkļūdotājus."
+
+#: ../comps-fe5.xml.in.h:60 ../comps-fe6.xml.in.h:57 ../comps-f7.xml.in.h:157
+#: ../comps-f8.xml.in.h:157 ../comps-el4.xml.in.h:57 ../comps-el5.xml.in.h:55
+msgid "This group allows you to configure the system as a news server."
+msgstr "Šie rīki dod iespēju izmantot datoru kā ziņu serveri."
+
+#: ../comps-fe5.xml.in.h:61 ../comps-fe6.xml.in.h:58 ../comps-f7.xml.in.h:160
+#: ../comps-f8.xml.in.h:160 ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:56
+msgid "This group includes graphical email, Web, and chat clients."
+msgstr "Šī grupa ietver grafiskus e-pasta, interneta un čata klientus."
+
+#: ../comps-fe5.xml.in.h:62 ../comps-fe6.xml.in.h:59 ../comps-f7.xml.in.h:161
+#: ../comps-f8.xml.in.h:161 ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:57
+msgid ""
+"This group includes packages for performing mathematical and scientific "
+"computations and plotting, as well as unit conversion."
+msgstr ""
+"Šī grupa ietver programmas matemātisku un citu zinātnisku aprēķinu veikšanai."
+
+#: ../comps-fe5.xml.in.h:63 ../comps-fe6.xml.in.h:60 ../comps-f7.xml.in.h:162
+#: ../comps-f8.xml.in.h:162 ../comps-el4.xml.in.h:60 ../comps-el5.xml.in.h:58
+msgid "This group includes packages to help you manipulate and scan images."
+msgstr "Šī grupa ietver programmas darbam ar grafiku un skeneriem."
+
+#: ../comps-fe5.xml.in.h:64 ../comps-fe6.xml.in.h:61 ../comps-f7.xml.in.h:163
+#: ../comps-f8.xml.in.h:163 ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:59
+msgid ""
+"This group includes text-based email, Web, and chat clients. These "
+"applications do not require the X Window System."
+msgstr ""
+"Šī grupa ietver teksta režīma e-pasta, interneta un čata klientus. Šo "
+"programmu izmantošanai nav nepieciešams uzstādīt X Window sistēmu."
+
+#: ../comps-fe5.xml.in.h:65 ../comps-fe6.xml.in.h:62 ../comps-f7.xml.in.h:164
+#: ../comps-f8.xml.in.h:164 ../comps-el4.xml.in.h:62 ../comps-el5.xml.in.h:60
+msgid ""
+"This group is a collection of graphical administration tools for the system, "
+"such as for managing user accounts and configuring system hardware."
+msgstr ""
+"Šī grupa ietver grafiskus rīkus sistēmas iestatīšanai. Ar šo rīku palīdzību "
+"iespējams pievienot jaunus lietotāju profilus, iestatīt skaņas karti, ekrānu "
+"un tml."
+
+#: ../comps-fe5.xml.in.h:66 ../comps-fe6.xml.in.h:63 ../comps-el4.xml.in.h:63
+#: ../comps-el5.xml.in.h:61
+msgid "This group is a collection of network servers for specific purposes"
+msgstr ""
+
+#: ../comps-fe5.xml.in.h:67 ../comps-fe6.xml.in.h:64 ../comps-el4.xml.in.h:64
+#: ../comps-el5.xml.in.h:62
+msgid ""
+"This group is a collection of tools and resources of Arabic environments."
+msgstr ""
+
+#: ../comps-fe5.xml.in.h:68 ../comps-fe6.xml.in.h:65 ../comps-f7.xml.in.h:165
+#: ../comps-f8.xml.in.h:165 ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
 msgid ""
 "This group is a collection of tools and resources of Armenian environments."
 msgstr ""
 
-#: ../comps-fc7.xml.in.h:154
+#: ../comps-fe5.xml.in.h:69 ../comps-fe6.xml.in.h:67 ../comps-el4.xml.in.h:66
+#: ../comps-el5.xml.in.h:65
+msgid ""
+"This group is a collection of tools and resources of Hebrew environments."
+msgstr ""
+
+#: ../comps-fe5.xml.in.h:70 ../comps-fe6.xml.in.h:68 ../comps-el4.xml.in.h:67
+#: ../comps-el5.xml.in.h:66
+msgid ""
+"This group is a collection of tools and resources of Japanese environments."
+msgstr ""
+
+#: ../comps-fe5.xml.in.h:71 ../comps-fe6.xml.in.h:69 ../comps-f7.xml.in.h:166
+#: ../comps-f8.xml.in.h:166 ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr ""
 
-#: ../comps-fc7.xml.in.h:160
-#, fuzzy
-msgid "Tibetan Support"
-msgstr "Vācu valodas atbalsts"
+#: ../comps-fe5.xml.in.h:72 ../comps-fe6.xml.in.h:70 ../comps-f7.xml.in.h:167
+#: ../comps-f8.xml.in.h:167 ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:68
+msgid ""
+"This group is a collection of various tools for the system, such as the "
+"client for connecting to SMB shares and tools to monitor network traffic."
+msgstr ""
+"Šī grupa ietver dažādas sistēmas palīgprogrammas: piemēram, klientprogrammas "
+"piekļuvei SMB serveriem un tīkla trafika novērošanai."
 
-#: ../comps-fc7.xml.in.h:165
-#, fuzzy
-msgid "Urdu Support"
-msgstr "Zulu valodas atbalsts"
+#: ../comps-fe5.xml.in.h:73 ../comps-fe6.xml.in.h:71 ../comps-f7.xml.in.h:179
+#: ../comps-f8.xml.in.h:179 ../comps-el4.xml.in.h:70 ../comps-el5.xml.in.h:69
+msgid "Various core pieces of the system."
+msgstr "Dažādas sistēmas pamatdaļas"
 
-#: ../comps-fc7.xml.in.h:170
+#: ../comps-fe5.xml.in.h:74 ../comps-fe6.xml.in.h:72 ../comps-f7.xml.in.h:180
+#: ../comps-f8.xml.in.h:180 ../comps-el5.xml.in.h:70
+msgid "Various ways to relax and spend your free time."
+msgstr "Dažādi veidi, lai atslābinātos un pavadītu brīvo laiku."
+
+#: ../comps-fe5.xml.in.h:75 ../comps-fe6.xml.in.h:73 ../comps-f7.xml.in.h:184
+#: ../comps-f8.xml.in.h:184 ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:71
 #, fuzzy
 msgid "Web Development"
 msgstr "Programmēšana"
 
-#: ../comps-fc7.xml.in.h:173
+#: ../comps-fe5.xml.in.h:76 ../comps-fe6.xml.in.h:74 ../comps-f7.xml.in.h:185
+#: ../comps-f8.xml.in.h:185 ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:72
+msgid "Web Server"
+msgstr "Interneta serveris"
+
+#: ../comps-fe5.xml.in.h:77 ../comps-fe6.xml.in.h:75 ../comps-f7.xml.in.h:187
+#: ../comps-f8.xml.in.h:187 ../comps-el4.xml.in.h:73 ../comps-el5.xml.in.h:73
 msgid "Window Managers"
 msgstr ""
 
-#: ../comps-fc7.xml.in.h:178
+#: ../comps-fe5.xml.in.h:78 ../comps-fe6.xml.in.h:76 ../comps-f7.xml.in.h:190
+#: ../comps-f8.xml.in.h:190 ../comps-el4.xml.in.h:74 ../comps-el5.xml.in.h:74
+msgid "X Window System"
+msgstr "X Window sistēma"
+
+#: ../comps-fe5.xml.in.h:79 ../comps-fe6.xml.in.h:77 ../comps-el4.xml.in.h:75
+#: ../comps-el5.xml.in.h:75
+msgid "XEmacs"
+msgstr "XEmacs"
+
+#: ../comps-fe5.xml.in.h:80 ../comps-fe6.xml.in.h:78 ../comps-f7.xml.in.h:191
+#: ../comps-f8.xml.in.h:191
 msgid "XFCE"
 msgstr ""
 
-#: ../comps-fc7.xml.in.h:179
+#: ../comps-fe5.xml.in.h:81 ../comps-fe6.xml.in.h:79 ../comps-f7.xml.in.h:192
+#: ../comps-f8.xml.in.h:192
 #, fuzzy
 msgid "XFCE Software Development"
 msgstr "X programmu izstrāde"
 
-#: ../comps-rhel4-docs-dvd.xml.in.h:1
-msgid "Bengali"
-msgstr "Bengāliešu"
+#: ../comps-fe6.xml.in.h:9 ../comps-f7.xml.in.h:28 ../comps-f8.xml.in.h:28
+#: ../comps-el5.xml.in.h:8
+msgid "Czech Support"
+msgstr "Čehu valodas atbalsts"
 
-#: ../comps-rhel4-docs-dvd.xml.in.h:6
-msgid "Gujarati"
-msgstr "Gujarati"
-
-#: ../comps-rhel4-docs-dvd.xml.in.h:7
-msgid "Hindi"
-msgstr "Hindu"
-
-#: ../comps-rhel4-docs-dvd.xml.in.h:11
-msgid "Punjabi"
-msgstr "Pendžabiešu"
-
-#: ../comps-rhel4-docs-dvd.xml.in.h:12
-msgid "Red Hat Enterprise Linux 4 Documentation"
-msgstr "Red Hat Enterprise Linux 4 dokumentācija"
-
-#: ../comps-rhel4-docs-dvd.xml.in.h:15
-msgid "Tamil"
-msgstr "Tamilu"
-
-#: ../comps-rhel4-docs-dvd.xml.in.h:16
+#: ../comps-fe6.xml.in.h:66 ../comps-el5.xml.in.h:64
 msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the "
-"Bengali language."
+"This group is a collection of tools and resources of Czech environments."
 msgstr ""
-"Šī grupa satur Red Hat Enterprise Linux dokumentāciju bemgāliešu valodā"
 
-#: ../comps-rhel4-docs-dvd.xml.in.h:21
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the "
-"Gujarati language."
-msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju gujarati valodā"
+#: ../comps-f7.xml.in.h:3 ../comps-f8.xml.in.h:3
+msgid "Afrikaans Support"
+msgstr "Āfrikāņu valodas atbalsts"
 
-#: ../comps-rhel4-docs-dvd.xml.in.h:22
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the Hindi "
-"language."
-msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju hindu valodā"
+#: ../comps-f7.xml.in.h:4 ../comps-f8.xml.in.h:4
+#, fuzzy
+msgid "Albanian Support"
+msgstr "Kanādas angļu valodas atbalsts"
 
-#: ../comps-rhel4-docs-dvd.xml.in.h:26
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the "
-"Punjabi language."
-msgstr ""
-"Šī grupa satur Red Hat Enterprise Linux dokumentāciju pendžabiešu valodā"
-
-#: ../comps-rhel4-docs-dvd.xml.in.h:29
-msgid ""
-"This group contains the Red Hat Enterprise Linux documentation in the Tamil "
-"language."
-msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju tamilu valodā"
-
-#: ../comps-rhel5-client-core.xml.in.h:4 ../comps-rhel5-server-core.xml.in.h:4
-msgid "Applications for a variety of tasks"
+#: ../comps-f7.xml.in.h:6 ../comps-f8.xml.in.h:6
+msgid "Applications to perform a variety of tasks"
 msgstr "Programmas dažādiem mērķiem"
 
-#: ../comps-rhel5-client-core.xml.in.h:19 ../comps-rhel5-cluster-st.xml.in.h:5
-msgid "Cluster Storage"
-msgstr "Klastera ierīces"
+#: ../comps-f7.xml.in.h:9 ../comps-f8.xml.in.h:9
+msgid "Assamese Support"
+msgstr "Asamiešu valodas atbalsts"
 
-#: ../comps-rhel5-client-core.xml.in.h:21 ../comps-rhel5-cluster.xml.in.h:6
+#: ../comps-f7.xml.in.h:11 ../comps-f8.xml.in.h:11
+msgid "Base"
+msgstr "Pamatsistēma"
+
+#: ../comps-f7.xml.in.h:13 ../comps-f8.xml.in.h:13
+msgid "Basic support for the Ruby programming language."
+msgstr "Programmēšanas valodas Ruby pamatatbalsts"
+
+#: ../comps-f7.xml.in.h:14 ../comps-f8.xml.in.h:14
+msgid "Basque Support"
+msgstr "Basku valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:15 ../comps-f8.xml.in.h:15
 #, fuzzy
-msgid "Clustering Support."
+msgid "Belarusian Support"
+msgstr "Bulgāru valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:16 ../comps-f8.xml.in.h:16
+msgid "Bengali Support"
+msgstr "Bengāļu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:17 ../comps-f8.xml.in.h:17
+#, fuzzy
+msgid "Bhutanese Support"
+msgstr "Ķīniešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:18 ../comps-f8.xml.in.h:18
+#, fuzzy
+msgid "Bosnian Support"
+msgstr "Igauņu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:19 ../comps-f8.xml.in.h:19
+msgid "Brazilian Portuguese Support"
+msgstr "Brazīļu portugāļu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:20 ../comps-f8.xml.in.h:20
+msgid "Breton Support"
+msgstr "Bretaņas valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:21 ../comps-f8.xml.in.h:21
+msgid "Bulgarian Support"
+msgstr "Bulgāru valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:22 ../comps-f8.xml.in.h:22
+msgid "Catalan Support"
+msgstr "Kataloniešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:23 ../comps-f8.xml.in.h:23
+msgid "Chinese Support"
+msgstr "Ķīniešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:24 ../comps-f8.xml.in.h:24
+msgid "Clustering"
+msgstr "Klasteris"
+
+#: ../comps-f7.xml.in.h:25 ../comps-f8.xml.in.h:25
+msgid "Clustering Support"
 msgstr "Klastera atbalsts"
 
-#: ../comps-rhel5-client-core.xml.in.h:89
-#: ../comps-rhel5-cluster-st.xml.in.h:17
-msgid "Packages which provide support for cluster storage."
-msgstr "Pakotnes, kas satur klastera ierīces atbalstu."
+#: ../comps-f7.xml.in.h:26 ../comps-f8.xml.in.h:26
+msgid "Core"
+msgstr "Pamatsistēma"
 
-#: ../comps-rhel5-client-core.xml.in.h:90
-#: ../comps-rhel5-client-workstation.xml.in.h:29
-#: ../comps-rhel5-server-core.xml.in.h:84
-msgid "Packages which provide support for single-node GFS."
-msgstr "Pakotnes, kas satur viena piekļuves mezgla GFS atbalstu."
+#: ../comps-f7.xml.in.h:27 ../comps-f8.xml.in.h:27
+msgid "Croatian Support"
+msgstr "Horvātu valodas atbalsts"
 
-#: ../comps-rhel5-client-core.xml.in.h:102
-#: ../comps-rhel5-client-workstation.xml.in.h:33
-#: ../comps-rhel5-server-core.xml.in.h:96
-msgid "Single Node GFS Support"
-msgstr "Viena piekļuves mezgla GFS atbalsts"
+#: ../comps-f7.xml.in.h:29 ../comps-f8.xml.in.h:29
+msgid "DNS Name Server"
+msgstr "DNS vārdu serveris"
 
-#: ../comps-rhel5-client-core.xml.in.h:125
-#: ../comps-rhel5-client-workstation.xml.in.h:46
-#: ../comps-rhel5-server-core.xml.in.h:119
-msgid "These packages provide compatibility support with previous releases."
+#: ../comps-f7.xml.in.h:30 ../comps-f8.xml.in.h:30
+msgid "Danish Support"
+msgstr "Dāņu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:34 ../comps-f8.xml.in.h:34
+msgid "Development Libraries"
+msgstr "Programmēšanas bibliotekas"
+
+#: ../comps-f7.xml.in.h:36 ../comps-f8.xml.in.h:36
+msgid "Dial-up Networking Support"
+msgstr "Iezvanpiekļuve datortīkliem"
+
+#: ../comps-f7.xml.in.h:37 ../comps-f8.xml.in.h:37
+msgid "Dutch Support"
+msgstr "Dāņu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:38 ../comps-f8.xml.in.h:38
+msgid "Eclipse"
+msgstr "Eclipse"
+
+#: ../comps-f7.xml.in.h:43 ../comps-f8.xml.in.h:43
+msgid "English (UK) Support"
+msgstr "Angļu (UK) valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:44 ../comps-f8.xml.in.h:44
+msgid "Estonian Support"
+msgstr "Igauņu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:45 ../comps-f8.xml.in.h:45
+msgid "Ethiopic Support"
+msgstr "Etiopiešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:47 ../comps-f8.xml.in.h:47
+msgid "Faeroese Support"
+msgstr "Fareru valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:48 ../comps-f8.xml.in.h:48
+#, fuzzy
+msgid "Filipino Support"
+msgstr "Galīciešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:49 ../comps-f8.xml.in.h:49
+msgid "Finnish Support"
+msgstr "Somu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:50 ../comps-f8.xml.in.h:50
+msgid "French Support"
+msgstr "Franču valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:54 ../comps-f8.xml.in.h:54
+msgid ""
+"GNOME is a powerful graphical user interface which includes a panel, "
+"desktop, system icons, and a graphical file manager."
+msgstr ""
+"GNOME ir jaudīga, grafiska lietotāja saskarne, kas ietver rīkjoslas, "
+"darbvirsmu, sistēmas piktogrammas un grafisku datņu pārvaldnieku."
+
+#: ../comps-f7.xml.in.h:55 ../comps-f8.xml.in.h:55
+msgid "Gaelic Support"
+msgstr "Gēļu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:56 ../comps-f8.xml.in.h:56
+msgid "Galician Support"
+msgstr "Galīciešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:58 ../comps-f8.xml.in.h:58
+#, fuzzy
+msgid "Georgian Support"
+msgstr "Vācu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:59 ../comps-f8.xml.in.h:59
+msgid "German Support"
+msgstr "Vācu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:62 ../comps-f8.xml.in.h:62
+msgid "Greek Support"
+msgstr "Grieķu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:63 ../comps-f8.xml.in.h:63
+msgid "Gujarati Support"
+msgstr "Gujarati valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:66 ../comps-f8.xml.in.h:66
+msgid "Hindi Support"
+msgstr "Hindu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:67 ../comps-f8.xml.in.h:67
+msgid "Hungarian Support"
+msgstr "Ungāru valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:68 ../comps-f8.xml.in.h:68
+msgid "Icelandic Support"
+msgstr "Islandiešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:69 ../comps-f8.xml.in.h:69
+msgid "Indonesian Support"
+msgstr "Indonēziešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:73 ../comps-f8.xml.in.h:73
+msgid ""
+"Install these tools to enable the system to print or act as a print server."
+msgstr ""
+"Uzstādiet šīs pakotnes, ja vēlaties izmantot drukas sistēmu, vai arī "
+"izmantot šo datoru kā drukas serveri."
+
+#: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:75
+#, fuzzy
+msgid "Inuktitut Support"
+msgstr "Zulu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:76
+msgid "Irish Support"
+msgstr "Īru valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:77 ../comps-f8.xml.in.h:77
+msgid "Italian Support"
+msgstr "Itāļu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:83 ../comps-f8.xml.in.h:83
+msgid ""
+"KDE is a powerful graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE ir jaudīga, grafiska lietotāja saskarne, kas ietver rīkjoslas, "
+"darbvirsmu, sistēmas piktogrammas un grafisku datņu pārvaldnieku."
+
+#: ../comps-f7.xml.in.h:84 ../comps-f8.xml.in.h:84
+msgid "Kannada Support"
+msgstr "Kanādiešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:85 ../comps-f8.xml.in.h:85
+#, fuzzy
+msgid "Khmer Support"
+msgstr "Vācu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:86 ../comps-f8.xml.in.h:86
+msgid "Korean Support"
+msgstr "Korejiešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:87 ../comps-f8.xml.in.h:87
+msgid "Languages"
+msgstr "Valodas"
+
+#: ../comps-f7.xml.in.h:88 ../comps-f8.xml.in.h:88
+#, fuzzy
+msgid "Lao Support"
+msgstr "Tajiešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:89 ../comps-f8.xml.in.h:89
+#, fuzzy
+msgid "Latvian Support"
+msgstr "Horvātu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:90 ../comps-f8.xml.in.h:90
+msgid "Legacy Network Server"
+msgstr "Novecojuši tīkla serveri"
+
+#: ../comps-f7.xml.in.h:91 ../comps-f8.xml.in.h:91
+msgid "Legacy Software Development"
+msgstr "Novecojušu programmu programmēšanas rīki"
+
+#: ../comps-f7.xml.in.h:92 ../comps-f8.xml.in.h:92
+msgid "Legacy Software Support"
+msgstr "Novecojušas programmatūras atbalsts"
+
+#: ../comps-f7.xml.in.h:93 ../comps-f8.xml.in.h:93
+msgid "Lithuanian Support"
+msgstr "Lietuviešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:95 ../comps-f8.xml.in.h:95
+msgid "Malay Support"
+msgstr "Malajiešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:96 ../comps-f8.xml.in.h:96
+msgid "Malayalam Support"
+msgstr "Malajalamiešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:97 ../comps-f8.xml.in.h:97
+#, fuzzy
+msgid "Maori Support"
+msgstr "Marati valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:98 ../comps-f8.xml.in.h:98
+msgid "Marathi Support"
+msgstr "Marati valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:99 ../comps-f8.xml.in.h:99
+msgid "MySQL Database"
+msgstr "MySQL datu bāze"
+
+#: ../comps-f7.xml.in.h:102 ../comps-f8.xml.in.h:102
+msgid "Northern Sotho Support"
+msgstr "Northern Sotho Support"
+
+#: ../comps-f7.xml.in.h:103 ../comps-f8.xml.in.h:103
+msgid "Norwegian Support"
+msgstr "Norvēģu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:105 ../comps-f8.xml.in.h:105
+msgid "Oriya Support"
+msgstr "Oriya Support"
+
+#: ../comps-f7.xml.in.h:107 ../comps-f8.xml.in.h:107
+#, fuzzy
+msgid "Persian Support"
+msgstr "Serbu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:108 ../comps-f8.xml.in.h:108
+msgid "Polish Support"
+msgstr "Poļu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:109 ../comps-f8.xml.in.h:109
+msgid "Portuguese Support"
+msgstr "Portugāļu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:110 ../comps-f8.xml.in.h:110
+msgid "PostgreSQL Database"
+msgstr "PostgreSQL datu bāze"
+
+#: ../comps-f7.xml.in.h:111 ../comps-f8.xml.in.h:111
+msgid "Printing Support"
+msgstr "Drukas sistēma"
+
+#: ../comps-f7.xml.in.h:112 ../comps-f8.xml.in.h:112
+msgid "Punjabi Support"
+msgstr "Pendžabiešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:113 ../comps-f8.xml.in.h:113
+msgid "Romanian Support"
+msgstr "Romāņu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:114 ../comps-f8.xml.in.h:114
+msgid "Ruby"
+msgstr "Ruby"
+
+#: ../comps-f7.xml.in.h:115 ../comps-f8.xml.in.h:115
+msgid "Russian Support"
+msgstr "Krievu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:116 ../comps-f8.xml.in.h:116
+#, fuzzy
+msgid "Samoan Support"
+msgstr "Vācu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:117 ../comps-f8.xml.in.h:117
+msgid "Serbian Support"
+msgstr "Serbu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:118 ../comps-f8.xml.in.h:118
+msgid "Server Configuration Tools"
+msgstr "Servera iestatīšanas rīki"
+
+#: ../comps-f7.xml.in.h:121 ../comps-f8.xml.in.h:121
+msgid "Sinhala Support"
+msgstr "Sinhala Support"
+
+#: ../comps-f7.xml.in.h:122 ../comps-f8.xml.in.h:122
+msgid "Slovak Support"
+msgstr "Slovāku valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:123 ../comps-f8.xml.in.h:123
+msgid "Slovenian Support"
+msgstr "Slovēņu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:124 ../comps-f8.xml.in.h:124
+msgid "Smallest possible installation"
+msgstr "Vismazākā iespējamā instalācija"
+
+#: ../comps-f7.xml.in.h:126 ../comps-f8.xml.in.h:126
+#, fuzzy
+msgid "Somail Support"
+msgstr "Swati atbalsts"
+
+#: ../comps-f7.xml.in.h:127 ../comps-f8.xml.in.h:127
+msgid ""
+"Sometimes called text editors, these are programs that allow you to create "
+"and edit text files. This includes Emacs and Vi."
+msgstr ""
+"Šīs programmas, kuras reizēm dēvē par teksta redaktoriem, ļauj labot "
+"tekstus. Ietver Emacs un Vi."
+
+#: ../comps-f7.xml.in.h:129 ../comps-f8.xml.in.h:129
+msgid "Southern Ndebele Support"
+msgstr "Dienvidu Ndebele atbalsts"
+
+#: ../comps-f7.xml.in.h:130 ../comps-f8.xml.in.h:130
+msgid "Southern Sotho Support"
+msgstr "Dienvidu Sotho atbalsts"
+
+#: ../comps-f7.xml.in.h:131 ../comps-f8.xml.in.h:131
+msgid "Spanish Support"
+msgstr "Spāņu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:134 ../comps-f8.xml.in.h:134
+msgid "Swati Support"
+msgstr "Swati atbalsts"
+
+#: ../comps-f7.xml.in.h:135 ../comps-f8.xml.in.h:135
+msgid "Swedish Support"
+msgstr "Zviedru valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:137 ../comps-f8.xml.in.h:137
+#, fuzzy
+msgid "Tagalog Support"
+msgstr "Tamilu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:138 ../comps-f8.xml.in.h:138
+msgid "Tamil Support"
+msgstr "Tamilu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:139 ../comps-f8.xml.in.h:139
+msgid "Telugu Support"
+msgstr "Telugu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:141 ../comps-f8.xml.in.h:141
+msgid "Thai Support"
+msgstr "Tajiešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:142 ../comps-f8.xml.in.h:142
+msgid "The Eclipse Integrated Development Environment."
+msgstr "Integrētā izstrādes vide Eclipse"
+
+#: ../comps-f7.xml.in.h:144 ../comps-f8.xml.in.h:144
+msgid ""
+"The packages in this group are core libraries needed to develop applications."
+msgstr "Šī grupa ietver bibliotekas, kas nepieciešamas programmu izstrādei."
+
+#: ../comps-f7.xml.in.h:146 ../comps-f8.xml.in.h:146
+msgid ""
+"These packages allow you to develop applications for the X Window System."
+msgstr "Šīs pakotnes dod iespēju izstrādāt programmas X Window sistēmai."
+
+#: ../comps-f7.xml.in.h:148 ../comps-f8.xml.in.h:148
+msgid ""
+"These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgstr "Šīs pakotnes ietver tādus tīkla servisus kā DHCP, Kerberos un NIS."
+
+#: ../comps-f7.xml.in.h:149 ../comps-f8.xml.in.h:149
+msgid ""
+"These packages include servers for old network protocols such as rsh and "
+"telnet."
+msgstr ""
+"Šīs pakotnes ietver tādus novecojušus tīkla protokolus kā rsh un telnet."
+
+#: ../comps-f7.xml.in.h:150 ../comps-f8.xml.in.h:150
+#, fuzzy
+msgid "These packages provide a virtualization environment."
 msgstr "Šīs pakotnes nodrošina savietojamību ar iepriekšējām versijām."
 
-#: ../comps-rhel5-client-supplementary.xml.in.h:3
-#: ../comps-rhel5-server-supplementary.xml.in.h:3
-msgid "Java Runtime Environments and Development Kits"
-msgstr "Java Runtime programmatūra un izstrādes rīki"
+#: ../comps-f7.xml.in.h:151 ../comps-f8.xml.in.h:151
+msgid "These packages provide compatibility with previous releases."
+msgstr "Šīs pakotnes nodrošina savietojamību ar iepriekšējām versijām."
 
-#: ../comps-rhel5-client-supplementary.xml.in.h:4
-#: ../comps-rhel5-server-supplementary.xml.in.h:4
-msgid "Misc"
-msgstr "Dažādi"
-
-#: ../comps-rhel5-client-supplementary.xml.in.h:5
-#: ../comps-rhel5-server-supplementary.xml.in.h:5
-msgid "Misc packages"
-msgstr "Dažādas pakotnes"
-
-#: ../comps-rhel5-client-supplementary.xml.in.h:6
-#: ../comps-rhel5-server-supplementary.xml.in.h:6
-msgid "Multimedia"
-msgstr "Multimedija"
-
-#: ../comps-rhel5-client-supplementary.xml.in.h:7
-#: ../comps-rhel5-server-supplementary.xml.in.h:7
-msgid "Multimedia applications"
-msgstr "Multimediju programmatūra"
-
-#: ../comps-rhel5-client-supplementary.xml.in.h:8
-#: ../comps-rhel5-server-supplementary.xml.in.h:8
+#: ../comps-f7.xml.in.h:152 ../comps-f8.xml.in.h:152
 msgid ""
-"Packages which provide additional functionality for Red Hat Enterprise Linux"
-msgstr "Šīs pakotnes nodrošina savietojamību ar Red Hat Enterprise Linux"
+"These packages provide support for various locales including fonts and input "
+"methods."
+msgstr ""
+"Šīs pakotnes nodrošina dažādu reģionālo iestatījumu (šriftu un ievades "
+"metožu) atbalstu"
 
-#: ../comps-rhel5-client-supplementary.xml.in.h:9
-#: ../comps-rhel5-server-supplementary.xml.in.h:9
-msgid "Red Hat Enterprise Linux Extras"
-msgstr "Red Hat Enterprise Linux ekstras"
+#: ../comps-f7.xml.in.h:153 ../comps-f8.xml.in.h:153
+msgid ""
+"These tools allow you to create documents in the DocBook format and convert "
+"them into HTML, PDF, Postscript, and text."
+msgstr ""
+"Šie rīki dod iespēju izveidot dokumentāciju DocBook formātā un pārveidot to "
+"HTML, PDF, Postscript un teksta formātā."
 
-#: ../comps-rhel5-client-workstation.xml.in.h:62
-msgid "Workstation"
-msgstr "Darba stacija"
+#: ../comps-f7.xml.in.h:158 ../comps-f8.xml.in.h:158
+msgid "This group contains all of Red Hat's custom server configuration tools."
+msgstr ""
+"Šī grupa ietver kompānijas RedHat izstrādātos servera administrēšanas rīkus."
 
-#: ../comps-rhel5-client-workstation.xml.in.h:63
-msgid "Workstation applications and utilities."
-msgstr "Darba stacijas programmas"
+#: ../comps-f7.xml.in.h:159 ../comps-f8.xml.in.h:159
+msgid ""
+"This group includes a minimal set of packages. Useful for creating small "
+"router/firewall boxes, for example."
+msgstr ""
+"Šī grupa satur minimālu pakotņu komplektāciju. Tā der, piemēram, nelielu "
+"maršrutētāju/ugunssienu izveidei."
 
-#: ../comps-rhel5-vt.xml.in.h:23
-msgid "Virtualization Support."
-msgstr "Virtualizācijas atbalsts"
+#: ../comps-f7.xml.in.h:168 ../comps-f8.xml.in.h:168
+msgid ""
+"This package group allows you to run a DNS name server (BIND) on the system."
+msgstr "Šīs grupas pakotnes ļaus Jums uzstādīt iestatīt DNS serveri BIND."
+
+#: ../comps-f7.xml.in.h:169 ../comps-f8.xml.in.h:169
+msgid ""
+"This package group allows you to share files between Linux and MS Windows"
+"(tm) systems."
+msgstr ""
+"Šī pakotņu grupa dod iespēju veikt informācijas apmaiņu starp Linux un MS "
+"Windows (tm) sistēmām."
+
+#: ../comps-f7.xml.in.h:170 ../comps-f8.xml.in.h:170
+msgid "This package group contains packages useful for use with MySQL."
+msgstr "Šī grupa satur pakotnes, kas noder MySQL izmantošanas laikā."
+
+#: ../comps-f7.xml.in.h:171 ../comps-f8.xml.in.h:171
+msgid "This package group includes packages useful for use with Postgresql."
+msgstr "Šī grupa satur pakotnes, kas noder PostgreSQL izmantošanas laikā."
+
+#: ../comps-f7.xml.in.h:172 ../comps-f8.xml.in.h:172
+#, fuzzy
+msgid "Tibetan Support"
+msgstr "Vācu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:173 ../comps-f8.xml.in.h:173
+#, fuzzy
+msgid "Tonga Support"
+msgstr "Tsonga valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:174 ../comps-f8.xml.in.h:174
+msgid "Tsonga Support"
+msgstr "Tsonga valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:175 ../comps-f8.xml.in.h:175
+msgid "Tswana Support"
+msgstr "Tswana Support"
+
+#: ../comps-f7.xml.in.h:176 ../comps-f8.xml.in.h:176
+msgid "Turkish Support"
+msgstr "Turku valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:177 ../comps-f8.xml.in.h:177
+msgid "Ukrainian Support"
+msgstr "Ukraiņu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:178 ../comps-f8.xml.in.h:178
+#, fuzzy
+msgid "Urdu Support"
+msgstr "Zulu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:181 ../comps-f8.xml.in.h:181
+msgid "Venda Support"
+msgstr "Venda atbalsts"
+
+#: ../comps-f7.xml.in.h:182 ../comps-f8.xml.in.h:182
+#, fuzzy
+msgid "Vietnamese Support"
+msgstr "Ķīniešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:183 ../comps-f8.xml.in.h:183
+msgid "Virtualization"
+msgstr "Virtualizācija"
+
+#: ../comps-f7.xml.in.h:186 ../comps-f8.xml.in.h:186
+msgid "Welsh Support"
+msgstr "Velsiešu valodas atbalsts"
+
+#: ../comps-f7.xml.in.h:188 ../comps-f8.xml.in.h:188
+msgid "Windows File Server"
+msgstr "Windows datņu serveris"
+
+#: ../comps-f7.xml.in.h:189 ../comps-f8.xml.in.h:189
+msgid "X Software Development"
+msgstr "X programmu izstrāde"
+
+#: ../comps-f7.xml.in.h:193 ../comps-f8.xml.in.h:193
+msgid "Xhosa Support"
+msgstr "Xhosa atbalsts"
+
+#: ../comps-f7.xml.in.h:194 ../comps-f8.xml.in.h:194
+msgid "Zulu Support"
+msgstr "Zulu valodas atbalsts"
+
+#~ msgid "Brazilian Support"
+#~ msgstr "Brazīļu valodas atbalsts"
+
+#~ msgid "British Support"
+#~ msgstr "Britu angļu valodas atbalsts"
+
+#~ msgid "Compatibility Arch Development Support"
+#~ msgstr "Izstrādes atbalsts savietojamām arhitektūrām"
+
+#~ msgid "Compatibility Arch Mozilla Support"
+#~ msgstr "Mozilla atbalsts savietojamām arhitektūrām"
+
+#~ msgid "Compatibility Arch Support"
+#~ msgstr "Arhitektūru savietojamības atbalsts"
+
+#~ msgid "Cyrillic Support"
+#~ msgstr "Kirillicas atbalsts"
+
+#~ msgid "Desktops"
+#~ msgstr "Darbvirsmas"
+
+#~ msgid "Emacs"
+#~ msgstr "Emacs"
+
+#~ msgid "GNOME"
+#~ msgstr "GNOME"
+
+#~ msgid "ISO8859-14 Support"
+#~ msgstr "ISO8859-14 atbalsts"
+
+#~ msgid "ISO8859-15 Support"
+#~ msgstr "ISO8859-15 atbalsts"
+
+#~ msgid "ISO8859-2 Support"
+#~ msgstr "ISO8859-2 atbalsts"
+
+#~ msgid "ISO8859-9 Support"
+#~ msgstr "ISO8859-9 atbalsts"
+
+#~ msgid "Install these packages to recompile the kernel."
+#~ msgstr "Uzstādiet šīs programmas, ja vēlaties pārkompilēt sistēmas kodolu."
+
+#~ msgid "KDE"
+#~ msgstr "KDE"
+
+#~ msgid "KDE Desktop Environment"
+#~ msgstr "KDE Darbvirsma"
+
+#~ msgid "Kernel Development"
+#~ msgstr "Kodola programmēšana"
+
+#~ msgid "Miscellaneous Included Packages"
+#~ msgstr "Dažādas iekļautās pakotnes"
+
+#~ msgid "Mozilla packages for the x86 platform"
+#~ msgstr "Mozilla pakotnes x86 platformai"
+
+#~ msgid "Multilib support packages"
+#~ msgstr "Multilib atbalsta pakotnes"
+
+#~ msgid "SQL Database"
+#~ msgstr "SQL datu bāze"
+
+#~ msgid "Server"
+#~ msgstr "Serveris"
+
+#~ msgid "Support for developing packages for the non-primary architecture"
+#~ msgstr "Pakotņu izstrādes atbalsts sekundārām arhitektūrām"
+
+#~ msgid "Syriac Support"
+#~ msgstr "Sīriešu valodas atbalsts"
+
+#~ msgid "System"
+#~ msgstr "Sistēma"
+
+#~ msgid "The GNU Emacs text editor."
+#~ msgstr "Teksta redaktors GNU Emacs"
+
+#~ msgid ""
+#~ "These packages allow you to configure an IMAP or Postfix mail server."
+#~ msgstr "Šīs pakotnes dod iespēju uzstādīt pasta serverus IMAP vai Postfix."
+
+#~ msgid ""
+#~ "These packages provide compatibility support for previous releases of Red "
+#~ "Hat Enterprise Linux."
+#~ msgstr ""
+#~ "Šīs pakotnes nodrošina savietojamību ar Red Hat Enterprise Linux "
+#~ "iepriekšējām versijām."
+
+#~ msgid "Unsupported Development Libraries"
+#~ msgstr "Neatbalstītās izstrādes bibliotekas"
+
+#~ msgid "Workstation Common"
+#~ msgstr "Tipveida darba stacija"
+
+#~ msgid "ppc64 Compatibility Arch Support"
+#~ msgstr "Savietojamības atbalsts ar arhitektūru ppc64"
+
+#~ msgid "x86 Compatibility Arch Development Support"
+#~ msgstr "Atbalsts izstrādei priekš arhitektūras x86"
+
+#~ msgid "x86 Compatibility Arch Support"
+#~ msgstr "Savietojamības atbalsts ar arhitektūru x86"
+
+#~ msgid "Brazilian Portuguese"
+#~ msgstr "Brazīļu portugāļu atbalsts"
+
+#~ msgid "English"
+#~ msgstr "Angļu"
+
+#~ msgid "French"
+#~ msgstr "Franču"
+
+#~ msgid "German"
+#~ msgstr "Vācu"
+
+#~ msgid "Italian"
+#~ msgstr "Itāļu"
+
+#~ msgid "Red Hat Enterprise Linux 3 Documentation"
+#~ msgstr "Red Hat Enterprise Linux 3 dokumentācija"
+
+#~ msgid "Spanish"
+#~ msgstr "Spāņu"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Brazilian Portuguese language."
+#~ msgstr ""
+#~ "Šī grupa satur Red Hat Enterprise Linux dokumentāciju brazīļu portugāļu "
+#~ "valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "English language."
+#~ msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju angļu valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "French language."
+#~ msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju franču valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "German language."
+#~ msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju vācu valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Italian language."
+#~ msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju itāļu valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Spanish language."
+#~ msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju spāņu valodā"
+
+#~ msgid "Japanese"
+#~ msgstr "Japāņu"
+
+#~ msgid "Korean"
+#~ msgstr "Korejiešu"
+
+#~ msgid "Simplified Chinese"
+#~ msgstr "Vienkāršota ķīniešu"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Japanese language."
+#~ msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju japāņu valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Korean language."
+#~ msgstr ""
+#~ "Šī grupa satur Red Hat Enterprise Linux dokumentāciju korejiešu valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Simplified Chinese language."
+#~ msgstr ""
+#~ "Šī grupa satur Red Hat Enterprise Linux dokumentāciju vienkāršotā ķīniešu "
+#~ "valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Traditional Chinese language."
+#~ msgstr ""
+#~ "Šī grupa satur Red Hat Enterprise Linux dokumentāciju tradicionālā "
+#~ "ķīniešu valodā"
+
+#~ msgid "Traditional Chinese"
+#~ msgstr "Tradicionālā ķīniešu"
+
+#~ msgid "ppc64 Compatibility Arch Development Support"
+#~ msgstr "Atbalsts izstrādei priekš arhitektūras ppc64"
+
+#~ msgid "Bengali"
+#~ msgstr "Bengāliešu"
+
+#~ msgid "Gujarati"
+#~ msgstr "Gujarati"
+
+#~ msgid "Hindi"
+#~ msgstr "Hindu"
+
+#~ msgid "Punjabi"
+#~ msgstr "Pendžabiešu"
+
+#~ msgid "Red Hat Enterprise Linux 4 Documentation"
+#~ msgstr "Red Hat Enterprise Linux 4 dokumentācija"
+
+#~ msgid "Tamil"
+#~ msgstr "Tamilu"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Bengali language."
+#~ msgstr ""
+#~ "Šī grupa satur Red Hat Enterprise Linux dokumentāciju bemgāliešu valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Gujarati language."
+#~ msgstr ""
+#~ "Šī grupa satur Red Hat Enterprise Linux dokumentāciju gujarati valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Hindi language."
+#~ msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju hindu valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Punjabi language."
+#~ msgstr ""
+#~ "Šī grupa satur Red Hat Enterprise Linux dokumentāciju pendžabiešu valodā"
+
+#~ msgid ""
+#~ "This group contains the Red Hat Enterprise Linux documentation in the "
+#~ "Tamil language."
+#~ msgstr "Šī grupa satur Red Hat Enterprise Linux dokumentāciju tamilu valodā"
+
+#~ msgid "Cluster Storage"
+#~ msgstr "Klastera ierīces"
+
+#, fuzzy
+#~ msgid "Clustering Support."
+#~ msgstr "Klastera atbalsts"
+
+#~ msgid "Packages which provide support for cluster storage."
+#~ msgstr "Pakotnes, kas satur klastera ierīces atbalstu."
+
+#~ msgid "Packages which provide support for single-node GFS."
+#~ msgstr "Pakotnes, kas satur viena piekļuves mezgla GFS atbalstu."
+
+#~ msgid "Single Node GFS Support"
+#~ msgstr "Viena piekļuves mezgla GFS atbalsts"
+
+#~ msgid "These packages provide compatibility support with previous releases."
+#~ msgstr "Šīs pakotnes nodrošina savietojamību ar iepriekšējām versijām."
+
+#~ msgid "Java Runtime Environments and Development Kits"
+#~ msgstr "Java Runtime programmatūra un izstrādes rīki"
+
+#~ msgid "Misc"
+#~ msgstr "Dažādi"
+
+#~ msgid "Misc packages"
+#~ msgstr "Dažādas pakotnes"
+
+#~ msgid "Multimedia"
+#~ msgstr "Multimedija"
+
+#~ msgid "Multimedia applications"
+#~ msgstr "Multimediju programmatūra"
+
+#~ msgid ""
+#~ "Packages which provide additional functionality for Red Hat Enterprise "
+#~ "Linux"
+#~ msgstr "Šīs pakotnes nodrošina savietojamību ar Red Hat Enterprise Linux"
+
+#~ msgid "Red Hat Enterprise Linux Extras"
+#~ msgstr "Red Hat Enterprise Linux ekstras"
+
+#~ msgid "Workstation"
+#~ msgstr "Darba stacija"
+
+#~ msgid "Workstation applications and utilities."
+#~ msgstr "Darba stacijas programmas"
+
+#~ msgid "Virtualization Support."
+#~ msgstr "Virtualizācijas atbalsts"
 
 #~ msgid "Compatibility Arch"
 #~ msgstr "Arhitektūru savietojamības atbalsts"
