@@ -315,7 +315,6 @@
       <packagereq type="mandatory">xorg-x11-fonts-Type1</packagereq>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
-      <packagereq type="mandatory">xorg-x11-xfs</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
       <packagereq type="default">authconfig-gtk</packagereq>
       <packagereq type="default">bluez-pin</packagereq>
@@ -375,6 +374,7 @@
       <packagereq type="optional">xorg-x11-resutils</packagereq>
       <packagereq type="optional">xorg-x11-server-Xnest</packagereq>
       <packagereq type="optional">xorg-x11-server-Xvfb</packagereq>
+      <packagereq type="optional">xorg-x11-xfs</packagereq>
       <packagereq type="optional">xorg-x11-xfs-utils</packagereq>
       <packagereq type="optional">xorg-x11-xsm</packagereq>
       <packagereq type="optional">xscreensaver</packagereq>
