@@ -85,8 +85,8 @@
     <uservisible>false</uservisible>
     <langonly>hy</langonly>
     <packagelist>
-      <packagereq type="optional">dejavu-fonts</packagereq>
-      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+      <packagereq type="mandatory">dejavu-fonts</packagereq>
+      <packagereq type="default">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">m17n-db-armenian</packagereq>
     </packagelist>
   </group>
@@ -1424,7 +1424,10 @@
     <uservisible>false</uservisible>
     <langonly>ka</langonly>
     <packagelist>
+      <packagereq type="mandatory">dejavu-fonts</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ka</packagereq>
+      <packagereq type="default">dejavu-fonts-experimental</packagereq>
+      <packagereq type="optional">m17n-db-armenian</packagereq>
       <packagereq type="optional">m17n-db-georgian</packagereq>
     </packagelist>
   </group>
@@ -1930,8 +1933,8 @@
     <uservisible>false</uservisible>
     <langonly>iu</langonly>
     <packagelist>
-      <packagereq type="optional">dejavu-fonts</packagereq>
-      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+      <packagereq type="mandatory">dejavu-fonts</packagereq>
+      <packagereq type="default">dejavu-fonts-experimental</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2309,9 +2312,9 @@
     <uservisible>false</uservisible>
     <langonly>lo</langonly>
     <packagelist>
+      <packagereq type="mandatory">dejavu-fonts</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-lo</packagereq>
-      <packagereq type="optional">dejavu-fonts</packagereq>
-      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+      <packagereq type="default">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">m17n-db-lao</packagereq>
     </packagelist>
   </group>
