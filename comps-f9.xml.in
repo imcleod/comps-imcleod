@@ -224,8 +224,8 @@
       <packagereq type="default">pam_smb</packagereq>
       <packagereq type="default">pcmciautils</packagereq>
       <packagereq type="default">pcsc-lite-libs</packagereq>
-      <packagereq type="default">perl-devel</packagereq>
       <packagereq type="default">perl-CPAN</packagereq>
+      <packagereq type="default">perl-devel</packagereq>
       <packagereq type="default">perl-ExtUtils-Embed</packagereq>
       <packagereq type="default">perl-ExtUtils-MakeMaker</packagereq>
       <packagereq type="default">perl-Test-Harness</packagereq>
@@ -425,17 +425,6 @@
     </packagelist>
   </group>
   <group>
-    <id>bosnian-support</id>
-    <_name>Bosnian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <langonly>bs</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="moodle">moodle-bs</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>bhutanese-support</id>
     <_name>Bhutanese Support</_name>
     <_description/>
@@ -445,6 +434,17 @@
     <packagelist>
       <packagereq type="mandatory">jomolhari-fonts</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-dz</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>bosnian-support</id>
+    <_name>Bosnian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>bs</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-bs</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2163,6 +2163,7 @@
     <packagelist>
       <packagereq type="mandatory">arts</packagereq>
       <packagereq type="mandatory">kdebase</packagereq>
+      <packagereq type="conditional" requires="scim">scim-qtimm</packagereq>
       <packagereq type="default">amarok</packagereq>
       <packagereq type="default">desktop-printing</packagereq>
       <packagereq type="default">digikam</packagereq>
@@ -2189,7 +2190,6 @@
       <packagereq type="default">xdg-user-dirs</packagereq>
       <packagereq type="default">xdg-utils</packagereq>
       <packagereq type="default">zenity</packagereq>
-      <packagereq type="conditional" requires="scim">scim-qtimm</packagereq>
       <packagereq type="optional">apollon</packagereq>
       <packagereq type="optional">basket</packagereq>
       <packagereq type="optional">beryl-kde</packagereq>
@@ -2886,8 +2886,8 @@
       <packagereq type="mandatory">fonts-sinhala</packagereq>
       <packagereq type="mandatory">m17n-db-sinhala</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-si</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-sinhala</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-sinhalese</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-sinhala</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3425,8 +3425,8 @@
     <packagelist>
       <packagereq type="mandatory">m17n-db-tibetan</packagereq>
       <packagereq type="mandatory">tibetan-machine-uni-fonts</packagereq>
-      <packagereq type="default">jomolhari-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-tibetan</packagereq>
+      <packagereq type="default">jomolhari-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3656,8 +3656,8 @@
       <packagereq type="optional">obmenu</packagereq>
       <packagereq type="optional">openbox</packagereq>
       <packagereq type="optional">pekwm</packagereq>
-      <packagereq type="optional">WindowMaker</packagereq>
       <packagereq type="optional">windowlab</packagereq>
+      <packagereq type="optional">WindowMaker</packagereq>
       <packagereq type="optional">wmx</packagereq>
       <packagereq type="optional">xcompmgr</packagereq>
     </packagelist>
@@ -3836,8 +3836,8 @@
       <groupid>basque-support</groupid>
       <groupid>belarusian-support</groupid>
       <groupid>bengali-support</groupid>
-      <groupid>bosnian-support</groupid>
       <groupid>bhutanese-support</groupid>
+      <groupid>bosnian-support</groupid>
       <groupid>brazilian-support</groupid>
       <groupid>breton-support</groupid>
       <groupid>british-support</groupid>
