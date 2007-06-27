@@ -1427,7 +1427,6 @@
       <packagereq type="mandatory">dejavu-fonts</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ka</packagereq>
       <packagereq type="default">dejavu-fonts-experimental</packagereq>
-      <packagereq type="optional">m17n-db-armenian</packagereq>
       <packagereq type="optional">m17n-db-georgian</packagereq>
     </packagelist>
   </group>
