@@ -180,7 +180,6 @@
       <packagereq type="default">device-mapper-multipath</packagereq>
       <packagereq type="default">dhclient</packagereq>
       <packagereq type="default">dhcpv6_client</packagereq>
-      <packagereq type="default">diskdumputils</packagereq>
       <packagereq type="default">dmraid</packagereq>
       <packagereq type="default">dos2unix</packagereq>
       <packagereq type="default">dosfstools</packagereq>
@@ -317,7 +316,6 @@
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
       <packagereq type="default">authconfig-gtk</packagereq>
-      <packagereq type="default">bluez-pin</packagereq>
       <packagereq type="default">dejavu-lgc-fonts</packagereq>
       <packagereq type="default">firstboot</packagereq>
       <packagereq type="default">gdm</packagereq>
@@ -626,7 +624,7 @@
       <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">shadow-utils</packagereq>
       <packagereq type="mandatory">sysklogd</packagereq>
-      <packagereq type="mandatory">SysVinit</packagereq>
+      <packagereq type="mandatory">sysvinit</packagereq>
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="default">elilo</packagereq>
@@ -961,7 +959,6 @@
     <packagelist>
       <packagereq type="mandatory">bind</packagereq>
       <packagereq type="default">bind-chroot</packagereq>
-      <packagereq type="default">caching-nameserver</packagereq>
       <packagereq type="optional">pdns</packagereq>
     </packagelist>
   </group>
@@ -1528,7 +1525,6 @@
       <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">nautilus-cd-burner</packagereq>
       <packagereq type="default">nautilus-sendto</packagereq>
-      <packagereq type="default">nautilus-sendto-bluetooth</packagereq>
       <packagereq type="default">NetworkManager-gnome</packagereq>
       <packagereq type="default">notification-daemon</packagereq>
       <packagereq type="default">orca</packagereq>
@@ -3641,7 +3637,6 @@
       <packagereq type="optional">php-pecl-apc</packagereq>
       <packagereq type="optional">php-pgsql</packagereq>
       <packagereq type="optional">phpldapadmin</packagereq>
-      <packagereq type="optional">plone</packagereq>
       <packagereq type="optional">Pound</packagereq>
       <packagereq type="optional">tclhttpd</packagereq>
       <packagereq type="optional">thttpd</packagereq>
@@ -3651,7 +3646,6 @@
       <packagereq type="optional">tomcat5-webapps</packagereq>
       <packagereq type="optional">vdr-wapd</packagereq>
       <packagereq type="optional">vdradmin-am</packagereq>
-      <packagereq type="optional">zope</packagereq>
     </packagelist>
   </group>
   <group>
