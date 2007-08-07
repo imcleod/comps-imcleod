@@ -254,7 +254,6 @@
       <packagereq type="default">talk</packagereq>
       <packagereq type="default">tcpdump</packagereq>
       <packagereq type="default">tcp_wrappers</packagereq>
-      <packagereq type="default">tcsh</packagereq>
       <packagereq type="default">telnet</packagereq>
       <packagereq type="default">time</packagereq>
       <packagereq type="default">tree</packagereq>
@@ -292,6 +291,7 @@
       <packagereq type="optional">reiserfs-utils</packagereq>
       <packagereq type="optional">squashfs-tools</packagereq>
       <packagereq type="optional">star</packagereq>
+      <packagereq type="optional">tcsh</packagereq>
       <packagereq type="optional">x86info</packagereq>
       <packagereq type="optional">xfsprogs</packagereq>
     </packagelist>
@@ -1756,16 +1756,15 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">dcraw</packagereq>
       <packagereq type="default">gimp</packagereq>
       <packagereq type="default">gimp-help</packagereq>
-      <packagereq type="default">ImageMagick</packagereq>
       <packagereq type="default">xsane</packagereq>
       <packagereq type="default">xsane-gimp</packagereq>
       <packagereq type="optional">agave</packagereq>
       <packagereq type="optional">asymptote</packagereq>
       <packagereq type="optional">blender</packagereq>
       <packagereq type="optional">comix</packagereq>
+      <packagereq type="optional">dcraw</packagereq>
       <packagereq type="optional">digikam</packagereq>
       <packagereq type="optional">digikam-doc</packagereq>
       <packagereq type="optional">f-spot</packagereq>
@@ -1781,6 +1780,7 @@
       <packagereq type="optional">gutenprint-plugin</packagereq>
       <packagereq type="optional">gv</packagereq>
       <packagereq type="optional">gwenview</packagereq>
+      <packagereq type="optional">ImageMagick</packagereq>
       <packagereq type="optional">inkscape</packagereq>
       <packagereq type="optional">ipe</packagereq>
       <packagereq type="optional">k3d</packagereq>
