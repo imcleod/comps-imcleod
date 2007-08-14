@@ -1022,11 +1022,13 @@
     <packagelist>
       <packagereq type="default">gnuplot</packagereq>
       <packagereq type="default">units</packagereq>
+      <packagereq type="optional">alliance</packagereq>
       <packagereq type="optional">atlas</packagereq>
       <packagereq type="optional">blacs</packagereq>
       <packagereq type="optional">blas</packagereq>
       <packagereq type="optional">cdo</packagereq>
       <packagereq type="optional">cernlib-utils</packagereq>
+      <packagereq type="optional">drawtiming</packagereq>
       <packagereq type="optional">dx</packagereq>
       <packagereq type="optional">dx-samples</packagereq>
       <packagereq type="optional">funtools</packagereq>
@@ -1044,6 +1046,7 @@
       <packagereq type="optional">geda-utils</packagereq>
       <packagereq type="optional">genius</packagereq>
       <packagereq type="optional">geomview</packagereq>
+      <packagereq type="optional">gerbv</packagereq>
       <packagereq type="optional">ghdl</packagereq>
       <packagereq type="optional">gnome-chemistry-utils</packagereq>
       <packagereq type="optional">gnucap</packagereq>
@@ -1057,10 +1060,13 @@
       <packagereq type="optional">hdf</packagereq>
       <packagereq type="optional">hdf5</packagereq>
       <packagereq type="optional">hmmer</packagereq>
+      <packagereq type="optional">irsim</packagereq>
+      <packagereq type="optional">kalgebra</packagereq>
       <packagereq type="optional">kicad</packagereq>
       <packagereq type="optional">kpolynome</packagereq>
       <packagereq type="optional">kst</packagereq>
       <packagereq type="optional">ktechlab</packagereq>
+      <packagereq type="optional">LabPlot</packagereq>
       <packagereq type="optional">lagan</packagereq>
       <packagereq type="optional">lam</packagereq>
       <packagereq type="optional">lapack</packagereq>
@@ -1068,6 +1074,7 @@
       <packagereq type="optional">libmatheval</packagereq>
       <packagereq type="optional">libtcd</packagereq>
       <packagereq type="optional">Macaulay2</packagereq>
+      <packagereq type="optional">magic</packagereq>
       <packagereq type="optional">maxima</packagereq>
       <packagereq type="optional">ncarg</packagereq>
       <packagereq type="optional">nco</packagereq>
@@ -1084,6 +1091,9 @@
       <packagereq type="optional">paw</packagereq>
       <packagereq type="optional">pcb</packagereq>
       <packagereq type="optional">perl-bioperl</packagereq>
+      <packagereq type="optional">pikdev</packagereq>
+      <packagereq type="optional">piklab</packagereq>
+      <packagereq type="optional">pikloops</packagereq>
       <packagereq type="optional">plotutils</packagereq>
       <packagereq type="optional">pvm</packagereq>
       <packagereq type="optional">python-biopython</packagereq>
@@ -2205,6 +2215,7 @@
       <packagereq type="optional">kdmtheme</packagereq>
       <packagereq type="optional">kerry</packagereq>
       <packagereq type="optional">kickpim</packagereq>
+      <packagereq type="optional">kio_resources</packagereq>
       <packagereq type="optional">kiosktool</packagereq>
       <packagereq type="optional">klamav</packagereq>
       <packagereq type="optional">kleansweep</packagereq>
@@ -2225,6 +2236,7 @@
       <packagereq type="optional">ktorrent</packagereq>
       <packagereq type="optional">kyum</packagereq>
       <packagereq type="optional">lineak-kdeplugins</packagereq>
+      <packagereq type="optional">marble</packagereq>
       <packagereq type="optional">metamonitor</packagereq>
       <packagereq type="optional">oooqs2</packagereq>
       <packagereq type="optional">polyester</packagereq>
