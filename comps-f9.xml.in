@@ -620,11 +620,11 @@
       <packagereq type="mandatory">readline</packagereq>
       <packagereq type="mandatory">rootfiles</packagereq>
       <packagereq type="mandatory">rpm</packagereq>
+      <packagereq type="mandatory">rsyslog</packagereq>
       <packagereq type="mandatory">selinux-policy-targeted</packagereq>
       <packagereq type="mandatory">setserial</packagereq>
       <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">shadow-utils</packagereq>
-      <packagereq type="mandatory">rsyslog</packagereq>
       <packagereq type="mandatory">sysvinit</packagereq>
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
@@ -928,6 +928,7 @@
       <packagereq type="optional">translate-toolkit</packagereq>
       <packagereq type="optional">ucblogo</packagereq>
       <packagereq type="optional">utrac</packagereq>
+      <packagereq type="optional">wxGlade</packagereq>
       <packagereq type="optional">xbsql</packagereq>
       <packagereq type="optional">xfce4-dev-tools</packagereq>
       <packagereq type="optional">yap</packagereq>
@@ -2254,8 +2255,8 @@
       <packagereq type="optional">kdmtheme</packagereq>
       <packagereq type="optional">kerry</packagereq>
       <packagereq type="optional">kickpim</packagereq>
-      <packagereq type="optional">kio_resources</packagereq>
       <packagereq type="optional">kiosktool</packagereq>
+      <packagereq type="optional">kio_resources</packagereq>
       <packagereq type="optional">klamav</packagereq>
       <packagereq type="optional">kleansweep</packagereq>
       <packagereq type="optional">kmenu-gnome</packagereq>
