@@ -1501,7 +1501,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">control-center</packagereq>
-      <packagereq type="mandatory">esound</packagereq>
       <packagereq type="mandatory">gnome-applets</packagereq>
       <packagereq type="mandatory">gnome-panel</packagereq>
       <packagereq type="mandatory">gnome-session</packagereq>
@@ -1545,6 +1544,9 @@
       <packagereq type="default">NetworkManager-gnome</packagereq>
       <packagereq type="default">notification-daemon</packagereq>
       <packagereq type="default">orca</packagereq>
+      <packagereq type="default">pulseaudio-esound-compat</packagereq>
+      <packagereq type="default">pulseaudio-module-gconf</packagereq>
+      <packagereq type="default">pulseaudio-module-x11</packagereq>
       <packagereq type="default">tomboy</packagereq>
       <packagereq type="default">vino</packagereq>
       <packagereq type="default">xdg-user-dirs-gtk</packagereq>
@@ -3014,7 +3016,12 @@
       <packagereq type="default">cdparanoia</packagereq>
       <packagereq type="default">genisoimage</packagereq>
       <packagereq type="default">gstreamer-plugins-good</packagereq>
+      <packagereq type="default">gstreamer-plugins-pulse</packagereq>
       <packagereq type="default">icedax</packagereq>
+      <packagereq type="default">pavucontrol</packagereq>
+      <packagereq type="default">pulseaudio</packagereq>
+      <packagereq type="default">pulseaudio-utils</packagereq>
+      <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="default">rhythmbox</packagereq>
       <packagereq type="default">sound-juicer</packagereq>
       <packagereq type="default">sox</packagereq>
@@ -3068,7 +3075,13 @@
       <packagereq type="optional">mikmod</packagereq>
       <packagereq type="optional">muine</packagereq>
       <packagereq type="optional">nyquist</packagereq>
+      <packagereq type="optional">padevchooser</packagereq>
+      <packagereq type="optional">paman</packagereq>
+      <packagereq type="optional">paprefs</packagereq>
+      <packagereq type="optional">pavumeter</packagereq>
       <packagereq type="optional">pitivi</packagereq>
+      <packagereq type="optional">pulseaudio-module-zeroconf</packagereq>
+      <packagereq type="optional">pulseaudio-module-lirc</packagereq>
       <packagereq type="optional">regionset</packagereq>
       <packagereq type="optional">rosegarden4</packagereq>
       <packagereq type="optional">serpentine</packagereq>
