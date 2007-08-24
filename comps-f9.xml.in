@@ -316,12 +316,6 @@
       <packagereq type="default">authconfig-gtk</packagereq>
       <packagereq type="default">dejavu-lgc-fonts</packagereq>
       <packagereq type="default">firstboot</packagereq>
-      <packagereq type="default">fonts-ISO8859-2</packagereq>
-      <packagereq type="default">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="default">fonts-ISO8859-2-75dpi</packagereq>
-      <packagereq type="default">fonts-KOI8-R</packagereq>
-      <packagereq type="default">fonts-KOI8-R-100dpi</packagereq>
-      <packagereq type="default">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="default">fonts-arabic</packagereq>
       <packagereq type="default">fonts-bengali</packagereq>
       <packagereq type="default">fonts-chinese</packagereq>
@@ -357,10 +351,6 @@
       <packagereq type="default">system-config-soundcard</packagereq>
       <packagereq type="default">system-config-users</packagereq>
       <packagereq type="default">xorg-x11-apps</packagereq>
-      <packagereq type="default">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
-      <packagereq type="default">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
-      <packagereq type="default">xorg-x11-fonts-cyrillic</packagereq>
-      <packagereq type="default">xorg-x11-fonts-ethiopic</packagereq>
       <packagereq type="default">xorg-x11-twm</packagereq>
       <packagereq type="default">xorg-x11-utils</packagereq>
       <packagereq type="default">xterm</packagereq>
@@ -372,6 +362,12 @@
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">devilspie</packagereq>
       <packagereq type="optional">efont-unicode-bdf</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">fonts-KOI8-R</packagereq>
+      <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
+      <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">freefont</packagereq>
       <packagereq type="optional">FreeWnn</packagereq>
       <packagereq type="optional">kinput2</packagereq>
@@ -389,6 +385,10 @@
       <packagereq type="optional">xdaliclock</packagereq>
       <packagereq type="optional">xkeycaps</packagereq>
       <packagereq type="optional">xlockmore</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
       <packagereq type="optional">xorg-x11-resutils</packagereq>
       <packagereq type="optional">xorg-x11-server-Xnest</packagereq>
       <packagereq type="optional">xorg-x11-server-Xvfb</packagereq>
