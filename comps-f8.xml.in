@@ -247,8 +247,8 @@
       <packagereq type="default">sudo</packagereq>
       <packagereq type="default">symlinks</packagereq>
       <packagereq type="default">sysreport</packagereq>
+      <packagereq type="default">system-config-firewall-tui</packagereq>
       <packagereq type="default">system-config-network-tui</packagereq>
-      <packagereq type="default">system-config-securitylevel-tui</packagereq>
       <packagereq type="default">talk</packagereq>
       <packagereq type="default">tcpdump</packagereq>
       <packagereq type="default">tcp_wrappers</packagereq>
@@ -2919,11 +2919,11 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">system-config-httpd</packagereq>
       <packagereq type="default">system-config-nfs</packagereq>
       <packagereq type="default">system-config-printer</packagereq>
       <packagereq type="default">system-config-samba</packagereq>
-      <packagereq type="default">system-config-securitylevel</packagereq>
       <packagereq type="default">system-config-services</packagereq>
       <packagereq type="optional">system-config-bind</packagereq>
       <packagereq type="optional">system-switch-mail-gnome</packagereq>
