@@ -68,9 +68,11 @@
     <packagelist>
       <packagereq type="mandatory">fonts-arabic</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-ar</packagereq>
+      <packagereq type="conditional" requires="gcompris">gcompris-sound-ar</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Arabic</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ar</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ar</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-arabic</packagereq>
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">m17n-db-arabic</packagereq>
@@ -563,6 +565,7 @@
     <langonly>br</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-br</packagereq>
+      <packagereq type="conditional" requires="LabPlot-doc">LabPlot-doc-br</packagereq>
     </packagelist>
   </group>
   <group>
@@ -618,6 +621,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-bg</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Bulgarian</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-bg</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-bg</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bg_BG</packagereq>
     </packagelist>
@@ -663,6 +667,8 @@
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-chinese</packagereq>
       <packagereq type="optional">stardict</packagereq>
+      <packagereq type="conditional" requires="stardict">stardict-dic-zh_CN</packagereq>
+      <packagereq type="conditional" requires="stardict">stardict-dic-zh_TW</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1072,8 +1078,10 @@
       <packagereq type="conditional" requires="hunspell">hunspell-nl</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Dutch</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-nl</packagereq>
+      <packagereq type="conditional" requires="LabPlot-doc">LabPlot-doc-nl</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-nl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nl</packagereq>
+      <packagereq type="conditional" requires="tesseract">tesseract-langpack-nl</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1273,6 +1281,7 @@
     <langonly>am</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-ethiopic</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-amharic</packagereq>
       <packagereq type="optional">m17n-db-amharic</packagereq>
     </packagelist>
   </group>
@@ -1326,10 +1335,12 @@
       <packagereq type="conditional" requires="hunspell">hunspell-fr</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-French</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-fr</packagereq>
+      <packagereq type="conditional" requires="LabPlot-doc">LabPlot-doc-fr</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-fr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fr_ca</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fr</packagereq>
+      <packagereq type="conditional" requires="tesseract">tesseract-langpack-fr</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1576,10 +1587,12 @@
       <packagereq type="conditional" requires="hunspell">hunspell-de</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-German</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-de</packagereq>
+      <packagereq type="conditional" requires="LabPlot-doc">LabPlot-doc-de</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-de</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-de</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-de_du</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-de</packagereq>
+      <packagereq type="conditional" requires="tesseract">tesseract-langpack-de</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1913,6 +1926,7 @@
     <langonly>el</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-el</packagereq>
+      <packagereq type="conditional" requires="gcompris">gcompris-sound-el</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-el</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Greek</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-el</packagereq>
@@ -1986,6 +2000,7 @@
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Hebrew</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-he</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-he_IL</packagereq>
+      <packagereq type="conditional" requires="tetex">tetex-fonts-hebrew</packagereq>
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">fonts-hebrew-fancy</packagereq>
@@ -2004,6 +2019,7 @@
       <packagereq type="mandatory">m17n-contrib-hindi</packagereq>
       <packagereq type="mandatory">m17n-db-hindi</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-hi</packagereq>
+      <packagereq type="conditional" requires="gcompris">gcompris-sound-hi</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Hindi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hi_IN</packagereq>
@@ -2051,6 +2067,7 @@
     <langonly>id</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-id</packagereq>
+      <packagereq type="conditional" requires="gcompris">gcompris-sound-id</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-id</packagereq>
     </packagelist>
   </group>
@@ -2094,9 +2111,11 @@
       <packagereq type="conditional" requires="hunspell">hunspell-it</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Italian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-it</packagereq>
+      <packagereq type="conditional" requires="LabPlot-doc">LabPlot-doc-it</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-it</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-it</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-it</packagereq>
+      <packagereq type="conditional" requires="tesseract">tesseract-langpack-it</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2113,6 +2132,7 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ja</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ja</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ja_JP</packagereq>
+      <packagereq type="conditional" requires="stardict">stardict-dic-ja</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-anthy</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-japanese</packagereq>
       <packagereq type="optional">anthy</packagereq>
@@ -2523,6 +2543,17 @@
     </packagelist>
   </group>
   <group>
+    <id>low-saxon-support</id>
+    <_name>Low Saxon Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>nds</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-nds</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>mail-server</id>
     <_name>Mail Server</_name>
     <_description>These packages allow you to configure an IMAP or SMTP mail server.</_description>
@@ -2600,6 +2631,7 @@
     <langonly>mi</langonly>
     <packagelist>
       <packagereq type="conditional" requires="moodle">moodle-mi_tn</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-mi_wwow</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2616,6 +2648,17 @@
       <packagereq type="conditional" requires="gcompris">gcompris-sound-mr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mr_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-marathi</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>mongolian-support</id>
+    <_name>Mongolian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>mn</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-mn</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2690,6 +2733,19 @@
     </packagelist>
   </group>
   <group>
+    <id>nepali-support</id>
+    <_name>Nepali Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ne</langonly>
+    <packagelist>
+      <packagereq type="mandatory">m17n-contrib-nepali</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-nepali</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>news-server</id>
     <_name>News Server</_name>
     <_description>This group allows you to configure the system as a news server.</_description>
@@ -2723,6 +2779,7 @@
     <langonly>nb</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-no</packagereq>
+      <packagereq type="conditional" requires="gcompris">gcompris-sound-nb</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-nb</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-nn</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Norwegian</packagereq>
@@ -2843,6 +2900,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-pl</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Polish</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-pl</packagereq>
+      <packagereq type="conditional" requires="LabPlot-doc">LabPlot-doc-pl</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-pl</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-pl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pl_PL</packagereq>
@@ -2950,7 +3008,9 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ru</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ru</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
+      <packagereq type="conditional" requires="stardict">stardict-dic-ru</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-cyrillic</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-russian</packagereq>
       <packagereq type="default">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">m17n-contrib-russian</packagereq>
       <packagereq type="optional">m17n-db-russian</packagereq>
@@ -2977,6 +3037,7 @@
     <packagelist>
       <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-sr</packagereq>
+      <packagereq type="conditional" requires="gcompris">gcompris-sound-sr</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Serbian</packagereq>
@@ -3228,6 +3289,7 @@
       <packagereq type="conditional" requires="man-pages">man-pages-es</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-es</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-es</packagereq>
+      <packagereq type="conditional" requires="tesseract">tesseract-langpack-es</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3279,6 +3341,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-sv</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Swedish</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sv</packagereq>
+      <packagereq type="conditional" requires="LabPlot-doc">LabPlot-doc-sv</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sv</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sv</packagereq>
       <packagereq type="optional">m17n-db-swedish</packagereq>
@@ -3555,6 +3618,7 @@
       <packagereq type="conditional" requires="moodle">moodle-th</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-th_TH</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-thai</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-thai</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3674,6 +3738,7 @@
       <packagereq type="conditional" requires="moodle">moodle-vi</packagereq>
       <packagereq type="optional">m17n-contrib-vietnamese</packagereq>
       <packagereq type="optional">m17n-db-vietnamese</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-vietnamese</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4020,10 +4085,13 @@
       <groupid>lao-support</groupid>
       <groupid>latvian-support</groupid>
       <groupid>lithuanian-support</groupid>
+      <groupid>low-saxon-support</groupid>
       <groupid>malay-support</groupid>
       <groupid>malayalam-support</groupid>
       <groupid>maori-support</groupid>
       <groupid>marathi-support</groupid>
+      <groupid>mongolian-support</groupid>
+      <groupid>nepali-support</groupid>
       <groupid>northern-sotho-support</groupid>
       <groupid>norwegian-support</groupid>
       <groupid>oriya-support</groupid>
