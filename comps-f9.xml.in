@@ -1613,8 +1613,8 @@
       <packagereq type="default">alacarte</packagereq>
       <packagereq type="default">at-spi</packagereq>
       <packagereq type="default">bug-buddy</packagereq>
+      <packagereq type="default">bluez-gnome</packagereq>
       <packagereq type="default">compiz-gnome</packagereq>
-      <packagereq type="default">dvd+rw-tools</packagereq>
       <packagereq type="default">eog</packagereq>
       <packagereq type="default">esc</packagereq>
       <packagereq type="default">evince</packagereq>
@@ -2942,7 +2942,7 @@
       <packagereq type="default">hplip</packagereq>
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">system-config-printer</packagereq>
-      <packagereq type="optional">bluez-utils-cups</packagereq>
+      <packagereq type="default">bluez-utils-cups</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3154,6 +3154,7 @@
     <packagelist>
       <packagereq type="mandatory">alsa-utils</packagereq>
       <packagereq type="mandatory">vorbis-tools</packagereq>
+      <packagereq type="default">bluez-utils-alsa</packagereq>
       <packagereq type="default">cdparanoia</packagereq>
       <packagereq type="default">genisoimage</packagereq>
       <packagereq type="default">gstreamer-plugins-good</packagereq>
