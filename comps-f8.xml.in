@@ -310,11 +310,11 @@
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
       <packagereq type="default">authconfig-gtk</packagereq>
+      <packagereq type="default">cjkunifonts-uming</packagereq>
       <packagereq type="default">dejavu-lgc-fonts</packagereq>
       <packagereq type="default">firstboot</packagereq>
       <packagereq type="default">fonts-arabic</packagereq>
       <packagereq type="default">fonts-bengali</packagereq>
-      <packagereq type="default">fonts-chinese</packagereq>
       <packagereq type="default">fonts-gujarati</packagereq>
       <packagereq type="default">fonts-hebrew</packagereq>
       <packagereq type="default">fonts-hindi</packagereq>
@@ -357,6 +357,7 @@
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">devilspie</packagereq>
+      <packagereq type="optional">fonts-chinese</packagereq>
       <packagereq type="optional">fonts-japanese</packagereq>
       <packagereq type="optional">freefont</packagereq>
       <packagereq type="optional">FreeWnn</packagereq>
@@ -395,10 +396,10 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">cjkunifonts-uming</packagereq>
       <packagereq type="default">dejavu-lgc-fonts</packagereq>
       <packagereq type="default">fonts-arabic</packagereq>
       <packagereq type="default">fonts-bengali</packagereq>
-      <packagereq type="default">fonts-chinese</packagereq>
       <packagereq type="default">fonts-gujarati</packagereq>
       <packagereq type="default">fonts-hindi</packagereq>
       <packagereq type="default">fonts-kannada</packagereq>
@@ -414,9 +415,11 @@
       <packagereq type="default">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">bitstream-vera-fonts</packagereq>
       <packagereq type="optional">charis-fonts</packagereq>
+      <packagereq type="optional">cjkunifonts-ukai</packagereq>
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">doulos-fonts</packagereq>
+      <packagereq type="optional">fonts-chinese</packagereq>
       <packagereq type="optional">fonts-japanese</packagereq>
       <packagereq type="optional">fonts-truetype-apl</packagereq>
       <packagereq type="optional">freefont</packagereq>
