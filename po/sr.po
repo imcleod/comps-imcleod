@@ -9,12 +9,14 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-09-05 02:14-0400\n"
-"PO-Revision-Date: 2007-02-24 11:42-0000\n"
+"PO-Revision-Date: 2007-09-09 00:55-0000\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
-"Language-Team: Serbian (sr) <fedora@prevod.org>\n"
+"Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: ../comps-fe5.xml.in.h:1 ../comps-fe6.xml.in.h:1 ../comps-f7.xml.in.h:1
 #: ../comps-f8.xml.in.h:1
@@ -396,16 +398,14 @@ msgstr ""
 
 #: ../comps-fe5.xml.in.h:66 ../comps-fe6.xml.in.h:63 ../comps-el4.xml.in.h:63
 #: ../comps-el5.xml.in.h:61
-#, fuzzy
 msgid "This group is a collection of network servers for specific purposes"
-msgstr "Ова група је скупина алата за разне програме својствене хардверу."
+msgstr "Ова група је скупина мрежних сервера за посебне намене."
 
 #: ../comps-fe5.xml.in.h:67 ../comps-fe6.xml.in.h:64 ../comps-el4.xml.in.h:64
 #: ../comps-el5.xml.in.h:62
-#, fuzzy
 msgid ""
 "This group is a collection of tools and resources of Arabic environments."
-msgstr "Ова група је скупина алата и ресурса за јерменско окружење."
+msgstr "Ова група је скупина алата и ресурса за арапско окружење."
 
 #: ../comps-fe5.xml.in.h:68 ../comps-fe6.xml.in.h:65 ../comps-f7.xml.in.h:165
 #: ../comps-f8.xml.in.h:173 ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
@@ -415,17 +415,15 @@ msgstr "Ова група је скупина алата и ресурса за 
 
 #: ../comps-fe5.xml.in.h:69 ../comps-fe6.xml.in.h:67 ../comps-el4.xml.in.h:66
 #: ../comps-el5.xml.in.h:65
-#, fuzzy
 msgid ""
 "This group is a collection of tools and resources of Hebrew environments."
-msgstr "Ова група је скупина алата и ресурса за јерменско окружење."
+msgstr "Ова група је скупина алата и ресурса за хебрејско окружење."
 
 #: ../comps-fe5.xml.in.h:70 ../comps-fe6.xml.in.h:68 ../comps-el4.xml.in.h:67
 #: ../comps-el5.xml.in.h:66
-#, fuzzy
 msgid ""
 "This group is a collection of tools and resources of Japanese environments."
-msgstr "Ова група је скупина алата и ресурса за јерменско окружење."
+msgstr "Ова група је скупина алата и ресурса за јапанско окружење."
 
 #: ../comps-fe5.xml.in.h:71 ../comps-fe6.xml.in.h:69 ../comps-f7.xml.in.h:166
 #: ../comps-f8.xml.in.h:174 ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
@@ -493,19 +491,17 @@ msgid "Czech Support"
 msgstr "Подршка за чешки"
 
 #: ../comps-fe6.xml.in.h:66 ../comps-el5.xml.in.h:64
-#, fuzzy
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
-msgstr "Ова група је скупина алата и ресурса за јерменско окружење."
+msgstr "Ова група је скупина алата и ресурса за чешко окружење."
 
 #: ../comps-f7.xml.in.h:3 ../comps-f8.xml.in.h:3
 msgid "Afrikaans Support"
 msgstr "Подршка за африкански"
 
 #: ../comps-f7.xml.in.h:4 ../comps-f8.xml.in.h:4
-#, fuzzy
 msgid "Albanian Support"
-msgstr "Подршка за канадски"
+msgstr "Подршка за албански"
 
 #: ../comps-f7.xml.in.h:6 ../comps-f8.xml.in.h:6
 msgid "Applications to perform a variety of tasks"
@@ -528,23 +524,20 @@ msgid "Basque Support"
 msgstr "Подршка за баскијски"
 
 #: ../comps-f7.xml.in.h:15 ../comps-f8.xml.in.h:15
-#, fuzzy
 msgid "Belarusian Support"
-msgstr "Подршка за бугарски"
+msgstr "Подршка за белоруски"
 
 #: ../comps-f7.xml.in.h:16 ../comps-f8.xml.in.h:16
 msgid "Bengali Support"
 msgstr "Подршка за бенгалски"
 
 #: ../comps-f7.xml.in.h:17 ../comps-f8.xml.in.h:17
-#, fuzzy
 msgid "Bhutanese Support"
-msgstr "Подршка за кинески"
+msgstr "Подршка за бутански"
 
 #: ../comps-f7.xml.in.h:18 ../comps-f8.xml.in.h:18
-#, fuzzy
 msgid "Bosnian Support"
-msgstr "Подршка за естонски"
+msgstr "Подршка за босански"
 
 #: ../comps-f7.xml.in.h:19 ../comps-f8.xml.in.h:19
 msgid "Brazilian Portuguese Support"
@@ -623,9 +616,8 @@ msgid "Faeroese Support"
 msgstr "Подршка за фарски"
 
 #: ../comps-f7.xml.in.h:48 ../comps-f8.xml.in.h:49
-#, fuzzy
 msgid "Filipino Support"
-msgstr "Подршка за галицијски"
+msgstr "Подршка за филипински"
 
 #: ../comps-f7.xml.in.h:49 ../comps-f8.xml.in.h:50
 msgid "Finnish Support"
@@ -652,9 +644,8 @@ msgid "Galician Support"
 msgstr "Подршка за галицијски"
 
 #: ../comps-f7.xml.in.h:58 ../comps-f8.xml.in.h:61
-#, fuzzy
 msgid "Georgian Support"
-msgstr "Подршка за немачки"
+msgstr "Подршка за грузијски"
 
 #: ../comps-f7.xml.in.h:59 ../comps-f8.xml.in.h:62
 msgid "German Support"
@@ -692,9 +683,8 @@ msgstr ""
 "као сервера за штампање."
 
 #: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:79
-#, fuzzy
 msgid "Inuktitut Support"
-msgstr "Подршка за зулу"
+msgstr "Подршка за инуктитут"
 
 #: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:80
 msgid "Irish Support"
@@ -717,9 +707,8 @@ msgid "Kannada Support"
 msgstr "Подршка за канаду"
 
 #: ../comps-f7.xml.in.h:85 ../comps-f8.xml.in.h:89
-#, fuzzy
 msgid "Khmer Support"
-msgstr "Подршка за немачки"
+msgstr "Подршка за кмерски"
 
 #: ../comps-f7.xml.in.h:86 ../comps-f8.xml.in.h:90
 msgid "Korean Support"
@@ -730,14 +719,12 @@ msgid "Languages"
 msgstr "Језици"
 
 #: ../comps-f7.xml.in.h:88 ../comps-f8.xml.in.h:92
-#, fuzzy
 msgid "Lao Support"
-msgstr "Подршка за тајландски"
+msgstr "Подршка за лаошки"
 
 #: ../comps-f7.xml.in.h:89 ../comps-f8.xml.in.h:93
-#, fuzzy
 msgid "Latvian Support"
-msgstr "Подршка за хрватски"
+msgstr "Подршка за летонски"
 
 #: ../comps-f7.xml.in.h:90 ../comps-f8.xml.in.h:95
 msgid "Legacy Network Server"
@@ -764,9 +751,8 @@ msgid "Malayalam Support"
 msgstr "Подршка за малајалам"
 
 #: ../comps-f7.xml.in.h:97 ../comps-f8.xml.in.h:103
-#, fuzzy
 msgid "Maori Support"
-msgstr "Подршка за марати"
+msgstr "Подршка за маорски"
 
 #: ../comps-f7.xml.in.h:98 ../comps-f8.xml.in.h:104
 msgid "Marathi Support"
@@ -789,9 +775,8 @@ msgid "Oriya Support"
 msgstr "Подршка за орију"
 
 #: ../comps-f7.xml.in.h:107 ../comps-f8.xml.in.h:116
-#, fuzzy
 msgid "Persian Support"
-msgstr "Подршка за српски"
+msgstr "Подршка за персијски"
 
 #: ../comps-f7.xml.in.h:108 ../comps-f8.xml.in.h:117
 msgid "Polish Support"
@@ -826,9 +811,8 @@ msgid "Russian Support"
 msgstr "Подршка за руски"
 
 #: ../comps-f7.xml.in.h:116 ../comps-f8.xml.in.h:125
-#, fuzzy
 msgid "Samoan Support"
-msgstr "Подршка за немачки"
+msgstr "Подршка за самоански"
 
 #: ../comps-f7.xml.in.h:117 ../comps-f8.xml.in.h:126
 msgid "Serbian Support"
@@ -855,9 +839,8 @@ msgid "Smallest possible installation"
 msgstr "Најмања могућа инсталација"
 
 #: ../comps-f7.xml.in.h:126 ../comps-f8.xml.in.h:135
-#, fuzzy
 msgid "Somail Support"
-msgstr "Подршка за свати"
+msgstr "Подршка за сомаил"
 
 #: ../comps-f7.xml.in.h:127 ../comps-f8.xml.in.h:136
 msgid ""
@@ -888,9 +871,8 @@ msgid "Swedish Support"
 msgstr "Подршка за шведски"
 
 #: ../comps-f7.xml.in.h:137 ../comps-f8.xml.in.h:146
-#, fuzzy
 msgid "Tagalog Support"
-msgstr "Подршка за тамилски"
+msgstr "Подршка за тагалог"
 
 #: ../comps-f7.xml.in.h:138 ../comps-f8.xml.in.h:147
 msgid "Tamil Support"
@@ -992,14 +974,12 @@ msgid "This package group includes packages useful for use with Postgresql."
 msgstr "Ова група пакета садржи пакете корисне при раду са Postgresql-ом."
 
 #: ../comps-f7.xml.in.h:172 ../comps-f8.xml.in.h:180
-#, fuzzy
 msgid "Tibetan Support"
-msgstr "Подршка за немачки"
+msgstr "Подршка за тибетански"
 
 #: ../comps-f7.xml.in.h:173 ../comps-f8.xml.in.h:181
-#, fuzzy
 msgid "Tonga Support"
-msgstr "Подршка за тсонгу"
+msgstr "Подршка за тонгу"
 
 #: ../comps-f7.xml.in.h:174 ../comps-f8.xml.in.h:182
 msgid "Tsonga Support"
@@ -1018,18 +998,16 @@ msgid "Ukrainian Support"
 msgstr "Подршка за украјински"
 
 #: ../comps-f7.xml.in.h:178 ../comps-f8.xml.in.h:186
-#, fuzzy
 msgid "Urdu Support"
-msgstr "Подршка за зулу"
+msgstr "Подршка за урду"
 
 #: ../comps-f7.xml.in.h:181 ../comps-f8.xml.in.h:189
 msgid "Venda Support"
 msgstr "Подршка за венду"
 
 #: ../comps-f7.xml.in.h:182 ../comps-f8.xml.in.h:190
-#, fuzzy
 msgid "Vietnamese Support"
-msgstr "Подршка за кинески"
+msgstr "Подршка за вијетнамски"
 
 #: ../comps-f7.xml.in.h:183 ../comps-f8.xml.in.h:191
 msgid "Virtualization"
@@ -1057,364 +1035,40 @@ msgstr "Подршка за зулу"
 
 #: ../comps-f8.xml.in.h:21
 msgid "Buildsystem building group"
-msgstr ""
+msgstr "Група за изградњу система изградње"
 
 #: ../comps-f8.xml.in.h:48
-#, fuzzy
 msgid "Fedora Eclipse"
-msgstr "Eclipse"
+msgstr "Fedora Eclipse"
 
 #: ../comps-f8.xml.in.h:51
 msgid "Fonts"
-msgstr ""
+msgstr "Фонтови"
 
 #: ../comps-f8.xml.in.h:52
 msgid "Fonts packages for rendering text on the desktop."
-msgstr ""
+msgstr "Пакети фонтова за приказ текста на радној површи."
 
 #: ../comps-f8.xml.in.h:78
-#, fuzzy
 msgid "Integrated Development Environments based on Eclipse."
-msgstr "Eclipse интегрисано развојно окружење."
+msgstr "Интегрисано развојно окружење засновано на Eclipse-у."
 
 #: ../comps-f8.xml.in.h:94
 msgid "Legacy Fonts"
-msgstr ""
+msgstr "Застарели фонтови"
 
 #: ../comps-f8.xml.in.h:99
-#, fuzzy
 msgid "Low Saxon Support"
-msgstr "Подршка за тајландски"
+msgstr "Подршка за нижи саксонски"
 
 #: ../comps-f8.xml.in.h:105
-#, fuzzy
 msgid "Mongolian Support"
-msgstr "Подршка за естонски"
+msgstr "Подршка за монголски"
 
 #: ../comps-f8.xml.in.h:107
-#, fuzzy
 msgid "Nepali Support"
-msgstr "Подршка за бенгалски"
+msgstr "Подршка за непалски"
 
 #: ../comps-f8.xml.in.h:113
 msgid "Older bitmap and vector fonts packages"
-msgstr ""
-
-#~ msgid "Brazilian Support"
-#~ msgstr "Подршка за бразилски"
-
-#~ msgid "British Support"
-#~ msgstr "Подршка за британски"
-
-#~ msgid "Compatibility Arch Development Support"
-#~ msgstr "Подршка за развој на усаглашеној архитектури"
-
-#~ msgid "Compatibility Arch Mozilla Support"
-#~ msgstr "Mozilla подршка на усаглашеној архитектури"
-
-#~ msgid "Compatibility Arch Support"
-#~ msgstr "Подршка за усаглашене архитектуре"
-
-#~ msgid "Cyrillic Support"
-#~ msgstr "Подршка за ћирилицу"
-
-#~ msgid "Desktops"
-#~ msgstr "Радна окружења"
-
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
-
-#~ msgid "GNOME"
-#~ msgstr "GNOME"
-
-#~ msgid "ISO8859-14 Support"
-#~ msgstr "ISO8859-14 подршка"
-
-#~ msgid "ISO8859-15 Support"
-#~ msgstr "ISO8859-15 подршка"
-
-#~ msgid "ISO8859-2 Support"
-#~ msgstr "ISO8859-2 подршка"
-
-#~ msgid "ISO8859-9 Support"
-#~ msgstr "ISO8859-9 подршка"
-
-#~ msgid "Install these packages to recompile the kernel."
-#~ msgstr "Инсталирајте ове пакете ако желите да прекомпилирате језгро."
-
-#~ msgid "KDE"
-#~ msgstr "KDE"
-
-#~ msgid "KDE Desktop Environment"
-#~ msgstr "KDE радно окружење"
-
-#~ msgid "Kernel Development"
-#~ msgstr "Развој језгра"
-
-#~ msgid "Miscellaneous Included Packages"
-#~ msgstr "Разни пакети"
-
-#~ msgid "Mozilla packages for the x86 platform"
-#~ msgstr "Mozilla пакети за x86 платформу"
-
-#~ msgid "Multilib support packages"
-#~ msgstr "Multilib пакети подршке"
-
-#~ msgid "SQL Database"
-#~ msgstr "SQL база података"
-
-#~ msgid "Server"
-#~ msgstr "Сервер"
-
-#~ msgid "Support for developing packages for the non-primary architecture"
-#~ msgstr "Подршка развоју пакета за неосновну архитектуру"
-
-#~ msgid "Syriac Support"
-#~ msgstr "Подршка за сиријски"
-
-#~ msgid "System"
-#~ msgstr "Систем"
-
-#~ msgid "The GNU Emacs text editor."
-#~ msgstr "ГНУ-ов Emacs уређивач текста."
-
-#~ msgid ""
-#~ "These packages allow you to configure an IMAP or Postfix mail server."
-#~ msgstr "Ови пакети омогућавају подешавање IMAP или Postfix сервера поште."
-
-#~ msgid ""
-#~ "These packages provide compatibility support for previous releases of Red "
-#~ "Hat Enterprise Linux."
-#~ msgstr ""
-#~ "Ови пакети пружају подршку усаглашавања са претходним издањима Red Hat "
-#~ "Enterprise Linux-а."
-
-#~ msgid "Unsupported Development Libraries"
-#~ msgstr "Неподржане развојне библиотеке"
-
-#~ msgid "Workstation Common"
-#~ msgstr "Уобичајена радна станица"
-
-#~ msgid "ppc64 Compatibility Arch Support"
-#~ msgstr "Подршка за ppc64 усаглашене архитектуре"
-
-#~ msgid "x86 Compatibility Arch Development Support"
-#~ msgstr "Подршка за развој на x86 усаглашеној архитектури"
-
-#~ msgid "x86 Compatibility Arch Support"
-#~ msgstr "Подршка за x86 усаглашене архитектуре"
-
-#~ msgid "Brazilian Portuguese"
-#~ msgstr "бразилски португалски"
-
-#~ msgid "English"
-#~ msgstr "енглески"
-
-#~ msgid "French"
-#~ msgstr "француски"
-
-#~ msgid "German"
-#~ msgstr "немачки"
-
-#~ msgid "Italian"
-#~ msgstr "италијански"
-
-#~ msgid "Red Hat Enterprise Linux 3 Documentation"
-#~ msgstr "Red Hat Enterprise Linux 3 Документација"
-
-#~ msgid "Spanish"
-#~ msgstr "шпански"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Brazilian Portuguese language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на бразилском "
-#~ "португалском."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "English language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на енглеском."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "French language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на француском."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "German language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на немачком."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Italian language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на италијанском."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Spanish language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на шпанском."
-
-#~ msgid "Japanese"
-#~ msgstr "јапански"
-
-#~ msgid "Korean"
-#~ msgstr "корејски"
-
-#~ msgid "Simplified Chinese"
-#~ msgstr "поједностављени кинески"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Japanese language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на јапанском."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Korean language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на корејском."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Simplified Chinese language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на "
-#~ "поједностављеном кинеском."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Traditional Chinese language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на традиционалном "
-#~ "кинеском."
-
-#~ msgid "Traditional Chinese"
-#~ msgstr "традиционални кинески"
-
-#~ msgid "ppc64 Compatibility Arch Development Support"
-#~ msgstr "Подршка за развој на ppc64 усаглашеној архитектури"
-
-#~ msgid "Bengali"
-#~ msgstr "бенгалски"
-
-#~ msgid "Gujarati"
-#~ msgstr "гуџаратски"
-
-#~ msgid "Hindi"
-#~ msgstr "хинду"
-
-#~ msgid "Punjabi"
-#~ msgstr "пенџапски"
-
-#~ msgid "Red Hat Enterprise Linux 4 Documentation"
-#~ msgstr "Red Hat Enterprise Linux 4 Документација"
-
-#~ msgid "Tamil"
-#~ msgstr "тамилски"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Bengali language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на бенгалском "
-#~ "језику."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Gujarati language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на гуџаратском "
-#~ "језику."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Hindi language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на хинду језику."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Punjabi language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на пенџапском "
-#~ "језику."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Tamil language."
-#~ msgstr ""
-#~ "Ова група садржи Red Hat Enterprise Linux документацију на тамилском "
-#~ "језику."
-
-#~ msgid "Cluster Storage"
-#~ msgstr "Складиште чворишта"
-
-#~ msgid "Clustering Support."
-#~ msgstr "Подршка за учворавање"
-
-#~ msgid "Packages which provide support for cluster storage."
-#~ msgstr "Пакети који пружају подршку за складиште чворишта."
-
-#~ msgid "Packages which provide support for single-node GFS."
-#~ msgstr "Пакети који пружају подршку за GFS са једним чвором."
-
-#~ msgid "Single Node GFS Support"
-#~ msgstr "Подршка GFS са једним чвором"
-
-#~ msgid "These packages provide compatibility support with previous releases."
-#~ msgstr "Ови пакети пружају подршку усаглашавања са претходним издањима."
-
-#~ msgid "Java Runtime Environments and Development Kits"
-#~ msgstr "Java извршно окружење и развојни прибор"
-
-#~ msgid "Misc"
-#~ msgstr "Разно"
-
-#~ msgid "Misc packages"
-#~ msgstr "Разни пакети"
-
-#~ msgid "Multimedia"
-#~ msgstr "Мултимедија"
-
-#~ msgid "Multimedia applications"
-#~ msgstr "Програми за мултимедију"
-
-#~ msgid ""
-#~ "Packages which provide additional functionality for Red Hat Enterprise "
-#~ "Linux"
-#~ msgstr ""
-#~ "Пакети који пружају додатну функционалност за Red Hat Enterprise Linux"
-
-#~ msgid "Red Hat Enterprise Linux Extras"
-#~ msgstr "Red Hat Enterprise Linux Extras"
-
-#~ msgid "Workstation"
-#~ msgstr "Радна станица"
-
-#~ msgid "Workstation applications and utilities."
-#~ msgstr "Програми и алати за радну станицу."
-
-#~ msgid "Virtualization Support."
-#~ msgstr "Подршка за виртуализацију"
-
-#~ msgid "Compatibility Arch"
-#~ msgstr "Усаглашене архитектуре"
-
-#~ msgid "Compatibility Arch Libraries"
-#~ msgstr "Библиотеке за усаглашене архитектуре"
-
-#~ msgid "Multilib library packages"
-#~ msgstr "Multilib пакети библиотека"
-
-#~ msgid ""
-#~ "Packages which provide functionality for the compatibility architecture."
-#~ msgstr "Пакети који пружају функционалност за усклађену архитектуру."
+msgstr "Старији пакети батмапираних и векторских фонтова"
