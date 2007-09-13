@@ -72,10 +72,10 @@
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Arabic</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ar</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ar</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-arabic</packagereq>
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">m17n-db-arabic</packagereq>
+      <packagereq type="optional">scim-tables-arabic</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1292,8 +1292,8 @@
     <langonly>am</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-ethiopic</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-amharic</packagereq>
       <packagereq type="optional">m17n-db-amharic</packagereq>
+      <packagereq type="optional">scim-tables-amharic</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2703,6 +2703,21 @@
     </packagelist>
   </group>
   <group>
+    <id>nepali-support</id>
+    <_name>Nepali Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ne</langonly>
+    <packagelist>
+      <packagereq type="mandatory">fonts-hindi</packagereq>
+      <packagereq type="mandatory">m17n-contrib-nepali</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-nepali</packagereq>
+      <packagereq type="optional">scim-tables-nepali</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>network-server</id>
     <_name>Network Servers</_name>
     <_description>These packages include network-based servers such as DHCP, Kerberos and NIS.</_description>
@@ -2750,19 +2765,6 @@
       <packagereq type="optional">vnc-server</packagereq>
       <packagereq type="optional">xl2tpd</packagereq>
       <packagereq type="optional">ypserv</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>nepali-support</id>
-    <_name>Nepali Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <langonly>ne</langonly>
-    <packagelist>
-      <packagereq type="mandatory">m17n-contrib-nepali</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-nepali</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3030,10 +3032,10 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
       <packagereq type="conditional" requires="stardict">stardict-dic-ru</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-cyrillic</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-russian</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">m17n-contrib-russian</packagereq>
       <packagereq type="optional">m17n-db-russian</packagereq>
+      <packagereq type="optional">scim-tables-russian</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3642,7 +3644,7 @@
       <packagereq type="conditional" requires="moodle">moodle-th</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-th_TH</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-thai</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-thai</packagereq>
+      <packagereq type="optional">scim-tables-thai</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3762,7 +3764,7 @@
       <packagereq type="conditional" requires="moodle">moodle-vi</packagereq>
       <packagereq type="optional">m17n-contrib-vietnamese</packagereq>
       <packagereq type="optional">m17n-db-vietnamese</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-vietnamese</packagereq>
+      <packagereq type="optional">scim-tables-vietnamese</packagereq>
     </packagelist>
   </group>
   <group>
