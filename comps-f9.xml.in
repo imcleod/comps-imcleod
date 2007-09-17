@@ -1885,6 +1885,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">f-spot</packagereq>
       <packagereq type="default">gimp</packagereq>
       <packagereq type="default">gimp-help</packagereq>
       <packagereq type="default">xsane</packagereq>
@@ -1897,7 +1898,6 @@
       <packagereq type="optional">dcraw</packagereq>
       <packagereq type="optional">digikam</packagereq>
       <packagereq type="optional">digikam-doc</packagereq>
-      <packagereq type="optional">f-spot</packagereq>
       <packagereq type="optional">fontforge</packagereq>
       <packagereq type="optional">fonttools</packagereq>
       <packagereq type="optional">fyre</packagereq>
