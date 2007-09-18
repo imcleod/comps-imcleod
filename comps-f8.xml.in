@@ -1802,17 +1802,18 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">bittorrent-gui</packagereq>
       <packagereq type="default">ekiga</packagereq>
       <packagereq type="default">evolution</packagereq>
       <packagereq type="default">evolution-help</packagereq>
       <packagereq type="default">evolution-webcal</packagereq>
       <packagereq type="default">firefox</packagereq>
       <packagereq type="default">pidgin</packagereq>
+      <packagereq type="default">transmission</packagereq>
       <packagereq type="optional">amsn</packagereq>
       <packagereq type="optional">apollon</packagereq>
       <packagereq type="optional">azureus</packagereq>
       <packagereq type="optional">balsa</packagereq>
+      <packagereq type="optional">bittorrent-gui</packagereq>
       <packagereq type="optional">blam</packagereq>
       <packagereq type="optional">blogtk</packagereq>
       <packagereq type="optional">bluefish</packagereq>
@@ -1868,7 +1869,6 @@
       <packagereq type="optional">sylpheed</packagereq>
       <packagereq type="optional">sylpheed-claws</packagereq>
       <packagereq type="optional">thunderbird</packagereq>
-      <packagereq type="optional">transmission</packagereq>
       <packagereq type="optional">twinkle</packagereq>
       <packagereq type="optional">urlgfe</packagereq>
       <packagereq type="optional">valknut</packagereq>
