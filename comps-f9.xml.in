@@ -1097,9 +1097,17 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">eclipse-cdt</packagereq>
-      <packagereq type="default">eclipse-pydev</packagereq>
+      <packagereq type="default">eclipse-changelog</packagereq>
       <packagereq type="default">eclipse-jdt</packagereq>
+      <packagereq type="default">eclipse-mylyn</packagereq>
+      <packagereq type="default">eclipse-mylyn-bugzilla</packagereq>
+      <packagereq type="default">eclipse-mylyn-ide</packagereq>
+      <packagereq type="default">eclipse-mylyn-java</packagereq>
       <packagereq type="default">eclipse-pde</packagereq>
+      <packagereq type="default">eclipse-pydev</packagereq>
+      <packagereq type="default">eclipse-rpm-editor</packagereq>
+      <packagereq type="default">eclipse-subclipse</packagereq>
+      <packagereq type="optional">eclipse-mylyn-trac</packagereq>
     </packagelist>
   </group>
   <group>
