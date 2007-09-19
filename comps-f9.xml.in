@@ -356,7 +356,6 @@
       <packagereq type="optional">fonts-chinese</packagereq>
       <packagereq type="optional">fonts-japanese</packagereq>
       <packagereq type="optional">freefont</packagereq>
-      <packagereq type="optional">FreeWnn</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">lineak-defaultplugin</packagereq>
       <packagereq type="optional">lineak-xosdplugin</packagereq>
@@ -1594,7 +1593,6 @@
       <packagereq type="mandatory">dejavu-fonts</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ka</packagereq>
       <packagereq type="default">dejavu-fonts-experimental</packagereq>
-      <packagereq type="optional">m17n-db-georgian</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1665,7 +1663,6 @@
       <packagereq type="default">gok</packagereq>
       <packagereq type="default">gthumb</packagereq>
       <packagereq type="default">gtk2-engines</packagereq>
-      <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">nautilus-cd-burner</packagereq>
       <packagereq type="default">nautilus-sendto</packagereq>
       <packagereq type="default">NetworkManager-gnome</packagereq>
@@ -1704,6 +1701,7 @@
       <packagereq type="optional">gnotime</packagereq>
       <packagereq type="optional">gtweakui</packagereq>
       <packagereq type="optional">hal-gnome</packagereq>
+      <packagereq type="optional">im-chooser</packagereq>
       <packagereq type="optional">istanbul</packagereq>
       <packagereq type="optional">lock-keys-applet</packagereq>
       <packagereq type="optional">nautilus-actions</packagereq>
@@ -1834,7 +1832,7 @@
       <packagereq type="optional">drivel</packagereq>
       <packagereq type="optional">epiphany</packagereq>
       <packagereq type="optional">epiphany-extensions</packagereq>
-      <packagereq type="optional">evolution-connector</packagereq>
+      <packagereq type="optional">evolution-exchange</packagereq>
       <packagereq type="optional">fwbuilder</packagereq>
       <packagereq type="optional">gajim</packagereq>
       <packagereq type="optional">galeon</packagereq>
@@ -1865,6 +1863,7 @@
       <packagereq type="optional">linphone</packagereq>
       <packagereq type="optional">logjam</packagereq>
       <packagereq type="optional">mail-notification</packagereq>
+      <packagereq type="optional">Miro</packagereq>
       <packagereq type="optional">mugshot</packagereq>
       <packagereq type="optional">ochusha</packagereq>
       <packagereq type="optional">pan</packagereq>
@@ -2347,7 +2346,6 @@
       <packagereq type="default">amarok</packagereq>
       <packagereq type="default">digikam</packagereq>
       <packagereq type="default">gpgme</packagereq>
-      <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">kaffeine</packagereq>
       <packagereq type="default">kdeaccessibility</packagereq>
       <packagereq type="default">kdeaddons</packagereq>
@@ -2374,6 +2372,7 @@
       <packagereq type="optional">crystal</packagereq>
       <packagereq type="optional">dolphin</packagereq>
       <packagereq type="optional">gtk-qt-engine</packagereq>
+      <packagereq type="optional">im-chooser</packagereq>
       <packagereq type="optional">kasablanca</packagereq>
       <packagereq type="optional">katapult</packagereq>
       <packagereq type="optional">kbackup</packagereq>
@@ -3216,7 +3215,6 @@
       <packagereq type="optional">cdlabelgen</packagereq>
       <packagereq type="optional">cowbell</packagereq>
       <packagereq type="optional">csound-gui</packagereq>
-      <packagereq type="optional">Democracy</packagereq>
       <packagereq type="optional">dvdauthor</packagereq>
       <packagereq type="optional">dvdisaster</packagereq>
       <packagereq type="optional">dvgrab</packagereq>
@@ -3245,6 +3243,7 @@
       <packagereq type="optional">kid3</packagereq>
       <packagereq type="optional">kover</packagereq>
       <packagereq type="optional">mikmod</packagereq>
+      <packagereq type="optional">Miro</packagereq>
       <packagereq type="optional">muine</packagereq>
       <packagereq type="optional">nyquist</packagereq>
       <packagereq type="optional">padevchooser</packagereq>
@@ -3635,6 +3634,7 @@
       <packagereq type="optional">snownews</packagereq>
       <packagereq type="optional">tftp</packagereq>
       <packagereq type="optional">tin</packagereq>
+      <packagereq type="optional">w3m</packagereq>
       <packagereq type="optional">websec</packagereq>
       <packagereq type="optional">xprobe2</packagereq>
       <packagereq type="optional">yafc</packagereq>
