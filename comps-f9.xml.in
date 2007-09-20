@@ -668,6 +668,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-pinyin</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-chinese</packagereq>
       <packagereq type="default">wqy-bitmap-fonts</packagereq>
+      <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-chinese</packagereq>
       <packagereq type="optional">stardict</packagereq>
