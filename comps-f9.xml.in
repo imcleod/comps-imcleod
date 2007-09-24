@@ -2190,6 +2190,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">java-1.5.0-gcj</packagereq>
+      <packagereq type="default">java-1.7.0-icedtea</packagereq>
+      <packagereq type="default">java-1.7.0-icedtea-plugin</packagereq>
       <packagereq type="mandatory">libgcj</packagereq>
     </packagelist>
   </group>
@@ -2272,6 +2274,10 @@
       <packagereq type="default">jakarta-taglibs-standard-javadoc</packagereq>
       <packagereq type="default">java-1.5.0-gcj-javadoc</packagereq>
       <packagereq type="default">java-1.5.0-gcj-src</packagereq>
+      <packagereq type="default">java-1.7.0-icedtea-demo</packagereq>
+      <packagereq type="default">java-1.7.0-icedtea-devel</packagereq>
+      <packagereq type="default">java-1.7.0-icedtea-javadoc</packagereq>
+      <packagereq type="default">java-1.7.0-icedtea-src</packagereq>
       <packagereq type="default">java_cup</packagereq>
       <packagereq type="default">java_cup-javadoc</packagereq>
       <packagereq type="default">java_cup-manual</packagereq>
