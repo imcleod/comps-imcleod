@@ -1,4 +1,4 @@
-# translation of el.po to Greek
+# translation of comps.HEAD.po to Greek
 # comps-po Greek Translation
 # Copyright (C) Nikos Charonitakis
 # This file is distributed under the same license as the comps-po package.
@@ -6,31 +6,32 @@
 #
 # Nikos Charonitakis <nikosx@gmail.com>, 2002, 2007.
 # Dimitris Michelinakis <dimitris@michelinakis.gr>, 2006.
-# Dimitris Glezos <dimitris@glezos.com>, 2006.
+# Dimitris Glezos <dimitris@glezos.com>, 2006, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: el\n"
+"Project-Id-Version: comps.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-09-17 15:18-0400\n"
-"PO-Revision-Date: 2007-04-16 19:25+0300\n"
-"Last-Translator: Nikos Charonitakis <nikosx@gmail.com>\n"
+"POT-Creation-Date: 2007-09-22 09:47-0700\n"
+"PO-Revision-Date: 2007-09-23 06:45+0100\n"
+"Last-Translator: Dimitris Glezos <dimitris@glezos.com>\n"
 "Language-Team: Greek <fedora-trans-el@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: ../comps-fe5.xml.in.h:1 ../comps-fe6.xml.in.h:1 ../comps-f7.xml.in.h:1
 #: ../comps-f8.xml.in.h:1
 msgid "A lightweight desktop environment that works well on low end machines."
 msgstr ""
-"Μια ελαφριά επιιφάνεια εργασίας που αποδίδει πολύ καλά σε παλαιότερα "
+"Μια ελαφριά επιφάνεια εργασίας που αποδίδει πολύ καλά σε παλαιότερα "
 "μηχανήματα."
 
 #: ../comps-fe5.xml.in.h:2 ../comps-fe6.xml.in.h:2 ../comps-f7.xml.in.h:2
 #: ../comps-f8.xml.in.h:2 ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
 msgid "Administration Tools"
-msgstr "Εργαλεία διαχείρισης συστήματος"
+msgstr "Εργαλεία διαχείρισης"
 
 #: ../comps-fe5.xml.in.h:3 ../comps-fe6.xml.in.h:3 ../comps-f7.xml.in.h:5
 #: ../comps-f8.xml.in.h:5 ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
@@ -100,7 +101,7 @@ msgstr "Εκπαιδευτικό λογισμικό"
 #: ../comps-fe5.xml.in.h:16 ../comps-fe6.xml.in.h:17 ../comps-f7.xml.in.h:41
 #: ../comps-f8.xml.in.h:41 ../comps-el4.xml.in.h:15 ../comps-el5.xml.in.h:16
 msgid "Educational software for learning"
-msgstr "Μάθηση με εκπαιδευτικό λογισμικό."
+msgstr "Εκπαιδευτικό λογισμικό για μάθηση"
 
 #: ../comps-fe5.xml.in.h:17 ../comps-fe6.xml.in.h:18 ../comps-f7.xml.in.h:42
 #: ../comps-f8.xml.in.h:42 ../comps-el4.xml.in.h:16 ../comps-el5.xml.in.h:17
@@ -118,8 +119,8 @@ msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr ""
-"Από εγγραφή CD μέχρι αναπαραγωγή μουσικών CD και αρχείων πολυμέσων, αυτή η "
-"ομάδα πακέτων επιτρέπει στο σύστημα την επεξεργασία ήχου και εικόνας."
+"Αυτή η ομάδα πακέτων επιτρέπει στο σύστημα την επεξεργασία ήχου και εικόνας, "
+"από εγγραφή CD μέχρι αναπαραγωγή μουσικών CD και αρχείων πολυμέσων."
 
 #: ../comps-fe5.xml.in.h:20 ../comps-fe6.xml.in.h:21 ../comps-f7.xml.in.h:52
 #: ../comps-f8.xml.in.h:55 ../comps-el4.xml.in.h:19 ../comps-el5.xml.in.h:20
@@ -173,7 +174,7 @@ msgid ""
 "applications."
 msgstr ""
 "Εγκαταστήστε αυτά τα πακέτα αν θέλετε να αναπτύξετε εφαρμογές γραφικού "
-"περιβάλλοντος  GTK+ και GNOME."
+"περιβάλλοντος GTK+ και GNOME."
 
 #: ../comps-fe5.xml.in.h:29 ../comps-fe6.xml.in.h:30 ../comps-f7.xml.in.h:71
 #: ../comps-f8.xml.in.h:74
@@ -193,8 +194,7 @@ msgstr ""
 
 #: ../comps-fe5.xml.in.h:31 ../comps-fe6.xml.in.h:32 ../comps-f7.xml.in.h:74
 #: ../comps-f8.xml.in.h:77 ../comps-el4.xml.in.h:28 ../comps-el5.xml.in.h:30
-msgid ""
-"Install this group of packages to use the base graphical (X) user interface."
+msgid "Install this group of packages to use the base graphical (X) user interface."
 msgstr ""
 "Η εγκατάσταση αυτής της ομάδας πακέτων επιτρέπει τη χρήση του γραφικού "
 "περιβάλλοντος Χ."
@@ -217,7 +217,7 @@ msgstr "Ανάπτυξη λογισμικού Java"
 #: ../comps-fe5.xml.in.h:35 ../comps-fe6.xml.in.h:34 ../comps-f7.xml.in.h:81
 #: ../comps-f8.xml.in.h:85 ../comps-el4.xml.in.h:32 ../comps-el5.xml.in.h:32
 msgid "KDE (K Desktop Environment)"
-msgstr "KDE (Επιφάνεια εργασίας KDE)"
+msgstr "Επιφάνεια εργασίας KDE"
 
 #: ../comps-fe5.xml.in.h:36 ../comps-fe6.xml.in.h:35 ../comps-f7.xml.in.h:82
 #: ../comps-f8.xml.in.h:86 ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:33
@@ -237,7 +237,7 @@ msgstr ""
 #: ../comps-fe5.xml.in.h:38 ../comps-fe6.xml.in.h:37 ../comps-f7.xml.in.h:94
 #: ../comps-f8.xml.in.h:100 ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:35
 msgid "Mail Server"
-msgstr "Εξυπηρετητής Mail"
+msgstr "Εξυπηρετητής ηλ. αλληλογραφίας"
 
 #: ../comps-fe5.xml.in.h:39 ../comps-fe6.xml.in.h:38 ../comps-f7.xml.in.h:100
 #: ../comps-f8.xml.in.h:108 ../comps-el4.xml.in.h:36 ../comps-el5.xml.in.h:36
@@ -270,8 +270,7 @@ msgstr "Εξυπηρετητές"
 
 #: ../comps-fe5.xml.in.h:44 ../comps-fe6.xml.in.h:43 ../comps-f7.xml.in.h:120
 #: ../comps-f8.xml.in.h:129 ../comps-el4.xml.in.h:41 ../comps-el5.xml.in.h:41
-msgid ""
-"Simple window managers that aren't part of a larger desktop environment."
+msgid "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
 "Απλοί διαχειριστές παραθύρων οι οποίοι δεν ανήκουν σε κάποιο μεγαλύτερο "
 "περιβάλλον επιφάνειας εργασίας."
@@ -336,11 +335,10 @@ msgstr ""
 
 #: ../comps-fe5.xml.in.h:55 ../comps-fe6.xml.in.h:52 ../comps-f7.xml.in.h:147
 #: ../comps-f8.xml.in.h:155 ../comps-el4.xml.in.h:52 ../comps-el5.xml.in.h:50
-msgid ""
-"These packages are helpful when developing web applications or web pages."
+msgid "These packages are helpful when developing web applications or web pages."
 msgstr ""
-"Τα πακέτα αυτά σας επιτρέπουν να αναπτύξετε εφαρμογές για τον ιστό ή "
-"ιστοσελίδες"
+"Τα πακέτα αυτά σας επιτρέπουν να αναπτύξετε εφαρμογές για τον Ιστό ή "
+"ιστοσελίδες."
 
 #: ../comps-fe5.xml.in.h:56 ../comps-fe6.xml.in.h:53 ../comps-el4.xml.in.h:53
 #: ../comps-el5.xml.in.h:51
@@ -354,8 +352,7 @@ msgstr ""
 #: ../comps-fe5.xml.in.h:57 ../comps-fe6.xml.in.h:54 ../comps-f7.xml.in.h:154
 #: ../comps-f8.xml.in.h:162 ../comps-el4.xml.in.h:54 ../comps-el5.xml.in.h:52
 msgid "These tools allow you to run a Web server on the system."
-msgstr ""
-"Αυτά τα εργαλεία επιτρέπουν τη λειτουργία διακομιστή ιστού (Web) στο σύστημα."
+msgstr "Αυτά τα εργαλεία επιτρέπουν τη λειτουργία διακομιστή Ιστού (Web) στο σύστημα."
 
 #: ../comps-fe5.xml.in.h:58 ../comps-fe6.xml.in.h:55 ../comps-f7.xml.in.h:155
 #: ../comps-f8.xml.in.h:163 ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:53
@@ -374,13 +371,12 @@ msgstr ""
 #: ../comps-fe5.xml.in.h:60 ../comps-fe6.xml.in.h:57 ../comps-f7.xml.in.h:157
 #: ../comps-f8.xml.in.h:165 ../comps-el4.xml.in.h:57 ../comps-el5.xml.in.h:55
 msgid "This group allows you to configure the system as a news server."
-msgstr ""
-"Τα πακέτα αυτά σας επιτρέπουν να συντονίσετε το σύστημα ως εξυπηρετητή news."
+msgstr "Τα πακέτα αυτά σας επιτρέπουν να συντονίσετε το σύστημα ως εξυπηρετητή news."
 
 #: ../comps-fe5.xml.in.h:61 ../comps-fe6.xml.in.h:58 ../comps-f7.xml.in.h:160
 #: ../comps-f8.xml.in.h:168 ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:56
 msgid "This group includes graphical email, Web, and chat clients."
-msgstr "Αυτή η ομάδα περιλαμβάνει πελάτες email, ιστού και συνομιλίας."
+msgstr "Αυτή η ομάδα περιλαμβάνει πελάτες email, Ιστού και συνομιλίας."
 
 #: ../comps-fe5.xml.in.h:62 ../comps-fe6.xml.in.h:59 ../comps-f7.xml.in.h:161
 #: ../comps-f8.xml.in.h:169 ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:57
@@ -404,7 +400,7 @@ msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Αυτή η ομάδα περιλαμβάνει πελάτες email, ιστού και συνομιλίας βασισμένους σε "
+"Αυτή η ομάδα περιλαμβάνει πελάτες email, Ιστού και συνομιλίας βασισμένους σε "
 "κείμενο κονσόλας. Αυτές οι εφαρμογές δε χρειάζονται το Παραθυρικό σύστημα Χ."
 
 #: ../comps-fe5.xml.in.h:65 ../comps-fe6.xml.in.h:62 ../comps-f7.xml.in.h:164
@@ -418,47 +414,32 @@ msgstr ""
 
 #: ../comps-fe5.xml.in.h:66 ../comps-fe6.xml.in.h:63 ../comps-el4.xml.in.h:63
 #: ../comps-el5.xml.in.h:61
-#, fuzzy
 msgid "This group is a collection of network servers for specific purposes"
-msgstr ""
-"Αυτή η ομάδα είναι μια συλλογή από εργαλεία για διάφορα προγράμματα σχετικά "
-"με το υλικό του υπολογιστή."
+msgstr "Αυτή η ομάδα είναι μια συλλογή από εξυπηρετητές δικτύου για ειδικούς σκοπούς"
 
 #: ../comps-fe5.xml.in.h:67 ../comps-fe6.xml.in.h:64 ../comps-el4.xml.in.h:64
 #: ../comps-el5.xml.in.h:62
-#, fuzzy
-msgid ""
-"This group is a collection of tools and resources of Arabic environments."
-msgstr ""
-"Αυτή η ομάδα είναι μια συλλογή από εργαλεία για Αρμενικό περιβάλλον εργασίας."
+msgid "This group is a collection of tools and resources of Arabic environments."
+msgstr "Αυτή η ομάδα είναι μια συλλογή από εργαλεία και πόρους για Αραβικά περιβάλλοντα εργασίας."
 
 #: ../comps-fe5.xml.in.h:68 ../comps-fe6.xml.in.h:65 ../comps-f7.xml.in.h:165
 #: ../comps-f8.xml.in.h:173 ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
-msgid ""
-"This group is a collection of tools and resources of Armenian environments."
-msgstr ""
-"Αυτή η ομάδα είναι μια συλλογή από εργαλεία για Αρμενικό περιβάλλον εργασίας."
+msgid "This group is a collection of tools and resources of Armenian environments."
+msgstr "Αυτή η ομάδα είναι μια συλλογή από εργαλεία για Αρμενικά περιβάλλοντα."
 
 #: ../comps-fe5.xml.in.h:69 ../comps-fe6.xml.in.h:67 ../comps-el4.xml.in.h:66
 #: ../comps-el5.xml.in.h:65
-#, fuzzy
-msgid ""
-"This group is a collection of tools and resources of Hebrew environments."
-msgstr ""
-"Αυτή η ομάδα είναι μια συλλογή από εργαλεία για Αρμενικό περιβάλλον εργασίας."
+msgid "This group is a collection of tools and resources of Hebrew environments."
+msgstr "Αυτή η ομάδα είναι μια συλλογή από εργαλεία και πόρους για Αρμενικά περιβάλλοντα."
 
 #: ../comps-fe5.xml.in.h:70 ../comps-fe6.xml.in.h:68 ../comps-el4.xml.in.h:67
 #: ../comps-el5.xml.in.h:66
-#, fuzzy
-msgid ""
-"This group is a collection of tools and resources of Japanese environments."
-msgstr ""
-"Αυτή η ομάδα είναι μια συλλογή από εργαλεία για Αρμενικό περιβάλλον εργασίας."
+msgid "This group is a collection of tools and resources of Japanese environments."
+msgstr "Αυτή η ομάδα είναι μια συλλογή από εργαλεία και πόρους για Γιαπωνέζικα περιβάλλοντα."
 
 #: ../comps-fe5.xml.in.h:71 ../comps-fe6.xml.in.h:69 ../comps-f7.xml.in.h:166
 #: ../comps-f8.xml.in.h:174 ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
-msgid ""
-"This group is a collection of tools for various hardware specific utilities."
+msgid "This group is a collection of tools for various hardware specific utilities."
 msgstr ""
 "Αυτή η ομάδα είναι μια συλλογή από εργαλεία για διάφορα προγράμματα σχετικά "
 "με το υλικό του υπολογιστή."
@@ -481,13 +462,12 @@ msgstr "Διάφορα κεντρικά κομμάτια του συστήματ
 #: ../comps-fe5.xml.in.h:74 ../comps-fe6.xml.in.h:72 ../comps-f7.xml.in.h:180
 #: ../comps-f8.xml.in.h:188 ../comps-el5.xml.in.h:70
 msgid "Various ways to relax and spend your free time."
-msgstr ""
-"Διάφοροι τρόποι για να χαλαρώσετε και να ξοδέψετε τον ελεύθερο χρόνο σας."
+msgstr "Διάφοροι τρόποι για να χαλαρώσετε και να ξοδέψετε τον ελεύθερο χρόνο σας."
 
 #: ../comps-fe5.xml.in.h:75 ../comps-fe6.xml.in.h:73 ../comps-f7.xml.in.h:184
 #: ../comps-f8.xml.in.h:192 ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:71
 msgid "Web Development"
-msgstr "Ανάπτυξη προγραμμάτων ιστού"
+msgstr "Ανάπτυξη προγραμμάτων Ιστού"
 
 #: ../comps-fe5.xml.in.h:76 ../comps-fe6.xml.in.h:74 ../comps-f7.xml.in.h:185
 #: ../comps-f8.xml.in.h:193 ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:72
@@ -525,20 +505,16 @@ msgid "Czech Support"
 msgstr "Υποστήριξη Τσέχικων"
 
 #: ../comps-fe6.xml.in.h:66 ../comps-el5.xml.in.h:64
-#, fuzzy
-msgid ""
-"This group is a collection of tools and resources of Czech environments."
-msgstr ""
-"Αυτή η ομάδα είναι μια συλλογή από εργαλεία για Αρμενικό περιβάλλον εργασίας."
+msgid "This group is a collection of tools and resources of Czech environments."
+msgstr "Αυτή η ομάδα είναι μια συλλογή από εργαλεία και πόρους για Τσέχικα περιβάλλοντα."
 
 #: ../comps-f7.xml.in.h:3 ../comps-f8.xml.in.h:3
 msgid "Afrikaans Support"
-msgstr "Υποστήριξη Afrikaans"
+msgstr "Υποστήριξη Αφρικανικών"
 
 #: ../comps-f7.xml.in.h:4 ../comps-f8.xml.in.h:4
-#, fuzzy
 msgid "Albanian Support"
-msgstr "Υποστήριξη Αρμενικών"
+msgstr "Υποστήριξη Αλβανικών"
 
 #: ../comps-f7.xml.in.h:6 ../comps-f8.xml.in.h:6
 msgid "Applications to perform a variety of tasks"
@@ -561,27 +537,24 @@ msgid "Basque Support"
 msgstr "Υποστήριξη Βαλτικών"
 
 #: ../comps-f7.xml.in.h:15 ../comps-f8.xml.in.h:15
-#, fuzzy
 msgid "Belarusian Support"
-msgstr "Υποστήριξη Βουλγαρικών"
+msgstr "Υποστήριξη Belarusian"
 
 #: ../comps-f7.xml.in.h:16 ../comps-f8.xml.in.h:16
 msgid "Bengali Support"
 msgstr "Υποστήριξη Μπενγκάλι"
 
 #: ../comps-f7.xml.in.h:17 ../comps-f8.xml.in.h:17
-#, fuzzy
 msgid "Bhutanese Support"
-msgstr "Υποστήριξη Κινεζικών"
+msgstr "Υποστήριξη Bhutanese"
 
 #: ../comps-f7.xml.in.h:18 ../comps-f8.xml.in.h:18
-#, fuzzy
 msgid "Bosnian Support"
-msgstr "Υποστήριξη Εσθονικών"
+msgstr "Υποστήριξη Bosnian"
 
 #: ../comps-f7.xml.in.h:19 ../comps-f8.xml.in.h:19
 msgid "Brazilian Portuguese Support"
-msgstr "Υποστήριξη Βραζιλιάνικων Πορτογαλικών"
+msgstr "Υποστήριξη Πορτογαλικών Βραζιλίας"
 
 #: ../comps-f7.xml.in.h:20 ../comps-f8.xml.in.h:20
 msgid "Breton Support"
@@ -617,7 +590,7 @@ msgstr "Υποστήριξη Κροατικών"
 
 #: ../comps-f7.xml.in.h:29 ../comps-f8.xml.in.h:30
 msgid "DNS Name Server"
-msgstr "DNS Διακομιστής ονομάτων"
+msgstr "Διακομιστής ονομάτων DNS"
 
 #: ../comps-f7.xml.in.h:30 ../comps-f8.xml.in.h:31
 msgid "Danish Support"
@@ -656,9 +629,8 @@ msgid "Faeroese Support"
 msgstr "Υποστήριξη Φαροεζικών"
 
 #: ../comps-f7.xml.in.h:48 ../comps-f8.xml.in.h:49
-#, fuzzy
 msgid "Filipino Support"
-msgstr "Υποστήριξη Galician"
+msgstr "Υποστήριξη Φιλιππινέζικων"
 
 #: ../comps-f7.xml.in.h:49 ../comps-f8.xml.in.h:50
 msgid "Finnish Support"
@@ -686,9 +658,8 @@ msgid "Galician Support"
 msgstr "Υποστήριξη Galician"
 
 #: ../comps-f7.xml.in.h:58 ../comps-f8.xml.in.h:61
-#, fuzzy
 msgid "Georgian Support"
-msgstr "Υποστήριξη Γερμανικών"
+msgstr "Υποστήριξη Γεωργιανών"
 
 #: ../comps-f7.xml.in.h:59 ../comps-f8.xml.in.h:62
 msgid "German Support"
@@ -719,16 +690,14 @@ msgid "Indonesian Support"
 msgstr "Υποστήριξη Ινδονησιακών"
 
 #: ../comps-f7.xml.in.h:73 ../comps-f8.xml.in.h:76
-msgid ""
-"Install these tools to enable the system to print or act as a print server."
+msgid "Install these tools to enable the system to print or act as a print server."
 msgstr ""
 "Η εγκατάσταση αυτών των εργαλείων δίνει τη δυνατότητα στο σύστημα να "
 "εκτυπώνει ή να ενεργεί ως εξυπηρετητής εκτυπώσεων."
 
 #: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:79
-#, fuzzy
 msgid "Inuktitut Support"
-msgstr "Υποστήριξη Ζουλού"
+msgstr "Υποστήριξη Inuktitut"
 
 #: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:80
 msgid "Irish Support"
@@ -752,9 +721,8 @@ msgid "Kannada Support"
 msgstr "Υποστήριξη Kannada"
 
 #: ../comps-f7.xml.in.h:85 ../comps-f8.xml.in.h:89
-#, fuzzy
 msgid "Khmer Support"
-msgstr "Υποστήριξη Εβραϊκών"
+msgstr "Υποστήριξη Khmer"
 
 #: ../comps-f7.xml.in.h:86 ../comps-f8.xml.in.h:90
 msgid "Korean Support"
@@ -765,14 +733,12 @@ msgid "Languages"
 msgstr "Γλώσσες"
 
 #: ../comps-f7.xml.in.h:88 ../comps-f8.xml.in.h:92
-#, fuzzy
 msgid "Lao Support"
-msgstr "Υποστήριξη Thai"
+msgstr "Υποστήριξη Lao"
 
 #: ../comps-f7.xml.in.h:89 ../comps-f8.xml.in.h:93
-#, fuzzy
 msgid "Latvian Support"
-msgstr "Υποστήριξη Κροατικών"
+msgstr "Υποστήριξη Latvian"
 
 #: ../comps-f7.xml.in.h:90 ../comps-f8.xml.in.h:95
 msgid "Legacy Network Server"
@@ -799,9 +765,8 @@ msgid "Malayalam Support"
 msgstr "Υποστήριξη Malayalam"
 
 #: ../comps-f7.xml.in.h:97 ../comps-f8.xml.in.h:103
-#, fuzzy
 msgid "Maori Support"
-msgstr "Υποστήριξη Marathi"
+msgstr "Υποστήριξη Maori"
 
 #: ../comps-f7.xml.in.h:98 ../comps-f8.xml.in.h:104
 msgid "Marathi Support"
@@ -824,9 +789,8 @@ msgid "Oriya Support"
 msgstr "Υποστήριξη Oriya"
 
 #: ../comps-f7.xml.in.h:107 ../comps-f8.xml.in.h:116
-#, fuzzy
 msgid "Persian Support"
-msgstr "Υποστήριξη Σέρβικων"
+msgstr "Υποστήριξη Περσικών"
 
 #: ../comps-f7.xml.in.h:108 ../comps-f8.xml.in.h:117
 msgid "Polish Support"
@@ -861,9 +825,8 @@ msgid "Russian Support"
 msgstr "Υποστήριξη Ρωσικών"
 
 #: ../comps-f7.xml.in.h:116 ../comps-f8.xml.in.h:125
-#, fuzzy
 msgid "Samoan Support"
-msgstr "Υποστήριξη Γερμανικών"
+msgstr "Υποστήριξη Σαμόαν"
 
 #: ../comps-f7.xml.in.h:117 ../comps-f8.xml.in.h:126
 msgid "Serbian Support"
@@ -890,9 +853,8 @@ msgid "Smallest possible installation"
 msgstr "Μικρότερη δυνατή εγκατάσταση"
 
 #: ../comps-f7.xml.in.h:126 ../comps-f8.xml.in.h:135
-#, fuzzy
 msgid "Somali Support"
-msgstr "Υποστήριξη Swati"
+msgstr "Υποστήριξη Σομαλικών"
 
 #: ../comps-f7.xml.in.h:127 ../comps-f8.xml.in.h:136
 msgid ""
@@ -923,9 +885,8 @@ msgid "Swedish Support"
 msgstr "Υποστήριξη Σουηδικών"
 
 #: ../comps-f7.xml.in.h:137 ../comps-f8.xml.in.h:146
-#, fuzzy
 msgid "Tagalog Support"
-msgstr "Υποστήριξη Ταμιλικής"
+msgstr "Υποστήριξη Tagalog"
 
 #: ../comps-f7.xml.in.h:138 ../comps-f8.xml.in.h:147
 msgid "Tamil Support"
@@ -944,22 +905,19 @@ msgid "The Eclipse Integrated Development Environment."
 msgstr "Το ολοκληρωμένο περιβάλλον ανάπτυξης Eclipse."
 
 #: ../comps-f7.xml.in.h:144 ../comps-f8.xml.in.h:152
-msgid ""
-"The packages in this group are core libraries needed to develop applications."
+msgid "The packages in this group are core libraries needed to develop applications."
 msgstr ""
 "Αυτή η ομάδα περιλαμβάνει πακέτα με κεντρικές βιβλιοθήκες που χρειάζονται "
 "στην ανάπτυξη λογισμικού."
 
 #: ../comps-f7.xml.in.h:146 ../comps-f8.xml.in.h:154
-msgid ""
-"These packages allow you to develop applications for the X Window System."
+msgid "These packages allow you to develop applications for the X Window System."
 msgstr ""
 "Τα πακέτα αυτά σας επιτρέπουν να αναπτύξετε εφαρμογές για το Παραθυρικό "
 "σύστημα Χ."
 
 #: ../comps-f7.xml.in.h:148 ../comps-f8.xml.in.h:156
-msgid ""
-"These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgid "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr ""
 "Τα πακέτα αυτά περιλαμβάνουν δικτυακούς διακομιστές όπως DHCP, Kerberos και "
 "NIS."
@@ -978,8 +936,7 @@ msgstr "Τα πακέτα αυτά παρέχουν περιβάλλον εικ�
 
 #: ../comps-f7.xml.in.h:151 ../comps-f8.xml.in.h:159
 msgid "These packages provide compatibility with previous releases."
-msgstr ""
-"Τα πακέτα αυτά παρέχουν υποστήριξη συμβατότητας με προηγούμενες εκδόσεις."
+msgstr "Τα πακέτα αυτά παρέχουν υποστήριξη συμβατότητας με προηγούμενες εκδόσεις."
 
 #: ../comps-f7.xml.in.h:152 ../comps-f8.xml.in.h:160
 msgid ""
@@ -1012,8 +969,7 @@ msgstr ""
 "μικρών συστημάτων, για παράδειγμα συστήματα δρομολογητή/firewall."
 
 #: ../comps-f7.xml.in.h:168 ../comps-f8.xml.in.h:176
-msgid ""
-"This package group allows you to run a DNS name server (BIND) on the system."
+msgid "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr ""
 "Αυτή η ομάδα πακέτων επιτρέπει τη λειτουργία DNS διακομιστή ονομάτων (BIND) "
 "στο σύστημα."
@@ -1032,18 +988,15 @@ msgstr "Αυτή η ομάδα περιλαμβάνει πακέτα για να
 
 #: ../comps-f7.xml.in.h:171 ../comps-f8.xml.in.h:179
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr ""
-"Αυτή η ομάδα περιλαμβάνει πακέτα για να σας βοηθήσουν με την Postgresql."
+msgstr "Αυτή η ομάδα περιλαμβάνει πακέτα για να σας βοηθήσουν με την Postgresql."
 
 #: ../comps-f7.xml.in.h:172 ../comps-f8.xml.in.h:180
-#, fuzzy
 msgid "Tibetan Support"
-msgstr "Υποστήριξη Γερμανικών"
+msgstr "Υποστήριξη Θιβετιανών"
 
 #: ../comps-f7.xml.in.h:173 ../comps-f8.xml.in.h:181
-#, fuzzy
 msgid "Tonga Support"
-msgstr "Υποστήριξη Tsonga"
+msgstr "Υποστήριξη Tonga"
 
 #: ../comps-f7.xml.in.h:174 ../comps-f8.xml.in.h:182
 msgid "Tsonga Support"
@@ -1062,18 +1015,16 @@ msgid "Ukrainian Support"
 msgstr "Υποστήριξη Ουκρανικής"
 
 #: ../comps-f7.xml.in.h:178 ../comps-f8.xml.in.h:186
-#, fuzzy
 msgid "Urdu Support"
-msgstr "Υποστήριξη Ζουλού"
+msgstr "Υποστήριξη Urdu"
 
 #: ../comps-f7.xml.in.h:181 ../comps-f8.xml.in.h:189
 msgid "Venda Support"
 msgstr "Υποστήριξη Venda"
 
 #: ../comps-f7.xml.in.h:182 ../comps-f8.xml.in.h:190
-#, fuzzy
 msgid "Vietnamese Support"
-msgstr "Υποστήριξη Κινεζικών"
+msgstr "Υποστήριξη Βιετναμικών"
 
 #: ../comps-f7.xml.in.h:183 ../comps-f8.xml.in.h:191
 msgid "Virtualization"
@@ -1101,410 +1052,41 @@ msgstr "Υποστήριξη Ζουλού"
 
 #: ../comps-f8.xml.in.h:21
 msgid "Buildsystem building group"
-msgstr ""
+msgstr "Ομάδα χτισίματος Buildsystem"
 
 #: ../comps-f8.xml.in.h:48
-#, fuzzy
 msgid "Fedora Eclipse"
-msgstr "Eclipse"
+msgstr "Fedora Eclipse"
 
 #: ../comps-f8.xml.in.h:51
 msgid "Fonts"
-msgstr ""
+msgstr "Γραμματοσειρές"
 
 #: ../comps-f8.xml.in.h:52
 msgid "Fonts packages for rendering text on the desktop."
-msgstr ""
+msgstr "Πακέτα γραμματοσειρών για εμφάνιση κειμένου στην επιφάνεια εργασίας."
 
 #: ../comps-f8.xml.in.h:78
-#, fuzzy
 msgid "Integrated Development Environments based on Eclipse."
-msgstr "Το ολοκληρωμένο περιβάλλον ανάπτυξης Eclipse."
+msgstr "Ολοκληρωμένα περιβάλλοντα ανάπτυξης λογισμικού βασισμένα στο Eclipse."
 
 #: ../comps-f8.xml.in.h:94
 msgid "Legacy Fonts"
-msgstr ""
+msgstr "Γραμματοσειρές κληρονομιάς"
 
 #: ../comps-f8.xml.in.h:99
-#, fuzzy
 msgid "Low Saxon Support"
-msgstr "Υποστήριξη Thai"
+msgstr "Υποστήριξη Low Saxon"
 
 #: ../comps-f8.xml.in.h:105
-#, fuzzy
 msgid "Mongolian Support"
-msgstr "Υποστήριξη Εσθονικών"
+msgstr "Υποστήριξη Μογγολικών"
 
 #: ../comps-f8.xml.in.h:107
-#, fuzzy
 msgid "Nepali Support"
-msgstr "Υποστήριξη Μπενγκάλι"
+msgstr "Υποστήριξη Νεπάλι"
 
 #: ../comps-f8.xml.in.h:113
 msgid "Older bitmap and vector fonts packages"
-msgstr ""
+msgstr "Παλιά πακέτα bitmap και διανυσματκών γραμματοσειρών"
 
-#, fuzzy
-#~ msgid "Somail Support"
-#~ msgstr "Υποστήριξη Swati"
-
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
-
-#~ msgid "The GNU Emacs text editor."
-#~ msgstr "Ο επεξεργαστής κειμένου GNU Emacs."
-
-#~ msgid "Brazilian Support"
-#~ msgstr "Υποστήριξη Βραζιλιάνικων"
-
-#~ msgid "British Support"
-#~ msgstr "Υποστήριξη Αγγλικών"
-
-#~ msgid "Canadian Support"
-#~ msgstr "Υποστήριξη Καναδικών"
-
-#~ msgid "Compatibility Arch Development Support"
-#~ msgstr "Υποστήριξη συμβατότητας ανάπτυξης αρχιτεκτονικής"
-
-#~ msgid "Compatibility Arch Mozilla Support"
-#~ msgstr "Υποστήριξη συμβατότητας αρχιτεκτονικής του Mozilla"
-
-#~ msgid "Compatibility Arch Support"
-#~ msgstr "Υποστήριξη συμβατότητας αρχιτεκτονικής"
-
-#~ msgid "Cyrillic Support"
-#~ msgstr "Υποστήριξη Κυριλλικών"
-
-#~ msgid "Desktops"
-#~ msgstr "Επιφάνειες εργασίας"
-
-#~ msgid "GNOME"
-#~ msgstr "GNOME"
-
-#~ msgid "ISO8859-14 Support"
-#~ msgstr "Υποστήριξη ISO8859-14"
-
-#~ msgid "ISO8859-15 Support"
-#~ msgstr "Υποστήριξη ISO8859-15"
-
-#~ msgid "ISO8859-2 Support"
-#~ msgstr "Υποστήριξη ISO8859-2"
-
-#~ msgid "ISO8859-9 Support"
-#~ msgstr "Υποστήριξη ISO8859-9"
-
-#~ msgid "Install these packages to recompile the kernel."
-#~ msgstr ""
-#~ "Εγκαταστήστε αυτά τα πακέτα για να μεταγλωττίσετε  τον πυρήνα (compile)."
-
-#~ msgid "KDE"
-#~ msgstr "KDE"
-
-#~ msgid "KDE Desktop Environment"
-#~ msgstr "Επιφάνεια εργασίας KDE"
-
-#~ msgid "Kernel Development"
-#~ msgstr "Ανάπτυξη πυρήνα"
-
-#~ msgid "Miscellaneous Included Packages"
-#~ msgstr "Διάφορα πακέτα που περιλαμβάνονται"
-
-#~ msgid "Mozilla packages for the x86 platform"
-#~ msgstr "Πακέτα του Mozilla για την πλατφόρμα x86"
-
-#~ msgid "Multilib support packages"
-#~ msgstr "Πακέτα υποστήριξης Multilib"
-
-#~ msgid "SQL Database"
-#~ msgstr "Βάση δεδομένων SQL"
-
-#~ msgid "Server"
-#~ msgstr "Εξυπηρετητής"
-
-#~ msgid "Support for developing packages for the non-primary architecture"
-#~ msgstr "Υποστήριξη προγραμματισμού πακέτων για μη-πρωταρχική αρχιτεκτονική."
-
-#~ msgid "Syriac Support"
-#~ msgstr "Υποστήριξη Syriac"
-
-#~ msgid "System"
-#~ msgstr "Σύστημα"
-
-#~ msgid ""
-#~ "These packages allow you to configure an IMAP or Postfix mail server."
-#~ msgstr ""
-#~ "Τα πακέτα αυτά σας επιτρέπουν να συντονίσετε έναν IMAP ή Postfix "
-#~ "διακομιστή μηνυμάτων."
-
-#~ msgid ""
-#~ "These packages provide compatibility support for previous releases of Red "
-#~ "Hat Enterprise Linux."
-#~ msgstr ""
-#~ "Τα πακέτα αυτά παρέχουν υποστήριξη συμβατότητας με προηγούμενες εκδόσεις "
-#~ "του Red Hat Enterprise Linux."
-
-#~ msgid "Unsupported Development Libraries"
-#~ msgstr "Βιβλιοθήκες ανάπτυξης λογισμικού χωρίς υποστήριξη"
-
-#~ msgid "Workstation Common"
-#~ msgstr "Τυπικός σταθμός εργασίας"
-
-#~ msgid "ppc64 Compatibility Arch Support"
-#~ msgstr "ppc64 Υποστήριξη συμβατότητας αρχιτεκτονικής"
-
-#~ msgid "x86 Compatibility Arch Development Support"
-#~ msgstr "x86 υποστήριξη συμβατότητας ανάπτυξης αρχιτεκτονικής"
-
-#~ msgid "x86 Compatibility Arch Support"
-#~ msgstr "x86 υποστήριξη συμβατότητας αρχιτεκτονικής"
-
-#~ msgid "Brazilian Portuguese"
-#~ msgstr "Βραζιλιάνικα Πορτογαλικά"
-
-#~ msgid "English"
-#~ msgstr "Αγγλικά"
-
-#~ msgid "French"
-#~ msgstr "Γαλλικά"
-
-#~ msgid "German"
-#~ msgstr "Γερμανικά"
-
-#~ msgid "Italian"
-#~ msgstr "Ιταλικά"
-
-#~ msgid "Red Hat Enterprise Linux 3 Documentation"
-#~ msgstr "Τεκμηρίωση Red Hat Enterprise Linux 3"
-
-#~ msgid "Spanish"
-#~ msgstr "Ισπανικά"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Brazilian Portuguese language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην Βραζιλιάνικη Πορτογαλική γλώσσα."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "English language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην Αγγλική γλώσσα."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "French language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux στη "
-#~ "Γαλλική γλώσσα."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "German language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux στη "
-#~ "Γερμανική γλώσσα."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Italian language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην Ιταλική γλώσσα."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Spanish language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην Ισπανική γλώσσα."
-
-#~ msgid "Japanese"
-#~ msgstr "Γιαπωνέζικα"
-
-#~ msgid "Korean"
-#~ msgstr "Κορεάτικα"
-
-#~ msgid "Simplified Chinese"
-#~ msgstr "Απλοποιημένα Κινέζικα"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Japanese language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην Γιαπωνέζικη γλώσσα."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Korean language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην Κορεάτικη γλώσσα."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Simplified Chinese language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην απλοποιημένη Κινέζικη γλώσσα."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Traditional Chinese language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην παραδοσιακή Κινεζική γλώσσα."
-
-#~ msgid "Traditional Chinese"
-#~ msgstr "Παραδοσιακά Κινέζικα"
-
-#~ msgid "ppc64 Compatibility Arch Development Support"
-#~ msgstr "ppc64 Υποστήριξη συμβατότητας ανάπτυξης αρχιτεκτονικής"
-
-#~ msgid "Bengali"
-#~ msgstr "Μπενγκάλι"
-
-#~ msgid "Gujarati"
-#~ msgstr "Γκουγιαράτι"
-
-#~ msgid "Hindi"
-#~ msgstr "Χίντι"
-
-#~ msgid "Punjabi"
-#~ msgstr "Παντζαμπινά"
-
-#~ msgid "Red Hat Enterprise Linux 4 Documentation"
-#~ msgstr "Τεκμηρίωση Red Hat Enterprise Linux 4"
-
-#~ msgid "Tamil"
-#~ msgstr "Ταμιλική"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Bengali language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην γλώσσα Βεγγάλης."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Gujarati language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην γλώσσα Gujarati."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Hindi language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην Χίντι γλώσσα."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Punjabi language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην γλώσσα Punjabi."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Tamil language."
-#~ msgstr ""
-#~ "Αυτή η ομάδα περιλαμβάνει την τεκμηρίωση του Red Hat Enterprise Linux "
-#~ "στην Ταμιλική γλώσσα."
-
-#~ msgid "Cluster Storage"
-#~ msgstr "Αποθήκευση σε συστοιχία"
-
-#~ msgid "Clustering Support."
-#~ msgstr "Υποστήριξη συστοίχισης."
-
-#~ msgid "Packages which provide support for cluster storage."
-#~ msgstr "Πακέτα τα οποία παρέχουν υποστήριξη για αποθήκευση σε συστοιχία."
-
-#~ msgid "Packages which provide support for single-node GFS."
-#~ msgstr "Πακέτα τα οποία παρέχουν υποστήριξη για GFS ενός-κόμβου."
-
-#~ msgid "Single Node GFS Support"
-#~ msgstr "Υποστήριξη GFS ενός κόμβου"
-
-#~ msgid "These packages provide compatibility support with previous releases."
-#~ msgstr ""
-#~ "Τα πακέτα αυτά παρέχουν υποστήριξη συμβατότητας για προηγούμενες εκδόσεις."
-
-#~ msgid "Java Runtime Environments and Development Kits"
-#~ msgstr "Περιβάλλοντα Java Runtime και Development Kits"
-
-#~ msgid "Misc"
-#~ msgstr "Διάφορα"
-
-#~ msgid "Misc packages"
-#~ msgstr "Διάφορα πακέτα"
-
-#~ msgid "Multimedia"
-#~ msgstr "Πολυμέσα"
-
-#~ msgid "Multimedia applications"
-#~ msgstr "Εφαρμογές πολυμέσων"
-
-#~ msgid ""
-#~ "Packages which provide additional functionality for Red Hat Enterprise "
-#~ "Linux"
-#~ msgstr ""
-#~ "Πακέτα τα οποία παρέχουν επιπλέον λειτουργικότητα για το Red Hat "
-#~ "Enterprise Linux"
-
-#~ msgid "Red Hat Enterprise Linux Extras"
-#~ msgstr "Red Hat Enterprise Linux Extras"
-
-#~ msgid "Workstation"
-#~ msgstr "Σταθμός εργασίας"
-
-#~ msgid "Workstation applications and utilities."
-#~ msgstr "Εφαρμογές και εργαλεία σταθμού εργασίας."
-
-#~ msgid "Virtualization Support."
-#~ msgstr "Υποστήριξη εικονικοποίησης."
-
-#~ msgid "Compatibility Arch"
-#~ msgstr "Υποστήριξη συμβατότητας αρχιτεκτονικής"
-
-#~ msgid "Compatibility Arch Libraries"
-#~ msgstr "Βιβλιοθήκες υποστήριξης συμβατότητας αρχιτεκτονικής"
-
-#~ msgid "Multilib library packages"
-#~ msgstr "Πακέτα βιβλιοθήκης Multilib"
-
-#~ msgid ""
-#~ "Packages which provide functionality for the compatibility architecture."
-#~ msgstr ""
-#~ "Πακέτα τα οποία παρέχουν λειτουργικότητα για την αρχιτεκτονική "
-#~ "συμβατότητας."
-
-#~ msgid "IBM eServer iSeries/pSeries Provided Software"
-#~ msgstr "Λογισμικό παρεχόμενο για IBM eServer iSeries/pSeries"
-
-#~ msgid "Software provided by IBM for eServer iSeries and pSeries machines"
-#~ msgstr ""
-#~ "Λογισμικό το οποίο παρέχεται από την IBM για τις μηχανές eServer iSeries "
-#~ "και pSeries"
-
-#~ msgid "HPC"
-#~ msgstr "HPC"
-
-#~ msgid "High Performance Computing Support"
-#~ msgstr "Υποστήριξη υπολογιστικών συστημάτων υψηλής επίδοσης"
-
-#~ msgid ""
-#~ "These packages provide the kernel and userspace tools needed for using "
-#~ "the Xen virtual machine monitor"
-#~ msgstr ""
-#~ "Αυτά τα πακέτα παρέχουν τον πυρήνα και τα εργαλεία χώρου χρηστών που "
-#~ "απαιτούνται για τη χρήση του επόπτη εικονικών μηχανών Xen"
-
-#~ msgid "Xen"
-#~ msgstr "Xen"
