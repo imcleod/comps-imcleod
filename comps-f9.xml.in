@@ -2171,7 +2171,7 @@
       <packagereq type="conditional" requires="stardict">stardict-dic-ja</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-anthy</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-japanese</packagereq>
-      <packagereq type="optional">anthy</packagereq>
+      <packagereq type="optional">anthy-el</packagereq>
       <packagereq type="optional">cmigemo</packagereq>
       <packagereq type="optional">ddskk</packagereq>
       <packagereq type="optional">ddskk-xemacs</packagereq>
@@ -2188,6 +2188,9 @@
       <packagereq type="optional">nkf</packagereq>
       <packagereq type="optional">perl-NKF</packagereq>
       <packagereq type="optional">scim-skk</packagereq>
+      <packagereq type="optional">uim-anthy</packagereq>
+      <packagereq type="optional">uim-canna</packagereq>
+      <packagereq type="optional">uim-skk</packagereq>
       <packagereq type="optional">VLGothic-fonts</packagereq>
     </packagelist>
   </group>
