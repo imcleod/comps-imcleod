@@ -677,9 +677,9 @@
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-chinese</packagereq>
-      <packagereq type="optional">stardict</packagereq>
-      <packagereq type="conditional" requires="stardict">stardict-dic-zh_CN</packagereq>
-      <packagereq type="conditional" requires="stardict">stardict-dic-zh_TW</packagereq>
+      <packagereq type="optional">scim-array</packagereq>
+      <packagereq type="optional">stardict-dic-zh_CN</packagereq>
+      <packagereq type="optional">stardict-dic-zh_TW</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1724,6 +1724,7 @@
       <packagereq type="optional">scim-input-pad</packagereq>
       <packagereq type="optional">scim-tomoe</packagereq>
       <packagereq type="optional">seahorse</packagereq>
+      <packagereq type="optional">stardict-dict-en</packagereq>
       <packagereq type="optional">tango-icon-theme</packagereq>
       <packagereq type="optional">tango-icon-theme-extras</packagereq>
       <packagereq type="optional">themes-backgrounds-gnome</packagereq>
@@ -2171,7 +2172,6 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ja</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ja</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ja_JP</packagereq>
-      <packagereq type="conditional" requires="stardict">stardict-dic-ja</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-anthy</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-japanese</packagereq>
       <packagereq type="optional">anthy-el</packagereq>
@@ -2191,6 +2191,7 @@
       <packagereq type="optional">nkf</packagereq>
       <packagereq type="optional">perl-NKF</packagereq>
       <packagereq type="optional">scim-skk</packagereq>
+      <packagereq type="optional">stardict-dic-ja</packagereq>
       <packagereq type="optional">uim-anthy</packagereq>
       <packagereq type="optional">uim-canna</packagereq>
       <packagereq type="optional">uim-skk</packagereq>
@@ -3062,12 +3063,12 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ru</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ru</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
-      <packagereq type="conditional" requires="stardict">stardict-dic-ru</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-cyrillic</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">m17n-contrib-russian</packagereq>
       <packagereq type="optional">m17n-db-russian</packagereq>
       <packagereq type="optional">scim-tables-russian</packagereq>
+      <packagereq type="optional">stardict-dic-ru</packagereq>
     </packagelist>
   </group>
   <group>
