@@ -1642,6 +1642,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">control-center</packagereq>
+      <packagereq type="mandatory">fedora-gnome-theme</packagereq>
       <packagereq type="mandatory">gnome-applets</packagereq>
       <packagereq type="mandatory">gnome-panel</packagereq>
       <packagereq type="mandatory">gnome-session</packagereq>
@@ -2379,6 +2380,7 @@
       <packagereq type="conditional" requires="scim">scim-qtimm</packagereq>
       <packagereq type="default">amarok</packagereq>
       <packagereq type="default">digikam</packagereq>
+      <packagereq type="default">fedorainfinity-kdm-theme</packagereq>
       <packagereq type="default">gpgme</packagereq>
       <packagereq type="default">kaffeine</packagereq>
       <packagereq type="default">kdeaccessibility</packagereq>
@@ -2397,7 +2399,6 @@
       <packagereq type="default">kpowersave</packagereq>
       <packagereq type="default">ktorrent</packagereq>
       <packagereq type="default">pinentry-qt</packagereq>
-      <packagereq type="default">redhat-artwork-kde</packagereq>
       <packagereq type="default">scribus</packagereq>
       <packagereq type="default">xdg-user-dirs</packagereq>
       <packagereq type="default">xdg-utils</packagereq>
