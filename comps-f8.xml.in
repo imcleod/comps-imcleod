@@ -275,9 +275,6 @@
       <packagereq type="optional">ksh</packagereq>
       <packagereq type="optional">mkbootdisk</packagereq>
       <packagereq type="optional">mtools</packagereq>
-      <packagereq type="optional">netconfig</packagereq>
-      <packagereq type="optional">netdump</packagereq>
-      <packagereq type="optional">openCryptoki</packagereq>
       <packagereq type="optional">pax</packagereq>
       <packagereq type="optional">readahead</packagereq>
       <packagereq type="optional">reiserfs-utils</packagereq>
@@ -1484,7 +1481,6 @@
       <packagereq type="optional">gl-117</packagereq>
       <packagereq type="optional">glaxium</packagereq>
       <packagereq type="optional">glest</packagereq>
-      <packagereq type="optional">gnofract4d</packagereq>
       <packagereq type="optional">gnubg</packagereq>
       <packagereq type="optional">gnuchess</packagereq>
       <packagereq type="optional">gnugo</packagereq>
@@ -1715,10 +1711,8 @@
       <packagereq type="optional">gnome-netstatus</packagereq>
       <packagereq type="optional">gnome-pilot-conduits</packagereq>
       <packagereq type="optional">gnome-theme-clearlooks-bigpack</packagereq>
-      <packagereq type="optional">gnome-themes-extras</packagereq>
       <packagereq type="optional">gnotime</packagereq>
       <packagereq type="optional">gtweakui</packagereq>
-      <packagereq type="optional">hal-gnome</packagereq>
       <packagereq type="optional">im-chooser</packagereq>
       <packagereq type="optional">istanbul</packagereq>
       <packagereq type="optional">lock-keys-applet</packagereq>
@@ -1733,7 +1727,7 @@
       <packagereq type="optional">scim-input-pad</packagereq>
       <packagereq type="optional">scim-tomoe</packagereq>
       <packagereq type="optional">seahorse</packagereq>
-      <packagereq type="optional">stardict-dict-en</packagereq>
+      <packagereq type="optional">stardict-dic-en</packagereq>
       <packagereq type="optional">tango-icon-theme</packagereq>
       <packagereq type="optional">tango-icon-theme-extras</packagereq>
       <packagereq type="optional">themes-backgrounds-gnome</packagereq>
@@ -1892,10 +1886,8 @@
       <packagereq type="optional">prozilla</packagereq>
       <packagereq type="optional">psi</packagereq>
       <packagereq type="optional">putty</packagereq>
-      <packagereq type="optional">screem</packagereq>
       <packagereq type="optional">streamtuner</packagereq>
       <packagereq type="optional">sylpheed</packagereq>
-      <packagereq type="optional">sylpheed-claws</packagereq>
       <packagereq type="optional">thunderbird</packagereq>
       <packagereq type="optional">twinkle</packagereq>
       <packagereq type="optional">urlgfe</packagereq>
@@ -2569,11 +2561,9 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq basearchonly="true" type="default">compat-gcc</packagereq>
-      <packagereq basearchonly="true" type="default">compat-gcc-32</packagereq>
-      <packagereq basearchonly="true" type="default">compat-gcc-32-c++</packagereq>
-      <packagereq basearchonly="true" type="default">compat-gcc-32-g77</packagereq>
-      <packagereq basearchonly="true" type="default">compat-libstdc++</packagereq>
+      <packagereq basearchonly="true" type="default">compat-gcc-34</packagereq>
+      <packagereq basearchonly="true" type="default">compat-gcc-34-c++</packagereq>
+      <packagereq basearchonly="true" type="default">compat-gcc-34-g77</packagereq>
       <packagereq basearchonly="true" type="default">compat-libstdc++-296</packagereq>
       <packagereq basearchonly="true" type="default">compat-libstdc++-33</packagereq>
     </packagelist>
@@ -2590,8 +2580,6 @@
       <packagereq type="default">compat-libstdc++-33</packagereq>
       <packagereq type="optional">compat-db</packagereq>
       <packagereq type="optional">compat-openldap</packagereq>
-      <packagereq type="optional">compat-readline43</packagereq>
-      <packagereq type="optional">compat-slang</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2635,7 +2623,6 @@
       <packagereq type="optional">clamav</packagereq>
       <packagereq type="optional">clamav-data</packagereq>
       <packagereq type="optional">clamav-milter</packagereq>
-      <packagereq type="optional">clement</packagereq>
       <packagereq type="optional">crm114</packagereq>
       <packagereq type="optional">cyrus-imapd</packagereq>
       <packagereq type="optional">dbmail</packagereq>
@@ -2790,13 +2777,10 @@
       <packagereq type="optional">koan</packagereq>
       <packagereq type="optional">krb5-server</packagereq>
       <packagereq type="optional">netatalk</packagereq>
-      <packagereq type="optional">netdump-server</packagereq>
       <packagereq type="optional">nsd</packagereq>
       <packagereq type="optional">oidentd</packagereq>
       <packagereq type="optional">openldap-servers</packagereq>
-      <packagereq type="optional">openpbx</packagereq>
       <packagereq type="optional">openswan</packagereq>
-      <packagereq type="optional">orts</packagereq>
       <packagereq type="optional">privoxy</packagereq>
       <packagereq type="optional">puppet-server</packagereq>
       <packagereq type="optional">quagga</packagereq>
@@ -3381,7 +3365,6 @@
       <packagereq type="optional">postgresql-docs</packagereq>
       <packagereq type="optional">postgresql-jdbc</packagereq>
       <packagereq type="optional">postgresql-odbc</packagereq>
-      <packagereq type="optional">postgresql-pl</packagereq>
       <packagereq type="optional">postgresql-tcl</packagereq>
       <packagereq type="optional">postgresql-test</packagereq>
       <packagereq type="optional">qt-ODBC</packagereq>
@@ -3470,7 +3453,6 @@
       <packagereq type="optional">crack</packagereq>
       <packagereq type="optional">crash</packagereq>
       <packagereq type="optional">createrepo</packagereq>
-      <packagereq type="optional">csync2</packagereq>
       <packagereq type="optional">dar</packagereq>
       <packagereq type="optional">denyhosts</packagereq>
       <packagereq type="optional">dkms</packagereq>
@@ -3866,7 +3848,6 @@
       <packagereq type="default">php-ldap</packagereq>
       <packagereq type="default">php-mysql</packagereq>
       <packagereq type="default">squid</packagereq>
-      <packagereq type="default">tux</packagereq>
       <packagereq type="default">webalizer</packagereq>
       <packagereq type="optional">apachetop</packagereq>
       <packagereq type="optional">awstats</packagereq>
