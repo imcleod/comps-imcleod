@@ -308,23 +308,22 @@
       <packagereq type="default">cjkunifonts-uming</packagereq>
       <packagereq type="default">dejavu-lgc-fonts</packagereq>
       <packagereq type="default">firstboot</packagereq>
-      <packagereq type="default">fonts-arabic</packagereq>
+      <packagereq type="default">gdm</packagereq>
+      <packagereq type="default">glx-utils</packagereq>
+      <packagereq type="default">jomolhari-fonts</packagereq>
+      <packagereq type="default">kacst-fonts</packagereq>
+      <packagereq type="default">krb5-auth-dialog</packagereq>
+      <packagereq type="default">liberation-fonts</packagereq>
       <packagereq type="default">lohit-fonts-bengali</packagereq>
       <packagereq type="default">lohit-fonts-gujarati</packagereq>
-      <packagereq type="default">fonts-hebrew</packagereq>
       <packagereq type="default">lohit-fonts-hindi</packagereq>
       <packagereq type="default">lohit-fonts-kannada</packagereq>
       <packagereq type="default">lohit-fonts-oriya</packagereq>
       <packagereq type="default">lohit-fonts-punjabi</packagereq>
-      <packagereq type="default">fonts-sinhala</packagereq>
       <packagereq type="default">lohit-fonts-tamil</packagereq>
       <packagereq type="default">lohit-fonts-telugu</packagereq>
-      <packagereq type="default">gdm</packagereq>
-      <packagereq type="default">glx-utils</packagereq>
-      <packagereq type="default">jomolhari-fonts</packagereq>
-      <packagereq type="default">krb5-auth-dialog</packagereq>
-      <packagereq type="default">liberation-fonts</packagereq>
       <packagereq type="default">openssh-askpass</packagereq>
+      <packagereq type="default">paktype-fonts</packagereq>
       <packagereq type="default">pirut</packagereq>
       <packagereq type="default">policycoreutils-gui</packagereq>
       <packagereq type="default">rhgb</packagereq>
@@ -348,9 +347,7 @@
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">devilspie</packagereq>
-      <packagereq type="optional">fonts-chinese</packagereq>
       <packagereq type="optional">fonts-japanese</packagereq>
-      <packagereq type="optional">fonts-korean</packagereq>
       <packagereq type="optional">freefont</packagereq>
       <packagereq type="optional">lineak-defaultplugin</packagereq>
       <packagereq type="optional">lineak-xosdplugin</packagereq>
@@ -393,7 +390,9 @@
       <packagereq type="default">baekmuk-ttf-fonts-gulim</packagereq>
       <packagereq type="default">cjkunifonts-uming</packagereq>
       <packagereq type="default">dejavu-lgc-fonts</packagereq>
-      <packagereq type="default">fonts-arabic</packagereq>
+      <packagereq type="default">jomolhari-fonts</packagereq>
+      <packagereq type="default">liberation-fonts</packagereq>
+      <packagereq type="default">lklug-fonts</packagereq>
       <packagereq type="default">lohit-fonts-bengali</packagereq>
       <packagereq type="default">lohit-fonts-gujarati</packagereq>
       <packagereq type="default">lohit-fonts-hindi</packagereq>
@@ -401,11 +400,8 @@
       <packagereq type="default">lohit-fonts-malayalam</packagereq>
       <packagereq type="default">lohit-fonts-oriya</packagereq>
       <packagereq type="default">lohit-fonts-punjabi</packagereq>
-      <packagereq type="default">fonts-sinhala</packagereq>
       <packagereq type="default">lohit-fonts-tamil</packagereq>
       <packagereq type="default">lohit-fonts-telugu</packagereq>
-      <packagereq type="default">jomolhari-fonts</packagereq>
-      <packagereq type="default">liberation-fonts</packagereq>
       <packagereq type="default">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-dotum</packagereq>
@@ -416,9 +412,11 @@
       <packagereq type="optional">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">doulos-fonts</packagereq>
+      <packagereq type="optional">fonts-arabic</packagereq>
       <packagereq type="optional">fonts-chinese</packagereq>
       <packagereq type="optional">fonts-japanese</packagereq>
       <packagereq type="optional">fonts-korean</packagereq>
+      <packagereq type="optional">fonts-sinhala</packagereq>
       <packagereq type="optional">fonts-truetype-apl</packagereq>
       <packagereq type="optional">freefont</packagereq>
       <packagereq type="optional">gentium-fonts</packagereq>
@@ -441,7 +439,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">bitmap-fonts</packagereq>
-      <packagereq type="default">fonts-hebrew</packagereq>
       <packagereq type="default">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-misc</packagereq>
@@ -450,6 +447,7 @@
       <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
       <packagereq type="optional">bitmap-fonts-cjk</packagereq>
+      <packagereq type="optional">culmus-fonts</packagereq>
       <packagereq type="optional">efont-unicode-bdf</packagereq>
       <packagereq type="optional">fonts-hebrew-fancy</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
