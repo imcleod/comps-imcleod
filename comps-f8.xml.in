@@ -169,6 +169,7 @@
       <packagereq type="mandatory">traceroute</packagereq>
       <packagereq type="mandatory">vixie-cron</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
+      <packagereq type="default">acpid</packagereq>
       <packagereq type="default">anacron</packagereq>
       <packagereq type="default">aspell</packagereq>
       <packagereq type="default">aspell-en</packagereq>
@@ -261,7 +262,6 @@
       <packagereq type="default">yum</packagereq>
       <packagereq type="default">yum-updatesd</packagereq>
       <packagereq type="default">zip</packagereq>
-      <packagereq type="optional">acpid</packagereq>
       <packagereq type="optional">apmd</packagereq>
       <packagereq type="optional">authd</packagereq>
       <packagereq type="optional">bridge-utils</packagereq>
