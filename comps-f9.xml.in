@@ -379,7 +379,7 @@
       <packagereq type="default">lohit-fonts-tamil</packagereq>
       <packagereq type="default">lohit-fonts-telugu</packagereq>
       <packagereq type="default">paktype-fonts</packagereq>
-      <packagereq type="default">sazanami-fonts-gothic</packagereq>
+      <packagereq type="default">VLGothic-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-dotum</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-hline</packagereq>
@@ -401,9 +401,9 @@
       <packagereq type="optional">linux-libertine-fonts</packagereq>
       <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">mgopen-fonts</packagereq>
+      <packagereq type="optional">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">sazanami-fonts-mincho</packagereq>
       <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
-      <packagereq type="optional">VLGothic-fonts</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
       <packagereq type="optional">xorg-x11-fonts-syriac</packagereq>
     </packagelist>
@@ -2163,6 +2163,7 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ja_JP</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-anthy</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-japanese</packagereq>
+      <packagereq type="default">VLGothic-fonts</packagereq>
       <packagereq type="optional">anthy-el</packagereq>
       <packagereq type="optional">cmigemo</packagereq>
       <packagereq type="optional">ddskk</packagereq>
@@ -2184,7 +2185,6 @@
       <packagereq type="optional">uim-anthy</packagereq>
       <packagereq type="optional">uim-canna</packagereq>
       <packagereq type="optional">uim-skk</packagereq>
-      <packagereq type="optional">VLGothic-fonts</packagereq>
     </packagelist>
   </group>
   <group>
