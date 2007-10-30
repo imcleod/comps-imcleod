@@ -390,11 +390,6 @@
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">dejavu-lgc-fonts</packagereq>
       <packagereq type="optional">doulos-fonts</packagereq>
-      <packagereq type="optional">fonts-arabic</packagereq>
-      <packagereq type="optional">fonts-chinese</packagereq>
-      <packagereq type="optional">fonts-japanese</packagereq>
-      <packagereq type="optional">fonts-korean</packagereq>
-      <packagereq type="optional">fonts-sinhala</packagereq>
       <packagereq type="optional">fonts-truetype-apl</packagereq>
       <packagereq type="optional">freefont</packagereq>
       <packagereq type="optional">gentium-fonts</packagereq>
@@ -428,6 +423,7 @@
       <packagereq type="optional">culmus-fonts</packagereq>
       <packagereq type="optional">efont-unicode-bdf</packagereq>
       <packagereq type="optional">fonts-hebrew-fancy</packagereq>
+      <packagereq type="optional">fonts-japanese</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -490,7 +486,7 @@
     <uservisible>false</uservisible>
     <langonly>bn</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-bengali</packagereq>
+      <packagereq type="mandatory">lohit-fonts-bengali</packagereq>
       <packagereq type="mandatory">m17n-contrib-bengali</packagereq>
       <packagereq type="mandatory">m17n-db-bengali</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-bn</packagereq>
@@ -635,7 +631,6 @@
     <uservisible>false</uservisible>
     <langonly>zh</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Chinese-Big5</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-zh_CN</packagereq>
@@ -648,6 +643,8 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-chinese</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-pinyin</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-chinese</packagereq>
+      <packagereq type="default">cjkunifonts-fonts-ukai</packagereq>
+      <packagereq type="default">cjkunifonts-fonts-uming</packagereq>
       <packagereq type="default">wqy-bitmap-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">lv</packagereq>
@@ -655,6 +652,7 @@
       <packagereq type="optional">scim-array</packagereq>
       <packagereq type="optional">stardict-dic-zh_CN</packagereq>
       <packagereq type="optional">stardict-dic-zh_TW</packagereq>
+      <packagereq type="optional">taipeifonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1967,7 +1965,7 @@
     <uservisible>false</uservisible>
     <langonly>gu</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-gujarati</packagereq>
+      <packagereq type="mandatory">lohit-fonts-gujarati</packagereq>
       <packagereq type="mandatory">m17n-contrib-gujarati</packagereq>
       <packagereq type="mandatory">m17n-db-gujarati</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-gu</packagereq>
