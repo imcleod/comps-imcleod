@@ -203,7 +203,6 @@
       <packagereq type="default">man-pages</packagereq>
       <packagereq type="default">mcelog</packagereq>
       <packagereq type="default">mdadm</packagereq>
-      <packagereq type="optional">mgetty</packagereq>
       <packagereq type="default">microcode_ctl</packagereq>
       <packagereq type="default">mlocate</packagereq>
       <packagereq type="default">mtr</packagereq>
@@ -273,6 +272,7 @@
       <packagereq type="optional">jfsutils</packagereq>
       <packagereq type="optional">kexec-tools</packagereq>
       <packagereq type="optional">ksh</packagereq>
+      <packagereq type="optional">mgetty</packagereq>
       <packagereq type="optional">mkbootdisk</packagereq>
       <packagereq type="optional">mtools</packagereq>
       <packagereq type="optional">pax</packagereq>
@@ -378,107 +378,6 @@
       <packagereq type="optional">xscreensaver-base</packagereq>
       <packagereq type="optional">xscreensaver-extras</packagereq>
       <packagereq type="optional">xscreensaver-gl-extras</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>fonts</id>
-    <_name>Fonts</_name>
-    <_description>Fonts packages for rendering text on the desktop.</_description>
-    <default>true</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="default">baekmuk-ttf-fonts-gulim</packagereq>
-      <packagereq type="default">cjkunifonts-uming</packagereq>
-      <packagereq type="default">dejavu-lgc-fonts</packagereq>
-      <packagereq type="default">jomolhari-fonts</packagereq>
-      <packagereq type="default">kacst-fonts</packagereq>
-      <packagereq type="default">liberation-fonts</packagereq>
-      <packagereq type="default">lklug-fonts</packagereq>
-      <packagereq type="default">lohit-fonts-bengali</packagereq>
-      <packagereq type="default">lohit-fonts-gujarati</packagereq>
-      <packagereq type="default">lohit-fonts-hindi</packagereq>
-      <packagereq type="default">lohit-fonts-kannada</packagereq>
-      <packagereq type="default">lohit-fonts-malayalam</packagereq>
-      <packagereq type="default">lohit-fonts-oriya</packagereq>
-      <packagereq type="default">lohit-fonts-punjabi</packagereq>
-      <packagereq type="default">lohit-fonts-tamil</packagereq>
-      <packagereq type="default">lohit-fonts-telugu</packagereq>
-      <packagereq type="default">paktype-fonts</packagereq>
-      <packagereq type="default">sazanami-fonts-gothic</packagereq>
-      <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
-      <packagereq type="optional">baekmuk-ttf-fonts-dotum</packagereq>
-      <packagereq type="optional">baekmuk-ttf-fonts-hline</packagereq>
-      <packagereq type="optional">bitstream-vera-fonts</packagereq>
-      <packagereq type="optional">charis-fonts</packagereq>
-      <packagereq type="optional">cjkunifonts-ukai</packagereq>
-      <packagereq type="optional">dejavu-fonts</packagereq>
-      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
-      <packagereq type="optional">doulos-fonts</packagereq>
-      <packagereq type="optional">fonts-arabic</packagereq>
-      <packagereq type="optional">fonts-chinese</packagereq>
-      <packagereq type="optional">fonts-japanese</packagereq>
-      <packagereq type="optional">fonts-korean</packagereq>
-      <packagereq type="optional">fonts-sinhala</packagereq>
-      <packagereq type="optional">fonts-truetype-apl</packagereq>
-      <packagereq type="optional">freefont</packagereq>
-      <packagereq type="optional">gentium-fonts</packagereq>
-      <packagereq type="optional">hunky-fonts</packagereq>
-      <packagereq type="optional">linux-libertine-fonts</packagereq>
-      <packagereq type="optional">mathml-fonts</packagereq>
-      <packagereq type="optional">mgopen-fonts</packagereq>
-      <packagereq type="optional">sazanami-fonts-mincho</packagereq>
-      <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
-      <packagereq type="optional">VLGothic-fonts</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-syriac</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>legacy-fonts</id>
-    <_name>Legacy Fonts</_name>
-    <_description>Older bitmap and vector fonts packages</_description>
-    <default>true</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="default">bitmap-fonts</packagereq>
-      <packagereq type="default">xorg-x11-fonts-100dpi</packagereq>
-      <packagereq type="default">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
-      <packagereq type="default">xorg-x11-fonts-misc</packagereq>
-      <packagereq type="default">xorg-x11-fonts-truetype</packagereq>
-      <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
-      <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
-      <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
-      <packagereq type="optional">bitmap-fonts-cjk</packagereq>
-      <packagereq type="optional">culmus-fonts</packagereq>
-      <packagereq type="optional">efont-unicode-bdf</packagereq>
-      <packagereq type="optional">fonts-hebrew-fancy</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
-      <packagereq type="optional">fonts-KOI8-R</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
-      <packagereq type="optional">fonts-x11-apl</packagereq>
-      <packagereq type="optional">ghostscript-fonts</packagereq>
-      <packagereq type="optional">libdockapp-fonts</packagereq>
-      <packagereq type="optional">taipeifonts</packagereq>
-      <packagereq type="optional">terminus-font-console</packagereq>
-      <packagereq type="optional">terminus-font-x11</packagereq>
-      <packagereq type="optional">urw-fonts</packagereq>
-      <packagereq type="optional">wqy-bitmap-fonts</packagereq>
-      <packagereq type="optional">wqy-unibit-fonts</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-75dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-1-75dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-2-75dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-14-100dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-14-75dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-15-100dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-15-75dpi</packagereq>
-      <packagereq type="optional">zvbi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1349,6 +1248,59 @@
     </packagelist>
   </group>
   <group>
+    <id>fonts</id>
+    <_name>Fonts</_name>
+    <_description>Fonts packages for rendering text on the desktop.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">baekmuk-ttf-fonts-gulim</packagereq>
+      <packagereq type="default">cjkunifonts-uming</packagereq>
+      <packagereq type="default">dejavu-lgc-fonts</packagereq>
+      <packagereq type="default">jomolhari-fonts</packagereq>
+      <packagereq type="default">kacst-fonts</packagereq>
+      <packagereq type="default">liberation-fonts</packagereq>
+      <packagereq type="default">lklug-fonts</packagereq>
+      <packagereq type="default">lohit-fonts-bengali</packagereq>
+      <packagereq type="default">lohit-fonts-gujarati</packagereq>
+      <packagereq type="default">lohit-fonts-hindi</packagereq>
+      <packagereq type="default">lohit-fonts-kannada</packagereq>
+      <packagereq type="default">lohit-fonts-malayalam</packagereq>
+      <packagereq type="default">lohit-fonts-oriya</packagereq>
+      <packagereq type="default">lohit-fonts-punjabi</packagereq>
+      <packagereq type="default">lohit-fonts-tamil</packagereq>
+      <packagereq type="default">lohit-fonts-telugu</packagereq>
+      <packagereq type="default">paktype-fonts</packagereq>
+      <packagereq type="default">sazanami-fonts-gothic</packagereq>
+      <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
+      <packagereq type="optional">baekmuk-ttf-fonts-dotum</packagereq>
+      <packagereq type="optional">baekmuk-ttf-fonts-hline</packagereq>
+      <packagereq type="optional">bitstream-vera-fonts</packagereq>
+      <packagereq type="optional">charis-fonts</packagereq>
+      <packagereq type="optional">cjkunifonts-ukai</packagereq>
+      <packagereq type="optional">dejavu-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+      <packagereq type="optional">doulos-fonts</packagereq>
+      <packagereq type="optional">fonts-arabic</packagereq>
+      <packagereq type="optional">fonts-chinese</packagereq>
+      <packagereq type="optional">fonts-japanese</packagereq>
+      <packagereq type="optional">fonts-korean</packagereq>
+      <packagereq type="optional">fonts-sinhala</packagereq>
+      <packagereq type="optional">fonts-truetype-apl</packagereq>
+      <packagereq type="optional">freefont</packagereq>
+      <packagereq type="optional">gentium-fonts</packagereq>
+      <packagereq type="optional">hunky-fonts</packagereq>
+      <packagereq type="optional">linux-libertine-fonts</packagereq>
+      <packagereq type="optional">mathml-fonts</packagereq>
+      <packagereq type="optional">mgopen-fonts</packagereq>
+      <packagereq type="optional">sazanami-fonts-mincho</packagereq>
+      <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
+      <packagereq type="optional">VLGothic-fonts</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-syriac</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>french-support</id>
     <_name>French Support</_name>
     <_description/>
@@ -1651,8 +1603,8 @@
       <packagereq type="mandatory">yelp</packagereq>
       <packagereq type="default">alacarte</packagereq>
       <packagereq type="default">at-spi</packagereq>
-      <packagereq type="default">bug-buddy</packagereq>
       <packagereq type="default">bluez-gnome</packagereq>
+      <packagereq type="default">bug-buddy</packagereq>
       <packagereq type="default">compiz-gnome</packagereq>
       <packagereq type="default">eog</packagereq>
       <packagereq type="default">evince</packagereq>
@@ -1935,8 +1887,8 @@
       <packagereq type="optional">gutenprint-plugin</packagereq>
       <packagereq type="optional">gv</packagereq>
       <packagereq type="optional">gwenview</packagereq>
-      <packagereq type="optional">ImageMagick</packagereq>
       <packagereq type="optional">hugin</packagereq>
+      <packagereq type="optional">ImageMagick</packagereq>
       <packagereq type="optional">inkscape</packagereq>
       <packagereq type="optional">ipe</packagereq>
       <packagereq type="optional">k3d</packagereq>
@@ -2193,8 +2145,8 @@
       <packagereq type="optional">ddskk-xemacs</packagereq>
       <packagereq type="optional">eblook</packagereq>
       <packagereq type="optional">jfbterm</packagereq>
-      <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">kcc</packagereq>
+      <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-japanese</packagereq>
       <packagereq type="optional">mecab</packagereq>
@@ -2219,9 +2171,9 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">java-1.5.0-gcj</packagereq>
+      <packagereq type="mandatory">libgcj</packagereq>
       <packagereq type="default">java-1.7.0-icedtea</packagereq>
       <packagereq type="default">java-1.7.0-icedtea-plugin</packagereq>
-      <packagereq type="mandatory">libgcj</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2544,6 +2496,54 @@
     <packagelist>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-lv</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-lv</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>legacy-fonts</id>
+    <_name>Legacy Fonts</_name>
+    <_description>Older bitmap and vector fonts packages</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">bitmap-fonts</packagereq>
+      <packagereq type="default">xorg-x11-fonts-100dpi</packagereq>
+      <packagereq type="default">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
+      <packagereq type="default">xorg-x11-fonts-misc</packagereq>
+      <packagereq type="default">xorg-x11-fonts-truetype</packagereq>
+      <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
+      <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
+      <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
+      <packagereq type="optional">bitmap-fonts-cjk</packagereq>
+      <packagereq type="optional">culmus-fonts</packagereq>
+      <packagereq type="optional">efont-unicode-bdf</packagereq>
+      <packagereq type="optional">fonts-hebrew-fancy</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">fonts-KOI8-R</packagereq>
+      <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
+      <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
+      <packagereq type="optional">fonts-x11-apl</packagereq>
+      <packagereq type="optional">ghostscript-fonts</packagereq>
+      <packagereq type="optional">libdockapp-fonts</packagereq>
+      <packagereq type="optional">taipeifonts</packagereq>
+      <packagereq type="optional">terminus-font-console</packagereq>
+      <packagereq type="optional">terminus-font-x11</packagereq>
+      <packagereq type="optional">urw-fonts</packagereq>
+      <packagereq type="optional">wqy-bitmap-fonts</packagereq>
+      <packagereq type="optional">wqy-unibit-fonts</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-75dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-1-75dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-14-100dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-14-75dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-15-100dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-15-75dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-2-100dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
+      <packagereq type="optional">zvbi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2998,6 +2998,7 @@
       <packagereq type="mandatory">cups</packagereq>
       <packagereq type="mandatory">ghostscript</packagereq>
       <packagereq type="default">a2ps</packagereq>
+      <packagereq type="default">bluez-utils-cups</packagereq>
       <packagereq type="default">enscript</packagereq>
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-foomatic</packagereq>
@@ -3007,7 +3008,6 @@
       <packagereq type="default">mpage</packagereq>
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">system-config-printer</packagereq>
-      <packagereq type="default">bluez-utils-cups</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3103,8 +3103,8 @@
     <packagelist>
       <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-sr</packagereq>
-      <packagereq type="conditional" requires="gcompris">gcompris-sound-sr</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
+      <packagereq type="conditional" requires="gcompris">gcompris-sound-sr</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Serbian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr-Latn</packagereq>
@@ -3219,8 +3219,10 @@
     <packagelist>
       <packagereq type="mandatory">alsa-utils</packagereq>
       <packagereq type="mandatory">vorbis-tools</packagereq>
+      <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="default">bluez-utils-alsa</packagereq>
       <packagereq type="default">cdparanoia</packagereq>
+      <packagereq type="default">codeina</packagereq>
       <packagereq type="default">genisoimage</packagereq>
       <packagereq type="default">gstreamer-plugins-good</packagereq>
       <packagereq type="default">gstreamer-plugins-pulse</packagereq>
@@ -3228,13 +3230,11 @@
       <packagereq type="default">pavucontrol</packagereq>
       <packagereq type="default">pulseaudio</packagereq>
       <packagereq type="default">pulseaudio-utils</packagereq>
-      <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="default">rhythmbox</packagereq>
       <packagereq type="default">sound-juicer</packagereq>
       <packagereq type="default">sox</packagereq>
       <packagereq type="default">totem</packagereq>
       <packagereq type="default">totem-mozplugin</packagereq>
-      <packagereq type="default">codeina</packagereq>
       <packagereq type="default">wodim</packagereq>
       <packagereq type="optional">abcde</packagereq>
       <packagereq type="optional">adplay</packagereq>
@@ -3289,8 +3289,8 @@
       <packagereq type="optional">paprefs</packagereq>
       <packagereq type="optional">pavumeter</packagereq>
       <packagereq type="optional">pitivi</packagereq>
-      <packagereq type="optional">pulseaudio-module-zeroconf</packagereq>
       <packagereq type="optional">pulseaudio-module-lirc</packagereq>
+      <packagereq type="optional">pulseaudio-module-zeroconf</packagereq>
       <packagereq type="optional">regionset</packagereq>
       <packagereq type="optional">rosegarden4</packagereq>
       <packagereq type="optional">serpentine</packagereq>
@@ -3823,11 +3823,11 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">python-virtinst</packagereq>
-      <packagereq type="optional">gnome-applet-vm</packagereq>
-      <packagereq type="optional">kernel-xen</packagereq>
       <packagereq type="default">kvm</packagereq>
       <packagereq type="default">qemu</packagereq>
       <packagereq type="default">virt-manager</packagereq>
+      <packagereq type="optional">gnome-applet-vm</packagereq>
+      <packagereq type="optional">kernel-xen</packagereq>
       <packagereq type="optional">xen</packagereq>
     </packagelist>
   </group>
