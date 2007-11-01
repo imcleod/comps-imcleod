@@ -1047,6 +1047,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">gnuplot</packagereq>
+      <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">units</packagereq>
       <packagereq type="optional">alliance</packagereq>
       <packagereq type="optional">atlas</packagereq>
@@ -1143,6 +1144,10 @@
       <packagereq type="optional">sextractor</packagereq>
       <packagereq type="optional">SIBsim4</packagereq>
       <packagereq type="optional">speedcrunch</packagereq>
+      <packagereq type="optional">stix-fonts-integrals</packagereq>
+      <packagereq type="optional">stix-fonts-pua</packagereq>
+      <packagereq type="optional">stix-fonts-sizes</packagereq>
+      <packagereq type="optional">stix-fonts-variants</packagereq>
       <packagereq type="optional">tcd-utils</packagereq>
       <packagereq type="optional">TeXmacs</packagereq>
       <packagereq type="optional">tideEditor</packagereq>
@@ -1269,6 +1274,11 @@
       <packagereq type="optional">mgopen-fonts</packagereq>
       <packagereq type="optional">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">sazanami-fonts-mincho</packagereq>
+      <packagereq type="optional">stix-fonts</packagereq>
+      <packagereq type="optional">stix-fonts-integrals</packagereq>
+      <packagereq type="optional">stix-fonts-pua</packagereq>
+      <packagereq type="optional">stix-fonts-sizes</packagereq>
+      <packagereq type="optional">stix-fonts-variants</packagereq>
       <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
       <packagereq type="optional">xorg-x11-fonts-syriac</packagereq>
