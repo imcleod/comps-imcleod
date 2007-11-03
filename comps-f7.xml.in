@@ -419,17 +419,6 @@
     </packagelist>
   </group>
   <group>
-    <id>bosnian-support</id>
-    <_name>Bosnian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <langonly>bs</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="moodle">moodle-bs</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>bhutanese-support</id>
     <_name>Bhutanese Support</_name>
     <_description/>
@@ -438,6 +427,17 @@
     <langonly>dz</langonly>
     <packagelist>
       <packagereq type="mandatory">jomolhari-fonts</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>bosnian-support</id>
+    <_name>Bosnian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>bs</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-bs</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2238,8 +2238,8 @@
       <packagereq type="optional">kerry</packagereq>
       <packagereq type="optional">kftpgrabber</packagereq>
       <packagereq type="optional">kickpim</packagereq>
-      <packagereq type="optional">kio_resources</packagereq>
       <packagereq type="optional">kiosktool</packagereq>
+      <packagereq type="optional">kio_resources</packagereq>
       <packagereq type="optional">klamav</packagereq>
       <packagereq type="optional">kleansweep</packagereq>
       <packagereq type="optional">kmenu-gnome</packagereq>
@@ -3680,8 +3680,8 @@
       <packagereq type="optional">obmenu</packagereq>
       <packagereq type="optional">openbox</packagereq>
       <packagereq type="optional">pekwm</packagereq>
-      <packagereq type="optional">WindowMaker</packagereq>
       <packagereq type="optional">windowlab</packagereq>
+      <packagereq type="optional">WindowMaker</packagereq>
       <packagereq type="optional">wmx</packagereq>
       <packagereq type="optional">xcompmgr</packagereq>
     </packagelist>
@@ -3860,8 +3860,8 @@
       <groupid>basque-support</groupid>
       <groupid>belarusian-support</groupid>
       <groupid>bengali-support</groupid>
-      <groupid>bosnian-support</groupid>
       <groupid>bhutanese-support</groupid>
+      <groupid>bosnian-support</groupid>
       <groupid>brazilian-support</groupid>
       <groupid>breton-support</groupid>
       <groupid>british-support</groupid>
