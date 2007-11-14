@@ -1192,6 +1192,7 @@
     <langonly>am</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-ethiopic</packagereq>
+      <packagereq type="default">abyssinica-fonts</packagereq>
       <packagereq type="optional">m17n-db-amharic</packagereq>
       <packagereq type="optional">scim-tables-amharic</packagereq>
     </packagelist>
@@ -1240,6 +1241,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">abyssinica-fonts</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-gulim</packagereq>
       <packagereq type="default">cjkunifonts-uming</packagereq>
       <packagereq type="default">dejavu-fonts</packagereq>
