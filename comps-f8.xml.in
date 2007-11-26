@@ -1325,6 +1325,10 @@
       <packagereq type="optional">fonts-truetype-apl</packagereq>
       <packagereq type="optional">freefont</packagereq>
       <packagereq type="optional">gentium-fonts</packagereq>
+      <packagereq type="optional">gfs-artemisia-fonts</packagereq>
+      <packagereq type="optional">gfs-bodoni-fonts</packagereq>
+      <packagereq type="optional">gfs-didot-classic-fonts</packagereq>
+      <packagereq type="optional">gfs-neohellenic-fonts</packagereq>
       <packagereq type="optional">hunky-fonts</packagereq>
       <packagereq type="optional">linux-libertine-fonts</packagereq>
       <packagereq type="optional">mathml-fonts</packagereq>
@@ -1980,7 +1984,12 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-el</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-el</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-el_GR</packagereq>
+      <packagereq type="optional">gfs-artemisia-fonts</packagereq>
+      <packagereq type="optional">gfs-bodoni-fonts</packagereq>
+      <packagereq type="optional">gfs-didot-classic-fonts</packagereq>
+      <packagereq type="optional">gfs-neohellenic-fonts</packagereq>
       <packagereq type="optional">m17n-db-greek</packagereq>
+      <packagereq type="optional">mgopen-fonts</packagereq>
     </packagelist>
   </group>
   <group>
