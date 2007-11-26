@@ -27,6 +27,7 @@
       <packagereq type="optional">gsynaptics</packagereq>
       <packagereq type="optional">lat</packagereq>
       <packagereq type="optional">luma</packagereq>
+      <packagereq type="optional">opyum</packagereq>
       <packagereq type="optional">pessulus</packagereq>
       <packagereq type="optional">qtparted</packagereq>
       <packagereq type="optional">system-config-kickstart</packagereq>
@@ -1019,6 +1020,7 @@
       <packagereq type="optional">leafpad</packagereq>
       <packagereq type="optional">nedit</packagereq>
       <packagereq type="optional">poedit</packagereq>
+      <packagereq type="optional">psgml</packagereq>
       <packagereq type="optional">scite</packagereq>
       <packagereq type="optional">scribes</packagereq>
       <packagereq type="optional">scribes-templates</packagereq>
@@ -1027,6 +1029,7 @@
       <packagereq type="optional">xemacs-ess</packagereq>
       <packagereq type="optional">xemacs-muse</packagereq>
       <packagereq type="optional">xemacs-packages-extra</packagereq>
+      <packagereq type="optional">zile</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1659,6 +1662,7 @@
       <packagereq type="default">vino</packagereq>
       <packagereq type="default">xdg-user-dirs-gtk</packagereq>
       <packagereq type="default">zenity</packagereq>
+      <packagereq type="optional">avant-window-navigator</packagereq>
       <packagereq type="optional">beagle-evolution</packagereq>
       <packagereq type="optional">beagle-gui</packagereq>
       <packagereq type="optional">buoh</packagereq>
@@ -1682,6 +1686,7 @@
       <packagereq type="optional">gnome-keyring-manager</packagereq>
       <packagereq type="optional">gnome-netstatus</packagereq>
       <packagereq type="optional">gnome-pilot-conduits</packagereq>
+      <packagereq type="optional">gnome-schedule</packagereq>
       <packagereq type="optional">gnome-theme-curvylooks</packagereq>
       <packagereq type="optional">gnotime</packagereq>
       <packagereq type="optional">grsync</packagereq>
@@ -1863,6 +1868,7 @@
       <packagereq type="optional">prozilla</packagereq>
       <packagereq type="optional">psi</packagereq>
       <packagereq type="optional">putty</packagereq>
+      <packagereq type="optional">seamonkey</packagereq>
       <packagereq type="optional">streamtuner</packagereq>
       <packagereq type="optional">sylpheed</packagereq>
       <packagereq type="optional">thunderbird</packagereq>
@@ -3320,6 +3326,7 @@
       <packagereq type="optional">pitivi</packagereq>
       <packagereq type="optional">pulseaudio-module-lirc</packagereq>
       <packagereq type="optional">pulseaudio-module-zeroconf</packagereq>
+      <packagereq type="optional">quodlibet</packagereq>
       <packagereq type="optional">regionset</packagereq>
       <packagereq type="optional">rosegarden4</packagereq>
       <packagereq type="optional">serpentine</packagereq>
@@ -3933,6 +3940,7 @@
       <packagereq type="optional">tomcat5-webapps</packagereq>
       <packagereq type="optional">vdr-wapd</packagereq>
       <packagereq type="optional">vdradmin-am</packagereq>
+      <packagereq type="optional">wordpress</packagereq>
     </packagelist>
   </group>
   <group>
