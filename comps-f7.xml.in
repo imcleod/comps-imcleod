@@ -27,6 +27,7 @@
       <packagereq type="optional">gsynaptics</packagereq>
       <packagereq type="optional">lat</packagereq>
       <packagereq type="optional">luma</packagereq>
+      <packagereq type="optional">opyum</packagereq>
       <packagereq type="optional">pessulus</packagereq>
       <packagereq type="optional">qtparted</packagereq>
       <packagereq type="optional">system-config-kickstart</packagereq>
@@ -999,6 +1000,7 @@
       <packagereq type="optional">leafpad</packagereq>
       <packagereq type="optional">nedit</packagereq>
       <packagereq type="optional">poedit</packagereq>
+      <packagereq type="optional">psgml</packagereq>
       <packagereq type="optional">scite</packagereq>
       <packagereq type="optional">scribes</packagereq>
       <packagereq type="optional">scribes-templates</packagereq>
@@ -1007,6 +1009,7 @@
       <packagereq type="optional">xemacs-ess</packagereq>
       <packagereq type="optional">xemacs-muse</packagereq>
       <packagereq type="optional">xemacs-packages-extra</packagereq>
+      <packagereq type="optional">zile</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1592,6 +1595,7 @@
       <packagereq type="optional">gnome-commander</packagereq>
       <packagereq type="optional">gnome-keyring-manager</packagereq>
       <packagereq type="optional">gnome-pilot-conduits</packagereq>
+      <packagereq type="optional">gnome-schedule</packagereq>
       <packagereq type="optional">gnome-theme-clearlooks-bigpack</packagereq>
       <packagereq type="optional">gnome-themes-extras</packagereq>
       <packagereq type="optional">gnotime</packagereq>
@@ -1767,7 +1771,7 @@
       <packagereq type="optional">prozilla</packagereq>
       <packagereq type="optional">psi</packagereq>
       <packagereq type="optional">putty</packagereq>
-      <packagereq type="optional">screem</packagereq>
+      <packagereq type="optional">seamonkey</packagereq>
       <packagereq type="optional">streamtuner</packagereq>
       <packagereq type="optional">sylpheed</packagereq>
       <packagereq type="optional">sylpheed-claws</packagereq>
@@ -3466,6 +3470,7 @@
       <packagereq type="optional">snownews</packagereq>
       <packagereq type="optional">tftp</packagereq>
       <packagereq type="optional">tin</packagereq>
+      <packagereq type="optional">w3m</packagereq>
       <packagereq type="optional">websec</packagereq>
       <packagereq type="optional">xprobe2</packagereq>
       <packagereq type="optional">yafc</packagereq>
@@ -3690,6 +3695,7 @@
       <packagereq type="optional">tomcat5-webapps</packagereq>
       <packagereq type="optional">vdr-wapd</packagereq>
       <packagereq type="optional">vdradmin-am</packagereq>
+      <packagereq type="optional">wordpress</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3720,6 +3726,7 @@
       <packagereq type="optional">fvwm</packagereq>
       <packagereq type="optional">hackedbox</packagereq>
       <packagereq type="optional">icewm</packagereq>
+      <packagereq type="optional">matchbox-window-manager</packagereq>
       <packagereq type="optional">obconf</packagereq>
       <packagereq type="optional">obmenu</packagereq>
       <packagereq type="optional">openbox</packagereq>
