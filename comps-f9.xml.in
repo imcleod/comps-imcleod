@@ -656,11 +656,11 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-cs</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-cs</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-cs</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Czech</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-cs</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-cs</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-cs</packagereq>
-      <packagereq type="conditional" requires="hyphen">hyphen-cs</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-cs_CZ</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
     </packagelist>
@@ -1226,16 +1226,16 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">koji</packagereq>
       <packagereq type="mandatory">bodhi-client</packagereq>
+      <packagereq type="mandatory">bzr</packagereq>
+      <packagereq type="mandatory">cvs</packagereq>
+      <packagereq type="mandatory">git</packagereq>
+      <packagereq type="mandatory">koji</packagereq>
+      <packagereq type="mandatory">mercurial</packagereq>
+      <packagereq type="mandatory">mock</packagereq>
       <packagereq type="mandatory">plague-client</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
       <packagereq type="mandatory">rpmdevtools</packagereq>
-      <packagereq type="mandatory">cvs</packagereq>
-      <packagereq type="mandatory">mercurial</packagereq>
-      <packagereq type="mandatory">git</packagereq>
-      <packagereq type="mandatory">bzr</packagereq>
-      <packagereq type="mandatory">mock</packagereq>
     </packagelist>
   </group>
   <group>
