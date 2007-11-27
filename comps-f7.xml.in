@@ -356,9 +356,18 @@
       <packagereq type="optional">freefont</packagereq>
       <packagereq type="optional">FreeWnn</packagereq>
       <packagereq type="optional">gfs-artemisia-fonts</packagereq>
+      <packagereq type="optional">gfs-baskerville-fonts</packagereq>
+      <packagereq type="optional">gfs-bodoni-classic-fonts</packagereq>
       <packagereq type="optional">gfs-bodoni-fonts</packagereq>
+      <packagereq type="optional">gfs-complutum-fonts</packagereq>
       <packagereq type="optional">gfs-didot-classic-fonts</packagereq>
+      <packagereq type="optional">gfs-didot-fonts</packagereq>
+      <packagereq type="optional">gfs-gazis-fonts</packagereq>
       <packagereq type="optional">gfs-neohellenic-fonts</packagereq>
+      <packagereq type="optional">gfs-olga-fonts</packagereq>
+      <packagereq type="optional">gfs-porson-fonts</packagereq>
+      <packagereq type="optional">gfs-solomos-fonts</packagereq>
+      <packagereq type="optional">gfs-theokritos-fonts</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">lineak-defaultplugin</packagereq>
       <packagereq type="optional">lineak-xosdplugin</packagereq>
@@ -1882,9 +1891,18 @@
       <packagereq type="conditional" requires="moodle">moodle-el</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-el_GR</packagereq>
       <packagereq type="optional">gfs-artemisia-fonts</packagereq>
+      <packagereq type="optional">gfs-baskerville-fonts</packagereq>
+      <packagereq type="optional">gfs-bodoni-classic-fonts</packagereq>
       <packagereq type="optional">gfs-bodoni-fonts</packagereq>
+      <packagereq type="optional">gfs-complutum-fonts</packagereq>
       <packagereq type="optional">gfs-didot-classic-fonts</packagereq>
+      <packagereq type="optional">gfs-didot-fonts</packagereq>
+      <packagereq type="optional">gfs-gazis-fonts</packagereq>
       <packagereq type="optional">gfs-neohellenic-fonts</packagereq>
+      <packagereq type="optional">gfs-olga-fonts</packagereq>
+      <packagereq type="optional">gfs-porson-fonts</packagereq>
+      <packagereq type="optional">gfs-solomos-fonts</packagereq>
+      <packagereq type="optional">gfs-theokritos-fonts</packagereq>
       <packagereq type="optional">m17n-db-greek</packagereq>
     </packagelist>
   </group>
