@@ -2406,24 +2406,23 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">arts</packagereq>
-      <packagereq type="mandatory">kdebase</packagereq>
+      <packagereq type="mandatory">kdebase-workspace</packagereq>
       <packagereq type="conditional" requires="scim">scim-qtimm</packagereq>
       <packagereq type="default">amarok</packagereq>
-      <packagereq type="default">compiz</packagereq>
+      <packagereq type="optional">compiz-kde</packagereq>
       <packagereq type="default">digikam</packagereq>
       <packagereq type="default">gpgme</packagereq>
       <packagereq type="default">kaffeine</packagereq>
       <packagereq type="default">kde-settings-pulseaudio</packagereq>
       <packagereq type="default">kdeaccessibility</packagereq>
-      <packagereq type="default">kdeaddons</packagereq>
+      <packagereq type="optional">kdeaddons</packagereq>
       <packagereq type="default">kdeartwork</packagereq>
       <packagereq type="default">kdegraphics</packagereq>
       <packagereq type="default">kdemultimedia</packagereq>
       <packagereq type="default">kdenetwork</packagereq>
       <packagereq type="default">kdepim</packagereq>
       <packagereq type="default">kdeutils</packagereq>
-      <packagereq type="default">kdmtheme</packagereq>
+      <packagereq type="optional">kdmtheme</packagereq>
       <packagereq type="default">kftpgrabber</packagereq>
       <packagereq type="default">kipi-plugins</packagereq>
       <packagereq type="default">knetworkmanager</packagereq>
@@ -2432,8 +2431,6 @@
       <packagereq type="default">ktorrent</packagereq>
       <packagereq type="default">pinentry-qt</packagereq>
       <packagereq type="default">scribus</packagereq>
-      <packagereq type="default">xdg-user-dirs</packagereq>
-      <packagereq type="default">xdg-utils</packagereq>
       <packagereq type="default">xine-lib-arts</packagereq>
       <packagereq type="default">zenity</packagereq>
       <packagereq type="optional">apollon</packagereq>
@@ -2442,7 +2439,6 @@
       <packagereq type="optional">d3lphin</packagereq>
       <packagereq type="optional">gtk-qt-engine</packagereq>
       <packagereq type="optional">im-chooser</packagereq>
-      <packagereq type="optional">kasablanca</packagereq>
       <packagereq type="optional">katapult</packagereq>
       <packagereq type="optional">kbackup</packagereq>
       <packagereq type="optional">kbibtex</packagereq>
