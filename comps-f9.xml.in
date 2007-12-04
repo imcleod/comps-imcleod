@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
-<comps>
+<comps xmlns="">
   <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
@@ -2409,20 +2409,17 @@
       <packagereq type="mandatory">kdebase-workspace</packagereq>
       <packagereq type="conditional" requires="scim">scim-qtimm</packagereq>
       <packagereq type="default">amarok</packagereq>
-      <packagereq type="optional">compiz-kde</packagereq>
       <packagereq type="default">digikam</packagereq>
       <packagereq type="default">gpgme</packagereq>
       <packagereq type="default">kaffeine</packagereq>
       <packagereq type="default">kde-settings-pulseaudio</packagereq>
       <packagereq type="default">kdeaccessibility</packagereq>
-      <packagereq type="optional">kdeaddons</packagereq>
       <packagereq type="default">kdeartwork</packagereq>
       <packagereq type="default">kdegraphics</packagereq>
       <packagereq type="default">kdemultimedia</packagereq>
       <packagereq type="default">kdenetwork</packagereq>
       <packagereq type="default">kdepim</packagereq>
       <packagereq type="default">kdeutils</packagereq>
-      <packagereq type="optional">kdmtheme</packagereq>
       <packagereq type="default">kftpgrabber</packagereq>
       <packagereq type="default">kipi-plugins</packagereq>
       <packagereq type="default">knetworkmanager</packagereq>
@@ -2435,6 +2432,7 @@
       <packagereq type="default">zenity</packagereq>
       <packagereq type="optional">apollon</packagereq>
       <packagereq type="optional">basket</packagereq>
+      <packagereq type="optional">compiz-kde</packagereq>
       <packagereq type="optional">crystal</packagereq>
       <packagereq type="optional">d3lphin</packagereq>
       <packagereq type="optional">gtk-qt-engine</packagereq>
@@ -2444,6 +2442,7 @@
       <packagereq type="optional">kbibtex</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
       <packagereq type="optional">kchmviewer</packagereq>
+      <packagereq type="optional">kdeaddons</packagereq>
       <packagereq type="optional">kdeadmin</packagereq>
       <packagereq type="optional">kdeartwork-extras</packagereq>
       <packagereq type="optional">kdebase4</packagereq>
@@ -2452,6 +2451,7 @@
       <packagereq type="optional">kdetoys</packagereq>
       <packagereq type="optional">kdeutils-extras</packagereq>
       <packagereq type="optional">kdissert</packagereq>
+      <packagereq type="optional">kdmtheme</packagereq>
       <packagereq type="optional">kerry</packagereq>
       <packagereq type="optional">kickpim</packagereq>
       <packagereq type="optional">kiosktool</packagereq>
