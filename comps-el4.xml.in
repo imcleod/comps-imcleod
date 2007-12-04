@@ -123,16 +123,17 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">koji</packagereq>
       <packagereq type="mandatory">bodhi-client</packagereq>
+      <packagereq type="mandatory">bzr</packagereq>
+      <packagereq type="mandatory">cvs</packagereq>
+      <packagereq type="mandatory">fedora-packager</packagereq>
+      <packagereq type="mandatory">git</packagereq>
+      <packagereq type="mandatory">koji</packagereq>
+      <packagereq type="mandatory">mercurial</packagereq>
+      <packagereq type="mandatory">mock</packagereq>
       <packagereq type="mandatory">plague-client</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
       <packagereq type="mandatory">rpmdevtools</packagereq>
-      <packagereq type="mandatory">cvs</packagereq>
-      <packagereq type="mandatory">mercurial</packagereq>
-      <packagereq type="mandatory">git</packagereq>
-      <packagereq type="mandatory">bzr</packagereq>
-      <packagereq type="mandatory">mock</packagereq>
     </packagelist>
   </group>
   <group>
@@ -197,8 +198,8 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-     <packagereq type="optional">ctapi-cyberjack</packagereq>
-     <packagereq type="optional">ctapi-cyberjack-tools</packagereq>
+      <packagereq type="optional">ctapi-cyberjack</packagereq>
+      <packagereq type="optional">ctapi-cyberjack-tools</packagereq>
     </packagelist>
   </group>
   <group>
