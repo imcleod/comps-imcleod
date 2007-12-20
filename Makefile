@@ -9,9 +9,6 @@ po: $(XMLINFILES)
 clean:
 	@rm -fv *~
 
-comps-fe7.xml.in: comps-f7.xml.in
-	ln -s comps-f7.xml.in comps-fe7.xml.in
-
 %.xml: %.xml.in
 	./update-comps $@
 	@if [ "$@" == "$(RAWHIDECOMPS)" ] ; then \
