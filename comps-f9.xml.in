@@ -121,7 +121,7 @@
       <packagereq type="default">docbook-utils</packagereq>
       <packagereq type="default">docbook-utils-pdf</packagereq>
       <packagereq type="default">linuxdoc-tools</packagereq>
-      <packagereq type="default">tetex</packagereq>
+      <packagereq type="default">texlive</packagereq>
       <packagereq type="default">xhtml1-dtds</packagereq>
       <packagereq type="default">xmlto</packagereq>
       <packagereq type="optional">abcm2ps</packagereq>
@@ -2091,7 +2091,7 @@
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Hebrew</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-he</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-he_IL</packagereq>
-      <packagereq type="conditional" requires="tetex">tetex-fonts-hebrew</packagereq>
+      <packagereq type="conditional" requires="texlive">tetex-fonts-hebrew</packagereq>
       <packagereq type="default">culmus-fonts</packagereq>
       <packagereq type="default">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
