@@ -192,7 +192,6 @@
       <packagereq type="default">eject</packagereq>
       <packagereq type="default">fbset</packagereq>
       <packagereq type="default">finger</packagereq>
-      <packagereq type="default">firstboot-tui</packagereq>
       <packagereq type="default">ftp</packagereq>
       <packagereq type="default">gnupg</packagereq>
       <packagereq type="default">gpm</packagereq>
@@ -301,7 +300,6 @@
       <packagereq type="mandatory">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="mandatory">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
       <packagereq type="mandatory">xorg-x11-fonts-misc</packagereq>
-      <packagereq type="mandatory">xorg-x11-fonts-truetype</packagereq>
       <packagereq type="mandatory">xorg-x11-fonts-Type1</packagereq>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
@@ -700,7 +698,7 @@
       <packagereq type="default">binutils-devel</packagereq>
       <packagereq type="default">boost-devel</packagereq>
       <packagereq type="default">coolkey-devel</packagereq>
-      <packagereq type="default">curl-devel</packagereq>
+      <packagereq type="default">libcurl-devel</packagereq>
       <packagereq type="default">cyrus-sasl-devel</packagereq>
       <packagereq type="default">db4-devel</packagereq>
       <packagereq type="default">dbus-devel</packagereq>
@@ -2598,7 +2596,6 @@
       <packagereq type="default">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-misc</packagereq>
-      <packagereq type="default">xorg-x11-fonts-truetype</packagereq>
       <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
       <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
