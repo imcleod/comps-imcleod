@@ -701,7 +701,6 @@
       <packagereq type="default">binutils-devel</packagereq>
       <packagereq type="default">boost-devel</packagereq>
       <packagereq type="default">coolkey-devel</packagereq>
-      <packagereq type="default">libcurl-devel</packagereq>
       <packagereq type="default">cyrus-sasl-devel</packagereq>
       <packagereq type="default">db4-devel</packagereq>
       <packagereq type="default">dbus-devel</packagereq>
@@ -714,6 +713,7 @@
       <packagereq type="default">libacl-devel</packagereq>
       <packagereq type="default">libattr-devel</packagereq>
       <packagereq type="default">libcap-devel</packagereq>
+      <packagereq type="default">libcurl-devel</packagereq>
       <packagereq type="default">libogg-devel</packagereq>
       <packagereq type="default">libselinux-devel</packagereq>
       <packagereq type="default">libuser-devel</packagereq>
@@ -4119,7 +4119,6 @@
       <packagereq type="default">xfce4-icon-theme</packagereq>
       <packagereq type="default">xfce4-mailwatch-plugin</packagereq>
       <packagereq type="default">xfce4-mixer</packagereq>
-      <packagereq type="optional">xfprint</packagereq>
       <packagereq type="optional">orage</packagereq>
       <packagereq type="optional">Terminal</packagereq>
       <packagereq type="optional">thunar-archive-plugin</packagereq>
@@ -4154,6 +4153,7 @@
       <packagereq type="optional">xfce4-xfapplet-plugin</packagereq>
       <packagereq type="optional">xfce4-xkb-plugin</packagereq>
       <packagereq type="optional">xfce4-xmms-plugin</packagereq>
+      <packagereq type="optional">xfprint</packagereq>
       <packagereq type="optional">xfwm4-themes</packagereq>
     </packagelist>
   </group>

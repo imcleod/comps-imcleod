@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
-<comps>
+<comps xmlns="">
   <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
@@ -4142,7 +4142,6 @@
       <packagereq type="default">xfce4-icon-theme</packagereq>
       <packagereq type="default">xfce4-mailwatch-plugin</packagereq>
       <packagereq type="default">xfce4-mixer</packagereq>
-      <packagereq type="optional">xfprint</packagereq>
       <packagereq type="optional">orage</packagereq>
       <packagereq type="optional">Terminal</packagereq>
       <packagereq type="optional">thunar-archive-plugin</packagereq>
@@ -4177,6 +4176,7 @@
       <packagereq type="optional">xfce4-xfapplet-plugin</packagereq>
       <packagereq type="optional">xfce4-xkb-plugin</packagereq>
       <packagereq type="optional">xfce4-xmms-plugin</packagereq>
+      <packagereq type="optional">xfprint</packagereq>
       <packagereq type="optional">xfwm4-themes</packagereq>
     </packagelist>
   </group>
