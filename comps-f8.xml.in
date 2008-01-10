@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
-<comps xmlns="">
+<comps>
   <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
@@ -1352,9 +1352,11 @@
       <packagereq type="optional">stix-fonts-sizes</packagereq>
       <packagereq type="optional">stix-fonts-variants</packagereq>
       <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
-      <packagereq type="optional">VLGothic-fonts</packagereq>
+      <packagereq type="optional">tiresias-fonts</packagereq>
+      <packagereq type="optional">wqy-zenhei-fonts</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
       <packagereq type="optional">xorg-x11-fonts-syriac</packagereq>
+      <packagereq type="optional">yanone-kaffeesatz-fonts</packagereq>
     </packagelist>
   </group>
   <group>
