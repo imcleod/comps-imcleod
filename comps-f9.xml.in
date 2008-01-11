@@ -547,7 +547,7 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-chewing</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-chinese</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-pinyin</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-python-chinese</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-chinese</packagereq>
       <packagereq type="default">cjkunifonts-fonts-ukai</packagereq>
       <packagereq type="default">cjkunifonts-fonts-uming</packagereq>
@@ -557,7 +557,7 @@
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-chinese</packagereq>
       <packagereq type="optional">scim-array</packagereq>
-      <packagereq type="optional">scim-python-chinese</packagereq>
+      <packagereq type="optional">scim-pinyin</packagereq>
       <packagereq type="optional">stardict-dic-zh_CN</packagereq>
       <packagereq type="optional">stardict-dic-zh_TW</packagereq>
       <packagereq type="optional">wqy-unibit-fonts</packagereq>
