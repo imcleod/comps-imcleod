@@ -538,6 +538,8 @@
     <uservisible>false</uservisible>
     <langonly>zh</langonly>
     <packagelist>
+      <packagereq type="mandatory">cjkunifonts-ukai</packagereq>
+      <packagereq type="mandatory">cjkunifonts-uming</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Chinese-Big5</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-zh_CN</packagereq>
@@ -550,8 +552,6 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-chinese</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-python-chinese</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-chinese</packagereq>
-      <packagereq type="default">cjkunifonts-fonts-ukai</packagereq>
-      <packagereq type="default">cjkunifonts-fonts-uming</packagereq>
       <packagereq type="default">taipeifonts</packagereq>
       <packagereq type="default">wqy-bitmap-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
@@ -2092,6 +2092,7 @@
     <uservisible>false</uservisible>
     <langonly>he</langonly>
     <packagelist>
+      <packagereq type="mandatory">dejavu-fonts</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-he</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-he</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Hebrew</packagereq>
@@ -2099,7 +2100,6 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-he_IL</packagereq>
       <packagereq type="conditional" requires="texlive">tetex-fonts-hebrew</packagereq>
       <packagereq type="default">culmus-fonts</packagereq>
-      <packagereq type="default">dejavu-fonts</packagereq>
       <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">fonts-hebrew-fancy</packagereq>
       <packagereq type="optional">m17n-db-hebrew</packagereq>
@@ -2224,6 +2224,7 @@
     <uservisible>false</uservisible>
     <langonly>ja</langonly>
     <packagelist>
+      <packagereq type="mandatory">VLGothic-fonts</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Japanese</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ja</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-ja</packagereq>
@@ -2234,7 +2235,7 @@
       <packagereq type="default">fonts-japanese</packagereq>
       <packagereq type="default">sazanami-fonts-gothic</packagereq>
       <packagereq type="default">sazanami-fonts-mincho</packagereq>
-      <packagereq type="default">VLGothic-fonts</packagereq>
+      <packagereq type="default">VLGothic-fonts-proportional</packagereq>
       <packagereq type="optional">anthy-el</packagereq>
       <packagereq type="optional">cmigemo</packagereq>
       <packagereq type="optional">ddskk</packagereq>
@@ -2550,6 +2551,7 @@
     <uservisible>false</uservisible>
     <langonly>ko</langonly>
     <packagelist>
+      <packagereq type="mandatory">baekmuk-ttf-fonts-gulim</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Korean</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-ko</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ko</packagereq>
@@ -2559,7 +2561,6 @@
       <packagereq type="default">baekmuk-bdf-fonts</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-batang</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-dotum</packagereq>
-      <packagereq type="default">baekmuk-ttf-fonts-gulim</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-hline</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-korean</packagereq>
@@ -2848,6 +2849,7 @@
     <langonly>ne</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-fonts-hindi</packagereq>
+      <packagereq type="mandatory">madan-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib-nepali</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-nepali</packagereq>
