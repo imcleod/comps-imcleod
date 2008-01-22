@@ -1493,8 +1493,9 @@
       <packagereq type="optional">gweled</packagereq>
       <packagereq type="optional">hedgewars</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
-      <packagereq type="optional">kdeedu</packagereq>
+      <packagereq type="optional">kdeaddons-atlantikdesigner</packagereq>
       <packagereq type="optional">kdegames</packagereq>
+      <packagereq type="optional">kdegames3</packagereq>
       <packagereq type="optional">KoboDeluxe</packagereq>
       <packagereq type="optional">ksirk</packagereq>
       <packagereq type="optional">lacewing</packagereq>
@@ -2432,11 +2433,14 @@
       <packagereq type="conditional" requires="scim">scim-qtimm</packagereq>
       <packagereq type="default">amarok</packagereq>
       <packagereq type="default">digikam</packagereq>
+      <packagereq type="default">extragear-plasma</packagereq>
       <packagereq type="default">gpgme</packagereq>
       <packagereq type="default">kaffeine</packagereq>
       <packagereq type="default">kde-settings-pulseaudio</packagereq>
       <packagereq type="default">kdeaccessibility</packagereq>
       <packagereq type="default">kdeartwork</packagereq>
+      <packagereq type="default">kdeedu</packagereq>
+      <packagereq type="default">kdegames</packagereq>
       <packagereq type="default">kdegraphics</packagereq>
       <packagereq type="default">kdemultimedia</packagereq>
       <packagereq type="default">kdenetwork</packagereq>
@@ -2490,6 +2494,7 @@
       <packagereq type="optional">kyum</packagereq>
       <packagereq type="optional">lineak-kdeplugins</packagereq>
       <packagereq type="optional">metamonitor</packagereq>
+      <packagereq type="optional">okteta</packagereq>
       <packagereq type="optional">oooqs2</packagereq>
       <packagereq type="optional">polyester</packagereq>
       <packagereq type="optional">rekall</packagereq>
@@ -2510,6 +2515,7 @@
       <packagereq type="mandatory">arts-devel</packagereq>
       <packagereq type="mandatory">kdelibs-devel</packagereq>
       <packagereq type="mandatory">qt-devel</packagereq>
+      <packagereq type="default">kaider</packagereq>
       <packagereq type="default">kdbg</packagereq>
       <packagereq type="default">kdebase-devel</packagereq>
       <packagereq type="default">kdegraphics-devel</packagereq>
