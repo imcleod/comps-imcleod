@@ -1324,9 +1324,9 @@
       <packagereq type="optional">linux-libertine-fonts</packagereq>
       <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">mgopen-fonts</packagereq>
+      <packagereq type="optional">samyak-fonts</packagereq>
       <packagereq type="optional">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">sazanami-fonts-mincho</packagereq>
-      <packagereq type="optional">samyak-fonts</packagereq>
       <packagereq type="optional">stix-fonts</packagereq>
       <packagereq type="optional">stix-fonts-integrals</packagereq>
       <packagereq type="optional">stix-fonts-pua</packagereq>
@@ -2040,11 +2040,11 @@
       <packagereq type="mandatory">lohit-fonts-gujarati</packagereq>
       <packagereq type="mandatory">m17n-contrib-gujarati</packagereq>
       <packagereq type="mandatory">m17n-db-gujarati</packagereq>
-      <packagereq type="default">samyak-fonts</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-gu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-gu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-gu_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-gujarati</packagereq>
+      <packagereq type="default">samyak-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2120,13 +2120,13 @@
       <packagereq type="mandatory">lohit-fonts-hindi</packagereq>
       <packagereq type="mandatory">m17n-contrib-hindi</packagereq>
       <packagereq type="mandatory">m17n-db-hindi</packagereq>
-      <packagereq type="default">samyak-fonts</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-hi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-hi</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Hindi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hi_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-hindi</packagereq>
+      <packagereq type="default">samyak-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2782,10 +2782,10 @@
       <packagereq type="mandatory">lohit-fonts-malayalam</packagereq>
       <packagereq type="mandatory">m17n-contrib-malayalam</packagereq>
       <packagereq type="mandatory">m17n-db-malayalam</packagereq>
-      <packagereq type="default">samyak-fonts</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ml</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ml_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-malayalam</packagereq>
+      <packagereq type="default">samyak-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2810,11 +2810,11 @@
     <packagelist>
       <packagereq type="mandatory">lohit-fonts-hindi</packagereq>
       <packagereq type="mandatory">m17n-contrib-marathi</packagereq>
-      <packagereq type="default">samyak-fonts</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-mr</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-mr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mr_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-marathi</packagereq>
+      <packagereq type="default">samyak-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2858,8 +2858,8 @@
     <langonly>ne</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-fonts-hindi</packagereq>
-      <packagereq type="mandatory">madan-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib-nepali</packagereq>
+      <packagereq type="mandatory">madan-fonts</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-nepali</packagereq>
       <packagereq type="optional">scim-tables-nepali</packagereq>
@@ -3039,10 +3039,10 @@
       <packagereq type="mandatory">lohit-fonts-oriya</packagereq>
       <packagereq type="mandatory">m17n-contrib-oriya</packagereq>
       <packagereq type="mandatory">m17n-db-oriya</packagereq>
-      <packagereq type="default">samyak-fonts</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-or</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-or_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-oriya</packagereq>
+      <packagereq type="default">samyak-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3721,12 +3721,12 @@
       <packagereq type="mandatory">lohit-fonts-tamil</packagereq>
       <packagereq type="mandatory">m17n-contrib-tamil</packagereq>
       <packagereq type="mandatory">m17n-db-tamil</packagereq>
-      <packagereq type="default">samyak-fonts</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-ta</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Tamil</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ta</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ta_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-tamil</packagereq>
+      <packagereq type="default">samyak-fonts</packagereq>
     </packagelist>
   </group>
   <group>
