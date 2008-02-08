@@ -1310,6 +1310,7 @@
       <packagereq type="default">lohit-fonts-tamil</packagereq>
       <packagereq type="default">lohit-fonts-telugu</packagereq>
       <packagereq type="default">paktype-fonts</packagereq>
+      <packagereq type="default">thaifonts-scalable</packagereq>
       <packagereq type="default">VLGothic-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-dotum</packagereq>
@@ -3857,6 +3858,7 @@
     <langonly>th</langonly>
     <packagelist>
       <packagereq type="mandatory">m17n-db-thai</packagereq>
+      <packagereq type="mandatory">thaifonts-scalable</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-th</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Thai</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-th</packagereq>
