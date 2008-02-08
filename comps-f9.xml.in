@@ -1337,12 +1337,16 @@
       <packagereq type="optional">gfs-solomos-fonts</packagereq>
       <packagereq type="optional">gfs-theokritos-fonts</packagereq>
       <packagereq type="optional">hunky-fonts</packagereq>
+      <packagereq type="optional">inconsolata-fonts</packagereq>
       <packagereq type="optional">linux-libertine-fonts</packagereq>
+      <packagereq type="optional">madan-fonts</packagereq>
       <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">mgopen-fonts</packagereq>
+      <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">samyak-fonts</packagereq>
       <packagereq type="optional">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">sazanami-fonts-mincho</packagereq>
+      <packagereq type="optional">silkscreen-fonts</packagereq>
       <packagereq type="optional">stix-fonts</packagereq>
       <packagereq type="optional">stix-fonts-integrals</packagereq>
       <packagereq type="optional">stix-fonts-pua</packagereq>
@@ -3964,6 +3968,7 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
       <packagereq type="default">dejavu-fonts</packagereq>
       <packagereq type="default">kacst-fonts</packagereq>
+      <packagereq type="default">nafees-web-naskh-fonts</packagereq>
     </packagelist>
   </group>
   <group>
