@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
-<comps xmlns="">
+<comps>
   <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
@@ -3375,6 +3375,7 @@
       <packagereq type="optional">alsamixergui</packagereq>
       <packagereq type="optional">amarok</packagereq>
       <packagereq type="optional">ardour</packagereq>
+      <packagereq type="optional">argyllcms</packagereq>
       <packagereq type="optional">audacious</packagereq>
       <packagereq type="optional">audacity</packagereq>
       <packagereq type="optional">aumix</packagereq>
