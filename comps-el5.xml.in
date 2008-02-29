@@ -8,6 +8,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="optional">dbench</packagereq>
       <packagereq type="optional">yumex</packagereq>
     </packagelist>
   </group>
@@ -193,6 +194,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="optional">checkgmail</packagereq>
       <packagereq type="optional">konversation</packagereq>
       <packagereq type="optional">mail-notification</packagereq>
     </packagelist>
