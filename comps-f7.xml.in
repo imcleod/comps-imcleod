@@ -20,6 +20,7 @@
       <packagereq type="default">system-config-soundcard</packagereq>
       <packagereq type="default">system-config-users</packagereq>
       <packagereq type="optional">cacti</packagereq>
+      <packagereq type="optional">dbench</packagereq>
       <packagereq type="optional">etherape</packagereq>
       <packagereq type="optional">ettercap-gtk</packagereq>
       <packagereq type="optional">galternatives</packagereq>
@@ -1782,6 +1783,7 @@
       <packagereq type="optional">blam</packagereq>
       <packagereq type="optional">blogtk</packagereq>
       <packagereq type="optional">bluefish</packagereq>
+      <packagereq type="optiona">checkgmail</packagereq>
       <packagereq type="optional">claws-mail</packagereq>
       <packagereq type="optional">contact-lookup-applet</packagereq>
       <packagereq type="optional">d4x</packagereq>
@@ -1810,6 +1812,7 @@
       <packagereq type="optional">gtk-gnutella</packagereq>
       <packagereq type="optional">gtorrentviewer</packagereq>
       <packagereq type="optional">gwget</packagereq>
+      <packagereq type="optional">gyachi</packagereq>
       <packagereq type="optional">jd</packagereq>
       <packagereq type="optional">kadu</packagereq>
       <packagereq type="optional">kasablanca</packagereq>
@@ -2027,7 +2030,8 @@
       <packagereq type="conditional" requires="kdelibs">kde-i18n-Hindi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hi_IN</packagereq>
-    </packagelist>
+      <packagereq type="default"> requires=sarai-fonts</packagereq>
+     </packagelist>
   </group>
   <group>
     <id>hungarian-support</id>
@@ -2083,7 +2087,10 @@
     <langonly>iu</langonly>
     <packagelist>
       <packagereq type="optional">dejavu-fonts</packagereq>
-      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
+      <packagereq type="optional">dejavu-fonts-experimental
+
+
+</packagereq>
     </packagelist>
   </group>
   <group>

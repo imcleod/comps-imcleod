@@ -20,6 +20,7 @@
       <packagereq type="default">system-config-soundcard</packagereq>
       <packagereq type="default">system-config-users</packagereq>
       <packagereq type="optional">cacti</packagereq>
+      <packagereq type="optional">dbench</packagereq>
       <packagereq type="optional">etherape</packagereq>
       <packagereq type="optional">ettercap-gtk</packagereq>
       <packagereq type="optional">galternatives</packagereq>
@@ -1906,6 +1907,7 @@
       <packagereq type="optional">blam</packagereq>
       <packagereq type="optional">blogtk</packagereq>
       <packagereq type="optional">bluefish</packagereq>
+      <packagereq type="optional">checkgmail</packagereq>
       <packagereq type="optional">claws-mail</packagereq>
       <packagereq type="optional">contact-lookup-applet</packagereq>
       <packagereq type="optional">d4x</packagereq>
@@ -1933,6 +1935,7 @@
       <packagereq type="optional">gtk-gnutella</packagereq>
       <packagereq type="optional">gtorrentviewer</packagereq>
       <packagereq type="optional">gwget</packagereq>
+      <packagereq type="optional">gyachi</packagereq>
       <packagereq type="optional">jd</packagereq>
       <packagereq type="optional">kadu</packagereq>
       <packagereq type="optional">kasablanca</packagereq>
@@ -2895,6 +2898,7 @@
       <packagereq type="mandatory">m17n-contrib-nepali</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-nepali</packagereq>
+      <packagereq type="default">sarai-fonts</packagereq>
       <packagereq type="optional">scim-tables-nepali</packagereq>
     </packagelist>
   </group>
