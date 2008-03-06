@@ -606,6 +606,7 @@
       <packagereq type="mandatory">cpio</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq type="mandatory">ed</packagereq>
+      <packagereq type="mandatory">event-compat-sysv</packagereq>
       <packagereq type="mandatory">fedora-logos</packagereq>
       <packagereq type="mandatory">fedora-release</packagereq>
       <packagereq type="mandatory">file</packagereq>
@@ -631,7 +632,6 @@
       <packagereq type="mandatory">setserial</packagereq>
       <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">shadow-utils</packagereq>
-      <packagereq type="mandatory">sysvinit</packagereq>
       <packagereq type="mandatory">util-linux-ng</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="default">elilo</packagereq>
