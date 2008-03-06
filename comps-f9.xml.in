@@ -15,6 +15,7 @@
       <packagereq type="default">system-config-keyboard</packagereq>
       <packagereq type="default">system-config-language</packagereq>
       <packagereq type="default">system-config-lvm</packagereq>
+      <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">system-config-network</packagereq>
       <packagereq type="default">system-config-rootpassword</packagereq>
       <packagereq type="default">system-config-soundcard</packagereq>
@@ -323,6 +324,7 @@
       <packagereq type="default">smolt-firstboot</packagereq>
       <packagereq type="default">system-config-date</packagereq>
       <packagereq type="default">system-config-display</packagereq>
+      <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">system-config-network</packagereq>
       <packagereq type="default">system-config-printer</packagereq>
       <packagereq type="default">system-config-services</packagereq>
@@ -3308,7 +3310,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">system-config-httpd</packagereq>
       <packagereq type="default">system-config-nfs</packagereq>
       <packagereq type="default">system-config-printer</packagereq>
