@@ -9,7 +9,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">authconfig-gtk</packagereq>
-      <packagereq type="default">pirut</packagereq>
+      <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">system-config-boot</packagereq>
       <packagereq type="default">system-config-date</packagereq>
       <packagereq type="default">system-config-keyboard</packagereq>
@@ -32,6 +32,7 @@
       <packagereq type="optional">luma</packagereq>
       <packagereq type="optional">opyum</packagereq>
       <packagereq type="optional">pessulus</packagereq>
+      <packagereq type="optional">pirut</packagereq>
       <packagereq type="optional">qtparted</packagereq>
       <packagereq type="optional">system-config-kickstart</packagereq>
       <packagereq type="optional">yumex</packagereq>
@@ -267,7 +268,7 @@
       <packagereq type="default">words</packagereq>
       <packagereq type="default">ypbind</packagereq>
       <packagereq type="default">yum</packagereq>
-      <packagereq type="default">yum-updatesd</packagereq>
+      <packagereq type="optional">yum-updatesd</packagereq>
       <packagereq type="default">yum-utils</packagereq>
       <packagereq type="default">zip</packagereq>
       <packagereq type="optional">apmd</packagereq>
