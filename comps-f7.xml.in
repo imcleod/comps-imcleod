@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
-<comps xmlns="">
+<comps>
   <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
@@ -1785,7 +1785,7 @@
       <packagereq type="optional">blam</packagereq>
       <packagereq type="optional">blogtk</packagereq>
       <packagereq type="optional">bluefish</packagereq>
-      <packagereq type="optiona">checkgmail</packagereq>
+      <packagereq type="optional">checkgmail</packagereq>
       <packagereq type="optional">claws-mail</packagereq>
       <packagereq type="optional">contact-lookup-applet</packagereq>
       <packagereq type="optional">d4x</packagereq>
@@ -2034,7 +2034,7 @@
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hi_IN</packagereq>
       <packagereq type="default"> requires=sarai-fonts</packagereq>
-     </packagelist>
+    </packagelist>
   </group>
   <group>
     <id>hungarian-support</id>

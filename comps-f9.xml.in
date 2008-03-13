@@ -12,10 +12,10 @@
       <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">system-config-boot</packagereq>
       <packagereq type="default">system-config-date</packagereq>
+      <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">system-config-keyboard</packagereq>
       <packagereq type="default">system-config-language</packagereq>
       <packagereq type="default">system-config-lvm</packagereq>
-      <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">system-config-network</packagereq>
       <packagereq type="default">system-config-rootpassword</packagereq>
       <packagereq type="default">system-config-soundcard</packagereq>
@@ -268,7 +268,6 @@
       <packagereq type="default">words</packagereq>
       <packagereq type="default">ypbind</packagereq>
       <packagereq type="default">yum</packagereq>
-      <packagereq type="optional">yum-updatesd</packagereq>
       <packagereq type="default">yum-utils</packagereq>
       <packagereq type="default">zip</packagereq>
       <packagereq type="optional">apmd</packagereq>
@@ -293,6 +292,7 @@
       <packagereq type="optional">tcsh</packagereq>
       <packagereq type="optional">x86info</packagereq>
       <packagereq type="optional">xfsprogs</packagereq>
+      <packagereq type="optional">yum-updatesd</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1733,9 +1733,9 @@
       <packagereq type="default">evince</packagereq>
       <packagereq type="default">evince-djvu</packagereq>
       <packagereq type="default">evince-dvi</packagereq>
-      <packagereq type="default">gdm-user-switch-applet</packagereq>
       <packagereq type="default">file-roller</packagereq>
       <packagereq type="default">gcalctool</packagereq>
+      <packagereq type="default">gdm-user-switch-applet</packagereq>
       <packagereq type="default">gedit</packagereq>
       <packagereq type="default">gnome-audio</packagereq>
       <packagereq type="default">gnome-backgrounds</packagereq>
