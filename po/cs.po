@@ -1,21 +1,24 @@
+# translation of comps.HEAD.po to Czech
 # translation of comps-po to Czech language
 #
 # Copyright (C) 2002, FSF
+#
 # Miloslav Trmač <mitr@volny.cz>, 2002 - 2005, 2008.
 # Nikola Štohanzl <niko@srnet.cz>, 2006.
 # Milan Keršláger <kerslage@linux.cz>, 2007.
-#
+# Adam Pribyl <pribyl@lowlevel.cz>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: comps VERSION\n"
+"Project-Id-Version: comps.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-02-28 17:42-0700\n"
-"PO-Revision-Date: 2008-03-03 06:05+0100\n"
-"Last-Translator: Miloslav Trmač <mitr@volny.cz>\n"
-"Language-Team: Czech\n"
+"POT-Creation-Date: 2008-02-28 17:56-0700\n"
+"PO-Revision-Date: 2008-03-13 09:23+0100\n"
+"Last-Translator: Adam Pribyl <pribyl@lowlevel.cz>\n"
+"Language-Team: Czech <fedora-cs-list@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: ../comps-f7.xml.in.h:1 ../comps-f8.xml.in.h:1 ../comps-f9.xml.in.h:1
 msgid "A lightweight desktop environment that works well on low end machines."
@@ -92,9 +95,8 @@ msgid "Bengali Support"
 msgstr "Bengálština (Indie)"
 
 #: ../comps-f7.xml.in.h:17 ../comps-f8.xml.in.h:17 ../comps-f9.xml.in.h:17
-#, fuzzy
 msgid "Bhutanese Support"
-msgstr "Čínština"
+msgstr "Bhutánština"
 
 #: ../comps-f7.xml.in.h:18 ../comps-f8.xml.in.h:18 ../comps-f9.xml.in.h:18
 msgid "Bosnian Support"
@@ -235,9 +237,8 @@ msgstr "Tvůrce balíčků Fedory"
 
 # CS OK
 #: ../comps-f7.xml.in.h:49 ../comps-f8.xml.in.h:50 ../comps-f9.xml.in.h:50
-#, fuzzy
 msgid "Filipino Support"
-msgstr "Galicijština (Španělsko)"
+msgstr "Filipínština"
 
 #: ../comps-f7.xml.in.h:50 ../comps-f8.xml.in.h:51 ../comps-f9.xml.in.h:51
 msgid "Finnish Support"
@@ -364,25 +365,22 @@ msgid "Install these packages to develop QT and KDE graphical applications."
 msgstr "Balíčky pro vývoj grafických aplikací pro QT a KDE."
 
 #: ../comps-f7.xml.in.h:74 ../comps-f8.xml.in.h:77 ../comps-f9.xml.in.h:77
-msgid ""
-"Install these tools to enable the system to print or act as a print server."
+msgid "Install these tools to enable the system to print or act as a print server."
 msgstr ""
 "Nainstalováním těchto nástrojů umožníte vašemu počítači tisknout nebo "
 "vystupovat jako tiskový server."
 
 #: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:78 ../comps-f9.xml.in.h:78
 #: ../comps-el4.xml.in.h:29 ../comps-el5.xml.in.h:31
-msgid ""
-"Install this group of packages to use the base graphical (X) user interface."
+msgid "Install this group of packages to use the base graphical (X) user interface."
 msgstr ""
 "Tuto skupinu balíčků nainstalujte pro použití grafického (X) uživatelského "
 "prostředí."
 
 # FIXME
 #: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:80 ../comps-f9.xml.in.h:80
-#, fuzzy
 msgid "Inuktitut Support"
-msgstr "Zulu (jižní Afrika)"
+msgstr "Inuktitut"
 
 #: ../comps-f7.xml.in.h:77 ../comps-f8.xml.in.h:81 ../comps-f9.xml.in.h:81
 msgid "Irish Support"
@@ -430,9 +428,8 @@ msgid "Kannada Support"
 msgstr "Kannada (Indie)"
 
 #: ../comps-f7.xml.in.h:86 ../comps-f8.xml.in.h:90 ../comps-f9.xml.in.h:90
-#, fuzzy
 msgid "Khmer Support"
-msgstr "Hebrejština (Izrael)"
+msgstr "Khmerština"
 
 #: ../comps-f7.xml.in.h:87 ../comps-f8.xml.in.h:91 ../comps-f9.xml.in.h:91
 msgid "Korean Support"
@@ -444,14 +441,12 @@ msgstr "Jazyky"
 
 # FIXME
 #: ../comps-f7.xml.in.h:89 ../comps-f8.xml.in.h:93 ../comps-f9.xml.in.h:93
-#, fuzzy
 msgid "Lao Support"
-msgstr "Thajština"
+msgstr "Laoiština"
 
 #: ../comps-f7.xml.in.h:90 ../comps-f8.xml.in.h:94 ../comps-f9.xml.in.h:94
-#, fuzzy
 msgid "Latvian Support"
-msgstr "Chorvatština"
+msgstr "Litevština"
 
 #: ../comps-f7.xml.in.h:91 ../comps-f8.xml.in.h:96 ../comps-f9.xml.in.h:96
 msgid "Legacy Network Server"
@@ -485,9 +480,8 @@ msgstr "Malajálamština (Indie)"
 
 # FIXME
 #: ../comps-f7.xml.in.h:98 ../comps-f8.xml.in.h:104 ../comps-f9.xml.in.h:104
-#, fuzzy
 msgid "Maori Support"
-msgstr "Marathi (Indie)"
+msgstr "Moariiština"
 
 # FIXME
 #: ../comps-f7.xml.in.h:99 ../comps-f8.xml.in.h:105 ../comps-f9.xml.in.h:105
@@ -535,9 +529,8 @@ msgid ""
 msgstr "Balíčky poskytující funkcionalitu pro vývoj a sestavování aplikací"
 
 #: ../comps-f7.xml.in.h:108 ../comps-f8.xml.in.h:117 ../comps-f9.xml.in.h:117
-#, fuzzy
 msgid "Persian Support"
-msgstr "Srbština"
+msgstr "Perština"
 
 #: ../comps-f7.xml.in.h:109 ../comps-f8.xml.in.h:118 ../comps-f9.xml.in.h:118
 msgid "Polish Support"
@@ -573,9 +566,8 @@ msgid "Russian Support"
 msgstr "Ruština"
 
 #: ../comps-f7.xml.in.h:117 ../comps-f8.xml.in.h:126 ../comps-f9.xml.in.h:126
-#, fuzzy
 msgid "Samoan Support"
-msgstr "Němčina"
+msgstr "Samoan"
 
 #: ../comps-f7.xml.in.h:118 ../comps-f8.xml.in.h:127 ../comps-f9.xml.in.h:127
 msgid "Serbian Support"
@@ -592,10 +584,8 @@ msgstr "Servery"
 
 #: ../comps-f7.xml.in.h:121 ../comps-f8.xml.in.h:130 ../comps-f9.xml.in.h:130
 #: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:42
-msgid ""
-"Simple window managers that aren't part of a larger desktop environment."
-msgstr ""
-"Jednoduší správci oken, kteří nejsou součástí velkých desktopových prostředí."
+msgid "Simple window managers that aren't part of a larger desktop environment."
+msgstr "Jednoduší správci oken, kteří nejsou součástí velkých desktopových prostředí."
 
 # FIXME
 #: ../comps-f7.xml.in.h:122 ../comps-f8.xml.in.h:131 ../comps-f9.xml.in.h:131
@@ -678,9 +668,8 @@ msgstr "Systémové nástroje"
 
 # FIXME
 #: ../comps-f7.xml.in.h:138 ../comps-f8.xml.in.h:147 ../comps-f9.xml.in.h:147
-#, fuzzy
 msgid "Tagalog Support"
-msgstr "Tamil (jižní Asie)"
+msgstr "Tagalog"
 
 # FIXME
 #: ../comps-f7.xml.in.h:139 ../comps-f8.xml.in.h:148 ../comps-f9.xml.in.h:148
@@ -712,10 +701,8 @@ msgid "The applications include office suites, PDF viewers, and more."
 msgstr "Aplikace zahrnují kancelářské balíky, prohlížeče PDF atd."
 
 #: ../comps-f7.xml.in.h:145 ../comps-f8.xml.in.h:153 ../comps-f9.xml.in.h:153
-msgid ""
-"The packages in this group are core libraries needed to develop applications."
-msgstr ""
-"Balíčky v této skupině jsou základní knihovny potřebné pro vývoj aplikací."
+msgid "The packages in this group are core libraries needed to develop applications."
+msgstr "Balíčky v této skupině jsou základní knihovny potřebné pro vývoj aplikací."
 
 #: ../comps-f7.xml.in.h:146 ../comps-f8.xml.in.h:154 ../comps-f9.xml.in.h:154
 #: ../comps-el4.xml.in.h:52 ../comps-el5.xml.in.h:50
@@ -723,19 +710,16 @@ msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr "Balíčky pro provoz poštovního serveru (SMTP, IMAP, POP3)."
 
 #: ../comps-f7.xml.in.h:147 ../comps-f8.xml.in.h:155 ../comps-f9.xml.in.h:155
-msgid ""
-"These packages allow you to develop applications for the X Window System."
+msgid "These packages allow you to develop applications for the X Window System."
 msgstr "Balíčky pro vývoj aplikací pro grafické prostředí X Window System."
 
 #: ../comps-f7.xml.in.h:148 ../comps-f8.xml.in.h:156 ../comps-f9.xml.in.h:156
 #: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:51
-msgid ""
-"These packages are helpful when developing web applications or web pages."
+msgid "These packages are helpful when developing web applications or web pages."
 msgstr "Balíčky pro podporu WWW stránek a Webových aplikací."
 
 #: ../comps-f7.xml.in.h:149 ../comps-f8.xml.in.h:157 ../comps-f9.xml.in.h:157
-msgid ""
-"These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgid "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr "Balíčky se síťovými servery - např. DHCP, Kerberos a NIS."
 
 #: ../comps-f7.xml.in.h:150 ../comps-f8.xml.in.h:158 ../comps-f9.xml.in.h:158
@@ -849,16 +833,13 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:166 ../comps-f8.xml.in.h:174 ../comps-f9.xml.in.h:174
 #: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:64
-msgid ""
-"This group is a collection of tools and resources of Armenian environments."
+msgid "This group is a collection of tools and resources of Armenian environments."
 msgstr "Skupina nástrojů a aplikací pro podporu Arménštiny."
 
 #: ../comps-f7.xml.in.h:167 ../comps-f8.xml.in.h:175 ../comps-f9.xml.in.h:175
 #: ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:68
-msgid ""
-"This group is a collection of tools for various hardware specific utilities."
-msgstr ""
-"Skupina nástrojů a aplikací pro podporu nejrůznějšího hardware (zařízení)."
+msgid "This group is a collection of tools for various hardware specific utilities."
+msgstr "Skupina nástrojů a aplikací pro podporu nejrůznějšího hardware (zařízení)."
 
 #: ../comps-f7.xml.in.h:168 ../comps-f8.xml.in.h:176 ../comps-f9.xml.in.h:176
 #: ../comps-el4.xml.in.h:70 ../comps-el5.xml.in.h:69
@@ -870,8 +851,7 @@ msgstr ""
 "připojení ke svazkům SMB a nástroje pro sledování síťového provozu."
 
 #: ../comps-f7.xml.in.h:169 ../comps-f8.xml.in.h:177 ../comps-f9.xml.in.h:177
-msgid ""
-"This package group allows you to run a DNS name server (BIND) on the system."
+msgid "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr ""
 "Tato skupina balíčků vám umožní na počítači provozovat jmenný server DNS "
 "(BIND)."
@@ -897,9 +877,8 @@ msgid "Tibetan Support"
 msgstr "Tibetština"
 
 #: ../comps-f7.xml.in.h:174 ../comps-f8.xml.in.h:182 ../comps-f9.xml.in.h:182
-#, fuzzy
 msgid "Tonga Support"
-msgstr "Tsonga"
+msgstr "Tonga"
 
 #: ../comps-f7.xml.in.h:175 ../comps-f8.xml.in.h:183 ../comps-f9.xml.in.h:183
 #: ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:70
@@ -924,9 +903,8 @@ msgstr "Ukrajinština"
 
 # FIXME
 #: ../comps-f7.xml.in.h:180 ../comps-f8.xml.in.h:188 ../comps-f9.xml.in.h:188
-#, fuzzy
 msgid "Urdu Support"
-msgstr "Zulu (jižní Afrika)"
+msgstr "Urdu"
 
 #: ../comps-f7.xml.in.h:181 ../comps-f8.xml.in.h:189 ../comps-f9.xml.in.h:189
 #: ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:71
@@ -1027,9 +1005,8 @@ msgstr "Starší písma"
 
 # FIXME
 #: ../comps-f8.xml.in.h:100 ../comps-f9.xml.in.h:100
-#, fuzzy
 msgid "Low Saxon Support"
-msgstr "Thajština"
+msgstr "Low Saxon"
 
 #: ../comps-f8.xml.in.h:106 ../comps-f9.xml.in.h:106
 msgid "Mongolian Support"
@@ -1092,18 +1069,15 @@ msgid "This group is a collection of network servers for specific purposes"
 msgstr "Tato skupina je soubor síťových serverů pro konkrétní účely."
 
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
-msgid ""
-"This group is a collection of tools and resources of Arabic environments."
+msgid "This group is a collection of tools and resources of Arabic environments."
 msgstr "Tato skupina je soubor nástrojů a zdrojů pro arabská prostředí."
 
 #: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:66
-msgid ""
-"This group is a collection of tools and resources of Hebrew environments."
+msgid "This group is a collection of tools and resources of Hebrew environments."
 msgstr "Tato skupina je soubor nástrojů a zdrojů pro hebrejská prostředí."
 
 #: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
-msgid ""
-"This group is a collection of tools and resources of Japanese environments."
+msgid "This group is a collection of tools and resources of Japanese environments."
 msgstr "Tato skupina je soubor nástrojů a zdrojů pro japonská prostředí."
 
 #: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:77
@@ -1111,308 +1085,6 @@ msgid "XEmacs"
 msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:65
-msgid ""
-"This group is a collection of tools and resources of Czech environments."
+msgid "This group is a collection of tools and resources of Czech environments."
 msgstr "Tato skupina je soubor nástrojů a zdrojů pro česká prostředí."
 
-#~ msgid "The GNU Emacs text editor."
-#~ msgstr "Textový editor GNU Emacs."
-
-#~ msgid "Brazilian Support"
-#~ msgstr "Brazílie"
-
-#~ msgid "British Support"
-#~ msgstr "Angličtina (britská)"
-
-#~ msgid "Canadian Support"
-#~ msgstr "Kanada"
-
-#~ msgid "Compatibility Arch Development Support"
-#~ msgstr "Starší aplikace - vývoj"
-
-#~ msgid "Compatibility Arch Mozilla Support"
-#~ msgstr "Podpora aplikací založených na starších verzích Mozilly"
-
-#~ msgid "Compatibility Arch Support"
-#~ msgstr "Podpora starších aplikací"
-
-#~ msgid "Cyrillic Support"
-#~ msgstr "Azbuka"
-
-#~ msgid "Desktops"
-#~ msgstr "Grafické uživatelské prostředí"
-
-#~ msgid "Install these packages to recompile the kernel."
-#~ msgstr "Balíčky pro kompilaci jádra operačního systému Linux."
-
-#~ msgid "Kernel Development"
-#~ msgstr "Jádro - vývoj"
-
-#~ msgid "Miscellaneous Included Packages"
-#~ msgstr "Různé balíčky"
-
-#~ msgid "Mozilla packages for the x86 platform"
-#~ msgstr "Balíčky Mozilly pro platformu x86"
-
-#~ msgid "Multilib support packages"
-#~ msgstr "Balíčky podpory multilib"
-
-#~ msgid "SQL Database"
-#~ msgstr "SQL databáze"
-
-#~ msgid "Server"
-#~ msgstr "Server"
-
-#~ msgid "Support for developing packages for the non-primary architecture"
-#~ msgstr "vývoj balíčků pro jinou než primární architekturu"
-
-#~ msgid "Syriac Support"
-#~ msgstr "Syrština"
-
-#~ msgid "System"
-#~ msgstr "Systém"
-
-#~ msgid ""
-#~ "These packages allow you to configure an IMAP or Postfix mail server."
-#~ msgstr "Balíčky pro konfiguraci poštovního serveru IMAP nebo Postfix."
-
-#~ msgid ""
-#~ "These packages provide compatibility support for previous releases of Red "
-#~ "Hat Enterprise Linux."
-#~ msgstr ""
-#~ "Balíčky s podporu pro spouštění aplikací určených pro předchozí verze Red "
-#~ "Hat Enterprise Linuxu."
-
-#~ msgid "Unsupported Development Libraries"
-#~ msgstr "Již nepodporované knihovny pro vývoj"
-
-#~ msgid "Workstation Common"
-#~ msgstr "Pracovní stanice"
-
-#~ msgid "ppc64 Compatibility Arch Support"
-#~ msgstr "Podpora pro architekturu ppc64"
-
-#~ msgid "x86 Compatibility Arch Development Support"
-#~ msgstr "Podpora pro vývoj pro architekturu x86"
-
-#~ msgid "x86 Compatibility Arch Support"
-#~ msgstr "Podpora pro architekturu x86"
-
-#~ msgid "Brazilian Portuguese"
-#~ msgstr "Brazilská portugalština"
-
-#~ msgid "English"
-#~ msgstr "Angličtina"
-
-#~ msgid "French"
-#~ msgstr "Francouzština"
-
-#~ msgid "German"
-#~ msgstr "Němčina"
-
-#~ msgid "Italian"
-#~ msgstr "Italština"
-
-#~ msgid "Red Hat Enterprise Linux 3 Documentation"
-#~ msgstr "Dokumentace Red Hat Enterprise Linux 3"
-
-#~ msgid "Spanish"
-#~ msgstr "Španělština"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Brazilian Portuguese language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v brazilské "
-#~ "portugalštině."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "English language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v angličtině."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "French language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu ve "
-#~ "francouzštině."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "German language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v němčině."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Italian language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v italštině."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Spanish language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu ve "
-#~ "španělštině."
-
-#~ msgid "Japanese"
-#~ msgstr "Japonština"
-
-#~ msgid "Korean"
-#~ msgstr "Korejština"
-
-#~ msgid "Simplified Chinese"
-#~ msgstr "Čínština - zjednodušená"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Japanese language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v japonštině."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Korean language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v korejštině."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Simplified Chinese language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu ve "
-#~ "zjednodušené čínštině."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Traditional Chinese language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v tradiční "
-#~ "čínštině."
-
-#~ msgid "Traditional Chinese"
-#~ msgstr "Čínština - tradiční"
-
-#~ msgid "ppc64 Compatibility Arch Development Support"
-#~ msgstr "Podpora vývoje pro architekturu ppc64"
-
-# CS OK
-#~ msgid "Bengali"
-#~ msgstr "Bengálština (jižní Asie)"
-
-# CS OK
-#~ msgid "Gujarati"
-#~ msgstr "Gudžarátština (Indie)"
-
-# CS OK
-#~ msgid "Hindi"
-#~ msgstr "Hindština (Indie)"
-
-# FIXME
-#~ msgid "Punjabi"
-#~ msgstr "Punjabi (Indie, Pákistán)"
-
-#~ msgid "Red Hat Enterprise Linux 4 Documentation"
-#~ msgstr "Dokumentace Red Hat Enterprise Linux 4"
-
-# FIXME
-#~ msgid "Tamil"
-#~ msgstr "Tamil (jižní Asie)"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Bengali language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v bengálštině."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Gujarati language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v gujarati."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Hindi language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v hindi."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Punjabi language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu ve punjabi."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Tamil language."
-#~ msgstr ""
-#~ "Tato skupina obsahuje dokumentaci Red Hat Enterprise Linuxu v tamilštině."
-
-#~ msgid "Cluster Storage"
-#~ msgstr "Ukládání dat v clusterech"
-
-#~ msgid "Clustering Support."
-#~ msgstr "Podpora clusterů"
-
-#~ msgid "Packages which provide support for cluster storage."
-#~ msgstr "Balíčky poskytující podporu pro ukládání dat pomocí clusterů."
-
-#~ msgid "Packages which provide support for single-node GFS."
-#~ msgstr "Balíčky poskytující podporu pro single-node GFS."
-
-#~ msgid "Single Node GFS Support"
-#~ msgstr "GFS pro jeden počítač"
-
-#~ msgid "These packages provide compatibility support with previous releases."
-#~ msgstr ""
-#~ "Balíčky poskytující možnost běhu aplikací určených pro předchozí starší "
-#~ "verze systému."
-
-#~ msgid "Java Runtime Environments and Development Kits"
-#~ msgstr "Runtime prostředí (JRE) a sada vývojových nástrojů (JDK) pro Javu"
-
-#~ msgid "Misc"
-#~ msgstr "Různé"
-
-#~ msgid "Misc packages"
-#~ msgstr "Různé balíčky"
-
-#~ msgid "Multimedia"
-#~ msgstr "Multimedia"
-
-#~ msgid "Multimedia applications"
-#~ msgstr "Multimediální aplikace"
-
-#~ msgid ""
-#~ "Packages which provide additional functionality for Red Hat Enterprise "
-#~ "Linux"
-#~ msgstr ""
-#~ "Balíčky poskytující doplňkovou funkcionalitu pro Red Hat Enterprise Linux."
-
-#~ msgid "Red Hat Enterprise Linux Extras"
-#~ msgstr "Red Hat Enterprise Linux Extras"
-
-#~ msgid "Workstation"
-#~ msgstr "Pracovní stanice"
-
-#~ msgid "Workstation applications and utilities."
-#~ msgstr "Aplikace a nástroje pro pracovní stanici."
-
-#~ msgid "Virtualization Support."
-#~ msgstr "Podpora virtualizace."
-
-#~ msgid "Compatibility Arch Libraries"
-#~ msgstr "Knihovny pro předchozí verze"
-
-#~ msgid "Multilib library packages"
-#~ msgstr "Knihovna multilib"
-
-#~ msgid ""
-#~ "Packages which provide functionality for the compatibility architecture."
-#~ msgstr ""
-#~ "Balíčky poskytující možnost běhu aplikací určených pro předchozí staší "
-#~ "verze systému."
