@@ -164,6 +164,7 @@
       <packagereq type="mandatory">bc</packagereq>
       <packagereq type="mandatory">bind-utils</packagereq>
       <packagereq type="mandatory">bzip2</packagereq>
+      <packagereq type="mandatory">cronie</packagereq>
       <packagereq type="mandatory">crontabs</packagereq>
       <packagereq type="mandatory">cyrus-sasl-plain</packagereq>
       <packagereq type="mandatory">logrotate</packagereq>
@@ -177,7 +178,6 @@
       <packagereq type="mandatory">quota</packagereq>
       <packagereq type="mandatory">tmpwatch</packagereq>
       <packagereq type="mandatory">traceroute</packagereq>
-      <packagereq type="mandatory">vixie-cron</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
       <packagereq type="default">acpid</packagereq>
       <packagereq type="default">anacron</packagereq>
