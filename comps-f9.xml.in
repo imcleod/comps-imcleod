@@ -78,9 +78,9 @@
       <packagereq type="conditional" requires="moodle">moodle-ar</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ar</packagereq>
       <packagereq type="default">dejavu-fonts</packagereq>
+      <packagereq type="default">dejavu-fonts-experimental</packagereq>
       <packagereq type="default">kacst-fonts</packagereq>
       <packagereq type="default">paktype-fonts</packagereq>
-      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">m17n-db-arabic</packagereq>
       <packagereq type="optional">scim-tables-arabic</packagereq>
     </packagelist>
@@ -120,6 +120,8 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="texlive">tetex-eurofont</packagereq>
+      <packagereq type="conditional" requires="texlive">tetex-font-cm-lgc</packagereq>
       <packagereq type="default">docbook-slides</packagereq>
       <packagereq type="default">docbook-style-dsssl</packagereq>
       <packagereq type="default">docbook-style-xsl</packagereq>
@@ -143,7 +145,6 @@
       <packagereq type="optional">ooo2txt</packagereq>
       <packagereq type="optional">python-docutils</packagereq>
       <packagereq type="optional">scribus</packagereq>
-      <packagereq type="optional">tetex-eurofont</packagereq>
       <packagereq type="optional">tetex-prosper</packagereq>
       <packagereq type="optional">tetex-xdvi</packagereq>
       <packagereq type="optional">w3c-markup-validator</packagereq>
@@ -516,15 +517,15 @@
     <uservisible>false</uservisible>
     <langonly>bg</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-bg</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-bg</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Bulgarian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Bulgarian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-bg</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-bg</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bg_BG</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
     </packagelist>
   </group>
@@ -652,12 +653,12 @@
     <uservisible>false</uservisible>
     <langonly>hr</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-hr</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-hr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hr_HR</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="optional">m17n-db-croatian</packagereq>
     </packagelist>
@@ -670,9 +671,7 @@
     <uservisible>false</uservisible>
     <langonly>cs</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-cs</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-cs</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-cs</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-cs</packagereq>
@@ -682,6 +681,8 @@
       <packagereq type="conditional" requires="man-pages">man-pages-cs</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-cs</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-cs_CZ</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
     </packagelist>
   </group>
@@ -1142,6 +1143,7 @@
       <packagereq type="optional">Macaulay2</packagereq>
       <packagereq type="optional">magic</packagereq>
       <packagereq type="optional">malaga</packagereq>
+      <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">maxima</packagereq>
       <packagereq type="optional">maxima-gui</packagereq>
       <packagereq type="optional">ncl</packagereq>
@@ -1213,14 +1215,14 @@
     <uservisible>false</uservisible>
     <langonly>et</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ee</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Estonian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Estonian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-et</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-et</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-et_EE</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
     </packagelist>
   </group>
@@ -1232,10 +1234,10 @@
     <uservisible>false</uservisible>
     <langonly>am</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-ethiopic</packagereq>
       <packagereq type="default">abyssinica-fonts</packagereq>
       <packagereq type="optional">m17n-db-amharic</packagereq>
       <packagereq type="optional">scim-tables-amharic</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1323,6 +1325,7 @@
       <packagereq type="default">lohit-fonts-tamil</packagereq>
       <packagereq type="default">lohit-fonts-telugu</packagereq>
       <packagereq type="default">paktype-fonts</packagereq>
+      <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thaifonts-scalable</packagereq>
       <packagereq type="default">VLGothic-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
@@ -1364,16 +1367,15 @@
       <packagereq type="optional">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">sazanami-fonts-mincho</packagereq>
       <packagereq type="optional">silkscreen-fonts</packagereq>
-      <packagereq type="optional">stix-fonts</packagereq>
       <packagereq type="optional">stix-fonts-integrals</packagereq>
       <packagereq type="optional">stix-fonts-pua</packagereq>
       <packagereq type="optional">stix-fonts-sizes</packagereq>
       <packagereq type="optional">stix-fonts-variants</packagereq>
       <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
       <packagereq type="optional">tiresias-fonts</packagereq>
+      <packagereq type="optional">VLGothic-fonts-proportional</packagereq>
       <packagereq type="optional">wqy-zenhei-fonts</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-syriac</packagereq>
       <packagereq type="optional">yanone-kaffeesatz-fonts</packagereq>
     </packagelist>
   </group>
@@ -2078,6 +2080,7 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-el</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-el</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-el_GR</packagereq>
+      <packagereq type="conditional" requires="texlive">tetex-font-kerkis</packagereq>
       <packagereq type="optional">gfs-artemisia-fonts</packagereq>
       <packagereq type="optional">gfs-baskerville-fonts</packagereq>
       <packagereq type="optional">gfs-bodoni-classic-fonts</packagereq>
@@ -2205,8 +2208,6 @@
     <uservisible>false</uservisible>
     <langonly>hu</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-hu</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-hu</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Hungarian</packagereq>
@@ -2214,6 +2215,8 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-hu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hu_HU</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
     </packagelist>
   </group>
@@ -2320,6 +2323,7 @@
       <packagereq type="optional">eblook</packagereq>
       <packagereq type="optional">ebview</packagereq>
       <packagereq type="optional">jfbterm</packagereq>
+      <packagereq type="optional">jisksp16-1990-fonts</packagereq>
       <packagereq type="optional">kcc</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">lv</packagereq>
@@ -2690,7 +2694,7 @@
     <packagelist>
       <packagereq type="default">bitmap-fonts</packagereq>
       <packagereq type="default">xorg-x11-fonts-100dpi</packagereq>
-      <packagereq type="default">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
+      <packagereq type="default">xorg-x11-fonts-ISO8859-15-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-misc</packagereq>
       <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
       <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
@@ -2708,6 +2712,8 @@
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">fonts-x11-apl</packagereq>
       <packagereq type="optional">ghostscript-fonts</packagereq>
+      <packagereq type="optional">jisksp16-1990-fonts</packagereq>
+      <packagereq type="optional">knm_new-fonts</packagereq>
       <packagereq type="optional">libdockapp-fonts</packagereq>
       <packagereq type="optional">taipeifonts</packagereq>
       <packagereq type="optional">terminus-font-console</packagereq>
@@ -2717,10 +2723,10 @@
       <packagereq type="optional">wqy-unibit-fonts</packagereq>
       <packagereq type="optional">xorg-x11-fonts-75dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-1-75dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-14-100dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-14-75dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-15-100dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-15-75dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-2-75dpi</packagereq>
@@ -3152,9 +3158,7 @@
     <uservisible>false</uservisible>
     <langonly>pl</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-pl</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-pl</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Polish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Polish</packagereq>
@@ -3163,6 +3167,8 @@
       <packagereq type="conditional" requires="man-pages">man-pages-pl</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-pl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pl_PL</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
     </packagelist>
   </group>
@@ -3232,10 +3238,10 @@
     <uservisible>false</uservisible>
     <langonly>ro</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Romanian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ro</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
     </packagelist>
   </group>
@@ -3261,8 +3267,6 @@
     <uservisible>false</uservisible>
     <langonly>ru</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-KOI8-R</packagereq>
-      <packagereq type="mandatory">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-ru</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-ru</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ru</packagereq>
@@ -3272,12 +3276,14 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ru</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ru</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-cyrillic</packagereq>
+      <packagereq type="optional">fonts-KOI8-R</packagereq>
+      <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">m17n-contrib-russian</packagereq>
       <packagereq type="optional">m17n-db-russian</packagereq>
       <packagereq type="optional">scim-tables-russian</packagereq>
       <packagereq type="optional">stardict-dic-ru</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3299,9 +3305,7 @@
     <uservisible>false</uservisible>
     <langonly>sr</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-sr</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-sr</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Serbian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr</packagereq>
@@ -3310,6 +3314,8 @@
       <packagereq type="conditional" requires="moodle">moodle-sr_cr_bo</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sr_lt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sr</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="optional">m17n-db-serbian</packagereq>
     </packagelist>
@@ -3354,13 +3360,13 @@
     <uservisible>false</uservisible>
     <langonly>sk</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-sk</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Slovak</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sk</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sk_SK</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="optional">m17n-db-slovak</packagereq>
     </packagelist>
@@ -3373,15 +3379,15 @@
     <uservisible>false</uservisible>
     <langonly>sl</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-ISO8859-2</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-sl</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-sl</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Slovenian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Slovenian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sl</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sl_SI</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2</packagereq>
+      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
     </packagelist>
   </group>
@@ -3977,15 +3983,15 @@
     <uservisible>false</uservisible>
     <langonly>uk</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-KOI8-R</packagereq>
       <packagereq type="mandatory">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Ukrainian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Ukrainian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-uk</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-uk</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-uk</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-cyrillic</packagereq>
+      <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
     </packagelist>
   </group>
   <group>
