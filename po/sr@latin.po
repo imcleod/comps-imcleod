@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the comps package.
 # Filip Maličević <filip@lakinetwork.com>, 2005.
 # Miloš Komarčević <kmilos@gmail.com>, 2005.
+# Milos Mijatovic <mijatix@gmail.com>, 2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-03-20 11:23-0400\n"
-"PO-Revision-Date: 2007-09-18 20:14-0000\n"
+"PO-Revision-Date: 2008-03-21 22:39-0000\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
 "Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +26,7 @@ msgstr "Lagano radno okruženje koje radi dobro na slabijim mašinama."
 #: ../comps-f7.xml.in.h:2 ../comps-f8.xml.in.h:2 ../comps-f9.xml.in.h:2
 #: ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
 msgid "Administration Tools"
-msgstr "Administrativni alati"
+msgstr "Administrativne alatke"
 
 #: ../comps-f7.xml.in.h:3 ../comps-f8.xml.in.h:3 ../comps-f9.xml.in.h:3
 msgid "Afrikaans Support"
@@ -167,7 +168,7 @@ msgstr "Razvojne biblioteke"
 #: ../comps-f7.xml.in.h:35 ../comps-f8.xml.in.h:36 ../comps-f9.xml.in.h:36
 #: ../comps-el4.xml.in.h:11 ../comps-el5.xml.in.h:12
 msgid "Development Tools"
-msgstr "Razvojni alati"
+msgstr "Razvojne alatke"
 
 #: ../comps-f7.xml.in.h:36 ../comps-f8.xml.in.h:37 ../comps-f9.xml.in.h:37
 msgid "Dial-up Networking Support"
@@ -224,9 +225,8 @@ msgstr "Podrška za farski"
 
 #: ../comps-f7.xml.in.h:48 ../comps-f8.xml.in.h:49 ../comps-f9.xml.in.h:49
 #: ../comps-el4.xml.in.h:18 ../comps-el5.xml.in.h:19
-#, fuzzy
 msgid "Fedora Packager"
-msgstr "Fedora Eclipse"
+msgstr "Fedora program za pakovanje"
 
 #: ../comps-f7.xml.in.h:49 ../comps-f8.xml.in.h:50 ../comps-f9.xml.in.h:50
 msgid "Filipino Support"
@@ -264,8 +264,8 @@ msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
 msgstr ""
-"GNOME je moćno grafičko korisničko sučelje koje sadrži panel, radnu površ, "
-"sistemske ikone, i grafički upravnik datotekama."
+"GNOME je moćno grafičko korisničko okruženje koje sadrži panel, radnu "
+"površinu, sistemske ikone, i grafički upravljač datotekama."
 
 #: ../comps-f7.xml.in.h:56 ../comps-f8.xml.in.h:59 ../comps-f9.xml.in.h:59
 msgid "Gaelic Support"
@@ -359,7 +359,7 @@ msgstr ""
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
 msgstr ""
-"Instalirajte ove alate da omogućite štampanje na sistemu, ili ulogu sistema "
+"Instalirajte ove alatke da omogućite štampanje na sistemu, ili ulogu sistema "
 "kao servera za štampanje."
 
 #: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:78 ../comps-f9.xml.in.h:78
@@ -368,7 +368,7 @@ msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
 msgstr ""
 "Instalirajte ovu grupu paketa ako želite da koristite osnovno grafičko (X) "
-"korisničko sučelje."
+"korisničko okruženje."
 
 #: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:80 ../comps-f9.xml.in.h:80
 msgid "Inuktitut Support"
@@ -412,8 +412,8 @@ msgid ""
 "KDE is a powerful graphical user interface which includes a panel, desktop, "
 "system icons, and a graphical file manager."
 msgstr ""
-"KDE je moćno grafičko korisničko sučelje koje sadrži panel, radnu površ, "
-"sistemske ikone, i grafički upravnik datotekama."
+"KDE je moćno grafičko korisničko okruženje koje sadrži panel, radnu "
+"površinu, sistemske ikone, i grafički upravljač datotekama."
 
 #: ../comps-f7.xml.in.h:85 ../comps-f8.xml.in.h:89 ../comps-f9.xml.in.h:89
 msgid "Kannada Support"
@@ -536,7 +536,7 @@ msgstr "Podrška za štampanje"
 
 #: ../comps-f7.xml.in.h:113 ../comps-f8.xml.in.h:122 ../comps-f9.xml.in.h:122
 msgid "Punjabi Support"
-msgstr "Podrška za pendžapski"
+msgstr "Podrška za pandžabi"
 
 #: ../comps-f7.xml.in.h:114 ../comps-f8.xml.in.h:123 ../comps-f9.xml.in.h:123
 msgid "Romanian Support"
@@ -560,7 +560,7 @@ msgstr "Podrška za srpski"
 
 #: ../comps-f7.xml.in.h:119 ../comps-f8.xml.in.h:128 ../comps-f9.xml.in.h:128
 msgid "Server Configuration Tools"
-msgstr "Alati za podešavanje servera"
+msgstr "Alatke za podešavanje servera"
 
 #: ../comps-f7.xml.in.h:120 ../comps-f8.xml.in.h:129 ../comps-f9.xml.in.h:129
 #: ../comps-el4.xml.in.h:41 ../comps-el5.xml.in.h:41
@@ -572,7 +572,7 @@ msgstr "Serveri"
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
-"Jednostavni upravnici prozorima koji nisu deo nekog većeg radnog okruženja."
+"Jednostavni upravljači prozorima koji nisu deo nekog većeg radnog okruženja."
 
 #: ../comps-f7.xml.in.h:122 ../comps-f8.xml.in.h:131 ../comps-f9.xml.in.h:131
 msgid "Sinhala Support"
@@ -604,7 +604,7 @@ msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
 msgstr ""
-"Ponekad zvani uređivači teksta, ovo programi omogućavaju pravljenje i izmenu "
+"Takozvani uređivači teksta, ovo programi omogućavaju pravljenje i izmenu "
 "tekstualnih datoteka. Uključuju Emacs i Vi."
 
 #: ../comps-f7.xml.in.h:129 ../comps-f8.xml.in.h:138 ../comps-f9.xml.in.h:138
@@ -645,7 +645,7 @@ msgstr "Podrška za švedski"
 #: ../comps-f7.xml.in.h:137 ../comps-f8.xml.in.h:146 ../comps-f9.xml.in.h:146
 #: ../comps-el4.xml.in.h:48 ../comps-el5.xml.in.h:46
 msgid "System Tools"
-msgstr "Sistemski alati"
+msgstr "Sistemske alatke"
 
 #: ../comps-f7.xml.in.h:138 ../comps-f8.xml.in.h:147 ../comps-f9.xml.in.h:147
 msgid "Tagalog Support"
@@ -675,7 +675,7 @@ msgstr "Eclipse integrisano razvojno okruženje."
 #: ../comps-f7.xml.in.h:144 ../comps-f8.xml.in.h:152 ../comps-f9.xml.in.h:152
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:49
 msgid "The applications include office suites, PDF viewers, and more."
-msgstr "Pregledači PDF datoteka, kancelarijski i još mnogi drugi programi."
+msgstr "Pregledači PDF datoteka, kancelarijski i drugi programi."
 
 #: ../comps-f7.xml.in.h:145 ../comps-f8.xml.in.h:153 ../comps-f9.xml.in.h:153
 msgid ""
@@ -709,8 +709,7 @@ msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 msgstr ""
-"Ovi paketi sadrže servere za stare mrežne protokole kao što su rsh and "
-"telnet."
+"Ovi paketi sadrže servere za stare mrežne protokole kao što su rsh i telnet."
 
 #: ../comps-f7.xml.in.h:151 ../comps-f8.xml.in.h:159 ../comps-f9.xml.in.h:159
 msgid "These packages provide a virtualization environment."
@@ -718,7 +717,7 @@ msgstr "Ovi paketi pružaju okruženje za virtualizaciju."
 
 #: ../comps-f7.xml.in.h:152 ../comps-f8.xml.in.h:160 ../comps-f9.xml.in.h:160
 msgid "These packages provide compatibility with previous releases."
-msgstr "Ovi paketi pružaju usaglašenost sa prethodnim izdanjima."
+msgstr "Ovi paketi obezbeđuju usaglašenost sa prethodnim izdanjima."
 
 #: ../comps-f7.xml.in.h:153 ../comps-f8.xml.in.h:161 ../comps-f9.xml.in.h:161
 msgid ""
@@ -733,18 +732,18 @@ msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
-"Ovi alati omogućavaju pravljenje dokumentacije u DocBook obliku i njegovo "
+"Ove alatke omogućavaju pravljenje dokumentacije u DocBook obliku i njegovo "
 "pretvaranje u HTML, PDF, Postscript, i tekst."
 
 #: ../comps-f7.xml.in.h:155 ../comps-f8.xml.in.h:163 ../comps-f9.xml.in.h:163
 #: ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:53
 msgid "These tools allow you to run a Web server on the system."
-msgstr "Ovi alati omogućavaju postavljanje Veb servera na sistemu."
+msgstr "Ove alatke omogućavaju postavljanje Veb servera na sistemu."
 
 #: ../comps-f7.xml.in.h:156 ../comps-f8.xml.in.h:164 ../comps-f9.xml.in.h:164
 #: ../comps-el4.xml.in.h:56 ../comps-el5.xml.in.h:54
 msgid "These tools allow you to run an FTP server on the system."
-msgstr "Ovi alati omogućavaju postavljanje FTP servera na sistemu."
+msgstr "Ove alatke omogućavaju postavljanje FTP servera na sistemu."
 
 #: ../comps-f7.xml.in.h:157 ../comps-f8.xml.in.h:165 ../comps-f9.xml.in.h:165
 #: ../comps-el4.xml.in.h:57 ../comps-el5.xml.in.h:55
@@ -752,8 +751,8 @@ msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
 msgstr ""
-"Ovi alati sadrže osnovne razvojne alate kao što su automake, gcc, perl, "
-"python, i programi za praćenje grešaka."
+"Ove alatke sadrže osnovne razvojne alatke kao što su automake, gcc, perl, "
+"python, i programe za praćenje grešaka."
 
 #: ../comps-f7.xml.in.h:158 ../comps-f8.xml.in.h:166 ../comps-f9.xml.in.h:166
 #: ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:56
@@ -763,7 +762,7 @@ msgstr "Ova grupa omogućava da sistem bude podešen kao server vesti."
 #: ../comps-f7.xml.in.h:159 ../comps-f8.xml.in.h:167 ../comps-f9.xml.in.h:167
 msgid "This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
-"Ova grupa sadrži sve Red Hatove prilagođene alate za podešavanje servera."
+"Ova grupa sadrži sve Red Hatove prilagođene alatke za podešavanje servera."
 
 #: ../comps-f7.xml.in.h:160 ../comps-f8.xml.in.h:168 ../comps-f9.xml.in.h:168
 msgid ""
@@ -807,20 +806,20 @@ msgid ""
 "This group is a collection of graphical administration tools for the system, "
 "such as for managing user accounts and configuring system hardware."
 msgstr ""
-"Ova grupa je skupina grafičkih sistemskih administrativnih alata, npr. za "
+"Ova grupa je skup grafičkih sistemskih administrativnih alatki, npr. za "
 "upravljanje korisničkim nalozima i podešavanje hardvera u sistemu."
 
 #: ../comps-f7.xml.in.h:166 ../comps-f8.xml.in.h:174 ../comps-f9.xml.in.h:174
 #: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:64
 msgid ""
 "This group is a collection of tools and resources of Armenian environments."
-msgstr "Ova grupa je skupina alata i resursa za jermensko okruženje."
+msgstr "Ova grupa je skup alatki i resursa za jermensko okruženje."
 
 #: ../comps-f7.xml.in.h:167 ../comps-f8.xml.in.h:175 ../comps-f9.xml.in.h:175
 #: ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:68
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
-msgstr "Ova grupa je skupina alata za razne programe svojstvene hardveru."
+msgstr "Ova grupa je skup alatki za razne programe svojstvene hardveru."
 
 #: ../comps-f7.xml.in.h:168 ../comps-f8.xml.in.h:176 ../comps-f9.xml.in.h:176
 #: ../comps-el4.xml.in.h:70 ../comps-el5.xml.in.h:69
@@ -828,8 +827,8 @@ msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr ""
-"Ova grupa je skupina raznih sistemskih alata, kao što su klijent za pristup "
-"SMB razdeljenim objektima i alati za nadgledanje mrežnog saobraćaja."
+"Ova grupa je skup raznih sistemskih alatki, kao što su klijent za pristup "
+"SMB deljenim objektima i alatke za nadgledanje mrežnog saobraćaja."
 
 #: ../comps-f7.xml.in.h:169 ../comps-f8.xml.in.h:177 ../comps-f9.xml.in.h:177
 msgid ""
@@ -842,8 +841,8 @@ msgid ""
 "This package group allows you to share files between Linux and MS Windows"
 "(tm) systems."
 msgstr ""
-"Ova grupa paketa omogućava razdeljivanje datoteka između Linux i MS Windows"
-"(tm) sistema."
+"Ova grupa paketa omogućava deljenje datoteka između Linux i MS Windows(tm) "
+"sistema."
 
 #: ../comps-f7.xml.in.h:171 ../comps-f8.xml.in.h:179 ../comps-f9.xml.in.h:179
 msgid "This package group contains packages useful for use with MySQL."
@@ -864,7 +863,7 @@ msgstr "Podrška za tongu"
 #: ../comps-f7.xml.in.h:175 ../comps-f8.xml.in.h:183 ../comps-f9.xml.in.h:183
 #: ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:70
 msgid "Tools and Utilities needed by a Fedora Packager"
-msgstr ""
+msgstr "Alatke i uslužni programi koje koristi Fedora program za pakovanje"
 
 #: ../comps-f7.xml.in.h:176 ../comps-f8.xml.in.h:184 ../comps-f9.xml.in.h:184
 msgid "Tsonga Support"
@@ -925,7 +924,7 @@ msgstr "Podrška za velški"
 #: ../comps-f7.xml.in.h:189 ../comps-f8.xml.in.h:197 ../comps-f9.xml.in.h:197
 #: ../comps-el4.xml.in.h:75 ../comps-el5.xml.in.h:75
 msgid "Window Managers"
-msgstr "Upravnici prozorima"
+msgstr "Upravljači prozorima"
 
 #: ../comps-f7.xml.in.h:190 ../comps-f8.xml.in.h:198 ../comps-f9.xml.in.h:198
 msgid "Windows File Server"
@@ -970,7 +969,7 @@ msgstr "Fontovi"
 
 #: ../comps-f8.xml.in.h:53 ../comps-f9.xml.in.h:53
 msgid "Fonts packages for rendering text on the desktop."
-msgstr "Paketi fontova za prikaz teksta na radnoj površi."
+msgstr "Paketi fontova za prikaz teksta na radnoj površini."
 
 #: ../comps-f8.xml.in.h:79 ../comps-f9.xml.in.h:79
 msgid "Integrated Development Environments based on Eclipse."
@@ -1009,24 +1008,24 @@ msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
 msgstr ""
-"GNOME je napredno, grafičko korisničko sučelje koje sadrži panel, radnu "
-"površ, sistemske ikone, i grafičko upravljanje datotekama."
+"GNOME je napredno, grafičko korisničko okruženje koje sadrži panel, radnu "
+"površinu, sistemske ikone, i grafičko upravljanje datotekama."
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:35
 msgid ""
 "KDE is a powerful, graphical user interface which includes a panel, desktop, "
 "system icons, and a graphical file manager."
 msgstr ""
-"KDE je napredno, grafičko korisničko sučelje koje sadrži panel, radnu površ, "
-"sistemske ikone, i grafičko upravljanje datotekama."
+"KDE je napredno, grafičko korisničko okruženje koje sadrži panel, radnu "
+"površinu, sistemske ikone, i grafičko upravljanje datotekama."
 
 #: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:44
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
 msgstr ""
-"Ponekad zvani uređivači teksta, ovo su programi za pravljenje i izmenu "
-"datoteka. Neki od njih su Emacs i Vi."
+"Takozvani uređivači teksta, ovo su programi za pravljenje i izmenu datoteka. "
+"Neki od njih su Emacs i Vi."
 
 #: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:48
 msgid "The XEmacs text editor."
@@ -1037,27 +1036,27 @@ msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
 msgstr ""
-"Ovi alati omogućavaju pravljenje dokumentacije u DocBook obliku, pa potom "
+"Ove alatke omogućavaju pravljenje dokumentacije u DocBook obliku, pa potom "
 "njeno pretvaranje u HTML, PDF, Postscript, i tekst."
 
 #: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:62
 msgid "This group is a collection of network servers for specific purposes"
-msgstr "Ova grupa je skupina mrežnih servera za posebne namene."
+msgstr "Ova grupa je skup mrežnih servera za posebne namene."
 
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
 msgid ""
 "This group is a collection of tools and resources of Arabic environments."
-msgstr "Ova grupa je skupina alata i resursa za arapsko okruženje."
+msgstr "Ova grupa je skup alatki i resursa za arapsko okruženje."
 
 #: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:66
 msgid ""
 "This group is a collection of tools and resources of Hebrew environments."
-msgstr "Ova grupa je skupina alata i resursa za hebrejsko okruženje."
+msgstr "Ova grupa je skup alatki i resursa za hebrejsko okruženje."
 
 #: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
 msgid ""
 "This group is a collection of tools and resources of Japanese environments."
-msgstr "Ova grupa je skupina alata i resursa za japansko okruženje."
+msgstr "Ova grupa je skup alatki i resursa za japansko okruženje."
 
 #: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:77
 msgid "XEmacs"
@@ -1066,4 +1065,4 @@ msgstr "XEmacs"
 #: ../comps-el5.xml.in.h:65
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
-msgstr "Ova grupa je skupina alata i resursa za češko okruženje."
+msgstr "Ova grupa je skup alatki i resursa za češko okruženje."
