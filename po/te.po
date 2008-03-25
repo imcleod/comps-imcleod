@@ -1,5 +1,4 @@
-# translation of te1.po to Telugu
-# translation of te.po to Telugu
+# translation of comps.HEAD.te.po to Telugu
 # translation of te.po to
 # translation of te.po to
 # translation of te.po to
@@ -8,20 +7,22 @@
 # translation of te.po to
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER, 2006.
-# Sree Ganesh <sthottem@redhat.com>, 2006, 2007.
 #
+# Sree Ganesh <sthottem@redhat.com>, 2006, 2007.
+# Krishna Babu K <kkrothap@redhat.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: te\n"
+"Project-Id-Version: comps.HEAD.te\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-20 11:23-0400\n"
-"PO-Revision-Date: 2007-02-07 17:17+0530\n"
-"Last-Translator: Sree Ganesh <sthottem@redhat.com>\n"
+"POT-Creation-Date: 2008-03-25 10:14+0000\n"
+"PO-Revision-Date: 2008-03-25 19:14+0530\n"
+"Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
 "Language-Team: Telugu <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
 
 #: ../comps-f7.xml.in.h:1 ../comps-f8.xml.in.h:1 ../comps-f9.xml.in.h:1
 msgid "A lightweight desktop environment that works well on low end machines."
@@ -37,9 +38,8 @@ msgid "Afrikaans Support"
 msgstr "Afrikaanల మద్దతు"
 
 #: ../comps-f7.xml.in.h:4 ../comps-f8.xml.in.h:4 ../comps-f9.xml.in.h:4
-#, fuzzy
 msgid "Albanian Support"
-msgstr "Canadian మద్దతు"
+msgstr "Albanian మద్దతు"
 
 #: ../comps-f7.xml.in.h:5 ../comps-f8.xml.in.h:5 ../comps-f9.xml.in.h:5
 #: ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
@@ -87,23 +87,20 @@ msgid "Basque Support"
 msgstr "Basque మద్దతు"
 
 #: ../comps-f7.xml.in.h:15 ../comps-f8.xml.in.h:15 ../comps-f9.xml.in.h:15
-#, fuzzy
 msgid "Belarusian Support"
-msgstr "బల్గేరియన్ మద్దతు"
+msgstr "Belarusian మద్దతు"
 
 #: ../comps-f7.xml.in.h:16 ../comps-f8.xml.in.h:16 ../comps-f9.xml.in.h:16
 msgid "Bengali Support"
 msgstr "బెంగాలీ మద్దతు"
 
 #: ../comps-f7.xml.in.h:17 ../comps-f8.xml.in.h:17 ../comps-f9.xml.in.h:17
-#, fuzzy
 msgid "Bhutanese Support"
-msgstr "Chinese మద్దతు"
+msgstr "Bhutanese మద్దతు"
 
 #: ../comps-f7.xml.in.h:18 ../comps-f8.xml.in.h:18 ../comps-f9.xml.in.h:18
-#, fuzzy
 msgid "Bosnian Support"
-msgstr "Estonian మద్దతు"
+msgstr "Bosnian మద్దతు"
 
 #: ../comps-f7.xml.in.h:19 ../comps-f8.xml.in.h:19 ../comps-f9.xml.in.h:19
 msgid "Brazilian Portuguese Support"
@@ -233,14 +230,12 @@ msgstr "ఫెరోసే మద్దతు"
 
 #: ../comps-f7.xml.in.h:48 ../comps-f8.xml.in.h:49 ../comps-f9.xml.in.h:49
 #: ../comps-el4.xml.in.h:18 ../comps-el5.xml.in.h:19
-#, fuzzy
 msgid "Fedora Packager"
-msgstr "Eclipse"
+msgstr "Fedora సంకలని"
 
 #: ../comps-f7.xml.in.h:49 ../comps-f8.xml.in.h:50 ../comps-f9.xml.in.h:50
-#, fuzzy
 msgid "Filipino Support"
-msgstr "గలీసియన్ మద్దతు"
+msgstr "Filipino మద్దతు"
 
 #: ../comps-f7.xml.in.h:50 ../comps-f8.xml.in.h:51 ../comps-f9.xml.in.h:51
 msgid "Finnish Support"
@@ -291,9 +286,8 @@ msgid "Games and Entertainment"
 msgstr "ఆటలు మరియూ వినోదాలు"
 
 #: ../comps-f7.xml.in.h:59 ../comps-f8.xml.in.h:62 ../comps-f9.xml.in.h:62
-#, fuzzy
 msgid "Georgian Support"
-msgstr "జర్మన్ మద్దతు"
+msgstr "Georgian మద్దతు"
 
 #: ../comps-f7.xml.in.h:60 ../comps-f8.xml.in.h:63 ../comps-f9.xml.in.h:63
 msgid "German Support"
@@ -362,21 +356,17 @@ msgid "Install these packages to develop QT and KDE graphical applications."
 msgstr "QT మరియూ KDE చిత్ర అనువర్తనాల అభివృద్ధికి ఈ packageలు సంస్థాపించు."
 
 #: ../comps-f7.xml.in.h:74 ../comps-f8.xml.in.h:77 ../comps-f9.xml.in.h:77
-msgid ""
-"Install these tools to enable the system to print or act as a print server."
+msgid "Install these tools to enable the system to print or act as a print server."
 msgstr "ఈ ఉపకరణాల సంస్థాపనవల్ల ముద్రించటానికి, ముద్రక సర్వరును పనిచేయించటానికి కుదరదు."
 
 #: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:78 ../comps-f9.xml.in.h:78
 #: ../comps-el4.xml.in.h:29 ../comps-el5.xml.in.h:31
-msgid ""
-"Install this group of packages to use the base graphical (X) user interface."
-msgstr ""
-"ఈ package సమూహాన్ని సంస్థాపించటానికి మూల graphical (X) వినియోగదారుని interfaceని ఉపయోగించండి."
+msgid "Install this group of packages to use the base graphical (X) user interface."
+msgstr "ఈ package సమూహాన్ని సంస్థాపించటానికి మూల graphical (X) వినియోగదారుని interfaceని ఉపయోగించండి."
 
 #: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:80 ../comps-f9.xml.in.h:80
-#, fuzzy
 msgid "Inuktitut Support"
-msgstr "జులు మద్దతు"
+msgstr "Inuktitut మద్దతు"
 
 #: ../comps-f7.xml.in.h:77 ../comps-f8.xml.in.h:81 ../comps-f9.xml.in.h:81
 msgid "Irish Support"
@@ -424,9 +414,8 @@ msgid "Kannada Support"
 msgstr "కన్నడా మద్దతు"
 
 #: ../comps-f7.xml.in.h:86 ../comps-f8.xml.in.h:90 ../comps-f9.xml.in.h:90
-#, fuzzy
 msgid "Khmer Support"
-msgstr "జర్మన్ మద్దతు"
+msgstr "Khmer మద్దతు"
 
 #: ../comps-f7.xml.in.h:87 ../comps-f8.xml.in.h:91 ../comps-f9.xml.in.h:91
 msgid "Korean Support"
@@ -437,14 +426,12 @@ msgid "Languages"
 msgstr "భాషలు"
 
 #: ../comps-f7.xml.in.h:89 ../comps-f8.xml.in.h:93 ../comps-f9.xml.in.h:93
-#, fuzzy
 msgid "Lao Support"
-msgstr "తాయీ మద్దతు"
+msgstr "Lao మద్దతు"
 
 #: ../comps-f7.xml.in.h:90 ../comps-f8.xml.in.h:94 ../comps-f9.xml.in.h:94
-#, fuzzy
 msgid "Latvian Support"
-msgstr "Croatian మద్దతు"
+msgstr "Latvian మద్దతు"
 
 #: ../comps-f7.xml.in.h:91 ../comps-f8.xml.in.h:96 ../comps-f9.xml.in.h:96
 msgid "Legacy Network Server"
@@ -476,9 +463,8 @@ msgid "Malayalam Support"
 msgstr "మళయాళం మద్దతు"
 
 #: ../comps-f7.xml.in.h:98 ../comps-f8.xml.in.h:104 ../comps-f9.xml.in.h:104
-#, fuzzy
 msgid "Maori Support"
-msgstr "మరాఠీ మద్దతు"
+msgstr "Maori మద్దతు"
 
 #: ../comps-f7.xml.in.h:99 ../comps-f8.xml.in.h:105 ../comps-f9.xml.in.h:105
 msgid "Marathi Support"
@@ -525,9 +511,8 @@ msgstr ""
 "applications."
 
 #: ../comps-f7.xml.in.h:108 ../comps-f8.xml.in.h:117 ../comps-f9.xml.in.h:117
-#, fuzzy
 msgid "Persian Support"
-msgstr "Serbian మద్దతు"
+msgstr "Persian మద్దతు"
 
 #: ../comps-f7.xml.in.h:109 ../comps-f8.xml.in.h:118 ../comps-f9.xml.in.h:118
 msgid "Polish Support"
@@ -562,9 +547,8 @@ msgid "Russian Support"
 msgstr "రష్యను మద్దతు"
 
 #: ../comps-f7.xml.in.h:117 ../comps-f8.xml.in.h:126 ../comps-f9.xml.in.h:126
-#, fuzzy
 msgid "Samoan Support"
-msgstr "జర్మన్ మద్దతు"
+msgstr "Samoan మద్దతు"
 
 #: ../comps-f7.xml.in.h:118 ../comps-f8.xml.in.h:127 ../comps-f9.xml.in.h:127
 msgid "Serbian Support"
@@ -581,8 +565,7 @@ msgstr "సర్వర్లు"
 
 #: ../comps-f7.xml.in.h:121 ../comps-f8.xml.in.h:130 ../comps-f9.xml.in.h:130
 #: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:42
-msgid ""
-"Simple window managers that aren't part of a larger desktop environment."
+msgid "Simple window managers that aren't part of a larger desktop environment."
 msgstr "దీర్ఘడెస్కుటాప్ వాతావరణంలో భాగం కాని సాధారణ విండో మేనేజరు."
 
 #: ../comps-f7.xml.in.h:122 ../comps-f8.xml.in.h:131 ../comps-f9.xml.in.h:131
@@ -607,9 +590,8 @@ msgid "Software used for running network servers"
 msgstr "network సర్వర్లను పనిచచేయించటనికి  ఉపయోగపడే Software"
 
 #: ../comps-f7.xml.in.h:127 ../comps-f8.xml.in.h:136 ../comps-f9.xml.in.h:136
-#, fuzzy
 msgid "Somali Support"
-msgstr "స్వాతి మద్దతు"
+msgstr "Somali మద్దతు"
 
 #: ../comps-f7.xml.in.h:128 ../comps-f8.xml.in.h:137 ../comps-f9.xml.in.h:137
 msgid ""
@@ -660,9 +642,8 @@ msgid "System Tools"
 msgstr "కంప్యూటరు ఉపకరణాలు"
 
 #: ../comps-f7.xml.in.h:138 ../comps-f8.xml.in.h:147 ../comps-f9.xml.in.h:147
-#, fuzzy
 msgid "Tagalog Support"
-msgstr "తమిళం మద్దతు"
+msgstr "Tagalog మద్దతు"
 
 #: ../comps-f7.xml.in.h:139 ../comps-f8.xml.in.h:148 ../comps-f9.xml.in.h:148
 msgid "Tamil Support"
@@ -691,8 +672,7 @@ msgid "The applications include office suites, PDF viewers, and more."
 msgstr "ఈ అనువర్తనాలు కార్యాలయ suites, PDF దృశ్యాలు మరియూ అనేకం కలిగి ఉంది."
 
 #: ../comps-f7.xml.in.h:145 ../comps-f8.xml.in.h:153 ../comps-f9.xml.in.h:153
-msgid ""
-"The packages in this group are core libraries needed to develop applications."
+msgid "The packages in this group are core libraries needed to develop applications."
 msgstr "ఈ సమూహంలో ఉన్న packages అనువర్తనాల అభివృద్ధికి అవసరమైన మూడి libraries."
 
 #: ../comps-f7.xml.in.h:146 ../comps-f8.xml.in.h:154 ../comps-f9.xml.in.h:154
@@ -701,19 +681,16 @@ msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr "IMAP లేక SMTP mail సర్వరు ఆకృతీకరణలో ఈ అనువర్తనాలు మద్దతిస్తాయి."
 
 #: ../comps-f7.xml.in.h:147 ../comps-f8.xml.in.h:155 ../comps-f9.xml.in.h:155
-msgid ""
-"These packages allow you to develop applications for the X Window System."
+msgid "These packages allow you to develop applications for the X Window System."
 msgstr " X Window విధానానికి అనువర్తనాల అభివృధికి ఈ packageలు అనుమతిస్తాయి."
 
 #: ../comps-f7.xml.in.h:148 ../comps-f8.xml.in.h:156 ../comps-f9.xml.in.h:156
 #: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:51
-msgid ""
-"These packages are helpful when developing web applications or web pages."
+msgid "These packages are helpful when developing web applications or web pages."
 msgstr "వెబ్ అనువర్తనాలనూ లేదా వెబ్ పుటలను అభివృద్ధి చేయటానికి ఈ పాకేజీలు సహకరిస్తాయి."
 
 #: ../comps-f7.xml.in.h:149 ../comps-f8.xml.in.h:157 ../comps-f9.xml.in.h:157
-msgid ""
-"These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgid "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr "ఈ packageలు network ఆధారిత సర్వర్లు - DHCP, Kerberos మరియూ NISమొ. కలిగి ఉంది."
 
 #: ../comps-f7.xml.in.h:150 ../comps-f8.xml.in.h:158 ../comps-f9.xml.in.h:158
@@ -819,14 +796,12 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:166 ../comps-f8.xml.in.h:174 ../comps-f9.xml.in.h:174
 #: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:64
-msgid ""
-"This group is a collection of tools and resources of Armenian environments."
+msgid "This group is a collection of tools and resources of Armenian environments."
 msgstr "అర్మేనియన్ వాతావరణాలకు ఈ సమూహం ఉపకరణాలను మరియూ ఆకరాలను కలిగి ఉంది."
 
 #: ../comps-f7.xml.in.h:167 ../comps-f8.xml.in.h:175 ../comps-f9.xml.in.h:175
 #: ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:68
-msgid ""
-"This group is a collection of tools for various hardware specific utilities."
+msgid "This group is a collection of tools for various hardware specific utilities."
 msgstr "ఈ సమూహం పెక్కు హార్డువేరు వినియోగాలకు కావలసిన ఉపకరణాలను కలిగి ఉంది."
 
 #: ../comps-f7.xml.in.h:168 ../comps-f8.xml.in.h:176 ../comps-f9.xml.in.h:176
@@ -839,17 +814,14 @@ msgstr ""
 "ఉపకరణాలు మొదలైన కంప్యూటరు ఉపకరణాలను కలిగి ఉంది."
 
 #: ../comps-f7.xml.in.h:169 ../comps-f8.xml.in.h:177 ../comps-f9.xml.in.h:177
-msgid ""
-"This package group allows you to run a DNS name server (BIND) on the system."
-msgstr ""
-"DNS పేరుగల సర్వరును (BIND) మీ కంప్యూటరులో ఉపయోగించటానికి ఈ అనువర్తనాల సమూహం అనుమతిస్తుంది."
+msgid "This package group allows you to run a DNS name server (BIND) on the system."
+msgstr "DNS పేరుగల సర్వరును (BIND) మీ కంప్యూటరులో ఉపయోగించటానికి ఈ అనువర్తనాల సమూహం అనుమతిస్తుంది."
 
 #: ../comps-f7.xml.in.h:170 ../comps-f8.xml.in.h:178 ../comps-f9.xml.in.h:178
 msgid ""
 "This package group allows you to share files between Linux and MS Windows"
 "(tm) systems."
-msgstr ""
-"Linux and MS Windows (tm) విధానాలమధ్య ఫైళ్ల పంపకానికి ఈ అనువర్తనాల సమూహం అనుమతిస్తుంది."
+msgstr "Linux and MS Windows (tm) విధానాలమధ్య ఫైళ్ల పంపకానికి ఈ అనువర్తనాల సమూహం అనుమతిస్తుంది."
 
 #: ../comps-f7.xml.in.h:171 ../comps-f8.xml.in.h:179 ../comps-f9.xml.in.h:179
 msgid "This package group contains packages useful for use with MySQL."
@@ -860,19 +832,17 @@ msgid "This package group includes packages useful for use with Postgresql."
 msgstr "Postgresqlతో ఉపయోగించే ఉపయోగకరమైన packagelanu ఈ package సమూహం కలిగిఉంది."
 
 #: ../comps-f7.xml.in.h:173 ../comps-f8.xml.in.h:181 ../comps-f9.xml.in.h:181
-#, fuzzy
 msgid "Tibetan Support"
-msgstr "జర్మన్ మద్దతు"
+msgstr "Tibetan మద్దతు"
 
 #: ../comps-f7.xml.in.h:174 ../comps-f8.xml.in.h:182 ../comps-f9.xml.in.h:182
-#, fuzzy
 msgid "Tonga Support"
-msgstr "టిసొంగ మద్దతు"
+msgstr "Tonga మద్దతు"
 
 #: ../comps-f7.xml.in.h:175 ../comps-f8.xml.in.h:183 ../comps-f9.xml.in.h:183
 #: ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:70
 msgid "Tools and Utilities needed by a Fedora Packager"
-msgstr ""
+msgstr "Fedora సంకలని ద్వారా అవసరమగు సాదనములు మరియు సౌలభ్యాలు"
 
 #: ../comps-f7.xml.in.h:176 ../comps-f8.xml.in.h:184 ../comps-f9.xml.in.h:184
 msgid "Tsonga Support"
@@ -891,9 +861,8 @@ msgid "Ukrainian Support"
 msgstr "ఉక్రేయిన్ మద్దతు"
 
 #: ../comps-f7.xml.in.h:180 ../comps-f8.xml.in.h:188 ../comps-f9.xml.in.h:188
-#, fuzzy
 msgid "Urdu Support"
-msgstr "జులు మద్దతు"
+msgstr "Urdu మద్దతు"
 
 #: ../comps-f7.xml.in.h:181 ../comps-f8.xml.in.h:189 ../comps-f9.xml.in.h:189
 #: ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:71
@@ -910,9 +879,8 @@ msgid "Venda Support"
 msgstr "వెండ మద్దతు"
 
 #: ../comps-f7.xml.in.h:184 ../comps-f8.xml.in.h:192 ../comps-f9.xml.in.h:192
-#, fuzzy
 msgid "Vietnamese Support"
-msgstr "Chinese మద్దతు"
+msgstr "Vietnamese మద్దతు"
 
 #: ../comps-f7.xml.in.h:185 ../comps-f8.xml.in.h:193 ../comps-f9.xml.in.h:193
 msgid "Virtualization"
@@ -968,48 +936,43 @@ msgstr "జులు మద్దతు"
 
 #: ../comps-f8.xml.in.h:21 ../comps-f9.xml.in.h:21
 msgid "Buildsystem building group"
-msgstr ""
+msgstr "బుల్డ్‍‌సిస్టమ్ నిర్మాణ సమూహం"
 
 #: ../comps-f8.xml.in.h:48 ../comps-f9.xml.in.h:48
-#, fuzzy
 msgid "Fedora Eclipse"
-msgstr "Eclipse"
+msgstr "Fedora Eclipse"
 
 #: ../comps-f8.xml.in.h:52 ../comps-f9.xml.in.h:52
 msgid "Fonts"
-msgstr ""
+msgstr "ఫాంట్లు"
 
 #: ../comps-f8.xml.in.h:53 ../comps-f9.xml.in.h:53
 msgid "Fonts packages for rendering text on the desktop."
-msgstr ""
+msgstr "డెస్క్‍‌టాప్ పై పాఠ్యమును ప్రస్ఫుటం చేయుటకొరకు ఫాంట్స్‍ సంకలనాలు."
 
 #: ../comps-f8.xml.in.h:79 ../comps-f9.xml.in.h:79
-#, fuzzy
 msgid "Integrated Development Environments based on Eclipse."
-msgstr "Eclipse సమగ్ర అభివృద్ధి వాతావరణం."
+msgstr "Eclipse పై ఆధారపడి సమగ్ర అభివృద్ది వాతావరణాలు."
 
 #: ../comps-f8.xml.in.h:95 ../comps-f9.xml.in.h:95
 msgid "Legacy Fonts"
-msgstr ""
+msgstr "లెగసి ఫాంట్స్‍"
 
 #: ../comps-f8.xml.in.h:100 ../comps-f9.xml.in.h:100
-#, fuzzy
 msgid "Low Saxon Support"
-msgstr "తాయీ మద్దతు"
+msgstr "కనిష్ఠ సాక్సాన్ మద్దతు"
 
 #: ../comps-f8.xml.in.h:106 ../comps-f9.xml.in.h:106
-#, fuzzy
 msgid "Mongolian Support"
-msgstr "Estonian మద్దతు"
+msgstr "Mongolian మద్దతు"
 
 #: ../comps-f8.xml.in.h:108 ../comps-f9.xml.in.h:108
-#, fuzzy
 msgid "Nepali Support"
-msgstr "బెంగాలీ మద్దతు"
+msgstr "Nepali మద్దతు"
 
 #: ../comps-f8.xml.in.h:114 ../comps-f9.xml.in.h:114
 msgid "Older bitmap and vector fonts packages"
-msgstr ""
+msgstr "పాత బిట్‌మాప్‌లు మరియు సదిశ ఫాంట్స్‍ సంకలనాలు"
 
 #: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
 msgid "Applications for a variety of tasks"
@@ -1057,336 +1020,26 @@ msgstr ""
 "మిమ్మల్ని అనుమతిస్తాయి."
 
 #: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:62
-#, fuzzy
 msgid "This group is a collection of network servers for specific purposes"
-msgstr "ఈ సమూహం పెక్కు హార్డువేరు వినియోగాలకు కావలసిన ఉపకరణాలను కలిగి ఉంది."
+msgstr "ఈ సమూహం ప్రత్యక ప్రయోజనాల కొరకు నెట్వర్క్‍ సేవికల యొక్క పొందిక"
 
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
-#, fuzzy
-msgid ""
-"This group is a collection of tools and resources of Arabic environments."
-msgstr "అర్మేనియన్ వాతావరణాలకు ఈ సమూహం ఉపకరణాలను మరియూ ఆకరాలను కలిగి ఉంది."
+msgid "This group is a collection of tools and resources of Arabic environments."
+msgstr "అరబిక్ వాతావరణాలకు ఈ సమూహం ఉపకరణాలను మరియూ వనరులను కలిగి ఉంది."
 
 #: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:66
-#, fuzzy
-msgid ""
-"This group is a collection of tools and resources of Hebrew environments."
-msgstr "అర్మేనియన్ వాతావరణాలకు ఈ సమూహం ఉపకరణాలను మరియూ ఆకరాలను కలిగి ఉంది."
+msgid "This group is a collection of tools and resources of Hebrew environments."
+msgstr "హెబ్రూ వాతావరణాలకు ఈ సమూహం ఉపకరణాలను మరియూ వనరులను కలిగి ఉంది."
 
 #: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
-#, fuzzy
-msgid ""
-"This group is a collection of tools and resources of Japanese environments."
-msgstr "అర్మేనియన్ వాతావరణాలకు ఈ సమూహం ఉపకరణాలను మరియూ ఆకరాలను కలిగి ఉంది."
+msgid "This group is a collection of tools and resources of Japanese environments."
+msgstr "జపనీస్ వాతావరణాలకు ఈ సమూహం ఉపకరణాలను మరియూ వనరులను కలిగి ఉంది."
 
 #: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:77
 msgid "XEmacs"
 msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:65
-#, fuzzy
-msgid ""
-"This group is a collection of tools and resources of Czech environments."
-msgstr "అర్మేనియన్ వాతావరణాలకు ఈ సమూహం ఉపకరణాలను మరియూ ఆకరాలను కలిగి ఉంది."
+msgid "This group is a collection of tools and resources of Czech environments."
+msgstr "చెక్ వాతావరణాలకు ఈ సమూహం ఉపకరణాలను మరియూ వనరులను కలిగి ఉంది."
 
-#, fuzzy
-#~ msgid "Somail Support"
-#~ msgstr "స్వాతి మద్దతు"
-
-#~ msgid "Brazilian Support"
-#~ msgstr "Brazilian మద్దతు"
-
-#~ msgid "British Support"
-#~ msgstr "British మద్దతు"
-
-#~ msgid "Compatibility Arch Development Support"
-#~ msgstr "సానుకూల Arch అభివృద్ధికి మద్దతు"
-
-#~ msgid "Compatibility Arch Mozilla Support"
-#~ msgstr "సానుకుల Arch Mozilla మద్దతు"
-
-#~ msgid "Compatibility Arch Support"
-#~ msgstr "సానుకూల Arch మద్దతు"
-
-#~ msgid "Cyrillic Support"
-#~ msgstr "Cyrillic మద్దతు"
-
-#~ msgid "Desktops"
-#~ msgstr "తెర"
-
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
-
-#~ msgid "GNOME"
-#~ msgstr "GNOME"
-
-#~ msgid "ISO8859-14 Support"
-#~ msgstr "ISO8859-14 మద్దతు"
-
-#~ msgid "ISO8859-15 Support"
-#~ msgstr "ISO8859-15 మద్దతు"
-
-#~ msgid "ISO8859-2 Support"
-#~ msgstr "ISO8859-2 మద్దతు"
-
-#~ msgid "ISO8859-9 Support"
-#~ msgstr "ISO8859-9 మద్దతు"
-
-#~ msgid "Install these packages to recompile the kernel."
-#~ msgstr "kernel.తిరిగి ఏర్పరచటానికి ఈ packageలను సంస్థాపించు."
-
-#~ msgid "KDE"
-#~ msgstr "KDE"
-
-#~ msgid "KDE Desktop Environment"
-#~ msgstr "KDE Desktop మద్దతు"
-
-#~ msgid "Kernel Development"
-#~ msgstr "Kernel అభివృద్ధి"
-
-#~ msgid "Miscellaneous Included Packages"
-#~ msgstr "చేరిన సంకీర్ణ packageలు"
-
-#~ msgid "Mozilla packages for the x86 platform"
-#~ msgstr "x86 platform కొరకు Mozilla packageలు"
-
-#~ msgid "Multilib support packages"
-#~ msgstr "Multilib మద్దతిచ్చే packageలు"
-
-#~ msgid "SQL Database"
-#~ msgstr "SQL సమాచారనిధి"
-
-#~ msgid "Server"
-#~ msgstr "సర్వరు"
-
-#~ msgid "Support for developing packages for the non-primary architecture"
-#~ msgstr "అప్రాధమిక నిర్మాణాలకొరకు అభివృద్ధి packages కొరకు మద్దతు"
-
-#~ msgid "Syriac Support"
-#~ msgstr "Syriac మద్దతు"
-
-#~ msgid "System"
-#~ msgstr "కంప్యూటరు"
-
-#~ msgid "The GNU Emacs text editor."
-#~ msgstr "GNU Emacs పాఠ కూర్పరి."
-
-#~ msgid ""
-#~ "These packages allow you to configure an IMAP or Postfix mail server."
-#~ msgstr "ఈ packageలు IMAP లేక Postfix mail సర్వరు ఆకృతీకరణలో మిమ్మల్ని అనుమతిస్తాయి."
-
-#~ msgid ""
-#~ "These packages provide compatibility support for previous releases of Red "
-#~ "Hat Enterprise Linux."
-#~ msgstr ""
-#~ "ఈ packages ఇంతకుముందు విడుదలైన Red Hat సంస్థ Linux కొరకు యోగ్యమైన మద్దతుని "
-#~ "సమకూర్చుతుంది."
-
-#~ msgid "Unsupported Development Libraries"
-#~ msgstr "మద్దతివ్వని అభివృద్ధిచెందుతున్న గ్రంధాలయాలు"
-
-#~ msgid "Workstation Common"
-#~ msgstr "ఉమ్మడి కార్యక్షేత్రం"
-
-#~ msgid "ppc64 Compatibility Arch Support"
-#~ msgstr "ppc64 అనుకూల Arch మద్దతు"
-
-#~ msgid "x86 Compatibility Arch Development Support"
-#~ msgstr "x86 సానుకూల Arch అభివృద్ధి మద్దతు"
-
-#~ msgid "x86 Compatibility Arch Support"
-#~ msgstr "x86 సానుకూల Arch మద్దతు"
-
-#~ msgid "Brazilian Portuguese"
-#~ msgstr "బ్రెజీలియన్ పోర్చుగీసు"
-
-#~ msgid "English"
-#~ msgstr "ఇంగ్లీషు"
-
-#~ msgid "French"
-#~ msgstr "ఫ్రెంచి"
-
-#~ msgid "German"
-#~ msgstr "జర్మను"
-
-#~ msgid "Italian"
-#~ msgstr "ఇటాలియను"
-
-#~ msgid "Red Hat Enterprise Linux 3 Documentation"
-#~ msgstr "Red Hat సంస్థ Linux 3 పత్రీకరణ"
-
-#~ msgid "Spanish"
-#~ msgstr "స్పానిష్"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Brazilian Portuguese language."
-#~ msgstr ""
-#~ "ఈ సముహం Brazilian Portuguese భాషలో Red Hat సంస్థ Linux పత్రికీరణను కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "English language."
-#~ msgstr "ఈ సముహం ఆంగ్ల భాషలో Red Hat సంస్థ Linux పత్రికీకరణ కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "French language."
-#~ msgstr "ఈ సముహం ఫ్రెంచి భాషలో Red Hat సంస్థ Linux పత్రికీకరణను కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "German language."
-#~ msgstr "ఈ సముహం జర్మను భాషలో Red Hat సంస్థ Linux పత్రికీకరణను కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Italian language."
-#~ msgstr "ఈ సముహం ఇటాలియను భాషలో Red Hat సంస్థ Linux పత్రికీకరణను కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Spanish language."
-#~ msgstr "ఈ సముహం స్పానిష్ భాషలో Red Hat సంస్థ Linux పత్రికీకరణను కలిగి ఉంది."
-
-#~ msgid "Japanese"
-#~ msgstr "జపనీస్"
-
-#~ msgid "Korean"
-#~ msgstr "కోరియన్"
-
-#~ msgid "Simplified Chinese"
-#~ msgstr "తేలికచేసిన చైనీస్"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Japanese language."
-#~ msgstr "ఈ సముహం జపనీస్ భాషలో Red Hat సంస్థ Linux పత్రికీకరణను కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Korean language."
-#~ msgstr "ఈ సముహం కొరియన్ భాషలో Red Hat సంస్థ Linux పత్రికీకరణను కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Simplified Chinese language."
-#~ msgstr "ఈ సముహం తేలికపాటి చైనీస్ భాషలో Red Hat సంస్థ Linux పత్రికీకరణను కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Traditional Chinese language."
-#~ msgstr "ఈ సముహం సాంప్రదాయక చైనీస్ భాషలో Red Hat సంస్థ Linux పత్రికీకరణను కలిగి ఉంది."
-
-#~ msgid "Traditional Chinese"
-#~ msgstr "సాంప్రదాయక చైనీస్"
-
-#~ msgid "ppc64 Compatibility Arch Development Support"
-#~ msgstr "ppc64 అనుకూల Arch అభివృద్ధి మద్దతు"
-
-#~ msgid "Bengali"
-#~ msgstr "బెంగాలీ"
-
-#~ msgid "Gujarati"
-#~ msgstr "గుజరాతీ"
-
-#~ msgid "Hindi"
-#~ msgstr "హిందీ"
-
-#~ msgid "Punjabi"
-#~ msgstr "పంజాబీ"
-
-#~ msgid "Red Hat Enterprise Linux 4 Documentation"
-#~ msgstr "Red Hat సంస్థ Linux 4 పత్రికీకరణ"
-
-#~ msgid "Tamil"
-#~ msgstr "తమిళం"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Bengali language."
-#~ msgstr "ఈ సముహం Red Hat సంస్థ Linux పత్రికీకరణను బెంగాలీ భాషలో కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Gujarati language."
-#~ msgstr "ఈ సముహం Red Hat సంస్థ Linux పత్రికీకరణను గుజరాతీ భాషలో కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Hindi language."
-#~ msgstr "ఈ సముహం Red Hat సంస్థ Linux పత్రికీకరణను హిందీ భాషలో కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Punjabi language."
-#~ msgstr "ఈ సముహం Red Hat సంస్థ Linux పత్రికీకరణను పంజాబీ భాషలో కలిగి ఉంది."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Tamil language."
-#~ msgstr "ఈ సముహం Red Hat సంస్థ Linux పత్రికీకరణను తమిళ భాషలో కలిగి ఉంది."
-
-#~ msgid "Cluster Storage"
-#~ msgstr "సంయిక్త నిల్వ"
-
-#~ msgid "Clustering Support."
-#~ msgstr "సంయుక్త మద్దతు"
-
-#~ msgid "Packages which provide support for cluster storage."
-#~ msgstr "సంయిక్త నిల్వ కొరకు మద్దతిచ్చే అనువర్తనాలు."
-
-#~ msgid "Packages which provide support for single-node GFS."
-#~ msgstr "single-node GFS కొరకు మద్దతిచ్చే అనువర్తనాలు."
-
-#~ msgid "Single Node GFS Support"
-#~ msgstr "Single Node GFS మద్దతు"
-
-#~ msgid "These packages provide compatibility support with previous releases."
-#~ msgstr "ఈ అనువర్తనాలు ముందలి ఉత్పాదకాలతో సానుకూల మద్దతునిస్తాయి."
-
-#~ msgid "Java Runtime Environments and Development Kits"
-#~ msgstr "Java ఉపయోగించే వాతావరణం మరియూ అభివృద్ధి సామాను"
-
-#~ msgid "Misc"
-#~ msgstr "Misc"
-
-#~ msgid "Misc packages"
-#~ msgstr "Misc ఉపకరణాలు"
-
-#~ msgid "Multimedia"
-#~ msgstr "Multimedia"
-
-#~ msgid "Multimedia applications"
-#~ msgstr "Multimedia అనువర్తనాలు"
-
-#~ msgid ""
-#~ "Packages which provide additional functionality for Red Hat Enterprise "
-#~ "Linux"
-#~ msgstr "Red Hat సంస్థ Linux కొరకు అదనపు నిర్వహణని సమకూర్చే అనువర్తనాలు"
-
-#~ msgid "Red Hat Enterprise Linux Extras"
-#~ msgstr "Red Hat సంస్థ Linux అదనాలు"
-
-#~ msgid "Workstation"
-#~ msgstr "కార్యాలయం"
-
-#~ msgid "Workstation applications and utilities."
-#~ msgstr "కార్యాలయ అనువర్తనాలు మరియు ఉపయోగాలు."
-
-#~ msgid "Virtualization Support."
-#~ msgstr "వాస్తవిక మద్దతు"
-
-#~ msgid "Compatibility Arch"
-#~ msgstr "సానుకూల Arch"
-
-#~ msgid "Compatibility Arch Libraries"
-#~ msgstr "సానుకూల Arch Libraries"
-
-#~ msgid "Multilib library packages"
-#~ msgstr "Multilib library అనువర్తనాలు"
-
-#~ msgid ""
-#~ "Packages which provide functionality for the compatibility architecture."
-#~ msgstr ""
-#~ "Packages which provide functionality for the compatibility architecture."
