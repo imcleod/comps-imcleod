@@ -72,8 +72,8 @@
     <langonly>ar</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-ar</packagereq>
-      <packagereq type="conditional" requires="hunspell">hunspell-ar</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-ar</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-ar</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Arabic</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Arabic</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ar</packagereq>
@@ -180,6 +180,7 @@
       <packagereq type="mandatory">quota</packagereq>
       <packagereq type="mandatory">tmpwatch</packagereq>
       <packagereq type="mandatory">traceroute</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
       <packagereq type="default">acpid</packagereq>
       <packagereq type="default">anacron</packagereq>
       <packagereq type="default">autofs</packagereq>
@@ -202,7 +203,6 @@
       <packagereq type="default">gnupg</packagereq>
       <packagereq type="default">gpm</packagereq>
       <packagereq type="default">hunspell</packagereq>
-      <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
       <packagereq type="default">iptstate</packagereq>
       <packagereq type="default">irda-utils</packagereq>
       <packagereq type="default">irqbalance</packagereq>
@@ -271,8 +271,8 @@
       <packagereq type="default">yum</packagereq>
       <packagereq type="default">yum-utils</packagereq>
       <packagereq type="default">zip</packagereq>
-      <packagereq type="optional">aspell</packagereq>
       <packagereq type="optional">apmd</packagereq>
+      <packagereq type="optional">aspell</packagereq>
       <packagereq type="optional">authd</packagereq>
       <packagereq type="optional">bridge-utils</packagereq>
       <packagereq type="optional">brltty</packagereq>
@@ -2195,8 +2195,8 @@
       <packagereq type="mandatory">m17n-contrib-hindi</packagereq>
       <packagereq type="mandatory">m17n-db-hindi</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-hi</packagereq>
-      <packagereq type="conditional" requires="hunspell">hunspell-hi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-hi</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-hi</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Hindi</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Hindi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
@@ -2905,8 +2905,8 @@
       <packagereq type="mandatory">lohit-fonts-hindi</packagereq>
       <packagereq type="mandatory">m17n-contrib-marathi</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-mr</packagereq>
-      <packagereq type="conditional" requires="hunspell">hunspell-mr</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-mr</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-mr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mr_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-marathi</packagereq>
       <packagereq type="default">samyak-fonts-devanagari</packagereq>
