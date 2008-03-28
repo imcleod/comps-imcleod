@@ -525,6 +525,7 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-bg</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-bg</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bg_BG</packagereq>
+      <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -1222,6 +1223,7 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-et</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-et</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-et_EE</packagereq>
+      <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -3284,6 +3286,7 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ru</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ru</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
+      <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
@@ -3322,6 +3325,7 @@
       <packagereq type="conditional" requires="moodle">moodle-sr_cr_bo</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sr_lt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sr</packagereq>
+      <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -3999,6 +4003,7 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-uk</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-uk</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-uk</packagereq>
+      <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
