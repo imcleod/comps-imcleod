@@ -393,6 +393,7 @@
     <packagelist>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Belarusian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-be</packagereq>
+      <packagereq type="optional">edrip-fonts</packagereq>
     </packagelist>
   </group>
   <group>
