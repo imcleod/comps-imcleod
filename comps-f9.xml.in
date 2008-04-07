@@ -275,7 +275,9 @@
       <packagereq type="optional">authd</packagereq>
       <packagereq type="optional">bridge-utils</packagereq>
       <packagereq type="optional">brltty</packagereq>
+      <packagereq type="optional">gnupg2</packagereq>
       <packagereq type="optional">gpart</packagereq>
+      <packagereq type="optional">gpgme</packagereq>
       <packagereq type="optional">hardlink</packagereq>
       <packagereq type="optional">hfsutils</packagereq>
       <packagereq type="optional">iscsi-initiator-utils</packagereq>
@@ -2523,7 +2525,6 @@
       <packagereq type="default">amarok</packagereq>
       <packagereq type="default">digikam</packagereq>
       <packagereq type="default">extragear-plasma</packagereq>
-      <packagereq type="default">gpgme</packagereq>
       <packagereq type="default">kaffeine</packagereq>
       <packagereq type="default">kde-settings-pulseaudio</packagereq>
       <packagereq type="default">kdeaccessibility</packagereq>
