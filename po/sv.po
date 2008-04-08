@@ -1,19 +1,19 @@
-# translation of sv.po to Chinese, Traditional
-# Swedish messages for comps-po.
+# Swedish messages for comps.
+# This file is distributed under the same license as the comps-po package.
 # Copyright (C) 2002, 2003, 2004, 2005 Christian Rose
 # Copyright (C) 2007 Magnus Larsson
-# This file is distributed under the same license as the comps-po package.
 # Chester Cheng <ccheng@redhat.com>, 2007.
+# Göran Uddeborg <goeran@uddeborg.se>, 2008.
 #
-#
+# $Id: sv.po,v 1.7 2008/04/08 09:49:20 transif Exp $
 msgid ""
 msgstr ""
-"Project-Id-Version: sv\n"
+"Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-20 11:23-0400\n"
-"PO-Revision-Date: 2007-02-09 10:21-0500\n"
-"Last-Translator: Chester Cheng <ccheng@redhat.com>\n"
-"Language-Team: Chinese, Traditional <zh_TW@li.org>\n"
+"POT-Creation-Date: 2008-04-08 04:18+0000\n"
+"PO-Revision-Date: 2008-04-08 11:47+0200\n"
+"Last-Translator: Göran Uddeborg <goeran@uddeborg.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -32,9 +32,8 @@ msgid "Afrikaans Support"
 msgstr "Stöd för afrikaans"
 
 #: ../comps-f7.xml.in.h:4 ../comps-f8.xml.in.h:4 ../comps-f9.xml.in.h:4
-#, fuzzy
 msgid "Albanian Support"
-msgstr "Stöd för kanadensisk engelska"
+msgstr "Stöd för albanska"
 
 #: ../comps-f7.xml.in.h:5 ../comps-f8.xml.in.h:5 ../comps-f9.xml.in.h:5
 #: ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
@@ -82,23 +81,20 @@ msgid "Basque Support"
 msgstr "Stöd för baskiska"
 
 #: ../comps-f7.xml.in.h:15 ../comps-f8.xml.in.h:15 ../comps-f9.xml.in.h:15
-#, fuzzy
 msgid "Belarusian Support"
-msgstr "Stöd för bulgariska"
+msgstr "Stöd för vitryska"
 
 #: ../comps-f7.xml.in.h:16 ../comps-f8.xml.in.h:16 ../comps-f9.xml.in.h:16
 msgid "Bengali Support"
 msgstr "Stöd för bengali"
 
 #: ../comps-f7.xml.in.h:17 ../comps-f8.xml.in.h:17 ../comps-f9.xml.in.h:17
-#, fuzzy
 msgid "Bhutanese Support"
-msgstr "Stöd för kinesiska"
+msgstr "Stöd för bhutanesiska"
 
 #: ../comps-f7.xml.in.h:18 ../comps-f8.xml.in.h:18 ../comps-f9.xml.in.h:18
-#, fuzzy
 msgid "Bosnian Support"
-msgstr "Stöd för estniska"
+msgstr "Stöd för bosniska"
 
 #: ../comps-f7.xml.in.h:19 ../comps-f8.xml.in.h:19 ../comps-f9.xml.in.h:19
 msgid "Brazilian Portuguese Support"
@@ -228,14 +224,12 @@ msgstr "Stöd för färöiska"
 
 #: ../comps-f7.xml.in.h:48 ../comps-f8.xml.in.h:49 ../comps-f9.xml.in.h:49
 #: ../comps-el4.xml.in.h:18 ../comps-el5.xml.in.h:19
-#, fuzzy
 msgid "Fedora Packager"
-msgstr "Eclipse"
+msgstr "Fedorapaketerare"
 
 #: ../comps-f7.xml.in.h:49 ../comps-f8.xml.in.h:50 ../comps-f9.xml.in.h:50
-#, fuzzy
 msgid "Filipino Support"
-msgstr "Stöd för galiciska"
+msgstr "Stöd för filipinska"
 
 #: ../comps-f7.xml.in.h:50 ../comps-f8.xml.in.h:51 ../comps-f9.xml.in.h:51
 msgid "Finnish Support"
@@ -286,9 +280,8 @@ msgid "Games and Entertainment"
 msgstr "Spel och underhållning"
 
 #: ../comps-f7.xml.in.h:59 ../comps-f8.xml.in.h:62 ../comps-f9.xml.in.h:62
-#, fuzzy
 msgid "Georgian Support"
-msgstr "Stöd för tyska"
+msgstr "Stöd för georgiska"
 
 #: ../comps-f7.xml.in.h:60 ../comps-f8.xml.in.h:63 ../comps-f9.xml.in.h:63
 msgid "German Support"
@@ -377,9 +370,8 @@ msgstr ""
 "gränssnittet (X)."
 
 #: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:80 ../comps-f9.xml.in.h:80
-#, fuzzy
 msgid "Inuktitut Support"
-msgstr "Stöd för zulu"
+msgstr "Stöd för inuktitut"
 
 #: ../comps-f7.xml.in.h:77 ../comps-f8.xml.in.h:81 ../comps-f9.xml.in.h:81
 msgid "Irish Support"
@@ -427,9 +419,8 @@ msgid "Kannada Support"
 msgstr "Stöd för kannada"
 
 #: ../comps-f7.xml.in.h:86 ../comps-f8.xml.in.h:90 ../comps-f9.xml.in.h:90
-#, fuzzy
 msgid "Khmer Support"
-msgstr "Stöd för tyska"
+msgstr "Stöd för kambodjanska"
 
 #: ../comps-f7.xml.in.h:87 ../comps-f8.xml.in.h:91 ../comps-f9.xml.in.h:91
 msgid "Korean Support"
@@ -440,14 +431,12 @@ msgid "Languages"
 msgstr "Språkstöd"
 
 #: ../comps-f7.xml.in.h:89 ../comps-f8.xml.in.h:93 ../comps-f9.xml.in.h:93
-#, fuzzy
 msgid "Lao Support"
-msgstr "Stöd för thailändska"
+msgstr "Stöd för laotiska"
 
 #: ../comps-f7.xml.in.h:90 ../comps-f8.xml.in.h:94 ../comps-f9.xml.in.h:94
-#, fuzzy
 msgid "Latvian Support"
-msgstr "Stöd för kroatiska"
+msgstr "Stöd för lettiska"
 
 #: ../comps-f7.xml.in.h:91 ../comps-f8.xml.in.h:96 ../comps-f9.xml.in.h:96
 msgid "Legacy Network Server"
@@ -479,9 +468,8 @@ msgid "Malayalam Support"
 msgstr "Stöd för malajiska"
 
 #: ../comps-f7.xml.in.h:98 ../comps-f8.xml.in.h:104 ../comps-f9.xml.in.h:104
-#, fuzzy
 msgid "Maori Support"
-msgstr "Stöd för marati"
+msgstr "Stöd för maori"
 
 #: ../comps-f7.xml.in.h:99 ../comps-f8.xml.in.h:105 ../comps-f9.xml.in.h:105
 msgid "Marathi Support"
@@ -528,9 +516,8 @@ msgstr ""
 "applikationer."
 
 #: ../comps-f7.xml.in.h:108 ../comps-f8.xml.in.h:117 ../comps-f9.xml.in.h:117
-#, fuzzy
 msgid "Persian Support"
-msgstr "Stöd för serbiska"
+msgstr "Stöd för persiska"
 
 #: ../comps-f7.xml.in.h:109 ../comps-f8.xml.in.h:118 ../comps-f9.xml.in.h:118
 msgid "Polish Support"
@@ -565,9 +552,8 @@ msgid "Russian Support"
 msgstr "Stöd för ryska"
 
 #: ../comps-f7.xml.in.h:117 ../comps-f8.xml.in.h:126 ../comps-f9.xml.in.h:126
-#, fuzzy
 msgid "Samoan Support"
-msgstr "Stöd för tyska"
+msgstr "Stöd för samoanska"
 
 #: ../comps-f7.xml.in.h:118 ../comps-f8.xml.in.h:127 ../comps-f9.xml.in.h:127
 msgid "Serbian Support"
@@ -611,9 +597,8 @@ msgid "Software used for running network servers"
 msgstr "Mjukvara som används för körande nätverksservrar"
 
 #: ../comps-f7.xml.in.h:127 ../comps-f8.xml.in.h:136 ../comps-f9.xml.in.h:136
-#, fuzzy
 msgid "Somali Support"
-msgstr "Stöd för siswati"
+msgstr "Stöd för somaliska"
 
 #: ../comps-f7.xml.in.h:128 ../comps-f8.xml.in.h:137 ../comps-f9.xml.in.h:137
 msgid ""
@@ -665,9 +650,8 @@ msgid "System Tools"
 msgstr "Systemverktyg"
 
 #: ../comps-f7.xml.in.h:138 ../comps-f8.xml.in.h:147 ../comps-f9.xml.in.h:147
-#, fuzzy
 msgid "Tagalog Support"
-msgstr "Stöd för tamil"
+msgstr "Stöd för tagalog"
 
 #: ../comps-f7.xml.in.h:139 ../comps-f8.xml.in.h:148 ../comps-f9.xml.in.h:148
 msgid "Tamil Support"
@@ -886,19 +870,17 @@ msgstr ""
 "Postgresql."
 
 #: ../comps-f7.xml.in.h:173 ../comps-f8.xml.in.h:181 ../comps-f9.xml.in.h:181
-#, fuzzy
 msgid "Tibetan Support"
-msgstr "Stöd för tyska"
+msgstr "Stöd för tibetanska"
 
 #: ../comps-f7.xml.in.h:174 ../comps-f8.xml.in.h:182 ../comps-f9.xml.in.h:182
-#, fuzzy
 msgid "Tonga Support"
-msgstr "Stöd för tsonga"
+msgstr "Stöd för tonga"
 
 #: ../comps-f7.xml.in.h:175 ../comps-f8.xml.in.h:183 ../comps-f9.xml.in.h:183
 #: ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:70
 msgid "Tools and Utilities needed by a Fedora Packager"
-msgstr ""
+msgstr "Verktyg och tillbehör som Fedorapaketeraren behöver"
 
 #: ../comps-f7.xml.in.h:176 ../comps-f8.xml.in.h:184 ../comps-f9.xml.in.h:184
 msgid "Tsonga Support"
@@ -917,9 +899,8 @@ msgid "Ukrainian Support"
 msgstr "Stöd för ukrainska"
 
 #: ../comps-f7.xml.in.h:180 ../comps-f8.xml.in.h:188 ../comps-f9.xml.in.h:188
-#, fuzzy
 msgid "Urdu Support"
-msgstr "Stöd för zulu"
+msgstr "Stöd för urdu"
 
 #: ../comps-f7.xml.in.h:181 ../comps-f8.xml.in.h:189 ../comps-f9.xml.in.h:189
 #: ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:71
@@ -936,9 +917,8 @@ msgid "Venda Support"
 msgstr "Stöd för venda"
 
 #: ../comps-f7.xml.in.h:184 ../comps-f8.xml.in.h:192 ../comps-f9.xml.in.h:192
-#, fuzzy
 msgid "Vietnamese Support"
-msgstr "Stöd för kinesiska"
+msgstr "Stöd för vietnamesiska"
 
 #: ../comps-f7.xml.in.h:185 ../comps-f8.xml.in.h:193 ../comps-f9.xml.in.h:193
 msgid "Virtualization"
@@ -994,48 +974,43 @@ msgstr "Stöd för zulu"
 
 #: ../comps-f8.xml.in.h:21 ../comps-f9.xml.in.h:21
 msgid "Buildsystem building group"
-msgstr ""
+msgstr "Byggsystem byggrupp"
 
 #: ../comps-f8.xml.in.h:48 ../comps-f9.xml.in.h:48
-#, fuzzy
 msgid "Fedora Eclipse"
-msgstr "Eclipse"
+msgstr "Fedora Eclipse"
 
 #: ../comps-f8.xml.in.h:52 ../comps-f9.xml.in.h:52
 msgid "Fonts"
-msgstr ""
+msgstr "Typsnitt"
 
 #: ../comps-f8.xml.in.h:53 ../comps-f9.xml.in.h:53
 msgid "Fonts packages for rendering text on the desktop."
-msgstr ""
+msgstr "Typsnittspaket för att rendera text på skrivbordet."
 
 #: ../comps-f8.xml.in.h:79 ../comps-f9.xml.in.h:79
-#, fuzzy
 msgid "Integrated Development Environments based on Eclipse."
-msgstr "Den integrerade utvecklingsmiljön Eclipse."
+msgstr "Integrerad utvecklingsmiljö baserad på Eclipse."
 
 #: ../comps-f8.xml.in.h:95 ../comps-f9.xml.in.h:95
 msgid "Legacy Fonts"
-msgstr ""
+msgstr "Äldre typsnitt"
 
 #: ../comps-f8.xml.in.h:100 ../comps-f9.xml.in.h:100
-#, fuzzy
 msgid "Low Saxon Support"
-msgstr "Stöd för thailändska"
+msgstr "Stöd för lågtyska"
 
 #: ../comps-f8.xml.in.h:106 ../comps-f9.xml.in.h:106
-#, fuzzy
 msgid "Mongolian Support"
-msgstr "Stöd för estniska"
+msgstr "Stöd för mongoliska"
 
 #: ../comps-f8.xml.in.h:108 ../comps-f9.xml.in.h:108
-#, fuzzy
 msgid "Nepali Support"
-msgstr "Stöd för bengali"
+msgstr "Stöd för nepali"
 
 #: ../comps-f8.xml.in.h:114 ../comps-f9.xml.in.h:114
 msgid "Older bitmap and vector fonts packages"
-msgstr ""
+msgstr "Paket med äldre bildpunkts- och vektortypsnitt"
 
 #: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
 msgid "Applications for a variety of tasks"
@@ -1082,388 +1057,29 @@ msgstr ""
 "konvertera dem till HTML, PDF, Postscript och text."
 
 #: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:62
-#, fuzzy
 msgid "This group is a collection of network servers for specific purposes"
-msgstr ""
-"Denna grupp är en samling verktyg för olika maskinvaru-specifika tillbehör."
+msgstr "Denna grupp är en samling nätverksservrar för specifika ändamål"
 
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
-#, fuzzy
 msgid ""
 "This group is a collection of tools and resources of Arabic environments."
-msgstr ""
-"Denna grupp är en samling av verktyg och resurser för armenska miljöer."
+msgstr "Denna grupp är en samling av verktyg och resurser för arabiska miljöer."
 
 #: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:66
-#, fuzzy
 msgid ""
 "This group is a collection of tools and resources of Hebrew environments."
-msgstr ""
-"Denna grupp är en samling av verktyg och resurser för armenska miljöer."
+msgstr "Denna grupp är en samling av verktyg och resurser för hebreiska miljöer."
 
 #: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
-#, fuzzy
 msgid ""
 "This group is a collection of tools and resources of Japanese environments."
-msgstr ""
-"Denna grupp är en samling av verktyg och resurser för armenska miljöer."
+msgstr "Denna grupp är en samling av verktyg och resurser för japanska miljöer."
 
 #: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:77
 msgid "XEmacs"
 msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:65
-#, fuzzy
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
-msgstr ""
-"Denna grupp är en samling av verktyg och resurser för armenska miljöer."
-
-#, fuzzy
-#~ msgid "Somail Support"
-#~ msgstr "Stöd för siswati"
-
-#~ msgid "Brazilian Support"
-#~ msgstr "Stöd för brasiliansk portugisiska"
-
-#~ msgid "British Support"
-#~ msgstr "Stöd för brittisk engelska"
-
-#~ msgid "Compatibility Arch Development Support"
-#~ msgstr "Utvecklingsstöd för kompatibilitetsarkitektur"
-
-#~ msgid "Compatibility Arch Mozilla Support"
-#~ msgstr "Mozilla-stöd för kompatibilitetsarkitektur"
-
-#~ msgid "Compatibility Arch Support"
-#~ msgstr "Stöd för kompatibilitetsarkitektur"
-
-#~ msgid "Cyrillic Support"
-#~ msgstr "Stöd för kyrilliskt alfabet"
-
-#~ msgid "Desktops"
-#~ msgstr "Skrivbord"
-
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
-
-#~ msgid "GNOME"
-#~ msgstr "GNOME"
-
-#~ msgid "ISO8859-14 Support"
-#~ msgstr "Stöd för ISO8859-14"
-
-#~ msgid "ISO8859-15 Support"
-#~ msgstr "Stöd för ISO8859-15"
-
-#~ msgid "ISO8859-2 Support"
-#~ msgstr "Stöd för ISO8859-2"
-
-#~ msgid "ISO8859-9 Support"
-#~ msgstr "Stöd för ISO8859-9"
-
-#~ msgid "Install these packages to recompile the kernel."
-#~ msgstr "Installera dessa paket för att kompilera om kärnan."
-
-#~ msgid "KDE"
-#~ msgstr "KDE"
-
-#~ msgid "KDE Desktop Environment"
-#~ msgstr "Skrivbordsmiljön KDE"
-
-#~ msgid "Kernel Development"
-#~ msgstr "Kärnutveckling"
-
-#~ msgid "Miscellaneous Included Packages"
-#~ msgstr "Diverse inkluderade paket"
-
-#~ msgid "Mozilla packages for the x86 platform"
-#~ msgstr "Mozilla-paket för x86-plattformen"
-
-#~ msgid "Multilib support packages"
-#~ msgstr "Multilib-stödpaket"
-
-#~ msgid "SQL Database"
-#~ msgstr "SQL-databas"
-
-#~ msgid "Server"
-#~ msgstr "Server"
-
-#~ msgid "Support for developing packages for the non-primary architecture"
-#~ msgstr "Stöd för utveckling av paket för den icke-primära arkitekturen"
-
-#~ msgid "Syriac Support"
-#~ msgstr "Stöd för syriska"
-
-#~ msgid "System"
-#~ msgstr "System"
-
-#~ msgid "The GNU Emacs text editor."
-#~ msgstr "Textredigeraren GNU Emacs."
-
-#~ msgid ""
-#~ "These packages allow you to configure an IMAP or Postfix mail server."
-#~ msgstr ""
-#~ "Dessa paket låter dig konfigurera en IMAP- eller Postfix-epostserver."
-
-#~ msgid ""
-#~ "These packages provide compatibility support for previous releases of Red "
-#~ "Hat Enterprise Linux."
-#~ msgstr ""
-#~ "Dessa paket tillhandahåller kompatibilitetsstöd för tidigare utgåvor av "
-#~ "Red Hat Enterprise Linux."
-
-#~ msgid "Unsupported Development Libraries"
-#~ msgstr "Utvecklingsbibliotek som inte stöds"
-
-#~ msgid "Workstation Common"
-#~ msgstr "Gemensamt för arbetsstation"
-
-#~ msgid "ppc64 Compatibility Arch Support"
-#~ msgstr "Stöd för ppc64-kompatibilitetsarkitektur"
-
-#~ msgid "x86 Compatibility Arch Development Support"
-#~ msgstr "Utvecklingsstöd för x86-kompatibilitetsarkitektur"
-
-#~ msgid "x86 Compatibility Arch Support"
-#~ msgstr "Stöd för x86-kompatibilitetsarkitektur"
-
-#~ msgid "Brazilian Portuguese"
-#~ msgstr "Brasiliansk portugisiska"
-
-#~ msgid "English"
-#~ msgstr "Engelska"
-
-#~ msgid "French"
-#~ msgstr "Franska"
-
-#~ msgid "German"
-#~ msgstr "Tyska"
-
-#~ msgid "Italian"
-#~ msgstr "Italienska"
-
-#~ msgid "Red Hat Enterprise Linux 3 Documentation"
-#~ msgstr "Dokumentation för Red Hat Enterprise Linux 3"
-
-#~ msgid "Spanish"
-#~ msgstr "Spanska"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Brazilian Portuguese language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "det brasilianskportugisiska språket."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "English language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "det engelska språket."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "French language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "det franska språket."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "German language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "det tyska språket."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Italian language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "det italienska språket."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Spanish language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "det spanska språket."
-
-#~ msgid "Japanese"
-#~ msgstr "Japanska"
-
-#~ msgid "Korean"
-#~ msgstr "Koreanska"
-
-#~ msgid "Simplified Chinese"
-#~ msgstr "Förenklad kinesiska"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Japanese language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "det japanska språket."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Korean language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "det koreanska språket."
-
-# Egentligen inte korrekt, det är olika skrivsätt bara
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Simplified Chinese language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "språket förenklad kinesiska."
-
-# Egentligen inte korrekt, det är olika skrivsätt bara
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Traditional Chinese language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "språket traditionell kinesiska."
-
-#~ msgid "Traditional Chinese"
-#~ msgstr "Traditionell kinesiska"
-
-#~ msgid "ppc64 Compatibility Arch Development Support"
-#~ msgstr "Utvecklingsstöd för ppc64-kompatibilitetsarkitektur"
-
-#~ msgid "Bengali"
-#~ msgstr "Bengali"
-
-#~ msgid "Gujarati"
-#~ msgstr "Gujarati"
-
-#~ msgid "Hindi"
-#~ msgstr "Hindi"
-
-#~ msgid "Punjabi"
-#~ msgstr "Punjabi"
-
-#~ msgid "Red Hat Enterprise Linux 4 Documentation"
-#~ msgstr "Dokumentation för Red Hat Enterprise Linux 4"
-
-#~ msgid "Tamil"
-#~ msgstr "Tamil"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Bengali language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "språket bengali."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Gujarati language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "språket gujarati."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Hindi language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "språket hindi."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Punjabi language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "språket punjabi."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Tamil language."
-#~ msgstr ""
-#~ "Denna grupp innehåller dokumentationen för Red Hat Enterprise Linux på "
-#~ "språket tamil."
-
-#~ msgid "Cluster Storage"
-#~ msgstr "Klusterlagring"
-
-#~ msgid "Clustering Support."
-#~ msgstr "Klusterstöd."
-
-#~ msgid "Packages which provide support for cluster storage."
-#~ msgstr "Paket som tillhandahåller stöd för klusterlagring."
-
-#~ msgid "Packages which provide support for single-node GFS."
-#~ msgstr "Paket som tillhandahåller stöd för enkel-nods GFS"
-
-#~ msgid "Single Node GFS Support"
-#~ msgstr "Enkelnods GFS stöd"
-
-#~ msgid "These packages provide compatibility support with previous releases."
-#~ msgstr ""
-#~ "Dessa paket tillhandahåller kompatibilitetsstöd för tidigare utgåvor."
-
-#~ msgid "Java Runtime Environments and Development Kits"
-#~ msgstr "Java Runtime Environments och utvecklingspaket"
-
-#~ msgid "Misc"
-#~ msgstr "Övrigt"
-
-#~ msgid "Misc packages"
-#~ msgstr "Övriga paket"
-
-#~ msgid "Multimedia"
-#~ msgstr "Multimedia"
-
-#~ msgid "Multimedia applications"
-#~ msgstr "Multimedia applikationer"
-
-#~ msgid ""
-#~ "Packages which provide additional functionality for Red Hat Enterprise "
-#~ "Linux"
-#~ msgstr ""
-#~ "Paket som tillhandahåller ytterligare funktionalitet för Red Hat "
-#~ "Enterprise Linux"
-
-#~ msgid "Red Hat Enterprise Linux Extras"
-#~ msgstr "Red Hat Enterprise Linux Extras"
-
-#~ msgid "Workstation"
-#~ msgstr "Arbetsstation"
-
-#~ msgid "Workstation applications and utilities."
-#~ msgstr "Applikationer och tillbehör för arbetsstationer"
-
-#~ msgid "Virtualization Support."
-#~ msgstr "Virtualiseringsstöd."
-
-#~ msgid "Compatibility Arch"
-#~ msgstr "Stöd för kompatabilitetsarkitektur"
-
-#~ msgid "Compatibility Arch Libraries"
-#~ msgstr "Bibliotek för kompatibilitetsarkitektur"
-
-#~ msgid "Multilib library packages"
-#~ msgstr "Multilib-bibliotek paket"
-
-#~ msgid ""
-#~ "Packages which provide functionality for the compatibility architecture."
-#~ msgstr ""
-#~ "Paket som tillhandahåller funktionalitet för kompatibilitets-arkitekturen."
-
-#~ msgid "IBM eServer iSeries/pSeries Provided Software"
-#~ msgstr "IBM eServer iSeries/pSeries utgiven mjukvara"
-
-#~ msgid "Software provided by IBM for eServer iSeries and pSeries machines"
-#~ msgstr "Mjukvara utgiven av IBM för eServer iSeries och pSeries maskiner"
-
-#~ msgid "HPC"
-#~ msgstr "HPC"
-
-#~ msgid "High Performance Computing Support"
-#~ msgstr "Stöd för High Performance Computing"
+msgstr "Denna grupp är en samling av verktyg och resurser för tjeckiska miljöer."
