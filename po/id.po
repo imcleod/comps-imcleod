@@ -3,13 +3,13 @@
 # Copyright (C) 2007 THE PACKAGE'S COPYRIGHT HOLDER.
 # Alexander Agung <redtux@sby.dnet.net.id>, 2004.
 # Teguh DC <dheche@bradjamoesti.or.id>, 2005.
-# $Id: id.po,v 1.6 2008/03/20 15:24:14 notting Exp $
+# $Id: id.po,v 1.7 2008/04/10 17:45:24 dgregor Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-20 11:23-0400\n"
+"POT-Creation-Date: 2008-04-10 12:25-0400\n"
 "PO-Revision-Date: 2007-02-24 14:17+0700\n"
 "Last-Translator: Teguh DC <dheche@bradjamoesti.or.id>\n"
 "Language-Team: Bahasa Indonesia <viribus@traderweb.net>\n"
@@ -25,10 +25,14 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:2 ../comps-f8.xml.in.h:2 ../comps-f9.xml.in.h:2
 #: ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
+#: ../comps-rhel5-client-core.xml.in.h:1
+#: ../comps-rhel5-client-workstation.xml.in.h:1
+#: ../comps-rhel5-server-core.xml.in.h:1
 msgid "Administration Tools"
 msgstr "Peralatan Administrasi"
 
 #: ../comps-f7.xml.in.h:3 ../comps-f8.xml.in.h:3 ../comps-f9.xml.in.h:3
+#: ../comps-rhel5-client-core.xml.in.h:2 ../comps-rhel5-server-core.xml.in.h:2
 msgid "Afrikaans Support"
 msgstr "Dukungan Afrika"
 
@@ -39,6 +43,7 @@ msgstr "Dukungan Kanada"
 
 #: ../comps-f7.xml.in.h:5 ../comps-f8.xml.in.h:5 ../comps-f9.xml.in.h:5
 #: ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
+#: ../comps-rhel5-client-core.xml.in.h:3 ../comps-rhel5-server-core.xml.in.h:3
 msgid "Applications"
 msgstr "Aplikasi"
 
@@ -48,6 +53,7 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:7 ../comps-f8.xml.in.h:7 ../comps-f9.xml.in.h:7
 #: ../comps-el4.xml.in.h:4 ../comps-el5.xml.in.h:4
+#: ../comps-rhel5-client-core.xml.in.h:5 ../comps-rhel5-server-core.xml.in.h:5
 msgid "Arabic Support"
 msgstr "Dukungan Arab"
 
@@ -57,28 +63,40 @@ msgid "Armenian Support"
 msgstr "Dukungan Armenia"
 
 #: ../comps-f7.xml.in.h:9 ../comps-f8.xml.in.h:9 ../comps-f9.xml.in.h:9
+#: ../comps-rhel5-client-core.xml.in.h:6 ../comps-rhel5-cluster-st.xml.in.h:1
+#: ../comps-rhel5-cluster.xml.in.h:1 ../comps-rhel5-server-core.xml.in.h:6
+#: ../comps-rhel5-vt.xml.in.h:1
 msgid "Assamese Support"
 msgstr "Dukungan Assamese"
 
 #: ../comps-f7.xml.in.h:10 ../comps-f8.xml.in.h:10 ../comps-f9.xml.in.h:10
 #: ../comps-el4.xml.in.h:6 ../comps-el5.xml.in.h:6
+#: ../comps-rhel5-client-core.xml.in.h:7 ../comps-rhel5-server-core.xml.in.h:7
 msgid "Authoring and Publishing"
 msgstr "Penulisan dan Penerbitan"
 
 #: ../comps-f7.xml.in.h:11 ../comps-f8.xml.in.h:11 ../comps-f9.xml.in.h:11
+#: ../comps-rhel5-client-core.xml.in.h:8
+#: ../comps-rhel5-client-workstation.xml.in.h:2
+#: ../comps-rhel5-server-core.xml.in.h:8
 msgid "Base"
 msgstr "Dasar"
 
 #: ../comps-f7.xml.in.h:12 ../comps-f8.xml.in.h:12 ../comps-f9.xml.in.h:12
 #: ../comps-el4.xml.in.h:7 ../comps-el5.xml.in.h:7
+#: ../comps-rhel5-client-core.xml.in.h:9 ../comps-rhel5-server-core.xml.in.h:9
 msgid "Base System"
 msgstr "Sistem Dasar"
 
 #: ../comps-f7.xml.in.h:13 ../comps-f8.xml.in.h:13 ../comps-f9.xml.in.h:13
+#: ../comps-rhel5-client-core.xml.in.h:10
+#: ../comps-rhel5-client-workstation.xml.in.h:3
+#: ../comps-rhel5-server-core.xml.in.h:10
 msgid "Basic support for the Ruby programming language."
 msgstr "Dukungan dasar untuk bahasa pemrograman "
 
 #: ../comps-f7.xml.in.h:14 ../comps-f8.xml.in.h:14 ../comps-f9.xml.in.h:14
+#: ../comps-rhel5-client-core.xml.in.h:11
 msgid "Basque Support"
 msgstr "Dukungan Basque"
 
@@ -88,6 +106,9 @@ msgid "Belarusian Support"
 msgstr "Dukungan Bulgaria"
 
 #: ../comps-f7.xml.in.h:16 ../comps-f8.xml.in.h:16 ../comps-f9.xml.in.h:16
+#: ../comps-rhel5-client-core.xml.in.h:12 ../comps-rhel5-cluster-st.xml.in.h:2
+#: ../comps-rhel5-cluster.xml.in.h:2 ../comps-rhel5-server-core.xml.in.h:11
+#: ../comps-rhel5-vt.xml.in.h:2
 msgid "Bengali Support"
 msgstr "Dukungan Bengali"
 
@@ -102,26 +123,41 @@ msgid "Bosnian Support"
 msgstr "Dukungan Estonia"
 
 #: ../comps-f7.xml.in.h:19 ../comps-f8.xml.in.h:19 ../comps-f9.xml.in.h:19
+#: ../comps-rhel5-client-core.xml.in.h:13 ../comps-rhel5-cluster-st.xml.in.h:3
+#: ../comps-rhel5-cluster.xml.in.h:3 ../comps-rhel5-server-core.xml.in.h:12
+#: ../comps-rhel5-vt.xml.in.h:3
 msgid "Brazilian Portuguese Support"
 msgstr "Dukungan Brazil Portugis"
 
 #: ../comps-f7.xml.in.h:20 ../comps-f8.xml.in.h:20 ../comps-f9.xml.in.h:20
+#: ../comps-rhel5-client-core.xml.in.h:14
+#: ../comps-rhel5-server-core.xml.in.h:13
 msgid "Breton Support"
 msgstr "Dukungan Breton"
 
 #: ../comps-f7.xml.in.h:21 ../comps-f8.xml.in.h:22 ../comps-f9.xml.in.h:22
+#: ../comps-rhel5-client-core.xml.in.h:16
+#: ../comps-rhel5-server-core.xml.in.h:15
 msgid "Bulgarian Support"
 msgstr "Dukungan Bulgaria"
 
 #: ../comps-f7.xml.in.h:22 ../comps-f8.xml.in.h:23 ../comps-f9.xml.in.h:23
+#: ../comps-rhel5-client-core.xml.in.h:17
+#: ../comps-rhel5-server-core.xml.in.h:16
 msgid "Catalan Support"
 msgstr "Dukungan Catalan"
 
 #: ../comps-f7.xml.in.h:23 ../comps-f8.xml.in.h:24 ../comps-f9.xml.in.h:24
+#: ../comps-rhel5-client-core.xml.in.h:18
+#: ../comps-rhel5-client-supplementary.xml.in.h:1
+#: ../comps-rhel5-cluster-st.xml.in.h:4 ../comps-rhel5-cluster.xml.in.h:4
+#: ../comps-rhel5-server-core.xml.in.h:17
+#: ../comps-rhel5-server-supplementary.xml.in.h:1 ../comps-rhel5-vt.xml.in.h:4
 msgid "Chinese Support"
 msgstr "Dukungan Cina"
 
 #: ../comps-f7.xml.in.h:24 ../comps-f8.xml.in.h:25 ../comps-f9.xml.in.h:25
+#: ../comps-rhel5-client-core.xml.in.h:20 ../comps-rhel5-cluster.xml.in.h:5
 msgid "Clustering"
 msgstr ""
 
@@ -130,47 +166,70 @@ msgid "Clustering Support"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:26 ../comps-f8.xml.in.h:27 ../comps-f9.xml.in.h:27
+#: ../comps-rhel5-client-core.xml.in.h:22
+#: ../comps-rhel5-client-workstation.xml.in.h:5
+#: ../comps-rhel5-server-core.xml.in.h:19
 msgid "Core"
 msgstr "Inti"
 
 #: ../comps-f7.xml.in.h:27 ../comps-f8.xml.in.h:28 ../comps-f9.xml.in.h:28
+#: ../comps-rhel5-client-core.xml.in.h:23
+#: ../comps-rhel5-server-core.xml.in.h:20
 msgid "Croatian Support"
 msgstr "Dukungan Kroasia"
 
 #: ../comps-f7.xml.in.h:28 ../comps-f8.xml.in.h:29 ../comps-f9.xml.in.h:29
-#: ../comps-el5.xml.in.h:8
+#: ../comps-el5.xml.in.h:8 ../comps-rhel5-client-core.xml.in.h:24
+#: ../comps-rhel5-server-core.xml.in.h:21
 msgid "Czech Support"
 msgstr "Dukungan Ceko"
 
 #: ../comps-f7.xml.in.h:29 ../comps-f8.xml.in.h:30 ../comps-f9.xml.in.h:30
+#: ../comps-rhel5-client-core.xml.in.h:25
+#: ../comps-rhel5-client-workstation.xml.in.h:6
+#: ../comps-rhel5-server-core.xml.in.h:22
 msgid "DNS Name Server"
 msgstr "DNS Name Server"
 
 #: ../comps-f7.xml.in.h:30 ../comps-f8.xml.in.h:31 ../comps-f9.xml.in.h:31
+#: ../comps-rhel5-client-core.xml.in.h:26
+#: ../comps-rhel5-server-core.xml.in.h:23
 msgid "Danish Support"
 msgstr "Dukungan Danish"
 
 #: ../comps-f7.xml.in.h:31 ../comps-f8.xml.in.h:32 ../comps-f9.xml.in.h:32
 #: ../comps-el4.xml.in.h:8 ../comps-el5.xml.in.h:9
+#: ../comps-rhel5-client-core.xml.in.h:27
+#: ../comps-rhel5-server-core.xml.in.h:24
 msgid "Desktop Environments"
 msgstr "Lingkungan Desktop"
 
 #: ../comps-f7.xml.in.h:32 ../comps-f8.xml.in.h:33 ../comps-f9.xml.in.h:33
 #: ../comps-el4.xml.in.h:9 ../comps-el5.xml.in.h:10
+#: ../comps-rhel5-client-core.xml.in.h:28
+#: ../comps-rhel5-server-core.xml.in.h:25
 msgid "Desktop environments"
 msgstr "Lingkungan Desktop"
 
 #: ../comps-f7.xml.in.h:33 ../comps-f8.xml.in.h:34 ../comps-f9.xml.in.h:34
 #: ../comps-el4.xml.in.h:10 ../comps-el5.xml.in.h:11
+#: ../comps-rhel5-client-core.xml.in.h:29
+#: ../comps-rhel5-server-core.xml.in.h:26
 msgid "Development"
 msgstr "Pengembangan"
 
 #: ../comps-f7.xml.in.h:34 ../comps-f8.xml.in.h:35 ../comps-f9.xml.in.h:35
+#: ../comps-rhel5-client-core.xml.in.h:30
+#: ../comps-rhel5-client-workstation.xml.in.h:7
+#: ../comps-rhel5-server-core.xml.in.h:27
 msgid "Development Libraries"
 msgstr "Pustaka Pengembangan"
 
 #: ../comps-f7.xml.in.h:35 ../comps-f8.xml.in.h:36 ../comps-f9.xml.in.h:36
 #: ../comps-el4.xml.in.h:11 ../comps-el5.xml.in.h:12
+#: ../comps-rhel5-client-core.xml.in.h:31
+#: ../comps-rhel5-client-workstation.xml.in.h:8
+#: ../comps-rhel5-server-core.xml.in.h:28
 msgid "Development Tools"
 msgstr "Peralatan Pengembangan"
 
@@ -179,15 +238,19 @@ msgid "Dial-up Networking Support"
 msgstr "Dukungan Dialup Networking"
 
 #: ../comps-f7.xml.in.h:37 ../comps-f8.xml.in.h:38 ../comps-f9.xml.in.h:38
+#: ../comps-rhel5-client-core.xml.in.h:33
+#: ../comps-rhel5-server-core.xml.in.h:30
 msgid "Dutch Support"
 msgstr "Dukungan Belanda"
 
-#: ../comps-f7.xml.in.h:38
+#: ../comps-f7.xml.in.h:38 ../comps-rhel5-client-workstation.xml.in.h:9
 msgid "Eclipse"
 msgstr "Eclipse"
 
 #: ../comps-f7.xml.in.h:39 ../comps-f8.xml.in.h:39 ../comps-f9.xml.in.h:39
 #: ../comps-el4.xml.in.h:13 ../comps-el5.xml.in.h:14
+#: ../comps-rhel5-client-core.xml.in.h:34
+#: ../comps-rhel5-server-core.xml.in.h:31
 msgid "Editors"
 msgstr "Editor"
 
@@ -203,6 +266,9 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:42 ../comps-f8.xml.in.h:42 ../comps-f9.xml.in.h:42
 #: ../comps-el4.xml.in.h:16 ../comps-el5.xml.in.h:17
+#: ../comps-rhel5-client-core.xml.in.h:35
+#: ../comps-rhel5-client-workstation.xml.in.h:10
+#: ../comps-rhel5-server-core.xml.in.h:32
 msgid "Engineering and Scientific"
 msgstr "Rekayasa dan Keilmuan"
 
@@ -211,19 +277,28 @@ msgid "English (UK) Support"
 msgstr "Dukungan Inggris (UK)"
 
 #: ../comps-f7.xml.in.h:44 ../comps-f8.xml.in.h:44 ../comps-f9.xml.in.h:44
+#: ../comps-rhel5-client-core.xml.in.h:36
+#: ../comps-rhel5-server-core.xml.in.h:33
 msgid "Estonian Support"
 msgstr "Dukungan Estonia"
 
 #: ../comps-f7.xml.in.h:45 ../comps-f8.xml.in.h:45 ../comps-f9.xml.in.h:45
+#: ../comps-rhel5-client-core.xml.in.h:37
+#: ../comps-rhel5-server-core.xml.in.h:34
 msgid "Ethiopic Support"
 msgstr "Dukungan Ethiopia"
 
 #: ../comps-f7.xml.in.h:46 ../comps-f8.xml.in.h:46 ../comps-f9.xml.in.h:46
 #: ../comps-el4.xml.in.h:17 ../comps-el5.xml.in.h:18
+#: ../comps-rhel5-client-core.xml.in.h:38
+#: ../comps-rhel5-client-workstation.xml.in.h:11
+#: ../comps-rhel5-server-core.xml.in.h:35
 msgid "FTP Server"
 msgstr "Server FTP"
 
 #: ../comps-f7.xml.in.h:47 ../comps-f8.xml.in.h:47 ../comps-f9.xml.in.h:47
+#: ../comps-rhel5-client-core.xml.in.h:39
+#: ../comps-rhel5-server-core.xml.in.h:36
 msgid "Faeroese Support"
 msgstr "Dukungan Faeroese"
 
@@ -239,15 +314,22 @@ msgid "Filipino Support"
 msgstr "Dukungan Galician"
 
 #: ../comps-f7.xml.in.h:50 ../comps-f8.xml.in.h:51 ../comps-f9.xml.in.h:51
+#: ../comps-rhel5-client-core.xml.in.h:40
+#: ../comps-rhel5-server-core.xml.in.h:37
 msgid "Finnish Support"
 msgstr "Dukungan Finlandia"
 
 #: ../comps-f7.xml.in.h:51 ../comps-f8.xml.in.h:54 ../comps-f9.xml.in.h:54
+#: ../comps-rhel5-client-core.xml.in.h:41 ../comps-rhel5-cluster-st.xml.in.h:6
+#: ../comps-rhel5-cluster.xml.in.h:7 ../comps-rhel5-server-core.xml.in.h:38
+#: ../comps-rhel5-vt.xml.in.h:5
 msgid "French Support"
 msgstr "Dukungan Perancis"
 
 #: ../comps-f7.xml.in.h:52 ../comps-f8.xml.in.h:55 ../comps-f9.xml.in.h:55
 #: ../comps-el4.xml.in.h:19 ../comps-el5.xml.in.h:20
+#: ../comps-rhel5-client-core.xml.in.h:42
+#: ../comps-rhel5-server-core.xml.in.h:39
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
@@ -257,11 +339,17 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:53 ../comps-f8.xml.in.h:56 ../comps-f9.xml.in.h:56
 #: ../comps-el4.xml.in.h:20 ../comps-el5.xml.in.h:21
+#: ../comps-rhel5-client-core.xml.in.h:43
+#: ../comps-rhel5-client-workstation.xml.in.h:12
+#: ../comps-rhel5-server-core.xml.in.h:40
 msgid "GNOME Desktop Environment"
 msgstr "Lingkungan Desktop GNOME"
 
 #: ../comps-f7.xml.in.h:54 ../comps-f8.xml.in.h:57 ../comps-f9.xml.in.h:57
 #: ../comps-el4.xml.in.h:21 ../comps-el5.xml.in.h:22
+#: ../comps-rhel5-client-core.xml.in.h:44
+#: ../comps-rhel5-client-workstation.xml.in.h:13
+#: ../comps-rhel5-server-core.xml.in.h:41
 msgid "GNOME Software Development"
 msgstr "Pengembangan Piranti Lunak GNOME"
 
@@ -274,15 +362,20 @@ msgstr ""
 "panel, dekstop, icons sitem, dan file manager grafis."
 
 #: ../comps-f7.xml.in.h:56 ../comps-f8.xml.in.h:59 ../comps-f9.xml.in.h:59
+#: ../comps-rhel5-client-core.xml.in.h:46
+#: ../comps-rhel5-server-core.xml.in.h:43
 msgid "Gaelic Support"
 msgstr "Dukungan Gaelic"
 
 #: ../comps-f7.xml.in.h:57 ../comps-f8.xml.in.h:60 ../comps-f9.xml.in.h:60
+#: ../comps-rhel5-client-core.xml.in.h:47
+#: ../comps-rhel5-server-core.xml.in.h:44
 msgid "Galician Support"
 msgstr "Dukungan Galician"
 
 #: ../comps-f7.xml.in.h:58 ../comps-f8.xml.in.h:61 ../comps-f9.xml.in.h:61
-#: ../comps-el5.xml.in.h:24
+#: ../comps-el5.xml.in.h:24 ../comps-rhel5-client-core.xml.in.h:48
+#: ../comps-rhel5-server-core.xml.in.h:45
 msgid "Games and Entertainment"
 msgstr "Permainan dan Hiburan"
 
@@ -292,24 +385,37 @@ msgid "Georgian Support"
 msgstr "Dukungan Jerman"
 
 #: ../comps-f7.xml.in.h:60 ../comps-f8.xml.in.h:63 ../comps-f9.xml.in.h:63
+#: ../comps-rhel5-client-core.xml.in.h:49 ../comps-rhel5-cluster-st.xml.in.h:7
+#: ../comps-rhel5-cluster.xml.in.h:8 ../comps-rhel5-server-core.xml.in.h:46
+#: ../comps-rhel5-vt.xml.in.h:6
 msgid "German Support"
 msgstr "Dukungan Jerman"
 
 #: ../comps-f7.xml.in.h:61 ../comps-f8.xml.in.h:64 ../comps-f9.xml.in.h:64
 #: ../comps-el4.xml.in.h:23 ../comps-el5.xml.in.h:25
+#: ../comps-rhel5-client-core.xml.in.h:50
+#: ../comps-rhel5-client-workstation.xml.in.h:15
+#: ../comps-rhel5-server-core.xml.in.h:47
 msgid "Graphical Internet"
 msgstr "Internet Grafis"
 
 #: ../comps-f7.xml.in.h:62 ../comps-f8.xml.in.h:65 ../comps-f9.xml.in.h:65
 #: ../comps-el4.xml.in.h:24 ../comps-el5.xml.in.h:26
+#: ../comps-rhel5-client-core.xml.in.h:51
+#: ../comps-rhel5-server-core.xml.in.h:48
 msgid "Graphics"
 msgstr "Grafis"
 
 #: ../comps-f7.xml.in.h:63 ../comps-f8.xml.in.h:66 ../comps-f9.xml.in.h:66
+#: ../comps-rhel5-client-core.xml.in.h:52
+#: ../comps-rhel5-server-core.xml.in.h:49
 msgid "Greek Support"
 msgstr "Dukungan Yunani"
 
 #: ../comps-f7.xml.in.h:64 ../comps-f8.xml.in.h:67 ../comps-f9.xml.in.h:67
+#: ../comps-rhel5-client-core.xml.in.h:53 ../comps-rhel5-cluster-st.xml.in.h:8
+#: ../comps-rhel5-cluster.xml.in.h:9 ../comps-rhel5-server-core.xml.in.h:50
+#: ../comps-rhel5-vt.xml.in.h:7
 msgid "Gujarati Support"
 msgstr "Dukungan Gujarati"
 
@@ -320,27 +426,41 @@ msgstr "Dukungan Perangkat Keras"
 
 #: ../comps-f7.xml.in.h:66 ../comps-f8.xml.in.h:69 ../comps-f9.xml.in.h:69
 #: ../comps-el4.xml.in.h:26 ../comps-el5.xml.in.h:28
+#: ../comps-rhel5-client-core.xml.in.h:54
+#: ../comps-rhel5-server-core.xml.in.h:51
 msgid "Hebrew Support"
 msgstr "Dukungan Hebrew"
 
 #: ../comps-f7.xml.in.h:67 ../comps-f8.xml.in.h:70 ../comps-f9.xml.in.h:70
+#: ../comps-rhel5-client-core.xml.in.h:55 ../comps-rhel5-cluster-st.xml.in.h:9
+#: ../comps-rhel5-cluster.xml.in.h:10 ../comps-rhel5-server-core.xml.in.h:52
+#: ../comps-rhel5-vt.xml.in.h:8
 msgid "Hindi Support"
 msgstr "Dukungan Hindi"
 
 #: ../comps-f7.xml.in.h:68 ../comps-f8.xml.in.h:71 ../comps-f9.xml.in.h:71
+#: ../comps-rhel5-client-core.xml.in.h:56
+#: ../comps-rhel5-server-core.xml.in.h:53
 msgid "Hungarian Support"
 msgstr "Dukungan Hungary"
 
 #: ../comps-f7.xml.in.h:69 ../comps-f8.xml.in.h:72 ../comps-f9.xml.in.h:72
+#: ../comps-rhel5-client-core.xml.in.h:57
+#: ../comps-rhel5-server-core.xml.in.h:54
 msgid "Icelandic Support"
 msgstr "Dukungan Islandia"
 
 #: ../comps-f7.xml.in.h:70 ../comps-f8.xml.in.h:73 ../comps-f9.xml.in.h:73
+#: ../comps-rhel5-client-core.xml.in.h:58
+#: ../comps-rhel5-server-core.xml.in.h:55
 msgid "Indonesian Support"
 msgstr "Dukungan Indonesia"
 
 #: ../comps-f7.xml.in.h:71 ../comps-f8.xml.in.h:74 ../comps-f9.xml.in.h:74
 #: ../comps-el4.xml.in.h:27 ../comps-el5.xml.in.h:29
+#: ../comps-rhel5-client-core.xml.in.h:59
+#: ../comps-rhel5-client-workstation.xml.in.h:16
+#: ../comps-rhel5-server-core.xml.in.h:56
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
@@ -354,10 +474,15 @@ msgstr "Install paket ini untuk develop GTK+ dan aplikasi grafis XFCE."
 
 #: ../comps-f7.xml.in.h:73 ../comps-f8.xml.in.h:76 ../comps-f9.xml.in.h:76
 #: ../comps-el4.xml.in.h:28 ../comps-el5.xml.in.h:30
+#: ../comps-rhel5-client-core.xml.in.h:60
+#: ../comps-rhel5-client-workstation.xml.in.h:17
+#: ../comps-rhel5-server-core.xml.in.h:57
 msgid "Install these packages to develop QT and KDE graphical applications."
 msgstr "Install paket ini untuk develop QT dan aplikasi grafis KDE."
 
 #: ../comps-f7.xml.in.h:74 ../comps-f8.xml.in.h:77 ../comps-f9.xml.in.h:77
+#: ../comps-rhel5-client-core.xml.in.h:61
+#: ../comps-rhel5-server-core.xml.in.h:58
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
 msgstr ""
@@ -366,6 +491,9 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:78 ../comps-f9.xml.in.h:78
 #: ../comps-el4.xml.in.h:29 ../comps-el5.xml.in.h:31
+#: ../comps-rhel5-client-core.xml.in.h:62
+#: ../comps-rhel5-client-workstation.xml.in.h:18
+#: ../comps-rhel5-server-core.xml.in.h:59
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
 msgstr "Install paket dari group ini untuk grasif dasar (X) interface user."
@@ -376,35 +504,54 @@ msgid "Inuktitut Support"
 msgstr "Dukungan Zulu"
 
 #: ../comps-f7.xml.in.h:77 ../comps-f8.xml.in.h:81 ../comps-f9.xml.in.h:81
+#: ../comps-rhel5-client-core.xml.in.h:63
+#: ../comps-rhel5-server-core.xml.in.h:60
 msgid "Irish Support"
 msgstr "Dukungan Irlandia"
 
 #: ../comps-f7.xml.in.h:78 ../comps-f8.xml.in.h:82 ../comps-f9.xml.in.h:82
+#: ../comps-rhel5-client-core.xml.in.h:64
+#: ../comps-rhel5-cluster-st.xml.in.h:10 ../comps-rhel5-cluster.xml.in.h:11
+#: ../comps-rhel5-server-core.xml.in.h:61 ../comps-rhel5-vt.xml.in.h:9
 msgid "Italian Support"
 msgstr "Dukungan Italia"
 
 #: ../comps-f7.xml.in.h:79 ../comps-f8.xml.in.h:83 ../comps-f9.xml.in.h:83
 #: ../comps-el4.xml.in.h:30 ../comps-el5.xml.in.h:32
+#: ../comps-rhel5-client-core.xml.in.h:65
+#: ../comps-rhel5-cluster-st.xml.in.h:11 ../comps-rhel5-cluster.xml.in.h:12
+#: ../comps-rhel5-server-core.xml.in.h:62 ../comps-rhel5-vt.xml.in.h:10
 msgid "Japanese Support"
 msgstr "Dukungan Jepang"
 
 #: ../comps-f7.xml.in.h:80 ../comps-f8.xml.in.h:84 ../comps-f9.xml.in.h:84
-#: ../comps-el4.xml.in.h:31
+#: ../comps-el4.xml.in.h:31 ../comps-rhel5-client-core.xml.in.h:66
+#: ../comps-rhel5-client-supplementary.xml.in.h:2
+#: ../comps-rhel5-client-workstation.xml.in.h:19
+#: ../comps-rhel5-server-core.xml.in.h:63
+#: ../comps-rhel5-server-supplementary.xml.in.h:2
 msgid "Java"
 msgstr "Java"
 
 #: ../comps-f7.xml.in.h:81 ../comps-f8.xml.in.h:85 ../comps-f9.xml.in.h:85
-#: ../comps-el4.xml.in.h:32
+#: ../comps-el4.xml.in.h:32 ../comps-rhel5-client-core.xml.in.h:67
+#: ../comps-rhel5-client-workstation.xml.in.h:20
+#: ../comps-rhel5-server-core.xml.in.h:64
 msgid "Java Development"
 msgstr "Pengembangan Java"
 
 #: ../comps-f7.xml.in.h:82 ../comps-f8.xml.in.h:86 ../comps-f9.xml.in.h:86
 #: ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:33
+#: ../comps-rhel5-client-core.xml.in.h:68
+#: ../comps-rhel5-server-core.xml.in.h:65
 msgid "KDE (K Desktop Environment)"
 msgstr "KDE (K Desktop Environment)"
 
 #: ../comps-f7.xml.in.h:83 ../comps-f8.xml.in.h:87 ../comps-f9.xml.in.h:87
 #: ../comps-el4.xml.in.h:34 ../comps-el5.xml.in.h:34
+#: ../comps-rhel5-client-core.xml.in.h:69
+#: ../comps-rhel5-client-workstation.xml.in.h:21
+#: ../comps-rhel5-server-core.xml.in.h:66
 msgid "KDE Software Development"
 msgstr "Pengembangan Piranti Lunak KDE"
 
@@ -417,6 +564,9 @@ msgstr ""
 "dekstop, icons sitem, dan file manager grafis."
 
 #: ../comps-f7.xml.in.h:85 ../comps-f8.xml.in.h:89 ../comps-f9.xml.in.h:89
+#: ../comps-rhel5-client-core.xml.in.h:71
+#: ../comps-rhel5-cluster-st.xml.in.h:12 ../comps-rhel5-cluster.xml.in.h:13
+#: ../comps-rhel5-server-core.xml.in.h:68 ../comps-rhel5-vt.xml.in.h:11
 msgid "Kannada Support"
 msgstr "Dukungan Kanada"
 
@@ -426,10 +576,15 @@ msgid "Khmer Support"
 msgstr "Dukungan Jerman"
 
 #: ../comps-f7.xml.in.h:87 ../comps-f8.xml.in.h:91 ../comps-f9.xml.in.h:91
+#: ../comps-rhel5-client-core.xml.in.h:72
+#: ../comps-rhel5-cluster-st.xml.in.h:13 ../comps-rhel5-cluster.xml.in.h:14
+#: ../comps-rhel5-server-core.xml.in.h:69 ../comps-rhel5-vt.xml.in.h:12
 msgid "Korean Support"
 msgstr "Dukungan Korea"
 
 #: ../comps-f7.xml.in.h:88 ../comps-f8.xml.in.h:92 ../comps-f9.xml.in.h:92
+#: ../comps-rhel5-client-core.xml.in.h:73
+#: ../comps-rhel5-server-core.xml.in.h:70
 msgid "Languages"
 msgstr "Bahasa"
 
@@ -444,23 +599,34 @@ msgid "Latvian Support"
 msgstr "Dukungan Kroasia"
 
 #: ../comps-f7.xml.in.h:91 ../comps-f8.xml.in.h:96 ../comps-f9.xml.in.h:96
+#: ../comps-rhel5-client-core.xml.in.h:74
+#: ../comps-rhel5-client-workstation.xml.in.h:22
+#: ../comps-rhel5-server-core.xml.in.h:71
 msgid "Legacy Network Server"
 msgstr "Server Jaringan Legasi"
 
 #: ../comps-f7.xml.in.h:92 ../comps-f8.xml.in.h:97 ../comps-f9.xml.in.h:97
+#: ../comps-rhel5-client-core.xml.in.h:75
+#: ../comps-rhel5-server-core.xml.in.h:72
 msgid "Legacy Software Development"
 msgstr "Legacy Software Development"
 
 #: ../comps-f7.xml.in.h:93 ../comps-f8.xml.in.h:98 ../comps-f9.xml.in.h:98
+#: ../comps-rhel5-client-core.xml.in.h:76
+#: ../comps-rhel5-server-core.xml.in.h:73
 msgid "Legacy Software Support"
 msgstr "Dukungan Perangkat Lunak legasi"
 
 #: ../comps-f7.xml.in.h:94 ../comps-f8.xml.in.h:99 ../comps-f9.xml.in.h:99
+#: ../comps-rhel5-client-core.xml.in.h:78
 msgid "Lithuanian Support"
 msgstr "Dukungan Lithuania"
 
 #: ../comps-f7.xml.in.h:95 ../comps-f8.xml.in.h:101 ../comps-f9.xml.in.h:101
 #: ../comps-el4.xml.in.h:36 ../comps-el5.xml.in.h:36
+#: ../comps-rhel5-client-core.xml.in.h:79
+#: ../comps-rhel5-client-workstation.xml.in.h:23
+#: ../comps-rhel5-server-core.xml.in.h:75
 msgid "Mail Server"
 msgstr "Server Mail"
 
@@ -469,6 +635,9 @@ msgid "Malay Support"
 msgstr "Dukungan Malaysia"
 
 #: ../comps-f7.xml.in.h:97 ../comps-f8.xml.in.h:103 ../comps-f9.xml.in.h:103
+#: ../comps-rhel5-client-core.xml.in.h:80
+#: ../comps-rhel5-cluster-st.xml.in.h:14 ../comps-rhel5-cluster.xml.in.h:15
+#: ../comps-rhel5-server-core.xml.in.h:76 ../comps-rhel5-vt.xml.in.h:13
 msgid "Malayalam Support"
 msgstr ""
 
@@ -478,20 +647,32 @@ msgid "Maori Support"
 msgstr "Dukungan Thailand"
 
 #: ../comps-f7.xml.in.h:99 ../comps-f8.xml.in.h:105 ../comps-f9.xml.in.h:105
+#: ../comps-rhel5-client-core.xml.in.h:81
+#: ../comps-rhel5-cluster-st.xml.in.h:15 ../comps-rhel5-cluster.xml.in.h:16
+#: ../comps-rhel5-server-core.xml.in.h:77 ../comps-rhel5-vt.xml.in.h:14
 msgid "Marathi Support"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:100 ../comps-f8.xml.in.h:107 ../comps-f9.xml.in.h:107
+#: ../comps-rhel5-client-core.xml.in.h:83
+#: ../comps-rhel5-client-workstation.xml.in.h:25
+#: ../comps-rhel5-server-core.xml.in.h:79
 msgid "MySQL Database"
 msgstr "Basisdata MySQL"
 
 #: ../comps-f7.xml.in.h:101 ../comps-f8.xml.in.h:109 ../comps-f9.xml.in.h:109
 #: ../comps-el4.xml.in.h:37 ../comps-el5.xml.in.h:37
+#: ../comps-rhel5-client-core.xml.in.h:84
+#: ../comps-rhel5-client-workstation.xml.in.h:26
+#: ../comps-rhel5-server-core.xml.in.h:80
 msgid "Network Servers"
 msgstr "Server Jaringan"
 
 #: ../comps-f7.xml.in.h:102 ../comps-f8.xml.in.h:110 ../comps-f9.xml.in.h:110
 #: ../comps-el4.xml.in.h:38 ../comps-el5.xml.in.h:38
+#: ../comps-rhel5-client-core.xml.in.h:85
+#: ../comps-rhel5-client-workstation.xml.in.h:27
+#: ../comps-rhel5-server-core.xml.in.h:81
 msgid "News Server"
 msgstr "Server News"
 
@@ -500,20 +681,29 @@ msgid "Northern Sotho Support"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:104 ../comps-f8.xml.in.h:112 ../comps-f9.xml.in.h:112
+#: ../comps-rhel5-client-core.xml.in.h:86
+#: ../comps-rhel5-server-core.xml.in.h:82
 msgid "Norwegian Support"
 msgstr "Dukungan Norwegia"
 
 #: ../comps-f7.xml.in.h:105 ../comps-f8.xml.in.h:113 ../comps-f9.xml.in.h:113
 #: ../comps-el4.xml.in.h:39 ../comps-el5.xml.in.h:39
+#: ../comps-rhel5-client-core.xml.in.h:87
+#: ../comps-rhel5-server-core.xml.in.h:83
 msgid "Office/Productivity"
 msgstr "Kantor/Produktivitas"
 
 #: ../comps-f7.xml.in.h:106 ../comps-f8.xml.in.h:115 ../comps-f9.xml.in.h:115
+#: ../comps-rhel5-client-core.xml.in.h:88
+#: ../comps-rhel5-cluster-st.xml.in.h:16 ../comps-rhel5-cluster.xml.in.h:17
+#: ../comps-rhel5-server-core.xml.in.h:85 ../comps-rhel5-vt.xml.in.h:15
 msgid "Oriya Support"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:107 ../comps-f8.xml.in.h:116 ../comps-f9.xml.in.h:116
 #: ../comps-el4.xml.in.h:40 ../comps-el5.xml.in.h:40
+#: ../comps-rhel5-client-core.xml.in.h:89
+#: ../comps-rhel5-server-core.xml.in.h:86
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
@@ -525,34 +715,54 @@ msgid "Persian Support"
 msgstr "Dukungan Serbia"
 
 #: ../comps-f7.xml.in.h:109 ../comps-f8.xml.in.h:118 ../comps-f9.xml.in.h:118
+#: ../comps-rhel5-client-core.xml.in.h:92
+#: ../comps-rhel5-server-core.xml.in.h:88
 msgid "Polish Support"
 msgstr "Dukungan Polandia"
 
 #: ../comps-f7.xml.in.h:110 ../comps-f8.xml.in.h:119 ../comps-f9.xml.in.h:119
+#: ../comps-rhel5-client-core.xml.in.h:93
+#: ../comps-rhel5-server-core.xml.in.h:89
 msgid "Portuguese Support"
 msgstr "Dukungan Portugis"
 
 #: ../comps-f7.xml.in.h:111 ../comps-f8.xml.in.h:120 ../comps-f9.xml.in.h:120
+#: ../comps-rhel5-client-core.xml.in.h:94
+#: ../comps-rhel5-client-workstation.xml.in.h:30
+#: ../comps-rhel5-server-core.xml.in.h:90
 msgid "PostgreSQL Database"
 msgstr "Basisdata PostgreSQL"
 
 #: ../comps-f7.xml.in.h:112 ../comps-f8.xml.in.h:121 ../comps-f9.xml.in.h:121
+#: ../comps-rhel5-client-core.xml.in.h:95
+#: ../comps-rhel5-server-core.xml.in.h:91
 msgid "Printing Support"
 msgstr "Dukungan Pencetakan"
 
 #: ../comps-f7.xml.in.h:113 ../comps-f8.xml.in.h:122 ../comps-f9.xml.in.h:122
+#: ../comps-rhel5-client-core.xml.in.h:96
+#: ../comps-rhel5-cluster-st.xml.in.h:18 ../comps-rhel5-cluster.xml.in.h:18
+#: ../comps-rhel5-server-core.xml.in.h:92 ../comps-rhel5-vt.xml.in.h:16
 msgid "Punjabi Support"
 msgstr "Dukungan Punjabi"
 
 #: ../comps-f7.xml.in.h:114 ../comps-f8.xml.in.h:123 ../comps-f9.xml.in.h:123
+#: ../comps-rhel5-client-core.xml.in.h:97
+#: ../comps-rhel5-server-core.xml.in.h:93
 msgid "Romanian Support"
 msgstr "Dukungan Rumania"
 
 #: ../comps-f7.xml.in.h:115 ../comps-f8.xml.in.h:124 ../comps-f9.xml.in.h:124
+#: ../comps-rhel5-client-core.xml.in.h:98
+#: ../comps-rhel5-client-workstation.xml.in.h:31
+#: ../comps-rhel5-server-core.xml.in.h:94
 msgid "Ruby"
 msgstr "Ruby"
 
 #: ../comps-f7.xml.in.h:116 ../comps-f8.xml.in.h:125 ../comps-f9.xml.in.h:125
+#: ../comps-rhel5-client-core.xml.in.h:99
+#: ../comps-rhel5-cluster-st.xml.in.h:19 ../comps-rhel5-cluster.xml.in.h:19
+#: ../comps-rhel5-server-core.xml.in.h:95 ../comps-rhel5-vt.xml.in.h:17
 msgid "Russian Support"
 msgstr "Dukungan Rusia"
 
@@ -562,15 +772,22 @@ msgid "Samoan Support"
 msgstr "Dukungan Jerman"
 
 #: ../comps-f7.xml.in.h:118 ../comps-f8.xml.in.h:127 ../comps-f9.xml.in.h:127
+#: ../comps-rhel5-client-core.xml.in.h:100
+#: ../comps-rhel5-server-core.xml.in.h:96
 msgid "Serbian Support"
 msgstr "Dukungan Serbia"
 
 #: ../comps-f7.xml.in.h:119 ../comps-f8.xml.in.h:128 ../comps-f9.xml.in.h:128
+#: ../comps-rhel5-client-core.xml.in.h:101
+#: ../comps-rhel5-client-workstation.xml.in.h:32
+#: ../comps-rhel5-server-core.xml.in.h:97
 msgid "Server Configuration Tools"
 msgstr "Peralatan Konfigurasi Server"
 
 #: ../comps-f7.xml.in.h:120 ../comps-f8.xml.in.h:129 ../comps-f9.xml.in.h:129
 #: ../comps-el4.xml.in.h:41 ../comps-el5.xml.in.h:41
+#: ../comps-rhel5-client-core.xml.in.h:102
+#: ../comps-rhel5-server-core.xml.in.h:98
 msgid "Servers"
 msgstr "Server"
 
@@ -581,23 +798,35 @@ msgid ""
 msgstr ""
 
 #: ../comps-f7.xml.in.h:122 ../comps-f8.xml.in.h:131 ../comps-f9.xml.in.h:131
+#: ../comps-rhel5-client-core.xml.in.h:104
+#: ../comps-rhel5-cluster-st.xml.in.h:20 ../comps-rhel5-cluster.xml.in.h:20
+#: ../comps-rhel5-server-core.xml.in.h:100 ../comps-rhel5-vt.xml.in.h:18
 msgid "Sinhala Support"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:123 ../comps-f8.xml.in.h:132 ../comps-f9.xml.in.h:132
+#: ../comps-rhel5-client-core.xml.in.h:105
+#: ../comps-rhel5-server-core.xml.in.h:101
 msgid "Slovak Support"
 msgstr "Dukungan Slovakia"
 
 #: ../comps-f7.xml.in.h:124 ../comps-f8.xml.in.h:133 ../comps-f9.xml.in.h:133
+#: ../comps-rhel5-client-core.xml.in.h:106
+#: ../comps-rhel5-server-core.xml.in.h:102
 msgid "Slovenian Support"
 msgstr "Dukungan Slovenia"
 
 #: ../comps-f7.xml.in.h:125 ../comps-f8.xml.in.h:134 ../comps-f9.xml.in.h:134
+#: ../comps-rhel5-client-core.xml.in.h:107
+#: ../comps-rhel5-client-workstation.xml.in.h:34
+#: ../comps-rhel5-server-core.xml.in.h:103
 msgid "Smallest possible installation"
 msgstr "Instalasi sekecil mungkin"
 
 #: ../comps-f7.xml.in.h:126 ../comps-f8.xml.in.h:135 ../comps-f9.xml.in.h:135
 #: ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:43
+#: ../comps-rhel5-client-core.xml.in.h:108
+#: ../comps-rhel5-server-core.xml.in.h:104
 msgid "Software used for running network servers"
 msgstr ""
 
@@ -616,6 +845,8 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:129 ../comps-f8.xml.in.h:138 ../comps-f9.xml.in.h:138
 #: ../comps-el4.xml.in.h:45 ../comps-el5.xml.in.h:45
+#: ../comps-rhel5-client-core.xml.in.h:110
+#: ../comps-rhel5-server-core.xml.in.h:106
 msgid "Sound and Video"
 msgstr "Suara dan Video"
 
@@ -628,16 +859,23 @@ msgid "Southern Sotho Support"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:132 ../comps-f8.xml.in.h:141 ../comps-f9.xml.in.h:141
+#: ../comps-rhel5-client-core.xml.in.h:111
+#: ../comps-rhel5-cluster-st.xml.in.h:21 ../comps-rhel5-cluster.xml.in.h:21
+#: ../comps-rhel5-server-core.xml.in.h:107 ../comps-rhel5-vt.xml.in.h:19
 msgid "Spanish Support"
 msgstr "Dukungan Spanyol"
 
 #: ../comps-f7.xml.in.h:133 ../comps-f8.xml.in.h:142 ../comps-f9.xml.in.h:142
-#: ../comps-el4.xml.in.h:46
+#: ../comps-el4.xml.in.h:46 ../comps-rhel5-client-core.xml.in.h:112
+#: ../comps-rhel5-client-workstation.xml.in.h:35
+#: ../comps-rhel5-server-core.xml.in.h:108
 msgid "Support for developing programs in the Java programming language."
 msgstr "Dukungan untuk mengembangkan program dalam bahasa pemrograman Java. "
 
 #: ../comps-f7.xml.in.h:134 ../comps-f8.xml.in.h:143 ../comps-f9.xml.in.h:143
-#: ../comps-el4.xml.in.h:47
+#: ../comps-el4.xml.in.h:47 ../comps-rhel5-client-core.xml.in.h:113
+#: ../comps-rhel5-client-workstation.xml.in.h:36
+#: ../comps-rhel5-server-core.xml.in.h:109
 msgid "Support for running programs written in the Java programming language."
 msgstr ""
 "Dukungan untuk menjalankan program yang ditulis dalam bahasa pemrograman "
@@ -648,11 +886,16 @@ msgid "Swati Support"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:136 ../comps-f8.xml.in.h:145 ../comps-f9.xml.in.h:145
+#: ../comps-rhel5-client-core.xml.in.h:114
+#: ../comps-rhel5-server-core.xml.in.h:110
 msgid "Swedish Support"
 msgstr "Dukungan Swedia"
 
 #: ../comps-f7.xml.in.h:137 ../comps-f8.xml.in.h:146 ../comps-f9.xml.in.h:146
 #: ../comps-el4.xml.in.h:48 ../comps-el5.xml.in.h:46
+#: ../comps-rhel5-client-core.xml.in.h:115
+#: ../comps-rhel5-client-workstation.xml.in.h:37
+#: ../comps-rhel5-server-core.xml.in.h:111
 msgid "System Tools"
 msgstr "Peralatan Sistem"
 
@@ -662,32 +905,48 @@ msgid "Tagalog Support"
 msgstr "Dukungan Tamil"
 
 #: ../comps-f7.xml.in.h:139 ../comps-f8.xml.in.h:148 ../comps-f9.xml.in.h:148
+#: ../comps-rhel5-client-core.xml.in.h:116
+#: ../comps-rhel5-cluster-st.xml.in.h:22 ../comps-rhel5-cluster.xml.in.h:22
+#: ../comps-rhel5-server-core.xml.in.h:112 ../comps-rhel5-vt.xml.in.h:20
 msgid "Tamil Support"
 msgstr "Dukungan Tamil"
 
 #: ../comps-f7.xml.in.h:140 ../comps-f8.xml.in.h:149 ../comps-f9.xml.in.h:149
+#: ../comps-rhel5-client-core.xml.in.h:117
+#: ../comps-rhel5-cluster-st.xml.in.h:23 ../comps-rhel5-cluster.xml.in.h:23
+#: ../comps-rhel5-server-core.xml.in.h:113 ../comps-rhel5-vt.xml.in.h:21
 msgid "Telugu Support"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:141 ../comps-f8.xml.in.h:150 ../comps-f9.xml.in.h:150
 #: ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:47
+#: ../comps-rhel5-client-core.xml.in.h:118
+#: ../comps-rhel5-client-workstation.xml.in.h:38
+#: ../comps-rhel5-server-core.xml.in.h:114
 msgid "Text-based Internet"
 msgstr "Internet berbasis text"
 
 #: ../comps-f7.xml.in.h:142 ../comps-f8.xml.in.h:151 ../comps-f9.xml.in.h:151
+#: ../comps-rhel5-client-core.xml.in.h:119
+#: ../comps-rhel5-server-core.xml.in.h:115
 msgid "Thai Support"
 msgstr "Dukungan Thailand"
 
-#: ../comps-f7.xml.in.h:143
+#: ../comps-f7.xml.in.h:143 ../comps-rhel5-client-workstation.xml.in.h:39
 msgid "The Eclipse Integrated Development Environment."
 msgstr "Lingkungan Pengembangan Eclipse yang Terpadu."
 
 #: ../comps-f7.xml.in.h:144 ../comps-f8.xml.in.h:152 ../comps-f9.xml.in.h:152
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:49
+#: ../comps-rhel5-client-core.xml.in.h:120
+#: ../comps-rhel5-server-core.xml.in.h:116
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr "Aplikasi ini termasuk office suite, PDF viewer dan banyak lagi."
 
 #: ../comps-f7.xml.in.h:145 ../comps-f8.xml.in.h:153 ../comps-f9.xml.in.h:153
+#: ../comps-rhel5-client-core.xml.in.h:121
+#: ../comps-rhel5-client-workstation.xml.in.h:40
+#: ../comps-rhel5-server-core.xml.in.h:117
 msgid ""
 "The packages in this group are core libraries needed to develop applications."
 msgstr ""
@@ -696,12 +955,18 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:146 ../comps-f8.xml.in.h:154 ../comps-f9.xml.in.h:154
 #: ../comps-el4.xml.in.h:52 ../comps-el5.xml.in.h:50
+#: ../comps-rhel5-client-core.xml.in.h:122
+#: ../comps-rhel5-client-workstation.xml.in.h:41
+#: ../comps-rhel5-server-core.xml.in.h:118
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr ""
 "Paket-paket ini membolehkan anda untuk mengkonfigurasi server mail IMAP atau "
 "SMTP."
 
 #: ../comps-f7.xml.in.h:147 ../comps-f8.xml.in.h:155 ../comps-f9.xml.in.h:155
+#: ../comps-rhel5-client-core.xml.in.h:123
+#: ../comps-rhel5-client-workstation.xml.in.h:42
+#: ../comps-rhel5-server-core.xml.in.h:119
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr ""
@@ -717,6 +982,9 @@ msgstr ""
 "halaman web."
 
 #: ../comps-f7.xml.in.h:149 ../comps-f8.xml.in.h:157 ../comps-f9.xml.in.h:157
+#: ../comps-rhel5-client-core.xml.in.h:124
+#: ../comps-rhel5-client-workstation.xml.in.h:43
+#: ../comps-rhel5-server-core.xml.in.h:120
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr ""
@@ -724,6 +992,9 @@ msgstr ""
 "karberos dan NIS."
 
 #: ../comps-f7.xml.in.h:150 ../comps-f8.xml.in.h:158 ../comps-f9.xml.in.h:158
+#: ../comps-rhel5-client-core.xml.in.h:125
+#: ../comps-rhel5-client-workstation.xml.in.h:44
+#: ../comps-rhel5-server-core.xml.in.h:121
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
@@ -741,6 +1012,8 @@ msgstr ""
 "Paket-paket ini menyediakan dukungan kompabilitas dengan rilis sebelumnya."
 
 #: ../comps-f7.xml.in.h:153 ../comps-f8.xml.in.h:161 ../comps-f9.xml.in.h:161
+#: ../comps-rhel5-client-core.xml.in.h:127
+#: ../comps-rhel5-server-core.xml.in.h:123
 msgid ""
 "These packages provide support for various locales including fonts and input "
 "methods."
@@ -758,18 +1031,27 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:155 ../comps-f8.xml.in.h:163 ../comps-f9.xml.in.h:163
 #: ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:53
+#: ../comps-rhel5-client-core.xml.in.h:129
+#: ../comps-rhel5-client-workstation.xml.in.h:45
+#: ../comps-rhel5-server-core.xml.in.h:125
 msgid "These tools allow you to run a Web server on the system."
 msgstr ""
 "Alat bantu ini membolehkan anda untuk menjalankan WebServer dalam sistem."
 
 #: ../comps-f7.xml.in.h:156 ../comps-f8.xml.in.h:164 ../comps-f9.xml.in.h:164
 #: ../comps-el4.xml.in.h:56 ../comps-el5.xml.in.h:54
+#: ../comps-rhel5-client-core.xml.in.h:130
+#: ../comps-rhel5-client-workstation.xml.in.h:46
+#: ../comps-rhel5-server-core.xml.in.h:126
 msgid "These tools allow you to run an FTP server on the system."
 msgstr ""
 "Alat bantu ini membolehkan anda untuk menjalankan server FTP dalam sistem."
 
 #: ../comps-f7.xml.in.h:157 ../comps-f8.xml.in.h:165 ../comps-f9.xml.in.h:165
 #: ../comps-el4.xml.in.h:57 ../comps-el5.xml.in.h:55
+#: ../comps-rhel5-client-core.xml.in.h:131
+#: ../comps-rhel5-client-workstation.xml.in.h:47
+#: ../comps-rhel5-server-core.xml.in.h:127
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
@@ -779,18 +1061,27 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:158 ../comps-f8.xml.in.h:166 ../comps-f9.xml.in.h:166
 #: ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:56
+#: ../comps-rhel5-client-core.xml.in.h:132
+#: ../comps-rhel5-client-workstation.xml.in.h:48
+#: ../comps-rhel5-server-core.xml.in.h:128
 msgid "This group allows you to configure the system as a news server."
 msgstr ""
 "Grup ini membolehkan anda untuk melakukan konfigurasi pada sistem seperti "
 "server news."
 
 #: ../comps-f7.xml.in.h:159 ../comps-f8.xml.in.h:167 ../comps-f9.xml.in.h:167
+#: ../comps-rhel5-client-core.xml.in.h:133
+#: ../comps-rhel5-client-workstation.xml.in.h:49
+#: ../comps-rhel5-server-core.xml.in.h:129
 msgid "This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Grup ini berisikan semua alat bantu konfigurasi server yang dicustom di Red "
 "Hat."
 
 #: ../comps-f7.xml.in.h:160 ../comps-f8.xml.in.h:168 ../comps-f9.xml.in.h:168
+#: ../comps-rhel5-client-core.xml.in.h:134
+#: ../comps-rhel5-client-workstation.xml.in.h:50
+#: ../comps-rhel5-server-core.xml.in.h:130
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
@@ -800,11 +1091,17 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:161 ../comps-f8.xml.in.h:169 ../comps-f9.xml.in.h:169
 #: ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:57
+#: ../comps-rhel5-client-core.xml.in.h:135
+#: ../comps-rhel5-client-workstation.xml.in.h:51
+#: ../comps-rhel5-server-core.xml.in.h:131
 msgid "This group includes graphical email, Web, and chat clients."
 msgstr "Grup ini termasuk email grafis, Web dan klien untuk chat."
 
 #: ../comps-f7.xml.in.h:162 ../comps-f8.xml.in.h:170 ../comps-f9.xml.in.h:170
 #: ../comps-el4.xml.in.h:60 ../comps-el5.xml.in.h:58
+#: ../comps-rhel5-client-core.xml.in.h:136
+#: ../comps-rhel5-client-workstation.xml.in.h:52
+#: ../comps-rhel5-server-core.xml.in.h:132
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
@@ -814,6 +1111,8 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:163 ../comps-f8.xml.in.h:171 ../comps-f9.xml.in.h:171
 #: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:59
+#: ../comps-rhel5-client-core.xml.in.h:137
+#: ../comps-rhel5-server-core.xml.in.h:133
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr ""
 "Di dalam grup ini termasuk paket-paket yang akan membantu anda memanipulasi "
@@ -821,6 +1120,9 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:164 ../comps-f8.xml.in.h:172 ../comps-f9.xml.in.h:172
 #: ../comps-el4.xml.in.h:62 ../comps-el5.xml.in.h:60
+#: ../comps-rhel5-client-core.xml.in.h:138
+#: ../comps-rhel5-client-workstation.xml.in.h:53
+#: ../comps-rhel5-server-core.xml.in.h:134
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
@@ -830,6 +1132,9 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:165 ../comps-f8.xml.in.h:173 ../comps-f9.xml.in.h:173
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:61
+#: ../comps-rhel5-client-core.xml.in.h:139
+#: ../comps-rhel5-client-workstation.xml.in.h:54
+#: ../comps-rhel5-server-core.xml.in.h:135
 msgid ""
 "This group is a collection of graphical administration tools for the system, "
 "such as for managing user accounts and configuring system hardware."
@@ -852,6 +1157,9 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:168 ../comps-f8.xml.in.h:176 ../comps-f9.xml.in.h:176
 #: ../comps-el4.xml.in.h:70 ../comps-el5.xml.in.h:69
+#: ../comps-rhel5-client-core.xml.in.h:140
+#: ../comps-rhel5-client-workstation.xml.in.h:55
+#: ../comps-rhel5-server-core.xml.in.h:136
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
@@ -861,6 +1169,9 @@ msgstr ""
 "jaringan."
 
 #: ../comps-f7.xml.in.h:169 ../comps-f8.xml.in.h:177 ../comps-f9.xml.in.h:177
+#: ../comps-rhel5-client-core.xml.in.h:141
+#: ../comps-rhel5-client-workstation.xml.in.h:56
+#: ../comps-rhel5-server-core.xml.in.h:137
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr ""
@@ -868,6 +1179,8 @@ msgstr ""
 "pada sistem."
 
 #: ../comps-f7.xml.in.h:170 ../comps-f8.xml.in.h:178 ../comps-f9.xml.in.h:178
+#: ../comps-rhel5-client-core.xml.in.h:142
+#: ../comps-rhel5-server-core.xml.in.h:138
 msgid ""
 "This package group allows you to share files between Linux and MS Windows"
 "(tm) systems."
@@ -876,12 +1189,18 @@ msgstr ""
 "Linux dan MS Windows(tm)."
 
 #: ../comps-f7.xml.in.h:171 ../comps-f8.xml.in.h:179 ../comps-f9.xml.in.h:179
+#: ../comps-rhel5-client-core.xml.in.h:143
+#: ../comps-rhel5-client-workstation.xml.in.h:57
+#: ../comps-rhel5-server-core.xml.in.h:139
 msgid "This package group contains packages useful for use with MySQL."
 msgstr ""
 "Di grup paket ini berisikan paket-paket yang berguna untuk digunakan dengan "
 "MySQL."
 
 #: ../comps-f7.xml.in.h:172 ../comps-f8.xml.in.h:180 ../comps-f9.xml.in.h:180
+#: ../comps-rhel5-client-core.xml.in.h:144
+#: ../comps-rhel5-client-workstation.xml.in.h:58
+#: ../comps-rhel5-server-core.xml.in.h:140
 msgid "This package group includes packages useful for use with Postgresql."
 msgstr ""
 "Di grup paket ini termasuk paket-paket yang berguna untuk digunakan dengan "
@@ -911,10 +1230,14 @@ msgid "Tswana Support"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:178 ../comps-f8.xml.in.h:186 ../comps-f9.xml.in.h:186
+#: ../comps-rhel5-client-core.xml.in.h:145
+#: ../comps-rhel5-server-core.xml.in.h:141
 msgid "Turkish Support"
 msgstr "Dukungan Turki"
 
 #: ../comps-f7.xml.in.h:179 ../comps-f8.xml.in.h:187 ../comps-f9.xml.in.h:187
+#: ../comps-rhel5-client-core.xml.in.h:146
+#: ../comps-rhel5-server-core.xml.in.h:142
 msgid "Ukrainian Support"
 msgstr "Dukungan Ukraina"
 
@@ -925,11 +1248,14 @@ msgstr "Dukungan Zulu"
 
 #: ../comps-f7.xml.in.h:181 ../comps-f8.xml.in.h:189 ../comps-f9.xml.in.h:189
 #: ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:71
+#: ../comps-rhel5-client-core.xml.in.h:147
+#: ../comps-rhel5-server-core.xml.in.h:143
 msgid "Various core pieces of the system."
 msgstr ""
 
 #: ../comps-f7.xml.in.h:182 ../comps-f8.xml.in.h:190 ../comps-f9.xml.in.h:190
-#: ../comps-el5.xml.in.h:72
+#: ../comps-el5.xml.in.h:72 ../comps-rhel5-client-core.xml.in.h:148
+#: ../comps-rhel5-server-core.xml.in.h:144
 msgid "Various ways to relax and spend your free time."
 msgstr "Berbagai cara untuk bersantai dan menghabiskan waktu luang anda."
 
@@ -943,6 +1269,7 @@ msgid "Vietnamese Support"
 msgstr "Dukungan Cina"
 
 #: ../comps-f7.xml.in.h:185 ../comps-f8.xml.in.h:193 ../comps-f9.xml.in.h:193
+#: ../comps-rhel5-vt.xml.in.h:22
 msgid "Virtualization"
 msgstr "Virtualisasi"
 
@@ -953,10 +1280,15 @@ msgstr "Pengembangan Web"
 
 #: ../comps-f7.xml.in.h:187 ../comps-f8.xml.in.h:195 ../comps-f9.xml.in.h:195
 #: ../comps-el4.xml.in.h:74 ../comps-el5.xml.in.h:74
+#: ../comps-rhel5-client-core.xml.in.h:149
+#: ../comps-rhel5-client-workstation.xml.in.h:59
+#: ../comps-rhel5-server-core.xml.in.h:145
 msgid "Web Server"
 msgstr "Server Web"
 
 #: ../comps-f7.xml.in.h:188 ../comps-f8.xml.in.h:196 ../comps-f9.xml.in.h:196
+#: ../comps-rhel5-client-core.xml.in.h:150
+#: ../comps-rhel5-server-core.xml.in.h:146
 msgid "Welsh Support"
 msgstr "Dukungan Wales"
 
@@ -966,15 +1298,23 @@ msgid "Window Managers"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:190 ../comps-f8.xml.in.h:198 ../comps-f9.xml.in.h:198
+#: ../comps-rhel5-client-core.xml.in.h:151
+#: ../comps-rhel5-server-core.xml.in.h:147
 msgid "Windows File Server"
 msgstr "File Server Windows"
 
 #: ../comps-f7.xml.in.h:191 ../comps-f8.xml.in.h:199 ../comps-f9.xml.in.h:199
+#: ../comps-rhel5-client-core.xml.in.h:152
+#: ../comps-rhel5-client-workstation.xml.in.h:60
+#: ../comps-rhel5-server-core.xml.in.h:148
 msgid "X Software Development"
 msgstr "Pengembangan Perangkat Lunak X"
 
 #: ../comps-f7.xml.in.h:192 ../comps-f8.xml.in.h:200 ../comps-f9.xml.in.h:200
 #: ../comps-el4.xml.in.h:76 ../comps-el5.xml.in.h:76
+#: ../comps-rhel5-client-core.xml.in.h:153
+#: ../comps-rhel5-client-workstation.xml.in.h:61
+#: ../comps-rhel5-server-core.xml.in.h:149
 msgid "X Window System"
 msgstr "Sistem X Window"
 
@@ -991,6 +1331,7 @@ msgid "Xhosa Support"
 msgstr ""
 
 #: ../comps-f7.xml.in.h:196 ../comps-f8.xml.in.h:204 ../comps-f9.xml.in.h:204
+#: ../comps-rhel5-client-core.xml.in.h:154
 msgid "Zulu Support"
 msgstr "Dukungan Zulu"
 
@@ -1040,14 +1381,20 @@ msgid "Older bitmap and vector fonts packages"
 msgstr ""
 
 #: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
+#: ../comps-rhel5-client-core.xml.in.h:4 ../comps-rhel5-server-core.xml.in.h:4
 msgid "Applications for a variety of tasks"
 msgstr ""
 
 #: ../comps-el4.xml.in.h:12 ../comps-el5.xml.in.h:13
+#: ../comps-rhel5-client-core.xml.in.h:32
+#: ../comps-rhel5-server-core.xml.in.h:29
 msgid "Dialup Networking Support"
 msgstr "Dukungan Dialup Networking"
 
 #: ../comps-el4.xml.in.h:22 ../comps-el5.xml.in.h:23
+#: ../comps-rhel5-client-core.xml.in.h:45
+#: ../comps-rhel5-client-workstation.xml.in.h:14
+#: ../comps-rhel5-server-core.xml.in.h:42
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
@@ -1056,6 +1403,8 @@ msgstr ""
 "icons sitem, dan file manager grafis."
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:35
+#: ../comps-rhel5-client-core.xml.in.h:70
+#: ../comps-rhel5-server-core.xml.in.h:67
 msgid ""
 "KDE is a powerful, graphical user interface which includes a panel, desktop, "
 "system icons, and a graphical file manager."
@@ -1064,6 +1413,8 @@ msgstr ""
 "sitem, dan file manager grafis."
 
 #: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:44
+#: ../comps-rhel5-client-core.xml.in.h:109
+#: ../comps-rhel5-server-core.xml.in.h:105
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
@@ -1076,6 +1427,8 @@ msgid "The XEmacs text editor."
 msgstr "Editor teks XEmacs."
 
 #: ../comps-el4.xml.in.h:54 ../comps-el5.xml.in.h:52
+#: ../comps-rhel5-client-core.xml.in.h:128
+#: ../comps-rhel5-server-core.xml.in.h:124
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
@@ -1111,15 +1464,117 @@ msgid ""
 "This group is a collection of tools and resources of Czech environments."
 msgstr ""
 
+#: ../comps-rhel5-client-core.xml.in.h:15
+#: ../comps-rhel5-server-core.xml.in.h:14
+msgid "British Support"
+msgstr "Dukungan Inggris"
+
+#: ../comps-rhel5-client-core.xml.in.h:19 ../comps-rhel5-cluster-st.xml.in.h:5
+#, fuzzy
+msgid "Cluster Storage"
+msgstr "Dukungan Rusia"
+
+#: ../comps-rhel5-client-core.xml.in.h:21 ../comps-rhel5-cluster.xml.in.h:6
+#, fuzzy
+msgid "Clustering Support."
+msgstr "Dukungan Serbia"
+
+#: ../comps-rhel5-client-core.xml.in.h:77
+#: ../comps-rhel5-server-core.xml.in.h:74
+msgid "Libraries for applications built on older releases."
+msgstr ""
+
+#: ../comps-rhel5-client-core.xml.in.h:82
+#: ../comps-rhel5-client-workstation.xml.in.h:24
+#: ../comps-rhel5-server-core.xml.in.h:78
+msgid "Miscellaneous Included Packages"
+msgstr "Miscellaneous Included Packages"
+
+#: ../comps-rhel5-client-core.xml.in.h:90
+#: ../comps-rhel5-cluster-st.xml.in.h:17
+msgid "Packages which provide support for cluster storage."
+msgstr ""
+
+#: ../comps-rhel5-client-core.xml.in.h:91
+#: ../comps-rhel5-client-workstation.xml.in.h:29
+#: ../comps-rhel5-server-core.xml.in.h:87
+msgid "Packages which provide support for single-node GFS."
+msgstr ""
+
+#: ../comps-rhel5-client-core.xml.in.h:103
+#: ../comps-rhel5-client-workstation.xml.in.h:33
+#: ../comps-rhel5-server-core.xml.in.h:99
+#, fuzzy
+msgid "Single Node GFS Support"
+msgstr "Dukungan Cina"
+
+#: ../comps-rhel5-client-core.xml.in.h:126
+#: ../comps-rhel5-server-core.xml.in.h:122
+msgid "These packages provide compatibility support with previous releases."
+msgstr ""
+"Paket-paket ini menyediakan dukungan kompabilitas dengan rilis sebelumnya."
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:3
+#: ../comps-rhel5-server-supplementary.xml.in.h:3
+msgid "Java Runtime Environments and Development Kits"
+msgstr ""
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:4
+#: ../comps-rhel5-server-supplementary.xml.in.h:4
+msgid "Misc"
+msgstr "Lain-lain"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:5
+#: ../comps-rhel5-server-supplementary.xml.in.h:5
+msgid "Misc packages"
+msgstr "Paket-paket lainnya"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:6
+#: ../comps-rhel5-server-supplementary.xml.in.h:6
+msgid "Multimedia"
+msgstr "Multimedia"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:7
+#: ../comps-rhel5-server-supplementary.xml.in.h:7
+msgid "Multimedia applications"
+msgstr "Aplikasi Multimedia"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:8
+#: ../comps-rhel5-server-supplementary.xml.in.h:8
+msgid ""
+"Packages which provide additional functionality for Red Hat Enterprise Linux"
+msgstr ""
+"Paket-paket ini menyediakan fungsionalitas tambahan untuk Linux Red Hat "
+"Enterprise"
+
+#: ../comps-rhel5-client-supplementary.xml.in.h:9
+#: ../comps-rhel5-server-supplementary.xml.in.h:9
+#, fuzzy
+msgid "Red Hat Enterprise Linux Supplementary"
+msgstr "Dokumentasi Red Hat Enterprise Linux 3"
+
+#: ../comps-rhel5-client-workstation.xml.in.h:4
+#: ../comps-rhel5-server-core.xml.in.h:18
+msgid ""
+"Components used for high performance networking and clustering, such as "
+"Infiniband and RDMA."
+msgstr ""
+
+#: ../comps-rhel5-client-workstation.xml.in.h:28
+#: ../comps-rhel5-server-core.xml.in.h:84
+msgid "OpenFabrics Enterprise Distribution"
+msgstr ""
+
+#: ../comps-rhel5-vt.xml.in.h:23
+msgid "Virtualization Support."
+msgstr "Dukungan Virtualisasi"
+
 #, fuzzy
 #~ msgid "Somail Support"
 #~ msgstr "Dukungan Tamil"
 
 #~ msgid "Brazilian Support"
 #~ msgstr "Dukungan Brasil"
-
-#~ msgid "British Support"
-#~ msgstr "Dukungan Inggris"
 
 #~ msgid "Compatibility Arch Development Support"
 #~ msgstr "Dukungan Kompabilitas Arsitektur pengembangan"
@@ -1165,9 +1620,6 @@ msgstr ""
 
 #~ msgid "Kernel Development"
 #~ msgstr "Pengembangan Kernel"
-
-#~ msgid "Miscellaneous Included Packages"
-#~ msgstr "Miscellaneous Included Packages"
 
 #~ msgid "Mozilla packages for the x86 platform"
 #~ msgstr "Paket Mozilla untuk platform x86"
@@ -1235,9 +1687,6 @@ msgstr ""
 
 #~ msgid "Italian"
 #~ msgstr "Italia"
-
-#~ msgid "Red Hat Enterprise Linux 3 Documentation"
-#~ msgstr "Dokumentasi Red Hat Enterprise Linux 3"
 
 #~ msgid "Spanish"
 #~ msgstr "Spanyol"
@@ -1380,41 +1829,11 @@ msgstr ""
 #~ "Di dalam grup ini berisikan  dokumentasi Linux Red Hat Enterprise dalam "
 #~ "bahasa Tamil."
 
-#, fuzzy
-#~ msgid "Cluster Storage"
-#~ msgstr "Dukungan Rusia"
-
-#~ msgid "These packages provide compatibility support with previous releases."
-#~ msgstr ""
-#~ "Paket-paket ini menyediakan dukungan kompabilitas dengan rilis sebelumnya."
-
-#~ msgid "Misc"
-#~ msgstr "Lain-lain"
-
-#~ msgid "Misc packages"
-#~ msgstr "Paket-paket lainnya"
-
-#~ msgid "Multimedia"
-#~ msgstr "Multimedia"
-
-#~ msgid "Multimedia applications"
-#~ msgstr "Aplikasi Multimedia"
-
-#~ msgid ""
-#~ "Packages which provide additional functionality for Red Hat Enterprise "
-#~ "Linux"
-#~ msgstr ""
-#~ "Paket-paket ini menyediakan fungsionalitas tambahan untuk Linux Red Hat "
-#~ "Enterprise"
-
 #~ msgid "Red Hat Enterprise Linux Extras"
 #~ msgstr "Red Hat Enterprise Linux Extras"
 
 #~ msgid "Workstation"
 #~ msgstr "Workstation"
-
-#~ msgid "Virtualization Support."
-#~ msgstr "Dukungan Virtualisasi"
 
 #, fuzzy
 #~ msgid ""

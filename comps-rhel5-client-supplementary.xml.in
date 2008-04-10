@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
+<comps>
+  <group>
+    <id>chinese-support</id>
+    <_name>Chinese Support</_name>
+    <_description/>
+    <uservisible>true</uservisible>
+    <langonly>zh</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-chinese-wangma-wubi</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>java</id>
+    <_name>Java</_name>
+    <_description>Java Runtime Environments and Development Kits</_description>
+    <uservisible>true</uservisible>
+    <packagelist>
+<!--java-1.4.2-bea-->
+      <packagereq type="default">java-1.4.2-bea</packagereq>
+      <packagereq type="default">java-1.4.2-bea-demo</packagereq>
+      <packagereq type="default">java-1.4.2-bea-devel</packagereq>
+      <packagereq type="default">java-1.4.2-bea-jdbc</packagereq>
+      <packagereq type="default">java-1.4.2-bea-missioncontrol</packagereq>
+      <packagereq type="default">java-1.4.2-bea-src</packagereq>
+<!--java-1.4.2-ibm-->
+      <packagereq type="default">java-1.4.2-ibm</packagereq>
+      <packagereq type="default">java-1.4.2-ibm-demo</packagereq>
+      <packagereq type="default">java-1.4.2-ibm-devel</packagereq>
+      <packagereq type="default">java-1.4.2-ibm-javacomm</packagereq>
+      <packagereq type="default">java-1.4.2-ibm-jdbc</packagereq>
+      <packagereq type="default">java-1.4.2-ibm-plugin</packagereq>
+      <packagereq type="default">java-1.4.2-ibm-src</packagereq>
+<!--java-1.5.0-ibm-->
+      <packagereq type="default">java-1.5.0-ibm</packagereq>
+      <packagereq type="default">java-1.5.0-ibm-accessibility</packagereq>
+      <packagereq type="default">java-1.5.0-ibm-demo</packagereq>
+      <packagereq type="default">java-1.5.0-ibm-devel</packagereq>
+      <packagereq type="default">java-1.5.0-ibm-javacomm</packagereq>
+      <packagereq type="default">java-1.5.0-ibm-jdbc</packagereq>
+      <packagereq type="default">java-1.5.0-ibm-plugin</packagereq>
+      <packagereq type="default">java-1.5.0-ibm-src</packagereq>
+<!--java-1.5.0-sun-->
+      <packagereq type="default">java-1.5.0-sun</packagereq>
+      <packagereq type="default">java-1.5.0-sun-demo</packagereq>
+      <packagereq type="default">java-1.5.0-sun-devel</packagereq>
+      <packagereq type="default">java-1.5.0-sun-jdbc</packagereq>
+      <packagereq type="default">java-1.5.0-sun-plugin</packagereq>
+      <packagereq type="default">java-1.5.0-sun-src</packagereq>
+<!--java-1.6.0-bea-->
+      <packagereq type="default">java-1.6.0-bea</packagereq>
+      <packagereq type="default">java-1.6.0-bea-demo</packagereq>
+      <packagereq type="default">java-1.6.0-bea-devel</packagereq>
+      <packagereq type="default">java-1.6.0-bea-jdbc</packagereq>
+      <packagereq type="default">java-1.6.0-bea-missioncontrol</packagereq>
+      <packagereq type="default">java-1.6.0-bea-src</packagereq>
+<!--java-1.6.0-ibm-->
+      <packagereq type="default">java-1.6.0-ibm</packagereq>
+      <packagereq type="default">java-1.6.0-ibm-accessibility</packagereq>
+      <packagereq type="default">java-1.6.0-ibm-demo</packagereq>
+      <packagereq type="default">java-1.6.0-ibm-devel</packagereq>
+      <packagereq type="default">java-1.6.0-ibm-javacomm</packagereq>
+      <packagereq type="default">java-1.6.0-ibm-jdbc</packagereq>
+      <packagereq type="default">java-1.6.0-ibm-plugin</packagereq>
+      <packagereq type="default">java-1.6.0-ibm-src</packagereq>
+<!--java-1.6.0-sun-->
+      <packagereq type="default">java-1.6.0-sun</packagereq>
+      <packagereq type="default">java-1.6.0-sun-demo</packagereq>
+      <packagereq type="default">java-1.6.0-sun-devel</packagereq>
+      <packagereq type="default">java-1.6.0-sun-jdbc</packagereq>
+      <packagereq type="default">java-1.6.0-sun-plugin</packagereq>
+      <packagereq type="default">java-1.6.0-sun-src</packagereq>
+<!--other-->
+      <packagereq type="default">system-switch-java</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>misc</id>
+    <_name>Misc</_name>
+    <_description>Misc packages</_description>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">fonts-chinese-zysong</packagereq>
+      <packagereq type="default">ipw2100-firmware</packagereq>
+      <packagereq type="default">ipw2200-firmware</packagereq>
+      <packagereq type="default">ipw3945-ucode</packagereq>
+      <packagereq type="default">ipw3945d</packagereq>
+      <packagereq type="default">iwl4965-firmware</packagereq>
+      <packagereq type="default">kmod-ipw3945</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>multimedia</id>
+    <_name>Multimedia</_name>
+    <_description>Multimedia applications</_description>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">acroread</packagereq>
+      <packagereq type="default">acroread-plugin</packagereq>
+      <packagereq type="default">flash-plugin</packagereq>
+      <packagereq type="default">RealPlayer</packagereq>
+    </packagelist>
+  </group>
+  <category>
+    <id>supplementary</id>
+    <_name>Red Hat Enterprise Linux Supplementary</_name>
+    <_description>Packages which provide additional functionality for Red Hat Enterprise Linux</_description>
+    <display_order>10</display_order>
+    <grouplist>
+      <groupid>chinese-support</groupid>
+      <groupid>ipseries</groupid>
+      <groupid>java</groupid>
+      <groupid>misc</groupid>
+      <groupid>multimedia</groupid>
+    </grouplist>
+  </category>
+</comps>

@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
+<comps>
+  <group>
+    <id>admin-tools</id>
+    <_name>Administration Tools</_name>
+    <_description>This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">sabayon</packagereq>
+      <packagereq type="optional">system-config-kickstart</packagereq>
+      <packagereq type="optional">system-config-netboot</packagereq>
+      <packagereq type="optional">system-config-netboot-cmd</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>base</id>
+    <_name>Base</_name>
+    <_description>This group includes a minimal set of packages.  Useful for creating small router/firewall boxes, for example.</_description>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">ksh</packagereq>
+      <packagereq type="default">mgetty</packagereq>
+      <packagereq type="default">mtr</packagereq>
+      <packagereq type="default">numactl</packagereq>
+      <packagereq type="default">rdate</packagereq>
+      <packagereq type="optional">hardlink</packagereq>
+      <packagereq type="optional">ibmasm</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>base-x</id>
+    <_name>X Window System</_name>
+    <_description>Install this group of packages to use the base graphical (X) user interface.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">ibmasm-xinput</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>core</id>
+    <_name>Core</_name>
+    <_description>Smallest possible installation</_description>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">gnu-efi</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>development-libs</id>
+    <_name>Development Libraries</_name>
+    <_description>The packages in this group are core libraries needed to develop applications.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">bzip2-devel</packagereq>
+      <packagereq type="mandatory">libtermcap-devel</packagereq>
+      <packagereq type="mandatory">ncurses-devel</packagereq>
+      <packagereq type="mandatory">pam-devel</packagereq>
+      <packagereq type="mandatory">readline-devel</packagereq>
+      <packagereq type="mandatory">zlib-devel</packagereq>
+      <packagereq type="default">boost-devel</packagereq>
+      <packagereq type="default">coolkey-devel</packagereq>
+      <packagereq type="default">curl-devel</packagereq>
+      <packagereq type="default">cyrus-sasl-devel</packagereq>
+      <packagereq type="default">db4-devel</packagereq>
+      <packagereq type="default">dbus-devel</packagereq>
+      <packagereq type="default">expat-devel</packagereq>
+      <packagereq type="default">frysk-devel</packagereq>
+      <packagereq type="default">gdbm-devel</packagereq>
+      <packagereq type="default">gmp-devel</packagereq>
+      <packagereq type="default">gpm-devel</packagereq>
+      <packagereq type="default">hesiod-devel</packagereq>
+      <packagereq type="default">krb5-devel</packagereq>
+      <packagereq type="default">kudzu-devel</packagereq>
+      <packagereq type="default">libacl-devel</packagereq>
+      <packagereq type="default">libattr-devel</packagereq>
+      <packagereq type="default">libcap-devel</packagereq>
+      <packagereq type="default">libogg-devel</packagereq>
+      <packagereq type="default">libselinux-devel</packagereq>
+      <packagereq type="default">libusb-devel</packagereq>
+      <packagereq type="default">libuser-devel</packagereq>
+      <packagereq type="default">libvorbis-devel</packagereq>
+      <packagereq type="default">libxml2-devel</packagereq>
+      <packagereq type="default">lockdev-devel</packagereq>
+      <packagereq type="default">newt-devel</packagereq>
+      <packagereq type="default">openldap-devel</packagereq>
+      <packagereq type="default">openssl-devel</packagereq>
+      <packagereq type="default">pciutils-devel</packagereq>
+      <packagereq type="default">pcsc-lite-devel</packagereq>
+      <packagereq type="default">python-devel</packagereq>
+      <packagereq type="default">rpm-devel</packagereq>
+      <packagereq type="default">slang-devel</packagereq>
+      <packagereq type="default">xmlsec1-devel</packagereq>
+      <packagereq type="default">xulrunner-devel</packagereq>
+      <packagereq type="optional">tog-pegasus-devel</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>development-tools</id>
+    <_name>Development Tools</_name>
+    <_description>These tools include core development tools such as automake, gcc, perl, python, and debuggers.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">autoconf</packagereq>
+      <packagereq type="mandatory">automake</packagereq>
+      <packagereq type="mandatory">bison</packagereq>
+      <packagereq type="mandatory">gcc-c++</packagereq>
+      <packagereq type="mandatory">libtool</packagereq>
+      <packagereq type="mandatory">rpm-build</packagereq>
+      <packagereq type="default">automake14</packagereq>
+      <packagereq type="default">automake15</packagereq>
+      <packagereq type="default">automake16</packagereq>
+      <packagereq type="default">automake17</packagereq>
+      <packagereq type="default">byacc</packagereq>
+      <packagereq type="default">cscope</packagereq>
+      <packagereq type="default">ctags</packagereq>
+      <packagereq type="default">dev86</packagereq>
+      <packagereq type="default">diffstat</packagereq>
+      <packagereq type="default">doxygen</packagereq>
+      <packagereq type="default">elfutils</packagereq>
+      <packagereq type="default">gcc-gfortran</packagereq>
+      <packagereq type="default">indent</packagereq>
+      <packagereq type="default">pfmon</packagereq>
+      <packagereq type="default">pstack</packagereq>
+      <packagereq type="default">rcs</packagereq>
+      <packagereq type="default">splint</packagereq>
+      <packagereq type="default">subversion</packagereq>
+      <packagereq type="default">valgrind</packagereq>
+      <packagereq type="optional">ElectricFence</packagereq>
+      <packagereq type="optional">gcc-gnat</packagereq>
+      <packagereq type="optional">gcc-objc</packagereq>
+      <packagereq type="optional">imake</packagereq>
+      <packagereq type="optional">nasm</packagereq>
+      <packagereq type="optional">python-docs</packagereq>
+      <packagereq type="optional">unifdef</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>dns-server</id>
+    <_name>DNS Name Server</_name>
+    <_description>This package group allows you to run a DNS name server (BIND) on the system.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">bind-chroot</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>eclipse</id>
+    <_name>Eclipse</_name>
+    <_description>The Eclipse Integrated Development Environment.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">eclipse-platform</packagereq>
+      <packagereq type="default">eclipse-jdt</packagereq>
+      <packagereq type="optional">eclipse-pde</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>engineering-and-scientific</id>
+    <_name>Engineering and Scientific</_name>
+    <_description>This group includes packages for performing mathematical and scientific computations and plotting, as well as unit conversion.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">lam</packagereq>
+      <packagereq type="optional">lapack</packagereq>
+      <packagereq type="optional">pvm</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>ftp-server</id>
+    <_name>FTP Server</_name>
+    <_description>These tools allow you to run an FTP server on the system.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">vsftpd</packagereq>
+      <packagereq type="optional">xferstats</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>gnome-desktop</id>
+    <_name>GNOME Desktop Environment</_name>
+    <_description>GNOME is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</_description>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>gnome-software-development</id>
+    <_name>GNOME Software Development</_name>
+    <_description>Install these packages in order to develop GTK+ and GNOME graphical applications.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">atk-devel</packagereq>
+      <packagereq type="mandatory">GConf2-devel</packagereq>
+      <packagereq type="mandatory">glib2-devel</packagereq>
+      <packagereq type="mandatory">gnome-vfs2-devel</packagereq>
+      <packagereq type="mandatory">gtk2-devel</packagereq>
+      <packagereq type="mandatory">libbonobo-devel</packagereq>
+      <packagereq type="mandatory">libbonoboui-devel</packagereq>
+      <packagereq type="mandatory">libglade2-devel</packagereq>
+      <packagereq type="mandatory">libgnome-devel</packagereq>
+      <packagereq type="mandatory">libgnomecanvas-devel</packagereq>
+      <packagereq type="mandatory">libgnomeui-devel</packagereq>
+      <packagereq type="mandatory">ORBit2-devel</packagereq>
+      <packagereq type="mandatory">pango-devel</packagereq>
+      <packagereq type="default">at-spi-devel</packagereq>
+      <packagereq type="default">eel2-devel</packagereq>
+      <packagereq type="default">evolution-data-server-devel</packagereq>
+      <packagereq type="default">gail-devel</packagereq>
+      <packagereq type="default">glade2</packagereq>
+      <packagereq type="default">gnome-desktop-devel</packagereq>
+      <packagereq type="default">gnome-panel-devel</packagereq>
+      <packagereq type="default">gnome-pilot-devel</packagereq>
+      <packagereq type="default">hal-devel</packagereq>
+      <packagereq type="default">libart_lgpl-devel</packagereq>
+      <packagereq type="default">libgnomeprintui22-devel</packagereq>
+      <packagereq type="default">libgtop2-devel</packagereq>
+      <packagereq type="default">pygtk2-devel</packagereq>
+      <packagereq type="optional">gob2</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>graphical-internet</id>
+    <_name>Graphical Internet</_name>
+    <_description>This group includes graphical email, Web, and chat clients.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">kdewebdev</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>java</id>
+    <_name>Java</_name>
+    <_description>Support for running programs written in the Java programming language.</_description>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>java-development</id>
+    <_name>Java Development</_name>
+    <_description>Support for developing programs in the Java programming language.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">java-1.4.2-gcj-compat-devel</packagereq>
+      <packagereq type="mandatory">java-1.4.2-gcj-compat-javadoc</packagereq>
+      <packagereq type="default">bsh-javadoc</packagereq>
+      <packagereq type="default">java-1.4.2-gcj-compat-src</packagereq>
+      <packagereq type="default">ldapjdk</packagereq>
+      <packagereq type="default">xmlrpc-javadoc</packagereq>
+      <packagereq type="optional">bsh-demo</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kde-software-development</id>
+    <_name>KDE Software Development</_name>
+    <_description>Install these packages to develop QT and KDE graphical applications.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">arts-devel</packagereq>
+      <packagereq type="mandatory">kdelibs-devel</packagereq>
+      <packagereq type="mandatory">qt-devel</packagereq>
+      <packagereq type="default">kdbg</packagereq>
+      <packagereq type="default">kdebase-devel</packagereq>
+      <packagereq type="default">kdegraphics-devel</packagereq>
+      <packagereq type="default">kdenetwork-devel</packagereq>
+      <packagereq type="default">kdepim-devel</packagereq>
+      <packagereq type="default">kdesdk</packagereq>
+      <packagereq type="default">kdeutils-devel</packagereq>
+      <packagereq type="default">kdevelop</packagereq>
+      <packagereq type="default">PyQt-devel</packagereq>
+      <packagereq type="default">qt-designer</packagereq>
+      <packagereq type="optional">kdesdk-devel</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>legacy-network-server</id>
+    <_name>Legacy Network Server</_name>
+    <_description>These packages include servers for old network protocols such as rsh and telnet.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">bootparamd</packagereq>
+      <packagereq type="optional">rarpd</packagereq>
+      <packagereq type="optional">tftp-server</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>mail-server</id>
+    <_name>Mail Server</_name>
+    <_description>These packages allow you to configure an IMAP or SMTP mail server.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">dovecot</packagereq>
+      <packagereq type="optional">cyrus-imapd</packagereq>
+      <packagereq type="optional">cyrus-imapd-perl</packagereq>
+      <packagereq type="optional">mailman</packagereq>
+      <packagereq type="optional">squirrelmail</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>miscallvars</id>
+    <_name>Miscellaneous Included Packages</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">iptables-devel</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>mysql</id>
+    <_name>MySQL Database</_name>
+    <_description>This package group contains packages useful for use with MySQL.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">MySQL-python</packagereq>
+      <packagereq type="default">mysql-server</packagereq>
+      <packagereq type="optional">mod_auth_mysql</packagereq>
+      <packagereq type="optional">mysql-bench</packagereq>
+      <packagereq type="optional">mysql-devel</packagereq>
+      <packagereq type="optional">php-mysql</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>network-server</id>
+    <_name>Network Servers</_name>
+    <_description>These packages include network-based servers such as DHCP, Kerberos and NIS.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">amanda-server</packagereq>
+      <packagereq type="optional">dhcp</packagereq>
+      <packagereq type="optional">dhcpv6</packagereq>
+      <packagereq type="optional">freeradius</packagereq>
+      <packagereq type="optional">krb5-server</packagereq>
+      <packagereq type="optional">openldap-servers</packagereq>
+      <packagereq type="optional">privoxy</packagereq>
+      <packagereq type="optional">quagga</packagereq>
+      <packagereq type="optional">radvd</packagereq>
+      <packagereq type="optional">ypserv</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>news-server</id>
+    <_name>News Server</_name>
+    <_description>This group allows you to configure the system as a news server.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">inn</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>openfabrics-enterprise-distribution</id>
+    <_name>OpenFabrics Enterprise Distribution</_name>
+    <_description>Components used for high performance networking and clustering, such as Infiniband and RDMA.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">dapl</packagereq>
+      <packagereq type="default">dapl-utils</packagereq>
+      <packagereq type="default">ibutils</packagereq>
+      <packagereq type="default">infiniband-diags</packagereq>
+      <packagereq type="default">libcxgb3</packagereq>
+      <packagereq type="default">libibcm</packagereq>
+      <packagereq type="default">libibverbs</packagereq>
+      <packagereq type="default">libibverbs-utils</packagereq>
+      <packagereq type="default">libipathverbs</packagereq>
+      <packagereq type="default">libmlx4</packagereq>
+      <packagereq type="default">libnes</packagereq>
+      <packagereq type="default">librdmacm</packagereq>
+      <packagereq type="default">librdmacm-utils</packagereq>
+      <packagereq type="default">libsdp</packagereq>
+      <packagereq type="default">ofed-docs</packagereq>
+      <packagereq type="default">openib</packagereq>
+      <packagereq type="default">openmpi</packagereq>
+      <packagereq type="default">perftest</packagereq>
+      <packagereq type="default">qperf</packagereq>
+      <packagereq type="optional">ibsim</packagereq>
+      <packagereq type="optional">mstflint</packagereq>
+      <packagereq type="optional">opensm</packagereq>
+      <packagereq type="optional">qlvnictools</packagereq>
+      <packagereq type="optional">srptools</packagereq>
+      <packagereq type="optional">tvflash</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>ruby</id>
+    <_name>Ruby</_name>
+    <_description>Basic support for the Ruby programming language.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">ruby-devel</packagereq>
+      <packagereq type="default">ruby-mode</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>server-cfg</id>
+    <_name>Server Configuration Tools</_name>
+    <_description>This group contains all of Red Hat's custom server configuration tools.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">system-config-httpd</packagereq>
+      <packagereq type="default">system-config-nfs</packagereq>
+      <packagereq type="optional">system-config-bind</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>single-node-gfs</id>
+    <_name>Single Node GFS Support</_name>
+    <_description>Packages which provide support for single-node GFS.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">cman</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>sql-server</id>
+    <_name>PostgreSQL Database</_name>
+    <_description>This package group includes packages useful for use with Postgresql.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">postgresql-server</packagereq>
+      <packagereq type="optional">postgresql-pl</packagereq>
+      <packagereq type="optional">postgresql-test</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>system-tools</id>
+    <_name>System Tools</_name>
+    <_description>This group is a collection of various tools for the system, such as the client for connecting to SMB shares and tools to monitor network traffic.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">nmap</packagereq>
+      <packagereq type="optional">arpwatch</packagereq>
+      <packagereq type="optional">mrtg</packagereq>
+      <packagereq type="optional">mtx</packagereq>
+      <packagereq type="optional">nmap-frontend</packagereq>
+      <packagereq type="optional">uucp</packagereq>
+      <packagereq type="optional">wireshark-gnome</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>text-internet</id>
+    <_name>Text-based Internet</_name>
+    <_description>This group includes text-based email, Web, and chat clients.  These applications do not require the X Window System.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">fetchmail</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>web-server</id>
+    <_name>Web Server</_name>
+    <_description>These tools allow you to run a Web server on the system.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">httpd-manual</packagereq>
+      <packagereq type="default">mod_perl</packagereq>
+      <packagereq type="default">mod_python</packagereq>
+      <packagereq type="default">php</packagereq>
+      <packagereq type="default">php-ldap</packagereq>
+      <packagereq type="default">squid</packagereq>
+      <packagereq type="default">tux</packagereq>
+      <packagereq type="default">webalizer</packagereq>
+      <packagereq type="optional">mod_authz_ldap</packagereq>
+      <packagereq type="optional">mod_auth_kerb</packagereq>
+      <packagereq type="optional">mod_auth_mysql</packagereq>
+      <packagereq type="optional">mod_auth_pgsql</packagereq>
+      <packagereq type="optional">php-mysql</packagereq>
+      <packagereq type="optional">php-odbc</packagereq>
+      <packagereq type="optional">php-pgsql</packagereq>
+      <packagereq type="optional">tomcat5</packagereq>
+      <packagereq type="optional">tomcat5-admin-webapps</packagereq>
+      <packagereq type="optional">tomcat5-webapps</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>x-software-development</id>
+    <_name>X Software Development</_name>
+    <_description>These packages allow you to develop applications for the X Window System.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">libICE-devel</packagereq>
+      <packagereq type="mandatory">libX11-devel</packagereq>
+      <packagereq type="mandatory">libXaw-devel</packagereq>
+      <packagereq type="mandatory">libXfixes-devel</packagereq>
+      <packagereq type="mandatory">libXt-devel</packagereq>
+      <packagereq type="default">freetype-devel</packagereq>
+      <packagereq type="default">gd-devel</packagereq>
+      <packagereq type="default">libdrm-devel</packagereq>
+      <packagereq type="default">libjpeg-devel</packagereq>
+      <packagereq type="default">libmng-devel</packagereq>
+      <packagereq type="default">libpng-devel</packagereq>
+      <packagereq type="default">libSM-devel</packagereq>
+      <packagereq type="default">libtiff-devel</packagereq>
+      <packagereq type="default">libXau-devel</packagereq>
+      <packagereq type="default">libXcomposite-devel</packagereq>
+      <packagereq type="default">libXcursor-devel</packagereq>
+      <packagereq type="default">libXdamage-devel</packagereq>
+      <packagereq type="default">libXdmcp-devel</packagereq>
+      <packagereq type="default">libXevie-devel</packagereq>
+      <packagereq type="default">libXext-devel</packagereq>
+      <packagereq type="default">libXfont-devel</packagereq>
+      <packagereq type="default">libXfontcache-devel</packagereq>
+      <packagereq type="default">libXft-devel</packagereq>
+      <packagereq type="default">libXmu-devel</packagereq>
+      <packagereq type="default">libXrandr-devel</packagereq>
+      <packagereq type="default">libXrender-devel</packagereq>
+      <packagereq type="default">libXres-devel</packagereq>
+      <packagereq type="default">libXScrnSaver-devel</packagereq>
+      <packagereq type="default">libXTrap-devel</packagereq>
+      <packagereq type="default">libXtst-devel</packagereq>
+      <packagereq type="default">libXvMC-devel</packagereq>
+      <packagereq type="default">libXxf86dga-devel</packagereq>
+      <packagereq type="default">libXxf86misc-devel</packagereq>
+      <packagereq type="default">libXxf86vm-devel</packagereq>
+      <packagereq type="default">mesa-libGL-devel</packagereq>
+      <packagereq type="default">netpbm-devel</packagereq>
+      <packagereq type="default">SDL-devel</packagereq>
+      <packagereq type="default">Xaw3d-devel</packagereq>
+      <packagereq type="default">xorg-x11-xtrans-devel</packagereq>
+      <packagereq type="optional">icon-slicer</packagereq>
+      <packagereq type="optional">libXp-devel</packagereq>
+      <packagereq type="optional">mesa-libGLU-devel</packagereq>
+      <packagereq type="optional">mesa-libGLw-devel</packagereq>
+      <packagereq type="optional">openmotif-devel</packagereq>
+      <packagereq type="optional">xorg-x11-server-sdk</packagereq>
+    </packagelist>
+  </group>
+</comps>
