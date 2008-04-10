@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: pl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-10 12:25-0400\n"
-"PO-Revision-Date: 2008-03-20 20:42+0200\n"
+"PO-Revision-Date: 2008-04-20 22:09+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1424,92 +1424,85 @@ msgstr "Ta grupa jest zbiorem narzędzi i zasobów dla środowisk czeskich."
 
 #: ../comps-rhel5-client-core.xml.in.h:15
 #: ../comps-rhel5-server-core.xml.in.h:14
-#, fuzzy
 msgid "British Support"
-msgstr "Obsługa irlandzkiego"
+msgstr "Obsługa brytyjskiego"
 
 #: ../comps-rhel5-client-core.xml.in.h:19 ../comps-rhel5-cluster-st.xml.in.h:5
-#, fuzzy
 msgid "Cluster Storage"
-msgstr "Obsługa klastrów."
+msgstr "Klastry"
 
 #: ../comps-rhel5-client-core.xml.in.h:21 ../comps-rhel5-cluster.xml.in.h:6
-#, fuzzy
 msgid "Clustering Support."
 msgstr "Obsługa klastrów."
 
 #: ../comps-rhel5-client-core.xml.in.h:77
 #: ../comps-rhel5-server-core.xml.in.h:74
 msgid "Libraries for applications built on older releases."
-msgstr ""
+msgstr "Biblioteki dla aplikacji zbudowanych na starszych wydaniach."
 
 #: ../comps-rhel5-client-core.xml.in.h:82
 #: ../comps-rhel5-client-workstation.xml.in.h:24
 #: ../comps-rhel5-server-core.xml.in.h:78
 msgid "Miscellaneous Included Packages"
-msgstr ""
+msgstr "Różne dołączone pakiety"
 
 #: ../comps-rhel5-client-core.xml.in.h:90
 #: ../comps-rhel5-cluster-st.xml.in.h:17
 msgid "Packages which provide support for cluster storage."
-msgstr ""
+msgstr "Pakiety dostarczające obsługę klastrów."
 
 #: ../comps-rhel5-client-core.xml.in.h:91
 #: ../comps-rhel5-client-workstation.xml.in.h:29
 #: ../comps-rhel5-server-core.xml.in.h:87
 msgid "Packages which provide support for single-node GFS."
-msgstr ""
+msgstr "Pakiety dostarczające obsługę jednowęzłowego GFS-a."
 
 #: ../comps-rhel5-client-core.xml.in.h:103
 #: ../comps-rhel5-client-workstation.xml.in.h:33
 #: ../comps-rhel5-server-core.xml.in.h:99
-#, fuzzy
 msgid "Single Node GFS Support"
-msgstr "Obsługa chińskiego"
+msgstr "Obsługa jednowęzłowego GFS-a"
 
 #: ../comps-rhel5-client-core.xml.in.h:126
 #: ../comps-rhel5-server-core.xml.in.h:122
-#, fuzzy
 msgid "These packages provide compatibility support with previous releases."
 msgstr "Te pakiety zapewniają zgodność z poprzednimi wydaniami."
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:3
 #: ../comps-rhel5-server-supplementary.xml.in.h:3
 msgid "Java Runtime Environments and Development Kits"
-msgstr ""
+msgstr "Środowiska wykonawcze i zestawy programistyczne Javy"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:4
 #: ../comps-rhel5-server-supplementary.xml.in.h:4
 msgid "Misc"
-msgstr ""
+msgstr "Różne"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:5
 #: ../comps-rhel5-server-supplementary.xml.in.h:5
 msgid "Misc packages"
-msgstr ""
+msgstr "Różne pakiety"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:6
 #: ../comps-rhel5-server-supplementary.xml.in.h:6
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimedia"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:7
 #: ../comps-rhel5-server-supplementary.xml.in.h:7
-#, fuzzy
 msgid "Multimedia applications"
-msgstr "Aplikacje"
+msgstr "Aplikacje multimedialne"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:8
 #: ../comps-rhel5-server-supplementary.xml.in.h:8
-#, fuzzy
 msgid ""
 "Packages which provide additional functionality for Red Hat Enterprise Linux"
-msgstr "Pakiety dostarczające funkcjonalność tworzenia i budowania aplikacji."
+msgstr "Pakiety dostarczające funkcjonalność dla Red Hat Enterprise Linuksa"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:9
 #: ../comps-rhel5-server-supplementary.xml.in.h:9
 msgid "Red Hat Enterprise Linux Supplementary"
-msgstr ""
+msgstr "Dodatki dla Red Hat Enterprise Linuksa"
 
 #: ../comps-rhel5-client-workstation.xml.in.h:4
 #: ../comps-rhel5-server-core.xml.in.h:18
@@ -1517,13 +1510,14 @@ msgid ""
 "Components used for high performance networking and clustering, such as "
 "Infiniband and RDMA."
 msgstr ""
+"Składniki używane dla sieci i klastrów o wysokiej wydajności, takich jak "
+"InfiniBand i RDMA."
 
 #: ../comps-rhel5-client-workstation.xml.in.h:28
 #: ../comps-rhel5-server-core.xml.in.h:84
 msgid "OpenFabrics Enterprise Distribution"
-msgstr ""
+msgstr "Dystrybucja OpenFabrics Enterprise"
 
 #: ../comps-rhel5-vt.xml.in.h:23
-#, fuzzy
 msgid "Virtualization Support."
-msgstr "Wirtualizacja"
+msgstr "Obsługa wirtualizacji."
