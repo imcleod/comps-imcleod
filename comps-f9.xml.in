@@ -4268,6 +4268,7 @@
       <packagereq type="mandatory">xfce4-session-engines</packagereq>
       <packagereq type="mandatory">xfdesktop</packagereq>
       <packagereq type="mandatory">xfwm4</packagereq>
+      <packagereq type="conditional" requires="im-chooser">imsettings-xfce</packagereq>
       <packagereq type="default">mousepad</packagereq>
       <packagereq type="default">xfce-mcs-manager</packagereq>
       <packagereq type="default">xfce-mcs-plugins</packagereq>
@@ -4275,7 +4276,6 @@
       <packagereq type="default">xfce4-icon-theme</packagereq>
       <packagereq type="default">xfce4-mailwatch-plugin</packagereq>
       <packagereq type="default">xfce4-mixer</packagereq>
-      <packagereq type="conditional" requires="im-chooser">imsettings-xfce</packagereq>
       <packagereq type="optional">orage</packagereq>
       <packagereq type="optional">Terminal</packagereq>
       <packagereq type="optional">thunar-archive-plugin</packagereq>
