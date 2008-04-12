@@ -1,16 +1,16 @@
 # Serbian translations for comps
 # Copyright (C) 2005 Red Hat, Inc.
 # This file is distributed under the same license as the comps package.
+#
 # Filip Maličević <filip@lakinetwork.com>, 2005.
 # Miloš Komarčević <kmilos@gmail.com>, 2005.
 # Milos Mijatovic <mijatix@gmail.com>, 2008.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-04-10 12:25-0400\n"
-"PO-Revision-Date: 2008-03-21 22:39-0000\n"
+"PO-Revision-Date: 2008-04-12 01:13-0000\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
 "Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -1422,92 +1422,85 @@ msgstr "Ова група је скуп алатки и ресурса за че
 
 #: ../comps-rhel5-client-core.xml.in.h:15
 #: ../comps-rhel5-server-core.xml.in.h:14
-#, fuzzy
 msgid "British Support"
-msgstr "Подршка за ирски"
+msgstr "Подршка за британски енглески"
 
 #: ../comps-rhel5-client-core.xml.in.h:19 ../comps-rhel5-cluster-st.xml.in.h:5
-#, fuzzy
 msgid "Cluster Storage"
-msgstr "Подршка за учворавање"
+msgstr "Учворено складиштење"
 
 #: ../comps-rhel5-client-core.xml.in.h:21 ../comps-rhel5-cluster.xml.in.h:6
-#, fuzzy
 msgid "Clustering Support."
-msgstr "Подршка за учворавање"
+msgstr "Подршка за учворавање."
 
 #: ../comps-rhel5-client-core.xml.in.h:77
 #: ../comps-rhel5-server-core.xml.in.h:74
 msgid "Libraries for applications built on older releases."
-msgstr ""
+msgstr "Библиотеке за програме израђене за старија издања."
 
 #: ../comps-rhel5-client-core.xml.in.h:82
 #: ../comps-rhel5-client-workstation.xml.in.h:24
 #: ../comps-rhel5-server-core.xml.in.h:78
 msgid "Miscellaneous Included Packages"
-msgstr ""
+msgstr "Разни укључени пакети"
 
 #: ../comps-rhel5-client-core.xml.in.h:90
 #: ../comps-rhel5-cluster-st.xml.in.h:17
 msgid "Packages which provide support for cluster storage."
-msgstr ""
+msgstr "Пакети који пружају подршку за учворено складиштење."
 
 #: ../comps-rhel5-client-core.xml.in.h:91
 #: ../comps-rhel5-client-workstation.xml.in.h:29
 #: ../comps-rhel5-server-core.xml.in.h:87
 msgid "Packages which provide support for single-node GFS."
-msgstr ""
+msgstr "Пакети који пружају подршку за једини GFS чвор."
 
 #: ../comps-rhel5-client-core.xml.in.h:103
 #: ../comps-rhel5-client-workstation.xml.in.h:33
 #: ../comps-rhel5-server-core.xml.in.h:99
-#, fuzzy
 msgid "Single Node GFS Support"
-msgstr "Подршка за кинески"
+msgstr "Подршка за једини GFS чвор"
 
 #: ../comps-rhel5-client-core.xml.in.h:126
 #: ../comps-rhel5-server-core.xml.in.h:122
-#, fuzzy
 msgid "These packages provide compatibility support with previous releases."
-msgstr "Ови пакети обезбеђују усаглашеност са претходним издањима."
+msgstr "Ови пакети обезбеђују подршку за усаглашеност са претходним издањима."
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:3
 #: ../comps-rhel5-server-supplementary.xml.in.h:3
 msgid "Java Runtime Environments and Development Kits"
-msgstr ""
+msgstr "Java извршно окружење и развојна опрема"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:4
 #: ../comps-rhel5-server-supplementary.xml.in.h:4
 msgid "Misc"
-msgstr ""
+msgstr "Разно"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:5
 #: ../comps-rhel5-server-supplementary.xml.in.h:5
 msgid "Misc packages"
-msgstr ""
+msgstr "Разни пакети"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:6
 #: ../comps-rhel5-server-supplementary.xml.in.h:6
 msgid "Multimedia"
-msgstr ""
+msgstr "Мултимедија"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:7
 #: ../comps-rhel5-server-supplementary.xml.in.h:7
-#, fuzzy
 msgid "Multimedia applications"
-msgstr "Програми"
+msgstr "Програми за мултимедију"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:8
 #: ../comps-rhel5-server-supplementary.xml.in.h:8
-#, fuzzy
 msgid ""
 "Packages which provide additional functionality for Red Hat Enterprise Linux"
-msgstr "Пакети који пружају функционалност за развој и изградњу програма."
+msgstr "Пакети који пружају додатну функционалност за Red Hat Enterprise Linux"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:9
 #: ../comps-rhel5-server-supplementary.xml.in.h:9
 msgid "Red Hat Enterprise Linux Supplementary"
-msgstr ""
+msgstr "Red Hat Enterprise Linux додаци"
 
 #: ../comps-rhel5-client-workstation.xml.in.h:4
 #: ../comps-rhel5-server-core.xml.in.h:18
@@ -1515,13 +1508,14 @@ msgid ""
 "Components used for high performance networking and clustering, such as "
 "Infiniband and RDMA."
 msgstr ""
+"Компоненте које се користе за умрежавање и учворавање са високим учинком, "
+"као што су Infiniband и RDMA."
 
 #: ../comps-rhel5-client-workstation.xml.in.h:28
 #: ../comps-rhel5-server-core.xml.in.h:84
 msgid "OpenFabrics Enterprise Distribution"
-msgstr ""
+msgstr "OpenFabrics Enterprise дистрибуција"
 
 #: ../comps-rhel5-vt.xml.in.h:23
-#, fuzzy
 msgid "Virtualization Support."
-msgstr "Виртуализација"
+msgstr "Подршка за виртуализацију."
