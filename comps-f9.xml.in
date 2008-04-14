@@ -2611,7 +2611,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">kdelibs-devel</packagereq>
-      <packagereq type="mandatory">qt4-devel</packagereq>
+      <packagereq type="mandatory">qt-devel</packagereq>
       <packagereq type="default">kaider</packagereq>
       <packagereq type="default">kdbg</packagereq>
       <packagereq type="default">kdebase-workspace-devel</packagereq>
@@ -2621,8 +2621,8 @@
       <packagereq type="default">kdesdk</packagereq>
       <packagereq type="default">kdevelop</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
-      <packagereq type="default">qt-designer</packagereq>
-      <packagereq type="default">qt-devel</packagereq>
+      <packagereq type="default">qt3-designer</packagereq>
+      <packagereq type="default">qt3-devel</packagereq>
       <packagereq type="optional">gambas</packagereq>
       <packagereq type="optional">kdebase-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
@@ -2953,7 +2953,8 @@
       <packagereq type="optional">mysql-bench</packagereq>
       <packagereq type="optional">mysql-devel</packagereq>
       <packagereq type="optional">php-mysql</packagereq>
-      <packagereq type="optional">qt-MySQL</packagereq>
+      <packagereq type="optional">qt-mysql</packagereq>
+      <packagereq type="optional">qt3-MySQL</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3616,7 +3617,10 @@
       <packagereq type="optional">postgresql-odbc</packagereq>
       <packagereq type="optional">postgresql-tcl</packagereq>
       <packagereq type="optional">postgresql-test</packagereq>
-      <packagereq type="optional">qt-ODBC</packagereq>
+      <packagereq type="optional">qt-odbc</packagereq>
+      <packagereq type="optional">qt3-ODBC</packagereq>
+      <packagereq type="optional">qt-postgresql</packagereq>
+      <packagereq type="optional">qt3-PostgreSQL</packagereq>
       <packagereq type="optional">unixODBC-kde</packagereq>
     </packagelist>
   </group>
