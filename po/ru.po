@@ -15,16 +15,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: comps.HEAD.ru\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-10 12:25-0400\n"
-"PO-Revision-Date: 2008-03-27 15:58+1100\n"
+"POT-Creation-Date: 2008-04-14 20:34+0000\n"
+"PO-Revision-Date: 2008-04-15 10:39+1000\n"
 "Last-Translator: Yulia Poyarkova <yulia.poyarkova@redhat.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: ../comps-f7.xml.in.h:1 ../comps-f8.xml.in.h:1 ../comps-f9.xml.in.h:1
 msgid "A lightweight desktop environment that works well on low end machines."
@@ -466,15 +465,13 @@ msgstr "Поддержка индонезийского языка"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr ""
-"Установите эти пакеты для разработки графических приложений GTK+ и GNOME."
+msgstr "Установите эти пакеты для разработки графических приложений GTK+ и GNOME."
 
 #: ../comps-f7.xml.in.h:72 ../comps-f8.xml.in.h:75 ../comps-f9.xml.in.h:75
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
-msgstr ""
-"Установите эти пакеты для разработки графических приложений GTK+ и XFCE."
+msgstr "Установите эти пакеты для разработки графических приложений GTK+ и XFCE."
 
 #: ../comps-f7.xml.in.h:73 ../comps-f8.xml.in.h:76 ../comps-f9.xml.in.h:76
 #: ../comps-el4.xml.in.h:28 ../comps-el5.xml.in.h:30
@@ -487,8 +484,7 @@ msgstr "Установите эти пакеты для разработки п�
 #: ../comps-f7.xml.in.h:74 ../comps-f8.xml.in.h:77 ../comps-f9.xml.in.h:77
 #: ../comps-rhel5-client-core.xml.in.h:61
 #: ../comps-rhel5-server-core.xml.in.h:58
-msgid ""
-"Install these tools to enable the system to print or act as a print server."
+msgid "Install these tools to enable the system to print or act as a print server."
 msgstr ""
 "Установите эти пакеты, чтобы получить возможность печатать файлы или "
 "использовать систему как сервер печати."
@@ -498,8 +494,7 @@ msgstr ""
 #: ../comps-rhel5-client-core.xml.in.h:62
 #: ../comps-rhel5-client-workstation.xml.in.h:18
 #: ../comps-rhel5-server-core.xml.in.h:59
-msgid ""
-"Install this group of packages to use the base graphical (X) user interface."
+msgid "Install this group of packages to use the base graphical (X) user interface."
 msgstr ""
 "Установите эту группу пакетов, чтобы получить графический интерфейс "
 "пользователя (X)"
@@ -792,10 +787,8 @@ msgstr "Серверы"
 
 #: ../comps-f7.xml.in.h:121 ../comps-f8.xml.in.h:130 ../comps-f9.xml.in.h:130
 #: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:42
-msgid ""
-"Simple window managers that aren't part of a larger desktop environment."
-msgstr ""
-"Простые оконные менеджеры, не являющиеся частью какого-либо раобчего стола."
+msgid "Simple window managers that aren't part of a larger desktop environment."
+msgstr "Простые оконные менеджеры, не являющиеся частью какого-либо раобчего стола."
 
 #: ../comps-f7.xml.in.h:122 ../comps-f8.xml.in.h:131 ../comps-f9.xml.in.h:131
 #: ../comps-rhel5-client-core.xml.in.h:104
@@ -945,8 +938,7 @@ msgstr ""
 #: ../comps-rhel5-client-core.xml.in.h:121
 #: ../comps-rhel5-client-workstation.xml.in.h:40
 #: ../comps-rhel5-server-core.xml.in.h:117
-msgid ""
-"The packages in this group are core libraries needed to develop applications."
+msgid "The packages in this group are core libraries needed to develop applications."
 msgstr "Эта группа содержит библиотеки необходимые для разработки приложений."
 
 #: ../comps-f7.xml.in.h:146 ../comps-f8.xml.in.h:154 ../comps-f9.xml.in.h:154
@@ -961,24 +953,20 @@ msgstr "Эти пакеты позволяют настроить почтовы
 #: ../comps-rhel5-client-core.xml.in.h:123
 #: ../comps-rhel5-client-workstation.xml.in.h:42
 #: ../comps-rhel5-server-core.xml.in.h:119
-msgid ""
-"These packages allow you to develop applications for the X Window System."
+msgid "These packages allow you to develop applications for the X Window System."
 msgstr "Эти пакеты позволяют разрабатывать приложения для X Window System."
 
 #: ../comps-f7.xml.in.h:148 ../comps-f8.xml.in.h:156 ../comps-f9.xml.in.h:156
 #: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:51
-msgid ""
-"These packages are helpful when developing web applications or web pages."
+msgid "These packages are helpful when developing web applications or web pages."
 msgstr "Эти пакеты позволяют разрабатывать веб приложения или веб страницы."
 
 #: ../comps-f7.xml.in.h:149 ../comps-f8.xml.in.h:157 ../comps-f9.xml.in.h:157
 #: ../comps-rhel5-client-core.xml.in.h:124
 #: ../comps-rhel5-client-workstation.xml.in.h:43
 #: ../comps-rhel5-server-core.xml.in.h:120
-msgid ""
-"These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr ""
-"Эти пакеты включают в себя такие сетевые сервисы, как DHCP, Kerberos и NIS."
+msgid "These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgstr "Эти пакеты включают в себя такие сетевые сервисы, как DHCP, Kerberos и NIS."
 
 #: ../comps-f7.xml.in.h:150 ../comps-f8.xml.in.h:158 ../comps-f9.xml.in.h:158
 #: ../comps-rhel5-client-core.xml.in.h:125
@@ -987,8 +975,7 @@ msgstr ""
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr ""
-"Эти пакеты включают серверы таких устаревших протоколов, как rsh и telnet."
+msgstr "Эти пакеты включают серверы таких устаревших протоколов, как rsh и telnet."
 
 #: ../comps-f7.xml.in.h:151 ../comps-f8.xml.in.h:159 ../comps-f9.xml.in.h:159
 msgid "These packages provide a virtualization environment."
@@ -1097,8 +1084,7 @@ msgstr ""
 #: ../comps-rhel5-client-core.xml.in.h:137
 #: ../comps-rhel5-server-core.xml.in.h:133
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr ""
-"Эта группа содержит приложения необходимые для работы с графикой и сканерами."
+msgstr "Эта группа содержит приложения необходимые для работы с графикой и сканерами."
 
 #: ../comps-f7.xml.in.h:164 ../comps-f8.xml.in.h:172 ../comps-f9.xml.in.h:172
 #: ../comps-el4.xml.in.h:62 ../comps-el5.xml.in.h:60
@@ -1128,14 +1114,12 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:166 ../comps-f8.xml.in.h:174 ../comps-f9.xml.in.h:174
 #: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:64
-msgid ""
-"This group is a collection of tools and resources of Armenian environments."
+msgid "This group is a collection of tools and resources of Armenian environments."
 msgstr "Эта группа содержит набор утилит и ресурсов для армянской локализации."
 
 #: ../comps-f7.xml.in.h:167 ../comps-f8.xml.in.h:175 ../comps-f9.xml.in.h:175
 #: ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:68
-msgid ""
-"This group is a collection of tools for various hardware specific utilities."
+msgid "This group is a collection of tools for various hardware specific utilities."
 msgstr ""
 "Эта группа содержит набор инструментов для различных утилит работы с "
 "оборудованием."
@@ -1156,8 +1140,7 @@ msgstr ""
 #: ../comps-rhel5-client-core.xml.in.h:141
 #: ../comps-rhel5-client-workstation.xml.in.h:56
 #: ../comps-rhel5-server-core.xml.in.h:137
-msgid ""
-"This package group allows you to run a DNS name server (BIND) on the system."
+msgid "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr "Пакеты в этой группе позволят вам установить и настроить DNS (BIND)."
 
 #: ../comps-f7.xml.in.h:170 ../comps-f8.xml.in.h:178 ../comps-f9.xml.in.h:178
@@ -1410,20 +1393,17 @@ msgid "This group is a collection of network servers for specific purposes"
 msgstr "Эта группа содержит набор сетевых серверов"
 
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
-msgid ""
-"This group is a collection of tools and resources of Arabic environments."
+msgid "This group is a collection of tools and resources of Arabic environments."
 msgstr "Эта группа содержит набор утилит и ресурсов для арабской локализации."
 
 #: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:66
-msgid ""
-"This group is a collection of tools and resources of Hebrew environments."
+msgid "This group is a collection of tools and resources of Hebrew environments."
 msgstr ""
 "Эта группа содержит набор утилит и ресурсов для окружений, использующих "
 "иврит."
 
 #: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
-msgid ""
-"This group is a collection of tools and resources of Japanese environments."
+msgid "This group is a collection of tools and resources of Japanese environments."
 msgstr "Эта группа содержит набор утилит и ресурсов для японской локализации."
 
 #: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:77
@@ -1431,112 +1411,103 @@ msgid "XEmacs"
 msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:65
-msgid ""
-"This group is a collection of tools and resources of Czech environments."
+msgid "This group is a collection of tools and resources of Czech environments."
 msgstr "Эта группа содержит набор утилит и ресурсов для чешской локализации."
 
 #: ../comps-rhel5-client-core.xml.in.h:15
 #: ../comps-rhel5-server-core.xml.in.h:14
-#, fuzzy
 msgid "British Support"
-msgstr "Поддержка ирландского языка"
+msgstr "Поддержка британского"
 
 #: ../comps-rhel5-client-core.xml.in.h:19 ../comps-rhel5-cluster-st.xml.in.h:5
-#, fuzzy
 msgid "Cluster Storage"
-msgstr "Поддержка кластеров."
+msgstr "Кластерное хранилище"
 
 #: ../comps-rhel5-client-core.xml.in.h:21 ../comps-rhel5-cluster.xml.in.h:6
-#, fuzzy
 msgid "Clustering Support."
-msgstr "Поддержка кластеров."
+msgstr "Поддержка кластеризации."
 
 #: ../comps-rhel5-client-core.xml.in.h:77
 #: ../comps-rhel5-server-core.xml.in.h:74
 msgid "Libraries for applications built on older releases."
-msgstr ""
+msgstr "Библиотеки приложений, созданных на основе предыдущих выпусков."
 
 #: ../comps-rhel5-client-core.xml.in.h:82
 #: ../comps-rhel5-client-workstation.xml.in.h:24
 #: ../comps-rhel5-server-core.xml.in.h:78
 msgid "Miscellaneous Included Packages"
-msgstr ""
+msgstr "Прочие включенные пакеты"
 
 #: ../comps-rhel5-client-core.xml.in.h:90
 #: ../comps-rhel5-cluster-st.xml.in.h:17
 msgid "Packages which provide support for cluster storage."
-msgstr ""
+msgstr "Пакеты для обеспечения поддержки кластерного хранилища."
 
 #: ../comps-rhel5-client-core.xml.in.h:91
 #: ../comps-rhel5-client-workstation.xml.in.h:29
 #: ../comps-rhel5-server-core.xml.in.h:87
 msgid "Packages which provide support for single-node GFS."
-msgstr ""
+msgstr "Пакеты для обеспечения поддержки GFS с одним узлом."
 
 #: ../comps-rhel5-client-core.xml.in.h:103
 #: ../comps-rhel5-client-workstation.xml.in.h:33
 #: ../comps-rhel5-server-core.xml.in.h:99
-#, fuzzy
 msgid "Single Node GFS Support"
-msgstr "Поддержка китайского языка"
+msgstr "Поддержка GFS с одним узлом"
 
 #: ../comps-rhel5-client-core.xml.in.h:126
 #: ../comps-rhel5-server-core.xml.in.h:122
-#, fuzzy
 msgid "These packages provide compatibility support with previous releases."
 msgstr "Эти пакеты обеспечивают совместимость с предыдущими выпусками."
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:3
 #: ../comps-rhel5-server-supplementary.xml.in.h:3
 msgid "Java Runtime Environments and Development Kits"
-msgstr ""
+msgstr "Окружения Java и комплекты разработки"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:4
 #: ../comps-rhel5-server-supplementary.xml.in.h:4
 msgid "Misc"
-msgstr ""
+msgstr "Прочее"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:5
 #: ../comps-rhel5-server-supplementary.xml.in.h:5
 msgid "Misc packages"
-msgstr ""
+msgstr "Прочие пакеты"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:6
 #: ../comps-rhel5-server-supplementary.xml.in.h:6
 msgid "Multimedia"
-msgstr ""
+msgstr "Мультимедиа"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:7
 #: ../comps-rhel5-server-supplementary.xml.in.h:7
-#, fuzzy
 msgid "Multimedia applications"
-msgstr "Приложения"
+msgstr "Приложения мультимедиа"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:8
 #: ../comps-rhel5-server-supplementary.xml.in.h:8
-#, fuzzy
-msgid ""
-"Packages which provide additional functionality for Red Hat Enterprise Linux"
-msgstr "Пакеты, предоставляющие возможность разработки и сборки приложений."
+msgid "Packages which provide additional functionality for Red Hat Enterprise Linux"
+msgstr "Пакеты, предоставляющие дополнительную функциональность Red Hat Enterprise Linux"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:9
 #: ../comps-rhel5-server-supplementary.xml.in.h:9
 msgid "Red Hat Enterprise Linux Supplementary"
-msgstr ""
+msgstr "Дополнительные компоненты Red Hat Enterprise Linux"
 
 #: ../comps-rhel5-client-workstation.xml.in.h:4
 #: ../comps-rhel5-server-core.xml.in.h:18
 msgid ""
 "Components used for high performance networking and clustering, such as "
 "Infiniband and RDMA."
-msgstr ""
+msgstr "Компоненты для реализации кластеризации и сетей высокой производительности (Infiniband и RDMA)."
 
 #: ../comps-rhel5-client-workstation.xml.in.h:28
 #: ../comps-rhel5-server-core.xml.in.h:84
 msgid "OpenFabrics Enterprise Distribution"
-msgstr ""
+msgstr "OpenFabrics Enterprise Distribution"
 
 #: ../comps-rhel5-vt.xml.in.h:23
-#, fuzzy
 msgid "Virtualization Support."
-msgstr "Виртуализация"
+msgstr "Поддержка виртуализации."
+
