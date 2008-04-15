@@ -1,27 +1,26 @@
 # translation of comps.HEAD.po to Simplified Chinese
 # Simplified Chinese Version of comps.po.
 # Copyright (C) 2002 Red Hat Inc.
-# This file is distributed under the same license as the comps.HEAD package.
+# This file is distributed under the same license as the PACKAGE package.
+#
 # Sarah Wang <sarahs@redhat.com>, 2003,2004.
 # Tony Fu <tfu@redhat.com>, 2004, 2006.
 # Leah Liu <weliu@redhat.com>, 2005, 2006.
 # Xi Huang <xhuang@redhat.com>, 2006.
 # Tony Fu <tfu@redhat.com>, 2007.
 # Leah Liu <lliu@redhat.com>, 2008.
-# Run Du <chnrdu@gmail.com>, 2008.
-# 
-# 
 msgid ""
 msgstr ""
 "Project-Id-Version: comps.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-04-15 10:45+0000\n"
-"PO-Revision-Date: 2008-04-15 21:31+0800\n"
-"Last-Translator: Run Du <chnrdu@gmail.com>\n"
+"POT-Creation-Date: 2008-04-14 04:19+0000\n"
+"PO-Revision-Date: 2008-04-16 08:48+1000\n"
+"Last-Translator: Leah Liu <lliu@redhat.com>\n"
 "Language-Team: Simplified Chinese <zh@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: ../comps-f7.xml.in.h:1 ../comps-f8.xml.in.h:1 ../comps-f9.xml.in.h:1
 msgid "A lightweight desktop environment that works well on low end machines."
@@ -76,7 +75,7 @@ msgstr "阿萨姆语支持"
 #: ../comps-el4.xml.in.h:6 ../comps-el5.xml.in.h:6
 #: ../comps-rhel5-client-core.xml.in.h:7 ../comps-rhel5-server-core.xml.in.h:7
 msgid "Authoring and Publishing"
-msgstr "编辑和出版"
+msgstr "授权和出版"
 
 #: ../comps-f7.xml.in.h:11 ../comps-f8.xml.in.h:11 ../comps-f9.xml.in.h:11
 #: ../comps-rhel5-client-core.xml.in.h:8
@@ -262,7 +261,7 @@ msgstr "教育软件"
 #: ../comps-f7.xml.in.h:41 ../comps-f8.xml.in.h:41 ../comps-f9.xml.in.h:41
 #: ../comps-el4.xml.in.h:15 ../comps-el5.xml.in.h:16
 msgid "Educational software for learning"
-msgstr "学习用教育软件"
+msgstr "教育软件，适合学习"
 
 #: ../comps-f7.xml.in.h:42 ../comps-f8.xml.in.h:42 ../comps-f9.xml.in.h:42
 #: ../comps-el4.xml.in.h:16 ../comps-el5.xml.in.h:17
@@ -274,7 +273,7 @@ msgstr "工程和科学"
 
 #: ../comps-f7.xml.in.h:43 ../comps-f8.xml.in.h:43 ../comps-f9.xml.in.h:43
 msgid "English (UK) Support"
-msgstr "英语（英国）支持"
+msgstr "英国英语支持"
 
 #: ../comps-f7.xml.in.h:44 ../comps-f8.xml.in.h:44 ../comps-f9.xml.in.h:44
 #: ../comps-rhel5-client-core.xml.in.h:36
@@ -480,8 +479,7 @@ msgstr "安装这些软件包来开发 QT 和 KDE 图形化应用程序。"
 #: ../comps-f7.xml.in.h:74 ../comps-f8.xml.in.h:77 ../comps-f9.xml.in.h:77
 #: ../comps-rhel5-client-core.xml.in.h:61
 #: ../comps-rhel5-server-core.xml.in.h:58
-msgid ""
-"Install these tools to enable the system to print or act as a print server."
+msgid "Install these tools to enable the system to print or act as a print server."
 msgstr "安装这些工具来启用打印系统或充当打印服务器的系统。"
 
 #: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:78 ../comps-f9.xml.in.h:78
@@ -489,8 +487,7 @@ msgstr "安装这些工具来启用打印系统或充当打印服务器的系统
 #: ../comps-rhel5-client-core.xml.in.h:62
 #: ../comps-rhel5-client-workstation.xml.in.h:18
 #: ../comps-rhel5-server-core.xml.in.h:59
-msgid ""
-"Install this group of packages to use the base graphical (X) user interface."
+msgid "Install this group of packages to use the base graphical (X) user interface."
 msgstr "安装这组软件包来使用基础图形化用户界面(X)。"
 
 #: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:80 ../comps-f9.xml.in.h:80
@@ -532,7 +529,7 @@ msgstr "Java"
 #: ../comps-rhel5-client-workstation.xml.in.h:20
 #: ../comps-rhel5-server-core.xml.in.h:64
 msgid "Java Development"
-msgstr "Java 开发"
+msgstr "Java开发"
 
 #: ../comps-f7.xml.in.h:82 ../comps-f8.xml.in.h:86 ../comps-f9.xml.in.h:86
 #: ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:33
@@ -579,7 +576,7 @@ msgstr "韩文支持"
 #: ../comps-rhel5-client-core.xml.in.h:73
 #: ../comps-rhel5-server-core.xml.in.h:70
 msgid "Languages"
-msgstr "语言"
+msgstr "语言支持"
 
 #: ../comps-f7.xml.in.h:89 ../comps-f8.xml.in.h:93 ../comps-f9.xml.in.h:93
 msgid "Lao Support"
@@ -594,7 +591,7 @@ msgstr "拉脱维亚语支持"
 #: ../comps-rhel5-client-workstation.xml.in.h:22
 #: ../comps-rhel5-server-core.xml.in.h:71
 msgid "Legacy Network Server"
-msgstr "旧式网络服务器"
+msgstr "老的网络服务器"
 
 #: ../comps-f7.xml.in.h:92 ../comps-f8.xml.in.h:97 ../comps-f9.xml.in.h:97
 #: ../comps-rhel5-client-core.xml.in.h:75
@@ -681,7 +678,7 @@ msgstr "挪威语支持"
 #: ../comps-rhel5-client-core.xml.in.h:87
 #: ../comps-rhel5-server-core.xml.in.h:83
 msgid "Office/Productivity"
-msgstr "办公/生产"
+msgstr "办公/生产率"
 
 #: ../comps-f7.xml.in.h:106 ../comps-f8.xml.in.h:115 ../comps-f9.xml.in.h:115
 #: ../comps-rhel5-client-core.xml.in.h:88
@@ -781,8 +778,7 @@ msgstr "服务器"
 
 #: ../comps-f7.xml.in.h:121 ../comps-f8.xml.in.h:130 ../comps-f9.xml.in.h:130
 #: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:42
-msgid ""
-"Simple window managers that aren't part of a larger desktop environment."
+msgid "Simple window managers that aren't part of a larger desktop environment."
 msgstr "简单的窗口管理器，不是某个桌面环境的组成部分。"
 
 #: ../comps-f7.xml.in.h:122 ../comps-f8.xml.in.h:131 ../comps-f9.xml.in.h:131
@@ -826,8 +822,7 @@ msgstr "索马里语支持"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr ""
-"有时叫做文本编辑器。它们是允许您创建和编辑文本文件的程序。包括 Emacs 和 Vi。"
+msgstr "有时叫做文本编辑器。它们是允许您创建和编辑文本文件的程序。包括 Emacs 和 Vi。"
 
 #: ../comps-f7.xml.in.h:129 ../comps-f8.xml.in.h:138 ../comps-f9.xml.in.h:138
 #: ../comps-el4.xml.in.h:45 ../comps-el5.xml.in.h:45
@@ -930,8 +925,7 @@ msgstr "包括的应用程序有办公套件、PDF 查看器等等。"
 #: ../comps-rhel5-client-core.xml.in.h:121
 #: ../comps-rhel5-client-workstation.xml.in.h:40
 #: ../comps-rhel5-server-core.xml.in.h:117
-msgid ""
-"The packages in this group are core libraries needed to develop applications."
+msgid "The packages in this group are core libraries needed to develop applications."
 msgstr "该组中的软件包是开发应用程序所需的核心库。"
 
 #: ../comps-f7.xml.in.h:146 ../comps-f8.xml.in.h:154 ../comps-f9.xml.in.h:154
@@ -946,23 +940,20 @@ msgstr "这些软件包允许您配置 IMAP 或 Postfix 邮件服务器。"
 #: ../comps-rhel5-client-core.xml.in.h:123
 #: ../comps-rhel5-client-workstation.xml.in.h:42
 #: ../comps-rhel5-server-core.xml.in.h:119
-msgid ""
-"These packages allow you to develop applications for the X Window System."
+msgid "These packages allow you to develop applications for the X Window System."
 msgstr "这些软件包允许您开发用于 X 窗口系统的应用程序。"
 
 #: ../comps-f7.xml.in.h:148 ../comps-f8.xml.in.h:156 ../comps-f9.xml.in.h:156
 #: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:51
-msgid ""
-"These packages are helpful when developing web applications or web pages."
+msgid "These packages are helpful when developing web applications or web pages."
 msgstr "这些软件包允许您创建网页和基于网页的应用程序。"
 
 #: ../comps-f7.xml.in.h:149 ../comps-f8.xml.in.h:157 ../comps-f9.xml.in.h:157
 #: ../comps-rhel5-client-core.xml.in.h:124
 #: ../comps-rhel5-client-workstation.xml.in.h:43
 #: ../comps-rhel5-server-core.xml.in.h:120
-msgid ""
-"These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr "这些软件包提供基于网络的服务器，例如 DHCP、Kerberos 和 NIS。"
+msgid "These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgstr "这些软件包包括基于网络的服务器，例如 DHCP、Kerberos 和 NIS。"
 
 #: ../comps-f7.xml.in.h:150 ../comps-f8.xml.in.h:158 ../comps-f9.xml.in.h:158
 #: ../comps-rhel5-client-core.xml.in.h:125
@@ -971,7 +962,7 @@ msgstr "这些软件包提供基于网络的服务器，例如 DHCP、Kerberos �
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr "这些软件包含有用于旧式网络协议的服务器，例如 rsh 和 telnet。"
+msgstr "这些软件包包括用于老的网络协议的服务器，例如 rsh 和 telnet。"
 
 #: ../comps-f7.xml.in.h:151 ../comps-f8.xml.in.h:159 ../comps-f9.xml.in.h:159
 msgid "These packages provide a virtualization environment."
@@ -1098,14 +1089,12 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:166 ../comps-f8.xml.in.h:174 ../comps-f9.xml.in.h:174
 #: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:64
-msgid ""
-"This group is a collection of tools and resources of Armenian environments."
+msgid "This group is a collection of tools and resources of Armenian environments."
 msgstr "这一组是用于亚美尼亚语环境的工具和资源。"
 
 #: ../comps-f7.xml.in.h:167 ../comps-f8.xml.in.h:175 ../comps-f9.xml.in.h:175
 #: ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:68
-msgid ""
-"This group is a collection of tools for various hardware specific utilities."
+msgid "This group is a collection of tools for various hardware specific utilities."
 msgstr "这一组是处理硬件方面问题的工具。"
 
 #: ../comps-f7.xml.in.h:168 ../comps-f8.xml.in.h:176 ../comps-f9.xml.in.h:176
@@ -1116,15 +1105,13 @@ msgstr "这一组是处理硬件方面问题的工具。"
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr ""
-"这组软件包是各类系统工具的集合，如：连接 SMB 共享的客户；监控网络交通的工具。"
+msgstr "这组软件包是各类系统工具的集合，如：连接 SMB 共享的客户；监控网络交通的工具。"
 
 #: ../comps-f7.xml.in.h:169 ../comps-f8.xml.in.h:177 ../comps-f9.xml.in.h:177
 #: ../comps-rhel5-client-core.xml.in.h:141
 #: ../comps-rhel5-client-workstation.xml.in.h:56
 #: ../comps-rhel5-server-core.xml.in.h:137
-msgid ""
-"This package group allows you to run a DNS name server (BIND) on the system."
+msgid "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr "该软件包组允许您在系统上运行 DNS 名称服务器(BIND)。"
 
 #: ../comps-f7.xml.in.h:170 ../comps-f8.xml.in.h:178 ../comps-f9.xml.in.h:178
@@ -1352,8 +1339,7 @@ msgstr ""
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr ""
-"有时叫做文本编辑器。它们是允许您创建和编辑文件的程序。包括 Emacs 和 Vi。"
+msgstr "有时叫做文本编辑器。它们是允许您创建和编辑文件的程序。包括 Emacs 和 Vi。"
 
 #: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:48
 msgid "The XEmacs text editor."
@@ -1374,18 +1360,15 @@ msgid "This group is a collection of network servers for specific purposes"
 msgstr "这一组是特定用途的网络服务器"
 
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
-msgid ""
-"This group is a collection of tools and resources of Arabic environments."
+msgid "This group is a collection of tools and resources of Arabic environments."
 msgstr "这一组是用于阿拉伯语环境的工具和资源。"
 
 #: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:66
-msgid ""
-"This group is a collection of tools and resources of Hebrew environments."
+msgid "This group is a collection of tools and resources of Hebrew environments."
 msgstr "这一组是用于希伯来语环境的工具和资源。"
 
 #: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
-msgid ""
-"This group is a collection of tools and resources of Japanese environments."
+msgid "This group is a collection of tools and resources of Japanese environments."
 msgstr "这一组是用于日语环境的工具和资源。"
 
 #: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:77
@@ -1393,70 +1376,69 @@ msgid "XEmacs"
 msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:65
-msgid ""
-"This group is a collection of tools and resources of Czech environments."
+msgid "This group is a collection of tools and resources of Czech environments."
 msgstr "这一组是用于捷克语环境的工具和资源。"
 
 #: ../comps-rhel5-client-core.xml.in.h:15
 #: ../comps-rhel5-server-core.xml.in.h:14
 msgid "British Support"
-msgstr "英语（英国）支持"
+msgstr "英语支持"
 
 #: ../comps-rhel5-client-core.xml.in.h:19 ../comps-rhel5-cluster-st.xml.in.h:5
 msgid "Cluster Storage"
-msgstr "集群存储"
+msgstr "群集存储"
 
 #: ../comps-rhel5-client-core.xml.in.h:21 ../comps-rhel5-cluster.xml.in.h:6
 msgid "Clustering Support."
-msgstr "集群支持。"
+msgstr "集群的支持"
 
 #: ../comps-rhel5-client-core.xml.in.h:77
 #: ../comps-rhel5-server-core.xml.in.h:74
 msgid "Libraries for applications built on older releases."
-msgstr "编译到较早发行版本的应用程序的库。"
+msgstr "应用程序的库文件是基于原来的发行版本。"
 
 #: ../comps-rhel5-client-core.xml.in.h:82
 #: ../comps-rhel5-client-workstation.xml.in.h:24
 #: ../comps-rhel5-server-core.xml.in.h:78
 msgid "Miscellaneous Included Packages"
-msgstr "其它软件包"
+msgstr "包含其它内容的软件包"
 
 #: ../comps-rhel5-client-core.xml.in.h:90
 #: ../comps-rhel5-cluster-st.xml.in.h:17
 msgid "Packages which provide support for cluster storage."
-msgstr "用于对分布式存储提供支持的软件包。"
+msgstr "为群集存储提供支持的软件包。"
 
 #: ../comps-rhel5-client-core.xml.in.h:91
 #: ../comps-rhel5-client-workstation.xml.in.h:29
 #: ../comps-rhel5-server-core.xml.in.h:87
 msgid "Packages which provide support for single-node GFS."
-msgstr "用于对单点 GFS 提供支持的软件包。"
+msgstr "为单一节点 GFS 提供支持的软件包。"
 
 #: ../comps-rhel5-client-core.xml.in.h:103
 #: ../comps-rhel5-client-workstation.xml.in.h:33
 #: ../comps-rhel5-server-core.xml.in.h:99
 msgid "Single Node GFS Support"
-msgstr "单节点 GFS 支持"
+msgstr "单一节点 GFS 支持"
 
 #: ../comps-rhel5-client-core.xml.in.h:126
 #: ../comps-rhel5-server-core.xml.in.h:122
 msgid "These packages provide compatibility support with previous releases."
-msgstr "这些软件包提供对以前发行版本的兼容性支持。"
+msgstr "这些软件包提供对以前发行版的兼容性支持。"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:3
 #: ../comps-rhel5-server-supplementary.xml.in.h:3
 msgid "Java Runtime Environments and Development Kits"
-msgstr "Java·Runtime·环境和开发工具"
+msgstr "Java 运行时环境以及开发套件"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:4
 #: ../comps-rhel5-server-supplementary.xml.in.h:4
 msgid "Misc"
-msgstr "其它"
+msgstr "Misc"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:5
 #: ../comps-rhel5-server-supplementary.xml.in.h:5
 msgid "Misc packages"
-msgstr "其它软件包"
+msgstr "Misc 软件包"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:6
 #: ../comps-rhel5-server-supplementary.xml.in.h:6
@@ -1470,21 +1452,20 @@ msgstr "多媒体应用程序"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:8
 #: ../comps-rhel5-server-supplementary.xml.in.h:8
-msgid ""
-"Packages which provide additional functionality for Red Hat Enterprise Linux"
-msgstr "用于对 Red Hat 企业版 Linux 提供附加功能的软件包。"
+msgid "Packages which provide additional functionality for Red Hat Enterprise Linux"
+msgstr "为红帽企业版 Linux 提供额外功能的软件包。"
 
 #: ../comps-rhel5-client-supplementary.xml.in.h:9
 #: ../comps-rhel5-server-supplementary.xml.in.h:9
 msgid "Red Hat Enterprise Linux Supplementary"
-msgstr "Red Hat 企业版 Linux 附加"
+msgstr "红帽企业版 Linux 辅助光盘"
 
 #: ../comps-rhel5-client-workstation.xml.in.h:4
 #: ../comps-rhel5-server-core.xml.in.h:18
 msgid ""
 "Components used for high performance networking and clustering, such as "
 "Infiniband and RDMA."
-msgstr "用于高性能网络和集群的组件，如 Infiniband 和 RDMA。"
+msgstr "用于高性能联网以及群集的组件，例如 Infiniband 和 RDMA。"
 
 #: ../comps-rhel5-client-workstation.xml.in.h:28
 #: ../comps-rhel5-server-core.xml.in.h:84
@@ -1493,5 +1474,5 @@ msgstr "OpenFabrics 企业版发行"
 
 #: ../comps-rhel5-vt.xml.in.h:23
 msgid "Virtualization Support."
-msgstr "虚拟化支持"
+msgstr "虚拟化支持。"
 
