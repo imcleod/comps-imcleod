@@ -95,6 +95,7 @@
     <packagelist>
       <packagereq type="mandatory">dejavu-fonts</packagereq>
       <packagereq type="default">dejavu-fonts-experimental</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-hy</packagereq>
       <packagereq type="optional">m17n-db-armenian</packagereq>
     </packagelist>
   </group>
@@ -1212,6 +1213,17 @@
     </packagelist>
   </group>
   <group>
+    <id>esperanto-support</id>
+    <_name>Esperanto Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>eo</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-Esperanto</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>estonian-support</id>
     <_name>Estonian Support</_name>
     <_description/>
@@ -1254,6 +1266,7 @@
     <langonly>fo</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-fo</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-fo</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1429,6 +1442,7 @@
     <langonly>gd</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-gd</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-gd</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2516,6 +2530,17 @@
     </packagelist>
   </group>
   <group>
+    <id>kashubian-support</id>
+    <_name>Kashubian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>csb</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-Kashubian</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>kde-desktop</id>
     <_name>KDE (K Desktop Environment)</_name>
     <_description>KDE is a powerful graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</_description>
@@ -2829,6 +2854,18 @@
     </packagelist>
   </group>
   <group>
+    <id>macedonian-support</id>
+    <_name>Macedonian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>mk</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-Macedonian</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-mk</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>mail-server</id>
     <_name>Mail Server</_name>
     <_description>These packages allow you to configure an IMAP or SMTP mail server.</_description>
@@ -2971,6 +3008,7 @@
       <packagereq type="mandatory">lohit-fonts-hindi</packagereq>
       <packagereq type="mandatory">m17n-contrib-nepali</packagereq>
       <packagereq type="mandatory">madan-fonts</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-ne</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Nepali</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-nepali</packagereq>
@@ -3036,6 +3074,17 @@
       <packagereq type="optional">leafnode</packagereq>
       <packagereq type="optional">newscache</packagereq>
       <packagereq type="optional">suck</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>northern-sami-support</id>
+    <_name>Northern Sami Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>se</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-NorthernSami</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3390,6 +3439,7 @@
     <uservisible>false</uservisible>
     <langonly>sk</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="aspell">aspell-sk</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-sk</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Slovak</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sk</packagereq>
@@ -3862,6 +3912,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-ta</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Tamil</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ta</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-ta_lk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ta_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-tamil</packagereq>
       <packagereq type="default">samyak-fonts-tamil</packagereq>
@@ -4162,6 +4213,17 @@
     </packagelist>
   </group>
   <group>
+    <id>walloon-support</id>
+    <_name>Walloon Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>wa</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-Walloon</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>welsh-support</id>
     <_name>Welsh Support</_name>
     <_description/>
@@ -4394,6 +4456,7 @@
       <groupid>czech-support</groupid>
       <groupid>danish-support</groupid>
       <groupid>dutch-support</groupid>
+      <groupid>esperanto-support</groupid>
       <groupid>estonian-support</groupid>
       <groupid>ethiopic-support</groupid>
       <groupid>faeroese-support</groupid>
@@ -4415,6 +4478,7 @@
       <groupid>irish-support</groupid>
       <groupid>italian-support</groupid>
       <groupid>japanese-support</groupid>
+      <groupid>kashubian-support</groupid>
       <groupid>kannada-support</groupid>
       <groupid>khmer-support</groupid>
       <groupid>korean-support</groupid>
@@ -4422,12 +4486,14 @@
       <groupid>latvian-support</groupid>
       <groupid>lithuanian-support</groupid>
       <groupid>low-saxon-support</groupid>
+      <groupid>macedonian-support</groupid>
       <groupid>malay-support</groupid>
       <groupid>malayalam-support</groupid>
       <groupid>maori-support</groupid>
       <groupid>marathi-support</groupid>
       <groupid>mongolian-support</groupid>
       <groupid>nepali-support</groupid>
+      <groupid>northern-sami-support</groupid>
       <groupid>northern-sotho-support</groupid>
       <groupid>norwegian-support</groupid>
       <groupid>oriya-support</groupid>
@@ -4461,6 +4527,7 @@
       <groupid>urdu-support</groupid>
       <groupid>venda-support</groupid>
       <groupid>vietnamese-support</groupid>
+      <groupid>walloon-support</groupid>
       <groupid>welsh-support</groupid>
       <groupid>xhosa-support</groupid>
       <groupid>zulu-support</groupid>
