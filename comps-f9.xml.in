@@ -173,6 +173,7 @@
       <packagereq type="mandatory">lsof</packagereq>
       <packagereq type="mandatory">mailcap</packagereq>
       <packagereq type="mandatory">man</packagereq>
+      <packagereq type="mandatory">NetworkManager</packagereq>
       <packagereq type="mandatory">ntsysv</packagereq>
       <packagereq type="mandatory">parted</packagereq>
       <packagereq type="mandatory">pciutils</packagereq>
@@ -218,7 +219,6 @@
       <packagereq type="default">mtr</packagereq>
       <packagereq type="default">nano</packagereq>
       <packagereq type="default">nc</packagereq>
-      <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">nfs-utils</packagereq>
       <packagereq type="default">nss_db</packagereq>
       <packagereq type="default">nss_ldap</packagereq>
