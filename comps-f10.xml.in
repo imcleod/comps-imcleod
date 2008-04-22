@@ -309,10 +309,6 @@
       <packagereq type="mandatory">bitmap-fonts</packagereq>
       <packagereq type="mandatory">desktop-backgrounds-basic</packagereq>
       <packagereq type="mandatory">xorg-x11-drivers</packagereq>
-      <packagereq type="mandatory">xorg-x11-fonts-100dpi</packagereq>
-      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
-      <packagereq type="mandatory">xorg-x11-fonts-misc</packagereq>
-      <packagereq type="mandatory">xorg-x11-fonts-Type1</packagereq>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
@@ -2735,7 +2731,7 @@
     <id>legacy-fonts</id>
     <_name>Legacy Fonts</_name>
     <_description>Older bitmap and vector fonts packages</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">bitmap-fonts</packagereq>
@@ -4057,7 +4053,7 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-tr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-tr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-tr_TR</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
+      <packagereq type="optional">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
     </packagelist>
   </group>
@@ -4069,7 +4065,6 @@
     <uservisible>false</uservisible>
     <langonly>uk</langonly>
     <packagelist>
-      <packagereq type="mandatory">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Ukrainian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Ukrainian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-uk</packagereq>
@@ -4077,6 +4072,7 @@
       <packagereq type="conditional" requires="moodle">moodle-uk</packagereq>
       <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
+      <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
     </packagelist>
