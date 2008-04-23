@@ -351,6 +351,7 @@
       <packagereq type="optional">rss-glx</packagereq>
       <packagereq type="optional">rss-glx-xscreensaver</packagereq>
       <packagereq type="optional">rxvt</packagereq>
+      <packagereq type="optional">scim-rawcode</packagereq>
       <packagereq type="optional">switchdesk</packagereq>
       <packagereq type="optional">uim-gtk2</packagereq>
       <packagereq type="optional">uim-m17n</packagereq>
@@ -576,12 +577,18 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-chinese</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-python-chinese</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-chinese</packagereq>
+      <packagereq type="default">scim-python-pinyin</packagereq>
+      <packagereq type="default">scim-python-xingma-cangjie</packagereq>
+      <packagereq type="default">scim-python-xingma-erbi</packagereq>
+      <packagereq type="default">scim-python-xingma-wubi</packagereq>
+      <packagereq type="default">scim-python-xingma-zhengma</packagereq>
       <packagereq type="default">taipeifonts</packagereq>
       <packagereq type="default">wqy-bitmap-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-chinese</packagereq>
       <packagereq type="optional">scim-array</packagereq>
+      <packagereq type="optional">scim-fcitx</packagereq>
       <packagereq type="optional">scim-pinyin</packagereq>
       <packagereq type="optional">stardict-dic-zh_CN</packagereq>
       <packagereq type="optional">stardict-dic-zh_TW</packagereq>
@@ -709,6 +716,7 @@
       <packagereq type="conditional" requires="man-pages">man-pages-da</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-da</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-da_DK</packagereq>
+      <packagereq type="optional">m17n-db-danish</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1221,6 +1229,7 @@
     <langonly>eo</langonly>
     <packagelist>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Esperanto</packagereq>
+      <packagereq type="optional">m17n-contrib-esperanto</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1386,6 +1395,11 @@
       <packagereq type="optional">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">sazanami-fonts-mincho</packagereq>
       <packagereq type="optional">silkscreen-fonts</packagereq>
+      <packagereq type="optional">smc-fonts-dyuthi</packagereq>
+      <packagereq type="optional">smc-fonts-meera</packagereq>
+      <packagereq type="optional">smc-fonts-rachana</packagereq>
+      <packagereq type="optional">smc-fonts-raghumalayalam</packagereq>
+      <packagereq type="optional">smc-fonts-suruma</packagereq>
       <packagereq type="optional">stix-fonts-integrals</packagereq>
       <packagereq type="optional">stix-fonts-pua</packagereq>
       <packagereq type="optional">stix-fonts-sizes</packagereq>
@@ -1418,6 +1432,7 @@
       <packagereq type="conditional" requires="moodle">moodle-fr_ca</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fr</packagereq>
       <packagereq type="conditional" requires="tesseract">tesseract-langpack-fr</packagereq>
+      <packagereq type="optional">m17n-db-french</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1836,6 +1851,8 @@
       <packagereq type="optional">pcmanfm</packagereq>
       <packagereq type="optional">rss-glx-gnome-screensaver</packagereq>
       <packagereq type="optional">sabayon</packagereq>
+      <packagereq type="optional">scim-bridge-gtk</packagereq>
+      <packagereq type="optional">scim-gtk</packagereq>
       <packagereq type="optional">scim-input-pad</packagereq>
       <packagereq type="optional">scim-tomoe</packagereq>
       <packagereq type="optional">seahorse</packagereq>
@@ -2925,13 +2942,18 @@
     <uservisible>false</uservisible>
     <langonly>ml</langonly>
     <packagelist>
-      <packagereq type="mandatory">lohit-fonts-malayalam</packagereq>
+      <packagereq type="mandatory">smc-fonts-meera</packagereq>
       <packagereq type="mandatory">m17n-contrib-malayalam</packagereq>
       <packagereq type="mandatory">m17n-db-malayalam</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ml</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ml_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-malayalam</packagereq>
+      <packagereq type="default">lohit-fonts-malayalam</packagereq>
       <packagereq type="default">samyak-fonts-malayalam</packagereq>
+      <packagereq type="default">smc-fonts-dyuthi</packagereq>
+      <packagereq type="default">smc-fonts-rachana</packagereq>
+      <packagereq type="default">smc-fonts-raghumalayalam</packagereq>
+      <packagereq type="default">smc-fonts-suruma</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3224,6 +3246,7 @@
     <packagelist>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-fa</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fa</packagereq>
+      <packagereq type="optional">m17n-db-farsi</packagereq>
     </packagelist>
   </group>
   <group>
