@@ -4339,6 +4339,8 @@
       <packagereq type="mandatory">desktop-backgrounds-compat</packagereq>
       <packagereq type="conditional" requires="im-chooser">imsettings-xfce</packagereq>
       <packagereq type="default">mousepad</packagereq>
+      <packagereq type="default">thunar-volman</packagereq>
+      <packagereq type="default">xarchiver</packagereq>
       <packagereq type="default">xfce-mcs-manager</packagereq>
       <packagereq type="default">xfce-mcs-plugins</packagereq>
       <packagereq type="default">xfce4-appfinder</packagereq>
@@ -4349,8 +4351,6 @@
       <packagereq type="optional">Terminal</packagereq>
       <packagereq type="optional">thunar-archive-plugin</packagereq>
       <packagereq type="optional">thunar-media-tags-plugin</packagereq>
-      <packagereq type="optional">thunar-volman</packagereq>
-      <packagereq type="optional">xarchiver</packagereq>
       <packagereq type="optional">xfce4-battery-plugin</packagereq>
       <packagereq type="optional">xfce4-clipman-plugin</packagereq>
       <packagereq type="optional">xfce4-cpugraph-plugin</packagereq>
