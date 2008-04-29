@@ -184,7 +184,6 @@
       <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
       <packagereq type="default">acpid</packagereq>
       <packagereq type="default">anacron</packagereq>
-      <packagereq type="default">autofs</packagereq>
       <packagereq type="default">bluez-utils</packagereq>
       <packagereq type="default">ccid</packagereq>
       <packagereq type="default">coolkey</packagereq>
@@ -3767,6 +3766,7 @@
       <packagereq type="optional">arptables_jf</packagereq>
       <packagereq type="optional">arpwatch</packagereq>
       <packagereq type="optional">audit</packagereq>
+      <packagereq type="optional">autofs</packagereq>
       <packagereq type="optional">avahi-tools</packagereq>
       <packagereq type="optional">bash-completion</packagereq>
       <packagereq type="optional">bochs</packagereq>
