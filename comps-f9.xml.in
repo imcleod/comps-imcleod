@@ -31,7 +31,6 @@
       <packagereq type="optional">luma</packagereq>
       <packagereq type="optional">opyum</packagereq>
       <packagereq type="optional">pessulus</packagereq>
-      <packagereq type="optional">pirut</packagereq>
       <packagereq type="optional">qtparted</packagereq>
       <packagereq type="optional">system-config-kickstart</packagereq>
       <packagereq type="optional">yumex</packagereq>
@@ -147,7 +146,7 @@
       <packagereq type="optional">python-docutils</packagereq>
       <packagereq type="optional">scribus</packagereq>
       <packagereq type="optional">tetex-prosper</packagereq>
-      <packagereq type="optional">tetex-xdvi</packagereq>
+      <packagereq type="optional">xdvik</packagereq>
       <packagereq type="optional">w3c-markup-validator</packagereq>
       <packagereq type="optional">xmlcopyeditor</packagereq>
     </packagelist>
@@ -623,7 +622,6 @@
       <packagereq type="mandatory">cpio</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq type="mandatory">ed</packagereq>
-      <packagereq type="mandatory">event-compat-sysv</packagereq>
       <packagereq type="mandatory">fedora-logos</packagereq>
       <packagereq type="mandatory">fedora-release</packagereq>
       <packagereq type="mandatory">file</packagereq>
@@ -806,7 +804,6 @@
       <packagereq basearchonly="true" type="default">oprofile</packagereq>
       <packagereq basearchonly="true" type="default">oprofile-gui</packagereq>
       <packagereq type="default">patchutils</packagereq>
-      <packagereq basearchonly="true" type="default">pstack</packagereq>
       <packagereq type="default">python-ldap</packagereq>
       <packagereq type="default">rcs</packagereq>
       <packagereq type="default">subversion</packagereq>
@@ -1810,7 +1807,7 @@
       <packagereq type="default">zenity</packagereq>
       <packagereq type="optional">avant-window-navigator</packagereq>
       <packagereq type="optional">beagle-evolution</packagereq>
-      <packagereq type="optional">beagle-gui</packagereq>
+      <packagereq type="optional">beagle-gnome</packagereq>
       <packagereq type="optional">buoh</packagereq>
       <packagereq type="optional">byzanz</packagereq>
       <packagereq type="optional">deskbar-applet</packagereq>
@@ -1894,7 +1891,7 @@
       <packagereq type="default">eel2-devel</packagereq>
       <packagereq type="default">evolution-data-server-devel</packagereq>
       <packagereq type="default">gail-devel</packagereq>
-      <packagereq type="default">gecko-devel</packagereq>
+      <packagereq type="default">xulrunner-devel</packagereq>
       <packagereq type="default">glade2</packagereq>
       <packagereq type="default">gnome-desktop-devel</packagereq>
       <packagereq type="default">gnome-devel-docs</packagereq>
@@ -1907,7 +1904,7 @@
       <packagereq type="default">libgtop2-devel</packagereq>
       <packagereq type="default">pygtk2-devel</packagereq>
       <packagereq type="optional">anjuta</packagereq>
-      <packagereq type="optional">anjuta-docs</packagereq>
+      <packagereq type="optional">anjuta-doc</packagereq>
       <packagereq type="optional">bakery-devel</packagereq>
       <packagereq type="optional">bit-devel</packagereq>
       <packagereq type="optional">bitgtkmm-devel</packagereq>
@@ -2641,7 +2638,7 @@
       <packagereq type="optional">scim-qtimm</packagereq>
       <packagereq type="optional">smb4k</packagereq>
       <packagereq type="optional">speedcrunch</packagereq>
-      <packagereq type="optional">uim-qt</packagereq>
+      <packagereq type="optional">uim-qt3</packagereq>
       <packagereq type="optional">yakuake</packagereq>
     </packagelist>
   </group>
@@ -2838,7 +2835,6 @@
       <packagereq type="default">compat-libstdc++-296</packagereq>
       <packagereq type="default">compat-libstdc++-33</packagereq>
       <packagereq type="optional">compat-db</packagereq>
-      <packagereq type="optional">compat-openldap</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3971,7 +3967,7 @@
       <packagereq type="optional">abook</packagereq>
       <packagereq type="optional">archivemail</packagereq>
       <packagereq type="optional">argus</packagereq>
-      <packagereq type="optional">centericq</packagereq>
+      <packagereq type="optional">centerim</packagereq>
       <packagereq type="optional">cone</packagereq>
       <packagereq type="optional">ctorrent</packagereq>
       <packagereq type="optional">ekg</packagereq>
@@ -4277,7 +4273,6 @@
       <packagereq type="optional">openbox</packagereq>
       <packagereq type="optional">pekwm</packagereq>
       <packagereq type="optional">ratpoison</packagereq>
-      <packagereq type="optional">windowlab</packagereq>
       <packagereq type="optional">WindowMaker</packagereq>
       <packagereq type="optional">wmx</packagereq>
       <packagereq type="optional">xcompmgr</packagereq>
@@ -4339,7 +4334,7 @@
       <packagereq type="optional">icon-slicer</packagereq>
       <packagereq type="optional">libXp-devel</packagereq>
       <packagereq type="optional">mesa-libGLU-devel</packagereq>
-      <packagereq type="optional">xorg-x11-server-sdk</packagereq>
+      <packagereq type="optional">xorg-x11-server-devel</packagereq>
       <packagereq type="optional">xorg-x11-xbitmaps</packagereq>
     </packagelist>
   </group>
