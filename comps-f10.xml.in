@@ -344,10 +344,8 @@
       <packagereq type="optional">rss-glx</packagereq>
       <packagereq type="optional">rss-glx-xscreensaver</packagereq>
       <packagereq type="optional">rxvt</packagereq>
-      <packagereq type="optional">scim-rawcode</packagereq>
       <packagereq type="optional">switchdesk</packagereq>
       <packagereq type="optional">uim-gtk2</packagereq>
-      <packagereq type="optional">uim-m17n</packagereq>
       <packagereq type="optional">vnc-server</packagereq>
       <packagereq type="optional">workrave</packagereq>
       <packagereq type="optional">xdaliclock</packagereq>
@@ -1843,8 +1841,6 @@
       <packagereq type="optional">sabayon</packagereq>
       <packagereq type="optional">scim-bridge-gtk</packagereq>
       <packagereq type="optional">scim-gtk</packagereq>
-      <packagereq type="optional">scim-input-pad</packagereq>
-      <packagereq type="optional">scim-tomoe</packagereq>
       <packagereq type="optional">seahorse</packagereq>
       <packagereq type="optional">stardict-dic-en</packagereq>
       <packagereq type="optional">swfdec-gnome</packagereq>
@@ -2278,6 +2274,119 @@
       <packagereq type="conditional" requires="aspell">aspell-id</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-id</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-id</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>input-methods</id>
+    <_name>Input Methods</_name>
+    <_description>Input method packages for the input of international text.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">im-chooser</packagereq>
+      <packagereq type="default">m17n-contrib-assamese</packagereq>
+      <packagereq type="default">m17n-contrib-bengali</packagereq>
+      <packagereq type="default">m17n-contrib-gujarati</packagereq>
+      <packagereq type="default">m17n-contrib-hindi</packagereq>
+      <packagereq type="default">m17n-contrib-kannada</packagereq>
+      <packagereq type="default">m17n-contrib-malayalam</packagereq>
+      <packagereq type="default">m17n-contrib-marathi</packagereq>
+      <packagereq type="default">m17n-contrib-oriya</packagereq>
+      <packagereq type="default">m17n-contrib-punjabi</packagereq>
+      <packagereq type="default">m17n-contrib-tamil</packagereq>
+      <packagereq type="default">m17n-contrib-telugu</packagereq>
+      <packagereq type="default">m17n-contrib-urdu</packagereq>
+      <packagereq type="default">m17n-db-sinhala</packagereq>
+      <packagereq type="default">m17n-db-thai</packagereq>
+      <packagereq type="default">scim-anthy</packagereq>
+      <packagereq type="default">scim-chewing</packagereq>
+      <packagereq type="default">scim-hangul</packagereq>
+      <packagereq type="default">scim-m17n</packagereq>
+      <packagereq type="default">scim-python-pinyin</packagereq>
+      <packagereq type="conditional" requires="gnome-session">scim-bridge-gtk</packagereq>
+      <packagereq type="conditional" requires="kdebase">scim-bridge-qt</packagereq>
+      <packagereq type="optional">cellwriter</packagereq>
+      <packagereq type="optional">gcin</packagereq>
+      <packagereq type="optional">gok</packagereq>
+      <packagereq type="optional">kinput2</packagereq>
+      <packagereq type="optional">m17n-contrib-esperanto</packagereq>
+      <packagereq type="optional">m17n-contrib-nepali</packagereq>
+      <packagereq type="optional">m17n-contrib-russian</packagereq>
+      <packagereq type="optional">m17n-contrib-sinhala</packagereq>
+      <packagereq type="optional">m17n-contrib-tai</packagereq>
+      <packagereq type="optional">m17n-contrib-vietnamese</packagereq>
+      <packagereq type="optional">m17n-db-amharic</packagereq>
+      <packagereq type="optional">m17n-db-arabic</packagereq>
+      <packagereq type="optional">m17n-db-assamese</packagereq>
+      <packagereq type="optional">m17n-db-bengali</packagereq>
+      <packagereq type="optional">m17n-db-cham</packagereq>
+      <packagereq type="optional">m17n-db-chinese</packagereq>
+      <packagereq type="optional">m17n-db-croatian</packagereq>
+      <packagereq type="optional">m17n-db-danish</packagereq>
+      <packagereq type="optional">m17n-db-dhivehi</packagereq>
+      <packagereq type="optional">m17n-db-farsi</packagereq>
+      <packagereq type="optional">m17n-db-french</packagereq>
+      <packagereq type="optional">m17n-db-generic</packagereq>
+      <packagereq type="optional">m17n-db-greek</packagereq>
+      <packagereq type="optional">m17n-db-gujarati</packagereq>
+      <packagereq type="optional">m17n-db-hebrew</packagereq>
+      <packagereq type="optional">m17n-db-hindi</packagereq>
+      <packagereq type="optional">m17n-db-japanese</packagereq>
+      <packagereq type="optional">m17n-db-kannada</packagereq>
+      <packagereq type="optional">m17n-db-kazakh</packagereq>
+      <packagereq type="optional">m17n-db-khmer</packagereq>
+      <packagereq type="optional">m17n-db-korean</packagereq>
+      <packagereq type="optional">m17n-db-lao</packagereq>
+      <packagereq type="optional">m17n-db-latin</packagereq>
+      <packagereq type="optional">m17n-db-malayalam</packagereq>
+      <packagereq type="optional">m17n-db-myanmar</packagereq>
+      <packagereq type="optional">m17n-db-oriya</packagereq>
+      <packagereq type="optional">m17n-db-punjabi</packagereq>
+      <packagereq type="optional">m17n-db-russian</packagereq>
+      <packagereq type="optional">m17n-db-serbian</packagereq>
+      <packagereq type="optional">m17n-db-slovak</packagereq>
+      <packagereq type="optional">m17n-db-swedish</packagereq>
+      <packagereq type="optional">m17n-db-tamil</packagereq>
+      <packagereq type="optional">m17n-db-telugu</packagereq>
+      <packagereq type="optional">m17n-db-tibetan</packagereq>
+      <packagereq type="optional">m17n-db-uyghur</packagereq>
+      <packagereq type="optional">m17n-db-vietnamese</packagereq>
+      <packagereq type="optional">nabi</packagereq>
+      <packagereq type="optional">scim-array</packagereq>
+      <packagereq type="optional">scim-bridge-qt3</packagereq>
+      <packagereq type="optional">scim-fcitx</packagereq>
+      <packagereq type="optional">scim-gtk</packagereq>
+      <packagereq type="optional">scim-input-pad</packagereq>
+      <packagereq type="optional">scim-pinyin</packagereq>
+      <packagereq type="optional">scim-python-chinese</packagereq>
+      <packagereq type="optional">scim-python-english</packagereq>
+      <packagereq type="optional">scim-python-xingma-cangjie</packagereq>
+      <packagereq type="optional">scim-python-xingma-erbi</packagereq>
+      <packagereq type="optional">scim-python-xingma-wubi</packagereq>
+      <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
+      <packagereq type="optional">scim-qtimm</packagereq>
+      <packagereq type="optional">scim-rawcode</packagereq>
+      <packagereq type="optional">scim-sinhala</packagereq>
+      <packagereq type="optional">scim-skk</packagereq>
+      <packagereq type="optional">scim-tables-additional</packagereq>
+      <packagereq type="optional">scim-tables-amharic</packagereq>
+      <packagereq type="optional">scim-tables-arabic</packagereq>
+      <packagereq type="optional">scim-tables-chinese</packagereq>
+      <packagereq type="optional">scim-tables-nepali</packagereq>
+      <packagereq type="optional">scim-tables-russian</packagereq>
+      <packagereq type="optional">scim-tables-thai</packagereq>
+      <packagereq type="optional">scim-tables-vietnamese</packagereq>
+      <packagereq type="optional">scim-tomoe</packagereq>
+      <packagereq type="optional">scim-pinyin</packagereq>
+      <packagereq type="optional">uim</packagereq>
+      <packagereq type="optional">uim-anthy</packagereq>
+      <packagereq type="optional">uim-canna</packagereq>
+      <packagereq type="optional">uim-gnome</packagereq>
+      <packagereq type="optional">uim-gtk2</packagereq>
+      <packagereq type="optional">uim-m17n</packagereq>
+      <packagereq type="optional">uim-qt3</packagereq>
+      <packagereq type="optional">uim-skk</packagereq>
+      <packagereq type="optional">WritRecogn</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4625,6 +4734,7 @@
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
+      <groupid>input-methods</groupid>
       <groupid>java</groupid>
       <groupid>legacy-fonts</groupid>
       <groupid>legacy-software-support</groupid>
