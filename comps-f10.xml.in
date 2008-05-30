@@ -311,7 +311,6 @@
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
       <packagereq type="default">authconfig-gtk</packagereq>
       <packagereq type="default">firstboot</packagereq>
-      <packagereq type="default">gdm</packagereq>
       <packagereq type="default">glx-utils</packagereq>
       <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">kerneloops</packagereq>
@@ -335,6 +334,7 @@
       <packagereq type="optional">alltray</packagereq>
       <packagereq type="optional">aterm</packagereq>
       <packagereq type="optional">devilspie</packagereq>
+      <packagereq type="optional">gdm</packagereq>
       <packagereq type="optional">im-chooser</packagereq>
       <packagereq type="optional">lineak-defaultplugin</packagereq>
       <packagereq type="optional">lineak-xosdplugin</packagereq>
@@ -1770,6 +1770,7 @@
       <packagereq type="default">evince-dvi</packagereq>
       <packagereq type="default">file-roller</packagereq>
       <packagereq type="default">gcalctool</packagereq>
+      <packagereq type="default">gdm</packagereq>
       <packagereq type="default">gdm-user-switch-applet</packagereq>
       <packagereq type="default">gedit</packagereq>
       <packagereq type="default">gnome-audio</packagereq>
@@ -4467,6 +4468,7 @@
       <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq type="mandatory">desktop-backgrounds-compat</packagereq>
       <packagereq type="conditional" requires="im-chooser">imsettings-xfce</packagereq>
+      <packagereq type="default">gdm</packagereq>
       <packagereq type="default">mousepad</packagereq>
       <packagereq type="default">thunar-volman</packagereq>
       <packagereq type="default">xarchiver</packagereq>
