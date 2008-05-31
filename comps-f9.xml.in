@@ -93,8 +93,8 @@
     <langonly>hy</langonly>
     <packagelist>
       <packagereq type="mandatory">dejavu-fonts</packagereq>
-      <packagereq type="default">dejavu-fonts-experimental</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hy</packagereq>
+      <packagereq type="default">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">m17n-db-armenian</packagereq>
     </packagelist>
   </group>
@@ -146,8 +146,8 @@
       <packagereq type="optional">python-docutils</packagereq>
       <packagereq type="optional">scribus</packagereq>
       <packagereq type="optional">tetex-prosper</packagereq>
-      <packagereq type="optional">xdvik</packagereq>
       <packagereq type="optional">w3c-markup-validator</packagereq>
+      <packagereq type="optional">xdvik</packagereq>
       <packagereq type="optional">xmlcopyeditor</packagereq>
     </packagelist>
   </group>
@@ -1355,6 +1355,7 @@
       <packagereq type="optional">baekmuk-ttf-fonts-dotum</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-hline</packagereq>
       <packagereq type="optional">bitstream-vera-fonts</packagereq>
+      <packagereq type="optional">brettfont-fonts</packagereq>
       <packagereq type="optional">charis-fonts</packagereq>
       <packagereq type="optional">cjkunifonts-ukai</packagereq>
       <packagereq type="optional">dejavu-lgc-fonts</packagereq>
@@ -1894,7 +1895,6 @@
       <packagereq type="default">eel2-devel</packagereq>
       <packagereq type="default">evolution-data-server-devel</packagereq>
       <packagereq type="default">gail-devel</packagereq>
-      <packagereq type="default">xulrunner-devel</packagereq>
       <packagereq type="default">glade2</packagereq>
       <packagereq type="default">gnome-desktop-devel</packagereq>
       <packagereq type="default">gnome-devel-docs</packagereq>
@@ -1906,6 +1906,7 @@
       <packagereq type="default">libgnomeprintui22-devel</packagereq>
       <packagereq type="default">libgtop2-devel</packagereq>
       <packagereq type="default">pygtk2-devel</packagereq>
+      <packagereq type="default">xulrunner-devel</packagereq>
       <packagereq type="optional">anjuta</packagereq>
       <packagereq type="optional">anjuta-doc</packagereq>
       <packagereq type="optional">bakery-devel</packagereq>
@@ -2939,9 +2940,9 @@
     <uservisible>false</uservisible>
     <langonly>ml</langonly>
     <packagelist>
-      <packagereq type="mandatory">smc-fonts-meera</packagereq>
       <packagereq type="mandatory">m17n-contrib-malayalam</packagereq>
       <packagereq type="mandatory">m17n-db-malayalam</packagereq>
+      <packagereq type="mandatory">smc-fonts-meera</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ml</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ml_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-malayalam</packagereq>
@@ -3692,8 +3693,8 @@
       <packagereq type="optional">postgresql-tcl</packagereq>
       <packagereq type="optional">postgresql-test</packagereq>
       <packagereq type="optional">qt-odbc</packagereq>
-      <packagereq type="optional">qt3-ODBC</packagereq>
       <packagereq type="optional">qt-postgresql</packagereq>
+      <packagereq type="optional">qt3-ODBC</packagereq>
       <packagereq type="optional">qt3-PostgreSQL</packagereq>
       <packagereq type="optional">unixODBC-kde</packagereq>
     </packagelist>
@@ -4161,6 +4162,17 @@
     </packagelist>
   </group>
   <group>
+    <id>walloon-support</id>
+    <_name>Walloon Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>wa</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-Walloon</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>web-development</id>
     <_name>Web Development</_name>
     <_description>These packages are helpful when developing web applications or web pages.</_description>
@@ -4230,17 +4242,6 @@
       <packagereq type="optional">vdr-wapd</packagereq>
       <packagereq type="optional">vdradmin-am</packagereq>
       <packagereq type="optional">wordpress</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>walloon-support</id>
-    <_name>Walloon Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <langonly>wa</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Walloon</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4349,6 +4350,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="mandatory">desktop-backgrounds-compat</packagereq>
       <packagereq type="mandatory">libxfce4mcs</packagereq>
       <packagereq type="mandatory">libxfce4util</packagereq>
       <packagereq type="mandatory">libxfcegui4</packagereq>
@@ -4359,7 +4361,6 @@
       <packagereq type="mandatory">xfce4-session-engines</packagereq>
       <packagereq type="mandatory">xfdesktop</packagereq>
       <packagereq type="mandatory">xfwm4</packagereq>
-      <packagereq type="mandatory">desktop-backgrounds-compat</packagereq>
       <packagereq type="conditional" requires="im-chooser">imsettings-xfce</packagereq>
       <packagereq type="default">mousepad</packagereq>
       <packagereq type="default">thunar-volman</packagereq>
@@ -4500,8 +4501,8 @@
       <groupid>irish-support</groupid>
       <groupid>italian-support</groupid>
       <groupid>japanese-support</groupid>
-      <groupid>kashubian-support</groupid>
       <groupid>kannada-support</groupid>
+      <groupid>kashubian-support</groupid>
       <groupid>khmer-support</groupid>
       <groupid>korean-support</groupid>
       <groupid>lao-support</groupid>
