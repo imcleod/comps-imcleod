@@ -2375,7 +2375,7 @@
       <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
       <packagereq type="optional">scim-qtimm</packagereq>
       <packagereq type="optional">scim-rawcode</packagereq>
-      <packagereq type="optional">scim-sinhala</packagereq>
+      <packagereq type="optional">scim-sayura</packagereq>
       <packagereq type="optional">scim-skk</packagereq>
       <packagereq type="optional">scim-tables-additional</packagereq>
       <packagereq type="optional">scim-tables-amharic</packagereq>
@@ -3554,7 +3554,7 @@
       <packagereq type="mandatory">m17n-db-sinhala</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-si</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-sinhalese</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-sinhala</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-sayura</packagereq>
     </packagelist>
   </group>
   <group>
