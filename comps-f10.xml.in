@@ -1321,6 +1321,7 @@
       <packagereq type="conditional" requires="moodle">moodle-fi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fi_FI</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-voikko</packagereq>
+      <packagereq type="optional">tmispell-voikko</packagereq>
     </packagelist>
   </group>
   <group>
