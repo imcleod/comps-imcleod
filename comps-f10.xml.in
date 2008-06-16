@@ -1314,6 +1314,7 @@
     <uservisible>false</uservisible>
     <langonly>fi</langonly>
     <packagelist>
+      <packagereq type="default">enchant-voikko</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-fi</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Finnish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Finnish</packagereq>
