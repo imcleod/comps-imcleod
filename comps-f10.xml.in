@@ -335,7 +335,6 @@
       <packagereq type="optional">aterm</packagereq>
       <packagereq type="optional">devilspie</packagereq>
       <packagereq type="optional">gdm</packagereq>
-      <packagereq type="optional">im-chooser</packagereq>
       <packagereq type="optional">lineak-defaultplugin</packagereq>
       <packagereq type="optional">lineak-xosdplugin</packagereq>
       <packagereq type="optional">lineakd</packagereq>
@@ -2315,8 +2314,9 @@
       <packagereq type="default">scim-hangul</packagereq>
       <packagereq type="default">scim-m17n</packagereq>
       <packagereq type="default">scim-python-pinyin</packagereq>
-      <packagereq type="conditional" requires="gnome-session">scim-bridge-gtk</packagereq>
-      <packagereq type="conditional" requires="kdebase">scim-bridge-qt</packagereq>
+      <packagereq type="conditional" requires="gtk2">scim-bridge-gtk</packagereq>
+      <packagereq type="conditional" requires="qt">scim-bridge-qt</packagereq>
+      <packagereq type="conditional" requires="qt3">scim-qtimm</packagereq>
       <packagereq type="optional">cellwriter</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">gok</packagereq>
@@ -2376,7 +2376,6 @@
       <packagereq type="optional">scim-python-xingma-erbi</packagereq>
       <packagereq type="optional">scim-python-xingma-wubi</packagereq>
       <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
-      <packagereq type="optional">scim-qtimm</packagereq>
       <packagereq type="optional">scim-rawcode</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
       <packagereq type="optional">scim-skk</packagereq>
@@ -4483,7 +4482,7 @@
       <packagereq type="mandatory">xfdesktop</packagereq>
       <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq type="mandatory">desktop-backgrounds-compat</packagereq>
-      <packagereq type="conditional" requires="im-chooser">imsettings-xfce</packagereq>
+      <packagereq type="conditional" requires="imsettings">imsettings-xfce</packagereq>
       <packagereq type="default">gdm</packagereq>
       <packagereq type="default">mousepad</packagereq>
       <packagereq type="default">thunar-volman</packagereq>
