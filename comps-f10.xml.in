@@ -2317,6 +2317,7 @@
       <packagereq type="default">scim-hangul</packagereq>
       <packagereq type="default">scim-m17n</packagereq>
       <packagereq type="default">scim-python-pinyin</packagereq>
+      <packagereq type="conditional" requires="xfce-utils">imsettings-xfce</packagereq>
       <packagereq type="conditional" requires="gtk2">scim-bridge-gtk</packagereq>
       <packagereq type="conditional" requires="qt">scim-bridge-qt</packagereq>
       <packagereq type="conditional" requires="qt3">scim-qtimm</packagereq>
@@ -3814,7 +3815,7 @@
     <id>sugar-desktop</id>
     <_name>SUGAR Desktop Environment</_name>
     <_description>SUGAR is the desktop environment developed for the OLPC XO.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">sugar</packagereq>
