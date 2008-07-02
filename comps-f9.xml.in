@@ -4381,6 +4381,7 @@
       <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq type="conditional" requires="im-chooser">imsettings-xfce</packagereq>
       <packagereq type="default">mousepad</packagereq>
+      <packagereq type="default">thunar-archive-plugin</packagereq>
       <packagereq type="default">thunar-volman</packagereq>
       <packagereq type="default">xarchiver</packagereq>
       <packagereq type="default">xfce-mcs-manager</packagereq>
@@ -4391,8 +4392,8 @@
       <packagereq type="default">xfce4-mixer</packagereq>
       <packagereq type="default">xfwm4-theme-nodoka</packagereq>
       <packagereq type="optional">orage</packagereq>
+      <packagereq type="optional">ristretto</packagereq>
       <packagereq type="optional">Terminal</packagereq>
-      <packagereq type="optional">thunar-archive-plugin</packagereq>
       <packagereq type="optional">thunar-media-tags-plugin</packagereq>
       <packagereq type="optional">thunar-shares</packagereq>
       <packagereq type="optional">xfbib</packagereq>
