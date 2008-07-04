@@ -2317,6 +2317,7 @@
       <packagereq type="default">scim-hangul</packagereq>
       <packagereq type="default">scim-m17n</packagereq>
       <packagereq type="default">scim-python-pinyin</packagereq>
+      <packagereq type="default">scim-rawcode</packagereq>
       <packagereq type="conditional" requires="xfce-utils">imsettings-xfce</packagereq>
       <packagereq type="conditional" requires="gtk2">scim-bridge-gtk</packagereq>
       <packagereq type="conditional" requires="qt">scim-bridge-qt</packagereq>
@@ -2380,7 +2381,6 @@
       <packagereq type="optional">scim-python-xingma-erbi</packagereq>
       <packagereq type="optional">scim-python-xingma-wubi</packagereq>
       <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
-      <packagereq type="optional">scim-rawcode</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
       <packagereq type="optional">scim-skk</packagereq>
       <packagereq type="optional">scim-tables-additional</packagereq>
