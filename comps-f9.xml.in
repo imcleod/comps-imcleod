@@ -1283,6 +1283,7 @@
     <packagelist>
       <packagereq type="mandatory">bodhi-client</packagereq>
       <packagereq type="mandatory">bzr</packagereq>
+      <packagereq type="mandatory">curl</packagereq>
       <packagereq type="mandatory">cvs</packagereq>
       <packagereq type="mandatory">fedora-packager</packagereq>
       <packagereq type="mandatory">git</packagereq>
@@ -1292,7 +1293,6 @@
       <packagereq type="mandatory">plague-client</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
       <packagereq type="mandatory">rpmdevtools</packagereq>
-      <packagereq type="mandatory">curl</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1314,7 +1314,6 @@
     <uservisible>false</uservisible>
     <langonly>fi</langonly>
     <packagelist>
-      <packagereq type="optional">enchant-voikko</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-fi</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Finnish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Finnish</packagereq>
@@ -1322,7 +1321,8 @@
       <packagereq type="conditional" requires="moodle">moodle-fi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fi_FI</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-voikko</packagereq>
-      <packagereq type="optional">tmispell-voikko</packagereq> 
+      <packagereq type="optional">enchant-voikko</packagereq>
+      <packagereq type="optional">tmispell-voikko</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4587,8 +4587,8 @@
     <grouplist>
       <groupid>gnome-desktop</groupid>
       <groupid>kde-desktop</groupid>
-      <groupid>window-managers</groupid>
       <groupid>sugar-desktop</groupid>
+      <groupid>window-managers</groupid>
       <groupid>xfce-desktop</groupid>
     </grouplist>
   </category>
