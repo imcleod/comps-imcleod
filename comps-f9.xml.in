@@ -1381,6 +1381,13 @@
       <packagereq type="optional">gfs-solomos-fonts</packagereq>
       <packagereq type="optional">gfs-theokritos-fonts</packagereq>
       <packagereq type="optional">inconsolata-fonts</packagereq>
+      <packagereq type="optional">khmeros-fonts-base</packagereq>
+      <packagereq type="optional">khmeros-fonts-battambang</packagereq>
+      <packagereq type="optional">khmeros-fonts-bokor</packagereq>
+      <packagereq type="optional">khmeros-fonts-handwritten</packagereq>
+      <packagereq type="optional">khmeros-fonts-metalchrieng</packagereq>
+      <packagereq type="optional">khmeros-fonts-muol</packagereq>
+      <packagereq type="optional">khmeros-fonts-siemreap</packagereq>
       <packagereq type="optional">linux-libertine-fonts</packagereq>
       <packagereq type="optional">madan-fonts</packagereq>
       <packagereq type="optional">mathml-fonts</packagereq>
@@ -2692,10 +2699,17 @@
     <uservisible>false</uservisible>
     <langonly>km</langonly>
     <packagelist>
+      <packagereq type="default">khmeros-fonts-base</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Khmer</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-km</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-km</packagereq>
       <packagereq type="optional">m17n-db-khmer</packagereq>
+      <packagereq type="optional">khmeros-fonts-battambang</packagereq>
+      <packagereq type="optional">khmeros-fonts-bokor</packagereq>
+      <packagereq type="optional">khmeros-fonts-handwritten</packagereq>
+      <packagereq type="optional">khmeros-fonts-metalchrieng</packagereq>
+      <packagereq type="optional">khmeros-fonts-muol</packagereq>
+      <packagereq type="optional">khmeros-fonts-siemreap</packagereq>
     </packagelist>
   </group>
   <group>
