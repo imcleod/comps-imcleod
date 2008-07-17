@@ -4101,6 +4101,18 @@
     </packagelist>
   </group>
   <group>
+    <id>tajik-support</id>
+    <_name>Tajik Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>tg</langonly>
+    <packagelist>
+      <packagereq type="mandatory">dejavu-fonts</packagereq>
+      <packagereq type="default">dejavu-fonts-experimental</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>tamil-support</id>
     <_name>Tamil Support</_name>
     <_description/>
@@ -4724,6 +4736,7 @@
       <groupid>swati-support</groupid>
       <groupid>swedish-support</groupid>
       <groupid>tagalog-support</groupid>
+      <groupid>tajik-support</groupid>
       <groupid>tamil-support</groupid>
       <groupid>telugu-support</groupid>
       <groupid>thai-support</groupid>
