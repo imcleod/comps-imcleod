@@ -2613,16 +2613,16 @@
     <uservisible>false</uservisible>
     <langonly>km</langonly>
     <packagelist>
-      <packagereq type="default">khmeros-fonts-base</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-km</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-km</packagereq>
-      <packagereq type="optional">m17n-db-khmer</packagereq>
+      <packagereq type="default">khmeros-fonts-base</packagereq>
       <packagereq type="optional">khmeros-fonts-battambang</packagereq>
       <packagereq type="optional">khmeros-fonts-bokor</packagereq>
       <packagereq type="optional">khmeros-fonts-handwritten</packagereq>
       <packagereq type="optional">khmeros-fonts-metalchrieng</packagereq>
       <packagereq type="optional">khmeros-fonts-muol</packagereq>
       <packagereq type="optional">khmeros-fonts-siemreap</packagereq>
+      <packagereq type="optional">m17n-db-khmer</packagereq>
     </packagelist>
   </group>
   <group>
