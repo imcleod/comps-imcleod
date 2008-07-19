@@ -1366,6 +1366,7 @@
       <packagereq type="optional">cjkunifonts-ukai</packagereq>
       <packagereq type="optional">dejavu-lgc-fonts</packagereq>
       <packagereq type="optional">doulos-fonts</packagereq>
+      <packagereq type="optional">ecolier-court-fonts</packagereq>
       <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-truetype-apl</packagereq>
       <packagereq type="optional">freefont</packagereq>
@@ -1448,6 +1449,7 @@
       <packagereq type="conditional" requires="moodle">moodle-fr_ca</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fr</packagereq>
       <packagereq type="conditional" requires="tesseract">tesseract-langpack-fr</packagereq>
+      <packagereq type="optional">ecolier-court-fonts</packagereq>
       <packagereq type="optional">m17n-db-french</packagereq>
     </packagelist>
   </group>
