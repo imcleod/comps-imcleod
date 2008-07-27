@@ -2071,6 +2071,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">cheese</packagereq>
       <packagereq type="default">f-spot</packagereq>
       <packagereq type="default">gimp</packagereq>
       <packagereq type="default">gimp-help</packagereq>
@@ -2081,7 +2082,6 @@
       <packagereq type="optional">asymptote</packagereq>
       <packagereq type="optional">blender</packagereq>
       <packagereq type="optional">cbrpager</packagereq>
-      <packagereq type="optional">cheese</packagereq>
       <packagereq type="optional">comix</packagereq>
       <packagereq type="optional">dcraw</packagereq>
       <packagereq type="optional">digikam</packagereq>
