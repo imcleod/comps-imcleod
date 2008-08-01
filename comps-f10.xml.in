@@ -791,6 +791,7 @@
       <packagereq type="default">elfutils</packagereq>
       <packagereq type="default">frysk</packagereq>
       <packagereq basearchonly="true" type="default">gcc-gfortran</packagereq>
+      <packagereq type="default">git</packagereq>
       <packagereq type="default">indent</packagereq>
       <packagereq basearchonly="true" type="default">ltrace</packagereq>
       <packagereq basearchonly="true" type="default">oprofile</packagereq>
@@ -855,7 +856,6 @@
       <packagereq type="optional">gforth</packagereq>
       <packagereq type="optional">ghc</packagereq>
       <packagereq type="optional">giggle</packagereq>
-      <packagereq type="optional">git</packagereq>
       <packagereq type="optional">gnu-smalltalk</packagereq>
       <packagereq type="optional">gphpedit</packagereq>
       <packagereq type="optional">gprolog</packagereq>
