@@ -1781,6 +1781,7 @@
       <packagereq type="mandatory">gnome-panel</packagereq>
       <packagereq type="mandatory">gnome-session</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
+      <packagereq type="mandatory">gvfs-fuse</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">nautilus</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
@@ -1814,16 +1815,12 @@
       <packagereq type="default">gnome-user-docs</packagereq>
       <packagereq type="default">gnome-user-share</packagereq>
       <packagereq type="default">gnome-utils</packagereq>
-      <packagereq type="default">gnome-vfs2-obexftp</packagereq>
-      <packagereq type="default">gnome-vfs2-smb</packagereq>
       <packagereq type="default">gok</packagereq>
       <packagereq type="default">gthumb</packagereq>
       <packagereq type="default">gtk2-engines</packagereq>
       <packagereq type="default">gucharmap</packagereq>
-      <packagereq type="default">gvfs-fuse</packagereq>
       <packagereq type="default">gvfs-archive</packagereq>
       <packagereq type="default">gvfs-gphoto2</packagereq>
-      <packagereq type="default">gvfs-obexftp</packagereq>
       <packagereq type="default">gvfs-smb</packagereq>
       <packagereq type="default">mousetweaks</packagereq>
       <packagereq type="default">nautilus-cd-burner</packagereq>
