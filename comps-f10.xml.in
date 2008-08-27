@@ -571,6 +571,7 @@
       <packagereq type="default">taipeifonts</packagereq>
       <packagereq type="default">wqy-bitmap-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
+      <packagereq type="optional">ibus-pinyin</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-chinese</packagereq>
       <packagereq type="optional">scim-array</packagereq>
@@ -1783,6 +1784,7 @@
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">nautilus</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
+      <packagereq type="conditional" requires="ibus">ibus-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
       <packagereq type="default">alacarte</packagereq>
       <packagereq type="default">at-spi</packagereq>
@@ -2383,6 +2385,12 @@
       <packagereq type="optional">cellwriter</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">gok</packagereq>
+      <packagereq type="optional">ibus</packagereq>
+      <packagereq type="optional">ibus-anthy</packagereq>
+      <packagereq type="optional">ibus-gtk</packagereq>
+      <packagereq type="optional">ibus-m17n</packagereq>
+      <packagereq type="optional">ibus-pinyin</packagereq>
+      <packagereq type="optional">ibus-qt</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">m17n-contrib-esperanto</packagereq>
       <packagereq type="optional">m17n-contrib-nepali</packagereq>
@@ -2538,6 +2546,7 @@
       <packagereq type="optional">ddskk-xemacs</packagereq>
       <packagereq type="optional">eblook</packagereq>
       <packagereq type="optional">ebview</packagereq>
+      <packagereq type="optional">ibus-anthy</packagereq>
       <packagereq type="optional">jfbterm</packagereq>
       <packagereq type="optional">jisksp16-1990-fonts</packagereq>
       <packagereq type="optional">kcc</packagereq>
@@ -2736,6 +2745,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">kdebase-workspace</packagereq>
+      <packagereq type="conditional" requires="ibus">ibus-qt</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-qt</packagereq>
       <packagereq type="default">amarok</packagereq>
       <packagereq type="default">digikam</packagereq>
