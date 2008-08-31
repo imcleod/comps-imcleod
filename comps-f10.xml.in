@@ -730,8 +730,12 @@
       <packagereq type="default">dbus-devel</packagereq>
       <packagereq type="default">expat-devel</packagereq>
       <packagereq type="default">gdbm-devel</packagereq>
+      <packagereq type="default">geoclue-devel</packagereq>
       <packagereq type="default">gmp-devel</packagereq>
       <packagereq type="default">gpm-devel</packagereq>
+      <packagereq type="default">gssdp-devel</packagereq>
+      <packagereq type="default">gupnp-devel</packagereq>
+      <packagereq type="default">gypsy-devel</packagereq>
       <packagereq type="default">hesiod-devel</packagereq>
       <packagereq type="default">krb5-devel</packagereq>
       <packagereq type="default">libacl-devel</packagereq>
@@ -2219,6 +2223,7 @@
       <packagereq type="optional">firmware-addon-dell</packagereq>
       <packagereq type="optional">gpsd</packagereq>
       <packagereq type="optional">gpsd-clients</packagereq>
+      <packagereq type="optional">gypsy</packagereq>
       <packagereq type="optional">hddtemp</packagereq>
       <packagereq type="optional">i8kutils</packagereq>
       <packagereq type="optional">libifp</packagereq>
@@ -4006,6 +4011,7 @@
       <packagereq type="optional">fwbuilder</packagereq>
       <packagereq type="optional">fwrestart</packagereq>
       <packagereq type="optional">ganglia</packagereq>
+      <packagereq type="optional">geoclue</packagereq>
       <packagereq type="optional">ghasher</packagereq>
       <packagereq type="optional">ghex</packagereq>
       <packagereq type="optional">gkrellm</packagereq>
@@ -4013,8 +4019,10 @@
       <packagereq type="optional">gnome-nettool</packagereq>
       <packagereq type="optional">gnutls-utils</packagereq>
       <packagereq type="optional">grepmail</packagereq>
+      <packagereq type="optional">gssdp</packagereq>
       <packagereq type="optional">gtklp</packagereq>
       <packagereq type="optional">gtkterm</packagereq>
+      <packagereq type="optional">gupnp</packagereq>
       <packagereq type="optional">gxemul</packagereq>
       <packagereq type="optional">hercules</packagereq>
       <packagereq type="optional">hfsplus-tools</packagereq>
