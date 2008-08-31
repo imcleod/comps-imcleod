@@ -737,8 +737,10 @@
       <packagereq type="default">dbus-devel</packagereq>
       <packagereq type="default">expat-devel</packagereq>
       <packagereq type="default">gdbm-devel</packagereq>
+      <packagereq type="default">geoclue-devel</packagereq>
       <packagereq type="default">gmp-devel</packagereq>
       <packagereq type="default">gpm-devel</packagereq>
+      <packagereq type="default">gypsy-devel</packagereq>
       <packagereq type="default">hesiod-devel</packagereq>
       <packagereq type="default">krb5-devel</packagereq>
       <packagereq type="default">libacl-devel</packagereq>
@@ -2201,6 +2203,7 @@
       <packagereq type="optional">firmware-addon-dell</packagereq>
       <packagereq type="optional">gpsd</packagereq>
       <packagereq type="optional">gpsd-clients</packagereq>
+      <packagereq type="optional">gypsy</packagereq>
       <packagereq type="optional">hddtemp</packagereq>
       <packagereq type="optional">i8kutils</packagereq>
       <packagereq type="optional">libifp</packagereq>
@@ -3843,6 +3846,7 @@
       <packagereq type="optional">fwbuilder</packagereq>
       <packagereq type="optional">fwrestart</packagereq>
       <packagereq type="optional">ganglia</packagereq>
+      <packagereq type="optional">geoclue</packagereq>
       <packagereq type="optional">ghasher</packagereq>
       <packagereq type="optional">ghex</packagereq>
       <packagereq type="optional">gkrellm</packagereq>
