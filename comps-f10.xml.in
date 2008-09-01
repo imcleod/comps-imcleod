@@ -523,6 +523,17 @@
     </packagelist>
   </group>
   <group>
+    <id>burmese-support</id>
+    <_name>Burmese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>my</langonly>
+    <packagelist>
+      <packagereq type="default">padauk-fonts</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>catalan-support</id>
     <_name>Catalan Support</_name>
     <_description/>
@@ -571,12 +582,15 @@
       <packagereq type="default">taipeifonts</packagereq>
       <packagereq type="default">wqy-bitmap-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
+      <packagereq type="optional">ibus-chewing</packagereq>
       <packagereq type="optional">ibus-pinyin</packagereq>
+      <packagereq type="optional">ibus-table-chinese</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-chinese</packagereq>
       <packagereq type="optional">scim-array</packagereq>
       <packagereq type="optional">scim-fcitx</packagereq>
       <packagereq type="optional">scim-pinyin</packagereq>
+      <packagereq type="optional">scim-tables-chinese-extra</packagereq>
       <packagereq type="optional">stardict-dic-zh_CN</packagereq>
       <packagereq type="optional">stardict-dic-zh_TW</packagereq>
       <packagereq type="optional">wqy-unibit-fonts</packagereq>
@@ -1356,6 +1370,7 @@
       <packagereq type="default">lohit-fonts-punjabi</packagereq>
       <packagereq type="default">lohit-fonts-tamil</packagereq>
       <packagereq type="default">lohit-fonts-telugu</packagereq>
+      <packagereq type="default">padauk-fonts</packagereq>
       <packagereq type="default">paktype-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thaifonts-scalable</packagereq>
@@ -1369,6 +1384,7 @@
       <packagereq type="optional">brettfont-fonts</packagereq>
       <packagereq type="optional">charis-fonts</packagereq>
       <packagereq type="optional">cjkunifonts-ukai</packagereq>
+      <packagereq type="optional">darkgarden-fonts</packagereq>
       <packagereq type="optional">dejavu-lgc-fonts</packagereq>
       <packagereq type="optional">doulos-fonts</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
@@ -1407,6 +1423,8 @@
       <packagereq type="optional">madan-fonts</packagereq>
       <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">mgopen-fonts</packagereq>
+      <packagereq type="optional">mona-fonts-sazanami</packagereq>
+      <packagereq type="optional">mona-fonts-VLGothic</packagereq>
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">roadstencil-fonts</packagereq>
       <packagereq type="optional">samyak-fonts-devanagari</packagereq>
@@ -1418,15 +1436,22 @@
       <packagereq type="optional">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">sazanami-fonts-mincho</packagereq>
       <packagereq type="optional">silkscreen-fonts</packagereq>
+      <packagereq type="optional">smc-fonts-anjalioldlipi</packagereq>
       <packagereq type="optional">smc-fonts-dyuthi</packagereq>
+      <packagereq type="optional">smc-fonts-kalyani</packagereq>
       <packagereq type="optional">smc-fonts-meera</packagereq>
       <packagereq type="optional">smc-fonts-rachana</packagereq>
       <packagereq type="optional">smc-fonts-raghumalayalam</packagereq>
       <packagereq type="optional">smc-fonts-suruma</packagereq>
+      <packagereq type="optional">sportrop-fonts</packagereq>
       <packagereq type="optional">stix-fonts-integrals</packagereq>
       <packagereq type="optional">stix-fonts-pua</packagereq>
       <packagereq type="optional">stix-fonts-sizes</packagereq>
       <packagereq type="optional">stix-fonts-variants</packagereq>
+      <packagereq type="optional">thibault-fonts-essays1743</packagereq>
+      <packagereq type="optional">thibault-fonts-isabella</packagereq>
+      <packagereq type="optional">thibault-fonts-rockets</packagereq>
+      <packagereq type="optional">thibault-fonts-staypuft</packagereq>
       <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
       <packagereq type="optional">tiresias-fonts</packagereq>
       <packagereq type="optional">VLGothic-fonts-proportional</packagereq>
@@ -2389,10 +2414,15 @@
       <packagereq type="optional">gok</packagereq>
       <packagereq type="optional">ibus</packagereq>
       <packagereq type="optional">ibus-anthy</packagereq>
+      <packagereq type="optional">ibus-chewing</packagereq>
       <packagereq type="optional">ibus-gtk</packagereq>
+      <packagereq type="optional">ibus-hangul</packagereq>
       <packagereq type="optional">ibus-m17n</packagereq>
       <packagereq type="optional">ibus-pinyin</packagereq>
       <packagereq type="optional">ibus-qt</packagereq>
+      <packagereq type="optional">ibus-table</packagereq>
+      <packagereq type="optional">ibus-table-additional</packagereq>
+      <packagereq type="optional">ibus-table-chinese</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">m17n-contrib-esperanto</packagereq>
       <packagereq type="optional">m17n-contrib-nepali</packagereq>
@@ -2455,6 +2485,7 @@
       <packagereq type="optional">scim-tables-amharic</packagereq>
       <packagereq type="optional">scim-tables-arabic</packagereq>
       <packagereq type="optional">scim-tables-chinese</packagereq>
+      <packagereq type="optional">scim-tables-chinese-extra</packagereq>
       <packagereq type="optional">scim-tables-nepali</packagereq>
       <packagereq type="optional">scim-tables-russian</packagereq>
       <packagereq type="optional">scim-tables-thai</packagereq>
@@ -2560,6 +2591,9 @@
       <packagereq type="optional">mecab-jumandic</packagereq>
       <packagereq type="optional">mfiler2</packagereq>
       <packagereq type="optional">migemo</packagereq>
+      <packagereq type="optional">mona-fonts-bitmap</packagereq>
+      <packagereq type="optional">mona-fonts-sazanami</packagereq>
+      <packagereq type="optional">mona-fonts-VLGothic</packagereq>
       <packagereq type="optional">nkf</packagereq>
       <packagereq type="optional">oniguruma</packagereq>
       <packagereq type="optional">perl-NKF</packagereq>
@@ -2902,6 +2936,7 @@
       <packagereq type="default">baekmuk-ttf-fonts-batang</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-dotum</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-hline</packagereq>
+      <packagereq type="optional">ibus-hangul</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-korean</packagereq>
       <packagereq type="optional">nabi</packagereq>
@@ -2964,6 +2999,7 @@
       <packagereq type="optional">jisksp16-1990-fonts</packagereq>
       <packagereq type="optional">knm_new-fonts</packagereq>
       <packagereq type="optional">libdockapp-fonts</packagereq>
+      <packagereq type="optional">mona-fonts-bitmap</packagereq>
       <packagereq type="optional">taipeifonts</packagereq>
       <packagereq type="optional">terminus-font-console</packagereq>
       <packagereq type="optional">terminus-font-x11</packagereq>
@@ -3135,7 +3171,9 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-malayalam</packagereq>
       <packagereq type="default">lohit-fonts-malayalam</packagereq>
       <packagereq type="default">samyak-fonts-malayalam</packagereq>
+      <packagereq type="default">smc-fonts-anjalioldlipi</packagereq>
       <packagereq type="default">smc-fonts-dyuthi</packagereq>
+      <packagereq type="default">smc-fonts-kalyani</packagereq>
       <packagereq type="default">smc-fonts-rachana</packagereq>
       <packagereq type="default">smc-fonts-raghumalayalam</packagereq>
       <packagereq type="default">smc-fonts-suruma</packagereq>
