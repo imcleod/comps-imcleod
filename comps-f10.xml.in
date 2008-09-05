@@ -524,7 +524,7 @@
   </group>
   <group>
     <id>burmese-support</id>
-    <_name>Burmese Support</_name>
+    <_name>Myanmar (Burmese) Support</_name>
     <_description/>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -1352,7 +1352,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">abyssinica-fonts</packagereq>
-      <packagereq type="default">baekmuk-ttf-fonts-gulim</packagereq>
       <packagereq type="default">cjkunifonts-uming</packagereq>
       <packagereq type="default">dejavu-fonts</packagereq>
       <packagereq type="default">dejavu-fonts-experimental</packagereq>
@@ -1374,11 +1373,13 @@
       <packagereq type="default">paktype-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thaifonts-scalable</packagereq>
+      <packagereq type="default">un-core-fonts-dotum</packagereq>
       <packagereq type="default">VLGothic-fonts</packagereq>
       <packagereq type="optional">andika-fonts</packagereq>
       <packagereq type="optional">asana-math-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-dotum</packagereq>
+      <packagereq type="optional">baekmuk-ttf-fonts-gulim</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-hline</packagereq>
       <packagereq type="optional">bitstream-vera-fonts</packagereq>
       <packagereq type="optional">brettfont-fonts</packagereq>
@@ -1454,6 +1455,11 @@
       <packagereq type="optional">thibault-fonts-staypuft</packagereq>
       <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
       <packagereq type="optional">tiresias-fonts</packagereq>
+      <packagereq type="optional">un-core-fonts-batang</packagereq>
+      <packagereq type="optional">un-core-fonts-dinaru</packagereq>
+      <packagereq type="optional">un-core-fonts-graphic</packagereq>
+      <packagereq type="optional">un-core-fonts-gungseo</packagereq>
+      <packagereq type="optional">un-core-fonts-pilgi</packagereq>
       <packagereq type="optional">VLGothic-fonts-proportional</packagereq>
       <packagereq type="optional">wqy-zenhei-fonts</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
@@ -2924,7 +2930,7 @@
     <uservisible>false</uservisible>
     <langonly>ko</langonly>
     <packagelist>
-      <packagereq type="mandatory">baekmuk-ttf-fonts-gulim</packagereq>
+      <packagereq type="mandatory">un-core-fonts-dotum</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Korean</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Korean</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-ko</packagereq>
@@ -2935,7 +2941,13 @@
       <packagereq type="default">baekmuk-bdf-fonts</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-batang</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-dotum</packagereq>
+      <packagereq type="default">baekmuk-ttf-fonts-gulim</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-hline</packagereq>
+      <packagereq type="default">un-core-fonts-batang</packagereq>
+      <packagereq type="default">un-core-fonts-dinaru</packagereq>
+      <packagereq type="default">un-core-fonts-graphic</packagereq>
+      <packagereq type="default">un-core-fonts-gungseo</packagereq>
+      <packagereq type="default">un-core-fonts-pilgi</packagereq>
       <packagereq type="optional">ibus-hangul</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-korean</packagereq>
