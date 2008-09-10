@@ -9,6 +9,9 @@ po: $(XMLINFILES)
 clean:
 	@rm -fv *~ *.xml
 
+validate: $(FILES) comps.rng
+	for f in $(FILES); do xmllint --noout --relaxng comps.rng $$f; done
+
 %.xml: %.xml.in
 	@python -c 'import libxml2; libxml2.parseFile("$<")'
 	@if test ".$(CLEANUP)" == .yes; then xsltproc --novalid -o $< comps-cleanup.xsl $<; fi
