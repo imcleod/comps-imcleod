@@ -4951,6 +4951,7 @@
     <package name="geomview" arch="i386" />
     <package name="gnome-panel" arch="i386" />
     <package name="nas" arch="i386" />
+    <package name="NetworkManager" arch="i386" />
     <package name="perl" arch="i386" />
     <package name="e2fsprogs" arch="ppc64" />
     <package name="hal" arch="ppc64" />
@@ -4974,6 +4975,7 @@
     <package name="geomview" arch="ppc64" />
     <package name="gnome-panel" arch="ppc64" />
     <package name="nas" arch="ppc64" />
+    <package name="NetworkManager" arch="ppc64" />
   </blacklist>
   <whiteout>
     <ignoredep package="pango-gtkbeta-devel" requires="pango-gtkbeta" />
