@@ -9,8 +9,8 @@ po: $(XMLINFILES)
 clean:
 	@rm -fv *~ *.xml
 
-validate: $(FILES) comps.rng
-	for f in $(FILES); do xmllint --noout --relaxng comps.rng $$f; done
+validate: $(XMLFILES) comps.rng
+	for f in $(XMLFILES); do xmllint --noout --relaxng comps.rng $$f; done
 
 %.xml: %.xml.in
 	@python -c 'import libxml2; libxml2.parseFile("$<")'
