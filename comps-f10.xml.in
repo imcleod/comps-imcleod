@@ -1365,6 +1365,7 @@
       <packagereq type="default">lohit-fonts-gujarati</packagereq>
       <packagereq type="default">lohit-fonts-hindi</packagereq>
       <packagereq type="default">lohit-fonts-kannada</packagereq>
+      <packagereq type="default">lohit-fonts-maithili</packagereq>
       <packagereq type="default">lohit-fonts-malayalam</packagereq>
       <packagereq type="default">lohit-fonts-oriya</packagereq>
       <packagereq type="default">lohit-fonts-punjabi</packagereq>
@@ -2218,6 +2219,7 @@
       <packagereq type="mandatory">m17n-contrib-gujarati</packagereq>
       <packagereq type="mandatory">m17n-db-gujarati</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-gu</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-gu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-gu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-gu_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-gujarati</packagereq>
@@ -2366,6 +2368,7 @@
     <langonly>is</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-is</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-is</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Icelandic</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-is</packagereq>
     </packagelist>
@@ -2380,6 +2383,7 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-id</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-id</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-id</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-id</packagereq>
     </packagelist>
   </group>
@@ -3189,6 +3193,8 @@
       <packagereq type="mandatory">m17n-contrib-malayalam</packagereq>
       <packagereq type="mandatory">m17n-db-malayalam</packagereq>
       <packagereq type="mandatory">smc-fonts-meera</packagereq>
+      <packagereq type="conditional" requires="aspell">aspell-ml</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-ml</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ml</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ml_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-malayalam</packagereq>
@@ -3654,7 +3660,9 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-sr</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-sr</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-sr</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Serbian</packagereq>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-Serbian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr-Latn</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sr_cr</packagereq>
@@ -4214,6 +4222,7 @@
       <packagereq type="conditional" requires="aspell">aspell-ta</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ta</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Tamil</packagereq>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-Tamil</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ta</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ta_lk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ta_IN</packagereq>
@@ -4401,6 +4410,17 @@
     </packagelist>
   </group>
   <group>
+    <id>uzbek-support</id>
+    <_name>Uzbek Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>uz</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="moodle">moodle-uz</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>venda-support</id>
     <_name>Venda Support</_name>
     <_description/>
@@ -4539,6 +4559,7 @@
       <packagereq type="conditional" requires="aspell">aspell-cy</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-cy</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-cy</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-cy</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-cy_GB</packagereq>
     </packagelist>
   </group>
@@ -4797,6 +4818,7 @@
       <groupid>lithuanian-support</groupid>
       <groupid>low-saxon-support</groupid>
       <groupid>macedonian-support</groupid>
+      <groupid>maithili-support</groupid>
       <groupid>malay-support</groupid>
       <groupid>malayalam-support</groupid>
       <groupid>maori-support</groupid>
@@ -4836,6 +4858,7 @@
       <groupid>turkish-support</groupid>
       <groupid>ukrainian-support</groupid>
       <groupid>urdu-support</groupid>
+      <groupid>uzbek-support</groupid>
       <groupid>venda-support</groupid>
       <groupid>vietnamese-support</groupid>
       <groupid>walloon-support</groupid>
