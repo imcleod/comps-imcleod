@@ -120,7 +120,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="conditional" requires="texlive">tetex-eurofont</packagereq>
       <packagereq type="conditional" requires="texlive">tetex-font-cm-lgc</packagereq>
       <packagereq type="default">docbook-slides</packagereq>
       <packagereq type="default">docbook-style-dsssl</packagereq>
