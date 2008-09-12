@@ -180,7 +180,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
       <packagereq type="default">acpid</packagereq>
       <packagereq type="default">anacron</packagereq>
-      <packagereq type="default">bluez-utils</packagereq>
+      <packagereq type="default">bluez</packagereq>
       <packagereq type="default">ccid</packagereq>
       <packagereq type="default">coolkey</packagereq>
       <packagereq type="default">cpuspeed</packagereq>
@@ -3549,7 +3549,7 @@
       <packagereq type="mandatory">cups</packagereq>
       <packagereq type="mandatory">ghostscript</packagereq>
       <packagereq type="default">a2ps</packagereq>
-      <packagereq type="default">bluez-utils-cups</packagereq>
+      <packagereq type="default">bluez-cups</packagereq>
       <packagereq type="default">enscript</packagereq>
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-foomatic</packagereq>
@@ -3780,7 +3780,7 @@
       <packagereq type="mandatory">vorbis-tools</packagereq>
       <packagereq type="conditional" requires="xine-lib">xine-lib-pulseaudio</packagereq>
       <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
-      <packagereq type="default">bluez-utils-alsa</packagereq>
+      <packagereq type="default">bluez-alsa</packagereq>
       <packagereq type="default">cdparanoia</packagereq>
       <packagereq type="default">codeina</packagereq>
       <packagereq type="default">genisoimage</packagereq>
