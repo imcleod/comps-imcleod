@@ -1422,6 +1422,12 @@
       <packagereq type="optional">khmeros-fonts-muol</packagereq>
       <packagereq type="optional">khmeros-fonts-siemreap</packagereq>
       <packagereq type="optional">linux-libertine-fonts</packagereq>
+      <packagereq type="optional">lohit-fonts-kashmiri</packagereq>
+      <packagereq type="optional">lohit-fonts-konkani</packagereq>
+      <packagereq type="optional">lohit-fonts-maithili</packagereq>
+      <packagereq type="optional">lohit-fonts-marathi</packagereq>
+      <packagereq type="optional">lohit-fonts-nepali</packagereq>
+      <packagereq type="optional">lohit-fonts-sindhi</packagereq>
       <packagereq type="optional">madan-fonts</packagereq>
       <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">mgopen-fonts</packagereq>
@@ -2772,6 +2778,17 @@
     </packagelist>
   </group>
   <group>
+    <id>kashmiri-support</id>
+    <_name>Kashmiri Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ks</langonly>
+    <packagelist>
+      <packagereq type="mandatory">lohit-fonts-kashmiri</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>kashubian-support</id>
     <_name>Kashubian Support</_name>
     <_description/>
@@ -2923,6 +2940,17 @@
       <packagereq type="default">khmeros-fonts-muol</packagereq>
       <packagereq type="default">khmeros-fonts-siemreap</packagereq>
       <packagereq type="optional">m17n-db-khmer</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>konkani-support</id>
+    <_name>Konkani Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>kok</langonly>
+    <packagelist>
+      <packagereq type="mandatory">lohit-fonts-konkani</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3278,7 +3306,7 @@
     <uservisible>false</uservisible>
     <langonly>ne</langonly>
     <packagelist>
-      <packagereq type="mandatory">lohit-fonts-hindi</packagereq>
+      <packagereq type="mandatory">lohit-fonts-nepali</packagereq>
       <packagereq type="mandatory">m17n-contrib-nepali</packagereq>
       <packagereq type="mandatory">madan-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ne</packagereq>
@@ -3689,6 +3717,18 @@
       <packagereq type="default">system-config-services</packagereq>
       <packagereq type="optional">system-config-bind</packagereq>
       <packagereq type="optional">system-switch-mail-gnome</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>sindhi-support</id>
+    <_name>Sindhi Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>sd</langonly>
+    <packagelist>
+      <packagereq type="mandatory">lohit-fonts-sindhi</packagereq>
+      <packagereq type="mandatory">m17n-contrib-sindhi</packagereq>
     </packagelist>
   </group>
   <group>
