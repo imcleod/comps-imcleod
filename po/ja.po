@@ -1,4 +1,4 @@
-# translation of ja.po to Japanese
+# translation of comps.HEAD.ja.po to Japanese
 # coms-po Japanese translation
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) Red Hat Inc.2002
@@ -9,12 +9,12 @@
 # Kiyoto Hashida <khashida@redhat.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: ja\n"
+"Project-Id-Version: comps.HEAD.ja\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-09-17 15:43-0700\n"
-"PO-Revision-Date: 2008-09-09 19:23+1000\n"
-"Last-Translator: Noriko Mizumoto <noriko@redhat.com>\n"
-"Language-Team: Japanese <fedora-trans-ja@redhat.com>\n"
+"POT-Creation-Date: 2008-09-24 03:30+0000\n"
+"PO-Revision-Date: 2008-09-24 17:32+1000\n"
+"Last-Translator: Kiyoto Hashida <khashida@redhat.com>\n"
+"Language-Team: Japanese <jp@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -404,16 +404,14 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:74 ../comps-f8.xml.in.h:77 ../comps-f9.xml.in.h:78
 #: ../comps-f10.xml.in.h:81
-msgid ""
-"Install these tools to enable the system to print or act as a print server."
+msgid "Install these tools to enable the system to print or act as a print server."
 msgstr ""
 "システムを印刷可能にする、またはプリントサーバーとして稼動させるには、これら"
 "のツールをインストールしてください。"
 
 #: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:78 ../comps-f9.xml.in.h:79
 #: ../comps-f10.xml.in.h:82 ../comps-el4.xml.in.h:29 ../comps-el5.xml.in.h:31
-msgid ""
-"Install this group of packages to use the base graphical (X) user interface."
+msgid "Install this group of packages to use the base graphical (X) user interface."
 msgstr ""
 "基本的なグラフィカル (X) ユーザーインターフェースを使用するには、このパッケー"
 "ジグループをインストールしてください。"
@@ -651,8 +649,7 @@ msgstr "サーバー"
 
 #: ../comps-f7.xml.in.h:121 ../comps-f8.xml.in.h:130 ../comps-f9.xml.in.h:136
 #: ../comps-f10.xml.in.h:143 ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:42
-msgid ""
-"Simple window managers that aren't part of a larger desktop environment."
+msgid "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
 "規模の大きいデスクトップ環境とは独立しているシンプルなウィンドウマネージャで"
 "す。"
@@ -779,8 +776,7 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:145 ../comps-f8.xml.in.h:153 ../comps-f9.xml.in.h:159
 #: ../comps-f10.xml.in.h:169
-msgid ""
-"The packages in this group are core libraries needed to develop applications."
+msgid "The packages in this group are core libraries needed to develop applications."
 msgstr ""
 "このグループのパッケージ群はアプリケーションの開発に必要なコアライブラリで"
 "す。"
@@ -792,21 +788,17 @@ msgstr "これらのパッケージで、IMAP か SMTP メールサーバーを�
 
 #: ../comps-f7.xml.in.h:147 ../comps-f8.xml.in.h:155 ../comps-f9.xml.in.h:161
 #: ../comps-f10.xml.in.h:171
-msgid ""
-"These packages allow you to develop applications for the X Window System."
-msgstr ""
-"これらのパッケージで X Window System 用のアプリケーションを開発できます。"
+msgid "These packages allow you to develop applications for the X Window System."
+msgstr "これらのパッケージで X Window System 用のアプリケーションを開発できます。"
 
 #: ../comps-f7.xml.in.h:148 ../comps-f8.xml.in.h:156 ../comps-f9.xml.in.h:162
 #: ../comps-f10.xml.in.h:172 ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:51
-msgid ""
-"These packages are helpful when developing web applications or web pages."
+msgid "These packages are helpful when developing web applications or web pages."
 msgstr "ウェブアプリケーションやウェブページの開発に役立つパッケージです。"
 
 #: ../comps-f7.xml.in.h:149 ../comps-f8.xml.in.h:157 ../comps-f9.xml.in.h:163
 #: ../comps-f10.xml.in.h:173
-msgid ""
-"These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgid "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr ""
 "これらのパッケージには、DHCP、Kerberos、NIS などの ネットワークベースのサー"
 "バーが含まれています。"
@@ -851,14 +843,12 @@ msgstr ""
 #: ../comps-f7.xml.in.h:155 ../comps-f8.xml.in.h:163 ../comps-f9.xml.in.h:169
 #: ../comps-f10.xml.in.h:179 ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:53
 msgid "These tools allow you to run a Web server on the system."
-msgstr ""
-"これらのツールを使用するとシステムで Web サーバーを稼動することができます。"
+msgstr "これらのツールを使用するとシステムで Web サーバーを稼動することができます。"
 
 #: ../comps-f7.xml.in.h:156 ../comps-f8.xml.in.h:164 ../comps-f9.xml.in.h:170
 #: ../comps-f10.xml.in.h:180 ../comps-el4.xml.in.h:56 ../comps-el5.xml.in.h:54
 msgid "These tools allow you to run an FTP server on the system."
-msgstr ""
-"これらのツールを使用するとシステムで FTP サーバーを稼動することができます。"
+msgstr "これらのツールを使用するとシステムで FTP サーバーを稼動することができます。"
 
 #: ../comps-f7.xml.in.h:157 ../comps-f8.xml.in.h:165 ../comps-f9.xml.in.h:171
 #: ../comps-f10.xml.in.h:181 ../comps-el4.xml.in.h:57 ../comps-el5.xml.in.h:55
@@ -911,8 +901,7 @@ msgstr ""
 #: ../comps-f7.xml.in.h:163 ../comps-f8.xml.in.h:171 ../comps-f9.xml.in.h:177
 #: ../comps-f10.xml.in.h:187 ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:59
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr ""
-"このグループにはイメージの処理とスキャンに役立つパッケージが含まれています。"
+msgstr "このグループにはイメージの処理とスキャンに役立つパッケージが含まれています。"
 
 #: ../comps-f7.xml.in.h:164 ../comps-f8.xml.in.h:172 ../comps-f9.xml.in.h:178
 #: ../comps-f10.xml.in.h:188 ../comps-el4.xml.in.h:62 ../comps-el5.xml.in.h:60
@@ -934,16 +923,13 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:166 ../comps-f8.xml.in.h:174 ../comps-f9.xml.in.h:180
 #: ../comps-f10.xml.in.h:190 ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:64
-msgid ""
-"This group is a collection of tools and resources of Armenian environments."
+msgid "This group is a collection of tools and resources of Armenian environments."
 msgstr "このグループはアルメニア語環境のツール及びリソースの集合です。"
 
 #: ../comps-f7.xml.in.h:167 ../comps-f8.xml.in.h:175 ../comps-f9.xml.in.h:181
 #: ../comps-f10.xml.in.h:191 ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:68
-msgid ""
-"This group is a collection of tools for various hardware specific utilities."
-msgstr ""
-"このグループは各種ハードウェア固有のユーティリティ用のツールの集合です。"
+msgid "This group is a collection of tools for various hardware specific utilities."
+msgstr "このグループは各種ハードウェア固有のユーティリティ用のツールの集合です。"
 
 #: ../comps-f7.xml.in.h:168 ../comps-f8.xml.in.h:176 ../comps-f9.xml.in.h:182
 #: ../comps-f10.xml.in.h:192 ../comps-el4.xml.in.h:70 ../comps-el5.xml.in.h:69
@@ -956,8 +942,7 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:169 ../comps-f8.xml.in.h:177 ../comps-f9.xml.in.h:183
 #: ../comps-f10.xml.in.h:193
-msgid ""
-"This package group allows you to run a DNS name server (BIND) on the system."
+msgid "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr ""
 "このパッケージグループを使用するとシステムで DNS ネームサーバー (BIND) を稼動"
 "できます。"
@@ -1174,9 +1159,8 @@ msgid "Walloon Support"
 msgstr "ワロン語のサポート"
 
 #: ../comps-f10.xml.in.h:70
-#, fuzzy
 msgid "Haskell Development"
-msgstr "ウェブ開発"
+msgstr "Haskell 開発"
 
 #: ../comps-f10.xml.in.h:76
 msgid "Input Methods"
@@ -1187,42 +1171,36 @@ msgid "Input method packages for the input of international text."
 msgstr "さまざまな言語によるテキスト入力用の入力メソッドパッケージです。"
 
 #: ../comps-f10.xml.in.h:94
-#, fuzzy
 msgid "Kashmiri Support"
-msgstr "クメール語のサポート"
+msgstr "カシミール語のサポート"
 
 #: ../comps-f10.xml.in.h:97
-#, fuzzy
 msgid "Konkani Support"
-msgstr "韓国語のサポート"
+msgstr "コンカニ語のサポート"
 
 #: ../comps-f10.xml.in.h:110
-#, fuzzy
 msgid "Maithili Support"
-msgstr "マラーティー語のサポート"
+msgstr "マイチリ語のサポート"
 
 #: ../comps-f10.xml.in.h:117
 msgid "Myanmar (Burmese) Support"
 msgstr "ミャンマー (ビルマ) 語のサポート"
 
 #: ../comps-f10.xml.in.h:144
-#, fuzzy
 msgid "Sindhi Support"
-msgstr "ヒンディー語のサポート"
+msgstr "シンディ語のサポート"
 
 #: ../comps-f10.xml.in.h:156
-#, fuzzy
 msgid "Support for developing programs in the Haskell programming language."
-msgstr "Java プログラミング言語のプログラム開発サポート"
+msgstr "Haskell プログラミング言語のプログラム開発サポート"
 
 #: ../comps-f10.xml.in.h:163
 msgid "Tajik Support"
 msgstr "タジク語のサポート"
 
 #: ../comps-f10.xml.in.h:205
-#, fuzzy
 msgid "Uzbek Support"
-msgstr "チェコ語のサポート"
+msgstr "ウズベク語のサポート"
 
 #: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
 msgid "Applications for a variety of tasks"
@@ -1273,18 +1251,15 @@ msgid "This group is a collection of network servers for specific purposes"
 msgstr "このグループは特殊な目的を持ったネットワークサーバーの集合です。"
 
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
-msgid ""
-"This group is a collection of tools and resources of Arabic environments."
+msgid "This group is a collection of tools and resources of Arabic environments."
 msgstr "このグループはアラビア語環境のツール及びリソースの集合です。"
 
 #: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:66
-msgid ""
-"This group is a collection of tools and resources of Hebrew environments."
+msgid "This group is a collection of tools and resources of Hebrew environments."
 msgstr "このグループはヘブライ語環境のツール及びリソースの集合です。"
 
 #: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
-msgid ""
-"This group is a collection of tools and resources of Japanese environments."
+msgid "This group is a collection of tools and resources of Japanese environments."
 msgstr "このグループは日本語語環境のツール及びリソースの集合です。"
 
 #: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:77
@@ -1292,9 +1267,6 @@ msgid "XEmacs"
 msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:65
-msgid ""
-"This group is a collection of tools and resources of Czech environments."
+msgid "This group is a collection of tools and resources of Czech environments."
 msgstr "このグループはチェコ語環境のツール及びリソースの集合です。"
 
-#~ msgid "Haskell"
-#~ msgstr "Haskell"
