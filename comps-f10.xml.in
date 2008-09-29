@@ -70,6 +70,7 @@
     <langonly>ar</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-ar</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ar</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-ar</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ar</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Arabic</packagereq>
@@ -435,6 +436,7 @@
     <langonly>pt_BR</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-pt</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-pt_BR</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-pt</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Brazil</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Brazil</packagereq>
@@ -509,6 +511,7 @@
     <langonly>bg</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-bg</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-bg</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-bg</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Bulgarian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Bulgarian</packagereq>
@@ -559,6 +562,8 @@
     <packagelist>
       <packagereq type="mandatory">cjkunifonts-ukai</packagereq>
       <packagereq type="mandatory">cjkunifonts-uming</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh_TW</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese-Big5</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Chinese</packagereq>
@@ -687,6 +692,7 @@
     <langonly>cs</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-cs</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-cs</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-cs</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-cs</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-cs</packagereq>
@@ -710,6 +716,7 @@
     <langonly>da</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-da</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-da</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-da</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-da</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Danish</packagereq>
@@ -1010,6 +1017,7 @@
     <langonly>nl</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-nl</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-nl</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-nl</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-nl</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Dutch</packagereq>
@@ -1337,6 +1345,7 @@
     <uservisible>false</uservisible>
     <langonly>fi</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-fi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-fi</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Finnish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Finnish</packagereq>
@@ -1487,6 +1496,7 @@
     <langonly>fr</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-fr</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-fr</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-fr</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-fr</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-French</packagereq>
@@ -1802,6 +1812,7 @@
     <langonly>de</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-de</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-de</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-de</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-de</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-German</packagereq>
@@ -2191,6 +2202,7 @@
     <langonly>el</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-el</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-el</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-el</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-el</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Greek</packagereq>
@@ -2320,6 +2332,7 @@
     <packagelist>
       <packagereq type="mandatory">dejavu-fonts</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-he</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-he</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-he</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Hebrew</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-he</packagereq>
@@ -2363,6 +2376,7 @@
     <langonly>hu</langonly>
     <packagelist>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-hu</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-hu</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-hu</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Hungarian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Hungarian</packagereq>
@@ -2564,6 +2578,7 @@
     <langonly>it</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-it</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-it</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-it</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-it</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Italian</packagereq>
@@ -2585,6 +2600,7 @@
     <langonly>ja</langonly>
     <packagelist>
       <packagereq type="mandatory">VLGothic-fonts</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ja</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Japanese</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Japanese</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ja</packagereq>
@@ -2974,6 +2990,7 @@
     <langonly>ko</langonly>
     <packagelist>
       <packagereq type="mandatory">un-core-fonts-dotum</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ko</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Korean</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Korean</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-ko</packagereq>
@@ -3422,6 +3439,7 @@
     <langonly>nb</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-no</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-no</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-nb</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-nb</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-nn</packagereq>
@@ -3551,6 +3569,7 @@
     <langonly>pl</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-pl</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-pl</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-pl</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Polish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Polish</packagereq>
@@ -3573,6 +3592,7 @@
     <langonly>pt</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-pt</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-pt</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-pt</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-pt</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Portuguese</packagereq>
@@ -3632,6 +3652,7 @@
     <langonly>ro</langonly>
     <packagelist>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Romanian</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ro</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ro</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
@@ -3661,6 +3682,7 @@
     <langonly>ru</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-ru</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ru</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-ru</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ru</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Russian</packagereq>
@@ -3975,6 +3997,7 @@
     <langonly>es</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-es</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-es</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-es</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-es</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Spanish</packagereq>
@@ -4050,6 +4073,7 @@
     <langonly>sv</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-sv</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-sv</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-sv</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-sv</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Swedish</packagereq>
@@ -4423,6 +4447,7 @@
     <uservisible>false</uservisible>
     <langonly>tr</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-tr</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-tr</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Turkish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Turkish</packagereq>
@@ -4441,6 +4466,7 @@
     <uservisible>false</uservisible>
     <langonly>uk</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-uk</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Ukrainian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Ukrainian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-uk</packagereq>
