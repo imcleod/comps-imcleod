@@ -29,6 +29,7 @@
       <packagereq type="optional">lat</packagereq>
       <packagereq type="optional">lshw-gui</packagereq>
       <packagereq type="optional">luma</packagereq>
+      <packagereq type="optional">ntop</packagereq>
       <packagereq type="optional">opyum</packagereq>
       <packagereq type="optional">pessulus</packagereq>
       <packagereq type="optional">qtparted</packagereq>
@@ -147,6 +148,7 @@
       <packagereq type="optional">scribus</packagereq>
       <packagereq type="optional">tetex-prosper</packagereq>
       <packagereq type="optional">tetex-xdvi</packagereq>
+      <packagereq type="optional">txt2rss</packagereq>
       <packagereq type="optional">w3c-markup-validator</packagereq>
       <packagereq type="optional">xmlcopyeditor</packagereq>
     </packagelist>
@@ -849,6 +851,7 @@
       <packagereq type="optional">codeblocks</packagereq>
       <packagereq type="optional">cogito</packagereq>
       <packagereq type="optional">colordiff</packagereq>
+      <packagereq type="optional">coredumper</packagereq>
       <packagereq type="optional">cpan2rpm</packagereq>
       <packagereq type="optional">cpanspec</packagereq>
       <packagereq type="optional">cpan-upload</packagereq>
@@ -1148,6 +1151,7 @@
       <packagereq type="optional">geomview</packagereq>
       <packagereq type="optional">gerbv</packagereq>
       <packagereq type="optional">ghdl</packagereq>
+      <packagereq type="optional">ginac</packagereq>
       <packagereq type="optional">GMT</packagereq>
       <packagereq type="optional">GMT-coastlines-all</packagereq>
       <packagereq type="optional">GMT-coastlines-full</packagereq>
@@ -1194,6 +1198,7 @@
       <packagereq type="optional">octave</packagereq>
       <packagereq type="optional">octave-forge</packagereq>
       <packagereq type="optional">openbabel</packagereq>
+      <packagereq type="optional">opencv</packagereq>
       <packagereq type="optional">orpie</packagereq>
       <packagereq type="optional">osiv</packagereq>
       <packagereq type="optional">paraview</packagereq>
@@ -1906,6 +1911,7 @@
       <packagereq type="optional">file-browser-applet</packagereq>
       <packagereq type="optional">gconf-editor</packagereq>
       <packagereq type="optional">gdesklets</packagereq>
+      <packagereq type="optional">gedit-plugins</packagereq>
       <packagereq type="optional">gimmie</packagereq>
       <packagereq type="optional">glipper</packagereq>
       <packagereq type="optional">glunarclock</packagereq>
@@ -3217,6 +3223,7 @@
       <packagereq type="optional">spambayes</packagereq>
       <packagereq type="optional">sqlgrey</packagereq>
       <packagereq type="optional">squirrelmail</packagereq>
+      <packagereq type="optional">up-imapproxy</packagereq>
       <packagereq type="optional">uw-imap</packagereq>
     </packagelist>
   </group>
@@ -3489,6 +3496,7 @@
       <packagereq type="optional">calcurse</packagereq>
       <packagereq type="optional">contacts</packagereq>
       <packagereq type="optional">dates</packagereq>
+      <packagereq type="optional">dayplanner</packagereq>
       <packagereq type="optional">dia</packagereq>
       <packagereq type="optional">gdeskcal</packagereq>
       <packagereq type="optional">gfa</packagereq>
@@ -3527,6 +3535,7 @@
       <packagereq type="optional">referencer</packagereq>
       <packagereq type="optional">revelation</packagereq>
       <packagereq type="optional">taskjuggler</packagereq>
+      <packagereq type="optional">taskcoach</packagereq>
       <packagereq type="optional">tellico</packagereq>
       <packagereq type="optional">texmaker</packagereq>
       <packagereq type="optional">tinyerp</packagereq>
@@ -4151,6 +4160,7 @@
       <packagereq type="optional">dar</packagereq>
       <packagereq type="optional">denyhosts</packagereq>
       <packagereq type="optional">dkms</packagereq>
+      <packagereq type="optional">dnrd</packagereq>
       <packagereq type="optional">dstat</packagereq>
       <packagereq type="optional">dtach</packagereq>
       <packagereq type="optional">ebtables</packagereq>
@@ -4274,6 +4284,7 @@
       <packagereq type="optional">wireshark-gnome</packagereq>
       <packagereq type="optional">wlassistant</packagereq>
       <packagereq type="optional">x3270-x11</packagereq>
+      <packagereq type="optional">xsel</packagereq>
       <packagereq type="optional">xsupplicant</packagereq>
       <packagereq type="optional">zidrav</packagereq>
     </packagelist>
@@ -4376,6 +4387,7 @@
       <packagereq type="optional">rss2email</packagereq>
       <packagereq type="optional">rtorrent</packagereq>
       <packagereq type="optional">snownews</packagereq>
+      <packagereq type="optional">sitecopy</packagereq>
       <packagereq type="optional">tftp</packagereq>
       <packagereq type="optional">tin</packagereq>
       <packagereq type="optional">w3m</packagereq>
@@ -4575,7 +4587,10 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional">Django</packagereq>
+      <packagereq type="optional">ctemplate</packagereq>
       <packagereq type="optional">gallery2</packagereq>
+      <packagereq type="optional">php-oauth</packagereq>
+      <packagereq type="optional">php-xmpphp</packagereq>
       <packagereq type="optional">python-cherrypy</packagereq>
       <packagereq type="optional">TurboGears</packagereq>
       <packagereq type="optional">velocity</packagereq>
