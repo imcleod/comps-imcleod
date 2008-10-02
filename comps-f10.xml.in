@@ -1973,7 +1973,6 @@
       <packagereq type="mandatory">atk-devel</packagereq>
       <packagereq type="mandatory">GConf2-devel</packagereq>
       <packagereq type="mandatory">glib2-devel</packagereq>
-      <packagereq type="mandatory">gnome-vfs2-devel</packagereq>
       <packagereq type="mandatory">gtk2-devel</packagereq>
       <packagereq type="mandatory">libbonobo-devel</packagereq>
       <packagereq type="mandatory">libbonoboui-devel</packagereq>
@@ -1993,6 +1992,7 @@
       <packagereq type="default">gnome-devel-docs</packagereq>
       <packagereq type="default">gnome-panel-devel</packagereq>
       <packagereq type="default">gnome-pilot-devel</packagereq>
+      <packagereq type="default">gnome-vfs2-devel</packagereq>
       <packagereq type="default">gtk-doc</packagereq>
       <packagereq type="default">hal-devel</packagereq>
       <packagereq type="default">libart_lgpl-devel</packagereq>
@@ -3879,11 +3879,11 @@
       <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="default">bluez-alsa</packagereq>
       <packagereq type="default">cdparanoia</packagereq>
-      <packagereq type="default">codeina</packagereq>
       <packagereq type="default">genisoimage</packagereq>
       <packagereq type="default">gstreamer-plugins-good</packagereq>
       <packagereq type="default">gstreamer-plugins-pulse</packagereq>
       <packagereq type="default">icedax</packagereq>
+      <packagereq type="default">PackageKit-gstreamer-plugin</packagereq>
       <packagereq type="default">pavucontrol</packagereq>
       <packagereq type="default">pulseaudio</packagereq>
       <packagereq type="default">pulseaudio-utils</packagereq>
