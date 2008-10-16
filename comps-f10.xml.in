@@ -4379,6 +4379,7 @@
       <packagereq type="mandatory">m17n-contrib-telugu</packagereq>
       <packagereq type="mandatory">m17n-db-telugu</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-te</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-te</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-te_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-telugu</packagereq>
     </packagelist>
