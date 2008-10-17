@@ -16,12 +16,15 @@
 #   http://www.softcatala.org/projectes/fedora/
 #   i contacteu l'anterior traductor/a.
 #
+# Nota: les cadenes marcades amb TODO tenen una traducció inexacta o l'original.
+# Això és degut a que comps-po ha de tenir el 100% de cadenes per assegurar el 
+# suport
 msgid ""
 msgstr ""
 "Project-Id-Version: comps-po\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-09-19 09:24+0000\n"
-"PO-Revision-Date: 2008-09-19 11:11+0100\n"
+"POT-Creation-Date: 2008-10-14 02:28+0000\n"
+"PO-Revision-Date: 2008-10-16 11:11+0100\n"
 "Last-Translator: Xavier Conde Rueda <xavi.conde@gmail.com>\n"
 "Language-Team: Catalan <fedora@softcatala.net>\n"
 "MIME-Version: 1.0\n"
@@ -110,8 +113,9 @@ msgstr "Suport per al bengalí"
 
 #: ../comps-f7.xml.in.h:17 ../comps-f8.xml.in.h:17 ../comps-f9.xml.in.h:17
 #: ../comps-f10.xml.in.h:17
+# TODO
 msgid "Bhutanese Support"
-msgstr ""
+msgstr "Bhutanese Support"
 
 #: ../comps-f7.xml.in.h:18 ../comps-f8.xml.in.h:18 ../comps-f9.xml.in.h:18
 #: ../comps-f10.xml.in.h:18
@@ -428,7 +432,7 @@ msgstr ""
 #: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:80 ../comps-f9.xml.in.h:81
 #: ../comps-f10.xml.in.h:84
 msgid "Inuktitut Support"
-msgstr ""
+msgstr "Suport per a l'inuktitut"
 
 #: ../comps-f7.xml.in.h:77 ../comps-f8.xml.in.h:81 ../comps-f9.xml.in.h:82
 #: ../comps-f10.xml.in.h:85
@@ -501,8 +505,9 @@ msgstr "Suport per al Lao"
 
 #: ../comps-f7.xml.in.h:90 ../comps-f8.xml.in.h:94 ../comps-f9.xml.in.h:96
 #: ../comps-f10.xml.in.h:101
+# TODO
 msgid "Latvian Support"
-msgstr ""
+msgstr "Latvian Support"
 
 #: ../comps-f7.xml.in.h:91 ../comps-f8.xml.in.h:96 ../comps-f9.xml.in.h:98
 #: ../comps-f10.xml.in.h:103
@@ -1133,7 +1138,7 @@ msgstr "Tipus de lletra antics"
 
 #: ../comps-f8.xml.in.h:100 ../comps-f9.xml.in.h:102 ../comps-f10.xml.in.h:107
 msgid "Low Saxon Support"
-msgstr ""
+msgstr "Supor per al saxó baix"
 
 #: ../comps-f8.xml.in.h:106 ../comps-f9.xml.in.h:109 ../comps-f10.xml.in.h:115
 msgid "Mongolian Support"
@@ -1152,8 +1157,9 @@ msgid "Esperanto Support"
 msgstr "Suport per a l'esperanto"
 
 #: ../comps-f9.xml.in.h:91 ../comps-f10.xml.in.h:95
+# TODO
 msgid "Kashubian Support"
-msgstr ""
+msgstr "Kashubian Support"
 
 #: ../comps-f9.xml.in.h:103 ../comps-f10.xml.in.h:108
 msgid "Macedonian Support"
@@ -1161,7 +1167,7 @@ msgstr "Suport per al macedoni"
 
 #: ../comps-f9.xml.in.h:114 ../comps-f10.xml.in.h:121
 msgid "Northern Sami Support"
-msgstr ""
+msgstr "Supor per al sami del nord"
 
 #: ../comps-f9.xml.in.h:130 ../comps-f10.xml.in.h:137
 msgid "SUGAR Desktop Environment"
@@ -1172,8 +1178,9 @@ msgid "SUGAR is the desktop environment developed for the OLPC XO."
 msgstr "El SUGAR és un entorn d'escriptori desenvolupat per al XO de l'OLPC."
 
 #: ../comps-f9.xml.in.h:200 ../comps-f10.xml.in.h:211
+# TODO
 msgid "Walloon Support"
-msgstr ""
+msgstr "Walloon Support"
 
 #: ../comps-f10.xml.in.h:70
 msgid "Haskell Development"
@@ -1188,22 +1195,26 @@ msgid "Input method packages for the input of international text."
 msgstr "Paquets de mètodes d'entrada per a introduir text internacional."
 
 #: ../comps-f10.xml.in.h:94
+# TODO
 msgid "Kashmiri Support"
-msgstr ""
+msgstr "Kashmiri Support"
 
 #: ../comps-f10.xml.in.h:97
 msgid "Konkani Support"
-msgstr ""
+msgstr "Suport per al konkani"
 
 #: ../comps-f10.xml.in.h:110
+# TODO
 msgid "Maithili Support"
-msgstr ""
+msgstr "Suport per al maithili"
 
 #: ../comps-f10.xml.in.h:117
+# TODO
 msgid "Myanmar (Burmese) Support"
-msgstr ""
+msgstr "Suport per al myanmar (burmese)"
 
 #: ../comps-f10.xml.in.h:144
+# TODO
 msgid "Sindhi Support"
 msgstr "Suport per al sindhi"
 
@@ -1217,8 +1228,9 @@ msgid "Tajik Support"
 msgstr "Suport per al tajik"
 
 #: ../comps-f10.xml.in.h:205
+# TODO
 msgid "Uzbek Support"
-msgstr ""
+msgstr "Uzbek Support"
 
 #: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
 msgid "Applications for a variety of tasks"
@@ -1267,7 +1279,8 @@ msgstr ""
 #: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:62
 msgid "This group is a collection of network servers for specific purposes"
 msgstr ""
-"Aquest grup és una col·lecció de servidors de xarxa per a diferents tipus de maquinari."
+"Aquest grup és una col·lecció de servidors de xarxa per a diferents tipus de "
+"maquinari."
 
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
 msgid ""
@@ -1294,8 +1307,7 @@ msgstr "XEmacs"
 #: ../comps-el5.xml.in.h:65
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
-msgstr ""
-"Aquest grup és una col·lecció d'eines i recursos per a entorns txecs."
+msgstr "Aquest grup és una col·lecció d'eines i recursos per a entorns txecs."
 
 #~ msgid "British Support"
 #~ msgstr "Suport per al britànic"
