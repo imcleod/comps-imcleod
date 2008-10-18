@@ -1,23 +1,23 @@
 # Serbian(Latin) translations for comps
 # Copyright (C) 2005 Red Hat, Inc.
 # This file is distributed under the same license as the comps package.
-#
 # Filip Maličević <filip@lakinetwork.com>, 2005.
 # Miloš Komarčević <kmilos@gmail.com>, 2005.
 # Milos Mijatovic <mijatix@gmail.com>, 2008.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-17 15:43-0700\n"
-"PO-Revision-Date: 2008-04-21 08:01+0100\n"
+"PO-Revision-Date: 2008-10-18 13:20+0100\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
 "Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 #: ../comps-f7.xml.in.h:1 ../comps-f8.xml.in.h:1 ../comps-f9.xml.in.h:1
 #: ../comps-f10.xml.in.h:1
@@ -1138,70 +1138,60 @@ msgid "Northern Sami Support"
 msgstr "Podrška za severni sami"
 
 #: ../comps-f9.xml.in.h:130 ../comps-f10.xml.in.h:137
-#, fuzzy
 msgid "SUGAR Desktop Environment"
-msgstr "Radna okruženja"
+msgstr "SUGAR radno okruženje"
 
 #: ../comps-f9.xml.in.h:131 ../comps-f10.xml.in.h:138
 msgid "SUGAR is the desktop environment developed for the OLPC XO."
-msgstr ""
+msgstr "SUGAR je radno okruženje razvijeno za OLPC XO."
 
 #: ../comps-f9.xml.in.h:200 ../comps-f10.xml.in.h:211
 msgid "Walloon Support"
 msgstr "Podrška za valonski"
 
 #: ../comps-f10.xml.in.h:70
-#, fuzzy
 msgid "Haskell Development"
-msgstr "Veb razvoj"
+msgstr "Haskell razvoj"
 
 #: ../comps-f10.xml.in.h:76
 msgid "Input Methods"
-msgstr ""
+msgstr "Metode unosa"
 
 #: ../comps-f10.xml.in.h:77
 msgid "Input method packages for the input of international text."
-msgstr ""
+msgstr "Paketi metoda unosa za unošenje internacionalnog teksta."
 
 #: ../comps-f10.xml.in.h:94
-#, fuzzy
 msgid "Kashmiri Support"
-msgstr "Podrška za kmerski"
+msgstr "Podrška za kašmiri"
 
 #: ../comps-f10.xml.in.h:97
-#, fuzzy
 msgid "Konkani Support"
-msgstr "Podrška za korejski"
+msgstr "Podrška za konkani"
 
 #: ../comps-f10.xml.in.h:110
-#, fuzzy
 msgid "Maithili Support"
-msgstr "Podrška za marati"
+msgstr "Podrška za maithili"
 
 #: ../comps-f10.xml.in.h:117
-#, fuzzy
 msgid "Myanmar (Burmese) Support"
-msgstr "Podrška za vijetnamski"
+msgstr "Podrška za mjanmarski (burmanski)"
 
 #: ../comps-f10.xml.in.h:144
-#, fuzzy
 msgid "Sindhi Support"
-msgstr "Podrška za hindu"
+msgstr "Podrška za sindhi"
 
 #: ../comps-f10.xml.in.h:156
-#, fuzzy
 msgid "Support for developing programs in the Haskell programming language."
-msgstr "Podrška za razvoj programa u programskom jeziku Java."
+msgstr "Podrška za razvoj programa u programskom jeziku Haskell."
 
 #: ../comps-f10.xml.in.h:163
-#, fuzzy
 msgid "Tajik Support"
-msgstr "Podrška za tajlandski"
+msgstr "Podrška za tadžički"
 
 #: ../comps-f10.xml.in.h:205
-#, fuzzy
 msgid "Uzbek Support"
-msgstr "Podrška za češki"
+msgstr "Podrška za uzbečki"
 
 #: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
 msgid "Applications for a variety of tasks"
@@ -1274,68 +1264,3 @@ msgstr "XEmacs"
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
 msgstr "Ova grupa je skup alatki i resursa za češko okruženje."
-
-#~ msgid "British Support"
-#~ msgstr "Podrška za britanski engleski"
-
-#~ msgid "Cluster Storage"
-#~ msgstr "Učvoreno skladištenje"
-
-#~ msgid "Clustering Support."
-#~ msgstr "Podrška za učvoravanje."
-
-#~ msgid "Libraries for applications built on older releases."
-#~ msgstr "Biblioteke za programe izrađene za starija izdanja."
-
-#~ msgid "Miscellaneous Included Packages"
-#~ msgstr "Razni uključeni paketi"
-
-#~ msgid "Packages which provide support for cluster storage."
-#~ msgstr "Paketi koji pružaju podršku za učvoreno skladištenje."
-
-#~ msgid "Packages which provide support for single-node GFS."
-#~ msgstr "Paketi koji pružaju podršku za jedini GFS čvor."
-
-#~ msgid "Single Node GFS Support"
-#~ msgstr "Podrška za jedini GFS čvor"
-
-#~ msgid "These packages provide compatibility support with previous releases."
-#~ msgstr ""
-#~ "Ovi paketi obezbeđuju podršku za usaglašenost sa prethodnim izdanjima."
-
-#~ msgid "Java Runtime Environments and Development Kits"
-#~ msgstr "Java izvršno okruženje i razvojna oprema"
-
-#~ msgid "Misc"
-#~ msgstr "Razno"
-
-#~ msgid "Misc packages"
-#~ msgstr "Razni paketi"
-
-#~ msgid "Multimedia"
-#~ msgstr "Multimedija"
-
-#~ msgid "Multimedia applications"
-#~ msgstr "Programi za multimediju"
-
-#~ msgid ""
-#~ "Packages which provide additional functionality for Red Hat Enterprise "
-#~ "Linux"
-#~ msgstr ""
-#~ "Paketi koji pružaju dodatnu funkcionalnost za Red Hat Enterprise Linux"
-
-#~ msgid "Red Hat Enterprise Linux Supplementary"
-#~ msgstr "Red Hat Enterprise Linux dodaci"
-
-#~ msgid ""
-#~ "Components used for high performance networking and clustering, such as "
-#~ "Infiniband and RDMA."
-#~ msgstr ""
-#~ "Komponente koje se koriste za umrežavanje i učvoravanje sa visokim "
-#~ "učinkom, kao što su Infiniband i RDMA."
-
-#~ msgid "OpenFabrics Enterprise Distribution"
-#~ msgstr "OpenFabrics Enterprise distribucija"
-
-#~ msgid "Virtualization Support."
-#~ msgstr "Podrška za virtualizaciju."
