@@ -1,23 +1,23 @@
 # Serbian(Latin) translations for comps
 # Copyright (C) 2005 Red Hat, Inc.
 # This file is distributed under the same license as the comps package.
-#
 # Filip Maličević <filip@lakinetwork.com>, 2005.
 # Miloš Komarčević <kmilos@gmail.com>, 2005.
 # Milos Mijatovic <mijatix@gmail.com>, 2008.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-17 15:43-0700\n"
-"PO-Revision-Date: 2008-07-19 11:59-0000\n"
+"PO-Revision-Date: 2008-10-18 13:20+0100\n"
 "Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
 "Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 #: ../comps-f7.xml.in.h:1 ../comps-f8.xml.in.h:1 ../comps-f9.xml.in.h:1
 #: ../comps-f10.xml.in.h:1
@@ -1150,9 +1150,8 @@ msgid "Walloon Support"
 msgstr "Podrška za valonski"
 
 #: ../comps-f10.xml.in.h:70
-#, fuzzy
 msgid "Haskell Development"
-msgstr "Veb razvoj"
+msgstr "Haskell razvoj"
 
 #: ../comps-f10.xml.in.h:76
 msgid "Input Methods"
@@ -1163,43 +1162,36 @@ msgid "Input method packages for the input of international text."
 msgstr "Paketi metoda unosa za unošenje internacionalnog teksta."
 
 #: ../comps-f10.xml.in.h:94
-#, fuzzy
 msgid "Kashmiri Support"
-msgstr "Podrška za kmerski"
+msgstr "Podrška za kašmiri"
 
 #: ../comps-f10.xml.in.h:97
-#, fuzzy
 msgid "Konkani Support"
-msgstr "Podrška za korejski"
+msgstr "Podrška za konkani"
 
 #: ../comps-f10.xml.in.h:110
-#, fuzzy
 msgid "Maithili Support"
-msgstr "Podrška za marati"
+msgstr "Podrška za maithili"
 
 #: ../comps-f10.xml.in.h:117
-#, fuzzy
 msgid "Myanmar (Burmese) Support"
-msgstr "Podrška za vijetnamski"
+msgstr "Podrška za mjanmarski (burmanski)"
 
 #: ../comps-f10.xml.in.h:144
-#, fuzzy
 msgid "Sindhi Support"
-msgstr "Podrška za hindu"
+msgstr "Podrška za sindhi"
 
 #: ../comps-f10.xml.in.h:156
-#, fuzzy
 msgid "Support for developing programs in the Haskell programming language."
-msgstr "Podrška za razvoj programa u programskom jeziku Java."
+msgstr "Podrška za razvoj programa u programskom jeziku Haskell."
 
 #: ../comps-f10.xml.in.h:163
 msgid "Tajik Support"
 msgstr "Podrška za tadžički"
 
 #: ../comps-f10.xml.in.h:205
-#, fuzzy
 msgid "Uzbek Support"
-msgstr "Podrška za češki"
+msgstr "Podrška za uzbečki"
 
 #: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
 msgid "Applications for a variety of tasks"
@@ -1272,6 +1264,3 @@ msgstr "XEmacs"
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
 msgstr "Ova grupa je skup alatki i resursa za češko okruženje."
-
-#~ msgid "Haskell"
-#~ msgstr "Haskel"
