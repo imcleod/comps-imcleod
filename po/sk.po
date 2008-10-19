@@ -1,22 +1,25 @@
 # Slovak messages for comp-po
 # Copyright (C) 2003, 2004 Marcel Telka
 # This file is distributed under the same license as the comp-po package.
+#
+# $Id: sk.po,v 1.16 2008/10/19 17:24:24 transif Exp $
+#
 # Marcel Telka <marcel@telka.sk>, 2003, 2004.
 # Pavol Šimo <palo.simo@gmail.com>, 2007.
-#
-# $Id: sk.po,v 1.15 2008/09/17 22:44:37 notting Exp $
-#
+# Ondrej Šulek <feonsu@gmail.com>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: comp-po\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-09-17 15:43-0700\n"
-"PO-Revision-Date: 2008-04-14 21:00+0200\n"
-"Last-Translator: Pavol Šimo <palo.simo@gmail.com>\n"
-"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"POT-Creation-Date: 2008-10-19 02:14+0000\n"
+"PO-Revision-Date: 2008-10-19 19:18+0200\n"
+"Last-Translator: Ondrej Šulek <feonsu@gmail.com>\n"
+"Language-Team: Slovak <fedora-trans-sk@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: ../comps-f7.xml.in.h:1 ../comps-f8.xml.in.h:1 ../comps-f9.xml.in.h:1
 #: ../comps-f10.xml.in.h:1
@@ -1138,91 +1141,76 @@ msgid "Older bitmap and vector fonts packages"
 msgstr "Balíky starších bitmapových a vektorových písiem"
 
 #: ../comps-f9.xml.in.h:44 ../comps-f10.xml.in.h:44
-#, fuzzy
 msgid "Esperanto Support"
-msgstr "Nemecká podpora"
+msgstr "Esperanto podpora"
 
 #: ../comps-f9.xml.in.h:91 ../comps-f10.xml.in.h:95
-#, fuzzy
 msgid "Kashubian Support"
-msgstr "Bosnianska podpora"
+msgstr "Kašubská podpora"
 
 #: ../comps-f9.xml.in.h:103 ../comps-f10.xml.in.h:108
-#, fuzzy
 msgid "Macedonian Support"
-msgstr "Mongolská podpora"
+msgstr "Macedónska podpora"
 
 #: ../comps-f9.xml.in.h:114 ../comps-f10.xml.in.h:121
-#, fuzzy
 msgid "Northern Sami Support"
-msgstr "Podpora severného sotho"
+msgstr "Podpora severného Sami"
 
 #: ../comps-f9.xml.in.h:130 ../comps-f10.xml.in.h:137
-#, fuzzy
 msgid "SUGAR Desktop Environment"
-msgstr "Pracovné prostredia"
+msgstr "Pracovné prostredie SUGAR"
 
 #: ../comps-f9.xml.in.h:131 ../comps-f10.xml.in.h:138
 msgid "SUGAR is the desktop environment developed for the OLPC XO."
-msgstr ""
+msgstr "SUGAR je pracovné prostredie vyvinuté pre OLPC XO."
 
 #: ../comps-f9.xml.in.h:200 ../comps-f10.xml.in.h:211
-#, fuzzy
 msgid "Walloon Support"
-msgstr "Laoská podpora"
+msgstr "Wallónska podpora"
 
 #: ../comps-f10.xml.in.h:70
-#, fuzzy
 msgid "Haskell Development"
-msgstr "Vývoj webu"
+msgstr "Vývoj Haskell"
 
 #: ../comps-f10.xml.in.h:76
 msgid "Input Methods"
-msgstr ""
+msgstr "Metódy vstupu"
 
 #: ../comps-f10.xml.in.h:77
 msgid "Input method packages for the input of international text."
-msgstr ""
+msgstr "Balíčky metód vstupu pre podporu medzinárodného textu."
 
 #: ../comps-f10.xml.in.h:94
-#, fuzzy
 msgid "Kashmiri Support"
-msgstr "Kmérska podpora"
+msgstr "Kašmírska podpora"
 
 #: ../comps-f10.xml.in.h:97
-#, fuzzy
 msgid "Konkani Support"
-msgstr "Kórejská podpora"
+msgstr "Konkani podpora"
 
 #: ../comps-f10.xml.in.h:110
-#, fuzzy
 msgid "Maithili Support"
-msgstr "Podpora Maráthí"
+msgstr "Maithili podpora"
 
 #: ../comps-f10.xml.in.h:117
-#, fuzzy
 msgid "Myanmar (Burmese) Support"
-msgstr "Vietnamská podpora"
+msgstr "Mjanmarská (Barmčina) podpora"
 
 #: ../comps-f10.xml.in.h:144
-#, fuzzy
 msgid "Sindhi Support"
-msgstr "Hindská podpora"
+msgstr "Sindhi podpora"
 
 #: ../comps-f10.xml.in.h:156
-#, fuzzy
 msgid "Support for developing programs in the Haskell programming language."
-msgstr "Podpora pre vývoj programov v programovacom jazyku Java."
+msgstr "Podpora pre vývoj programov v programovacom jazyku Haskell."
 
 #: ../comps-f10.xml.in.h:163
-#, fuzzy
 msgid "Tajik Support"
-msgstr "Thajská podpora"
+msgstr "Tadžická podpora"
 
 #: ../comps-f10.xml.in.h:205
-#, fuzzy
 msgid "Uzbek Support"
-msgstr "Česká podpora"
+msgstr "Uzbecká podpora"
 
 #: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
 msgid "Applications for a variety of tasks"
@@ -5203,3 +5191,4 @@ msgstr "Táto skupina je kolekciou nástrojov a zdrojov českých prostredí."
 #~ "<packagereq type=\"optional\" requires=\"xorg-x11\">fonts-xorg-cyrillic</"
 #~ "packagereq> </packagelist> </group> <group> <id>czech-support</id> "
 #~ "<_name>Česká podpora</_name> <_description>"
+
