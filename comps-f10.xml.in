@@ -988,7 +988,7 @@
     <_name>Dial-up Networking Support</_name>
     <_description/>
     <default>true</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">ppp</packagereq>
       <packagereq type="default">isdn4k-utils</packagereq>
@@ -2677,7 +2677,7 @@
     <_name>Java</_name>
     <_description>Support for running programs written in the Java programming language.</_description>
     <default>true</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">java-1.5.0-gcj</packagereq>
       <packagereq type="mandatory">libgcj</packagereq>
