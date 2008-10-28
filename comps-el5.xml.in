@@ -125,8 +125,11 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="optional">gromacs</packagereq>
+      <packagereq type="optional">gromacs-mpi</packagereq>
       <packagereq type="optional">hdf</packagereq>
       <packagereq type="optional">hdf5</packagereq>
+      <packagereq type="optional">jmol</packagereq>
       <packagereq type="optional">Macaulay2</packagereq>
       <packagereq type="optional">maxima</packagereq>
       <packagereq type="optional">ncarg</packagereq>
