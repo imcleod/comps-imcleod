@@ -114,6 +114,7 @@
       <packagereq type="mandatory">m17n-db-assamese</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-as_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-assamese</packagereq>
+      <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
   <group>
@@ -405,6 +406,7 @@
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Bengali</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bn</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-bengali</packagereq>
+      <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2296,6 +2298,7 @@
       <packagereq type="conditional" requires="moodle">moodle-gu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-gu_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-gujarati</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-gujarati</packagereq>
     </packagelist>
   </group>
@@ -2410,6 +2413,7 @@
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hi_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-hindi</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-devanagari</packagereq>
       <packagereq type="default">sarai-fonts</packagereq>
     </packagelist>
@@ -2494,7 +2498,6 @@
       <packagereq type="default">scim-m17n</packagereq>
       <packagereq type="default">scim-python-pinyin</packagereq>
       <packagereq type="default">scim-rawcode</packagereq>
-      <packagereq type="default">iok</packagereq>
       <packagereq type="optional">cellwriter</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">gok</packagereq>
@@ -2509,6 +2512,7 @@
       <packagereq type="optional">ibus-table</packagereq>
       <packagereq type="optional">ibus-table-additional</packagereq>
       <packagereq type="optional">ibus-table-chinese</packagereq>
+      <packagereq type="optional">iok</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">m17n-contrib-esperanto</packagereq>
       <packagereq type="optional">m17n-contrib-nepali</packagereq>
@@ -2849,6 +2853,7 @@
       <packagereq type="conditional" requires="moodle">moodle-kn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-kn_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-kannada</packagereq>
+      <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2860,6 +2865,7 @@
     <langonly>ks</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-fonts-kashmiri</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">m17n-contrib-hindi</packagereq>
       <packagereq type="default">m17n-db-hindi</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-hindi</packagereq>
@@ -3031,6 +3037,7 @@
     <langonly>kok</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-fonts-konkani</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">m17n-contrib-hindi</packagereq>
       <packagereq type="default">m17n-db-hindi</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-hindi</packagereq>
@@ -3314,6 +3321,7 @@
     <langonly>mai</langonly>
     <packagelist>
       <packagereq type="default">lohit-fonts-maithili</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">m17n-contrib-hindi</packagereq>
       <packagereq type="default">m17n-db-hindi</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-hindi</packagereq>
@@ -3348,6 +3356,7 @@
       <packagereq type="conditional" requires="moodle">moodle-ml</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ml_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-malayalam</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">lohit-fonts-malayalam</packagereq>
       <packagereq type="default">samyak-fonts-malayalam</packagereq>
       <packagereq type="default">smc-fonts-anjalioldlipi</packagereq>
@@ -3386,6 +3395,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-mr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mr_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-marathi</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-devanagari</packagereq>
     </packagelist>
   </group>
@@ -3642,6 +3652,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-or</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-or_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-oriya</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-oriya</packagereq>
     </packagelist>
   </group>
@@ -3739,6 +3750,7 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Punjabi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pa_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-punjabi</packagereq>
+      <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3863,6 +3875,7 @@
     <packagelist>
       <packagereq type="mandatory">lohit-fonts-sindhi</packagereq>
       <packagereq type="mandatory">m17n-contrib-sindhi</packagereq>
+      <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4413,6 +4426,7 @@
       <packagereq type="conditional" requires="moodle">moodle-ta_lk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ta_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-tamil</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-tamil</packagereq>
     </packagelist>
   </group>
@@ -4431,6 +4445,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-te</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-te_IN</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-telugu</packagereq>
+      <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
   <group>
