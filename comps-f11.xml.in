@@ -1384,8 +1384,9 @@
     <packagelist>
       <packagereq type="default">abyssinica-fonts</packagereq>
       <packagereq type="default">cjkunifonts-uming</packagereq>
-      <packagereq type="default">dejavu-fonts</packagereq>
-      <packagereq type="default">dejavu-fonts-experimental</packagereq>
+      <packagereq type="default">dejavu-fonts-sans</packagereq>
+      <packagereq type="default">dejavu-fonts-sans-mono</packagereq>
+      <packagereq type="default">dejavu-fonts-serif</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
       <packagereq type="default">kacst-fonts</packagereq>
       <packagereq type="default">khmeros-fonts-base</packagereq>
@@ -1418,7 +1419,9 @@
       <packagereq type="optional">charis-fonts</packagereq>
       <packagereq type="optional">cjkunifonts-ukai</packagereq>
       <packagereq type="optional">darkgarden-fonts</packagereq>
-      <packagereq type="optional">dejavu-lgc-fonts</packagereq>
+      <packagereq type="optional">dejavu-fonts-lgc-sans</packagereq>
+      <packagereq type="optional">dejavu-fonts-lgc-sans-mono</packagereq>
+      <packagereq type="optional">dejavu-fonts-lgc-serif</packagereq>
       <packagereq type="optional">doulos-fonts</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
       <packagereq type="optional">edrip-fonts</packagereq>
@@ -2383,7 +2386,7 @@
     <uservisible>false</uservisible>
     <langonly>he</langonly>
     <packagelist>
-      <packagereq type="mandatory">dejavu-fonts</packagereq>
+      <packagereq type="mandatory">dejavu-fonts-sans</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-he</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-he</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-he</packagereq>
@@ -2392,7 +2395,6 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-he_IL</packagereq>
       <packagereq type="conditional" requires="texlive">tetex-fonts-hebrew</packagereq>
       <packagereq type="default">culmus-fonts</packagereq>
-      <packagereq type="optional">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">fonts-hebrew-fancy</packagereq>
       <packagereq type="optional">m17n-db-hebrew</packagereq>
     </packagelist>
@@ -2603,8 +2605,7 @@
     <uservisible>false</uservisible>
     <langonly>iu</langonly>
     <packagelist>
-      <packagereq type="mandatory">dejavu-fonts</packagereq>
-      <packagereq type="default">dejavu-fonts-experimental</packagereq>
+      <packagereq type="mandatory">dejavu-fonts-sans</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3100,9 +3101,8 @@
     <uservisible>false</uservisible>
     <langonly>lo</langonly>
     <packagelist>
-      <packagereq type="mandatory">dejavu-fonts</packagereq>
+      <packagereq type="mandatory">dejavu-fonts-sans</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-lo</packagereq>
-      <packagereq type="default">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">m17n-db-lao</packagereq>
     </packagelist>
   </group>
@@ -4405,8 +4405,9 @@
     <uservisible>false</uservisible>
     <langonly>tg</langonly>
     <packagelist>
-      <packagereq type="mandatory">dejavu-fonts</packagereq>
-      <packagereq type="default">dejavu-fonts-experimental</packagereq>
+      <packagereq type="mandatory">dejavu-fonts-sans</packagereq>
+      <packagereq type="default">dejavu-fonts-sans-mono</packagereq>
+      <packagereq type="default">dejavu-fonts-serif</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4612,7 +4613,8 @@
       <packagereq type="mandatory">m17n-contrib-urdu</packagereq>
       <packagereq type="mandatory">paktype-fonts</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
-      <packagereq type="default">dejavu-fonts</packagereq>
+      <packagereq type="default">dejavu-fonts-sans</packagereq>
+      <packagereq type="default">dejavu-fonts-sans-mono</packagereq>
       <packagereq type="default">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">kacst-fonts</packagereq>
     </packagelist>
