@@ -79,8 +79,8 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Arabic</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ar</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ar</packagereq>
-      <packagereq type="default">dejavu-fonts</packagereq>
-      <packagereq type="default">dejavu-fonts-experimental</packagereq>
+      <packagereq type="default">dejavu-fonts-sans</packagereq>
+      <packagereq type="default">dejavu-fonts-sans-mono</packagereq>
       <packagereq type="default">kacst-fonts</packagereq>
       <packagereq type="default">paktype-fonts</packagereq>
       <packagereq type="optional">m17n-db-arabic</packagereq>
@@ -95,7 +95,7 @@
     <uservisible>false</uservisible>
     <langonly>hy</langonly>
     <packagelist>
-      <packagereq type="mandatory">dejavu-fonts</packagereq>
+      <packagereq type="mandatory">dejavu-fonts-sans</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hy</packagereq>
       <packagereq type="default">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">m17n-db-armenian</packagereq>
@@ -1846,9 +1846,10 @@
     <uservisible>false</uservisible>
     <langonly>ka</langonly>
     <packagelist>
-      <packagereq type="mandatory">dejavu-fonts</packagereq>
+      <packagereq type="mandatory">dejavu-fonts-sans</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ka</packagereq>
-      <packagereq type="default">dejavu-fonts-experimental</packagereq>
+      <packagereq type="default">dejavu-fonts-sans-mono</packagereq>
+      <packagereq type="default">dejavu-fonts-serif</packagereq>
     </packagelist>
   </group>
   <group>
