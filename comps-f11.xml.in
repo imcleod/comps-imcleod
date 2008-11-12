@@ -169,6 +169,7 @@
       <packagereq type="mandatory">cronie</packagereq>
       <packagereq type="mandatory">crontabs</packagereq>
       <packagereq type="mandatory">cyrus-sasl-plain</packagereq>
+      <packagereq type="mandatory">ed</packagereq>
       <packagereq type="mandatory">logrotate</packagereq>
       <packagereq type="mandatory">lsof</packagereq>
       <packagereq type="mandatory">mailcap</packagereq>
@@ -233,6 +234,7 @@
       <packagereq type="default">pinfo</packagereq>
       <packagereq type="default">pm-utils</packagereq>
       <packagereq type="default">prctl</packagereq>
+      <packagereq type="default">prelink</packagereq>
       <packagereq type="default">rdate</packagereq>
       <packagereq type="default">rdist</packagereq>
       <packagereq type="default">redhat-lsb</packagereq>
@@ -636,12 +638,10 @@
       <packagereq type="mandatory">cpio</packagereq>
       <packagereq type="mandatory">dhclient</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
-      <packagereq type="mandatory">ed</packagereq>
       <packagereq type="mandatory">fedora-release</packagereq>
       <packagereq type="mandatory">file</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
       <packagereq type="mandatory">glibc</packagereq>
-      <packagereq type="mandatory">hdparm</packagereq>
       <packagereq type="mandatory">initscripts</packagereq>
       <packagereq type="mandatory">iproute</packagereq>
       <packagereq type="mandatory">iprutils</packagereq>
@@ -651,7 +651,6 @@
       <packagereq type="mandatory">ncurses</packagereq>
       <packagereq type="mandatory">passwd</packagereq>
       <packagereq type="mandatory">policycoreutils</packagereq>
-      <packagereq type="mandatory">prelink</packagereq>
       <packagereq type="mandatory">procps</packagereq>
       <packagereq type="mandatory">readline</packagereq>
       <packagereq type="mandatory">rootfiles</packagereq>
@@ -2341,6 +2340,7 @@
       <packagereq type="optional">gpsd-clients</packagereq>
       <packagereq type="optional">gypsy</packagereq>
       <packagereq type="optional">hddtemp</packagereq>
+      <packagereq type="optional">hdparm</packagereq>
       <packagereq type="optional">i8kutils</packagereq>
       <packagereq type="optional">libifp</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
