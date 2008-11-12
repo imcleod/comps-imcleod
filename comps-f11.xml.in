@@ -1374,6 +1374,46 @@
     </packagelist>
   </group>
   <group>
+    <id>font-design</id>
+    <_name>Font design and packaging</_name>
+    <_description>This group is a collection of tools used in the design, modification, manipulation, and packaging of fonts.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">fontforge</packagereq>
+      <packagereq type="mandatory">xgridfit</packagereq>
+      <packagereq type="default">fontmatrix</packagereq>
+      <packagereq type="default">fonttools</packagereq>
+      <packagereq type="default">fontypython</packagereq>
+      <packagereq type="default">ghostscript</packagereq>
+      <packagereq type="default">gimp</packagereq>
+      <packagereq type="default">gimp-help</packagereq>
+      <packagereq type="default">gimp-help-browser</packagereq>
+      <packagereq type="default">gnome-specimen</packagereq>
+      <packagereq type="default">gucharmap</packagereq>
+      <packagereq type="default">inkscape</packagereq>
+      <packagereq type="default">perl-Font-TTF</packagereq>
+      <packagereq type="default">poppler-utils</packagereq>
+      <packagereq type="default">xgridfit-doc</packagereq>
+      <packagereq type="optional">bzr</packagereq>
+      <packagereq type="optional">cvs</packagereq>
+      <packagereq type="optional">darcs</packagereq>
+      <packagereq type="optional">freetype-demos</packagereq>
+      <packagereq type="optional">ghostscript-doc</packagereq>
+      <packagereq type="optional">ghostscript-gtk</packagereq>
+      <packagereq type="optional">giggle</packagereq>
+      <packagereq type="optional">git</packagereq>
+      <packagereq type="optional">meld</packagereq>
+      <packagereq type="optional">mercurial</packagereq>
+      <packagereq type="optional">nautilus-bzr</packagereq>
+      <packagereq type="optional">qgit</packagereq>
+      <packagereq type="optional">quilt</packagereq>
+      <packagereq type="optional">scribus</packagereq>
+      <packagereq type="optional">scribus-doc</packagereq>
+      <packagereq type="optional">subversion</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>fonts</id>
     <_name>Fonts</_name>
     <_description>Fonts packages for rendering text on the desktop.</_description>
@@ -2201,8 +2241,6 @@
       <packagereq type="optional">dcraw</packagereq>
       <packagereq type="optional">digikam</packagereq>
       <packagereq type="optional">digikam-doc</packagereq>
-      <packagereq type="optional">fontforge</packagereq>
-      <packagereq type="optional">fonttools</packagereq>
       <packagereq type="optional">fyre</packagereq>
       <packagereq type="optional">geeqie</packagereq>
       <packagereq type="optional">gifsicle</packagereq>
@@ -2242,8 +2280,6 @@
       <packagereq type="optional">uniconvertor</packagereq>
       <packagereq type="optional">wings</packagereq>
       <packagereq type="optional">xfig</packagereq>
-      <packagereq type="optional">xgridfit</packagereq>
-      <packagereq type="optional">xgridfit-doc</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5112,6 +5148,7 @@
       <groupid>editors</groupid>
       <groupid>education</groupid>
       <groupid>engineering-and-scientific</groupid>
+      <groupid>font-design</groupid>
       <groupid>games</groupid>
       <groupid>graphical-internet</groupid>
       <groupid>graphics</groupid>
