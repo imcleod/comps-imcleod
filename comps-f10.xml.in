@@ -1409,6 +1409,7 @@
       <packagereq type="default">un-core-fonts-dotum</packagereq>
       <packagereq type="default">VLGothic-fonts</packagereq>
       <packagereq type="optional">andika-fonts</packagereq>
+      <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">asana-math-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-dotum</packagereq>
@@ -3807,6 +3808,7 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ru</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ru</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
+      <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
