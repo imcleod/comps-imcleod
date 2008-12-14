@@ -684,6 +684,7 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-hr</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-hr</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-hr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hr_HR</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
@@ -728,6 +729,7 @@
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-da</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-da</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-da</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-da</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Danish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Danish</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-da</packagereq>
@@ -1033,6 +1035,7 @@
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-nl</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-nl</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-nl</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-nl</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Dutch</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Dutch</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-nl</packagereq>
@@ -1288,6 +1291,7 @@
     <langonly>et</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-ee</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-et</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Estonian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Estonian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-et</packagereq>
@@ -1911,6 +1915,7 @@
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-de</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-de</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-de</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-de</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-German</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-German</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-de</packagereq>
@@ -2478,6 +2483,7 @@
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-hu</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-hu</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-hu</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-hu</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Hungarian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Hungarian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-hu</packagereq>
@@ -2662,6 +2668,7 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-ga</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ga</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-ga</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Irish</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ga</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ga</packagereq>
@@ -2680,6 +2687,7 @@
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-it</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-it</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-it</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-it</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Italian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Italian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-it</packagereq>
@@ -3171,6 +3179,7 @@
     <uservisible>false</uservisible>
     <langonly>lv</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hyphen">hyphen-lv</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Latvian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-lv</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-lv</packagereq>
@@ -3281,6 +3290,7 @@
     <langonly>lt</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-lt</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-lt</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Lithuanian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-lt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-lt_LT</packagereq>
@@ -3633,6 +3643,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="hyphen">hyphen-en</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-en</packagereq>
       <packagereq type="default">evince</packagereq>
       <packagereq type="default">openoffice.org-calc</packagereq>
@@ -3746,6 +3757,7 @@
       <packagereq type="conditional" requires="aspell">aspell-pl</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-pl</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-pl</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-pl</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Polish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Polish</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-pl</packagereq>
@@ -3861,6 +3873,7 @@
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ru</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-ru</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ru</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-ru</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Russian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Russian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ru</packagereq>
@@ -3991,6 +4004,7 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-sl</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-sl</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-sl</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Slovenian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Slovenian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sl</packagereq>
@@ -4255,6 +4269,7 @@
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-sv</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-sv</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-sv</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-sv</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Swedish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Swedish</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-sv</packagereq>
