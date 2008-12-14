@@ -3608,6 +3608,7 @@
     <uservisible>false</uservisible>
     <langonly>nso</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-nso</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nso_ZA</packagereq>
     </packagelist>
   </group>
@@ -4166,6 +4167,7 @@
     <uservisible>false</uservisible>
     <langonly>nr</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-nr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nr_ZA</packagereq>
     </packagelist>
   </group>
@@ -4177,6 +4179,7 @@
     <uservisible>false</uservisible>
     <langonly>st</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-st</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-st_ZA</packagereq>
     </packagelist>
   </group>
@@ -4254,6 +4257,7 @@
     <uservisible>false</uservisible>
     <langonly>ss</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-ss</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ss_ZA</packagereq>
     </packagelist>
   </group>
@@ -4627,6 +4631,7 @@
     <uservisible>false</uservisible>
     <langonly>ts</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-ts</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ts_ZA</packagereq>
     </packagelist>
   </group>
@@ -4638,6 +4643,7 @@
     <uservisible>false</uservisible>
     <langonly>tn</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-tn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-tn_ZA</packagereq>
     </packagelist>
   </group>
@@ -4717,6 +4723,7 @@
     <uservisible>false</uservisible>
     <langonly>ve</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-ve</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ve_ZA</packagereq>
     </packagelist>
   </group>
@@ -5042,6 +5049,7 @@
     <uservisible>false</uservisible>
     <langonly>xh</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-xh</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-xh_ZA</packagereq>
     </packagelist>
   </group>
