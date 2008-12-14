@@ -4028,6 +4028,7 @@
     <uservisible>false</uservisible>
     <langonly>ve</langonly>
     <packagelist>
+      <packagereq type="mandatory">dejavu-fonts</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ve_ZA</packagereq>
     </packagelist>
   </group>
