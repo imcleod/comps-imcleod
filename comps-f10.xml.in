@@ -61,6 +61,7 @@
     <uservisible>false</uservisible>
     <langonly>sq</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-sq</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sq</packagereq>
     </packagelist>
   </group>
@@ -98,6 +99,7 @@
     <langonly>hy</langonly>
     <packagelist>
       <packagereq type="mandatory">dejavu-fonts</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-hy</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hy</packagereq>
       <packagereq type="default">dejavu-fonts-experimental</packagereq>
       <packagereq type="optional">m17n-db-armenian</packagereq>
@@ -375,6 +377,7 @@
     <langonly>eu</langonly>
     <packagelist>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-eu</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-eu</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Basque</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-eu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-eu</packagereq>
@@ -389,6 +392,7 @@
     <uservisible>false</uservisible>
     <langonly>be</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-be</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Belarusian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-be</packagereq>
       <packagereq type="optional">edrip-fonts</packagereq>
@@ -463,6 +467,7 @@
     <langonly>br</langonly>
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-br</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-br</packagereq>
       <packagereq type="conditional" requires="LabPlot-doc">LabPlot-doc-br</packagereq>
     </packagelist>
   </group>
@@ -3042,6 +3047,7 @@
     <langonly>km</langonly>
     <packagelist>
       <packagereq type="mandatory">khmeros-fonts-base</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-km</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Khmer</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-km</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-km</packagereq>
@@ -3123,6 +3129,7 @@
     <langonly>ku</langonly>
     <packagelist>
       <packagereq type="mandatory">unikurd-web-font</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-ku</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3147,6 +3154,7 @@
     <uservisible>false</uservisible>
     <langonly>lv</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-lv</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-lv</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Latvian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-lv</packagereq>
@@ -3272,6 +3280,7 @@
     <uservisible>false</uservisible>
     <langonly>nds</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-nds</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-LowSaxon</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-nds</packagereq>
     </packagelist>
@@ -3310,6 +3319,7 @@
     <uservisible>false</uservisible>
     <langonly>mk</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-mk</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Macedonian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-mk</packagereq>
     </packagelist>
@@ -3417,6 +3427,7 @@
     <uservisible>false</uservisible>
     <langonly>mi</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-mi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-mi_tn</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-mi_wwow</packagereq>
     </packagelist>
@@ -3809,6 +3820,7 @@
     <langonly>ro</langonly>
     <packagelist>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ro</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-ro</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Romanian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ro</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
@@ -4449,6 +4461,7 @@
     <uservisible>false</uservisible>
     <langonly>tl</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-tl</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-tl</packagereq>
     </packagelist>
   </group>
@@ -4646,6 +4659,7 @@
     <langonly>uk</langonly>
     <packagelist>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-uk</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-uk</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Ukrainian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Ukrainian</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-uk</packagereq>
@@ -4668,6 +4682,7 @@
     <packagelist>
       <packagereq type="mandatory">m17n-contrib-urdu</packagereq>
       <packagereq type="mandatory">paktype-fonts</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-ur</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
       <packagereq type="default">dejavu-fonts</packagereq>
       <packagereq type="default">nafees-web-naskh-fonts</packagereq>
@@ -4682,6 +4697,7 @@
     <uservisible>false</uservisible>
     <langonly>uz</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-uz</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-uz</packagereq>
     </packagelist>
   </group>
@@ -4705,6 +4721,7 @@
     <uservisible>false</uservisible>
     <langonly>vi</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-vi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-vi</packagereq>
       <packagereq type="optional">m17n-contrib-vietnamese</packagereq>
       <packagereq type="optional">m17n-db-vietnamese</packagereq>
@@ -4734,6 +4751,7 @@
     <uservisible>false</uservisible>
     <langonly>wa</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-wa</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Walloon</packagereq>
     </packagelist>
   </group>
