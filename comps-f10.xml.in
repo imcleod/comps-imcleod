@@ -48,6 +48,7 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-af</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-af</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-af</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-af</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-af_ZA</packagereq>
     </packagelist>
@@ -5008,6 +5009,7 @@
     <langonly>zu</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-zu</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-zu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zu_ZA</packagereq>
     </packagelist>
   </group>
