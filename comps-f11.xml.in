@@ -1397,6 +1397,7 @@
       <packagereq type="mandatory">fontforge</packagereq>
       <packagereq type="mandatory">xgridfit</packagereq>
       <packagereq type="default">fontmatrix</packagereq>
+      <packagereq type="default">fontpackages-devel</packagereq>
       <packagereq type="default">fonttools</packagereq>
       <packagereq type="default">fontypython</packagereq>
       <packagereq type="default">ghostscript</packagereq>
@@ -1413,6 +1414,7 @@
       <packagereq type="optional">cvs</packagereq>
       <packagereq type="optional">darcs</packagereq>
       <packagereq type="optional">freetype-demos</packagereq>
+      <packagereq type="optional">gbdfed</packagereq>
       <packagereq type="optional">ghostscript-doc</packagereq>
       <packagereq type="optional">ghostscript-gtk</packagereq>
       <packagereq type="optional">giggle</packagereq>
@@ -1425,6 +1427,7 @@
       <packagereq type="optional">scribus</packagereq>
       <packagereq type="optional">scribus-doc</packagereq>
       <packagereq type="optional">subversion</packagereq>
+      <packagereq type="optional">xmbdfed</packagereq>
     </packagelist>
   </group>
   <group>
