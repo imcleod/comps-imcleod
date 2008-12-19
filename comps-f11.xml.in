@@ -66,6 +66,17 @@
     </packagelist>
   </group>
   <group>
+    <id>amazigh-support</id>
+    <_name>Amazigh Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>ber</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-ber</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>arabic-support</id>
     <_name>Arabic Support</_name>
     <_description/>
@@ -1603,6 +1614,28 @@
     </packagelist>
   </group>
   <group>
+    <id>friulian-support</id>
+    <_name>Friulian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>fur</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-fur</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>frisian-support</id>
+    <_name>Frisian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>fy</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-fy</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>ftp-server</id>
     <_name>FTP Server</_name>
     <_description>These tools allow you to run an FTP server on the system.</_description>
@@ -3096,6 +3129,17 @@
     </packagelist>
   </group>
   <group>
+    <id>kinyarwanda-support</id>
+    <_name>Kinyarwanda Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>rw</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-rw</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>konkani-support</id>
     <_name>Konkani Support</_name>
     <_description/>
@@ -3413,6 +3457,17 @@
     </packagelist>
   </group>
   <group>
+    <id>malagasy-support</id>
+    <_name>Malagasy Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>mg</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-mg</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>malay-support</id>
     <_name>Malay Support</_name>
     <_description/>
@@ -3648,6 +3703,17 @@
       <packagereq type="conditional" requires="moodle">moodle-no_gr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nb_NO</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nn_NO</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>occitan-support</id>
+    <_name>Occitan Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>oc</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-oc</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4686,6 +4752,17 @@
     </packagelist>
   </group>
   <group>
+    <id>turkmen-support</id>
+    <_name>Turkmen Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>tk</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-tk</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>ukrainian-support</id>
     <_name>Ukrainian Support</_name>
     <_description/>
@@ -4706,6 +4783,17 @@
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>upper-sorbian-support</id>
+    <_name>Upper Sobrbian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>hsb</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-hsb</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5099,6 +5187,7 @@
     <grouplist>
       <groupid>afrikaans-support</groupid>
       <groupid>albanian-support</groupid>
+      <groupid>amazigh-support</groupid>
       <groupid>arabic-support</groupid>
       <groupid>armenian-support</groupid>
       <groupid>assamese-support</groupid>
@@ -5125,6 +5214,8 @@
       <groupid>filipino-support</groupid>
       <groupid>finnish-support</groupid>
       <groupid>french-support</groupid>
+      <groupid>friulian-support</groupid>
+      <groupid>frisian-support</groupid>
       <groupid>gaelic-support</groupid>
       <groupid>galician-support</groupid>
       <groupid>georgian-support</groupid>
@@ -5143,6 +5234,7 @@
       <groupid>kannada-support</groupid>
       <groupid>kashmiri-support</groupid>
       <groupid>kashubian-support</groupid>
+      <groupid>kinyarwanda-support</groupid>
       <groupid>khmer-support</groupid>
       <groupid>konkani-support</groupid>
       <groupid>korean-support</groupid>
@@ -5153,6 +5245,7 @@
       <groupid>low-saxon-support</groupid>
       <groupid>macedonian-support</groupid>
       <groupid>maithili-support</groupid>
+      <groupid>malagasy-support</groupid>
       <groupid>malay-support</groupid>
       <groupid>malayalam-support</groupid>
       <groupid>maori-support</groupid>
@@ -5162,6 +5255,7 @@
       <groupid>northern-sami-support</groupid>
       <groupid>northern-sotho-support</groupid>
       <groupid>norwegian-support</groupid>
+      <groupid>occitan-support</groupid>
       <groupid>oriya-support</groupid>
       <groupid>persian-support</groupid>
       <groupid>polish-support</groupid>
@@ -5191,7 +5285,9 @@
       <groupid>tsonga-support</groupid>
       <groupid>tswana-support</groupid>
       <groupid>turkish-support</groupid>
+      <groupid>turkmen-support</groupid>
       <groupid>ukrainian-support</groupid>
+      <groupid>upper-sorbian-support</groupid>
       <groupid>urdu-support</groupid>
       <groupid>uzbek-support</groupid>
       <groupid>venda-support</groupid>
