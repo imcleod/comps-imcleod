@@ -4845,7 +4845,9 @@
     <uservisible>false</uservisible>
     <langonly>ve</langonly>
     <packagelist>
-      <packagereq type="mandatory">dejavu-fonts</packagereq>
+      <packagereq type="mandatory">dejavu-fonts-sans</packagereq>
+      <packagereq type="mandatory">dejavu-fonts-sans-mono</packagereq>
+      <packagereq type="mandatory">dejavu-fonts-serif</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ve</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ve_ZA</packagereq>
     </packagelist>
