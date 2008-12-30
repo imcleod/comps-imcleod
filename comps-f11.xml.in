@@ -1621,17 +1621,6 @@
     </packagelist>
   </group>
   <group>
-    <id>friulian-support</id>
-    <_name>Friulian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <langonly>fur</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-fur</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>frisian-support</id>
     <_name>Frisian Support</_name>
     <_description/>
@@ -1640,6 +1629,17 @@
     <langonly>fy</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-fy</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>friulian-support</id>
+    <_name>Friulian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>fur</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-fur</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5228,8 +5228,8 @@
       <groupid>filipino-support</groupid>
       <groupid>finnish-support</groupid>
       <groupid>french-support</groupid>
-      <groupid>friulian-support</groupid>
       <groupid>frisian-support</groupid>
+      <groupid>friulian-support</groupid>
       <groupid>gaelic-support</groupid>
       <groupid>galician-support</groupid>
       <groupid>georgian-support</groupid>
@@ -5248,8 +5248,8 @@
       <groupid>kannada-support</groupid>
       <groupid>kashmiri-support</groupid>
       <groupid>kashubian-support</groupid>
-      <groupid>kinyarwanda-support</groupid>
       <groupid>khmer-support</groupid>
+      <groupid>kinyarwanda-support</groupid>
       <groupid>konkani-support</groupid>
       <groupid>korean-support</groupid>
       <groupid>kurdish-support</groupid>
