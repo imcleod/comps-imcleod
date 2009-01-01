@@ -639,11 +639,11 @@
       <packagereq type="default">cluster-cim</packagereq>
       <packagereq type="default">cluster-snmp</packagereq>
       <packagereq type="default">ipvsadm</packagereq>
-      <packagereq type="default">luci</packagereq>   
+      <packagereq type="default">luci</packagereq>
       <packagereq type="default">modcluster</packagereq>
-      <packagereq type="default">pirahna</packagereq>   
-      <packagereq type="default">rgmanager</packagereq> 
-      <packagereq type="default">ricci</packagereq>    
+      <packagereq type="default">pirahna</packagereq>
+      <packagereq type="default">rgmanager</packagereq>
+      <packagereq type="default">ricci</packagereq>
       <packagereq type="default">system-config-cluster</packagereq>
       <packagereq type="optional">heartbeat</packagereq>
     </packagelist>
@@ -1138,6 +1138,7 @@
       <packagereq type="optional">fantasdic</packagereq>
       <packagereq type="optional">gcompris</packagereq>
       <packagereq type="optional">genchemlab</packagereq>
+      <packagereq type="optional">glglobe</packagereq>
       <packagereq type="optional">gperiodic</packagereq>
       <packagereq type="optional">gtypist</packagereq>
       <packagereq type="optional">kdeedu</packagereq>
@@ -4150,6 +4151,8 @@
       <packagereq type="default">pavucontrol</packagereq>
       <packagereq type="default">pulseaudio</packagereq>
       <packagereq type="default">pulseaudio-utils</packagereq>
+      <packagereq type="default">pyvnc2swf</packagereq>
+      <packagereq type="default">rakarrack</packagereq>
       <packagereq type="default">rhythmbox</packagereq>
       <packagereq type="default">sound-juicer</packagereq>
       <packagereq type="default">sox</packagereq>
