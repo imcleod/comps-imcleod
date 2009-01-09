@@ -1136,18 +1136,24 @@
     <packagelist>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-en</packagereq>
       <packagereq type="optional">childsplay</packagereq>
-      <packagereq type="optional">drgeo</packagereq>
+      <packagereq type="optional">corrida</packagereq>
       <packagereq type="optional">drgeo-doc</packagereq>
+      <packagereq type="optional">drgeo</packagereq>
       <packagereq type="optional">fantasdic</packagereq>
       <packagereq type="optional">gcompris</packagereq>
       <packagereq type="optional">genchemlab</packagereq>
       <packagereq type="optional">glglobe</packagereq>
       <packagereq type="optional">gperiodic</packagereq>
       <packagereq type="optional">gtypist</packagereq>
-      <packagereq type="optional">kdeedu</packagereq>
+      <packagereq type="optional">justmoon</packagereq>
       <packagereq type="optional">kdeedu-kstars</packagereq>
       <packagereq type="optional">kdeedu-math</packagereq>
+      <packagereq type="optional">kdeedu</packagereq>
       <packagereq type="optional">moodle</packagereq>
+      <packagereq type="optional">nightview</packagereq>
+      <packagereq type="optional">saoimage</packagereq>
+      <packagereq type="optional">skychart</packagereq>
+      <packagereq type="optional">starlab</packagereq>
       <packagereq type="optional">stellarium</packagereq>
       <packagereq type="optional">tuxtype2</packagereq>
     </packagelist>
@@ -1938,6 +1944,7 @@
       <packagereq type="optional">xqf</packagereq>
       <packagereq type="optional">xscorch</packagereq>
       <packagereq type="optional">xstar</packagereq>
+      <packagereq type="optional">xteddy</packagereq>
       <packagereq type="optional">xu4</packagereq>
       <packagereq type="optional">zasx</packagereq>
     </packagelist>
@@ -2435,6 +2442,7 @@
       <packagereq type="default">rt61pci-firmware</packagereq>
       <packagereq type="default">rt73usb-firmware</packagereq>
       <packagereq type="default">zd1211-firmware</packagereq>
+      <packagereq type="default">printer-filters</packagereq>
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
       <packagereq type="optional">ctapi-cyberjack</packagereq>
@@ -3795,6 +3803,7 @@
       <packagereq type="optional">qcad</packagereq>
       <packagereq type="optional">referencer</packagereq>
       <packagereq type="optional">revelation</packagereq>
+      <packagereq type="optional">sunbird</packagereq>
       <packagereq type="optional">taskcoach</packagereq>
       <packagereq type="optional">taskjuggler</packagereq>
       <packagereq type="optional">tellico</packagereq>
@@ -4486,6 +4495,7 @@
       <packagereq type="optional">incron</packagereq>
       <packagereq type="optional">ip6sic</packagereq>
       <packagereq type="optional">iptraf</packagereq>
+      <packagereq type="optional">ircp-tray</packagereq>
       <packagereq type="optional">isic</packagereq>
       <packagereq type="optional">jfbterm</packagereq>
       <packagereq type="optional">john</packagereq>
@@ -4554,6 +4564,7 @@
       <packagereq type="optional">torque-gui</packagereq>
       <packagereq type="optional">tsclient</packagereq>
       <packagereq type="optional">ttywatch</packagereq>
+      <packagereq type="optional">tunctl</packagereq>
       <packagereq type="optional">unison213</packagereq>
       <packagereq type="optional">unison227</packagereq>
       <packagereq type="optional">upx</packagereq>
