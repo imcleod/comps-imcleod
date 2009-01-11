@@ -1137,8 +1137,8 @@
       <packagereq type="conditional" requires="gcompris">gcompris-sound-en</packagereq>
       <packagereq type="optional">childsplay</packagereq>
       <packagereq type="optional">corrida</packagereq>
-      <packagereq type="optional">drgeo-doc</packagereq>
       <packagereq type="optional">drgeo</packagereq>
+      <packagereq type="optional">drgeo-doc</packagereq>
       <packagereq type="optional">fantasdic</packagereq>
       <packagereq type="optional">gcompris</packagereq>
       <packagereq type="optional">genchemlab</packagereq>
@@ -1146,9 +1146,9 @@
       <packagereq type="optional">gperiodic</packagereq>
       <packagereq type="optional">gtypist</packagereq>
       <packagereq type="optional">justmoon</packagereq>
+      <packagereq type="optional">kdeedu</packagereq>
       <packagereq type="optional">kdeedu-kstars</packagereq>
       <packagereq type="optional">kdeedu-math</packagereq>
-      <packagereq type="optional">kdeedu</packagereq>
       <packagereq type="optional">moodle</packagereq>
       <packagereq type="optional">nightview</packagereq>
       <packagereq type="optional">saoimage</packagereq>
@@ -2435,6 +2435,7 @@
       <packagereq type="default">iwl4965-firmware</packagereq>
       <packagereq type="default">iwl5000-firmware</packagereq>
       <packagereq type="default">libertas-usb8388-firmware</packagereq>
+      <packagereq type="default">printer-filters</packagereq>
       <packagereq type="default">ql2100-firmware</packagereq>
       <packagereq type="default">ql2200-firmware</packagereq>
       <packagereq type="default">ql23xx-firmware</packagereq>
@@ -2442,7 +2443,6 @@
       <packagereq type="default">rt61pci-firmware</packagereq>
       <packagereq type="default">rt73usb-firmware</packagereq>
       <packagereq type="default">zd1211-firmware</packagereq>
-      <packagereq type="default">printer-filters</packagereq>
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
       <packagereq type="optional">ctapi-cyberjack</packagereq>
@@ -4164,8 +4164,6 @@
       <packagereq type="default">pavucontrol</packagereq>
       <packagereq type="default">pulseaudio</packagereq>
       <packagereq type="default">pulseaudio-utils</packagereq>
-      <packagereq type="default">pyvnc2swf</packagereq>
-      <packagereq type="default">rakarrack</packagereq>
       <packagereq type="default">rhythmbox</packagereq>
       <packagereq type="default">sound-juicer</packagereq>
       <packagereq type="default">sox</packagereq>
@@ -4234,7 +4232,9 @@
       <packagereq type="optional">pitivi</packagereq>
       <packagereq type="optional">pulseaudio-module-lirc</packagereq>
       <packagereq type="optional">pulseaudio-module-zeroconf</packagereq>
+      <packagereq type="optional">pyvnc2swf</packagereq>
       <packagereq type="optional">quodlibet</packagereq>
+      <packagereq type="optional">rakarrack</packagereq>
       <packagereq type="optional">regionset</packagereq>
       <packagereq type="optional">rosegarden4</packagereq>
       <packagereq type="optional">serpentine</packagereq>
