@@ -1494,6 +1494,7 @@
       <packagereq type="optional">sarai-fonts</packagereq>
       <packagereq type="optional">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">sazanami-fonts-mincho</packagereq>
+      <packagereq type="optional">serafettin-cartoon-fonts</packagereq>
       <packagereq type="optional">silkscreen-fonts</packagereq>
       <packagereq type="optional">smc-fonts-anjalioldlipi</packagereq>
       <packagereq type="optional">smc-fonts-dyuthi</packagereq>
@@ -4511,6 +4512,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-tamil</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-tamil</packagereq>
+      <packagereq type="optional">serafettin-cartoon-fonts</packagereq>
     </packagelist>
   </group>
   <group>
