@@ -1281,10 +1281,10 @@
       <packagereq type="optional">sextractor</packagereq>
       <packagereq type="optional">SIBsim4</packagereq>
       <packagereq type="optional">speedcrunch</packagereq>
-      <packagereq type="optional">stix-fonts-integrals</packagereq>
-      <packagereq type="optional">stix-fonts-pua</packagereq>
-      <packagereq type="optional">stix-fonts-sizes</packagereq>
-      <packagereq type="optional">stix-fonts-variants</packagereq>
+      <packagereq type="optional">stix-integrals-fonts</packagereq>
+      <packagereq type="optional">stix-pua-fonts</packagereq>
+      <packagereq type="optional">stix-sizes-fonts</packagereq>
+      <packagereq type="optional">stix-variants-fonts</packagereq>
       <packagereq type="optional">tcd-utils</packagereq>
       <packagereq type="optional">TeXmacs</packagereq>
       <packagereq type="optional">tgif</packagereq>
@@ -1511,6 +1511,7 @@
       <packagereq type="optional">doulos-fonts</packagereq>
       <packagereq type="optional">dustin-dustismo-fonts</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
+      <packagereq type="optional">ecolier-court-lignes-fonts</packagereq>
       <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-truetype-apl</packagereq>
       <packagereq type="optional">freecol-shadowedblack-fonts</packagereq>
@@ -1535,6 +1536,9 @@
       <packagereq type="optional">gfs-porson-fonts</packagereq>
       <packagereq type="optional">gfs-solomos-fonts</packagereq>
       <packagereq type="optional">gfs-theokritos-fonts</packagereq>
+      <packagereq type="optional">google-droid-sans-fonts</packagereq>
+      <packagereq type="optional">google-droid-sans-mono-fonts</packagereq>
+      <packagereq type="optional">google-droid-serif-fonts</packagereq>
       <packagereq type="optional">hanazono-fonts</packagereq>
       <packagereq type="optional">icelandic-fonts</packagereq>
       <packagereq type="optional">inconsolata-fonts</packagereq>
@@ -1576,10 +1580,10 @@
       <packagereq type="optional">smc-fonts-raghumalayalam</packagereq>
       <packagereq type="optional">smc-fonts-suruma</packagereq>
       <packagereq type="optional">sportrop-fonts</packagereq>
-      <packagereq type="optional">stix-fonts-integrals</packagereq>
-      <packagereq type="optional">stix-fonts-pua</packagereq>
-      <packagereq type="optional">stix-fonts-sizes</packagereq>
-      <packagereq type="optional">stix-fonts-variants</packagereq>
+      <packagereq type="optional">stix-integrals-fonts</packagereq>
+      <packagereq type="optional">stix-pua-fonts</packagereq>
+      <packagereq type="optional">stix-sizes-fonts</packagereq>
+      <packagereq type="optional">stix-variants-fonts</packagereq>
       <packagereq type="optional">thibault-fonts-essays1743</packagereq>
       <packagereq type="optional">thibault-fonts-isabella</packagereq>
       <packagereq type="optional">thibault-fonts-rockets</packagereq>
@@ -1632,6 +1636,7 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fr</packagereq>
       <packagereq type="conditional" requires="tesseract">tesseract-langpack-fr</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
+      <packagereq type="optional">ecolier-court-lignes-fonts</packagereq>
       <packagereq type="optional">m17n-db-french</packagereq>
     </packagelist>
   </group>
