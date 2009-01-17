@@ -4165,7 +4165,6 @@
       <packagereq type="mandatory">vorbis-tools</packagereq>
       <packagereq type="conditional" requires="xine-lib">xine-lib-pulseaudio</packagereq>
       <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
-      <packagereq type="default">bluez-alsa</packagereq>
       <packagereq type="default">cdparanoia</packagereq>
       <packagereq type="default">genisoimage</packagereq>
       <packagereq type="default">gstreamer-plugins-good</packagereq>
@@ -4192,6 +4191,7 @@
       <packagereq type="optional">audacity</packagereq>
       <packagereq type="optional">aumix</packagereq>
       <packagereq type="optional">banshee</packagereq>
+      <packagereq type="optional">bluez-alsa</packagereq>
       <packagereq type="optional">bmpx</packagereq>
       <packagereq type="optional">brasero</packagereq>
       <packagereq type="optional">camE</packagereq>
