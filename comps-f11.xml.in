@@ -127,7 +127,7 @@
       <packagereq type="mandatory">m17n-contrib-assamese</packagereq>
       <packagereq type="mandatory">m17n-db-assamese</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-as_IN</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-assamese</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -426,7 +426,7 @@
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Bengali</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-bn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bn</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-bengali</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -602,26 +602,22 @@
       <packagereq type="conditional" requires="moodle">moodle-zh_tw</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_CN</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-chewing</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-chinese</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-python-chinese</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-tables-chinese</packagereq>
-      <packagereq type="default">scim-python-pinyin</packagereq>
-      <packagereq type="default">scim-python-xingma-cangjie</packagereq>
-      <packagereq type="default">scim-python-xingma-erbi</packagereq>
-      <packagereq type="default">scim-python-xingma-wubi</packagereq>
-      <packagereq type="default">scim-python-xingma-zhengma</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-table-chinese</packagereq>
       <packagereq type="default">taipeifonts</packagereq>
       <packagereq type="default">wqy-bitmap-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
-      <packagereq type="optional">ibus-chewing</packagereq>
-      <packagereq type="optional">ibus-pinyin</packagereq>
-      <packagereq type="optional">ibus-table-chinese</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-chinese</packagereq>
       <packagereq type="optional">scim-array</packagereq>
       <packagereq type="optional">scim-fcitx</packagereq>
       <packagereq type="optional">scim-pinyin</packagereq>
+      <packagereq type="optional">scim-python-pinyin</packagereq>
+      <packagereq type="optional">scim-python-xingma-cangjie</packagereq>
+      <packagereq type="optional">scim-python-xingma-erbi</packagereq>
+      <packagereq type="optional">scim-python-xingma-wubi</packagereq>
+      <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
       <packagereq type="optional">scim-tables-chinese-extra</packagereq>
       <packagereq type="optional">stardict-dic-zh_CN</packagereq>
       <packagereq type="optional">stardict-dic-zh_TW</packagereq>
@@ -2423,7 +2419,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-gu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-gu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-gu_IN</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-gujarati</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-gujarati</packagereq>
     </packagelist>
@@ -2484,14 +2480,14 @@
       <packagereq type="default">alex</packagereq>
       <packagereq type="default">darcs</packagereq>
       <packagereq type="default">ghc</packagereq>
-      <packagereq type="default">haddock09</packagereq>
+      <packagereq type="default">ghc-doc</packagereq>
       <packagereq type="default">happy</packagereq>
-      <packagereq type="default">hugs98</packagereq>
-      <packagereq type="optional">ghc-doc</packagereq>
       <packagereq type="optional">ghc-gtk2hs</packagereq>
-      <packagereq type="optional">ghc-haddock</packagereq>
+      <packagereq type="optional">ghc-gtk2hs-doc</packagereq>
       <packagereq type="optional">ghc-prof</packagereq>
       <packagereq type="optional">haddock</packagereq>
+      <packagereq type="optional">haddock09</packagereq>
+      <packagereq type="optional">hugs98</packagereq>
       <packagereq type="optional">hugs98-alut</packagereq>
       <packagereq type="optional">hugs98-demos</packagereq>
       <packagereq type="optional">hugs98-glut</packagereq>
@@ -2540,7 +2536,7 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Hindi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hi_IN</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-hindi</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-devanagari</packagereq>
       <packagereq type="default">sarai-fonts</packagereq>
@@ -2604,9 +2600,13 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="xfce-utils">imsettings-xfce</packagereq>
-      <packagereq type="conditional" requires="gtk2">scim-bridge-gtk</packagereq>
-      <packagereq type="conditional" requires="qt">scim-bridge-qt</packagereq>
-      <packagereq type="conditional" requires="qt3">scim-qtimm</packagereq>
+      <packagereq type="conditional" requires="gtk2">ibus-gtk</packagereq>
+      <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
+      <packagereq type="default">ibus-anthy</packagereq>
+      <packagereq type="default">ibus-chewing</packagereq>
+      <packagereq type="default">ibus-hangul</packagereq>
+      <packagereq type="default">ibus-m17n</packagereq>
+      <packagereq type="default">ibus-pinyin</packagereq>
       <packagereq type="default">m17n-contrib-assamese</packagereq>
       <packagereq type="default">m17n-contrib-bengali</packagereq>
       <packagereq type="default">m17n-contrib-gujarati</packagereq>
@@ -2621,24 +2621,9 @@
       <packagereq type="default">m17n-contrib-urdu</packagereq>
       <packagereq type="default">m17n-db-sinhala</packagereq>
       <packagereq type="default">m17n-db-thai</packagereq>
-      <packagereq type="default">scim-anthy</packagereq>
-      <packagereq type="default">scim-chewing</packagereq>
-      <packagereq type="default">scim-hangul</packagereq>
-      <packagereq type="default">scim-m17n</packagereq>
-      <packagereq type="default">scim-python-pinyin</packagereq>
-      <packagereq type="default">scim-rawcode</packagereq>
       <packagereq type="optional">cellwriter</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">gok</packagereq>
-      <packagereq type="optional">ibus</packagereq>
-      <packagereq type="optional">ibus-anthy</packagereq>
-      <packagereq type="optional">ibus-chewing</packagereq>
-      <packagereq type="optional">ibus-gtk</packagereq>
-      <packagereq type="optional">ibus-hangul</packagereq>
-      <packagereq type="optional">ibus-m17n</packagereq>
-      <packagereq type="optional">ibus-pinyin</packagereq>
-      <packagereq type="optional">ibus-qt</packagereq>
-      <packagereq type="optional">ibus-table</packagereq>
       <packagereq type="optional">ibus-table-additional</packagereq>
       <packagereq type="optional">ibus-table-chinese</packagereq>
       <packagereq type="optional">iok</packagereq>
@@ -2686,29 +2671,31 @@
       <packagereq type="optional">m17n-db-uyghur</packagereq>
       <packagereq type="optional">m17n-db-vietnamese</packagereq>
       <packagereq type="optional">nabi</packagereq>
+      <packagereq type="optional">scim-anthy</packagereq>
       <packagereq type="optional">scim-array</packagereq>
+      <packagereq type="optional">scim-bridge-gtk</packagereq>
+      <packagereq type="optional">scim-bridge-qt</packagereq>
       <packagereq type="optional">scim-bridge-qt3</packagereq>
+      <packagereq type="optional">scim-chewing</packagereq>
       <packagereq type="optional">scim-fcitx</packagereq>
       <packagereq type="optional">scim-gtk</packagereq>
+      <packagereq type="optional">scim-hangul</packagereq>
       <packagereq type="optional">scim-input-pad</packagereq>
+      <packagereq type="optional">scim-m17n</packagereq>
       <packagereq type="optional">scim-pinyin</packagereq>
       <packagereq type="optional">scim-python-chinese</packagereq>
       <packagereq type="optional">scim-python-english</packagereq>
+      <packagereq type="optional">scim-python-pinyin</packagereq>
       <packagereq type="optional">scim-python-xingma-cangjie</packagereq>
       <packagereq type="optional">scim-python-xingma-erbi</packagereq>
       <packagereq type="optional">scim-python-xingma-wubi</packagereq>
       <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
+      <packagereq type="optional">scim-rawcode</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
       <packagereq type="optional">scim-skk</packagereq>
       <packagereq type="optional">scim-tables-additional</packagereq>
-      <packagereq type="optional">scim-tables-amharic</packagereq>
-      <packagereq type="optional">scim-tables-arabic</packagereq>
       <packagereq type="optional">scim-tables-chinese</packagereq>
       <packagereq type="optional">scim-tables-chinese-extra</packagereq>
-      <packagereq type="optional">scim-tables-nepali</packagereq>
-      <packagereq type="optional">scim-tables-russian</packagereq>
-      <packagereq type="optional">scim-tables-thai</packagereq>
-      <packagereq type="optional">scim-tables-vietnamese</packagereq>
       <packagereq type="optional">scim-tomoe</packagereq>
       <packagereq type="optional">uim</packagereq>
       <packagereq type="optional">uim-anthy</packagereq>
@@ -2788,8 +2775,7 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ja</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ja</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ja_JP</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-anthy</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-japanese</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-anthy</packagereq>
       <packagereq type="conditional" requires="uim">uim-anthy</packagereq>
       <packagereq type="default">japanese-bitmap-fonts</packagereq>
       <packagereq type="default">sazanami-fonts-gothic</packagereq>
@@ -2821,6 +2807,7 @@
       <packagereq type="optional">nkf</packagereq>
       <packagereq type="optional">oniguruma</packagereq>
       <packagereq type="optional">perl-NKF</packagereq>
+      <packagereq type="optional">scim-anthy</packagereq>
       <packagereq type="optional">scim-skk</packagereq>
       <packagereq type="optional">stardict-dic-ja</packagereq>
       <packagereq type="optional">uim-canna</packagereq>
@@ -2983,7 +2970,7 @@
       <packagereq type="mandatory">m17n-db-kannada</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-kn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-kn_IN</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-kannada</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -2996,7 +2983,7 @@
     <langonly>ks</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-fonts-kashmiri</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-hindi</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">m17n-contrib-hindi</packagereq>
       <packagereq type="default">m17n-db-hindi</packagereq>
@@ -3182,7 +3169,7 @@
     <langonly>kok</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-fonts-konkani</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-hindi</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">m17n-contrib-hindi</packagereq>
       <packagereq type="default">m17n-db-hindi</packagereq>
@@ -3203,8 +3190,7 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ko</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ko</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ko_KR</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-hangul</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-korean</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-hangul</packagereq>
       <packagereq type="default">baekmuk-bdf-fonts</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-batang</packagereq>
       <packagereq type="default">baekmuk-ttf-fonts-dotum</packagereq>
@@ -3483,7 +3469,7 @@
     <uservisible>false</uservisible>
     <langonly>mai</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-hindi</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">lohit-fonts-maithili</packagereq>
       <packagereq type="default">m17n-contrib-hindi</packagereq>
@@ -3529,7 +3515,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-ml</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ml</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ml_IN</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-malayalam</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">lohit-fonts-malayalam</packagereq>
       <packagereq type="default">samyak-fonts-malayalam</packagereq>
@@ -3569,7 +3555,7 @@
       <packagereq type="conditional" requires="gcompris">gcompris-sound-mr</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-mr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mr_IN</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-marathi</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-devanagari</packagereq>
     </packagelist>
@@ -3623,7 +3609,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-ne</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Nepali</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-nepali</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="optional">scim-tables-nepali</packagereq>
     </packagelist>
   </group>
@@ -3842,7 +3828,7 @@
       <packagereq type="conditional" requires="aspell">aspell-or</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-or</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-or_IN</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-oriya</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-oriya</packagereq>
     </packagelist>
@@ -3942,7 +3928,7 @@
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Punjabi</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Punjabi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pa_IN</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-punjabi</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -4086,8 +4072,8 @@
       <packagereq type="mandatory">m17n-contrib-sinhala</packagereq>
       <packagereq type="mandatory">m17n-db-sinhala</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-si</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-sinhalese</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-sayura</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="optional">scim-sayura</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4637,7 +4623,7 @@
       <packagereq type="conditional" requires="moodle">moodle-ta</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ta_lk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ta_IN</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-tamil</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-fonts-tamil</packagereq>
       <packagereq type="optional">serafettin-cartoon-fonts</packagereq>
@@ -4657,7 +4643,7 @@
       <packagereq type="conditional" requires="aspell">aspell-te</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-te</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-te_IN</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-telugu</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -4721,7 +4707,7 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Thai</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-th</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-th_TH</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-thai</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="optional">scim-tables-thai</packagereq>
     </packagelist>
   </group>
@@ -4735,7 +4721,7 @@
     <packagelist>
       <packagereq type="mandatory">m17n-db-tibetan</packagereq>
       <packagereq type="mandatory">tibetan-machine-uni-fonts</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">scim-lang-tibetan</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
     </packagelist>
   </group>
