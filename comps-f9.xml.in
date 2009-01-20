@@ -2626,6 +2626,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">kdebase-workspace</packagereq>
+      <packagereq type="mandatory">kdelibs</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-qt</packagereq>
       <packagereq type="default">amarok</packagereq>
       <packagereq type="default">digikam</packagereq>
