@@ -5099,13 +5099,15 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">desktop-backgrounds-compat</packagereq>
-      <packagereq type="mandatory">libxfce4mcs</packagereq>
+      <packagereq type="mandatory">libxfce4menu</packagereq>
       <packagereq type="mandatory">libxfce4util</packagereq>
       <packagereq type="mandatory">libxfcegui4</packagereq>
       <packagereq type="mandatory">Thunar</packagereq>
       <packagereq type="mandatory">xfce-utils</packagereq>
       <packagereq type="mandatory">xfce4-panel</packagereq>
       <packagereq type="mandatory">xfce4-session</packagereq>
+      <packagereq type="mandatory">xfce4-settings</packagereq>
+      <packagereq type="mandatory">xfconf</packagereq>
       <packagereq type="mandatory">xfdesktop</packagereq>
       <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-xfce</packagereq>
@@ -5114,8 +5116,6 @@
       <packagereq type="default">thunar-archive-plugin</packagereq>
       <packagereq type="default">thunar-volman</packagereq>
       <packagereq type="default">xarchiver</packagereq>
-      <packagereq type="default">xfce-mcs-manager</packagereq>
-      <packagereq type="default">xfce-mcs-plugins</packagereq>
       <packagereq type="default">xfce4-appfinder</packagereq>
       <packagereq type="default">xfce4-icon-theme</packagereq>
       <packagereq type="default">xfce4-mailwatch-plugin</packagereq>
@@ -5128,8 +5128,6 @@
       <packagereq type="optional">thunar-media-tags-plugin</packagereq>
       <packagereq type="optional">thunar-shares</packagereq>
       <packagereq type="optional">xfbib</packagereq>
-      <packagereq type="optional">xfce-mcs-plugin-gsynaptics</packagereq>
-      <packagereq type="optional">xfce-mcs-plugins-extra</packagereq>
       <packagereq type="optional">xfce4-battery-plugin</packagereq>
       <packagereq type="optional">xfce4-clipman-plugin</packagereq>
       <packagereq type="optional">xfce4-cpugraph-plugin</packagereq>
@@ -5161,7 +5159,6 @@
       <packagereq type="optional">xfce4-websearch-plugin</packagereq>
       <packagereq type="optional">xfce4-xfapplet-plugin</packagereq>
       <packagereq type="optional">xfce4-xkb-plugin</packagereq>
-      <packagereq type="optional">xfce4-xmms-plugin</packagereq>
       <packagereq type="optional">xfmpc</packagereq>
       <packagereq type="optional">xfprint</packagereq>
       <packagereq type="optional">xfwm4-themes</packagereq>
@@ -5177,12 +5174,13 @@
       <groupreq>x-software-development</groupreq>
     </grouplist>
     <packagelist>
-      <packagereq type="mandatory">libxfce4mcs-devel</packagereq>
+      <packagereq type="mandatory">libxfce4menu-devel</packagereq>
       <packagereq type="mandatory">libxfce4util-devel</packagereq>
       <packagereq type="mandatory">libxfcegui4-devel</packagereq>
-      <packagereq type="mandatory">xfce-mcs-manager-devel</packagereq>
       <packagereq type="mandatory">xfce4-panel-devel</packagereq>
       <packagereq type="mandatory">xfce4-session-devel</packagereq>
+      <packagereq type="mandatory">xfconf-devel</packagereq>
+      <packagereq type="default">exo-devel</packagereq>
       <packagereq type="default">Thunar-devel</packagereq>
       <packagereq type="optional">xfce4-dev-tools</packagereq>
     </packagelist>
