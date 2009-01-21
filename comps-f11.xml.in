@@ -138,7 +138,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="conditional" requires="texlive">tetex-font-cm-lgc</packagereq>
+      <packagereq type="conditional" requires="texlive">tex-cm-lgc</packagereq>
       <packagereq type="default">docbook-slides</packagereq>
       <packagereq type="default">docbook-style-dsssl</packagereq>
       <packagereq type="default">docbook-style-xsl</packagereq>
@@ -2382,7 +2382,11 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-el</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-el</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-el_GR</packagereq>
+      <packagereq type="conditional" requires="texlive">tex-cm-lgc</packagereq>
       <packagereq type="conditional" requires="texlive">tetex-font-kerkis</packagereq>
+      <packagereq type="optional">ctan-cm-lgc-roman-fonts</packagereq>
+      <packagereq type="optional">ctan-cm-lgc-sans-fonts</packagereq>
+      <packagereq type="optional">ctan-cm-lgc-typewriter-fonts</packagereq>
       <packagereq type="optional">gfs-ambrosia-fonts</packagereq>
       <packagereq type="optional">gfs-artemisia-fonts</packagereq>
       <packagereq type="optional">gfs-baskerville-fonts</packagereq>
