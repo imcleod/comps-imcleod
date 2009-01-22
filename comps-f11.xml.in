@@ -588,8 +588,8 @@
     <uservisible>false</uservisible>
     <langonly>zh</langonly>
     <packagelist>
-      <packagereq type="mandatory">cjkunifonts-ukai</packagereq>
-      <packagereq type="mandatory">cjkunifonts-uming</packagereq>
+      <packagereq type="mandatory">cjkuni-ukai-fonts</packagereq>
+      <packagereq type="mandatory">cjkuni-uming-fonts</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh_TW</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
@@ -1462,7 +1462,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">abyssinica-fonts</packagereq>
-      <packagereq type="default">cjkunifonts-uming</packagereq>
+      <packagereq type="default">cjkuni-uming-fonts</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
@@ -1499,7 +1499,7 @@
       <packagereq type="optional">bitstream-vera-serif-fonts</packagereq>
       <packagereq type="optional">brettfont-fonts</packagereq>
       <packagereq type="optional">charis-fonts</packagereq>
-      <packagereq type="optional">cjkunifonts-ukai</packagereq>
+      <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-roman-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-sans-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-typewriter-fonts</packagereq>
