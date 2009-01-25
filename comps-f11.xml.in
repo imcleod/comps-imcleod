@@ -1307,6 +1307,7 @@
     <uservisible>false</uservisible>
     <langonly>eo</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-eo</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Esperanto</packagereq>
       <packagereq type="optional">m17n-contrib-esperanto</packagereq>
     </packagelist>
@@ -1387,6 +1388,7 @@
     <uservisible>false</uservisible>
     <langonly>fil</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-tl</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fil</packagereq>
     </packagelist>
   </group>
@@ -3015,6 +3017,7 @@
     <uservisible>false</uservisible>
     <langonly>csb</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-csb</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Kashubian</packagereq>
     </packagelist>
   </group>
@@ -3586,6 +3589,7 @@
     <uservisible>false</uservisible>
     <langonly>mn</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-mn</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-mn</packagereq>
     </packagelist>
   </group>
@@ -3859,6 +3863,7 @@
     <uservisible>false</uservisible>
     <langonly>fa</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-fa</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-fa</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fa</packagereq>
       <packagereq type="optional">m17n-db-farsi</packagereq>
