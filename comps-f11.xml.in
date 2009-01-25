@@ -98,7 +98,6 @@
       <packagereq type="default">paktype-fonts</packagereq>
       <packagereq type="optional">m17n-db-arabic</packagereq>
       <packagereq type="optional">scim-tables-arabic</packagereq>
-      <packagereq type="optional">unikurd-web-font</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1618,7 +1617,6 @@
       <packagereq type="optional">un-extra-fonts-taza</packagereq>
       <packagereq type="optional">un-extra-fonts-vada</packagereq>
       <packagereq type="optional">un-extra-fonts-yetgul</packagereq>
-      <packagereq type="optional">unikurd-web-font</packagereq>
       <packagereq type="optional">VLGothic-fonts-proportional</packagereq>
       <packagereq type="optional">wqy-zenhei-fonts</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
@@ -3254,7 +3252,6 @@
     <uservisible>false</uservisible>
     <langonly>ku</langonly>
     <packagelist>
-      <packagereq type="mandatory">unikurd-web-font</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ku</packagereq>
     </packagelist>
   </group>
@@ -3873,7 +3870,6 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-fa</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fa</packagereq>
       <packagereq type="optional">m17n-db-farsi</packagereq>
-      <packagereq type="optional">unikurd-web-font</packagereq>
     </packagelist>
   </group>
   <group>
