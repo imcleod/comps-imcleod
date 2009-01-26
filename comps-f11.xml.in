@@ -804,7 +804,9 @@
       <packagereq type="default">python-devel</packagereq>
       <packagereq type="default">rpm-devel</packagereq>
       <packagereq type="default">slang-devel</packagereq>
+      <packagereq type="optional">check-devel</packagereq>
       <packagereq type="optional">libusb-devel</packagereq>
+      <packagereq type="optional">mona-devel</packagereq>
     </packagelist>
   </group>
   <group>
@@ -869,6 +871,7 @@
       <packagereq type="optional">bugzilla</packagereq>
       <packagereq type="optional">buildbot</packagereq>
       <packagereq type="optional">bzr</packagereq>
+      <packagereq type="optional">check</packagereq>
       <packagereq type="optional">clips</packagereq>
       <packagereq type="optional">clips-doc</packagereq>
       <packagereq type="optional">clips-xclips</packagereq>
@@ -910,6 +913,8 @@
       <packagereq basearchonly="true" type="optional">gcc-gnat</packagereq>
       <packagereq basearchonly="true" type="optional">gcc-objc</packagereq>
       <packagereq type="optional">gcl</packagereq>
+      <packagereq type="optional">gcl-emacs</packagereq>
+      <packagereq type="optional">gcl-xemacs</packagereq>
       <packagereq type="optional">gforth</packagereq>
       <packagereq type="optional">ghc</packagereq>
       <packagereq type="optional">giggle</packagereq>
@@ -1166,6 +1171,8 @@
       <packagereq type="optional">alliance</packagereq>
       <packagereq type="optional">asana-math-fonts</packagereq>
       <packagereq type="optional">atlas</packagereq>
+      <packagereq type="optional">automaton</packagereq>
+      <packagereq type="optional">automaton-javadoc</packagereq>
       <packagereq type="optional">blacs</packagereq>
       <packagereq type="optional">blas</packagereq>
       <packagereq type="optional">cdo</packagereq>
@@ -1233,6 +1240,10 @@
       <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">maxima</packagereq>
       <packagereq type="optional">maxima-gui</packagereq>
+      <packagereq type="optional">mona</packagereq>
+      <packagereq type="optional">mona-emacs</packagereq>
+      <packagereq type="optional">mona-examples</packagereq>
+      <packagereq type="optional">mona-xemacs</packagereq>
       <packagereq type="optional">ncl</packagereq>
       <packagereq type="optional">nco</packagereq>
       <packagereq type="optional">ncview</packagereq>
@@ -2978,7 +2989,15 @@
       <packagereq type="default">xml-commons-resolver-javadoc</packagereq>
       <packagereq type="default">xml-commons-which</packagereq>
       <packagereq type="default">xml-commons-which-javadoc</packagereq>
+      <packagereq type="optional">idw-gpl</packagereq>
+      <packagereq type="optional">idw-gpl-javadoc</packagereq>
       <packagereq type="optional">java-1.5.0-gcj-javadoc</packagereq>
+      <packagereq type="optional">jcip-annotations</packagereq>
+      <packagereq type="optional">jcip-annotations-javadoc</packagereq>
+      <packagereq type="optional">jlint</packagereq>
+      <packagereq type="optional">jsr-305</packagereq>
+      <packagereq type="optional">jsr-305-javadoc</packagereq>
+      <packagereq type="optional">pmd</packagereq>
     </packagelist>
   </group>
   <group>
