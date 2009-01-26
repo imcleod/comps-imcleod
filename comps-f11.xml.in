@@ -1405,10 +1405,10 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Finnish</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-fi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fi</packagereq>
+      <packagereq type="conditional" requires="firefox">mozvoikko</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fi_FI</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-voikko</packagereq>
       <packagereq type="default">enchant-voikko</packagereq>
-      <packagereq type="optional">mozvoikko</packagereq>
       <packagereq type="optional">tmispell-voikko</packagereq>
     </packagelist>
   </group>
