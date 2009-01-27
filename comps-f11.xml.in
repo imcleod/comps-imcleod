@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
-<comps>
+<comps xmlns="">
   <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
@@ -406,7 +406,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-be</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Belarusian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-be</packagereq>
-      <packagereq type="optional">edrip-fonts</packagereq>
+      <packagereq type="optional">apanov-edrip-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -544,7 +544,7 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-bg</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-bg</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bg_BG</packagereq>
-      <packagereq type="optional">edrip-fonts</packagereq>
+      <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -1337,7 +1337,7 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-et</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-et</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-et_EE</packagereq>
-      <packagereq type="optional">edrip-fonts</packagereq>
+      <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -1499,7 +1499,7 @@
       <packagereq type="default">thaifonts-scalable</packagereq>
       <packagereq type="default">un-core-fonts-dotum</packagereq>
       <packagereq type="default">VLGothic-fonts</packagereq>
-      <packagereq type="optional">andika-fonts</packagereq>
+      <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">asana-math-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
@@ -1510,7 +1510,6 @@
       <packagereq type="optional">bitstream-vera-sans-mono-fonts</packagereq>
       <packagereq type="optional">bitstream-vera-serif-fonts</packagereq>
       <packagereq type="optional">brettfont-fonts</packagereq>
-      <packagereq type="optional">charis-fonts</packagereq>
       <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-roman-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-sans-fonts</packagereq>
@@ -1527,7 +1526,6 @@
       <packagereq type="optional">dustin-dustismo-fonts</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
       <packagereq type="optional">ecolier-court-lignes-fonts</packagereq>
-      <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-truetype-apl</packagereq>
       <packagereq type="optional">freecol-shadowedblack-fonts</packagereq>
       <packagereq type="optional">freefont</packagereq>
@@ -1593,6 +1591,8 @@
       <packagereq type="optional">sazanami-fonts-gothic</packagereq>
       <packagereq type="optional">sazanami-fonts-mincho</packagereq>
       <packagereq type="optional">serafettin-cartoon-fonts</packagereq>
+      <packagereq type="optional">sil-andika-fonts</packagereq>
+      <packagereq type="optional">sil-charis-fonts</packagereq>
       <packagereq type="optional">silkscreen-fonts</packagereq>
       <packagereq type="optional">smc-fonts-anjalioldlipi</packagereq>
       <packagereq type="optional">smc-fonts-dyuthi</packagereq>
@@ -4026,8 +4026,8 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ru</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ru</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
+      <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
-      <packagereq type="optional">edrip-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
@@ -4068,7 +4068,7 @@
       <packagereq type="conditional" requires="moodle">moodle-sr_cr_bo</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sr_lt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sr</packagereq>
-      <packagereq type="optional">edrip-fonts</packagereq>
+      <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -4853,7 +4853,7 @@
       <packagereq type="conditional" requires="man-pages">man-pages-uk</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-uk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-uk</packagereq>
-      <packagereq type="optional">edrip-fonts</packagereq>
+      <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
