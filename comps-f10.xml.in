@@ -2069,10 +2069,13 @@
       <packagereq type="optional">anjuta-doc</packagereq>
       <packagereq type="optional">bakery-devel</packagereq>
       <packagereq type="optional">bit-devel</packagereq>
-      <packagereq type="optional">bitgtkmm-devel</packagereq>
+      <packagereq type="optional">bit-gtkmm-devel</packagereq>
       <packagereq type="optional">cairomm-devel</packagereq>
       <packagereq type="optional">conexus-devel</packagereq>
-      <packagereq type="optional">conexusmm-devel</packagereq>
+      <packagereq type="optional">conexus-gtkmm-devel</packagereq>
+      <packagereq type="optional">conexus-ssl-devel</packagereq>
+      <packagereq type="optional">conexus-nspr-devel</packagereq>
+      <packagereq type="optional">conexus-nss-devel</packagereq>
       <packagereq type="optional">ddd</packagereq>
       <packagereq type="optional">gazpacho</packagereq>
       <packagereq type="optional">gconfmm26-devel</packagereq>
@@ -2102,6 +2105,8 @@
       <packagereq type="optional">libsigc++20-devel</packagereq>
       <packagereq type="optional">nemiver</packagereq>
       <packagereq type="optional">papyrus-devel</packagereq>
+      <packagereq type="optional">papyrus-gtkmm-devel</packagereq>
+      <packagereq type="optional">papyrus-extras-devel</packagereq>
       <packagereq type="optional">plotmm-devel</packagereq>
       <packagereq type="optional">scim-devel</packagereq>
     </packagelist>
