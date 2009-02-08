@@ -1,409 +1,1429 @@
-# translation of PACKAGE.
-# Copyright (C) 2009 THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# <>, 2009.
-# , fuzzy
-# <>, 2009.
+# translation of comps.
+# Copyright (C) 2009 Red Hat, Inc.
+# This file is distributed under the same license as the comps package.
+# Guido Grazioli <guido.grazioli@gmail.com>, 2009.
+# Pierro Silvio <perplesso82@gmail.com>, 2009.
+# Guido Grazioli <guido.grazioli@gmail.com>, 2009.
+# perplesso82@gmail.com <perplesso82@gmail.com>, 2009.
 # 
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE 1.0\n"
-"Report-Msgid-Bugs-To: tim@cyberelk.net\n"
-"POT-Creation-Date: 2009-01-29 13:24+0000\n"
-"PO-Revision-Date: 2009-01-30 00:45+0100\n"
-"Last-Translator: Daniele Monti <monska13@gmail.com>\n"
-"Language-Team: Italian <fedora-trans-it@redhat.com>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-30 13:36+0000\n"
+"PO-Revision-Date: 2009-02-08 11:37+0100\n"
+"Last-Translator: Pierro Silvio <perplesso82@gmail.com>\n"
+"Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
-#: ../expendable.desktop.in.h:1
-msgid "Expendable"
-msgstr "Spendibili"
-
-#: ../expendable.desktop.in.h:2
-msgid "Home Finances Modeling"
-msgstr "Modello di finanza casalingo"
-
-#: ../main.py:78
-msgid "Name"
-msgstr "Nome"
-
-#: ../main.py:83
-msgid "Type"
-msgstr "Tipo"
-
-#: ../main.py:133
-msgid "Account Type"
-msgstr "Tipo di conto"
-
-#: ../main.py:188 ../main.py:928
-msgid "Untitled"
-msgstr "Senza titolo"
-
-#: ../main.py:190
-#, python-format
-msgid "%s%s - expendable"
-msgstr "%s%s - spendibili"
-
-#: ../main.py:192
-msgid "(read-only)"
-msgstr "(sola-lettura)"
-
-#: ../main.py:268
-msgid "Choose File"
-msgstr "Scegli un file"
-
-#: ../main.py:310
-msgid "Save Failed"
-msgstr "Salvataggio fallito"
-
-#: ../main.py:311
-msgid "Failed to save file."
-msgstr "Fallito il salvataggio del file"
-
-#: ../main.py:312 ../main.py:445 ../main.py:447
-msgid "The error was:"
-msgstr "Errori riscontrati"
-
-#: ../main.py:318
-msgid "Choose Filename"
-msgstr "Scegli il nome del file"
-
-#: ../main.py:401
-msgid "New Account"
-msgstr "Nuovo Conto"
-
-#: ../main.py:443
-msgid "The file is locked by another application."
-msgstr "Il file � gi� in uso da un'altra applicazione."
-
-#: ../main.py:455
-msgid "Open Failed"
-msgstr "Apertura fallita"
-
-#: ../main.py:456
-#, python-format
-msgid "Failed to open file '%s'."
-msgstr "Fallita l'apertura del file '%s'."
-
-#: ../main.py:550
-msgid "Plot"
-msgstr "Grafico"
-
-#: ../main.py:558
-msgid "Account name:"
-msgstr "Nome conto:"
-
-#: ../main.py:582
-msgid "Linked account:"
-msgstr "Conti collegati:"
-
-#: ../main.py:605
-msgid "Start:"
-msgstr "Avvio:"
-
-#: ../main.py:621 ../window.glade.h:11 ../accounts/ftd.glade.h:9
-#: ../accounts/gain.glade.h:4 ../accounts/mortgage.glade.h:12
-#: ../accounts/payment.glade.h:3 ../accounts/regsave.glade.h:12
-#: ../accounts/spend.glade.h:4 ../accounts/stooze.glade.h:12
-msgid "mths"
-msgstr "mesi"
-
-#: ../main.py:626
-msgid "early"
-msgstr "presto"
-
-#: ../main.py:627
-msgid "late"
-msgstr "tardi"
-
-#: ../main.py:922
-msgid "Discard changes"
-msgstr "Perdi i cambiamenti"
-
-#: ../main.py:930
-#, python-format
-msgid "Save changes to %s?"
-msgstr "Salvare i cambiamenti a '%s'?"
-
-#: ../window.glade.h:1
-msgid "Limit:"
-msgstr "Limite:"
-
-#: ../window.glade.h:2
-msgid "Net effect of interest:"
-msgstr "Effetto netto di interesse:"
-
-#: ../window.glade.h:3
-msgid "Overview"
-msgstr "Panoramica"
-
-#: ../window.glade.h:4
-msgid "Run model"
-msgstr "Avvia modello"
-
-#: ../window.glade.h:5
-msgid "Total interest earned:"
-msgstr "Totale interesse guadagnato:"
-
-#: ../window.glade.h:6
-msgid "Total interest paid:"
-msgstr "Totale interessi pagati:"
-
-#: ../window.glade.h:7
-msgid "_Add Account"
-msgstr "_Aggiungi Conto"
-
-#: ../window.glade.h:8
-msgid "_Delete Account"
-msgstr "_Cancella Conto"
-
-#: ../window.glade.h:9
-msgid "_Edit"
-msgstr "_Modifica"
-
-#: ../window.glade.h:10
-msgid "_File"
-msgstr "_File"
-
-#: ../window.glade.h:12 ../accounts/mortgage.glade.h:13
-msgid "yrs"
-msgstr "anni"
-
-#: ../add-account.glade.h:1
-msgid "<b>Description</b>"
-msgstr "<b>Descrizione</b>"
-
-#: ../add-account.glade.h:2
-msgid "<span weight=\"bold\" size=\"larger\">Choose account type</span>"
-msgstr "<span weight=\"bold\" size=\"larger\">Scegli un tipo di conto</span>"
-
-#: ../add-account.glade.h:3
-msgid "Add Account"
-msgstr "Aggiungi un Conto"
-
-#: ../accounts/ftd.py:31
-msgid "Fixed Term Deposit"
-msgstr "Deposito a tempo determinato"
-
-#: ../accounts/ftd.py:32
-msgid "Fixed term deposit with taxable interest paid on maturity."
-msgstr "Deposito a tempo determinato con imponibili gli interessi pagati alla scadenza."
-
-#. pprint (s.get_model_data ())
-#: ../accounts/ftd.glade.h:2 ../accounts/regsave.glade.h:2
-#: ../accounts/savings.glade.h:2 ../accounts/stooze.glade.h:2
-#, no-c-format
-msgid "%"
-msgstr "%"
-
-#: ../accounts/ftd.glade.h:3 ../accounts/gain.glade.h:1
-#: ../accounts/payment.glade.h:1 ../accounts/spend.glade.h:1
-msgid "Amount:"
-msgstr "Quantit�"
-
-#: ../accounts/ftd.glade.h:4 ../accounts/regsave.glade.h:5
-#: ../accounts/savings.glade.h:6
-msgid "Final balance:"
-msgstr "Bilancio finale:"
-
-#: ../accounts/ftd.glade.h:5
-msgid "Gross rate:"
-msgstr "Tasso lordo"
-
-#: ../accounts/ftd.glade.h:6 ../accounts/regsave.glade.h:6
-#: ../accounts/savings.glade.h:7
-msgid "Interest earned:"
-msgstr "Interessi maturati:"
-
-#: ../accounts/ftd.glade.h:7 ../accounts/regsave.glade.h:10
-#: ../accounts/savings.glade.h:9
-msgid "Tax rate:"
-msgstr "Aliquota d'imposta"
-
-#: ../accounts/ftd.glade.h:8 ../accounts/regsave.glade.h:11
-msgid "Term:"
-msgstr "Termine"
-
-#: ../accounts/gain.py:30
-msgid "Extra income"
-msgstr "Reddito extra"
-
-#: ../accounts/gain.py:31
-msgid "Additional regular income."
-msgstr "Ulteriore reddito"
-
-#: ../accounts/gain.glade.h:2 ../accounts/spend.glade.h:2
-msgid "Every"
-msgstr "Ogni"
-
-#: ../accounts/gain.glade.h:3 ../accounts/spend.glade.h:3
-msgid "Frequency:"
-msgstr "Frequenza:"
-
-#: ../accounts/mortgage.py:32
-msgid "Mortgage"
-msgstr "Ipoteca"
-
-#: ../accounts/mortgage.py:33
-msgid "Repayment mortgage with optional offset facility."
-msgstr ""
-
-#: ../accounts/mortgage.py:174
-#, python-format
-msgid "%s (offset)"
-msgstr ""
-
-#: ../accounts/mortgage.py:176
-#, python-format
-msgid "%s (interest)"
-msgstr "%s (interesse)"
-
-#. pprint (m.get_model_data ())
-#: ../accounts/mortgage.glade.h:2 ../accounts/stooze.glade.h:4
-#, no-c-format
-msgid "% APR"
-msgstr "% TAEG"
-
-#: ../accounts/mortgage.glade.h:3
-msgid "Interest saved:"
-msgstr "Interesse salvato:"
-
-#: ../accounts/mortgage.glade.h:4
-msgid "Loan amount:"
-msgstr "Importo prestito:"
-
-#: ../accounts/mortgage.glade.h:5
-msgid "Loan term:"
-msgstr "Termine prestito"
-
-#: ../accounts/mortgage.glade.h:6
-msgid "Monthly payment:"
-msgstr "Pagamento mensile:"
-
-#: ../accounts/mortgage.glade.h:7
-msgid "Offset amount:"
-msgstr ""
-
-#: ../accounts/mortgage.glade.h:8 ../accounts/regsave.glade.h:9
-#: ../accounts/savings.glade.h:8
-msgid "Rate:"
-msgstr "Tariffa:"
-
-#: ../accounts/mortgage.glade.h:9
-msgid "Time saved:"
-msgstr "Tempo guadagnato:"
-
-#: ../accounts/mortgage.glade.h:10
-msgid "Total interest:"
-msgstr "Interesse totale:"
-
-#: ../accounts/mortgage.glade.h:11
-msgid "Total repayments:"
-msgstr "Totale rimborsi:"
-
-#: ../accounts/payment.py:30
-msgid "Payment in installments"
-msgstr "Pagamento rateale"
-
-#: ../accounts/payment.py:31
-msgid "A one-off withdrawal, or a series of withdrawals."
-msgstr "Una tantum di ritiro, o una serie di ritiri."
-
-#: ../accounts/payment.glade.h:2
-msgid "For:"
-msgstr "Per:"
-
-#: ../accounts/regsave.py:31
-msgid "Regular Saver"
-msgstr ""
-
-#: ../accounts/regsave.py:32
+#: ../comps-f7.xml.in.h:1 ../comps-f8.xml.in.h:1 ../comps-f9.xml.in.h:1
+#: ../comps-f10.xml.in.h:1 ../comps-f11.xml.in.h:1
+msgid "A lightweight desktop environment that works well on low end machines."
+msgstr "Un ambiente desktop performante anche su computer meno potenti."
+
+#: ../comps-f7.xml.in.h:2 ../comps-f8.xml.in.h:2 ../comps-f9.xml.in.h:2
+#: ../comps-f10.xml.in.h:2 ../comps-f11.xml.in.h:2 ../comps-el4.xml.in.h:1
+#: ../comps-el5.xml.in.h:1
+msgid "Administration Tools"
+msgstr "Strumenti di amministrazione"
+
+#: ../comps-f7.xml.in.h:3 ../comps-f8.xml.in.h:3 ../comps-f9.xml.in.h:3
+#: ../comps-f10.xml.in.h:3 ../comps-f11.xml.in.h:3
+msgid "Afrikaans Support"
+msgstr "Supporto lingua africana"
+
+#: ../comps-f7.xml.in.h:4 ../comps-f8.xml.in.h:4 ../comps-f9.xml.in.h:4
+#: ../comps-f10.xml.in.h:4 ../comps-f11.xml.in.h:4
+msgid "Albanian Support"
+msgstr "Supporto lingua albanese"
+
+#: ../comps-f7.xml.in.h:5 ../comps-f8.xml.in.h:5 ../comps-f9.xml.in.h:5
+#: ../comps-f10.xml.in.h:5 ../comps-f11.xml.in.h:6 ../comps-el4.xml.in.h:2
+#: ../comps-el5.xml.in.h:2
+msgid "Applications"
+msgstr "Applicazioni"
+
+#: ../comps-f7.xml.in.h:6 ../comps-f8.xml.in.h:6 ../comps-f9.xml.in.h:6
+#: ../comps-f10.xml.in.h:6 ../comps-f11.xml.in.h:7
+msgid "Applications to perform a variety of tasks"
+msgstr "Applicazioni generiche per vari compiti"
+
+#: ../comps-f7.xml.in.h:7 ../comps-f8.xml.in.h:7 ../comps-f9.xml.in.h:7
+#: ../comps-f10.xml.in.h:7 ../comps-f11.xml.in.h:8 ../comps-el4.xml.in.h:4
+#: ../comps-el5.xml.in.h:4
+msgid "Arabic Support"
+msgstr "Supporto lingua araba"
+
+#: ../comps-f7.xml.in.h:8 ../comps-f8.xml.in.h:8 ../comps-f9.xml.in.h:8
+#: ../comps-f10.xml.in.h:8 ../comps-f11.xml.in.h:9 ../comps-el4.xml.in.h:5
+#: ../comps-el5.xml.in.h:5
+msgid "Armenian Support"
+msgstr "Supporto lingua armena"
+
+#: ../comps-f7.xml.in.h:9 ../comps-f8.xml.in.h:9 ../comps-f9.xml.in.h:9
+#: ../comps-f10.xml.in.h:9 ../comps-f11.xml.in.h:10
+msgid "Assamese Support"
+msgstr "Supporto lingua assamese"
+
+#: ../comps-f7.xml.in.h:10 ../comps-f8.xml.in.h:10 ../comps-f9.xml.in.h:10
+#: ../comps-f10.xml.in.h:10 ../comps-f11.xml.in.h:11 ../comps-el4.xml.in.h:6
+#: ../comps-el5.xml.in.h:6
+msgid "Authoring and Publishing"
+msgstr "Redazione e publishing"
+
+#: ../comps-f7.xml.in.h:11 ../comps-f8.xml.in.h:11 ../comps-f9.xml.in.h:11
+#: ../comps-f10.xml.in.h:11 ../comps-f11.xml.in.h:12
+msgid "Base"
+msgstr "Base"
+
+#: ../comps-f7.xml.in.h:12 ../comps-f8.xml.in.h:12 ../comps-f9.xml.in.h:12
+#: ../comps-f10.xml.in.h:12 ../comps-f11.xml.in.h:13 ../comps-el4.xml.in.h:7
+#: ../comps-el5.xml.in.h:7
+msgid "Base System"
+msgstr "Sistema di base"
+
+#: ../comps-f7.xml.in.h:13 ../comps-f8.xml.in.h:13 ../comps-f9.xml.in.h:13
+#: ../comps-f10.xml.in.h:13 ../comps-f11.xml.in.h:14
+msgid "Basic support for the Ruby programming language."
+msgstr "Supporto di base per il linguaggio di programmazione Ruby."
+
+#: ../comps-f7.xml.in.h:14 ../comps-f8.xml.in.h:14 ../comps-f9.xml.in.h:14
+#: ../comps-f10.xml.in.h:14 ../comps-f11.xml.in.h:15
+msgid "Basque Support"
+msgstr "Supporto lingua basca"
+
+#: ../comps-f7.xml.in.h:15 ../comps-f8.xml.in.h:15 ../comps-f9.xml.in.h:15
+#: ../comps-f10.xml.in.h:15 ../comps-f11.xml.in.h:16
+msgid "Belarusian Support"
+msgstr "Supporto lingua bielorussa"
+
+#: ../comps-f7.xml.in.h:16 ../comps-f8.xml.in.h:16 ../comps-f9.xml.in.h:16
+#: ../comps-f10.xml.in.h:16 ../comps-f11.xml.in.h:17
+msgid "Bengali Support"
+msgstr "Supporto lingua bengalese"
+
+#: ../comps-f7.xml.in.h:17 ../comps-f8.xml.in.h:17 ../comps-f9.xml.in.h:17
+#: ../comps-f10.xml.in.h:17 ../comps-f11.xml.in.h:18
+msgid "Bhutanese Support"
+msgstr "Supporto lingua bhutanese"
+
+#: ../comps-f7.xml.in.h:18 ../comps-f8.xml.in.h:18 ../comps-f9.xml.in.h:18
+#: ../comps-f10.xml.in.h:18 ../comps-f11.xml.in.h:19
+msgid "Bosnian Support"
+msgstr "Supporto lingua bosniaca"
+
+#: ../comps-f7.xml.in.h:19 ../comps-f8.xml.in.h:19 ../comps-f9.xml.in.h:19
+#: ../comps-f10.xml.in.h:19 ../comps-f11.xml.in.h:20
+msgid "Brazilian Portuguese Support"
+msgstr "Supporto lingua portoghese brasiliano"
+
+#: ../comps-f7.xml.in.h:20 ../comps-f8.xml.in.h:20 ../comps-f9.xml.in.h:20
+#: ../comps-f10.xml.in.h:20 ../comps-f11.xml.in.h:21
+msgid "Breton Support"
+msgstr "Supporto lingua bretone"
+
+#: ../comps-f7.xml.in.h:21 ../comps-f8.xml.in.h:22 ../comps-f9.xml.in.h:22
+#: ../comps-f10.xml.in.h:22 ../comps-f11.xml.in.h:23
+msgid "Bulgarian Support"
+msgstr "Supporto lingua bulgara"
+
+#: ../comps-f7.xml.in.h:22 ../comps-f8.xml.in.h:23 ../comps-f9.xml.in.h:23
+#: ../comps-f10.xml.in.h:23 ../comps-f11.xml.in.h:24
+msgid "Catalan Support"
+msgstr "Supporto lingua catalana"
+
+#: ../comps-f7.xml.in.h:23 ../comps-f8.xml.in.h:24 ../comps-f9.xml.in.h:24
+#: ../comps-f10.xml.in.h:24 ../comps-f11.xml.in.h:25
+msgid "Chinese Support"
+msgstr "Supporto lingua cinese"
+
+#: ../comps-f7.xml.in.h:24 ../comps-f8.xml.in.h:25 ../comps-f9.xml.in.h:25
+#: ../comps-f10.xml.in.h:25 ../comps-f11.xml.in.h:26
+msgid "Clustering"
+msgstr "Gestione cluster"
+
+#: ../comps-f7.xml.in.h:25 ../comps-f8.xml.in.h:26 ../comps-f9.xml.in.h:26
+#: ../comps-f10.xml.in.h:26 ../comps-f11.xml.in.h:27
+msgid "Clustering Support"
+msgstr "Supporto a sistemi cluster"
+
+#: ../comps-f7.xml.in.h:26 ../comps-f8.xml.in.h:27 ../comps-f9.xml.in.h:27
+#: ../comps-f10.xml.in.h:27 ../comps-f11.xml.in.h:28
+msgid "Core"
+msgstr "Nucleo"
+
+#: ../comps-f7.xml.in.h:27 ../comps-f8.xml.in.h:28 ../comps-f9.xml.in.h:28
+#: ../comps-f10.xml.in.h:28 ../comps-f11.xml.in.h:29
+msgid "Croatian Support"
+msgstr "Supporto lingua croata"
+
+#: ../comps-f7.xml.in.h:28 ../comps-f8.xml.in.h:29 ../comps-f9.xml.in.h:29
+#: ../comps-f10.xml.in.h:29 ../comps-f11.xml.in.h:30 ../comps-el5.xml.in.h:8
+msgid "Czech Support"
+msgstr "Supporto lingua ceca"
+
+#: ../comps-f7.xml.in.h:29 ../comps-f8.xml.in.h:30 ../comps-f9.xml.in.h:30
+#: ../comps-f10.xml.in.h:30 ../comps-f11.xml.in.h:31
+msgid "DNS Name Server"
+msgstr "Nome Server DNS"
+
+#: ../comps-f7.xml.in.h:30 ../comps-f8.xml.in.h:31 ../comps-f9.xml.in.h:31
+#: ../comps-f10.xml.in.h:31 ../comps-f11.xml.in.h:32
+msgid "Danish Support"
+msgstr "Supporto lingua danese"
+
+#: ../comps-f7.xml.in.h:31 ../comps-f8.xml.in.h:32 ../comps-f9.xml.in.h:32
+#: ../comps-f10.xml.in.h:32 ../comps-f11.xml.in.h:33 ../comps-el4.xml.in.h:8
+#: ../comps-el5.xml.in.h:9
+msgid "Desktop Environments"
+msgstr "Ambienti desktop"
+
+#: ../comps-f7.xml.in.h:32 ../comps-f8.xml.in.h:33 ../comps-f9.xml.in.h:33
+#: ../comps-f10.xml.in.h:33 ../comps-f11.xml.in.h:34 ../comps-el4.xml.in.h:9
+#: ../comps-el5.xml.in.h:10
+msgid "Desktop environments"
+msgstr "Ambienti desktop"
+
+#: ../comps-f7.xml.in.h:33 ../comps-f8.xml.in.h:34 ../comps-f9.xml.in.h:34
+#: ../comps-f10.xml.in.h:34 ../comps-f11.xml.in.h:35 ../comps-el4.xml.in.h:10
+#: ../comps-el5.xml.in.h:11
+msgid "Development"
+msgstr "Programmazione"
+
+#: ../comps-f7.xml.in.h:34 ../comps-f8.xml.in.h:35 ../comps-f9.xml.in.h:35
+#: ../comps-f10.xml.in.h:35 ../comps-f11.xml.in.h:36
+msgid "Development Libraries"
+msgstr "Librerie di sviluppo"
+
+#: ../comps-f7.xml.in.h:35 ../comps-f8.xml.in.h:36 ../comps-f9.xml.in.h:36
+#: ../comps-f10.xml.in.h:36 ../comps-f11.xml.in.h:37 ../comps-el4.xml.in.h:11
+#: ../comps-el5.xml.in.h:12
+msgid "Development Tools"
+msgstr "Strumenti di sviluppo"
+
+#: ../comps-f7.xml.in.h:36 ../comps-f8.xml.in.h:37 ../comps-f9.xml.in.h:37
+#: ../comps-f10.xml.in.h:37 ../comps-f11.xml.in.h:38
+msgid "Dial-up Networking Support"
+msgstr "Supporto connesioni remote dial-up"
+
+#: ../comps-f7.xml.in.h:37 ../comps-f8.xml.in.h:38 ../comps-f9.xml.in.h:38
+#: ../comps-f10.xml.in.h:38 ../comps-f11.xml.in.h:39
+msgid "Dutch Support"
+msgstr "Supporto lingua olandese"
+
+#: ../comps-f7.xml.in.h:38
+msgid "Eclipse"
+msgstr "Eclipse"
+
+#: ../comps-f7.xml.in.h:39 ../comps-f8.xml.in.h:39 ../comps-f9.xml.in.h:39
+#: ../comps-f10.xml.in.h:39 ../comps-f11.xml.in.h:40 ../comps-el4.xml.in.h:13
+#: ../comps-el5.xml.in.h:14
+msgid "Editors"
+msgstr "Editor di testi"
+
+#: ../comps-f7.xml.in.h:40 ../comps-f8.xml.in.h:40 ../comps-f9.xml.in.h:40
+#: ../comps-f10.xml.in.h:40 ../comps-f11.xml.in.h:41 ../comps-el4.xml.in.h:14
+#: ../comps-el5.xml.in.h:15
+msgid "Educational Software"
+msgstr "Programmi educativi"
+
+#: ../comps-f7.xml.in.h:41 ../comps-f8.xml.in.h:41 ../comps-f9.xml.in.h:41
+#: ../comps-f10.xml.in.h:41 ../comps-f11.xml.in.h:42 ../comps-el4.xml.in.h:15
+#: ../comps-el5.xml.in.h:16
+msgid "Educational software for learning"
+msgstr "Applicativi didattici e ludici per l'apprendimento"
+
+#: ../comps-f7.xml.in.h:42 ../comps-f8.xml.in.h:42 ../comps-f9.xml.in.h:42
+#: ../comps-f10.xml.in.h:42 ../comps-f11.xml.in.h:43 ../comps-el4.xml.in.h:16
+#: ../comps-el5.xml.in.h:17
+msgid "Engineering and Scientific"
+msgstr "Scientifici e tecnici"
+
+#: ../comps-f7.xml.in.h:43 ../comps-f8.xml.in.h:43 ../comps-f9.xml.in.h:43
+#: ../comps-f10.xml.in.h:43 ../comps-f11.xml.in.h:44
+msgid "English (UK) Support"
+msgstr "Supporto lingua inglese (gb)"
+
+#: ../comps-f7.xml.in.h:44 ../comps-f8.xml.in.h:44 ../comps-f9.xml.in.h:45
+#: ../comps-f10.xml.in.h:45 ../comps-f11.xml.in.h:46
+msgid "Estonian Support"
+msgstr "Supporto lingua estone"
+
+#: ../comps-f7.xml.in.h:45 ../comps-f8.xml.in.h:45 ../comps-f9.xml.in.h:46
+#: ../comps-f10.xml.in.h:46 ../comps-f11.xml.in.h:47
+msgid "Ethiopic Support"
+msgstr "Supporto lingua etiope"
+
+#: ../comps-f7.xml.in.h:46 ../comps-f8.xml.in.h:46 ../comps-f9.xml.in.h:47
+#: ../comps-f10.xml.in.h:47 ../comps-f11.xml.in.h:48 ../comps-el4.xml.in.h:17
+#: ../comps-el5.xml.in.h:18
+msgid "FTP Server"
+msgstr "Server FTP"
+
+#: ../comps-f7.xml.in.h:47 ../comps-f8.xml.in.h:47 ../comps-f9.xml.in.h:48
+#: ../comps-f10.xml.in.h:48 ../comps-f11.xml.in.h:49
+msgid "Faeroese Support"
+msgstr "Supporto lingua faeroese"
+
+#: ../comps-f7.xml.in.h:48 ../comps-f8.xml.in.h:49 ../comps-f9.xml.in.h:50
+#: ../comps-f10.xml.in.h:50 ../comps-f11.xml.in.h:51 ../comps-el4.xml.in.h:18
+#: ../comps-el5.xml.in.h:19
+msgid "Fedora Packager"
+msgstr "Gestore di pacchetti Fedora"
+
+#: ../comps-f7.xml.in.h:49 ../comps-f8.xml.in.h:50 ../comps-f9.xml.in.h:51
+#: ../comps-f10.xml.in.h:51 ../comps-f11.xml.in.h:52
+msgid "Filipino Support"
+msgstr "Supporto lingua filippina"
+
+#: ../comps-f7.xml.in.h:50 ../comps-f8.xml.in.h:51 ../comps-f9.xml.in.h:52
+#: ../comps-f10.xml.in.h:52 ../comps-f11.xml.in.h:53
+msgid "Finnish Support"
+msgstr "Supporto lingua finlandese"
+
+#: ../comps-f7.xml.in.h:51 ../comps-f8.xml.in.h:54 ../comps-f9.xml.in.h:55
+#: ../comps-f10.xml.in.h:55 ../comps-f11.xml.in.h:57
+msgid "French Support"
+msgstr "Supporto lingua francese"
+
+#: ../comps-f7.xml.in.h:52 ../comps-f8.xml.in.h:55 ../comps-f9.xml.in.h:56
+#: ../comps-f10.xml.in.h:56 ../comps-f11.xml.in.h:60 ../comps-el4.xml.in.h:19
+#: ../comps-el5.xml.in.h:20
 msgid ""
-"Fixed term savings account with required monthly contributions and taxable "
-"interest."
-msgstr "Tempo determinato conto di risparmio con i necessari contributi mensili imponibili e interesse."
-
-#: ../accounts/regsave.glade.h:4 ../accounts/savings.glade.h:4
-#, no-c-format
-msgid "% AER"
-msgstr "% ARE"
-
-#: ../accounts/regsave.glade.h:7
-msgid "Minimum amount:"
-msgstr "Importo minimo:"
-
-#: ../accounts/regsave.glade.h:8
-msgid "Monthly amount:"
-msgstr "Ammontare mensile:"
-
-#: ../accounts/savings.py:31
-msgid "Savings account"
-msgstr "Conti salvati"
-
-#: ../accounts/savings.py:32
-msgid "Instant-access savings account with taxable interest."
-msgstr "Accesso istantaneo conto di risparmio con interesse imponibile."
-
-#: ../accounts/savings.glade.h:5
-msgid "Balance:"
-msgstr "Bilancio:"
-
-#: ../accounts/spend.py:30
-msgid "Spending"
-msgstr "Spesa"
-
-#: ../accounts/spend.py:31
-msgid "A regular withdrawal (for example, a shortfall due to spending)."
-msgstr "Ritiro periodico (per esempio, a causa di un deficit di spesa)."
-
-#: ../accounts/stooze.py:31
-msgid "Credit Card (Promotional Rate)"
-msgstr "Carta di credito (tasso promozionale)"
-
-#: ../accounts/stooze.py:32
-msgid "Credit card with a time-limited promotional rate for purchases."
-msgstr "Carta di credito a tasso promozionale per l'acquisto per un periodo di tempo limitato."
-
-#: ../accounts/stooze.glade.h:5
-msgid "Credit limit:"
-msgstr "Limite di credito:"
-
-#: ../accounts/stooze.glade.h:6
-msgid "Interest paid:"
-msgstr "Interessi passivi:"
-
-#: ../accounts/stooze.glade.h:7
-msgid "Minimum payment:"
-msgstr "Pagamento minimo:"
-
-#: ../accounts/stooze.glade.h:8
-msgid "Or, if greater:"
-msgstr "Oppure, se maggiore:"
-
-#: ../accounts/stooze.glade.h:9
-msgid "Present balance:"
+"From CD recording to playing audio CDs and multimedia files, this package "
+"group allows you to work with sound and video on the system."
 msgstr ""
+"Questo gruppo di pacchetti contiene strumenti per lavorare con audio e video nel sistema, "
+"dalla masterizzazione di CD alla riproduzione di CD audio e file multimediali."
 
-#: ../accounts/stooze.glade.h:10
-msgid "Promotion period:"
-msgstr "Periodo promozionale:"
+#: ../comps-f7.xml.in.h:53 ../comps-f8.xml.in.h:56 ../comps-f9.xml.in.h:57
+#: ../comps-f10.xml.in.h:57 ../comps-f11.xml.in.h:61 ../comps-el4.xml.in.h:20
+#: ../comps-el5.xml.in.h:21
+msgid "GNOME Desktop Environment"
+msgstr "Ambiente desktop GNOME"
 
-#: ../accounts/stooze.glade.h:11
-msgid "Promotional rate:"
-msgstr "Tasso promozionale:"
+#: ../comps-f7.xml.in.h:54 ../comps-f8.xml.in.h:57 ../comps-f9.xml.in.h:58
+#: ../comps-f10.xml.in.h:58 ../comps-f11.xml.in.h:62 ../comps-el4.xml.in.h:21
+#: ../comps-el5.xml.in.h:22
+msgid "GNOME Software Development"
+msgstr "Sviluppo applicativi GNOME"
 
-#: ../accounts/windfall.py:30
-msgid "Windfall"
+#: ../comps-f7.xml.in.h:55 ../comps-f8.xml.in.h:58 ../comps-f9.xml.in.h:59
+#: ../comps-f10.xml.in.h:59 ../comps-f11.xml.in.h:63
+msgid ""
+"GNOME is a powerful graphical user interface which includes a panel, "
+"desktop, system icons, and a graphical file manager."
 msgstr ""
+"GNOME è una potente interfaccia utente grafica, comprensiva di un gestore di "
+"file grafico, di un pannello per gestire il desktop e delle icone di sistema."
 
-#: ../accounts/windfall.py:31
-msgid "A one-off money gain."
-msgstr "Guadagno una tantum"
+#: ../comps-f7.xml.in.h:56 ../comps-f8.xml.in.h:59 ../comps-f9.xml.in.h:60
+#: ../comps-f10.xml.in.h:60 ../comps-f11.xml.in.h:64
+msgid "Gaelic Support"
+msgstr "Supporto lingua gaelica"
 
-#: ../accounts/windfall.glade.h:1
-msgid "Amount received:"
-msgstr "Importo ricevuto:"
+#: ../comps-f7.xml.in.h:57 ../comps-f8.xml.in.h:60 ../comps-f9.xml.in.h:61
+#: ../comps-f10.xml.in.h:61 ../comps-f11.xml.in.h:65
+msgid "Galician Support"
+msgstr "Supporto lingua galiziana"
+
+#: ../comps-f7.xml.in.h:58 ../comps-f8.xml.in.h:61 ../comps-f9.xml.in.h:62
+#: ../comps-f10.xml.in.h:62 ../comps-f11.xml.in.h:66 ../comps-el5.xml.in.h:24
+msgid "Games and Entertainment"
+msgstr "Giochi e svago"
+
+#: ../comps-f7.xml.in.h:59 ../comps-f8.xml.in.h:62 ../comps-f9.xml.in.h:63
+#: ../comps-f10.xml.in.h:63 ../comps-f11.xml.in.h:67
+msgid "Georgian Support"
+msgstr "Supporto lingua georgiana"
+
+#: ../comps-f7.xml.in.h:60 ../comps-f8.xml.in.h:63 ../comps-f9.xml.in.h:64
+#: ../comps-f10.xml.in.h:64 ../comps-f11.xml.in.h:68
+msgid "German Support"
+msgstr "Supporto lingua tedesca"
+
+#: ../comps-f7.xml.in.h:61 ../comps-f8.xml.in.h:64 ../comps-f9.xml.in.h:65
+#: ../comps-f10.xml.in.h:65 ../comps-f11.xml.in.h:69 ../comps-el4.xml.in.h:23
+#: ../comps-el5.xml.in.h:25
+msgid "Graphical Internet"
+msgstr "Applicazioni Internet grafiche"
+
+#: ../comps-f7.xml.in.h:62 ../comps-f8.xml.in.h:65 ../comps-f9.xml.in.h:66
+#: ../comps-f10.xml.in.h:66 ../comps-f11.xml.in.h:70 ../comps-el4.xml.in.h:24
+#: ../comps-el5.xml.in.h:26
+msgid "Graphics"
+msgstr "Grafica"
+
+#: ../comps-f7.xml.in.h:63 ../comps-f8.xml.in.h:66 ../comps-f9.xml.in.h:67
+#: ../comps-f10.xml.in.h:67 ../comps-f11.xml.in.h:71
+msgid "Greek Support"
+msgstr "Supporto lingua greca"
+
+#: ../comps-f7.xml.in.h:64 ../comps-f8.xml.in.h:67 ../comps-f9.xml.in.h:68
+#: ../comps-f10.xml.in.h:68 ../comps-f11.xml.in.h:72
+msgid "Gujarati Support"
+msgstr "Supporto lingua gujarati"
+
+#: ../comps-f7.xml.in.h:65 ../comps-f8.xml.in.h:68 ../comps-f9.xml.in.h:69
+#: ../comps-f10.xml.in.h:69 ../comps-f11.xml.in.h:73 ../comps-el4.xml.in.h:25
+#: ../comps-el5.xml.in.h:27
+msgid "Hardware Support"
+msgstr "Supporto hardware"
+
+#: ../comps-f7.xml.in.h:66 ../comps-f8.xml.in.h:69 ../comps-f9.xml.in.h:70
+#: ../comps-f10.xml.in.h:71 ../comps-f11.xml.in.h:75 ../comps-el4.xml.in.h:26
+#: ../comps-el5.xml.in.h:28
+msgid "Hebrew Support"
+msgstr "Supporto lingua ebraica"
+
+#: ../comps-f7.xml.in.h:67 ../comps-f8.xml.in.h:70 ../comps-f9.xml.in.h:71
+#: ../comps-f10.xml.in.h:72 ../comps-f11.xml.in.h:76
+msgid "Hindi Support"
+msgstr "Supporto lingua hindi"
+
+#: ../comps-f7.xml.in.h:68 ../comps-f8.xml.in.h:71 ../comps-f9.xml.in.h:72
+#: ../comps-f10.xml.in.h:73 ../comps-f11.xml.in.h:77
+msgid "Hungarian Support"
+msgstr "Supporto lingua ungherese"
+
+#: ../comps-f7.xml.in.h:69 ../comps-f8.xml.in.h:72 ../comps-f9.xml.in.h:73
+#: ../comps-f10.xml.in.h:74 ../comps-f11.xml.in.h:78
+msgid "Icelandic Support"
+msgstr "Supporto lingua islandese"
+
+#: ../comps-f7.xml.in.h:70 ../comps-f8.xml.in.h:73 ../comps-f9.xml.in.h:74
+#: ../comps-f10.xml.in.h:75 ../comps-f11.xml.in.h:79
+msgid "Indonesian Support"
+msgstr "Supporto lingua indonesiana"
+
+#: ../comps-f7.xml.in.h:71 ../comps-f8.xml.in.h:74 ../comps-f9.xml.in.h:75
+#: ../comps-f10.xml.in.h:78 ../comps-f11.xml.in.h:82 ../comps-el4.xml.in.h:27
+#: ../comps-el5.xml.in.h:29
+msgid ""
+"Install these packages in order to develop GTK+ and GNOME graphical "
+"applications."
+msgstr ""
+"Installare questi pacchetti per sviluppare applicazioni grafiche per "
+"GTK+ e GNOME."
+
+#: ../comps-f7.xml.in.h:72 ../comps-f8.xml.in.h:75 ../comps-f9.xml.in.h:76
+#: ../comps-f10.xml.in.h:79 ../comps-f11.xml.in.h:83
+msgid ""
+"Install these packages in order to develop GTK+ and XFCE graphical "
+"applications."
+msgstr ""
+"Installare questi pacchetti per sviluppare applicazioni grafiche per "
+"GTK+ e XFCE."
+
+#: ../comps-f7.xml.in.h:73 ../comps-f8.xml.in.h:76 ../comps-f9.xml.in.h:77
+#: ../comps-f10.xml.in.h:80 ../comps-f11.xml.in.h:84 ../comps-el4.xml.in.h:28
+#: ../comps-el5.xml.in.h:30
+msgid "Install these packages to develop QT and KDE graphical applications."
+msgstr ""
+"Installare questi pacchetti per sviluppare applicazioni grafiche per QT e KDE."
+
+#: ../comps-f7.xml.in.h:74 ../comps-f8.xml.in.h:77 ../comps-f9.xml.in.h:78
+#: ../comps-f10.xml.in.h:81 ../comps-f11.xml.in.h:85
+msgid ""
+"Install these tools to enable the system to print or act as a print server."
+msgstr ""
+"Installare questi strumenti per abilitare il sistema alla stampa o per "
+"farlo operare come server di stampa."
+
+#: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:78 ../comps-f9.xml.in.h:79
+#: ../comps-f10.xml.in.h:82 ../comps-f11.xml.in.h:86 ../comps-el4.xml.in.h:29
+#: ../comps-el5.xml.in.h:31
+msgid ""
+"Install this group of packages to use the base graphical (X) user interface."
+msgstr ""
+"Installare questo gruppo di pacchetti per utilizzare l'interfaccia "
+"grafica di base (X)."
+
+#: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:80 ../comps-f9.xml.in.h:81
+#: ../comps-f10.xml.in.h:84 ../comps-f11.xml.in.h:88
+msgid "Inuktitut Support"
+msgstr "Supporto lingua inuktitut"
+
+#: ../comps-f7.xml.in.h:77 ../comps-f8.xml.in.h:81 ../comps-f9.xml.in.h:82
+#: ../comps-f10.xml.in.h:85 ../comps-f11.xml.in.h:89
+msgid "Irish Support"
+msgstr "Supporto lingua irlandese"
+
+#: ../comps-f7.xml.in.h:78 ../comps-f8.xml.in.h:82 ../comps-f9.xml.in.h:83
+#: ../comps-f10.xml.in.h:86 ../comps-f11.xml.in.h:90
+msgid "Italian Support"
+msgstr "Supporto lingua italiana"
+
+#: ../comps-f7.xml.in.h:79 ../comps-f8.xml.in.h:83 ../comps-f9.xml.in.h:84
+#: ../comps-f10.xml.in.h:87 ../comps-f11.xml.in.h:91 ../comps-el4.xml.in.h:30
+#: ../comps-el5.xml.in.h:32
+msgid "Japanese Support"
+msgstr "Supporto lingua giapponese"
+
+#: ../comps-f7.xml.in.h:80 ../comps-f8.xml.in.h:84 ../comps-f9.xml.in.h:85
+#: ../comps-f10.xml.in.h:88 ../comps-f11.xml.in.h:92 ../comps-el4.xml.in.h:31
+msgid "Java"
+msgstr "Java"
+
+#: ../comps-f7.xml.in.h:81 ../comps-f8.xml.in.h:85 ../comps-f9.xml.in.h:86
+#: ../comps-f10.xml.in.h:89 ../comps-f11.xml.in.h:93 ../comps-el4.xml.in.h:32
+msgid "Java Development"
+msgstr "Programmazione Java"
+
+#: ../comps-f7.xml.in.h:82 ../comps-f8.xml.in.h:86 ../comps-f9.xml.in.h:87
+#: ../comps-f10.xml.in.h:90 ../comps-f11.xml.in.h:94 ../comps-el4.xml.in.h:33
+#: ../comps-el5.xml.in.h:33
+msgid "KDE (K Desktop Environment)"
+msgstr "KDE (K Desktop Environment)"
+
+#: ../comps-f7.xml.in.h:83 ../comps-f8.xml.in.h:87 ../comps-f9.xml.in.h:88
+#: ../comps-f10.xml.in.h:91 ../comps-f11.xml.in.h:95 ../comps-el4.xml.in.h:34
+#: ../comps-el5.xml.in.h:34
+msgid "KDE Software Development"
+msgstr "Sviluppo applicazioni KDE"
+
+#: ../comps-f7.xml.in.h:84 ../comps-f8.xml.in.h:88 ../comps-f9.xml.in.h:89
+#: ../comps-f10.xml.in.h:92 ../comps-f11.xml.in.h:96
+msgid ""
+"KDE is a powerful graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE è una potente interfaccia utente grafica, comprensiva di un gestore di "
+"file grafico, di un pannello desktop e delle icone di sistema."
+
+#: ../comps-f7.xml.in.h:85 ../comps-f8.xml.in.h:89 ../comps-f9.xml.in.h:90
+#: ../comps-f10.xml.in.h:93 ../comps-f11.xml.in.h:97
+msgid "Kannada Support"
+msgstr "Supporto lingua kannada"
+
+#: ../comps-f7.xml.in.h:86 ../comps-f8.xml.in.h:90 ../comps-f9.xml.in.h:92
+#: ../comps-f10.xml.in.h:96 ../comps-f11.xml.in.h:100
+msgid "Khmer Support"
+msgstr "Supporto lingua khmer"
+
+#: ../comps-f7.xml.in.h:87 ../comps-f8.xml.in.h:91 ../comps-f9.xml.in.h:93
+#: ../comps-f10.xml.in.h:98 ../comps-f11.xml.in.h:103
+msgid "Korean Support"
+msgstr "Supporto lingua coreana"
+
+#: ../comps-f7.xml.in.h:88 ../comps-f8.xml.in.h:92 ../comps-f9.xml.in.h:95
+#: ../comps-f10.xml.in.h:101 ../comps-f11.xml.in.h:106
+msgid "Languages"
+msgstr "Lingue"
+
+#: ../comps-f7.xml.in.h:89 ../comps-f8.xml.in.h:93 ../comps-f9.xml.in.h:96
+#: ../comps-f10.xml.in.h:102 ../comps-f11.xml.in.h:107
+msgid "Lao Support"
+msgstr "Supporto lingua laotiana"
+
+#: ../comps-f7.xml.in.h:90 ../comps-f8.xml.in.h:94 ../comps-f9.xml.in.h:97
+#: ../comps-f10.xml.in.h:103 ../comps-f11.xml.in.h:108
+msgid "Latvian Support"
+msgstr "Supporto lingua latvia"
+
+#: ../comps-f7.xml.in.h:91 ../comps-f8.xml.in.h:96 ../comps-f9.xml.in.h:99
+#: ../comps-f10.xml.in.h:105 ../comps-f11.xml.in.h:110
+msgid "Legacy Network Server"
+msgstr "Server di rete legacy"
+
+#: ../comps-f7.xml.in.h:92 ../comps-f8.xml.in.h:97 ../comps-f9.xml.in.h:100
+#: ../comps-f10.xml.in.h:106 ../comps-f11.xml.in.h:111
+msgid "Legacy Software Development"
+msgstr "Sviluppo software legacy"
+
+#: ../comps-f7.xml.in.h:93 ../comps-f8.xml.in.h:98 ../comps-f9.xml.in.h:101
+#: ../comps-f10.xml.in.h:107 ../comps-f11.xml.in.h:112
+msgid "Legacy Software Support"
+msgstr "Supporto compatibilità software"
+
+#: ../comps-f7.xml.in.h:94 ../comps-f8.xml.in.h:99 ../comps-f9.xml.in.h:102
+#: ../comps-f10.xml.in.h:108 ../comps-f11.xml.in.h:113
+msgid "Lithuanian Support"
+msgstr "Supporto lingua lituana"
+
+#: ../comps-f7.xml.in.h:95 ../comps-f8.xml.in.h:101 ../comps-f9.xml.in.h:105
+#: ../comps-f10.xml.in.h:111 ../comps-f11.xml.in.h:116
+#: ../comps-el4.xml.in.h:36 ../comps-el5.xml.in.h:36
+msgid "Mail Server"
+msgstr "Server mail"
+
+#: ../comps-f7.xml.in.h:96 ../comps-f8.xml.in.h:102 ../comps-f9.xml.in.h:106
+#: ../comps-f10.xml.in.h:113 ../comps-f11.xml.in.h:119
+msgid "Malay Support"
+msgstr "Supporto lingua malese"
+
+#: ../comps-f7.xml.in.h:97 ../comps-f8.xml.in.h:103 ../comps-f9.xml.in.h:107
+#: ../comps-f10.xml.in.h:114 ../comps-f11.xml.in.h:120
+msgid "Malayalam Support"
+msgstr "Supporto lingua malayalam"
+
+#: ../comps-f7.xml.in.h:98 ../comps-f8.xml.in.h:104 ../comps-f9.xml.in.h:108
+#: ../comps-f10.xml.in.h:115 ../comps-f11.xml.in.h:121
+msgid "Maori Support"
+msgstr "Supporto lingua maori"
+
+#: ../comps-f7.xml.in.h:99 ../comps-f8.xml.in.h:105 ../comps-f9.xml.in.h:109
+#: ../comps-f10.xml.in.h:116 ../comps-f11.xml.in.h:122
+msgid "Marathi Support"
+msgstr "Supporto lingua marathi"
+
+#: ../comps-f7.xml.in.h:100 ../comps-f8.xml.in.h:107 ../comps-f9.xml.in.h:111
+#: ../comps-f10.xml.in.h:118 ../comps-f11.xml.in.h:124
+msgid "MySQL Database"
+msgstr "Database MySQL"
+
+#: ../comps-f7.xml.in.h:101 ../comps-f8.xml.in.h:109 ../comps-f9.xml.in.h:113
+#: ../comps-f10.xml.in.h:121 ../comps-f11.xml.in.h:127
+#: ../comps-el4.xml.in.h:37 ../comps-el5.xml.in.h:37
+msgid "Network Servers"
+msgstr "Server di rete"
+
+#: ../comps-f7.xml.in.h:102 ../comps-f8.xml.in.h:110 ../comps-f9.xml.in.h:114
+#: ../comps-f10.xml.in.h:122 ../comps-f11.xml.in.h:128
+#: ../comps-el4.xml.in.h:38 ../comps-el5.xml.in.h:38
+msgid "News Server"
+msgstr "Server news"
+
+#: ../comps-f7.xml.in.h:103 ../comps-f8.xml.in.h:111 ../comps-f9.xml.in.h:116
+#: ../comps-f10.xml.in.h:124 ../comps-f11.xml.in.h:130
+msgid "Northern Sotho Support"
+msgstr "Supporto lingua sotho settentrionale"
+
+#: ../comps-f7.xml.in.h:104 ../comps-f8.xml.in.h:112 ../comps-f9.xml.in.h:117
+#: ../comps-f10.xml.in.h:125 ../comps-f11.xml.in.h:131
+msgid "Norwegian Support"
+msgstr "Supporto lingua norvegese"
+
+#: ../comps-f7.xml.in.h:105 ../comps-f8.xml.in.h:113 ../comps-f9.xml.in.h:118
+#: ../comps-f10.xml.in.h:126 ../comps-f11.xml.in.h:133
+#: ../comps-el4.xml.in.h:39 ../comps-el5.xml.in.h:39
+msgid "Office/Productivity"
+msgstr "Ufficio/Produttività"
+
+#: ../comps-f7.xml.in.h:106 ../comps-f8.xml.in.h:115 ../comps-f9.xml.in.h:120
+#: ../comps-f10.xml.in.h:128 ../comps-f11.xml.in.h:135
+msgid "Oriya Support"
+msgstr "Supporto lingua oriya"
+
+#: ../comps-f7.xml.in.h:107 ../comps-f8.xml.in.h:116 ../comps-f9.xml.in.h:121
+#: ../comps-f10.xml.in.h:129 ../comps-f11.xml.in.h:136
+#: ../comps-el4.xml.in.h:40 ../comps-el5.xml.in.h:40
+msgid ""
+"Packages which provide functionality for developing and building "
+"applications."
+msgstr ""
+"Pacchetti che fornisco funzionalità di sviluppo e compilazione di applicazioni."
+
+#: ../comps-f7.xml.in.h:108 ../comps-f8.xml.in.h:117 ../comps-f9.xml.in.h:122
+#: ../comps-f10.xml.in.h:130 ../comps-f11.xml.in.h:137
+msgid "Persian Support"
+msgstr "Supporto lingua persiana"
+
+#: ../comps-f7.xml.in.h:109 ../comps-f8.xml.in.h:118 ../comps-f9.xml.in.h:123
+#: ../comps-f10.xml.in.h:131 ../comps-f11.xml.in.h:138
+msgid "Polish Support"
+msgstr "Supporto lingua polacca"
+
+#: ../comps-f7.xml.in.h:110 ../comps-f8.xml.in.h:119 ../comps-f9.xml.in.h:124
+#: ../comps-f10.xml.in.h:132 ../comps-f11.xml.in.h:139
+msgid "Portuguese Support"
+msgstr "Supporto lingua portoghese"
+
+#: ../comps-f7.xml.in.h:111 ../comps-f8.xml.in.h:120 ../comps-f9.xml.in.h:125
+#: ../comps-f10.xml.in.h:133 ../comps-f11.xml.in.h:140
+msgid "PostgreSQL Database"
+msgstr "Database PostgreSQL"
+
+#: ../comps-f7.xml.in.h:112 ../comps-f8.xml.in.h:121 ../comps-f9.xml.in.h:126
+#: ../comps-f10.xml.in.h:134 ../comps-f11.xml.in.h:141
+msgid "Printing Support"
+msgstr "Supporto stampa"
+
+#: ../comps-f7.xml.in.h:113 ../comps-f8.xml.in.h:122 ../comps-f9.xml.in.h:127
+#: ../comps-f10.xml.in.h:135 ../comps-f11.xml.in.h:142
+msgid "Punjabi Support"
+msgstr "Supporto lingua punjabi"
+
+#: ../comps-f7.xml.in.h:114 ../comps-f8.xml.in.h:123 ../comps-f9.xml.in.h:128
+#: ../comps-f10.xml.in.h:136 ../comps-f11.xml.in.h:143
+msgid "Romanian Support"
+msgstr "Supporto lingua rumena"
+
+#: ../comps-f7.xml.in.h:115 ../comps-f8.xml.in.h:124 ../comps-f9.xml.in.h:129
+#: ../comps-f10.xml.in.h:137 ../comps-f11.xml.in.h:144
+msgid "Ruby"
+msgstr "Ruby"
+
+#: ../comps-f7.xml.in.h:116 ../comps-f8.xml.in.h:125 ../comps-f9.xml.in.h:130
+#: ../comps-f10.xml.in.h:138 ../comps-f11.xml.in.h:145
+msgid "Russian Support"
+msgstr "Supporto lingua russa"
+
+#: ../comps-f7.xml.in.h:117 ../comps-f8.xml.in.h:126 ../comps-f9.xml.in.h:133
+#: ../comps-f10.xml.in.h:141 ../comps-f11.xml.in.h:148
+msgid "Samoan Support"
+msgstr "Supporto lingua samoana"
+
+#: ../comps-f7.xml.in.h:118 ../comps-f8.xml.in.h:127 ../comps-f9.xml.in.h:134
+#: ../comps-f10.xml.in.h:142 ../comps-f11.xml.in.h:149
+msgid "Serbian Support"
+msgstr "Supporto lingua serba"
+
+#: ../comps-f7.xml.in.h:119 ../comps-f8.xml.in.h:128 ../comps-f9.xml.in.h:135
+#: ../comps-f10.xml.in.h:143 ../comps-f11.xml.in.h:150
+msgid "Server Configuration Tools"
+msgstr "Strumenti di sistema"
+
+#: ../comps-f7.xml.in.h:120 ../comps-f8.xml.in.h:129 ../comps-f9.xml.in.h:136
+#: ../comps-f10.xml.in.h:144 ../comps-f11.xml.in.h:151
+#: ../comps-el4.xml.in.h:41 ../comps-el5.xml.in.h:41
+msgid "Servers"
+msgstr "Server"
+
+#: ../comps-f7.xml.in.h:121 ../comps-f8.xml.in.h:130 ../comps-f9.xml.in.h:137
+#: ../comps-f10.xml.in.h:145 ../comps-f11.xml.in.h:152
+#: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:42
+msgid ""
+"Simple window managers that aren't part of a larger desktop environment."
+msgstr ""
+"Window manager specifici che non fanno parte di ambienti desktop più complessi."
+
+#: ../comps-f7.xml.in.h:122 ../comps-f8.xml.in.h:131 ../comps-f9.xml.in.h:138
+#: ../comps-f10.xml.in.h:147 ../comps-f11.xml.in.h:154
+msgid "Sinhala Support"
+msgstr "Supporto lingua Sinhala"
+
+#: ../comps-f7.xml.in.h:123 ../comps-f8.xml.in.h:132 ../comps-f9.xml.in.h:139
+#: ../comps-f10.xml.in.h:148 ../comps-f11.xml.in.h:155
+msgid "Slovak Support"
+msgstr "Supporto ligua slovacca"
+
+#: ../comps-f7.xml.in.h:124 ../comps-f8.xml.in.h:133 ../comps-f9.xml.in.h:140
+#: ../comps-f10.xml.in.h:149 ../comps-f11.xml.in.h:156
+msgid "Slovenian Support"
+msgstr "Supporto lingua slovena"
+
+#: ../comps-f7.xml.in.h:125 ../comps-f8.xml.in.h:134 ../comps-f9.xml.in.h:141
+#: ../comps-f10.xml.in.h:150 ../comps-f11.xml.in.h:157
+msgid "Smallest possible installation"
+msgstr "Installazione minima"
+
+#: ../comps-f7.xml.in.h:126 ../comps-f8.xml.in.h:135 ../comps-f9.xml.in.h:142
+#: ../comps-f10.xml.in.h:151 ../comps-f11.xml.in.h:158
+#: ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:43
+msgid "Software used for running network servers"
+msgstr "Applicazioni per l'esecuzione di server di rete"
+
+#: ../comps-f7.xml.in.h:127 ../comps-f8.xml.in.h:136 ../comps-f9.xml.in.h:143
+#: ../comps-f10.xml.in.h:152 ../comps-f11.xml.in.h:159
+msgid "Somali Support"
+msgstr "Supporto lingua somala"
+
+#: ../comps-f7.xml.in.h:128 ../comps-f8.xml.in.h:137 ../comps-f9.xml.in.h:144
+#: ../comps-f10.xml.in.h:153 ../comps-f11.xml.in.h:160
+msgid ""
+"Sometimes called text editors, these are programs that allow you to create "
+"and edit text files. This includes Emacs and Vi."
+msgstr ""
+"Spesso chiamati editor di testo, questi programmi permettono di creare e "
+"modificare file di testo. Sono compresi Emacs e Vi."
+
+#: ../comps-f7.xml.in.h:129 ../comps-f8.xml.in.h:138 ../comps-f9.xml.in.h:145
+#: ../comps-f10.xml.in.h:154 ../comps-f11.xml.in.h:161
+#: ../comps-el4.xml.in.h:45 ../comps-el5.xml.in.h:45
+msgid "Sound and Video"
+msgstr "Audio e video"
+
+#: ../comps-f7.xml.in.h:130 ../comps-f8.xml.in.h:139 ../comps-f9.xml.in.h:146
+#: ../comps-f10.xml.in.h:155 ../comps-f11.xml.in.h:162
+msgid "Southern Ndebele Support"
+msgstr "Supporto lingua ndebele meridionale"
+
+#: ../comps-f7.xml.in.h:131 ../comps-f8.xml.in.h:140 ../comps-f9.xml.in.h:147
+#: ../comps-f10.xml.in.h:156 ../comps-f11.xml.in.h:163
+msgid "Southern Sotho Support"
+msgstr "Supporto lingua sotho meridionale"
+
+#: ../comps-f7.xml.in.h:132 ../comps-f8.xml.in.h:141 ../comps-f9.xml.in.h:148
+#: ../comps-f10.xml.in.h:157 ../comps-f11.xml.in.h:164
+msgid "Spanish Support"
+msgstr "Supporto lingua spagnola"
+
+#: ../comps-f7.xml.in.h:133 ../comps-f8.xml.in.h:142 ../comps-f9.xml.in.h:149
+#: ../comps-f10.xml.in.h:159 ../comps-f11.xml.in.h:166
+#: ../comps-el4.xml.in.h:46
+msgid "Support for developing programs in the Java programming language."
+msgstr "Supporto per lo sviluppo di programmi in linguaggio Java."
+
+#: ../comps-f7.xml.in.h:134 ../comps-f8.xml.in.h:143 ../comps-f9.xml.in.h:150
+#: ../comps-f10.xml.in.h:160 ../comps-f11.xml.in.h:167
+#: ../comps-el4.xml.in.h:47
+msgid "Support for running programs written in the Java programming language."
+msgstr "Supporto per l'esecuzione di programmi sviluppati in liguaggio Java."
+
+#: ../comps-f7.xml.in.h:135 ../comps-f8.xml.in.h:144 ../comps-f9.xml.in.h:151
+#: ../comps-f10.xml.in.h:161 ../comps-f11.xml.in.h:168
+msgid "Swati Support"
+msgstr "Supporto lingua swati"
+
+#: ../comps-f7.xml.in.h:136 ../comps-f8.xml.in.h:145 ../comps-f9.xml.in.h:152
+#: ../comps-f10.xml.in.h:162 ../comps-f11.xml.in.h:169
+msgid "Swedish Support"
+msgstr "Supporto lingua svedese"
+
+#: ../comps-f7.xml.in.h:137 ../comps-f8.xml.in.h:146 ../comps-f9.xml.in.h:153
+#: ../comps-f10.xml.in.h:163 ../comps-f11.xml.in.h:170
+#: ../comps-el4.xml.in.h:48 ../comps-el5.xml.in.h:46
+msgid "System Tools"
+msgstr "Strumenti di sistema"
+
+#: ../comps-f7.xml.in.h:138 ../comps-f8.xml.in.h:147 ../comps-f9.xml.in.h:154
+#: ../comps-f10.xml.in.h:164 ../comps-f11.xml.in.h:171
+msgid "Tagalog Support"
+msgstr "Supporto lingua tagalog"
+
+#: ../comps-f7.xml.in.h:139 ../comps-f8.xml.in.h:148 ../comps-f9.xml.in.h:155
+#: ../comps-f10.xml.in.h:166 ../comps-f11.xml.in.h:173
+msgid "Tamil Support"
+msgstr "Supporto lingua tamil"
+
+#: ../comps-f7.xml.in.h:140 ../comps-f8.xml.in.h:149 ../comps-f9.xml.in.h:156
+#: ../comps-f10.xml.in.h:167 ../comps-f11.xml.in.h:174
+msgid "Telugu Support"
+msgstr "Supporto lingua telugu"
+
+#: ../comps-f7.xml.in.h:141 ../comps-f8.xml.in.h:150 ../comps-f9.xml.in.h:157
+#: ../comps-f10.xml.in.h:168 ../comps-f11.xml.in.h:175
+#: ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:47
+msgid "Text-based Internet"
+msgstr "Applicazioni Internet in modalità testo"
+
+#: ../comps-f7.xml.in.h:142 ../comps-f8.xml.in.h:151 ../comps-f9.xml.in.h:158
+#: ../comps-f10.xml.in.h:169 ../comps-f11.xml.in.h:176
+msgid "Thai Support"
+msgstr "Supporto lingua tailandese"
+
+#: ../comps-f7.xml.in.h:143
+msgid "The Eclipse Integrated Development Environment."
+msgstr "L'ambiente integrato di sviluppo Eclipse."
+
+#: ../comps-f7.xml.in.h:144 ../comps-f8.xml.in.h:152 ../comps-f9.xml.in.h:159
+#: ../comps-f10.xml.in.h:170 ../comps-f11.xml.in.h:177
+#: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:49
+msgid "The applications include office suites, PDF viewers, and more."
+msgstr ""
+"In questo pacchetto sono contenute applicazioni per l'ufficio, visualizzatori "
+"di file PDF e altro."
+
+#: ../comps-f7.xml.in.h:145 ../comps-f8.xml.in.h:153 ../comps-f9.xml.in.h:160
+#: ../comps-f10.xml.in.h:171 ../comps-f11.xml.in.h:178
+msgid ""
+"The packages in this group are core libraries needed to develop applications."
+msgstr ""
+"I pacchetti di questo gruppo sono librerie di base necessarie per lo "
+"sviluppo di applicazioni."
+
+#: ../comps-f7.xml.in.h:146 ../comps-f8.xml.in.h:154 ../comps-f9.xml.in.h:161
+#: ../comps-f10.xml.in.h:172 ../comps-f11.xml.in.h:179
+#: ../comps-el4.xml.in.h:52 ../comps-el5.xml.in.h:50
+msgid "These packages allow you to configure an IMAP or SMTP mail server."
+msgstr ""
+"Questi pacchetti permettono di configurare server di mail IMAP o SMTP."
+
+#: ../comps-f7.xml.in.h:147 ../comps-f8.xml.in.h:155 ../comps-f9.xml.in.h:162
+#: ../comps-f10.xml.in.h:173 ../comps-f11.xml.in.h:180
+msgid ""
+"These packages allow you to develop applications for the X Window System."
+msgstr ""
+"Questi pacchetti permettono di sviluppare applicazioni per il sistema X Window."
+
+#: ../comps-f7.xml.in.h:148 ../comps-f8.xml.in.h:156 ../comps-f9.xml.in.h:163
+#: ../comps-f10.xml.in.h:174 ../comps-f11.xml.in.h:181
+#: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:51
+msgid ""
+"These packages are helpful when developing web applications or web pages."
+msgstr ""
+"Questi pacchetti sono di aiuto per lo sviluppo di applicazioni e pagine web."
+
+#: ../comps-f7.xml.in.h:149 ../comps-f8.xml.in.h:157 ../comps-f9.xml.in.h:164
+#: ../comps-f10.xml.in.h:175 ../comps-f11.xml.in.h:182
+msgid ""
+"These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgstr ""
+"Questi pacchetti includono server di rete come DHCP, Kerberos e NIS."
+
+#: ../comps-f7.xml.in.h:150 ../comps-f8.xml.in.h:158 ../comps-f9.xml.in.h:165
+#: ../comps-f10.xml.in.h:176 ../comps-f11.xml.in.h:183
+msgid ""
+"These packages include servers for old network protocols such as rsh and "
+"telnet."
+msgstr ""
+"Questi pacchetti includono server per protocolli di rete meno recenti, come "
+"rsh e telnet."
+
+#: ../comps-f7.xml.in.h:151 ../comps-f8.xml.in.h:159 ../comps-f9.xml.in.h:166
+#: ../comps-f10.xml.in.h:177 ../comps-f11.xml.in.h:184
+msgid "These packages provide a virtualization environment."
+msgstr "Questi pacchetti rendono disponibile un ambiente di virtualizzazione."
+
+#: ../comps-f7.xml.in.h:152 ../comps-f8.xml.in.h:160 ../comps-f9.xml.in.h:167
+#: ../comps-f10.xml.in.h:178 ../comps-f11.xml.in.h:185
+msgid "These packages provide compatibility with previous releases."
+msgstr ""
+"Questi pacchetti permettono di ottenere la compatibilità con release meno "
+"recenti."
+
+#: ../comps-f7.xml.in.h:153 ../comps-f8.xml.in.h:161 ../comps-f9.xml.in.h:168
+#: ../comps-f10.xml.in.h:179 ../comps-f11.xml.in.h:186
+msgid ""
+"These packages provide support for various locales including fonts and input "
+"methods."
+msgstr ""
+"Questi pacchetti forniscono il supporto alla localizzazione in varie lingue, "
+"caratteri e metodi di input."
+
+#: ../comps-f7.xml.in.h:154 ../comps-f8.xml.in.h:162 ../comps-f9.xml.in.h:169
+#: ../comps-f10.xml.in.h:180 ../comps-f11.xml.in.h:187
+msgid ""
+"These tools allow you to create documents in the DocBook format and convert "
+"them into HTML, PDF, Postscript, and text."
+msgstr ""
+"Questi strumenti permettono la creazione di documenti in formato DocBook, e "
+"di convertirli nei formati HTML, PDF, Postscript e testo."
+
+#: ../comps-f7.xml.in.h:155 ../comps-f8.xml.in.h:163 ../comps-f9.xml.in.h:170
+#: ../comps-f10.xml.in.h:181 ../comps-f11.xml.in.h:188
+#: ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:53
+msgid "These tools allow you to run a Web server on the system."
+msgstr "Questi strumenti permettono di eseguire un server Web nel sistema."
+
+#: ../comps-f7.xml.in.h:156 ../comps-f8.xml.in.h:164 ../comps-f9.xml.in.h:171
+#: ../comps-f10.xml.in.h:182 ../comps-f11.xml.in.h:189
+#: ../comps-el4.xml.in.h:56 ../comps-el5.xml.in.h:54
+msgid "These tools allow you to run an FTP server on the system."
+msgstr "Questi strumenti permettono di eseguire un server FTP nel sistema."
+
+#: ../comps-f7.xml.in.h:157 ../comps-f8.xml.in.h:165 ../comps-f9.xml.in.h:172
+#: ../comps-f10.xml.in.h:183 ../comps-f11.xml.in.h:190
+#: ../comps-el4.xml.in.h:57 ../comps-el5.xml.in.h:55
+msgid ""
+"These tools include core development tools such as automake, gcc, perl, "
+"python, and debuggers."
+msgstr ""
+"Questo gruppo contiene strumenti di base per lo sviluppo di applicazioni, come "
+"automake, gcc, perl, python e vari debugger."
+
+#: ../comps-f7.xml.in.h:158 ../comps-f8.xml.in.h:166 ../comps-f9.xml.in.h:173
+#: ../comps-f10.xml.in.h:184 ../comps-f11.xml.in.h:191
+#: ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:56
+msgid "This group allows you to configure the system as a news server."
+msgstr "Questo gruppo permette di configurare il sistema come server di news."
+
+#: ../comps-f7.xml.in.h:159 ../comps-f8.xml.in.h:167 ../comps-f9.xml.in.h:174
+#: ../comps-f10.xml.in.h:185 ../comps-f11.xml.in.h:192
+msgid "This group contains all of Red Hat's custom server configuration tools."
+msgstr ""
+"Questo gruppo contiene tutti gli strumenti personalizzati da Red Hat per la "
+"configurazione dei server."
+
+#: ../comps-f7.xml.in.h:160 ../comps-f8.xml.in.h:168 ../comps-f9.xml.in.h:175
+#: ../comps-f10.xml.in.h:186 ../comps-f11.xml.in.h:193
+msgid ""
+"This group includes a minimal set of packages. Useful for creating small "
+"router/firewall boxes, for example."
+msgstr ""
+"Questo gruppo include un insieme minimo di pacchetti. Ad esempio, può risultare "
+"utile per implementare piccoli router/firewall."
+
+#: ../comps-f7.xml.in.h:161 ../comps-f8.xml.in.h:169 ../comps-f9.xml.in.h:176
+#: ../comps-f10.xml.in.h:187 ../comps-f11.xml.in.h:194
+#: ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:57
+msgid "This group includes graphical email, Web, and chat clients."
+msgstr ""
+"Questo gruppo contiene programmi con interfaccia grafica per Internet, come "
+"client di mail, browser Web e applicazioni di chat."
+
+#: ../comps-f7.xml.in.h:162 ../comps-f8.xml.in.h:170 ../comps-f9.xml.in.h:177
+#: ../comps-f10.xml.in.h:188 ../comps-f11.xml.in.h:195
+#: ../comps-el4.xml.in.h:60 ../comps-el5.xml.in.h:58
+msgid ""
+"This group includes packages for performing mathematical and scientific "
+"computations and plotting, as well as unit conversion."
+msgstr ""
+"Questo gruppo contiene pacchetti per eseguire elaborazioni matematiche e "
+"scientifiche, rappresentarne graficamente i risultati, ed effettuare "
+"conversioni tra unità di misura."
+
+#: ../comps-f7.xml.in.h:163 ../comps-f8.xml.in.h:171 ../comps-f9.xml.in.h:178
+#: ../comps-f10.xml.in.h:189 ../comps-f11.xml.in.h:196
+#: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:59
+msgid "This group includes packages to help you manipulate and scan images."
+msgstr ""
+"Questo gruppo contiene pacchetti per la scansione e l'elaborazione di immagini."
+
+#: ../comps-f7.xml.in.h:164 ../comps-f8.xml.in.h:172 ../comps-f9.xml.in.h:179
+#: ../comps-f10.xml.in.h:190 ../comps-f11.xml.in.h:197
+#: ../comps-el4.xml.in.h:62 ../comps-el5.xml.in.h:60
+msgid ""
+"This group includes text-based email, Web, and chat clients. These "
+"applications do not require the X Window System."
+msgstr ""
+"Questo gruppo contiene applicazioni Internet testuali che non necessitano del "
+"sistema X Window, tra cui browser Web, client di mail e programmi di chat."
+
+#: ../comps-f7.xml.in.h:165 ../comps-f8.xml.in.h:173 ../comps-f9.xml.in.h:180
+#: ../comps-f10.xml.in.h:191 ../comps-f11.xml.in.h:198
+#: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:61
+msgid ""
+"This group is a collection of graphical administration tools for the system, "
+"such as for managing user accounts and configuring system hardware."
+msgstr ""
+"Questo gruppo contiene un insieme di strumenti grafici per l'amministrazione "
+"di sistema, ad esempio per gestire gli account utente o configurare le "
+"periferiche hardware."
+
+#: ../comps-f7.xml.in.h:166 ../comps-f8.xml.in.h:174 ../comps-f9.xml.in.h:181
+#: ../comps-f10.xml.in.h:192 ../comps-f11.xml.in.h:199
+#: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:64
+msgid ""
+"This group is a collection of tools and resources of Armenian environments."
+msgstr ""
+"Questo gruppo contiene un insieme di strumenti e risorse per ambienti armeni."
+
+#: ../comps-f7.xml.in.h:167 ../comps-f8.xml.in.h:175 ../comps-f9.xml.in.h:182
+#: ../comps-f10.xml.in.h:193 ../comps-f11.xml.in.h:200
+#: ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:68
+msgid ""
+"This group is a collection of tools for various hardware specific utilities."
+msgstr ""
+"Questo gruppo contiene strumenti specifici per vari componenti hardware."
+
+#: ../comps-f7.xml.in.h:168 ../comps-f8.xml.in.h:176 ../comps-f9.xml.in.h:183
+#: ../comps-f10.xml.in.h:194 ../comps-f11.xml.in.h:202
+#: ../comps-el4.xml.in.h:70 ../comps-el5.xml.in.h:69
+msgid ""
+"This group is a collection of various tools for the system, such as the "
+"client for connecting to SMB shares and tools to monitor network traffic."
+msgstr ""
+"Questo gruppo contiene un insieme di strumenti di sistema, tra cui un'"
+"applicazione per la connessione a condivisioni SMB e un programma per "
+"monitorare il traffico di rete."
+
+#: ../comps-f7.xml.in.h:169 ../comps-f8.xml.in.h:177 ../comps-f9.xml.in.h:184
+#: ../comps-f10.xml.in.h:195 ../comps-f11.xml.in.h:203
+msgid ""
+"This package group allows you to run a DNS name server (BIND) on the system."
+msgstr ""
+"Questo gruppo di pacchetti consente di eseguire un server DNS (BIND) nel "
+"sistema."
+
+#: ../comps-f7.xml.in.h:170 ../comps-f8.xml.in.h:178 ../comps-f9.xml.in.h:185
+#: ../comps-f10.xml.in.h:196 ../comps-f11.xml.in.h:204
+msgid ""
+"This package group allows you to share files between Linux and MS Windows"
+"(tm) systems."
+msgstr ""
+"Questo gruppo di pacchetti permette di condividere file tra sistemi Linux e "
+"MS Windows(R)."
+
+#: ../comps-f7.xml.in.h:171 ../comps-f8.xml.in.h:179 ../comps-f9.xml.in.h:186
+#: ../comps-f10.xml.in.h:197 ../comps-f11.xml.in.h:205
+msgid "This package group contains packages useful for use with MySQL."
+msgstr "Questo gruppo contiene pacchetti utili per MySQL."
+
+#: ../comps-f7.xml.in.h:172 ../comps-f8.xml.in.h:180 ../comps-f9.xml.in.h:187
+#: ../comps-f10.xml.in.h:198 ../comps-f11.xml.in.h:206
+msgid "This package group includes packages useful for use with Postgresql."
+msgstr "Questo gruppo contiene pacchetti utili per PostgreSQL."
+
+#: ../comps-f7.xml.in.h:173 ../comps-f8.xml.in.h:181 ../comps-f9.xml.in.h:188
+#: ../comps-f10.xml.in.h:199 ../comps-f11.xml.in.h:207
+msgid "Tibetan Support"
+msgstr "Supporto lingua tibetana"
+
+#: ../comps-f7.xml.in.h:174 ../comps-f8.xml.in.h:182 ../comps-f9.xml.in.h:189
+#: ../comps-f10.xml.in.h:200 ../comps-f11.xml.in.h:208
+msgid "Tonga Support"
+msgstr "Supporto lingua tonga"
+
+#: ../comps-f7.xml.in.h:175 ../comps-f8.xml.in.h:183 ../comps-f9.xml.in.h:190
+#: ../comps-f10.xml.in.h:201 ../comps-f11.xml.in.h:209
+#: ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:70
+msgid "Tools and Utilities needed by a Fedora Packager"
+msgstr "Strumenti e accessori necessari per creare e gestire pacchetti Fedora"
+
+#: ../comps-f7.xml.in.h:176 ../comps-f8.xml.in.h:184 ../comps-f9.xml.in.h:191
+#: ../comps-f10.xml.in.h:202 ../comps-f11.xml.in.h:210
+msgid "Tsonga Support"
+msgstr "Supporto lingua tsonga"
+
+#: ../comps-f7.xml.in.h:177 ../comps-f8.xml.in.h:185 ../comps-f9.xml.in.h:192
+#: ../comps-f10.xml.in.h:203 ../comps-f11.xml.in.h:211
+msgid "Tswana Support"
+msgstr "Supporto lingua tswana"
+
+#: ../comps-f7.xml.in.h:178 ../comps-f8.xml.in.h:186 ../comps-f9.xml.in.h:193
+#: ../comps-f10.xml.in.h:204 ../comps-f11.xml.in.h:212
+msgid "Turkish Support"
+msgstr "Supporto lingua turca"
+
+#: ../comps-f7.xml.in.h:179 ../comps-f8.xml.in.h:187 ../comps-f9.xml.in.h:194
+#: ../comps-f10.xml.in.h:205 ../comps-f11.xml.in.h:214
+msgid "Ukrainian Support"
+msgstr "Supporto lingua ucraina"
+
+#: ../comps-f7.xml.in.h:180 ../comps-f8.xml.in.h:188 ../comps-f9.xml.in.h:195
+#: ../comps-f10.xml.in.h:206 ../comps-f11.xml.in.h:216
+msgid "Urdu Support"
+msgstr "Supporto lingua urdu"
+
+#: ../comps-f7.xml.in.h:181 ../comps-f8.xml.in.h:189 ../comps-f9.xml.in.h:196
+#: ../comps-f10.xml.in.h:208 ../comps-f11.xml.in.h:218
+#: ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:71
+msgid "Various core pieces of the system."
+msgstr "Vari componenti di base del sistema."
+
+#: ../comps-f7.xml.in.h:182 ../comps-f8.xml.in.h:190 ../comps-f9.xml.in.h:197
+#: ../comps-f10.xml.in.h:209 ../comps-f11.xml.in.h:219
+#: ../comps-el5.xml.in.h:72
+msgid "Various ways to relax and spend your free time."
+msgstr "Vari modi per rilassarsi e intrattenersi nel tempo libero."
+
+#: ../comps-f7.xml.in.h:183 ../comps-f8.xml.in.h:191 ../comps-f9.xml.in.h:198
+#: ../comps-f10.xml.in.h:210 ../comps-f11.xml.in.h:220
+msgid "Venda Support"
+msgstr "Supporto lingua venda"
+
+#: ../comps-f7.xml.in.h:184 ../comps-f8.xml.in.h:192 ../comps-f9.xml.in.h:199
+#: ../comps-f10.xml.in.h:211 ../comps-f11.xml.in.h:221
+msgid "Vietnamese Support"
+msgstr "Supporto lingua vietnamita"
+
+#: ../comps-f7.xml.in.h:185 ../comps-f8.xml.in.h:193 ../comps-f9.xml.in.h:200
+#: ../comps-f10.xml.in.h:212 ../comps-f11.xml.in.h:222
+msgid "Virtualization"
+msgstr "Virtualizzazione"
+
+#: ../comps-f7.xml.in.h:186 ../comps-f8.xml.in.h:194 ../comps-f9.xml.in.h:202
+#: ../comps-f10.xml.in.h:214 ../comps-f11.xml.in.h:224
+#: ../comps-el4.xml.in.h:73 ../comps-el5.xml.in.h:73
+msgid "Web Development"
+msgstr "Sviluppo Web"
+
+#: ../comps-f7.xml.in.h:187 ../comps-f8.xml.in.h:195 ../comps-f9.xml.in.h:203
+#: ../comps-f10.xml.in.h:215 ../comps-f11.xml.in.h:225
+#: ../comps-el4.xml.in.h:74 ../comps-el5.xml.in.h:74
+msgid "Web Server"
+msgstr "Server Web"
+
+#: ../comps-f7.xml.in.h:188 ../comps-f8.xml.in.h:196 ../comps-f9.xml.in.h:204
+#: ../comps-f10.xml.in.h:216 ../comps-f11.xml.in.h:226
+msgid "Welsh Support"
+msgstr "Supporto lingua gallese"
+
+#: ../comps-f7.xml.in.h:189 ../comps-f8.xml.in.h:197 ../comps-f9.xml.in.h:205
+#: ../comps-f10.xml.in.h:217 ../comps-f11.xml.in.h:227
+#: ../comps-el4.xml.in.h:75 ../comps-el5.xml.in.h:75
+msgid "Window Managers"
+msgstr "Window manager"
+
+#: ../comps-f7.xml.in.h:190 ../comps-f8.xml.in.h:198 ../comps-f9.xml.in.h:206
+#: ../comps-f10.xml.in.h:218 ../comps-f11.xml.in.h:228
+msgid "Windows File Server"
+msgstr "File server Windows"
+
+#: ../comps-f7.xml.in.h:191 ../comps-f8.xml.in.h:199 ../comps-f9.xml.in.h:207
+#: ../comps-f10.xml.in.h:219 ../comps-f11.xml.in.h:229
+msgid "X Software Development"
+msgstr "Sviluppo applicazioni X"
+
+#: ../comps-f7.xml.in.h:192 ../comps-f8.xml.in.h:200 ../comps-f9.xml.in.h:208
+#: ../comps-f10.xml.in.h:220 ../comps-f11.xml.in.h:230
+#: ../comps-el4.xml.in.h:76 ../comps-el5.xml.in.h:76
+msgid "X Window System"
+msgstr "X Window System"
+
+#: ../comps-f7.xml.in.h:193 ../comps-f8.xml.in.h:201 ../comps-f9.xml.in.h:209
+#: ../comps-f10.xml.in.h:221 ../comps-f11.xml.in.h:231
+msgid "XFCE"
+msgstr "XFCE"
+
+#: ../comps-f7.xml.in.h:194 ../comps-f8.xml.in.h:202 ../comps-f9.xml.in.h:210
+#: ../comps-f10.xml.in.h:222 ../comps-f11.xml.in.h:232
+msgid "XFCE Software Development"
+msgstr "Sviluppo applicazioni XFCE"
+
+#: ../comps-f7.xml.in.h:195 ../comps-f8.xml.in.h:203 ../comps-f9.xml.in.h:211
+#: ../comps-f10.xml.in.h:223 ../comps-f11.xml.in.h:233
+msgid "Xhosa Support"
+msgstr "Supporto lingua Xhosa"
+
+#: ../comps-f7.xml.in.h:196 ../comps-f8.xml.in.h:204 ../comps-f9.xml.in.h:212
+#: ../comps-f10.xml.in.h:224 ../comps-f11.xml.in.h:234
+msgid "Zulu Support"
+msgstr "Supporto lingua zulu"
+
+#: ../comps-f8.xml.in.h:21 ../comps-f9.xml.in.h:21 ../comps-f10.xml.in.h:21
+#: ../comps-f11.xml.in.h:22
+msgid "Buildsystem building group"
+msgstr "Buildsystem building group"
+
+#: ../comps-f8.xml.in.h:48 ../comps-f9.xml.in.h:49 ../comps-f10.xml.in.h:49
+#: ../comps-f11.xml.in.h:50
+msgid "Fedora Eclipse"
+msgstr "Fedora Eclipse"
+
+#: ../comps-f8.xml.in.h:52 ../comps-f9.xml.in.h:53 ../comps-f10.xml.in.h:53
+#: ../comps-f11.xml.in.h:55
+msgid "Fonts"
+msgstr "Caratteri"
+
+#: ../comps-f8.xml.in.h:53 ../comps-f9.xml.in.h:54 ../comps-f10.xml.in.h:54
+#: ../comps-f11.xml.in.h:56
+msgid "Fonts packages for rendering text on the desktop."
+msgstr "Pacchetti di caratteri per la rappresentazione di testo sul desktop."
+
+#: ../comps-f8.xml.in.h:79 ../comps-f9.xml.in.h:80 ../comps-f10.xml.in.h:83
+#: ../comps-f11.xml.in.h:87
+msgid "Integrated Development Environments based on Eclipse."
+msgstr "Ambiente integrato di sviluppo basato su Eclipse."
+
+#: ../comps-f8.xml.in.h:95 ../comps-f9.xml.in.h:98 ../comps-f10.xml.in.h:104
+#: ../comps-f11.xml.in.h:109
+msgid "Legacy Fonts"
+msgstr "Caratteri legacy"
+
+#: ../comps-f8.xml.in.h:100 ../comps-f9.xml.in.h:103 ../comps-f10.xml.in.h:109
+#: ../comps-f11.xml.in.h:114
+msgid "Low Saxon Support"
+msgstr "Supporto lingua low saxon"
+
+#: ../comps-f8.xml.in.h:106 ../comps-f9.xml.in.h:110 ../comps-f10.xml.in.h:117
+#: ../comps-f11.xml.in.h:123
+msgid "Mongolian Support"
+msgstr "Supporto lingua mongolese"
+
+#: ../comps-f8.xml.in.h:108 ../comps-f9.xml.in.h:112 ../comps-f10.xml.in.h:120
+#: ../comps-f11.xml.in.h:126
+msgid "Nepali Support"
+msgstr "Supporto lingua nepalese"
+
+#: ../comps-f8.xml.in.h:114 ../comps-f9.xml.in.h:119 ../comps-f10.xml.in.h:127
+#: ../comps-f11.xml.in.h:134
+msgid "Older bitmap and vector fonts packages"
+msgstr "Pacchetti di caratteri bitmap e vettoriali meno recenti"
+
+#: ../comps-f9.xml.in.h:44 ../comps-f10.xml.in.h:44 ../comps-f11.xml.in.h:45
+msgid "Esperanto Support"
+msgstr "Supporto lingua esperanto"
+
+#: ../comps-f9.xml.in.h:91 ../comps-f10.xml.in.h:95 ../comps-f11.xml.in.h:99
+msgid "Kashubian Support"
+msgstr "Supporto lingua kashubian"
+
+#: ../comps-f9.xml.in.h:94 ../comps-f10.xml.in.h:99 ../comps-f11.xml.in.h:104
+msgid "Kurdish Support"
+msgstr "Supporto lingua curda"
+
+#: ../comps-f9.xml.in.h:104 ../comps-f10.xml.in.h:110
+#: ../comps-f11.xml.in.h:115
+msgid "Macedonian Support"
+msgstr "Supporto lingua macedone"
+
+#: ../comps-f9.xml.in.h:115 ../comps-f10.xml.in.h:123
+#: ../comps-f11.xml.in.h:129
+msgid "Northern Sami Support"
+msgstr "Supporto lingua sami settentrionale"
+
+#: ../comps-f9.xml.in.h:131 ../comps-f10.xml.in.h:139
+#: ../comps-f11.xml.in.h:146
+msgid "SUGAR Desktop Environment"
+msgstr "Ambiente desktop SUGAR"
+
+#: ../comps-f9.xml.in.h:132 ../comps-f10.xml.in.h:140
+#: ../comps-f11.xml.in.h:147
+msgid "SUGAR is the desktop environment developed for the OLPC XO."
+msgstr "SUGAR è l'ambiente desktop sviluppato dal progetto OLPC XO."
+
+#: ../comps-f9.xml.in.h:201 ../comps-f10.xml.in.h:213
+#: ../comps-f11.xml.in.h:223
+msgid "Walloon Support"
+msgstr "Supporto lingua walloon"
+
+#: ../comps-f10.xml.in.h:70 ../comps-f11.xml.in.h:74
+msgid "Haskell Development"
+msgstr "Sviluppo haskell"
+
+#: ../comps-f10.xml.in.h:76 ../comps-f11.xml.in.h:80
+msgid "Input Methods"
+msgstr "Metodi di input"
+
+#: ../comps-f10.xml.in.h:77 ../comps-f11.xml.in.h:81
+msgid "Input method packages for the input of international text."
+msgstr ""
+"Pacchetti contenenti metodi per l'inserimento internazionalizzato di testi."
+
+#: ../comps-f10.xml.in.h:94 ../comps-f11.xml.in.h:98
+msgid "Kashmiri Support"
+msgstr "Supporto lingua kashmiri"
+
+#: ../comps-f10.xml.in.h:97 ../comps-f11.xml.in.h:102
+msgid "Konkani Support"
+msgstr "Supporto lingua konkani"
+
+#: ../comps-f10.xml.in.h:100 ../comps-f11.xml.in.h:105
+msgid "LXDE"
+msgstr "LXDE"
+
+#: ../comps-f10.xml.in.h:112 ../comps-f11.xml.in.h:117
+msgid "Maithili Support"
+msgstr "Supprto lingua maithili"
+
+#: ../comps-f10.xml.in.h:119 ../comps-f11.xml.in.h:125
+msgid "Myanmar (Burmese) Support"
+msgstr "Supporto lingua burmese (Myanmar)"
+
+#: ../comps-f10.xml.in.h:146 ../comps-f11.xml.in.h:153
+msgid "Sindhi Support"
+msgstr "Supporto lingua sindhi"
+
+#: ../comps-f10.xml.in.h:158 ../comps-f11.xml.in.h:165
+msgid "Support for developing programs in the Haskell programming language."
+msgstr "Supporto per lo sviluppo di programmi nel linguaggio Haskell."
+
+#: ../comps-f10.xml.in.h:165 ../comps-f11.xml.in.h:172
+msgid "Tajik Support"
+msgstr "Supporto lingua tajika"
+
+#: ../comps-f10.xml.in.h:207 ../comps-f11.xml.in.h:217
+msgid "Uzbek Support"
+msgstr "Supporto lingua uzbeca"
+
+#: ../comps-f11.xml.in.h:5
+msgid "Amazigh Support"
+msgstr "Supporto lingua amazigh"
+
+#: ../comps-f11.xml.in.h:54
+msgid "Font design and packaging"
+msgstr "Sviluppo e gestione font"
+
+#: ../comps-f11.xml.in.h:58
+msgid "Frisian Support"
+msgstr "Supporto lingua frisia"
+
+#: ../comps-f11.xml.in.h:59
+msgid "Friulian Support"
+msgstr "Supporto lingua friulana"
+
+#: ../comps-f11.xml.in.h:101
+msgid "Kinyarwanda Support"
+msgstr "Supporto lingua kinyarwanda"
+
+#: ../comps-f11.xml.in.h:118
+msgid "Malagasy Support"
+msgstr "Supporto lingua malagasy"
+
+#: ../comps-f11.xml.in.h:132
+msgid "Occitan Support"
+msgstr "Supporto lingua occitana"
+
+#: ../comps-f11.xml.in.h:201
+msgid ""
+"This group is a collection of tools used in the design, modification, "
+"manipulation, and packaging of fonts."
+msgstr ""
+"Questo gruppo contiene un insieme di strumenti utili per la creazione, la "
+"modifica, la manipolazione e pacchettizzazione di font."
+
+#: ../comps-f11.xml.in.h:213
+msgid "Turkmen Support"
+msgstr "Supporto lingua turkmena"
+
+#: ../comps-f11.xml.in.h:215
+msgid "Upper Sorbian Support"
+msgstr "Supporto lingua upper sorbian"
+
+#: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
+msgid "Applications for a variety of tasks"
+msgstr "Applicazioni generiche"
+
+#: ../comps-el4.xml.in.h:12 ../comps-el5.xml.in.h:13
+msgid "Dialup Networking Support"
+msgstr "Accesso remoto dialup"
+
+#: ../comps-el4.xml.in.h:22 ../comps-el5.xml.in.h:23
+msgid ""
+"GNOME is a powerful, graphical user interface which includes a panel, "
+"desktop, system icons, and a graphical file manager."
+msgstr ""
+"GNOME è una potente interfaccia utente grafica, comprensiva di un gestore di "
+"file, di un pannello per gestire il desktop e delle icone di sistema."
+
+#: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:35
+msgid ""
+"KDE is a powerful, graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE è una potente interfaccia utente grafica, comprensiva di un gestore di "
+"file, di un pannello desktop e delle icone di sistema."
+
+#: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:44
+msgid ""
+"Sometimes called text editors, these are programs that allow you to create "
+"and edit files. These include Emacs and Vi."
+msgstr ""
+"Spesso chiamati editor di testi, questi programmi permettono di creare e "
+"modificare file di testo. Sono compresi Emacs e Vi."
+
+#: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:48
+msgid "The XEmacs text editor."
+msgstr "L'editor di testi XEmacs."
+
+#: ../comps-el4.xml.in.h:54 ../comps-el5.xml.in.h:52
+msgid ""
+"These tools allow you to create documentation in the DocBook format and "
+"convert them to HTML, PDF, Postscript, and text."
+msgstr ""
+"Questi strumenti permettono la creazione di documenti in formato DocBook, e "
+"di convertirli nei formati HTML, PDF, Postscript e testo."
+
+#: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:62
+msgid "This group is a collection of network servers for specific purposes"
+msgstr ""
+"Questo gruppo contiene un insieme di server di rete per specifici protocolli"
+
+#: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
+msgid ""
+"This group is a collection of tools and resources of Arabic environments."
+msgstr ""
+"Questo gruppo contiene un insieme di strumenti e risorse per ambienti in "
+"lingua araba."
+
+#: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:66
+msgid ""
+"This group is a collection of tools and resources of Hebrew environments."
+msgstr ""
+"Questo gruppo contiene un insieme di strumenti e risorse per ambienti in "
+"lingua ebraica."
+
+#: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
+msgid ""
+"This group is a collection of tools and resources of Japanese environments."
+msgstr ""
+"Questo gruppo contiene un insieme di strumenti e risorse per ambienti in "
+"lingua giapponese."
+
+#: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:77
+msgid "XEmacs"
+msgstr "XEmacs"
+
+#: ../comps-el5.xml.in.h:65
+msgid ""
+"This group is a collection of tools and resources of Czech environments."
+msgstr ""
+"Questo gruppo contiene un insieme di strumenti e risorse per ambienti in "
+"lingua ceca."
 
