@@ -2216,7 +2216,7 @@
       <packagereq type="optional">gob2</packagereq>
       <packagereq type="optional">gquilt</packagereq>
       <packagereq type="optional">gtk+extra</packagereq>
-      <packagereq type="optional">gtk2hs</packagereq>
+      <packagereq type="optional">ghc-gtk</packagereq>
       <packagereq type="optional">gtkdatabox-devel</packagereq>
       <packagereq type="optional">gtkmm24-devel</packagereq>
       <packagereq type="optional">gtkparasite</packagereq>
@@ -2531,19 +2531,12 @@
       <packagereq type="default">ghc-doc</packagereq>
       <packagereq type="default">happy</packagereq>
       <packagereq type="optional">cpphs</packagereq>
-      <packagereq type="optional">ghc-gtk2hs</packagereq>
+      <packagereq type="optional">ghc-gtk</packagereq>
       <packagereq type="optional">ghc-gtk2hs-doc</packagereq>
       <packagereq type="optional">ghc-prof</packagereq>
       <packagereq type="optional">haddock</packagereq>
-      <packagereq type="optional">haddock09</packagereq>
       <packagereq type="optional">hugs98</packagereq>
-      <packagereq type="optional">hugs98-alut</packagereq>
       <packagereq type="optional">hugs98-demos</packagereq>
-      <packagereq type="optional">hugs98-glut</packagereq>
-      <packagereq type="optional">hugs98-hgl</packagereq>
-      <packagereq type="optional">hugs98-openal</packagereq>
-      <packagereq type="optional">hugs98-opengl</packagereq>
-      <packagereq type="optional">hugs98-x11</packagereq>
     </packagelist>
   </group>
   <group>
