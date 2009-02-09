@@ -1482,8 +1482,10 @@
       <packagereq type="default">dejavu-serif-fonts</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
       <packagereq type="default">kacst-fonts</packagereq>
-      <packagereq type="default">khmeros-fonts-base</packagereq>
-      <packagereq type="default">liberation-fonts</packagereq>
+      <packagereq type="default">khmeros-base-fonts</packagereq>
+      <packagereq type="default">liberation-mono-fonts</packagereq>
+      <packagereq type="default">liberation-sans-fonts</packagereq>
+      <packagereq type="default">liberation-serif-fonts</packagereq>
       <packagereq type="default">lklug-fonts</packagereq>
       <packagereq type="default">lohit-fonts-bengali</packagereq>
       <packagereq type="default">lohit-fonts-gujarati</packagereq>
@@ -1496,7 +1498,7 @@
       <packagereq type="default">lohit-fonts-telugu</packagereq>
       <packagereq type="default">padauk-fonts</packagereq>
       <packagereq type="default">paktype-fonts</packagereq>
-      <packagereq type="default">smc-fonts-meera</packagereq>
+      <packagereq type="default">smc-meera-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
       <packagereq type="default">un-core-fonts-dotum</packagereq>
@@ -1504,10 +1506,10 @@
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">asana-math-fonts</packagereq>
-      <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
-      <packagereq type="optional">baekmuk-ttf-fonts-dotum</packagereq>
-      <packagereq type="optional">baekmuk-ttf-fonts-gulim</packagereq>
-      <packagereq type="optional">baekmuk-ttf-fonts-hline</packagereq>
+      <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
+      <packagereq type="optional">baekmuk-ttf-dotum-fonts</packagereq>
+      <packagereq type="optional">baekmuk-ttf-gulim-fonts</packagereq>
+      <packagereq type="optional">baekmuk-ttf-hline-fonts</packagereq>
       <packagereq type="optional">bitstream-vera-sans-fonts</packagereq>
       <packagereq type="optional">bitstream-vera-sans-mono-fonts</packagereq>
       <packagereq type="optional">bitstream-vera-serif-fonts</packagereq>
@@ -1526,7 +1528,9 @@
       <packagereq type="optional">dejavu-lgc-sans-mono-fonts</packagereq>
       <packagereq type="optional">dejavu-lgc-serif-fonts</packagereq>
       <packagereq type="optional">denenmo-music-fonts</packagereq>
-      <packagereq type="optional">dustin-dustismo-fonts</packagereq>
+      <packagereq type="optional">dustin-domestic-manners-fonts</packagereq>
+      <packagereq type="optional">dustin-dustismo-roman-fonts</packagereq>
+      <packagereq type="optional">dustin-dustismo-sans-fonts</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
       <packagereq type="optional">ecolier-court-lignes-fonts</packagereq>
       <packagereq type="optional">fonts-truetype-apl</packagereq>
@@ -1557,12 +1561,13 @@
       <packagereq type="optional">hanazono-fonts</packagereq>
       <packagereq type="optional">icelandic-fonts</packagereq>
       <packagereq type="optional">inconsolata-fonts</packagereq>
-      <packagereq type="optional">khmeros-fonts-battambang</packagereq>
-      <packagereq type="optional">khmeros-fonts-bokor</packagereq>
-      <packagereq type="optional">khmeros-fonts-handwritten</packagereq>
-      <packagereq type="optional">khmeros-fonts-metalchrieng</packagereq>
-      <packagereq type="optional">khmeros-fonts-muol</packagereq>
-      <packagereq type="optional">khmeros-fonts-siemreap</packagereq>
+      <packagereq type="optional">khmeros-battambang-fonts</packagereq>
+      <packagereq type="optional">khmeros-bokor-fonts</packagereq>
+      <packagereq type="optional">khmeros-handwritten-fonts</packagereq>
+      <packagereq type="optional">khmeros-metalchrieng-fonts</packagereq>
+      <packagereq type="optional">khmeros-muol-fonts</packagereq>
+      <packagereq type="optional">khmeros-siemreap-fonts</packagereq>
+      <packagereq type="optional">kurdit-unikurd-web-fonts</packagereq>
       <packagereq type="optional">lilypond-aybabtu-fonts</packagereq>
       <packagereq type="optional">lilypond-century-schoolbook-l-fonts</packagereq>
       <packagereq type="optional">lilypond-emmentaler-fonts</packagereq>
@@ -1585,27 +1590,32 @@
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
       <packagereq type="optional">roadstencil-fonts</packagereq>
-      <packagereq type="optional">samyak-fonts-devanagari</packagereq>
-      <packagereq type="optional">samyak-fonts-gujarati</packagereq>
-      <packagereq type="optional">samyak-fonts-malayalam</packagereq>
-      <packagereq type="optional">samyak-fonts-oriya</packagereq>
-      <packagereq type="optional">samyak-fonts-tamil</packagereq>
+      <packagereq type="optional">samyak-devanagari-fonts</packagereq>
+      <packagereq type="optional">samyak-gujarati-fonts</packagereq>
+      <packagereq type="optional">samyak-malayalam-fonts</packagereq>
+      <packagereq type="optional">samyak-oriya-fonts</packagereq>
+      <packagereq type="optional">samyak-tamil-fonts</packagereq>
       <packagereq type="optional">sarai-fonts</packagereq>
-      <packagereq type="optional">sazanami-fonts-gothic</packagereq>
-      <packagereq type="optional">sazanami-fonts-mincho</packagereq>
+      <packagereq type="optional">sazanami-gothic-fonts</packagereq>
+      <packagereq type="optional">sazanami-mincho-fonts</packagereq>
       <packagereq type="optional">serafettin-cartoon-fonts</packagereq>
       <packagereq type="optional">sil-andika-fonts</packagereq>
       <packagereq type="optional">sil-charis-fonts</packagereq>
       <packagereq type="optional">sil-doulos-fonts</packagereq>
       <packagereq type="optional">sil-gentium-alt-fonts</packagereq>
+      <packagereq type="optional">sil-gentium-basic-fonts</packagereq>
+      <packagereq type="optional">sil-gentium-basic-book-fonts</packagereq>
       <packagereq type="optional">sil-gentium-fonts</packagereq>
+      <packagereq type="optional">silkscreen-expanded-fonts</packagereq>
       <packagereq type="optional">silkscreen-fonts</packagereq>
-      <packagereq type="optional">smc-fonts-anjalioldlipi</packagereq>
-      <packagereq type="optional">smc-fonts-dyuthi</packagereq>
-      <packagereq type="optional">smc-fonts-kalyani</packagereq>
-      <packagereq type="optional">smc-fonts-rachana</packagereq>
-      <packagereq type="optional">smc-fonts-raghumalayalam</packagereq>
-      <packagereq type="optional">smc-fonts-suruma</packagereq>
+      <packagereq type="optional">sj-delphine-fonts</packagereq>
+      <packagereq type="optional">sj-stevehand-fonts</packagereq>
+      <packagereq type="optional">smc-anjalioldlipi-fonts</packagereq>
+      <packagereq type="optional">smc-dyuthi-fonts</packagereq>
+      <packagereq type="optional">smc-kalyani-fonts</packagereq>
+      <packagereq type="optional">smc-rachana-fonts</packagereq>
+      <packagereq type="optional">smc-raghumalayalam-fonts</packagereq>
+      <packagereq type="optional">smc-suruma-fonts</packagereq>
       <packagereq type="optional">sportrop-fonts</packagereq>
       <packagereq type="optional">stix-integrals-fonts</packagereq>
       <packagereq type="optional">stix-pua-fonts</packagereq>
@@ -1616,7 +1626,14 @@
       <packagereq type="optional">thibault-fonts-rockets</packagereq>
       <packagereq type="optional">thibault-fonts-staypuft</packagereq>
       <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
-      <packagereq type="optional">tiresias-fonts</packagereq>
+      <packagereq type="optional">tiresias-info-fonts</packagereq>
+      <packagereq type="optional">tiresias-info-z-fonts</packagereq>
+      <packagereq type="optional">tiresias-key-v2-fonts</packagereq>
+      <packagereq type="optional">tiresias-lp-fonts</packagereq>
+      <packagereq type="optional">tiresias-pc-fonts</packagereq>
+      <packagereq type="optional">tiresias-pc-z-fonts</packagereq>
+      <packagereq type="optional">tiresias-sign-fonts</packagereq>
+      <packagereq type="optional">tiresias-sign-z-fonts</packagereq>
       <packagereq type="optional">un-core-fonts-batang</packagereq>
       <packagereq type="optional">un-core-fonts-dinaru</packagereq>
       <packagereq type="optional">un-core-fonts-graphic</packagereq>
@@ -2469,7 +2486,7 @@
       <packagereq type="conditional" requires="moodle">moodle-gu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-gu_IN</packagereq>
       <packagereq type="default">iok</packagereq>
-      <packagereq type="default">samyak-fonts-gujarati</packagereq>
+      <packagereq type="default">samyak-gujarati-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2555,7 +2572,16 @@
       <packagereq type="conditional" requires="moodle">moodle-he</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-he_IL</packagereq>
       <packagereq type="conditional" requires="texlive">tetex-fonts-hebrew</packagereq>
-      <packagereq type="default">culmus-fonts</packagereq>
+      <packagereq type="default">culmus-aharoni-clm-fonts</packagereq>
+      <packagereq type="default">culmus-caladings-clm-fonts</packagereq>
+      <packagereq type="default">culmus-david-clm-fonts</packagereq>
+      <packagereq type="default">culmus-drugulin-clm-fonts</packagereq>
+      <packagereq type="default">culmus-ellinia-clm-fonts</packagereq>
+      <packagereq type="default">culmus-frank-ruehl-clm-fonts</packagereq>
+      <packagereq type="default">culmus-miriam-clm-fonts</packagereq>
+      <packagereq type="default">culmus-miriam-mono-clm-fonts</packagereq>
+      <packagereq type="default">culmus-nachlieli-clm-fonts</packagereq>
+      <packagereq type="default">culmus-yehuda-clm-fonts</packagereq>
       <packagereq type="optional">fonts-hebrew-fancy</packagereq>
       <packagereq type="optional">m17n-db-hebrew</packagereq>
     </packagelist>
@@ -2580,7 +2606,7 @@
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hi_IN</packagereq>
       <packagereq type="default">iok</packagereq>
-      <packagereq type="default">samyak-fonts-devanagari</packagereq>
+      <packagereq type="default">samyak-devanagari-fonts</packagereq>
       <packagereq type="default">sarai-fonts</packagereq>
     </packagelist>
   </group>
@@ -2809,7 +2835,6 @@
     <uservisible>false</uservisible>
     <langonly>ja</langonly>
     <packagelist>
-      <packagereq type="mandatory">VLGothic-fonts</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ja</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-anthy</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Japanese</packagereq>
@@ -2820,8 +2845,9 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ja_JP</packagereq>
       <packagereq type="conditional" requires="uim">uim-anthy</packagereq>
       <packagereq type="default">japanese-bitmap-fonts</packagereq>
-      <packagereq type="default">sazanami-fonts-gothic</packagereq>
-      <packagereq type="default">sazanami-fonts-mincho</packagereq>
+      <packagereq type="default">sazanami-gothic-fonts</packagereq>
+      <packagereq type="default">sazanami-mincho-fonts</packagereq>
+      <packagereq type="default">VLGothic-fonts</packagereq>
       <packagereq type="default">VLGothic-fonts-proportional</packagereq>
       <packagereq type="optional">anthy-el</packagereq>
       <packagereq type="optional">cmigemo</packagereq>
@@ -3186,17 +3212,17 @@
     <uservisible>false</uservisible>
     <langonly>km</langonly>
     <packagelist>
-      <packagereq type="mandatory">khmeros-fonts-base</packagereq>
+      <packagereq type="mandatory">khmeros-base-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-km</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Khmer</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-km</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-km</packagereq>
-      <packagereq type="default">khmeros-fonts-battambang</packagereq>
-      <packagereq type="default">khmeros-fonts-bokor</packagereq>
-      <packagereq type="default">khmeros-fonts-handwritten</packagereq>
-      <packagereq type="default">khmeros-fonts-metalchrieng</packagereq>
-      <packagereq type="default">khmeros-fonts-muol</packagereq>
-      <packagereq type="default">khmeros-fonts-siemreap</packagereq>
+      <packagereq type="default">khmeros-battambang-fonts</packagereq>
+      <packagereq type="default">khmeros-bokor-fonts</packagereq>
+      <packagereq type="default">khmeros-handwritten-fonts</packagereq>
+      <packagereq type="default">khmeros-metalchrieng-fonts</packagereq>
+      <packagereq type="default">khmeros-muol-fonts</packagereq>
+      <packagereq type="default">khmeros-siemreap-fonts</packagereq>
       <packagereq type="optional">m17n-db-khmer</packagereq>
     </packagelist>
   </group>
@@ -3243,10 +3269,10 @@
       <packagereq type="conditional" requires="moodle">moodle-ko</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ko_KR</packagereq>
       <packagereq type="default">baekmuk-bdf-fonts</packagereq>
-      <packagereq type="default">baekmuk-ttf-fonts-batang</packagereq>
-      <packagereq type="default">baekmuk-ttf-fonts-dotum</packagereq>
-      <packagereq type="default">baekmuk-ttf-fonts-gulim</packagereq>
-      <packagereq type="default">baekmuk-ttf-fonts-hline</packagereq>
+      <packagereq type="default">baekmuk-ttf-batang-fonts</packagereq>
+      <packagereq type="default">baekmuk-ttf-dotum-fonts</packagereq>
+      <packagereq type="default">baekmuk-ttf-gulim-fonts</packagereq>
+      <packagereq type="default">baekmuk-ttf-hline-fonts</packagereq>
       <packagereq type="default">un-core-fonts-batang</packagereq>
       <packagereq type="default">un-core-fonts-dinaru</packagereq>
       <packagereq type="default">un-core-fonts-graphic</packagereq>
@@ -3278,6 +3304,7 @@
     <langonly>ku</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-ku</packagereq>
+      <packagereq type="default">kurdit-unikurd-web-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3323,7 +3350,16 @@
       <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
       <packagereq type="optional">bitmap-fonts-cjk</packagereq>
-      <packagereq type="optional">culmus-fonts</packagereq>
+      <packagereq type="optional">culmus-aharoni-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-caladings-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-david-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-drugulin-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-ellinia-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-frank-ruehl-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-miriam-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-miriam-mono-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-nachlieli-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-yehuda-clm-fonts</packagereq>
       <packagereq type="optional">efont-unicode-bdf</packagereq>
       <packagereq type="optional">fonts-hebrew-fancy</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
@@ -3567,14 +3603,14 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ml_IN</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">lohit-fonts-malayalam</packagereq>
-      <packagereq type="default">samyak-fonts-malayalam</packagereq>
-      <packagereq type="default">smc-fonts-anjalioldlipi</packagereq>
-      <packagereq type="default">smc-fonts-dyuthi</packagereq>
-      <packagereq type="default">smc-fonts-kalyani</packagereq>
-      <packagereq type="default">smc-fonts-meera</packagereq>
-      <packagereq type="default">smc-fonts-rachana</packagereq>
-      <packagereq type="default">smc-fonts-raghumalayalam</packagereq>
-      <packagereq type="default">smc-fonts-suruma</packagereq>
+      <packagereq type="default">samyak-malayalam-fonts</packagereq>
+      <packagereq type="default">smc-anjalioldlipi-fonts</packagereq>
+      <packagereq type="default">smc-dyuthi-fonts</packagereq>
+      <packagereq type="default">smc-kalyani-fonts</packagereq>
+      <packagereq type="default">smc-meera-fonts</packagereq>
+      <packagereq type="default">smc-rachana-fonts</packagereq>
+      <packagereq type="default">smc-raghumalayalam-fonts</packagereq>
+      <packagereq type="default">smc-suruma-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3606,7 +3642,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mr_IN</packagereq>
       <packagereq type="default">iok</packagereq>
-      <packagereq type="default">samyak-fonts-devanagari</packagereq>
+      <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3880,7 +3916,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-or_IN</packagereq>
       <packagereq type="default">iok</packagereq>
-      <packagereq type="default">samyak-fonts-oriya</packagereq>
+      <packagereq type="default">samyak-oriya-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4678,7 +4714,7 @@
       <packagereq type="conditional" requires="moodle">moodle-ta_lk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ta_IN</packagereq>
       <packagereq type="default">iok</packagereq>
-      <packagereq type="default">samyak-fonts-tamil</packagereq>
+      <packagereq type="default">samyak-tamil-fonts</packagereq>
       <packagereq type="optional">serafettin-cartoon-fonts</packagereq>
     </packagelist>
   </group>
