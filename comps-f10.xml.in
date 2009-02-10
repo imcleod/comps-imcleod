@@ -4238,7 +4238,7 @@
   <group>
     <id>sugar-desktop</id>
     <_name>SUGAR Desktop Environment</_name>
-    <_description>SUGAR is the desktop environment developed for the OLPC XO.</_description>
+    <_description>A software playground for learning about learning.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -4260,6 +4260,7 @@
       <packagereq type="default">sugar-terminal</packagereq>
       <packagereq type="default">sugar-turtleart</packagereq>
       <packagereq type="default">sugar-write</packagereq>
+      <packagereq type="default">sugar-xoirc</packagereq>
     </packagelist>
   </group>
   <group>
