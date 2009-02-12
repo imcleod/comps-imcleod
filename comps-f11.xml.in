@@ -5211,7 +5211,6 @@
       <packagereq type="mandatory">xfconf</packagereq>
       <packagereq type="mandatory">xfdesktop</packagereq>
       <packagereq type="mandatory">xfwm4</packagereq>
-      <packagereq type="conditional" requires="imsettings">imsettings-xfce</packagereq>
       <packagereq type="default">gdm</packagereq>
       <packagereq type="default">mousepad</packagereq>
       <packagereq type="default">thunar-archive-plugin</packagereq>
