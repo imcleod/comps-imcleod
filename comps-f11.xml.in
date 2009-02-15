@@ -4792,6 +4792,11 @@
     <langonly>th</langonly>
     <packagelist>
       <packagereq type="mandatory">m17n-db-thai</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-th</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-Thai</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-th</packagereq>
+      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-th_TH</packagereq>
       <packagereq type="default">thai-scalable-garuda-fonts</packagereq>
       <packagereq type="default">thai-scalable-kinnari-fonts</packagereq>
       <packagereq type="default">thai-scalable-loma-fonts</packagereq>
@@ -4804,11 +4809,6 @@
       <packagereq type="default">thai-scalable-tlwgtypo-fonts</packagereq>
       <packagereq type="default">thai-scalable-umpush-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
-      <packagereq type="conditional" requires="hunspell">hunspell-th</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Thai</packagereq>
-      <packagereq type="conditional" requires="moodle">moodle-th</packagereq>
-      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-th_TH</packagereq>
       <packagereq type="optional">scim-tables-thai</packagereq>
     </packagelist>
   </group>
