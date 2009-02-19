@@ -1082,13 +1082,21 @@
       <packagereq type="default">eclipse-changelog</packagereq>
       <packagereq type="default">eclipse-jdt</packagereq>
       <packagereq type="default">eclipse-mylyn</packagereq>
-      <packagereq type="default">eclipse-mylyn-bugzilla</packagereq>
-      <packagereq type="default">eclipse-mylyn-ide</packagereq>
       <packagereq type="default">eclipse-mylyn-java</packagereq>
       <packagereq type="default">eclipse-pde</packagereq>
       <packagereq type="default">eclipse-pydev</packagereq>
       <packagereq type="default">eclipse-rpm-editor</packagereq>
       <packagereq type="default">eclipse-subclipse</packagereq>
+      <packagereq type="optional">eclipse-cmake</packagereq>
+      <packagereq type="optional">eclipse-egit</packagereq>
+      <packagereq type="optional">eclipse-epic</packagereq>
+      <packagereq type="optional">eclipse-moreunit</packagereq>
+      <packagereq type="optional">eclipse-photran</packagereq>
+      <packagereq type="optional">eclipse-phpeclipse</packagereq>
+      <packagereq type="optional">eclipse-quickrex</packagereq>
+      <packagereq type="optional">eclipse-rpmstubby</packagereq>
+      <packagereq type="optional">eclipse-shelled</packagereq>
+      <packagereq type="optional">eclipse-slide</packagereq>
       <packagereq type="optional">eclipse-mylyn-trac</packagereq>
     </packagelist>
   </group>
