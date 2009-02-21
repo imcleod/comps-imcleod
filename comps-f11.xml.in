@@ -1139,6 +1139,96 @@
     </packagelist>
   </group>
   <group>
+    <id>electronic-lab</id>
+    <_name>Electronic Lab</_name>
+    <_description>Design and Simulation tools for hardware engineers</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">alliance</packagereq>
+      <packagereq type="default">arm-gp2x-linux-SDL</packagereq>
+      <packagereq type="default">arm-gp2x-linux-binutils</packagereq>
+      <packagereq type="default">arm-gp2x-linux-gcc</packagereq>
+      <packagereq type="default">arm-gp2x-linux-gcc-c++</packagereq>
+      <packagereq type="default">arm-gp2x-linux-glibc</packagereq>
+      <packagereq type="default">arm-gp2x-linux-kernel-headers</packagereq>
+      <packagereq type="default">arm-gp2x-linux-zlib
+      <packagereq type="default">avarice</packagereq>
+      <packagereq type="default">avr-binutils</packagereq>
+      <packagereq type="default">avr-gcc</packagereq>
+      <packagereq type="default">avr-gcc-c++</packagereq>
+      <packagereq type="default">avr-gdb</packagereq>
+      <packagereq type="default">avrdude</packagereq>
+      <packagereq type="default">dfu-programmer</packagereq>
+      <packagereq type="default">electric</packagereq>
+      <packagereq type="default">gds2pov</packagereq>
+      <packagereq type="default">geda-docs</packagereq>
+      <packagereq type="default">geda-examples</packagereq>
+      <packagereq type="default">geda-gattrib</packagereq>
+      <packagereq type="default">geda-gnetlist</packagereq>
+      <packagereq type="default">geda-gschem</packagereq>
+      <packagereq type="default">geda-gsymcheck</packagereq>
+      <packagereq type="default">geda-symbols</packagereq>
+      <packagereq type="default">geda-utils</packagereq>
+      <packagereq type="default">gerbv</packagereq>
+      <packagereq type="default">ghdl</packagereq>
+      <packagereq type="default">gnucap</packagereq>
+      <packagereq type="default">gsim85</packagereq>
+      <packagereq type="default">gspiceui</packagereq>
+      <packagereq type="default">gtkterm</packagereq>
+      <packagereq type="default">gtkwave</packagereq>
+      <packagereq type="default">irsim</packagereq>
+      <packagereq type="default">iverilog</packagereq>
+      <packagereq type="default">ktechlab</packagereq>
+      <packagereq type="default">LabPlot</packagereq>
+      <packagereq type="default">linsmith</packagereq>
+      <packagereq type="default">magic</packagereq>
+      <packagereq type="default">netgen</packagereq>
+      <packagereq type="default">ngspice</packagereq>
+      <packagereq type="default">qtoctave</packagereq>
+      <packagereq type="default">qucs</packagereq>
+      <packagereq type="default">perl-Hardware-Verilog-Parser</packagereq>
+      <packagereq type="default">perl-Hardware-Vhdl-Lexer</packagereq>
+      <packagereq type="default">perl-Hardware-Vhdl-Parser</packagereq>
+      <packagereq type="default">perl-Hardware-Vhdl-Tidy</packagereq>
+      <packagereq type="default">perl-ModelSim-List</packagereq>
+      <packagereq type="default">perl-Perlilog</packagereq>
+      <packagereq type="default">perl-Verilog</packagereq>
+      <packagereq type="default">picocom</packagereq>
+      <packagereq type="default">pcb</packagereq>
+      <packagereq type="default">pikdev</packagereq>
+      <packagereq type="default">piklab</packagereq>
+      <packagereq type="default">pikloops</packagereq>
+      <packagereq type="default">sdcc</packagereq>
+      <packagereq type="default">sk2py</packagereq>
+      <packagereq type="default">tkcvs</packagereq>
+      <packagereq type="default">toped</packagereq>
+      <packagereq type="default">uisp</packagereq>
+      <packagereq type="default">vhd2vl</packagereq>
+      <packagereq type="default">vym</packagereq>
+      <packagereq type="default">xcircuit</packagereq>
+      <packagereq type="default">xorg-x11-fonts-100dpi</packagereq>
+      <packagereq type="default">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
+      <packagereq type="default">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
+      <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
+      <packagereq type="optional">drawtiming</packagereq>
+      <packagereq type="optional">freehdl</packagereq>
+      <packagereq type="optional">gresistor</packagereq>
+      <packagereq type="optional">gwave</packagereq>
+      <packagereq type="optional">kdesvn</packagereq>
+      <packagereq type="optional">kicad</packagereq>
+      <packagereq type="optional">minicom</packagereq>
+      <packagereq type="optional">octave-forge</packagereq>
+      <packagereq type="optional">qemu</packagereq>
+      <packagereq type="optional">planner</packagereq>
+      <packagereq type="optional">pharosc</packagereq>
+      <packagereq type="optional">pharosc-alliance</packagereq>
+      <packagereq type="optional">pharosc-magic</packagereq>
+      <packagereq type="optional">pharosc-synopsys</packagereq>
+      <packagereq type="optional">pharosc-xcircuit</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>education</id>
     <_name>Educational Software</_name>
     <_description>Educational software for learning</_description>
@@ -1178,7 +1268,6 @@
     <packagelist>
       <packagereq type="default">gnuplot</packagereq>
       <packagereq type="default">units</packagereq>
-      <packagereq type="optional">alliance</packagereq>
       <packagereq type="optional">asana-math-fonts</packagereq>
       <packagereq type="optional">atlas</packagereq>
       <packagereq type="optional">automaton</packagereq>
@@ -1188,7 +1277,6 @@
       <packagereq type="optional">cdo</packagereq>
       <packagereq type="optional">cernlib-utils</packagereq>
       <packagereq type="optional">chemtool</packagereq>
-      <packagereq type="optional">drawtiming</packagereq>
       <packagereq type="optional">dx</packagereq>
       <packagereq type="optional">dx-samples</packagereq>
       <packagereq type="optional">freefem++</packagereq>
@@ -1198,18 +1286,8 @@
       <packagereq type="optional">gchempaint</packagereq>
       <packagereq type="optional">gdl</packagereq>
       <packagereq type="optional">geant321</packagereq>
-      <packagereq type="optional">geda-docs</packagereq>
-      <packagereq type="optional">geda-examples</packagereq>
-      <packagereq type="optional">geda-gattrib</packagereq>
-      <packagereq type="optional">geda-gnetlist</packagereq>
-      <packagereq type="optional">geda-gschem</packagereq>
-      <packagereq type="optional">geda-gsymcheck</packagereq>
-      <packagereq type="optional">geda-symbols</packagereq>
-      <packagereq type="optional">geda-utils</packagereq>
       <packagereq type="optional">genius</packagereq>
       <packagereq type="optional">geomview</packagereq>
-      <packagereq type="optional">gerbv</packagereq>
-      <packagereq type="optional">ghdl</packagereq>
       <packagereq type="optional">ginac</packagereq>
       <packagereq type="optional">GMT</packagereq>
       <packagereq type="optional">GMT-coastlines-all</packagereq>
@@ -1217,27 +1295,20 @@
       <packagereq type="optional">GMT-coastlines-high</packagereq>
       <packagereq type="optional">GMT-doc</packagereq>
       <packagereq type="optional">gnome-chemistry-utils</packagereq>
-      <packagereq type="optional">gnucap</packagereq>
       <packagereq type="optional">gpredict</packagereq>
       <packagereq type="optional">grace</packagereq>
       <packagereq type="optional">grads</packagereq>
-      <packagereq type="optional">gresistor</packagereq>
       <packagereq type="optional">gridengine</packagereq>
       <packagereq type="optional">gromacs</packagereq>
       <packagereq type="optional">gromacs-mpi</packagereq>
-      <packagereq type="optional">gtkwave</packagereq>
       <packagereq type="optional">gts</packagereq>
       <packagereq type="optional">harminv</packagereq>
       <packagereq type="optional">hdf</packagereq>
       <packagereq type="optional">hdf5</packagereq>
       <packagereq type="optional">hmmer</packagereq>
-      <packagereq type="optional">irsim</packagereq>
       <packagereq type="optional">jmol</packagereq>
-      <packagereq type="optional">kicad</packagereq>
       <packagereq type="optional">kpolynome</packagereq>
       <packagereq type="optional">kst</packagereq>
-      <packagereq type="optional">ktechlab</packagereq>
-      <packagereq type="optional">LabPlot</packagereq>
       <packagereq type="optional">lagan</packagereq>
       <packagereq type="optional">lam</packagereq>
       <packagereq type="optional">lapack</packagereq>
@@ -1245,7 +1316,6 @@
       <packagereq type="optional">libmatheval</packagereq>
       <packagereq type="optional">libtcd</packagereq>
       <packagereq type="optional">Macaulay2</packagereq>
-      <packagereq type="optional">magic</packagereq>
       <packagereq type="optional">malaga</packagereq>
       <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">maxima</packagereq>
@@ -1258,8 +1328,6 @@
       <packagereq type="optional">nco</packagereq>
       <packagereq type="optional">ncview</packagereq>
       <packagereq type="optional">netcdf</packagereq>
-      <packagereq type="optional">netgen</packagereq>
-      <packagereq type="optional">ngspice</packagereq>
       <packagereq type="optional">numpy</packagereq>
       <packagereq type="optional">octave</packagereq>
       <packagereq type="optional">octave-forge</packagereq>
@@ -1269,16 +1337,7 @@
       <packagereq type="optional">osiv</packagereq>
       <packagereq type="optional">paraview</packagereq>
       <packagereq type="optional">paw</packagereq>
-      <packagereq type="optional">pcb</packagereq>
       <packagereq type="optional">perl-bioperl</packagereq>
-      <packagereq type="optional">pharosc</packagereq>
-      <packagereq type="optional">pharosc-alliance</packagereq>
-      <packagereq type="optional">pharosc-magic</packagereq>
-      <packagereq type="optional">pharosc-synopsys</packagereq>
-      <packagereq type="optional">pharosc-xcircuit</packagereq>
-      <packagereq type="optional">pikdev</packagereq>
-      <packagereq type="optional">piklab</packagereq>
-      <packagereq type="optional">pikloops</packagereq>
       <packagereq type="optional">plotutils</packagereq>
       <packagereq type="optional">pvm</packagereq>
       <packagereq type="optional">pypop</packagereq>
@@ -1287,7 +1346,6 @@
       <packagereq type="optional">qalculate-kde</packagereq>
       <packagereq type="optional">qcad</packagereq>
       <packagereq type="optional">qtiplot</packagereq>
-      <packagereq type="optional">qucs</packagereq>
       <packagereq type="optional">R</packagereq>
       <packagereq type="optional">rrdtool</packagereq>
       <packagereq type="optional">scalapack</packagereq>
@@ -1305,7 +1363,6 @@
       <packagereq type="optional">TeXmacs</packagereq>
       <packagereq type="optional">tgif</packagereq>
       <packagereq type="optional">tideEditor</packagereq>
-      <packagereq type="optional">toped</packagereq>
       <packagereq type="optional">vaspview</packagereq>
       <packagereq type="optional">veusz</packagereq>
       <packagereq type="optional">wcstools</packagereq>
@@ -1314,7 +1371,6 @@
       <packagereq type="optional">wise2</packagereq>
       <packagereq type="optional">wvs-data</packagereq>
       <packagereq type="optional">wxMaxima</packagereq>
-      <packagereq type="optional">xcircuit</packagereq>
       <packagereq type="optional">xdrawchem</packagereq>
       <packagereq type="optional">xtide</packagereq>
     </packagelist>
