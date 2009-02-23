@@ -3962,6 +3962,20 @@
     </packagelist>
   </group>
   <group>
+    <id>online-docs</id>
+    <_name>Online Help and Documentation</_name>
+    <_description/>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="conditional" requires="system-config-date">system-config-date-docs</packagereq>
+      <packagereq type="conditional" requires="system-config-nfs">system-config-nfs-docs</packagereq>
+      <packagereq type="conditional" requires="system-config-samba">system-config-samba-docs</packagereq>
+      <packagereq type="conditional" requires="system-config-services">system-config-services-docs</packagereq>
+      <packagereq type="conditional" requires="system-config-users">system-config-users-docs</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>oriya-support</id>
     <_name>Oriya Support</_name>
     <_description/>
