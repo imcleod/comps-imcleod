@@ -2149,7 +2149,6 @@
       <packagereq type="default">gdm</packagereq>
       <packagereq type="default">gdm-user-switch-applet</packagereq>
       <packagereq type="default">gedit</packagereq>
-      <packagereq type="default">gnome-audio</packagereq>
       <packagereq type="default">gnome-backgrounds</packagereq>
       <packagereq type="default">gnome-bluetooth</packagereq>
       <packagereq type="default">gnome-media</packagereq>
@@ -2176,7 +2175,6 @@
       <packagereq type="default">notification-daemon</packagereq>
       <packagereq type="default">orca</packagereq>
       <packagereq type="default">PolicyKit-gnome</packagereq>
-      <packagereq type="default">pulseaudio-esound-compat</packagereq>
       <packagereq type="default">pulseaudio-module-gconf</packagereq>
       <packagereq type="default">pulseaudio-module-x11</packagereq>
       <packagereq type="default">tomboy</packagereq>
@@ -2226,6 +2224,7 @@
       <packagereq type="optional">nautilus-sound-converter</packagereq>
       <packagereq type="optional">panelfm</packagereq>
       <packagereq type="optional">pcmanfm</packagereq>
+      <packagereq type="optional">pulseaudio-esound-compat</packagereq>
       <packagereq type="optional">preferences-menus</packagereq>
       <packagereq type="optional">rss-glx-gnome-screensaver</packagereq>
       <packagereq type="optional">sabayon</packagereq>
@@ -2275,7 +2274,6 @@
       <packagereq type="default">gnome-devel-docs</packagereq>
       <packagereq type="default">gnome-panel-devel</packagereq>
       <packagereq type="default">gnome-pilot-devel</packagereq>
-      <packagereq type="default">gnome-vfs2-devel</packagereq>
       <packagereq type="default">gtk-doc</packagereq>
       <packagereq type="default">hal-devel</packagereq>
       <packagereq type="default">libart_lgpl-devel</packagereq>
@@ -2304,6 +2302,7 @@
       <packagereq type="optional">gnome-common</packagereq>
       <packagereq type="optional">gnome-python2-gda-devel</packagereq>
       <packagereq type="optional">gnome-valgrind-session</packagereq>
+      <packagereq type="optional">gnome-vfs2-devel</packagereq>
       <packagereq type="optional">gnome-vfsmm26-devel</packagereq>
       <packagereq type="optional">gob2</packagereq>
       <packagereq type="optional">gquilt</packagereq>
