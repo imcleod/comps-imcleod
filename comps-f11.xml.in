@@ -3930,6 +3930,43 @@
     </packagelist>
   </group>
   <group>
+    <id>ocaml</id>
+    <_name>OCaml</_name>
+    <_description>
+      Support for developing software using the
+      Objective CAML programming language and libraries.
+    </_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">ocaml</packagereq>
+      <packagereq type="mandatory">ocaml-runtime</packagereq>
+      <packagereq type="mandatory">ocaml-x11</packagereq>
+      <packagereq type="mandatory">ocaml-ocamldoc</packagereq>
+      <packagereq type="mandatory">ocaml-findlib-devel</packagereq>
+      <packagereq type="default">ocaml-camlp4-devel</packagereq>
+      <packagereq type="default">emacs-tuareg</packagereq>
+      <packagereq type="optional">ocaml-bitstring-devel</packagereq>
+      <packagereq type="optional">ocaml-calendar-devel</packagereq>
+      <packagereq type="optional">ocaml-camomile-devel</packagereq>
+      <packagereq type="optional">ocaml-csv-devel</packagereq>
+      <packagereq type="optional">ocaml-curl-devel</packagereq>
+      <packagereq type="optional">ocaml-curses-devel</packagereq>
+      <packagereq type="optional">ocaml-expat-devel</packagereq>
+      <packagereq type="optional">ocaml-extlib-devel</packagereq>
+      <packagereq type="optional">ocaml-lablgl-devel</packagereq>
+      <packagereq type="optional">ocaml-labltk-devel</packagereq>
+      <packagereq type="optional">ocaml-lablgtk-devel</packagereq>
+      <packagereq type="optional">ocaml-ocamlnet-devel</packagereq>
+      <packagereq type="optional">ocaml-pcre-devel</packagereq>
+      <packagereq type="optional">ocaml-pxp-devel</packagereq>
+      <packagereq type="optional">ocaml-ssl-devel</packagereq>
+      <packagereq type="optional">ocaml-xml-light-devel</packagereq>
+      <packagereq type="optional">ocaml-xmlrpc-light-devel</packagereq>
+      <packagereq type="optional">xemacs-tuareg</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>occitan-support</id>
     <_name>Occitan Support</_name>
     <_description/>
@@ -5613,6 +5650,7 @@
       <groupid>kde-software-development</groupid>
       <groupid>legacy-software-development</groupid>
       <groupid>mingw32</groupid>
+      <groupid>ocaml</groupid>
       <groupid>ruby</groupid>
       <groupid>web-development</groupid>
       <groupid>x-software-development</groupid>
