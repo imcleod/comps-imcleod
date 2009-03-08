@@ -1241,6 +1241,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-en</packagereq>
+      <packagereq type="optional">anki</packagereq>
       <packagereq type="optional">childsplay</packagereq>
       <packagereq type="optional">corrida</packagereq>
       <packagereq type="optional">drgeo</packagereq>
