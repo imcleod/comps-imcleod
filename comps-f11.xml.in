@@ -2172,7 +2172,6 @@
       <packagereq type="default">gvfs-smb</packagereq>
       <packagereq type="default">libcanberra-gtk2</packagereq>
       <packagereq type="default">mousetweaks</packagereq>
-      <packagereq type="default">nautilus-cd-burner</packagereq>
       <packagereq type="default">nautilus-sendto</packagereq>
       <packagereq type="default">NetworkManager-gnome</packagereq>
       <packagereq type="default">notification-daemon</packagereq>
@@ -2221,6 +2220,7 @@
       <packagereq type="optional">istanbul</packagereq>
       <packagereq type="optional">lock-keys-applet</packagereq>
       <packagereq type="optional">nautilus-actions</packagereq>
+      <packagereq type="optional">nautilus-cd-burner</packagereq>
       <packagereq type="optional">nautilus-image-converter</packagereq>
       <packagereq type="optional">nautilus-open-terminal</packagereq>
       <packagereq type="optional">nautilus-search-tool</packagereq>
@@ -4407,6 +4407,7 @@
       <packagereq type="mandatory">vorbis-tools</packagereq>
       <packagereq type="conditional" requires="xine-lib">xine-lib-pulseaudio</packagereq>
       <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
+      <packagereq type="default">brasero</packagereq>
       <packagereq type="default">cdparanoia</packagereq>
       <packagereq type="default">genisoimage</packagereq>
       <packagereq type="default">gstreamer-plugins-good</packagereq>
