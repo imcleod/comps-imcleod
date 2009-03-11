@@ -1095,6 +1095,7 @@
       <packagereq type="optional">eclipse-cmake</packagereq>
       <packagereq type="optional">eclipse-egit</packagereq>
       <packagereq type="optional">eclipse-epic</packagereq>
+      <packagereq type="optional">eclipse-findbugs</packagereq>
       <packagereq type="optional">eclipse-moreunit</packagereq>
       <packagereq type="optional">eclipse-photran</packagereq>
       <packagereq type="optional">eclipse-phpeclipse</packagereq>
@@ -3099,6 +3100,10 @@
       <packagereq type="default">xml-commons-resolver-javadoc</packagereq>
       <packagereq type="default">xml-commons-which</packagereq>
       <packagereq type="default">xml-commons-which-javadoc</packagereq>
+      <packagereq type="optional">ant-findbugs</packagereq>
+      <packagereq type="optional">findbugs</packagereq>
+      <packagereq type="optional">findbugs-javadoc</packagereq>
+      <packagereq type="optional">findbugs-tools</packagereq>
       <packagereq type="optional">idw-gpl</packagereq>
       <packagereq type="optional">idw-gpl-javadoc</packagereq>
       <packagereq type="optional">java-1.5.0-gcj-javadoc</packagereq>
