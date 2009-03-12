@@ -2276,6 +2276,7 @@
       <packagereq type="conditional" requires="aspell">aspell-he</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-he</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Hebrew</packagereq>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-Hebrew</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-he</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-he_IL</packagereq>
       <packagereq type="conditional" requires="texlive">tetex-fonts-hebrew</packagereq>
