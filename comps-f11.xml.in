@@ -359,8 +359,8 @@
       <packagereq type="optional">switchdesk</packagereq>
       <packagereq type="optional">system-config-display</packagereq>
       <packagereq type="optional">system-switch-displaymanager</packagereq>
+      <packagereq type="optional">tigervnc-server</packagereq>
       <packagereq type="optional">uim-gtk2</packagereq>
-      <packagereq type="optional">vnc-server</packagereq>
       <packagereq type="optional">workrave</packagereq>
       <packagereq type="optional">xdaliclock</packagereq>
       <packagereq type="optional">xguest</packagereq>
@@ -3870,11 +3870,11 @@
       <packagereq type="optional">rbldnsd</packagereq>
       <packagereq type="optional">rinetd</packagereq>
       <packagereq type="optional">sobby</packagereq>
+      <packagereq type="optional">tigervnc-server</packagereq>
       <packagereq type="optional">torque-server</packagereq>
       <packagereq type="optional">ucarp</packagereq>
       <packagereq type="optional">ushare</packagereq>
       <packagereq type="optional">vnc-reflector</packagereq>
-      <packagereq type="optional">vnc-server</packagereq>
       <packagereq type="optional">vtun</packagereq>
       <packagereq type="optional">xl2tpd</packagereq>
       <packagereq type="optional">ypserv</packagereq>
@@ -4687,7 +4687,7 @@
       <packagereq type="default">openvpn</packagereq>
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">screen</packagereq>
-      <packagereq type="default">vnc</packagereq>
+      <packagereq type="default">tigervnc</packagereq>
       <packagereq type="default">vpnc</packagereq>
       <packagereq type="default">xdelta</packagereq>
       <packagereq type="default">yum-utils</packagereq>
