@@ -2,339 +2,218 @@
 # Copyright (C) 2003, 2004 Marcel Telka
 # This file is distributed under the same license as the comp-po package.
 #
-# $Id: sk.po,v 1.19 2009/01/09 11:52:42 lkundrak Exp $
+# $Id: sk.po,v 1.20 2009/04/02 13:06:27 transif Exp $
 #
 # Marcel Telka <marcel@telka.sk>, 2003, 2004.
 # Pavol Šimo <palo.simo@gmail.com>, 2007.
-# Ondrej Šulek <feonsu@gmail.com>, 2008.
+# Ondrej Šulek <feonsu@gmail.com>, 2008, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: comp-po\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-22 15:50-0500\n"
-"PO-Revision-Date: 2009-01-09 13:44+0100\n"
-"Last-Translator: Lubomir Rintel <lkundrak@v3.sk>\n"
-"Language-Team: Slovak <fedora-trans-sk@redhat.com>\n"
+"POT-Creation-Date: 2009-04-02 07:57+0000\n"
+"PO-Revision-Date: 2009-04-02 15:00+0200\n"
+"Last-Translator: Ondrej Šulek <feonsu@gmail.com>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 0.2\n"
+"X-Generator: Lokalize 0.3\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
-#: ../comps-f7.xml.in.h:1
-#: ../comps-f8.xml.in.h:1
-#: ../comps-f9.xml.in.h:1
-#: ../comps-f10.xml.in.h:1
-#: ../comps-f11.xml.in.h:1
+#: ../comps-f7.xml.in.h:1 ../comps-f8.xml.in.h:1 ../comps-f9.xml.in.h:1
+#: ../comps-f10.xml.in.h:1 ../comps-f11.xml.in.h:1
 msgid "A lightweight desktop environment that works well on low end machines."
-msgstr "Jednoduché pracovné prostredie, ktoré dobre pracuje na pomalších počítačoch."
+msgstr ""
+"Jednoduché pracovné prostredie, ktoré dobre pracuje na pomalších počítačoch."
 
-#: ../comps-f7.xml.in.h:2
-#: ../comps-f8.xml.in.h:2
-#: ../comps-f9.xml.in.h:2
-#: ../comps-f10.xml.in.h:2
-#: ../comps-f11.xml.in.h:2
-#: ../comps-el4.xml.in.h:1
+#: ../comps-f7.xml.in.h:2 ../comps-f8.xml.in.h:2 ../comps-f9.xml.in.h:2
+#: ../comps-f10.xml.in.h:3 ../comps-f11.xml.in.h:3 ../comps-el4.xml.in.h:1
 #: ../comps-el5.xml.in.h:1
 msgid "Administration Tools"
 msgstr "Administrátorské nástroje"
 
-#: ../comps-f7.xml.in.h:3
-#: ../comps-f8.xml.in.h:3
-#: ../comps-f9.xml.in.h:3
-#: ../comps-f10.xml.in.h:3
-#: ../comps-f11.xml.in.h:3
+#: ../comps-f7.xml.in.h:3 ../comps-f8.xml.in.h:3 ../comps-f9.xml.in.h:3
+#: ../comps-f10.xml.in.h:4 ../comps-f11.xml.in.h:4
 msgid "Afrikaans Support"
 msgstr "Juhoafrická podpora"
 
-#: ../comps-f7.xml.in.h:4
-#: ../comps-f8.xml.in.h:4
-#: ../comps-f9.xml.in.h:4
-#: ../comps-f10.xml.in.h:4
-#: ../comps-f11.xml.in.h:4
+#: ../comps-f7.xml.in.h:4 ../comps-f8.xml.in.h:4 ../comps-f9.xml.in.h:4
+#: ../comps-f10.xml.in.h:5 ../comps-f11.xml.in.h:5
 msgid "Albanian Support"
 msgstr "Albánska podpora"
 
-#: ../comps-f7.xml.in.h:5
-#: ../comps-f8.xml.in.h:5
-#: ../comps-f9.xml.in.h:5
-#: ../comps-f10.xml.in.h:5
-#: ../comps-f11.xml.in.h:6
-#: ../comps-el4.xml.in.h:2
+#: ../comps-f7.xml.in.h:5 ../comps-f8.xml.in.h:5 ../comps-f9.xml.in.h:5
+#: ../comps-f10.xml.in.h:6 ../comps-f11.xml.in.h:7 ../comps-el4.xml.in.h:2
 #: ../comps-el5.xml.in.h:2
 msgid "Applications"
 msgstr "Aplikácie"
 
-#: ../comps-f7.xml.in.h:6
-#: ../comps-f8.xml.in.h:6
-#: ../comps-f9.xml.in.h:6
-#: ../comps-f10.xml.in.h:6
-#: ../comps-f11.xml.in.h:7
+#: ../comps-f7.xml.in.h:6 ../comps-f8.xml.in.h:6 ../comps-f9.xml.in.h:6
+#: ../comps-f10.xml.in.h:7 ../comps-f11.xml.in.h:8
 msgid "Applications to perform a variety of tasks"
 msgstr "Aplikácie na vykonávanie rôznych úloh"
 
-#: ../comps-f7.xml.in.h:7
-#: ../comps-f8.xml.in.h:7
-#: ../comps-f9.xml.in.h:7
-#: ../comps-f10.xml.in.h:7
-#: ../comps-f11.xml.in.h:8
-#: ../comps-el4.xml.in.h:4
+#: ../comps-f7.xml.in.h:7 ../comps-f8.xml.in.h:7 ../comps-f9.xml.in.h:7
+#: ../comps-f10.xml.in.h:8 ../comps-f11.xml.in.h:9 ../comps-el4.xml.in.h:4
 #: ../comps-el5.xml.in.h:4
 msgid "Arabic Support"
 msgstr "Arabská podpora"
 
-#: ../comps-f7.xml.in.h:8
-#: ../comps-f8.xml.in.h:8
-#: ../comps-f9.xml.in.h:8
-#: ../comps-f10.xml.in.h:8
-#: ../comps-f11.xml.in.h:9
-#: ../comps-el4.xml.in.h:5
+#: ../comps-f7.xml.in.h:8 ../comps-f8.xml.in.h:8 ../comps-f9.xml.in.h:8
+#: ../comps-f10.xml.in.h:9 ../comps-f11.xml.in.h:10 ../comps-el4.xml.in.h:5
 #: ../comps-el5.xml.in.h:5
 msgid "Armenian Support"
 msgstr "Arménska podpora"
 
-#: ../comps-f7.xml.in.h:9
-#: ../comps-f8.xml.in.h:9
-#: ../comps-f9.xml.in.h:9
-#: ../comps-f10.xml.in.h:9
-#: ../comps-f11.xml.in.h:10
+#: ../comps-f7.xml.in.h:9 ../comps-f8.xml.in.h:9 ../comps-f9.xml.in.h:9
+#: ../comps-f10.xml.in.h:10 ../comps-f11.xml.in.h:11
 msgid "Assamese Support"
 msgstr "Assamská podpora"
 
-#: ../comps-f7.xml.in.h:10
-#: ../comps-f8.xml.in.h:10
-#: ../comps-f9.xml.in.h:10
-#: ../comps-f10.xml.in.h:10
-#: ../comps-f11.xml.in.h:11
-#: ../comps-el4.xml.in.h:6
+#: ../comps-f7.xml.in.h:10 ../comps-f8.xml.in.h:10 ../comps-f9.xml.in.h:10
+#: ../comps-f10.xml.in.h:11 ../comps-f11.xml.in.h:12 ../comps-el4.xml.in.h:6
 #: ../comps-el5.xml.in.h:6
 msgid "Authoring and Publishing"
 msgstr "Písanie a publikovanie"
 
-#: ../comps-f7.xml.in.h:11
-#: ../comps-f8.xml.in.h:11
-#: ../comps-f9.xml.in.h:11
-#: ../comps-f10.xml.in.h:11
-#: ../comps-f11.xml.in.h:12
+#: ../comps-f7.xml.in.h:11 ../comps-f8.xml.in.h:11 ../comps-f9.xml.in.h:11
+#: ../comps-f10.xml.in.h:12 ../comps-f11.xml.in.h:13
 msgid "Base"
 msgstr "Základ"
 
-#: ../comps-f7.xml.in.h:12
-#: ../comps-f8.xml.in.h:12
-#: ../comps-f9.xml.in.h:12
-#: ../comps-f10.xml.in.h:12
-#: ../comps-f11.xml.in.h:13
-#: ../comps-el4.xml.in.h:7
+#: ../comps-f7.xml.in.h:12 ../comps-f8.xml.in.h:12 ../comps-f9.xml.in.h:12
+#: ../comps-f10.xml.in.h:13 ../comps-f11.xml.in.h:14 ../comps-el4.xml.in.h:7
 #: ../comps-el5.xml.in.h:7
 msgid "Base System"
 msgstr "Základ systému"
 
-#: ../comps-f7.xml.in.h:13
-#: ../comps-f8.xml.in.h:13
-#: ../comps-f9.xml.in.h:13
-#: ../comps-f10.xml.in.h:13
-#: ../comps-f11.xml.in.h:14
+#: ../comps-f7.xml.in.h:13 ../comps-f8.xml.in.h:13 ../comps-f9.xml.in.h:13
+#: ../comps-f10.xml.in.h:14 ../comps-f11.xml.in.h:15
 msgid "Basic support for the Ruby programming language."
 msgstr "Základná podpora pre programovací jazyk Ruby."
 
-#: ../comps-f7.xml.in.h:14
-#: ../comps-f8.xml.in.h:14
-#: ../comps-f9.xml.in.h:14
-#: ../comps-f10.xml.in.h:14
-#: ../comps-f11.xml.in.h:15
+#: ../comps-f7.xml.in.h:14 ../comps-f8.xml.in.h:14 ../comps-f9.xml.in.h:14
+#: ../comps-f10.xml.in.h:15 ../comps-f11.xml.in.h:16
 msgid "Basque Support"
 msgstr "Baskická podpora"
 
-#: ../comps-f7.xml.in.h:15
-#: ../comps-f8.xml.in.h:15
-#: ../comps-f9.xml.in.h:15
-#: ../comps-f10.xml.in.h:15
-#: ../comps-f11.xml.in.h:16
+#: ../comps-f7.xml.in.h:15 ../comps-f8.xml.in.h:15 ../comps-f9.xml.in.h:15
+#: ../comps-f10.xml.in.h:16 ../comps-f11.xml.in.h:17
 msgid "Belarusian Support"
 msgstr "Bieloruská podpora"
 
-#: ../comps-f7.xml.in.h:16
-#: ../comps-f8.xml.in.h:16
-#: ../comps-f9.xml.in.h:16
-#: ../comps-f10.xml.in.h:16
-#: ../comps-f11.xml.in.h:17
+#: ../comps-f7.xml.in.h:16 ../comps-f8.xml.in.h:16 ../comps-f9.xml.in.h:16
+#: ../comps-f10.xml.in.h:17 ../comps-f11.xml.in.h:18
 msgid "Bengali Support"
 msgstr "Bengálska podpora"
 
-#: ../comps-f7.xml.in.h:17
-#: ../comps-f8.xml.in.h:17
-#: ../comps-f9.xml.in.h:17
-#: ../comps-f10.xml.in.h:17
-#: ../comps-f11.xml.in.h:18
+#: ../comps-f7.xml.in.h:17 ../comps-f8.xml.in.h:17 ../comps-f9.xml.in.h:17
+#: ../comps-f10.xml.in.h:18 ../comps-f11.xml.in.h:19
 msgid "Bhutanese Support"
 msgstr "Butánska podpora"
 
-#: ../comps-f7.xml.in.h:18
-#: ../comps-f8.xml.in.h:18
-#: ../comps-f9.xml.in.h:18
-#: ../comps-f10.xml.in.h:18
-#: ../comps-f11.xml.in.h:19
+#: ../comps-f7.xml.in.h:18 ../comps-f8.xml.in.h:18 ../comps-f9.xml.in.h:18
+#: ../comps-f10.xml.in.h:19 ../comps-f11.xml.in.h:20
 msgid "Bosnian Support"
 msgstr "Bosnianska podpora"
 
-#: ../comps-f7.xml.in.h:19
-#: ../comps-f8.xml.in.h:19
-#: ../comps-f9.xml.in.h:19
-#: ../comps-f10.xml.in.h:19
-#: ../comps-f11.xml.in.h:20
+#: ../comps-f7.xml.in.h:19 ../comps-f8.xml.in.h:19 ../comps-f9.xml.in.h:19
+#: ../comps-f10.xml.in.h:20 ../comps-f11.xml.in.h:21
 msgid "Brazilian Portuguese Support"
 msgstr "Brazílska podpora (portugalčina)"
 
-#: ../comps-f7.xml.in.h:20
-#: ../comps-f8.xml.in.h:20
-#: ../comps-f9.xml.in.h:20
-#: ../comps-f10.xml.in.h:20
-#: ../comps-f11.xml.in.h:21
+#: ../comps-f7.xml.in.h:20 ../comps-f8.xml.in.h:20 ../comps-f9.xml.in.h:20
+#: ../comps-f10.xml.in.h:21 ../comps-f11.xml.in.h:22
 msgid "Breton Support"
 msgstr "Bretónska podpora"
 
-#: ../comps-f7.xml.in.h:21
-#: ../comps-f8.xml.in.h:22
-#: ../comps-f9.xml.in.h:22
-#: ../comps-f10.xml.in.h:22
-#: ../comps-f11.xml.in.h:23
+#: ../comps-f7.xml.in.h:21 ../comps-f8.xml.in.h:22 ../comps-f9.xml.in.h:22
+#: ../comps-f10.xml.in.h:23 ../comps-f11.xml.in.h:24
 msgid "Bulgarian Support"
 msgstr "Bulharská podpora"
 
-#: ../comps-f7.xml.in.h:22
-#: ../comps-f8.xml.in.h:23
-#: ../comps-f9.xml.in.h:23
-#: ../comps-f10.xml.in.h:23
-#: ../comps-f11.xml.in.h:24
+#: ../comps-f7.xml.in.h:22 ../comps-f8.xml.in.h:23 ../comps-f9.xml.in.h:23
+#: ../comps-f10.xml.in.h:24 ../comps-f11.xml.in.h:25
 msgid "Catalan Support"
 msgstr "Katalánska podpora"
 
-#: ../comps-f7.xml.in.h:23
-#: ../comps-f8.xml.in.h:24
-#: ../comps-f9.xml.in.h:24
-#: ../comps-f10.xml.in.h:24
-#: ../comps-f11.xml.in.h:25
+#: ../comps-f7.xml.in.h:23 ../comps-f8.xml.in.h:24 ../comps-f9.xml.in.h:24
+#: ../comps-f10.xml.in.h:25 ../comps-f11.xml.in.h:26
 msgid "Chinese Support"
 msgstr "Čínska podpora"
 
-#: ../comps-f7.xml.in.h:24
-#: ../comps-f8.xml.in.h:25
-#: ../comps-f9.xml.in.h:25
-#: ../comps-f10.xml.in.h:25
-#: ../comps-f11.xml.in.h:26
+#: ../comps-f7.xml.in.h:24 ../comps-f8.xml.in.h:25 ../comps-f9.xml.in.h:25
+#: ../comps-f10.xml.in.h:26 ../comps-f11.xml.in.h:27
 msgid "Clustering"
 msgstr "Klastrovanie"
 
-#: ../comps-f7.xml.in.h:25
-#: ../comps-f8.xml.in.h:26
-#: ../comps-f9.xml.in.h:26
-#: ../comps-f10.xml.in.h:26
-#: ../comps-f11.xml.in.h:27
+#: ../comps-f7.xml.in.h:25 ../comps-f8.xml.in.h:26 ../comps-f9.xml.in.h:26
+#: ../comps-f10.xml.in.h:27 ../comps-f11.xml.in.h:28
 msgid "Clustering Support"
 msgstr "Podpora klastrov"
 
-#: ../comps-f7.xml.in.h:26
-#: ../comps-f8.xml.in.h:27
-#: ../comps-f9.xml.in.h:27
-#: ../comps-f10.xml.in.h:27
-#: ../comps-f11.xml.in.h:28
+#: ../comps-f7.xml.in.h:26 ../comps-f8.xml.in.h:27 ../comps-f9.xml.in.h:27
+#: ../comps-f10.xml.in.h:28 ../comps-f11.xml.in.h:29
 msgid "Core"
 msgstr "Jadro"
 
-#: ../comps-f7.xml.in.h:27
-#: ../comps-f8.xml.in.h:28
-#: ../comps-f9.xml.in.h:28
-#: ../comps-f10.xml.in.h:28
-#: ../comps-f11.xml.in.h:29
+#: ../comps-f7.xml.in.h:27 ../comps-f8.xml.in.h:28 ../comps-f9.xml.in.h:28
+#: ../comps-f10.xml.in.h:29 ../comps-f11.xml.in.h:30
 msgid "Croatian Support"
 msgstr "Chorvátska podpora"
 
-#: ../comps-f7.xml.in.h:28
-#: ../comps-f8.xml.in.h:29
-#: ../comps-f9.xml.in.h:29
-#: ../comps-f10.xml.in.h:29
-#: ../comps-f11.xml.in.h:30
-#: ../comps-el5.xml.in.h:8
+#: ../comps-f7.xml.in.h:28 ../comps-f8.xml.in.h:29 ../comps-f9.xml.in.h:29
+#: ../comps-f10.xml.in.h:30 ../comps-f11.xml.in.h:31 ../comps-el5.xml.in.h:8
 msgid "Czech Support"
 msgstr "Česká podpora"
 
-#: ../comps-f7.xml.in.h:29
-#: ../comps-f8.xml.in.h:30
-#: ../comps-f9.xml.in.h:30
-#: ../comps-f10.xml.in.h:30
-#: ../comps-f11.xml.in.h:31
+#: ../comps-f7.xml.in.h:29 ../comps-f8.xml.in.h:30 ../comps-f9.xml.in.h:30
+#: ../comps-f10.xml.in.h:31 ../comps-f11.xml.in.h:32
 msgid "DNS Name Server"
 msgstr "DNS menný server"
 
-#: ../comps-f7.xml.in.h:30
-#: ../comps-f8.xml.in.h:31
-#: ../comps-f9.xml.in.h:31
-#: ../comps-f10.xml.in.h:31
-#: ../comps-f11.xml.in.h:32
+#: ../comps-f7.xml.in.h:30 ../comps-f8.xml.in.h:31 ../comps-f9.xml.in.h:31
+#: ../comps-f10.xml.in.h:32 ../comps-f11.xml.in.h:33
 msgid "Danish Support"
 msgstr "Dánska podpora"
 
-#: ../comps-f7.xml.in.h:31
-#: ../comps-f8.xml.in.h:32
-#: ../comps-f9.xml.in.h:32
-#: ../comps-f10.xml.in.h:32
-#: ../comps-f11.xml.in.h:33
-#: ../comps-el4.xml.in.h:8
+#: ../comps-f7.xml.in.h:31 ../comps-f8.xml.in.h:32 ../comps-f9.xml.in.h:32
+#: ../comps-f10.xml.in.h:33 ../comps-f11.xml.in.h:35 ../comps-el4.xml.in.h:8
 #: ../comps-el5.xml.in.h:9
 msgid "Desktop Environments"
 msgstr "Pracovné prostredia"
 
-#: ../comps-f7.xml.in.h:32
-#: ../comps-f8.xml.in.h:33
-#: ../comps-f9.xml.in.h:33
-#: ../comps-f10.xml.in.h:33
-#: ../comps-f11.xml.in.h:34
-#: ../comps-el4.xml.in.h:9
+#: ../comps-f7.xml.in.h:32 ../comps-f8.xml.in.h:33 ../comps-f9.xml.in.h:33
+#: ../comps-f10.xml.in.h:34 ../comps-f11.xml.in.h:36 ../comps-el4.xml.in.h:9
 #: ../comps-el5.xml.in.h:10
 msgid "Desktop environments"
 msgstr "Pracovné prostredia"
 
-#: ../comps-f7.xml.in.h:33
-#: ../comps-f8.xml.in.h:34
-#: ../comps-f9.xml.in.h:34
-#: ../comps-f10.xml.in.h:34
-#: ../comps-f11.xml.in.h:35
-#: ../comps-el4.xml.in.h:10
+#: ../comps-f7.xml.in.h:33 ../comps-f8.xml.in.h:34 ../comps-f9.xml.in.h:34
+#: ../comps-f10.xml.in.h:35 ../comps-f11.xml.in.h:37 ../comps-el4.xml.in.h:10
 #: ../comps-el5.xml.in.h:11
 msgid "Development"
 msgstr "Vývoj"
 
-#: ../comps-f7.xml.in.h:34
-#: ../comps-f8.xml.in.h:35
-#: ../comps-f9.xml.in.h:35
-#: ../comps-f10.xml.in.h:35
-#: ../comps-f11.xml.in.h:36
+#: ../comps-f7.xml.in.h:34 ../comps-f8.xml.in.h:35 ../comps-f9.xml.in.h:35
+#: ../comps-f10.xml.in.h:36 ../comps-f11.xml.in.h:38
 msgid "Development Libraries"
 msgstr "Vývojárske knižnice"
 
-#: ../comps-f7.xml.in.h:35
-#: ../comps-f8.xml.in.h:36
-#: ../comps-f9.xml.in.h:36
-#: ../comps-f10.xml.in.h:36
-#: ../comps-f11.xml.in.h:37
-#: ../comps-el4.xml.in.h:11
+#: ../comps-f7.xml.in.h:35 ../comps-f8.xml.in.h:36 ../comps-f9.xml.in.h:36
+#: ../comps-f10.xml.in.h:37 ../comps-f11.xml.in.h:39 ../comps-el4.xml.in.h:11
 #: ../comps-el5.xml.in.h:12
 msgid "Development Tools"
 msgstr "Vývojárske nástroje"
 
-#: ../comps-f7.xml.in.h:36
-#: ../comps-f8.xml.in.h:37
-#: ../comps-f9.xml.in.h:37
-#: ../comps-f10.xml.in.h:37
-#: ../comps-f11.xml.in.h:38
+#: ../comps-f7.xml.in.h:36 ../comps-f8.xml.in.h:37 ../comps-f9.xml.in.h:37
+#: ../comps-f10.xml.in.h:38 ../comps-f11.xml.in.h:40
 msgid "Dial-up Networking Support"
 msgstr "Podpora telefonického pripojenia"
 
-#: ../comps-f7.xml.in.h:37
-#: ../comps-f8.xml.in.h:38
-#: ../comps-f9.xml.in.h:38
-#: ../comps-f10.xml.in.h:38
-#: ../comps-f11.xml.in.h:39
+#: ../comps-f7.xml.in.h:37 ../comps-f8.xml.in.h:38 ../comps-f9.xml.in.h:38
+#: ../comps-f10.xml.in.h:39 ../comps-f11.xml.in.h:41
 msgid "Dutch Support"
 msgstr "Holandská podpora"
 
@@ -342,900 +221,591 @@ msgstr "Holandská podpora"
 msgid "Eclipse"
 msgstr "Eclipse"
 
-#: ../comps-f7.xml.in.h:39
-#: ../comps-f8.xml.in.h:39
-#: ../comps-f9.xml.in.h:39
-#: ../comps-f10.xml.in.h:39
-#: ../comps-f11.xml.in.h:40
-#: ../comps-el4.xml.in.h:13
+#: ../comps-f7.xml.in.h:39 ../comps-f8.xml.in.h:39 ../comps-f9.xml.in.h:39
+#: ../comps-f10.xml.in.h:40 ../comps-f11.xml.in.h:42 ../comps-el4.xml.in.h:13
 #: ../comps-el5.xml.in.h:14
 msgid "Editors"
 msgstr "Editory"
 
-#: ../comps-f7.xml.in.h:40
-#: ../comps-f8.xml.in.h:40
-#: ../comps-f9.xml.in.h:40
-#: ../comps-f10.xml.in.h:40
-#: ../comps-f11.xml.in.h:41
-#: ../comps-el4.xml.in.h:14
+#: ../comps-f7.xml.in.h:40 ../comps-f8.xml.in.h:40 ../comps-f9.xml.in.h:40
+#: ../comps-f10.xml.in.h:41 ../comps-f11.xml.in.h:43 ../comps-el4.xml.in.h:14
 #: ../comps-el5.xml.in.h:15
 msgid "Educational Software"
 msgstr "Vzdelávací softvér"
 
-#: ../comps-f7.xml.in.h:41
-#: ../comps-f8.xml.in.h:41
-#: ../comps-f9.xml.in.h:41
-#: ../comps-f10.xml.in.h:41
-#: ../comps-f11.xml.in.h:42
-#: ../comps-el4.xml.in.h:15
+#: ../comps-f7.xml.in.h:41 ../comps-f8.xml.in.h:41 ../comps-f9.xml.in.h:41
+#: ../comps-f10.xml.in.h:42 ../comps-f11.xml.in.h:44 ../comps-el4.xml.in.h:15
 #: ../comps-el5.xml.in.h:16
 msgid "Educational software for learning"
 msgstr "Náučný softvér pre výuku"
 
-#: ../comps-f7.xml.in.h:42
-#: ../comps-f8.xml.in.h:42
-#: ../comps-f9.xml.in.h:42
-#: ../comps-f10.xml.in.h:42
-#: ../comps-f11.xml.in.h:43
-#: ../comps-el4.xml.in.h:16
+#: ../comps-f7.xml.in.h:42 ../comps-f8.xml.in.h:42 ../comps-f9.xml.in.h:42
+#: ../comps-f10.xml.in.h:43 ../comps-f11.xml.in.h:46 ../comps-el4.xml.in.h:16
 #: ../comps-el5.xml.in.h:17
 msgid "Engineering and Scientific"
 msgstr "Veda a výskum"
 
-#: ../comps-f7.xml.in.h:43
-#: ../comps-f8.xml.in.h:43
-#: ../comps-f9.xml.in.h:43
-#: ../comps-f10.xml.in.h:43
-#: ../comps-f11.xml.in.h:44
+#: ../comps-f7.xml.in.h:43 ../comps-f8.xml.in.h:43 ../comps-f9.xml.in.h:43
+#: ../comps-f10.xml.in.h:44 ../comps-f11.xml.in.h:47
 msgid "English (UK) Support"
 msgstr "Anglická (UK) podpora"
 
-#: ../comps-f7.xml.in.h:44
-#: ../comps-f8.xml.in.h:44
-#: ../comps-f9.xml.in.h:45
-#: ../comps-f10.xml.in.h:45
-#: ../comps-f11.xml.in.h:46
+#: ../comps-f7.xml.in.h:44 ../comps-f8.xml.in.h:44 ../comps-f9.xml.in.h:45
+#: ../comps-f10.xml.in.h:46 ../comps-f11.xml.in.h:49
 msgid "Estonian Support"
 msgstr "Estónska podpora"
 
-#: ../comps-f7.xml.in.h:45
-#: ../comps-f8.xml.in.h:45
-#: ../comps-f9.xml.in.h:46
-#: ../comps-f10.xml.in.h:46
-#: ../comps-f11.xml.in.h:47
+#: ../comps-f7.xml.in.h:45 ../comps-f8.xml.in.h:45 ../comps-f9.xml.in.h:46
+#: ../comps-f10.xml.in.h:47 ../comps-f11.xml.in.h:50
 msgid "Ethiopic Support"
 msgstr "Etiópska podpora"
 
-#: ../comps-f7.xml.in.h:46
-#: ../comps-f8.xml.in.h:46
-#: ../comps-f9.xml.in.h:47
-#: ../comps-f10.xml.in.h:47
-#: ../comps-f11.xml.in.h:48
-#: ../comps-el4.xml.in.h:17
+#: ../comps-f7.xml.in.h:46 ../comps-f8.xml.in.h:46 ../comps-f9.xml.in.h:47
+#: ../comps-f10.xml.in.h:48 ../comps-f11.xml.in.h:51 ../comps-el4.xml.in.h:17
 #: ../comps-el5.xml.in.h:18
 msgid "FTP Server"
 msgstr "FTP server"
 
-#: ../comps-f7.xml.in.h:47
-#: ../comps-f8.xml.in.h:47
-#: ../comps-f9.xml.in.h:48
-#: ../comps-f10.xml.in.h:48
-#: ../comps-f11.xml.in.h:49
+#: ../comps-f7.xml.in.h:47 ../comps-f8.xml.in.h:47 ../comps-f9.xml.in.h:48
+#: ../comps-f10.xml.in.h:49 ../comps-f11.xml.in.h:52
 msgid "Faeroese Support"
 msgstr "Faerská podpora"
 
-#: ../comps-f7.xml.in.h:48
-#: ../comps-f8.xml.in.h:49
-#: ../comps-f9.xml.in.h:50
-#: ../comps-f10.xml.in.h:50
-#: ../comps-f11.xml.in.h:51
-#: ../comps-el4.xml.in.h:18
+#: ../comps-f7.xml.in.h:48 ../comps-f8.xml.in.h:49 ../comps-f9.xml.in.h:50
+#: ../comps-f10.xml.in.h:51 ../comps-f11.xml.in.h:54 ../comps-el4.xml.in.h:18
 #: ../comps-el5.xml.in.h:19
 msgid "Fedora Packager"
 msgstr "Fedora Balíčkovač"
 
-#: ../comps-f7.xml.in.h:49
-#: ../comps-f8.xml.in.h:50
-#: ../comps-f9.xml.in.h:51
-#: ../comps-f10.xml.in.h:51
-#: ../comps-f11.xml.in.h:52
+#: ../comps-f7.xml.in.h:49 ../comps-f8.xml.in.h:50 ../comps-f9.xml.in.h:51
+#: ../comps-f10.xml.in.h:52 ../comps-f11.xml.in.h:55
 msgid "Filipino Support"
 msgstr "Filipínska podpora"
 
-#: ../comps-f7.xml.in.h:50
-#: ../comps-f8.xml.in.h:51
-#: ../comps-f9.xml.in.h:52
-#: ../comps-f10.xml.in.h:52
-#: ../comps-f11.xml.in.h:53
+#: ../comps-f7.xml.in.h:50 ../comps-f8.xml.in.h:51 ../comps-f9.xml.in.h:52
+#: ../comps-f10.xml.in.h:53 ../comps-f11.xml.in.h:56
 msgid "Finnish Support"
 msgstr "Fínska podpora"
 
-#: ../comps-f7.xml.in.h:51
-#: ../comps-f8.xml.in.h:54
-#: ../comps-f9.xml.in.h:55
-#: ../comps-f10.xml.in.h:55
-#: ../comps-f11.xml.in.h:57
+#: ../comps-f7.xml.in.h:51 ../comps-f8.xml.in.h:54 ../comps-f9.xml.in.h:55
+#: ../comps-f10.xml.in.h:56 ../comps-f11.xml.in.h:60
 msgid "French Support"
 msgstr "Francúzska podpora"
 
-#: ../comps-f7.xml.in.h:52
-#: ../comps-f8.xml.in.h:55
-#: ../comps-f9.xml.in.h:56
-#: ../comps-f10.xml.in.h:56
-#: ../comps-f11.xml.in.h:60
-#: ../comps-el4.xml.in.h:19
+#: ../comps-f7.xml.in.h:52 ../comps-f8.xml.in.h:55 ../comps-f9.xml.in.h:56
+#: ../comps-f10.xml.in.h:57 ../comps-f11.xml.in.h:63 ../comps-el4.xml.in.h:19
 #: ../comps-el5.xml.in.h:20
-msgid "From CD recording to playing audio CDs and multimedia files, this package group allows you to work with sound and video on the system."
-msgstr "Od nahrávania CD po prehrávanie audio CD a multimediálnych súborov. Táto skupina balíčkov vám umožní pracovať na počítači so zvukom a videom."
+msgid ""
+"From CD recording to playing audio CDs and multimedia files, this package "
+"group allows you to work with sound and video on the system."
+msgstr ""
+"Od nahrávania CD po prehrávanie audio CD a multimediálnych súborov. Táto "
+"skupina balíčkov vám umožní pracovať na počítači so zvukom a videom."
 
-#: ../comps-f7.xml.in.h:53
-#: ../comps-f8.xml.in.h:56
-#: ../comps-f9.xml.in.h:57
-#: ../comps-f10.xml.in.h:57
-#: ../comps-f11.xml.in.h:61
-#: ../comps-el4.xml.in.h:20
+#: ../comps-f7.xml.in.h:53 ../comps-f8.xml.in.h:56 ../comps-f9.xml.in.h:57
+#: ../comps-f10.xml.in.h:58 ../comps-f11.xml.in.h:64 ../comps-el4.xml.in.h:20
 #: ../comps-el5.xml.in.h:21
 msgid "GNOME Desktop Environment"
 msgstr "Pracovné prostredie GNOME"
 
-#: ../comps-f7.xml.in.h:54
-#: ../comps-f8.xml.in.h:57
-#: ../comps-f9.xml.in.h:58
-#: ../comps-f10.xml.in.h:58
-#: ../comps-f11.xml.in.h:62
-#: ../comps-el4.xml.in.h:21
+#: ../comps-f7.xml.in.h:54 ../comps-f8.xml.in.h:57 ../comps-f9.xml.in.h:58
+#: ../comps-f10.xml.in.h:59 ../comps-f11.xml.in.h:65 ../comps-el4.xml.in.h:21
 #: ../comps-el5.xml.in.h:22
 msgid "GNOME Software Development"
 msgstr "Softvérový vývoj GNOME"
 
-#: ../comps-f7.xml.in.h:55
-#: ../comps-f8.xml.in.h:58
-#: ../comps-f9.xml.in.h:59
-#: ../comps-f10.xml.in.h:59
-#: ../comps-f11.xml.in.h:63
-msgid "GNOME is a powerful graphical user interface which includes a panel, desktop, system icons, and a graphical file manager."
-msgstr "GNOME je výkonné grafické používateľské rozhranie, ktoré obsahuje panel, pracovnú plochu, systémové ikony a grafického správcu súborov."
+#: ../comps-f7.xml.in.h:55 ../comps-f8.xml.in.h:58 ../comps-f9.xml.in.h:59
+#: ../comps-f10.xml.in.h:60 ../comps-f11.xml.in.h:66
+msgid ""
+"GNOME is a powerful graphical user interface which includes a panel, "
+"desktop, system icons, and a graphical file manager."
+msgstr ""
+"GNOME je výkonné grafické používateľské rozhranie, ktoré obsahuje panel, "
+"pracovnú plochu, systémové ikony a grafického správcu súborov."
 
-#: ../comps-f7.xml.in.h:56
-#: ../comps-f8.xml.in.h:59
-#: ../comps-f9.xml.in.h:60
-#: ../comps-f10.xml.in.h:60
-#: ../comps-f11.xml.in.h:64
+#: ../comps-f7.xml.in.h:56 ../comps-f8.xml.in.h:59 ../comps-f9.xml.in.h:60
+#: ../comps-f10.xml.in.h:61 ../comps-f11.xml.in.h:67
 msgid "Gaelic Support"
 msgstr "Galská podpora"
 
-#: ../comps-f7.xml.in.h:57
-#: ../comps-f8.xml.in.h:60
-#: ../comps-f9.xml.in.h:61
-#: ../comps-f10.xml.in.h:61
-#: ../comps-f11.xml.in.h:65
+#: ../comps-f7.xml.in.h:57 ../comps-f8.xml.in.h:60 ../comps-f9.xml.in.h:61
+#: ../comps-f10.xml.in.h:62 ../comps-f11.xml.in.h:68
 msgid "Galician Support"
 msgstr "Haličská podpora"
 
-#: ../comps-f7.xml.in.h:58
-#: ../comps-f8.xml.in.h:61
-#: ../comps-f9.xml.in.h:62
-#: ../comps-f10.xml.in.h:62
-#: ../comps-f11.xml.in.h:66
-#: ../comps-el5.xml.in.h:24
+#: ../comps-f7.xml.in.h:58 ../comps-f8.xml.in.h:61 ../comps-f9.xml.in.h:62
+#: ../comps-f10.xml.in.h:63 ../comps-f11.xml.in.h:69 ../comps-el5.xml.in.h:24
 msgid "Games and Entertainment"
 msgstr "Hry a zábava"
 
-#: ../comps-f7.xml.in.h:59
-#: ../comps-f8.xml.in.h:62
-#: ../comps-f9.xml.in.h:63
-#: ../comps-f10.xml.in.h:63
-#: ../comps-f11.xml.in.h:67
+#: ../comps-f7.xml.in.h:59 ../comps-f8.xml.in.h:62 ../comps-f9.xml.in.h:63
+#: ../comps-f10.xml.in.h:64 ../comps-f11.xml.in.h:70
 msgid "Georgian Support"
 msgstr "Gruzínska podpora"
 
-#: ../comps-f7.xml.in.h:60
-#: ../comps-f8.xml.in.h:63
-#: ../comps-f9.xml.in.h:64
-#: ../comps-f10.xml.in.h:64
-#: ../comps-f11.xml.in.h:68
+#: ../comps-f7.xml.in.h:60 ../comps-f8.xml.in.h:63 ../comps-f9.xml.in.h:64
+#: ../comps-f10.xml.in.h:65 ../comps-f11.xml.in.h:71
 msgid "German Support"
 msgstr "Nemecká podpora"
 
-#: ../comps-f7.xml.in.h:61
-#: ../comps-f8.xml.in.h:64
-#: ../comps-f9.xml.in.h:65
-#: ../comps-f10.xml.in.h:65
-#: ../comps-f11.xml.in.h:69
-#: ../comps-el4.xml.in.h:23
+#: ../comps-f7.xml.in.h:61 ../comps-f8.xml.in.h:64 ../comps-f9.xml.in.h:65
+#: ../comps-f10.xml.in.h:66 ../comps-f11.xml.in.h:72 ../comps-el4.xml.in.h:23
 #: ../comps-el5.xml.in.h:25
 msgid "Graphical Internet"
 msgstr "Grafický internet"
 
-#: ../comps-f7.xml.in.h:62
-#: ../comps-f8.xml.in.h:65
-#: ../comps-f9.xml.in.h:66
-#: ../comps-f10.xml.in.h:66
-#: ../comps-f11.xml.in.h:70
-#: ../comps-el4.xml.in.h:24
+#: ../comps-f7.xml.in.h:62 ../comps-f8.xml.in.h:65 ../comps-f9.xml.in.h:66
+#: ../comps-f10.xml.in.h:67 ../comps-f11.xml.in.h:73 ../comps-el4.xml.in.h:24
 #: ../comps-el5.xml.in.h:26
 msgid "Graphics"
 msgstr "Grafika"
 
-#: ../comps-f7.xml.in.h:63
-#: ../comps-f8.xml.in.h:66
-#: ../comps-f9.xml.in.h:67
-#: ../comps-f10.xml.in.h:67
-#: ../comps-f11.xml.in.h:71
+#: ../comps-f7.xml.in.h:63 ../comps-f8.xml.in.h:66 ../comps-f9.xml.in.h:67
+#: ../comps-f10.xml.in.h:68 ../comps-f11.xml.in.h:74
 msgid "Greek Support"
 msgstr "Grécka podpora"
 
-#: ../comps-f7.xml.in.h:64
-#: ../comps-f8.xml.in.h:67
-#: ../comps-f9.xml.in.h:68
-#: ../comps-f10.xml.in.h:68
-#: ../comps-f11.xml.in.h:72
+#: ../comps-f7.xml.in.h:64 ../comps-f8.xml.in.h:67 ../comps-f9.xml.in.h:68
+#: ../comps-f10.xml.in.h:69 ../comps-f11.xml.in.h:75
 msgid "Gujarati Support"
 msgstr "Gudžarátska podpora"
 
-#: ../comps-f7.xml.in.h:65
-#: ../comps-f8.xml.in.h:68
-#: ../comps-f9.xml.in.h:69
-#: ../comps-f10.xml.in.h:69
-#: ../comps-f11.xml.in.h:73
-#: ../comps-el4.xml.in.h:25
+#: ../comps-f7.xml.in.h:65 ../comps-f8.xml.in.h:68 ../comps-f9.xml.in.h:69
+#: ../comps-f10.xml.in.h:70 ../comps-f11.xml.in.h:76 ../comps-el4.xml.in.h:25
 #: ../comps-el5.xml.in.h:27
 msgid "Hardware Support"
 msgstr "Podpora hardvéru"
 
-#: ../comps-f7.xml.in.h:66
-#: ../comps-f8.xml.in.h:69
-#: ../comps-f9.xml.in.h:70
-#: ../comps-f10.xml.in.h:71
-#: ../comps-f11.xml.in.h:75
-#: ../comps-el4.xml.in.h:26
+#: ../comps-f7.xml.in.h:66 ../comps-f8.xml.in.h:69 ../comps-f9.xml.in.h:70
+#: ../comps-f10.xml.in.h:72 ../comps-f11.xml.in.h:78 ../comps-el4.xml.in.h:26
 #: ../comps-el5.xml.in.h:28
 msgid "Hebrew Support"
 msgstr "Hebrejská podpora"
 
-#: ../comps-f7.xml.in.h:67
-#: ../comps-f8.xml.in.h:70
-#: ../comps-f9.xml.in.h:71
-#: ../comps-f10.xml.in.h:72
-#: ../comps-f11.xml.in.h:76
+#: ../comps-f7.xml.in.h:67 ../comps-f8.xml.in.h:70 ../comps-f9.xml.in.h:71
+#: ../comps-f10.xml.in.h:73 ../comps-f11.xml.in.h:79
 msgid "Hindi Support"
 msgstr "Hindská podpora"
 
-#: ../comps-f7.xml.in.h:68
-#: ../comps-f8.xml.in.h:71
-#: ../comps-f9.xml.in.h:72
-#: ../comps-f10.xml.in.h:73
-#: ../comps-f11.xml.in.h:77
+#: ../comps-f7.xml.in.h:68 ../comps-f8.xml.in.h:71 ../comps-f9.xml.in.h:72
+#: ../comps-f10.xml.in.h:74 ../comps-f11.xml.in.h:80
 msgid "Hungarian Support"
 msgstr "Maďarská podpora"
 
-#: ../comps-f7.xml.in.h:69
-#: ../comps-f8.xml.in.h:72
-#: ../comps-f9.xml.in.h:73
-#: ../comps-f10.xml.in.h:74
-#: ../comps-f11.xml.in.h:78
+#: ../comps-f7.xml.in.h:69 ../comps-f8.xml.in.h:72 ../comps-f9.xml.in.h:73
+#: ../comps-f10.xml.in.h:75 ../comps-f11.xml.in.h:81
 msgid "Icelandic Support"
 msgstr "Islandská podpora"
 
-#: ../comps-f7.xml.in.h:70
-#: ../comps-f8.xml.in.h:73
-#: ../comps-f9.xml.in.h:74
-#: ../comps-f10.xml.in.h:75
-#: ../comps-f11.xml.in.h:79
+#: ../comps-f7.xml.in.h:70 ../comps-f8.xml.in.h:73 ../comps-f9.xml.in.h:74
+#: ../comps-f10.xml.in.h:76 ../comps-f11.xml.in.h:82
 msgid "Indonesian Support"
 msgstr "Indonézska podpora"
 
-#: ../comps-f7.xml.in.h:71
-#: ../comps-f8.xml.in.h:74
-#: ../comps-f9.xml.in.h:75
-#: ../comps-f10.xml.in.h:78
-#: ../comps-f11.xml.in.h:82
-#: ../comps-el4.xml.in.h:27
+#: ../comps-f7.xml.in.h:71 ../comps-f8.xml.in.h:74 ../comps-f9.xml.in.h:75
+#: ../comps-f10.xml.in.h:79 ../comps-f11.xml.in.h:85 ../comps-el4.xml.in.h:27
 #: ../comps-el5.xml.in.h:29
-msgid "Install these packages in order to develop GTK+ and GNOME graphical applications."
-msgstr "Nainštalujte si tieto balíčky, ak potrebujete vyvíjať grafické aplikácie GTK+ a GNOME."
+msgid ""
+"Install these packages in order to develop GTK+ and GNOME graphical "
+"applications."
+msgstr ""
+"Nainštalujte si tieto balíčky, ak potrebujete vyvíjať grafické aplikácie GTK"
+"+ a GNOME."
 
-#: ../comps-f7.xml.in.h:72
-#: ../comps-f8.xml.in.h:75
-#: ../comps-f9.xml.in.h:76
-#: ../comps-f10.xml.in.h:79
-#: ../comps-f11.xml.in.h:83
-msgid "Install these packages in order to develop GTK+ and XFCE graphical applications."
-msgstr "Nainštalujte si tieto balíčky, ak potrebujete vyvíjať grafické aplikácie GTK+ a XFCE."
+#: ../comps-f7.xml.in.h:72 ../comps-f8.xml.in.h:75 ../comps-f9.xml.in.h:76
+#: ../comps-f10.xml.in.h:80 ../comps-f11.xml.in.h:86
+msgid ""
+"Install these packages in order to develop GTK+ and XFCE graphical "
+"applications."
+msgstr ""
+"Nainštalujte si tieto balíčky, ak potrebujete vyvíjať grafické aplikácie GTK"
+"+ a XFCE."
 
-#: ../comps-f7.xml.in.h:73
-#: ../comps-f8.xml.in.h:76
-#: ../comps-f9.xml.in.h:77
-#: ../comps-f10.xml.in.h:80
-#: ../comps-f11.xml.in.h:84
-#: ../comps-el4.xml.in.h:28
+#: ../comps-f7.xml.in.h:73 ../comps-f8.xml.in.h:76 ../comps-f9.xml.in.h:77
+#: ../comps-f10.xml.in.h:81 ../comps-f11.xml.in.h:87 ../comps-el4.xml.in.h:28
 #: ../comps-el5.xml.in.h:30
 msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr "Nainštalujte si tieto balíčky, ak budete vyvíjať grafické aplikácie QT a KDE"
+msgstr ""
+"Nainštalujte si tieto balíčky, ak budete vyvíjať grafické aplikácie QT a KDE"
 
-#: ../comps-f7.xml.in.h:74
-#: ../comps-f8.xml.in.h:77
-#: ../comps-f9.xml.in.h:78
-#: ../comps-f10.xml.in.h:81
-#: ../comps-f11.xml.in.h:85
-msgid "Install these tools to enable the system to print or act as a print server."
-msgstr "Nainštalujte si tieto nástroje, aby ste mohli z počítača tlačiť, alebo ho používať ako tlačový server."
+#: ../comps-f7.xml.in.h:74 ../comps-f8.xml.in.h:77 ../comps-f9.xml.in.h:78
+#: ../comps-f10.xml.in.h:82 ../comps-f11.xml.in.h:88
+msgid ""
+"Install these tools to enable the system to print or act as a print server."
+msgstr ""
+"Nainštalujte si tieto nástroje, aby ste mohli z počítača tlačiť, alebo ho "
+"používať ako tlačový server."
 
-#: ../comps-f7.xml.in.h:75
-#: ../comps-f8.xml.in.h:78
-#: ../comps-f9.xml.in.h:79
-#: ../comps-f10.xml.in.h:82
-#: ../comps-f11.xml.in.h:86
-#: ../comps-el4.xml.in.h:29
+#: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:78 ../comps-f9.xml.in.h:79
+#: ../comps-f10.xml.in.h:83 ../comps-f11.xml.in.h:89 ../comps-el4.xml.in.h:29
 #: ../comps-el5.xml.in.h:31
-msgid "Install this group of packages to use the base graphical (X) user interface."
-msgstr "Nainštalujte túto skupinu balíčkov, aby ste mohli použiť základné grafické používateľské rozhranie X."
+msgid ""
+"Install this group of packages to use the base graphical (X) user interface."
+msgstr ""
+"Nainštalujte túto skupinu balíčkov, aby ste mohli použiť základné grafické "
+"používateľské rozhranie X."
 
-#: ../comps-f7.xml.in.h:76
-#: ../comps-f8.xml.in.h:80
-#: ../comps-f9.xml.in.h:81
-#: ../comps-f10.xml.in.h:84
-#: ../comps-f11.xml.in.h:88
+#: ../comps-f7.xml.in.h:76 ../comps-f8.xml.in.h:80 ../comps-f9.xml.in.h:81
+#: ../comps-f10.xml.in.h:85 ../comps-f11.xml.in.h:91
 msgid "Inuktitut Support"
 msgstr "Podpora inuktikut"
 
-#: ../comps-f7.xml.in.h:77
-#: ../comps-f8.xml.in.h:81
-#: ../comps-f9.xml.in.h:82
-#: ../comps-f10.xml.in.h:85
-#: ../comps-f11.xml.in.h:89
+#: ../comps-f7.xml.in.h:77 ../comps-f8.xml.in.h:81 ../comps-f9.xml.in.h:82
+#: ../comps-f10.xml.in.h:86 ../comps-f11.xml.in.h:92
 msgid "Irish Support"
 msgstr "Írska podpora"
 
-#: ../comps-f7.xml.in.h:78
-#: ../comps-f8.xml.in.h:82
-#: ../comps-f9.xml.in.h:83
-#: ../comps-f10.xml.in.h:86
-#: ../comps-f11.xml.in.h:90
+#: ../comps-f7.xml.in.h:78 ../comps-f8.xml.in.h:82 ../comps-f9.xml.in.h:83
+#: ../comps-f10.xml.in.h:87 ../comps-f11.xml.in.h:93
 msgid "Italian Support"
 msgstr "Talianska podpora"
 
-#: ../comps-f7.xml.in.h:79
-#: ../comps-f8.xml.in.h:83
-#: ../comps-f9.xml.in.h:84
-#: ../comps-f10.xml.in.h:87
-#: ../comps-f11.xml.in.h:91
-#: ../comps-el4.xml.in.h:30
+#: ../comps-f7.xml.in.h:79 ../comps-f8.xml.in.h:83 ../comps-f9.xml.in.h:84
+#: ../comps-f10.xml.in.h:88 ../comps-f11.xml.in.h:94 ../comps-el4.xml.in.h:30
 #: ../comps-el5.xml.in.h:32
 msgid "Japanese Support"
 msgstr "Japonská podpora"
 
-#: ../comps-f7.xml.in.h:80
-#: ../comps-f8.xml.in.h:84
-#: ../comps-f9.xml.in.h:85
-#: ../comps-f10.xml.in.h:88
-#: ../comps-f11.xml.in.h:92
-#: ../comps-el4.xml.in.h:31
+#: ../comps-f7.xml.in.h:80 ../comps-f8.xml.in.h:84 ../comps-f9.xml.in.h:85
+#: ../comps-f10.xml.in.h:89 ../comps-f11.xml.in.h:95 ../comps-el4.xml.in.h:31
 msgid "Java"
 msgstr "Java"
 
-#: ../comps-f7.xml.in.h:81
-#: ../comps-f8.xml.in.h:85
-#: ../comps-f9.xml.in.h:86
-#: ../comps-f10.xml.in.h:89
-#: ../comps-f11.xml.in.h:93
-#: ../comps-el4.xml.in.h:32
+#: ../comps-f7.xml.in.h:81 ../comps-f8.xml.in.h:85 ../comps-f9.xml.in.h:86
+#: ../comps-f10.xml.in.h:90 ../comps-f11.xml.in.h:96 ../comps-el4.xml.in.h:32
 msgid "Java Development"
 msgstr "Vývoj v Jave"
 
-#: ../comps-f7.xml.in.h:82
-#: ../comps-f8.xml.in.h:86
-#: ../comps-f9.xml.in.h:87
-#: ../comps-f10.xml.in.h:90
-#: ../comps-f11.xml.in.h:94
-#: ../comps-el4.xml.in.h:33
+#: ../comps-f7.xml.in.h:82 ../comps-f8.xml.in.h:86 ../comps-f9.xml.in.h:87
+#: ../comps-f10.xml.in.h:91 ../comps-f11.xml.in.h:97 ../comps-el4.xml.in.h:33
 #: ../comps-el5.xml.in.h:33
 msgid "KDE (K Desktop Environment)"
 msgstr "KDE (pracovné prostredie K)"
 
-#: ../comps-f7.xml.in.h:83
-#: ../comps-f8.xml.in.h:87
-#: ../comps-f9.xml.in.h:88
-#: ../comps-f10.xml.in.h:91
-#: ../comps-f11.xml.in.h:95
-#: ../comps-el4.xml.in.h:34
+#: ../comps-f7.xml.in.h:83 ../comps-f8.xml.in.h:87 ../comps-f9.xml.in.h:88
+#: ../comps-f10.xml.in.h:92 ../comps-f11.xml.in.h:98 ../comps-el4.xml.in.h:34
 #: ../comps-el5.xml.in.h:34
 msgid "KDE Software Development"
 msgstr "Softvérový vývoj KDE"
 
-#: ../comps-f7.xml.in.h:84
-#: ../comps-f8.xml.in.h:88
-#: ../comps-f9.xml.in.h:89
-#: ../comps-f10.xml.in.h:92
-#: ../comps-f11.xml.in.h:96
-msgid "KDE is a powerful graphical user interface which includes a panel, desktop, system icons, and a graphical file manager."
-msgstr "KDE je výkonné grafické používateľské rozhranie, ktoré obsahuje panel, pracovnú plochu, systémové ikony a grafického správcu súborov."
+#: ../comps-f7.xml.in.h:84 ../comps-f8.xml.in.h:88 ../comps-f9.xml.in.h:89
+#: ../comps-f10.xml.in.h:93 ../comps-f11.xml.in.h:99
+msgid ""
+"KDE is a powerful graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE je výkonné grafické používateľské rozhranie, ktoré obsahuje panel, "
+"pracovnú plochu, systémové ikony a grafického správcu súborov."
 
-#: ../comps-f7.xml.in.h:85
-#: ../comps-f8.xml.in.h:89
-#: ../comps-f9.xml.in.h:90
-#: ../comps-f10.xml.in.h:93
-#: ../comps-f11.xml.in.h:97
+#: ../comps-f7.xml.in.h:85 ../comps-f8.xml.in.h:89 ../comps-f9.xml.in.h:90
+#: ../comps-f10.xml.in.h:94 ../comps-f11.xml.in.h:100
 msgid "Kannada Support"
 msgstr "Kanadská podpora"
 
-#: ../comps-f7.xml.in.h:86
-#: ../comps-f8.xml.in.h:90
-#: ../comps-f9.xml.in.h:92
-#: ../comps-f10.xml.in.h:96
-#: ../comps-f11.xml.in.h:100
+#: ../comps-f7.xml.in.h:86 ../comps-f8.xml.in.h:90 ../comps-f9.xml.in.h:92
+#: ../comps-f10.xml.in.h:97 ../comps-f11.xml.in.h:103
 msgid "Khmer Support"
 msgstr "Kmérska podpora"
 
-#: ../comps-f7.xml.in.h:87
-#: ../comps-f8.xml.in.h:91
-#: ../comps-f9.xml.in.h:93
-#: ../comps-f10.xml.in.h:98
-#: ../comps-f11.xml.in.h:103
+#: ../comps-f7.xml.in.h:87 ../comps-f8.xml.in.h:91 ../comps-f9.xml.in.h:93
+#: ../comps-f10.xml.in.h:99 ../comps-f11.xml.in.h:106
 msgid "Korean Support"
 msgstr "Kórejská podpora"
 
-#: ../comps-f7.xml.in.h:88
-#: ../comps-f8.xml.in.h:92
-#: ../comps-f9.xml.in.h:95
-#: ../comps-f10.xml.in.h:101
-#: ../comps-f11.xml.in.h:106
+#: ../comps-f7.xml.in.h:88 ../comps-f8.xml.in.h:92 ../comps-f9.xml.in.h:95
+#: ../comps-f10.xml.in.h:102 ../comps-f11.xml.in.h:109
 msgid "Languages"
 msgstr "Jazyky"
 
-#: ../comps-f7.xml.in.h:89
-#: ../comps-f8.xml.in.h:93
-#: ../comps-f9.xml.in.h:96
-#: ../comps-f10.xml.in.h:102
-#: ../comps-f11.xml.in.h:107
+#: ../comps-f7.xml.in.h:89 ../comps-f8.xml.in.h:93 ../comps-f9.xml.in.h:96
+#: ../comps-f10.xml.in.h:103 ../comps-f11.xml.in.h:110
 msgid "Lao Support"
 msgstr "Laoská podpora"
 
-#: ../comps-f7.xml.in.h:90
-#: ../comps-f8.xml.in.h:94
-#: ../comps-f9.xml.in.h:97
-#: ../comps-f10.xml.in.h:103
-#: ../comps-f11.xml.in.h:108
+#: ../comps-f7.xml.in.h:90 ../comps-f8.xml.in.h:94 ../comps-f9.xml.in.h:97
+#: ../comps-f10.xml.in.h:104 ../comps-f11.xml.in.h:111
 msgid "Latvian Support"
 msgstr "Litovská podpora"
 
-#: ../comps-f7.xml.in.h:91
-#: ../comps-f8.xml.in.h:96
-#: ../comps-f9.xml.in.h:99
-#: ../comps-f10.xml.in.h:105
-#: ../comps-f11.xml.in.h:110
+#: ../comps-f7.xml.in.h:91 ../comps-f8.xml.in.h:96 ../comps-f9.xml.in.h:99
+#: ../comps-f10.xml.in.h:106 ../comps-f11.xml.in.h:113
 msgid "Legacy Network Server"
 msgstr "Zdedený sieťový server"
 
-#: ../comps-f7.xml.in.h:92
-#: ../comps-f8.xml.in.h:97
-#: ../comps-f9.xml.in.h:100
-#: ../comps-f10.xml.in.h:106
-#: ../comps-f11.xml.in.h:111
+#: ../comps-f7.xml.in.h:92 ../comps-f8.xml.in.h:97 ../comps-f9.xml.in.h:100
+#: ../comps-f10.xml.in.h:107 ../comps-f11.xml.in.h:114
 msgid "Legacy Software Development"
 msgstr "Zdedený softvérový vývoj"
 
-#: ../comps-f7.xml.in.h:93
-#: ../comps-f8.xml.in.h:98
-#: ../comps-f9.xml.in.h:101
-#: ../comps-f10.xml.in.h:107
-#: ../comps-f11.xml.in.h:112
+#: ../comps-f7.xml.in.h:93 ../comps-f8.xml.in.h:98 ../comps-f9.xml.in.h:101
+#: ../comps-f10.xml.in.h:108 ../comps-f11.xml.in.h:115
 msgid "Legacy Software Support"
 msgstr "Zdedená softvérová podpora"
 
-#: ../comps-f7.xml.in.h:94
-#: ../comps-f8.xml.in.h:99
-#: ../comps-f9.xml.in.h:102
-#: ../comps-f10.xml.in.h:108
-#: ../comps-f11.xml.in.h:113
+#: ../comps-f7.xml.in.h:94 ../comps-f8.xml.in.h:99 ../comps-f9.xml.in.h:102
+#: ../comps-f10.xml.in.h:109 ../comps-f11.xml.in.h:116
 msgid "Lithuanian Support"
 msgstr "Litovská podpora"
 
-#: ../comps-f7.xml.in.h:95
-#: ../comps-f8.xml.in.h:101
-#: ../comps-f9.xml.in.h:105
-#: ../comps-f10.xml.in.h:111
-#: ../comps-f11.xml.in.h:116
-#: ../comps-el4.xml.in.h:36
-#: ../comps-el5.xml.in.h:36
+#: ../comps-f7.xml.in.h:95 ../comps-f8.xml.in.h:101 ../comps-f9.xml.in.h:105
+#: ../comps-f10.xml.in.h:112 ../comps-f11.xml.in.h:119
+#: ../comps-el4.xml.in.h:36 ../comps-el5.xml.in.h:36
 msgid "Mail Server"
 msgstr "Poštový server"
 
-#: ../comps-f7.xml.in.h:96
-#: ../comps-f8.xml.in.h:102
-#: ../comps-f9.xml.in.h:106
-#: ../comps-f10.xml.in.h:113
-#: ../comps-f11.xml.in.h:119
+#: ../comps-f7.xml.in.h:96 ../comps-f8.xml.in.h:102 ../comps-f9.xml.in.h:106
+#: ../comps-f10.xml.in.h:114 ../comps-f11.xml.in.h:122
 msgid "Malay Support"
 msgstr "Malajská podpora"
 
-#: ../comps-f7.xml.in.h:97
-#: ../comps-f8.xml.in.h:103
-#: ../comps-f9.xml.in.h:107
-#: ../comps-f10.xml.in.h:114
-#: ../comps-f11.xml.in.h:120
+#: ../comps-f7.xml.in.h:97 ../comps-f8.xml.in.h:103 ../comps-f9.xml.in.h:107
+#: ../comps-f10.xml.in.h:115 ../comps-f11.xml.in.h:123
 msgid "Malayalam Support"
 msgstr "Malajalámska podpora"
 
-#: ../comps-f7.xml.in.h:98
-#: ../comps-f8.xml.in.h:104
-#: ../comps-f9.xml.in.h:108
-#: ../comps-f10.xml.in.h:115
-#: ../comps-f11.xml.in.h:121
+#: ../comps-f7.xml.in.h:98 ../comps-f8.xml.in.h:104 ../comps-f9.xml.in.h:108
+#: ../comps-f10.xml.in.h:116 ../comps-f11.xml.in.h:124
 msgid "Maori Support"
 msgstr "Maorská podpora"
 
-#: ../comps-f7.xml.in.h:99
-#: ../comps-f8.xml.in.h:105
-#: ../comps-f9.xml.in.h:109
-#: ../comps-f10.xml.in.h:116
-#: ../comps-f11.xml.in.h:122
+#: ../comps-f7.xml.in.h:99 ../comps-f8.xml.in.h:105 ../comps-f9.xml.in.h:109
+#: ../comps-f10.xml.in.h:117 ../comps-f11.xml.in.h:125
 msgid "Marathi Support"
 msgstr "Podpora Maráthí"
 
-#: ../comps-f7.xml.in.h:100
-#: ../comps-f8.xml.in.h:107
-#: ../comps-f9.xml.in.h:111
-#: ../comps-f10.xml.in.h:118
-#: ../comps-f11.xml.in.h:124
+#: ../comps-f7.xml.in.h:100 ../comps-f8.xml.in.h:107 ../comps-f9.xml.in.h:111
+#: ../comps-f10.xml.in.h:119 ../comps-f11.xml.in.h:128
 msgid "MySQL Database"
 msgstr "Databáza MySQL"
 
-#: ../comps-f7.xml.in.h:101
-#: ../comps-f8.xml.in.h:109
-#: ../comps-f9.xml.in.h:113
-#: ../comps-f10.xml.in.h:121
-#: ../comps-f11.xml.in.h:127
-#: ../comps-el4.xml.in.h:37
-#: ../comps-el5.xml.in.h:37
+#: ../comps-f7.xml.in.h:101 ../comps-f8.xml.in.h:109 ../comps-f9.xml.in.h:113
+#: ../comps-f10.xml.in.h:122 ../comps-f11.xml.in.h:131
+#: ../comps-el4.xml.in.h:37 ../comps-el5.xml.in.h:37
 msgid "Network Servers"
 msgstr "Sieťové servery"
 
-#: ../comps-f7.xml.in.h:102
-#: ../comps-f8.xml.in.h:110
-#: ../comps-f9.xml.in.h:114
-#: ../comps-f10.xml.in.h:122
-#: ../comps-f11.xml.in.h:128
-#: ../comps-el4.xml.in.h:38
-#: ../comps-el5.xml.in.h:38
+#: ../comps-f7.xml.in.h:102 ../comps-f8.xml.in.h:110 ../comps-f9.xml.in.h:114
+#: ../comps-f10.xml.in.h:123 ../comps-f11.xml.in.h:132
+#: ../comps-el4.xml.in.h:38 ../comps-el5.xml.in.h:38
 msgid "News Server"
 msgstr "Server diskusných skupín"
 
-#: ../comps-f7.xml.in.h:103
-#: ../comps-f8.xml.in.h:111
-#: ../comps-f9.xml.in.h:116
-#: ../comps-f10.xml.in.h:124
-#: ../comps-f11.xml.in.h:130
+#: ../comps-f7.xml.in.h:103 ../comps-f8.xml.in.h:111 ../comps-f9.xml.in.h:116
+#: ../comps-f10.xml.in.h:125 ../comps-f11.xml.in.h:134
 msgid "Northern Sotho Support"
 msgstr "Podpora severného sotho"
 
-#: ../comps-f7.xml.in.h:104
-#: ../comps-f8.xml.in.h:112
-#: ../comps-f9.xml.in.h:117
-#: ../comps-f10.xml.in.h:125
-#: ../comps-f11.xml.in.h:131
+#: ../comps-f7.xml.in.h:104 ../comps-f8.xml.in.h:112 ../comps-f9.xml.in.h:117
+#: ../comps-f10.xml.in.h:126 ../comps-f11.xml.in.h:135
 msgid "Norwegian Support"
 msgstr "Nórska podpora"
 
-#: ../comps-f7.xml.in.h:105
-#: ../comps-f8.xml.in.h:113
-#: ../comps-f9.xml.in.h:118
-#: ../comps-f10.xml.in.h:126
-#: ../comps-f11.xml.in.h:133
-#: ../comps-el4.xml.in.h:39
-#: ../comps-el5.xml.in.h:39
+#: ../comps-f7.xml.in.h:105 ../comps-f8.xml.in.h:113 ../comps-f9.xml.in.h:118
+#: ../comps-f10.xml.in.h:127 ../comps-f11.xml.in.h:138
+#: ../comps-el4.xml.in.h:39 ../comps-el5.xml.in.h:39
 msgid "Office/Productivity"
 msgstr "Kancelária/produktivita"
 
-#: ../comps-f7.xml.in.h:106
-#: ../comps-f8.xml.in.h:115
-#: ../comps-f9.xml.in.h:120
-#: ../comps-f10.xml.in.h:128
-#: ../comps-f11.xml.in.h:135
+#: ../comps-f7.xml.in.h:106 ../comps-f8.xml.in.h:115 ../comps-f9.xml.in.h:120
+#: ../comps-f10.xml.in.h:129 ../comps-f11.xml.in.h:141
 msgid "Oriya Support"
 msgstr "Podpora oriya"
 
-#: ../comps-f7.xml.in.h:107
-#: ../comps-f8.xml.in.h:116
-#: ../comps-f9.xml.in.h:121
-#: ../comps-f10.xml.in.h:129
-#: ../comps-f11.xml.in.h:136
-#: ../comps-el4.xml.in.h:40
-#: ../comps-el5.xml.in.h:40
-msgid "Packages which provide functionality for developing and building applications."
+#: ../comps-f7.xml.in.h:107 ../comps-f8.xml.in.h:116 ../comps-f9.xml.in.h:121
+#: ../comps-f10.xml.in.h:130 ../comps-f11.xml.in.h:142
+#: ../comps-el4.xml.in.h:40 ../comps-el5.xml.in.h:40
+msgid ""
+"Packages which provide functionality for developing and building "
+"applications."
 msgstr "Balíčky poskytujúce funkcionalitu pre vývoj a zostavovanie aplikácií."
 
-#: ../comps-f7.xml.in.h:108
-#: ../comps-f8.xml.in.h:117
-#: ../comps-f9.xml.in.h:122
-#: ../comps-f10.xml.in.h:130
-#: ../comps-f11.xml.in.h:137
+#: ../comps-f7.xml.in.h:108 ../comps-f8.xml.in.h:117 ../comps-f9.xml.in.h:122
+#: ../comps-f10.xml.in.h:131 ../comps-f11.xml.in.h:143
 msgid "Persian Support"
 msgstr "Perzská podpora"
 
-#: ../comps-f7.xml.in.h:109
-#: ../comps-f8.xml.in.h:118
-#: ../comps-f9.xml.in.h:123
-#: ../comps-f10.xml.in.h:131
-#: ../comps-f11.xml.in.h:138
+#: ../comps-f7.xml.in.h:109 ../comps-f8.xml.in.h:118 ../comps-f9.xml.in.h:123
+#: ../comps-f10.xml.in.h:132 ../comps-f11.xml.in.h:144
 msgid "Polish Support"
 msgstr "Poľská podpora"
 
-#: ../comps-f7.xml.in.h:110
-#: ../comps-f8.xml.in.h:119
-#: ../comps-f9.xml.in.h:124
-#: ../comps-f10.xml.in.h:132
-#: ../comps-f11.xml.in.h:139
+#: ../comps-f7.xml.in.h:110 ../comps-f8.xml.in.h:119 ../comps-f9.xml.in.h:124
+#: ../comps-f10.xml.in.h:133 ../comps-f11.xml.in.h:145
 msgid "Portuguese Support"
 msgstr "Portugalská podpora"
 
-#: ../comps-f7.xml.in.h:111
-#: ../comps-f8.xml.in.h:120
-#: ../comps-f9.xml.in.h:125
-#: ../comps-f10.xml.in.h:133
-#: ../comps-f11.xml.in.h:140
+#: ../comps-f7.xml.in.h:111 ../comps-f8.xml.in.h:120 ../comps-f9.xml.in.h:125
+#: ../comps-f10.xml.in.h:134 ../comps-f11.xml.in.h:146
 msgid "PostgreSQL Database"
 msgstr "Databáza PostgreSQL"
 
-#: ../comps-f7.xml.in.h:112
-#: ../comps-f8.xml.in.h:121
-#: ../comps-f9.xml.in.h:126
-#: ../comps-f10.xml.in.h:134
-#: ../comps-f11.xml.in.h:141
+#: ../comps-f7.xml.in.h:112 ../comps-f8.xml.in.h:121 ../comps-f9.xml.in.h:126
+#: ../comps-f10.xml.in.h:135 ../comps-f11.xml.in.h:147
 msgid "Printing Support"
 msgstr "Podpora tlače"
 
-#: ../comps-f7.xml.in.h:113
-#: ../comps-f8.xml.in.h:122
-#: ../comps-f9.xml.in.h:127
-#: ../comps-f10.xml.in.h:135
-#: ../comps-f11.xml.in.h:142
+#: ../comps-f7.xml.in.h:113 ../comps-f8.xml.in.h:122 ../comps-f9.xml.in.h:127
+#: ../comps-f10.xml.in.h:136 ../comps-f11.xml.in.h:148
 msgid "Punjabi Support"
 msgstr "Pandžábska podpora"
 
-#: ../comps-f7.xml.in.h:114
-#: ../comps-f8.xml.in.h:123
-#: ../comps-f9.xml.in.h:128
-#: ../comps-f10.xml.in.h:136
-#: ../comps-f11.xml.in.h:143
+#: ../comps-f7.xml.in.h:114 ../comps-f8.xml.in.h:123 ../comps-f9.xml.in.h:128
+#: ../comps-f10.xml.in.h:137 ../comps-f11.xml.in.h:149
 msgid "Romanian Support"
 msgstr "Rumunská podpora"
 
-#: ../comps-f7.xml.in.h:115
-#: ../comps-f8.xml.in.h:124
-#: ../comps-f9.xml.in.h:129
-#: ../comps-f10.xml.in.h:137
-#: ../comps-f11.xml.in.h:144
+#: ../comps-f7.xml.in.h:115 ../comps-f8.xml.in.h:124 ../comps-f9.xml.in.h:129
+#: ../comps-f10.xml.in.h:138 ../comps-f11.xml.in.h:150
 msgid "Ruby"
 msgstr "Ruby"
 
-#: ../comps-f7.xml.in.h:116
-#: ../comps-f8.xml.in.h:125
-#: ../comps-f9.xml.in.h:130
-#: ../comps-f10.xml.in.h:138
-#: ../comps-f11.xml.in.h:145
+#: ../comps-f7.xml.in.h:116 ../comps-f8.xml.in.h:125 ../comps-f9.xml.in.h:130
+#: ../comps-f10.xml.in.h:139 ../comps-f11.xml.in.h:151
 msgid "Russian Support"
 msgstr "Ruská podpora"
 
-#: ../comps-f7.xml.in.h:117
-#: ../comps-f8.xml.in.h:126
-#: ../comps-f9.xml.in.h:133
-#: ../comps-f10.xml.in.h:141
-#: ../comps-f11.xml.in.h:148
+#: ../comps-f7.xml.in.h:117 ../comps-f8.xml.in.h:126 ../comps-f9.xml.in.h:133
+#: ../comps-f10.xml.in.h:141 ../comps-f11.xml.in.h:152
 msgid "Samoan Support"
 msgstr "Samojská podpora"
 
-#: ../comps-f7.xml.in.h:118
-#: ../comps-f8.xml.in.h:127
-#: ../comps-f9.xml.in.h:134
-#: ../comps-f10.xml.in.h:142
-#: ../comps-f11.xml.in.h:149
+#: ../comps-f7.xml.in.h:118 ../comps-f8.xml.in.h:127 ../comps-f9.xml.in.h:134
+#: ../comps-f10.xml.in.h:142 ../comps-f11.xml.in.h:153
 msgid "Serbian Support"
 msgstr "Srbská podpora"
 
-#: ../comps-f7.xml.in.h:119
-#: ../comps-f8.xml.in.h:128
-#: ../comps-f9.xml.in.h:135
-#: ../comps-f10.xml.in.h:143
-#: ../comps-f11.xml.in.h:150
+#: ../comps-f7.xml.in.h:119 ../comps-f8.xml.in.h:128 ../comps-f9.xml.in.h:135
+#: ../comps-f10.xml.in.h:143 ../comps-f11.xml.in.h:154
 msgid "Server Configuration Tools"
 msgstr "Konfiguračné nástroje servera"
 
-#: ../comps-f7.xml.in.h:120
-#: ../comps-f8.xml.in.h:129
-#: ../comps-f9.xml.in.h:136
-#: ../comps-f10.xml.in.h:144
-#: ../comps-f11.xml.in.h:151
-#: ../comps-el4.xml.in.h:41
-#: ../comps-el5.xml.in.h:41
+#: ../comps-f7.xml.in.h:120 ../comps-f8.xml.in.h:129 ../comps-f9.xml.in.h:136
+#: ../comps-f10.xml.in.h:144 ../comps-f11.xml.in.h:155
+#: ../comps-el4.xml.in.h:41 ../comps-el5.xml.in.h:41
 msgid "Servers"
 msgstr "Servery"
 
-#: ../comps-f7.xml.in.h:121
-#: ../comps-f8.xml.in.h:130
-#: ../comps-f9.xml.in.h:137
-#: ../comps-f10.xml.in.h:145
-#: ../comps-f11.xml.in.h:152
-#: ../comps-el4.xml.in.h:42
-#: ../comps-el5.xml.in.h:42
-msgid "Simple window managers that aren't part of a larger desktop environment."
-msgstr "Jednoduchí správcovia okien, ktorí nie sú časťou väčších pracovných prostredí."
+#: ../comps-f7.xml.in.h:121 ../comps-f8.xml.in.h:130 ../comps-f9.xml.in.h:137
+#: ../comps-f10.xml.in.h:145 ../comps-f11.xml.in.h:156
+#: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:42
+msgid ""
+"Simple window managers that aren't part of a larger desktop environment."
+msgstr ""
+"Jednoduchí správcovia okien, ktorí nie sú časťou väčších pracovných "
+"prostredí."
 
-#: ../comps-f7.xml.in.h:122
-#: ../comps-f8.xml.in.h:131
-#: ../comps-f9.xml.in.h:138
-#: ../comps-f10.xml.in.h:147
-#: ../comps-f11.xml.in.h:154
+#: ../comps-f7.xml.in.h:122 ../comps-f8.xml.in.h:131 ../comps-f9.xml.in.h:138
+#: ../comps-f10.xml.in.h:147 ../comps-f11.xml.in.h:158
 msgid "Sinhala Support"
 msgstr "Podpora sinhala"
 
-#: ../comps-f7.xml.in.h:123
-#: ../comps-f8.xml.in.h:132
-#: ../comps-f9.xml.in.h:139
-#: ../comps-f10.xml.in.h:148
-#: ../comps-f11.xml.in.h:155
+#: ../comps-f7.xml.in.h:123 ../comps-f8.xml.in.h:132 ../comps-f9.xml.in.h:139
+#: ../comps-f10.xml.in.h:148 ../comps-f11.xml.in.h:159
 msgid "Slovak Support"
 msgstr "Slovenská podpora"
 
-#: ../comps-f7.xml.in.h:124
-#: ../comps-f8.xml.in.h:133
-#: ../comps-f9.xml.in.h:140
-#: ../comps-f10.xml.in.h:149
-#: ../comps-f11.xml.in.h:156
+#: ../comps-f7.xml.in.h:124 ../comps-f8.xml.in.h:133 ../comps-f9.xml.in.h:140
+#: ../comps-f10.xml.in.h:149 ../comps-f11.xml.in.h:160
 msgid "Slovenian Support"
 msgstr "Slovinská podpora"
 
-#: ../comps-f7.xml.in.h:125
-#: ../comps-f8.xml.in.h:134
-#: ../comps-f9.xml.in.h:141
-#: ../comps-f10.xml.in.h:150
-#: ../comps-f11.xml.in.h:157
+#: ../comps-f7.xml.in.h:125 ../comps-f8.xml.in.h:134 ../comps-f9.xml.in.h:141
+#: ../comps-f10.xml.in.h:150 ../comps-f11.xml.in.h:161
 msgid "Smallest possible installation"
 msgstr "Najmenšia možná inštalácia"
 
-#: ../comps-f7.xml.in.h:126
-#: ../comps-f8.xml.in.h:135
-#: ../comps-f9.xml.in.h:142
-#: ../comps-f10.xml.in.h:151
-#: ../comps-f11.xml.in.h:158
-#: ../comps-el4.xml.in.h:43
-#: ../comps-el5.xml.in.h:43
+#: ../comps-f7.xml.in.h:126 ../comps-f8.xml.in.h:135 ../comps-f9.xml.in.h:142
+#: ../comps-f10.xml.in.h:151 ../comps-f11.xml.in.h:162
+#: ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:43
 msgid "Software used for running network servers"
 msgstr "Softvér používaný na beh sieťových serverov"
 
-#: ../comps-f7.xml.in.h:127
-#: ../comps-f8.xml.in.h:136
-#: ../comps-f9.xml.in.h:143
-#: ../comps-f10.xml.in.h:152
-#: ../comps-f11.xml.in.h:159
+#: ../comps-f7.xml.in.h:127 ../comps-f8.xml.in.h:136 ../comps-f9.xml.in.h:143
+#: ../comps-f10.xml.in.h:152 ../comps-f11.xml.in.h:163
 msgid "Somali Support"
 msgstr "Somálska podpora"
 
-#: ../comps-f7.xml.in.h:128
-#: ../comps-f8.xml.in.h:137
-#: ../comps-f9.xml.in.h:144
-#: ../comps-f10.xml.in.h:153
-#: ../comps-f11.xml.in.h:160
-msgid "Sometimes called text editors, these are programs that allow you to create and edit text files. This includes Emacs and Vi."
-msgstr "Tieto programy, niekedy nazývané textové editory, vám umožnia vytvárať a upravovať súbory. Toto zahŕňa aj Emacs a Vi."
+#: ../comps-f7.xml.in.h:128 ../comps-f8.xml.in.h:137 ../comps-f9.xml.in.h:144
+#: ../comps-f10.xml.in.h:153 ../comps-f11.xml.in.h:164
+msgid ""
+"Sometimes called text editors, these are programs that allow you to create "
+"and edit text files. This includes Emacs and Vi."
+msgstr ""
+"Tieto programy, niekedy nazývané textové editory, vám umožnia vytvárať a "
+"upravovať súbory. Toto zahŕňa aj Emacs a Vi."
 
-#: ../comps-f7.xml.in.h:129
-#: ../comps-f8.xml.in.h:138
-#: ../comps-f9.xml.in.h:145
-#: ../comps-f10.xml.in.h:154
-#: ../comps-f11.xml.in.h:161
-#: ../comps-el4.xml.in.h:45
-#: ../comps-el5.xml.in.h:45
+#: ../comps-f7.xml.in.h:129 ../comps-f8.xml.in.h:138 ../comps-f9.xml.in.h:145
+#: ../comps-f10.xml.in.h:154 ../comps-f11.xml.in.h:165
+#: ../comps-el4.xml.in.h:45 ../comps-el5.xml.in.h:45
 msgid "Sound and Video"
 msgstr "Zvuk a video"
 
-#: ../comps-f7.xml.in.h:130
-#: ../comps-f8.xml.in.h:139
-#: ../comps-f9.xml.in.h:146
-#: ../comps-f10.xml.in.h:155
-#: ../comps-f11.xml.in.h:162
+#: ../comps-f7.xml.in.h:130 ../comps-f8.xml.in.h:139 ../comps-f9.xml.in.h:146
+#: ../comps-f10.xml.in.h:155 ../comps-f11.xml.in.h:166
 msgid "Southern Ndebele Support"
 msgstr "Podpora južného ndebele"
 
-#: ../comps-f7.xml.in.h:131
-#: ../comps-f8.xml.in.h:140
-#: ../comps-f9.xml.in.h:147
-#: ../comps-f10.xml.in.h:156
-#: ../comps-f11.xml.in.h:163
+#: ../comps-f7.xml.in.h:131 ../comps-f8.xml.in.h:140 ../comps-f9.xml.in.h:147
+#: ../comps-f10.xml.in.h:156 ../comps-f11.xml.in.h:167
 msgid "Southern Sotho Support"
 msgstr "Podpora južného sotho"
 
-#: ../comps-f7.xml.in.h:132
-#: ../comps-f8.xml.in.h:141
-#: ../comps-f9.xml.in.h:148
-#: ../comps-f10.xml.in.h:157
-#: ../comps-f11.xml.in.h:164
+#: ../comps-f7.xml.in.h:132 ../comps-f8.xml.in.h:141 ../comps-f9.xml.in.h:148
+#: ../comps-f10.xml.in.h:157 ../comps-f11.xml.in.h:168
 msgid "Spanish Support"
 msgstr "Španielska podpora"
 
-#: ../comps-f7.xml.in.h:133
-#: ../comps-f8.xml.in.h:142
-#: ../comps-f9.xml.in.h:149
-#: ../comps-f10.xml.in.h:159
-#: ../comps-f11.xml.in.h:166
+#: ../comps-f7.xml.in.h:133 ../comps-f8.xml.in.h:142 ../comps-f9.xml.in.h:149
+#: ../comps-f10.xml.in.h:159 ../comps-f11.xml.in.h:172
 #: ../comps-el4.xml.in.h:46
 msgid "Support for developing programs in the Java programming language."
 msgstr "Podpora pre vývoj programov v programovacom jazyku Java."
 
-#: ../comps-f7.xml.in.h:134
-#: ../comps-f8.xml.in.h:143
-#: ../comps-f9.xml.in.h:150
-#: ../comps-f10.xml.in.h:160
-#: ../comps-f11.xml.in.h:167
+#: ../comps-f7.xml.in.h:134 ../comps-f8.xml.in.h:143 ../comps-f9.xml.in.h:150
+#: ../comps-f10.xml.in.h:160 ../comps-f11.xml.in.h:174
 #: ../comps-el4.xml.in.h:47
 msgid "Support for running programs written in the Java programming language."
 msgstr "Podpora spúšťania programov napísaných v programovacom jazyku Java."
 
-#: ../comps-f7.xml.in.h:135
-#: ../comps-f8.xml.in.h:144
-#: ../comps-f9.xml.in.h:151
-#: ../comps-f10.xml.in.h:161
-#: ../comps-f11.xml.in.h:168
+#: ../comps-f7.xml.in.h:135 ../comps-f8.xml.in.h:144 ../comps-f9.xml.in.h:151
+#: ../comps-f10.xml.in.h:161 ../comps-f11.xml.in.h:175
 msgid "Swati Support"
 msgstr "Podpora swati"
 
-#: ../comps-f7.xml.in.h:136
-#: ../comps-f8.xml.in.h:145
-#: ../comps-f9.xml.in.h:152
-#: ../comps-f10.xml.in.h:162
-#: ../comps-f11.xml.in.h:169
+#: ../comps-f7.xml.in.h:136 ../comps-f8.xml.in.h:145 ../comps-f9.xml.in.h:152
+#: ../comps-f10.xml.in.h:162 ../comps-f11.xml.in.h:176
 msgid "Swedish Support"
 msgstr "Švédska podpora"
 
-#: ../comps-f7.xml.in.h:137
-#: ../comps-f8.xml.in.h:146
-#: ../comps-f9.xml.in.h:153
-#: ../comps-f10.xml.in.h:163
-#: ../comps-f11.xml.in.h:170
-#: ../comps-el4.xml.in.h:48
-#: ../comps-el5.xml.in.h:46
+#: ../comps-f7.xml.in.h:137 ../comps-f8.xml.in.h:146 ../comps-f9.xml.in.h:153
+#: ../comps-f10.xml.in.h:163 ../comps-f11.xml.in.h:177
+#: ../comps-el4.xml.in.h:48 ../comps-el5.xml.in.h:46
 msgid "System Tools"
 msgstr "Systémové nástroje"
 
-#: ../comps-f7.xml.in.h:138
-#: ../comps-f8.xml.in.h:147
-#: ../comps-f9.xml.in.h:154
-#: ../comps-f10.xml.in.h:164
-#: ../comps-f11.xml.in.h:171
+#: ../comps-f7.xml.in.h:138 ../comps-f8.xml.in.h:147 ../comps-f9.xml.in.h:154
+#: ../comps-f10.xml.in.h:164 ../comps-f11.xml.in.h:178
 msgid "Tagalog Support"
 msgstr "Podpora tagalog"
 
-#: ../comps-f7.xml.in.h:139
-#: ../comps-f8.xml.in.h:148
-#: ../comps-f9.xml.in.h:155
-#: ../comps-f10.xml.in.h:166
-#: ../comps-f11.xml.in.h:173
+#: ../comps-f7.xml.in.h:139 ../comps-f8.xml.in.h:148 ../comps-f9.xml.in.h:155
+#: ../comps-f10.xml.in.h:166 ../comps-f11.xml.in.h:180
 msgid "Tamil Support"
 msgstr "Tamilská podpora"
 
-#: ../comps-f7.xml.in.h:140
-#: ../comps-f8.xml.in.h:149
-#: ../comps-f9.xml.in.h:156
-#: ../comps-f10.xml.in.h:167
-#: ../comps-f11.xml.in.h:174
+#: ../comps-f7.xml.in.h:140 ../comps-f8.xml.in.h:149 ../comps-f9.xml.in.h:156
+#: ../comps-f10.xml.in.h:167 ../comps-f11.xml.in.h:181
 msgid "Telugu Support"
 msgstr "Podpora telugu"
 
-#: ../comps-f7.xml.in.h:141
-#: ../comps-f8.xml.in.h:150
-#: ../comps-f9.xml.in.h:157
-#: ../comps-f10.xml.in.h:168
-#: ../comps-f11.xml.in.h:175
-#: ../comps-el4.xml.in.h:49
-#: ../comps-el5.xml.in.h:47
+#: ../comps-f7.xml.in.h:141 ../comps-f8.xml.in.h:150 ../comps-f9.xml.in.h:157
+#: ../comps-f10.xml.in.h:168 ../comps-f11.xml.in.h:182
+#: ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:47
 msgid "Text-based Internet"
 msgstr "Textovo orientovaný internet"
 
-#: ../comps-f7.xml.in.h:142
-#: ../comps-f8.xml.in.h:151
-#: ../comps-f9.xml.in.h:158
-#: ../comps-f10.xml.in.h:169
-#: ../comps-f11.xml.in.h:176
+#: ../comps-f7.xml.in.h:142 ../comps-f8.xml.in.h:151 ../comps-f9.xml.in.h:158
+#: ../comps-f10.xml.in.h:169 ../comps-f11.xml.in.h:183
 msgid "Thai Support"
 msgstr "Thajská podpora"
 
@@ -1243,996 +813,972 @@ msgstr "Thajská podpora"
 msgid "The Eclipse Integrated Development Environment."
 msgstr "Integrované vývojové prostredie Eclipse"
 
-#: ../comps-f7.xml.in.h:144
-#: ../comps-f8.xml.in.h:152
-#: ../comps-f9.xml.in.h:159
-#: ../comps-f10.xml.in.h:170
-#: ../comps-f11.xml.in.h:177
-#: ../comps-el4.xml.in.h:51
-#: ../comps-el5.xml.in.h:49
+#: ../comps-f7.xml.in.h:144 ../comps-f8.xml.in.h:152 ../comps-f9.xml.in.h:159
+#: ../comps-f10.xml.in.h:170 ../comps-f11.xml.in.h:184
+#: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:49
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr "Tieto aplikácie obsahujú aj kancelárske balíky, PDF prehliadače a iné."
 
-#: ../comps-f7.xml.in.h:145
-#: ../comps-f8.xml.in.h:153
-#: ../comps-f9.xml.in.h:160
-#: ../comps-f10.xml.in.h:171
-#: ../comps-f11.xml.in.h:178
-msgid "The packages in this group are core libraries needed to develop applications."
-msgstr "Balíčky v tejto skupine sú základné knižnice potrebné pre vývoj aplikácií."
+#: ../comps-f7.xml.in.h:145 ../comps-f8.xml.in.h:153 ../comps-f9.xml.in.h:160
+#: ../comps-f10.xml.in.h:171 ../comps-f11.xml.in.h:185
+msgid ""
+"The packages in this group are core libraries needed to develop applications."
+msgstr ""
+"Balíčky v tejto skupine sú základné knižnice potrebné pre vývoj aplikácií."
 
-#: ../comps-f7.xml.in.h:146
-#: ../comps-f8.xml.in.h:154
-#: ../comps-f9.xml.in.h:161
-#: ../comps-f10.xml.in.h:172
-#: ../comps-f11.xml.in.h:179
-#: ../comps-el4.xml.in.h:52
-#: ../comps-el5.xml.in.h:50
+#: ../comps-f7.xml.in.h:146 ../comps-f8.xml.in.h:154 ../comps-f9.xml.in.h:161
+#: ../comps-f10.xml.in.h:172 ../comps-f11.xml.in.h:186
+#: ../comps-el4.xml.in.h:52 ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
-msgstr "Tieto balíčky vám umožnia nakonfigurovať poštový server IMAP alebo SMTP."
+msgstr ""
+"Tieto balíčky vám umožnia nakonfigurovať poštový server IMAP alebo SMTP."
 
-#: ../comps-f7.xml.in.h:147
-#: ../comps-f8.xml.in.h:155
-#: ../comps-f9.xml.in.h:162
-#: ../comps-f10.xml.in.h:173
-#: ../comps-f11.xml.in.h:180
-msgid "These packages allow you to develop applications for the X Window System."
+#: ../comps-f7.xml.in.h:147 ../comps-f8.xml.in.h:155 ../comps-f9.xml.in.h:162
+#: ../comps-f10.xml.in.h:173 ../comps-f11.xml.in.h:187
+msgid ""
+"These packages allow you to develop applications for the X Window System."
 msgstr "Tieto balíčky vám umožnia vyvíjať aplikácie pre systém X Window."
 
-#: ../comps-f7.xml.in.h:148
-#: ../comps-f8.xml.in.h:156
-#: ../comps-f9.xml.in.h:163
-#: ../comps-f10.xml.in.h:174
-#: ../comps-f11.xml.in.h:181
-#: ../comps-el4.xml.in.h:53
-#: ../comps-el5.xml.in.h:51
-msgid "These packages are helpful when developing web applications or web pages."
+#: ../comps-f7.xml.in.h:148 ../comps-f8.xml.in.h:156 ../comps-f9.xml.in.h:163
+#: ../comps-f10.xml.in.h:174 ../comps-f11.xml.in.h:188
+#: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:51
+msgid ""
+"These packages are helpful when developing web applications or web pages."
 msgstr "Tieto balíčky vám umožnia vyvíjať webové aplikácie alebo web stránky."
 
-#: ../comps-f7.xml.in.h:149
-#: ../comps-f8.xml.in.h:157
-#: ../comps-f9.xml.in.h:164
-#: ../comps-f10.xml.in.h:175
-#: ../comps-f11.xml.in.h:182
-msgid "These packages include network-based servers such as DHCP, Kerberos and NIS."
+#: ../comps-f7.xml.in.h:149 ../comps-f8.xml.in.h:157 ../comps-f9.xml.in.h:164
+#: ../comps-f10.xml.in.h:175 ../comps-f11.xml.in.h:189
+msgid ""
+"These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr "Tieto balíčky obsahujú sieťové servery, ako sú DHCP, Kerberos a NIS."
 
-#: ../comps-f7.xml.in.h:150
-#: ../comps-f8.xml.in.h:158
-#: ../comps-f9.xml.in.h:165
-#: ../comps-f10.xml.in.h:176
-#: ../comps-f11.xml.in.h:183
-msgid "These packages include servers for old network protocols such as rsh and telnet."
-msgstr "Tieto balíčky obsahujú servre pre zastaralé sieťové protokoly, ako sú rsh a telnet."
+#: ../comps-f7.xml.in.h:150 ../comps-f8.xml.in.h:158 ../comps-f9.xml.in.h:165
+#: ../comps-f10.xml.in.h:176 ../comps-f11.xml.in.h:190
+msgid ""
+"These packages include servers for old network protocols such as rsh and "
+"telnet."
+msgstr ""
+"Tieto balíčky obsahujú servery pre zastaralé sieťové protokoly, ako sú rsh a "
+"telnet."
 
-#: ../comps-f7.xml.in.h:151
-#: ../comps-f8.xml.in.h:159
-#: ../comps-f9.xml.in.h:166
-#: ../comps-f10.xml.in.h:177
-#: ../comps-f11.xml.in.h:184
+#: ../comps-f7.xml.in.h:151 ../comps-f8.xml.in.h:159 ../comps-f9.xml.in.h:166
+#: ../comps-f10.xml.in.h:177 ../comps-f11.xml.in.h:191
 msgid "These packages provide a virtualization environment."
 msgstr "Tieto balíčky poskytujú prostredie virtualizácie."
 
-#: ../comps-f7.xml.in.h:152
-#: ../comps-f8.xml.in.h:160
-#: ../comps-f9.xml.in.h:167
-#: ../comps-f10.xml.in.h:178
-#: ../comps-f11.xml.in.h:185
+#: ../comps-f7.xml.in.h:152 ../comps-f8.xml.in.h:160 ../comps-f9.xml.in.h:167
+#: ../comps-f10.xml.in.h:178 ../comps-f11.xml.in.h:192
 msgid "These packages provide compatibility with previous releases."
-msgstr "Tieto balíčky poskytujú podporu kompatibility s predchádzajúcimi vydaniami."
+msgstr ""
+"Tieto balíčky poskytujú podporu kompatibility s predchádzajúcimi vydaniami."
 
-#: ../comps-f7.xml.in.h:153
-#: ../comps-f8.xml.in.h:161
-#: ../comps-f9.xml.in.h:168
-#: ../comps-f10.xml.in.h:179
-#: ../comps-f11.xml.in.h:186
-msgid "These packages provide support for various locales including fonts and input methods."
-msgstr "Tieto balíčky poskytujú podporu pre rôzne jazykové mutácie, vrátane písiem a metód vstupu."
+#: ../comps-f7.xml.in.h:153 ../comps-f8.xml.in.h:161 ../comps-f9.xml.in.h:168
+#: ../comps-f10.xml.in.h:179 ../comps-f11.xml.in.h:193
+msgid ""
+"These packages provide support for various locales including fonts and input "
+"methods."
+msgstr ""
+"Tieto balíčky poskytujú podporu pre rôzne jazykové mutácie, vrátane písiem a "
+"metód vstupu."
 
-#: ../comps-f7.xml.in.h:154
-#: ../comps-f8.xml.in.h:162
-#: ../comps-f9.xml.in.h:169
-#: ../comps-f10.xml.in.h:180
-#: ../comps-f11.xml.in.h:187
-msgid "These tools allow you to create documents in the DocBook format and convert them into HTML, PDF, Postscript, and text."
-msgstr "Tieto nástroje vám umožnia vytvárať dokumenty vo formáte DocBook a konvertovať ich do HTML, PDF, Postscriptu a textu."
+#: ../comps-f7.xml.in.h:154 ../comps-f8.xml.in.h:162 ../comps-f9.xml.in.h:169
+#: ../comps-f10.xml.in.h:180 ../comps-f11.xml.in.h:194
+msgid ""
+"These tools allow you to create documents in the DocBook format and convert "
+"them into HTML, PDF, Postscript, and text."
+msgstr ""
+"Tieto nástroje vám umožnia vytvárať dokumenty vo formáte DocBook a "
+"konvertovať ich do HTML, PDF, Postscriptu a textu."
 
-#: ../comps-f7.xml.in.h:155
-#: ../comps-f8.xml.in.h:163
-#: ../comps-f9.xml.in.h:170
-#: ../comps-f10.xml.in.h:181
-#: ../comps-f11.xml.in.h:188
-#: ../comps-el4.xml.in.h:55
-#: ../comps-el5.xml.in.h:53
+#: ../comps-f7.xml.in.h:155 ../comps-f8.xml.in.h:163 ../comps-f9.xml.in.h:170
+#: ../comps-f10.xml.in.h:181 ../comps-f11.xml.in.h:195
+#: ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:53
 msgid "These tools allow you to run a Web server on the system."
-msgstr "Tieto nástroje vám umožnia spustiť na počítačí WWW server"
+msgstr "Tieto nástroje vám umožnia spustiť na počítači WWW server"
 
-#: ../comps-f7.xml.in.h:156
-#: ../comps-f8.xml.in.h:164
-#: ../comps-f9.xml.in.h:171
-#: ../comps-f10.xml.in.h:182
-#: ../comps-f11.xml.in.h:189
-#: ../comps-el4.xml.in.h:56
-#: ../comps-el5.xml.in.h:54
+#: ../comps-f7.xml.in.h:156 ../comps-f8.xml.in.h:164 ../comps-f9.xml.in.h:171
+#: ../comps-f10.xml.in.h:182 ../comps-f11.xml.in.h:196
+#: ../comps-el4.xml.in.h:56 ../comps-el5.xml.in.h:54
 msgid "These tools allow you to run an FTP server on the system."
-msgstr "Tieto nástroje vám umožnia spustiť na počítačí FTP server."
+msgstr "Tieto nástroje vám umožnia spustiť na počítači FTP server."
 
-#: ../comps-f7.xml.in.h:157
-#: ../comps-f8.xml.in.h:165
-#: ../comps-f9.xml.in.h:172
-#: ../comps-f10.xml.in.h:183
-#: ../comps-f11.xml.in.h:190
-#: ../comps-el4.xml.in.h:57
-#: ../comps-el5.xml.in.h:55
-msgid "These tools include core development tools such as automake, gcc, perl, python, and debuggers."
-msgstr "Tieto nástroje obsahujú základné vývojové nástroje ako sú automake, gcc, perl, python a ladiace nástroje."
+#: ../comps-f7.xml.in.h:157 ../comps-f8.xml.in.h:165 ../comps-f9.xml.in.h:172
+#: ../comps-f10.xml.in.h:183 ../comps-f11.xml.in.h:197
+#: ../comps-el4.xml.in.h:57 ../comps-el5.xml.in.h:55
+msgid ""
+"These tools include core development tools such as automake, gcc, perl, "
+"python, and debuggers."
+msgstr ""
+"Tieto nástroje obsahujú základné vývojové nástroje ako sú automake, gcc, "
+"perl, python a ladiace nástroje."
 
-#: ../comps-f7.xml.in.h:158
-#: ../comps-f8.xml.in.h:166
-#: ../comps-f9.xml.in.h:173
-#: ../comps-f10.xml.in.h:184
-#: ../comps-f11.xml.in.h:191
-#: ../comps-el4.xml.in.h:58
-#: ../comps-el5.xml.in.h:56
+#: ../comps-f7.xml.in.h:158 ../comps-f8.xml.in.h:166 ../comps-f9.xml.in.h:173
+#: ../comps-f10.xml.in.h:184 ../comps-f11.xml.in.h:198
+#: ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:56
 msgid "This group allows you to configure the system as a news server."
-msgstr "Táto skupina vám umožní nakonfigurovať počítač ako server diskusných skupín."
+msgstr ""
+"Táto skupina vám umožní nakonfigurovať počítač ako server diskusných skupín."
 
-#: ../comps-f7.xml.in.h:159
-#: ../comps-f8.xml.in.h:167
-#: ../comps-f9.xml.in.h:174
-#: ../comps-f10.xml.in.h:185
-#: ../comps-f11.xml.in.h:192
+#: ../comps-f7.xml.in.h:159 ../comps-f8.xml.in.h:167 ../comps-f9.xml.in.h:174
+#: ../comps-f10.xml.in.h:185 ../comps-f11.xml.in.h:199
 msgid "This group contains all of Red Hat's custom server configuration tools."
-msgstr "Táto skupina obsahuje všetky vlastné konfiguračné nástroje servera firmy Red Hat."
+msgstr ""
+"Táto skupina obsahuje všetky vlastné konfiguračné nástroje servera firmy Red "
+"Hat."
 
-#: ../comps-f7.xml.in.h:160
-#: ../comps-f8.xml.in.h:168
-#: ../comps-f9.xml.in.h:175
-#: ../comps-f10.xml.in.h:186
-#: ../comps-f11.xml.in.h:193
-msgid "This group includes a minimal set of packages. Useful for creating small router/firewall boxes, for example."
-msgstr "Táto skupina zahŕňa najmenšiu množinu balíčkov. Je to použiteľné napríklad na vytvorenie malých smerovačov/firewallov."
+#: ../comps-f7.xml.in.h:160 ../comps-f8.xml.in.h:168 ../comps-f9.xml.in.h:175
+#: ../comps-f10.xml.in.h:186 ../comps-f11.xml.in.h:200
+msgid ""
+"This group includes a minimal set of packages. Useful for creating small "
+"router/firewall boxes, for example."
+msgstr ""
+"Táto skupina zahŕňa najmenšiu množinu balíčkov. Je to použiteľné napríklad "
+"na vytvorenie malých smerovačov/firewallov."
 
-#: ../comps-f7.xml.in.h:161
-#: ../comps-f8.xml.in.h:169
-#: ../comps-f9.xml.in.h:176
-#: ../comps-f10.xml.in.h:187
-#: ../comps-f11.xml.in.h:194
-#: ../comps-el4.xml.in.h:59
-#: ../comps-el5.xml.in.h:57
+#: ../comps-f7.xml.in.h:161 ../comps-f8.xml.in.h:169 ../comps-f9.xml.in.h:176
+#: ../comps-f10.xml.in.h:187 ../comps-f11.xml.in.h:201
+#: ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:57
 msgid "This group includes graphical email, Web, and chat clients."
-msgstr "Táto skupina zahŕňa grafických klientov pre e-mail, WWW a rozhovory (chat)."
+msgstr ""
+"Táto skupina zahŕňa grafických klientov pre e-mail, WWW a rozhovory (chat)."
 
-#: ../comps-f7.xml.in.h:162
-#: ../comps-f8.xml.in.h:170
-#: ../comps-f9.xml.in.h:177
-#: ../comps-f10.xml.in.h:188
-#: ../comps-f11.xml.in.h:195
-#: ../comps-el4.xml.in.h:60
-#: ../comps-el5.xml.in.h:58
-msgid "This group includes packages for performing mathematical and scientific computations and plotting, as well as unit conversion."
-msgstr "Táto skupina obsahuje balíčky pre matematické a vedecké výpočty a kreslenie, spolu s konverziou jednotiek."
+#: ../comps-f7.xml.in.h:162 ../comps-f8.xml.in.h:170 ../comps-f9.xml.in.h:177
+#: ../comps-f10.xml.in.h:188 ../comps-f11.xml.in.h:202
+#: ../comps-el4.xml.in.h:60 ../comps-el5.xml.in.h:58
+msgid ""
+"This group includes packages for performing mathematical and scientific "
+"computations and plotting, as well as unit conversion."
+msgstr ""
+"Táto skupina obsahuje balíčky pre matematické a vedecké výpočty a kreslenie, "
+"spolu s konverziou jednotiek."
 
-#: ../comps-f7.xml.in.h:163
-#: ../comps-f8.xml.in.h:171
-#: ../comps-f9.xml.in.h:178
-#: ../comps-f10.xml.in.h:189
-#: ../comps-f11.xml.in.h:196
-#: ../comps-el4.xml.in.h:61
-#: ../comps-el5.xml.in.h:59
+#: ../comps-f7.xml.in.h:163 ../comps-f8.xml.in.h:171 ../comps-f9.xml.in.h:178
+#: ../comps-f10.xml.in.h:189 ../comps-f11.xml.in.h:203
+#: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:59
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr "Táto skupina obsahuje balíčky, ktoré vám pomôžu pri skenovaní obrázkov a pri práci s nimi."
+msgstr ""
+"Táto skupina obsahuje balíčky, ktoré vám pomôžu pri skenovaní obrázkov a pri "
+"práci s nimi."
 
-#: ../comps-f7.xml.in.h:164
-#: ../comps-f8.xml.in.h:172
-#: ../comps-f9.xml.in.h:179
-#: ../comps-f10.xml.in.h:190
-#: ../comps-f11.xml.in.h:197
-#: ../comps-el4.xml.in.h:62
-#: ../comps-el5.xml.in.h:60
-msgid "This group includes text-based email, Web, and chat clients. These applications do not require the X Window System."
-msgstr "Táto skupina obsahuje textových klientov pre e-mail, WWW a rozhovory (chat). Tieto aplikácie nepotrebujú systém X Window."
+#: ../comps-f7.xml.in.h:164 ../comps-f8.xml.in.h:172 ../comps-f9.xml.in.h:179
+#: ../comps-f10.xml.in.h:190 ../comps-f11.xml.in.h:204
+#: ../comps-el4.xml.in.h:62 ../comps-el5.xml.in.h:60
+msgid ""
+"This group includes text-based email, Web, and chat clients. These "
+"applications do not require the X Window System."
+msgstr ""
+"Táto skupina obsahuje textových klientov pre e-mail, WWW a rozhovory (chat). "
+"Tieto aplikácie nepotrebujú systém X Window."
 
-#: ../comps-f7.xml.in.h:165
-#: ../comps-f8.xml.in.h:173
-#: ../comps-f9.xml.in.h:180
-#: ../comps-f10.xml.in.h:191
-#: ../comps-f11.xml.in.h:198
-#: ../comps-el4.xml.in.h:63
-#: ../comps-el5.xml.in.h:61
-msgid "This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware."
-msgstr "Táto skupina je kolekciou grafických administrátorských nástrojov pre počítač, napr. správa používateľských účtov a konfigurácia hardvéru."
+#: ../comps-f7.xml.in.h:165 ../comps-f8.xml.in.h:173 ../comps-f9.xml.in.h:180
+#: ../comps-f10.xml.in.h:191 ../comps-f11.xml.in.h:205
+#: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:61
+msgid ""
+"This group is a collection of graphical administration tools for the system, "
+"such as for managing user accounts and configuring system hardware."
+msgstr ""
+"Táto skupina je kolekciou grafických administrátorských nástrojov pre "
+"počítač, napr. správa používateľských účtov a konfigurácia hardvéru."
 
-#: ../comps-f7.xml.in.h:166
-#: ../comps-f8.xml.in.h:174
-#: ../comps-f9.xml.in.h:181
-#: ../comps-f10.xml.in.h:192
-#: ../comps-f11.xml.in.h:199
-#: ../comps-el4.xml.in.h:66
-#: ../comps-el5.xml.in.h:64
-msgid "This group is a collection of tools and resources of Armenian environments."
+#: ../comps-f7.xml.in.h:166 ../comps-f8.xml.in.h:174 ../comps-f9.xml.in.h:181
+#: ../comps-f10.xml.in.h:192 ../comps-f11.xml.in.h:206
+#: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:64
+msgid ""
+"This group is a collection of tools and resources of Armenian environments."
 msgstr "Táto skupina je kolekciou nástrojov a zdrojov arménskych prostredí."
 
-#: ../comps-f7.xml.in.h:167
-#: ../comps-f8.xml.in.h:175
-#: ../comps-f9.xml.in.h:182
-#: ../comps-f10.xml.in.h:193
-#: ../comps-f11.xml.in.h:200
-#: ../comps-el4.xml.in.h:69
-#: ../comps-el5.xml.in.h:68
-msgid "This group is a collection of tools for various hardware specific utilities."
-msgstr "Táto skupina je kolekciou nástrojov pre rôzne hardvérovo špecifické pomocné programy."
+#: ../comps-f7.xml.in.h:167 ../comps-f8.xml.in.h:175 ../comps-f9.xml.in.h:182
+#: ../comps-f10.xml.in.h:193 ../comps-f11.xml.in.h:207
+#: ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:68
+msgid ""
+"This group is a collection of tools for various hardware specific utilities."
+msgstr ""
+"Táto skupina je kolekciou nástrojov pre rôzne hardvérovo špecifické pomocné "
+"programy."
 
-#: ../comps-f7.xml.in.h:168
-#: ../comps-f8.xml.in.h:176
-#: ../comps-f9.xml.in.h:183
-#: ../comps-f10.xml.in.h:194
-#: ../comps-f11.xml.in.h:202
-#: ../comps-el4.xml.in.h:70
-#: ../comps-el5.xml.in.h:69
-msgid "This group is a collection of various tools for the system, such as the client for connecting to SMB shares and tools to monitor network traffic."
-msgstr "Táto skupina je kolekciou rôznych nástrojov pre počítač, ako je napr. klient pre pripojenie k zdieľaným položkám SMB a nástroje na monitorovanie sieťovej prevádzky."
+#: ../comps-f7.xml.in.h:168 ../comps-f8.xml.in.h:176 ../comps-f9.xml.in.h:183
+#: ../comps-f10.xml.in.h:194 ../comps-f11.xml.in.h:209
+#: ../comps-el4.xml.in.h:70 ../comps-el5.xml.in.h:69
+msgid ""
+"This group is a collection of various tools for the system, such as the "
+"client for connecting to SMB shares and tools to monitor network traffic."
+msgstr ""
+"Táto skupina je kolekciou rôznych nástrojov pre počítač, ako je napr. klient "
+"pre pripojenie k zdieľaným položkám SMB a nástroje na monitorovanie sieťovej "
+"prevádzky."
 
-#: ../comps-f7.xml.in.h:169
-#: ../comps-f8.xml.in.h:177
-#: ../comps-f9.xml.in.h:184
-#: ../comps-f10.xml.in.h:195
-#: ../comps-f11.xml.in.h:203
-msgid "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr "Táto skupina balíčkov vám umožní spustiť DNS menný server (BIND) na počítači."
+#: ../comps-f7.xml.in.h:169 ../comps-f8.xml.in.h:177 ../comps-f9.xml.in.h:184
+#: ../comps-f10.xml.in.h:195 ../comps-f11.xml.in.h:210
+msgid ""
+"This package group allows you to run a DNS name server (BIND) on the system."
+msgstr ""
+"Táto skupina balíčkov vám umožní spustiť DNS menný server (BIND) na počítači."
 
-#: ../comps-f7.xml.in.h:170
-#: ../comps-f8.xml.in.h:178
-#: ../comps-f9.xml.in.h:185
-#: ../comps-f10.xml.in.h:196
-#: ../comps-f11.xml.in.h:204
-msgid "This package group allows you to share files between Linux and MS Windows(tm) systems."
-msgstr "Táto skupina balíčkov vám umožní zdieľať súbory medzi systémami Linux a MS Windows (tm)."
+#: ../comps-f7.xml.in.h:170 ../comps-f8.xml.in.h:178 ../comps-f9.xml.in.h:185
+#: ../comps-f10.xml.in.h:196 ../comps-f11.xml.in.h:211
+msgid ""
+"This package group allows you to share files between Linux and MS Windows"
+"(tm) systems."
+msgstr ""
+"Táto skupina balíčkov vám umožní zdieľať súbory medzi systémami Linux a MS "
+"Windows (tm)."
 
-#: ../comps-f7.xml.in.h:171
-#: ../comps-f8.xml.in.h:179
-#: ../comps-f9.xml.in.h:186
-#: ../comps-f10.xml.in.h:197
-#: ../comps-f11.xml.in.h:205
+#: ../comps-f7.xml.in.h:171 ../comps-f8.xml.in.h:179 ../comps-f9.xml.in.h:186
+#: ../comps-f10.xml.in.h:197 ../comps-f11.xml.in.h:212
 msgid "This package group contains packages useful for use with MySQL."
-msgstr "Táto skupina balíčkov obsahuje balíčky, ktoré sú užitočné na použitie s MySQL."
+msgstr ""
+"Táto skupina balíčkov obsahuje balíčky, ktoré sú užitočné na použitie s "
+"MySQL."
 
-#: ../comps-f7.xml.in.h:172
-#: ../comps-f8.xml.in.h:180
-#: ../comps-f9.xml.in.h:187
-#: ../comps-f10.xml.in.h:198
-#: ../comps-f11.xml.in.h:206
+#: ../comps-f7.xml.in.h:172 ../comps-f8.xml.in.h:180 ../comps-f9.xml.in.h:187
+#: ../comps-f10.xml.in.h:198 ../comps-f11.xml.in.h:213
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr "Táto skupina balíčkov obsahuje balíčky, ktoré sú užitočné na použitie s Postgresql."
+msgstr ""
+"Táto skupina balíčkov obsahuje balíčky, ktoré sú užitočné na použitie s "
+"Postgresql."
 
-#: ../comps-f7.xml.in.h:173
-#: ../comps-f8.xml.in.h:181
-#: ../comps-f9.xml.in.h:188
-#: ../comps-f10.xml.in.h:199
-#: ../comps-f11.xml.in.h:207
+#: ../comps-f7.xml.in.h:173 ../comps-f8.xml.in.h:181 ../comps-f9.xml.in.h:188
+#: ../comps-f10.xml.in.h:199 ../comps-f11.xml.in.h:214
 msgid "Tibetan Support"
 msgstr "Tibetská podpora"
 
-#: ../comps-f7.xml.in.h:174
-#: ../comps-f8.xml.in.h:182
-#: ../comps-f9.xml.in.h:189
-#: ../comps-f10.xml.in.h:200
-#: ../comps-f11.xml.in.h:208
+#: ../comps-f7.xml.in.h:174 ../comps-f8.xml.in.h:182 ../comps-f9.xml.in.h:189
+#: ../comps-f10.xml.in.h:200 ../comps-f11.xml.in.h:215
 msgid "Tonga Support"
 msgstr "Podpora tonga"
 
-#: ../comps-f7.xml.in.h:175
-#: ../comps-f8.xml.in.h:183
-#: ../comps-f9.xml.in.h:190
-#: ../comps-f10.xml.in.h:201
-#: ../comps-f11.xml.in.h:209
-#: ../comps-el4.xml.in.h:71
-#: ../comps-el5.xml.in.h:70
+#: ../comps-f7.xml.in.h:175 ../comps-f8.xml.in.h:183 ../comps-f9.xml.in.h:190
+#: ../comps-f10.xml.in.h:201 ../comps-f11.xml.in.h:216
+#: ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:70
 msgid "Tools and Utilities needed by a Fedora Packager"
 msgstr "Nástroje vyžadované Fedora Balíčkovačom"
 
-#: ../comps-f7.xml.in.h:176
-#: ../comps-f8.xml.in.h:184
-#: ../comps-f9.xml.in.h:191
-#: ../comps-f10.xml.in.h:202
-#: ../comps-f11.xml.in.h:210
+#: ../comps-f7.xml.in.h:176 ../comps-f8.xml.in.h:184 ../comps-f9.xml.in.h:191
+#: ../comps-f10.xml.in.h:202 ../comps-f11.xml.in.h:217
 msgid "Tsonga Support"
 msgstr "Podpora tsonga"
 
-#: ../comps-f7.xml.in.h:177
-#: ../comps-f8.xml.in.h:185
-#: ../comps-f9.xml.in.h:192
-#: ../comps-f10.xml.in.h:203
-#: ../comps-f11.xml.in.h:211
+#: ../comps-f7.xml.in.h:177 ../comps-f8.xml.in.h:185 ../comps-f9.xml.in.h:192
+#: ../comps-f10.xml.in.h:203 ../comps-f11.xml.in.h:218
 msgid "Tswana Support"
 msgstr "Podpora tswana"
 
-#: ../comps-f7.xml.in.h:178
-#: ../comps-f8.xml.in.h:186
-#: ../comps-f9.xml.in.h:193
-#: ../comps-f10.xml.in.h:204
-#: ../comps-f11.xml.in.h:212
+#: ../comps-f7.xml.in.h:178 ../comps-f8.xml.in.h:186 ../comps-f9.xml.in.h:193
+#: ../comps-f10.xml.in.h:204 ../comps-f11.xml.in.h:219
 msgid "Turkish Support"
 msgstr "Turecká podpora"
 
-#: ../comps-f7.xml.in.h:179
-#: ../comps-f8.xml.in.h:187
-#: ../comps-f9.xml.in.h:194
-#: ../comps-f10.xml.in.h:205
-#: ../comps-f11.xml.in.h:214
+#: ../comps-f7.xml.in.h:179 ../comps-f8.xml.in.h:187 ../comps-f9.xml.in.h:194
+#: ../comps-f10.xml.in.h:205 ../comps-f11.xml.in.h:221
 msgid "Ukrainian Support"
 msgstr "Ukrajinská podpora"
 
-#: ../comps-f7.xml.in.h:180
-#: ../comps-f8.xml.in.h:188
-#: ../comps-f9.xml.in.h:195
-#: ../comps-f10.xml.in.h:206
-#: ../comps-f11.xml.in.h:216
+#: ../comps-f7.xml.in.h:180 ../comps-f8.xml.in.h:188 ../comps-f9.xml.in.h:195
+#: ../comps-f10.xml.in.h:206 ../comps-f11.xml.in.h:223
 msgid "Urdu Support"
 msgstr "Podpora urdu"
 
-#: ../comps-f7.xml.in.h:181
-#: ../comps-f8.xml.in.h:189
-#: ../comps-f9.xml.in.h:196
-#: ../comps-f10.xml.in.h:208
-#: ../comps-f11.xml.in.h:218
-#: ../comps-el4.xml.in.h:72
-#: ../comps-el5.xml.in.h:71
+#: ../comps-f7.xml.in.h:181 ../comps-f8.xml.in.h:189 ../comps-f9.xml.in.h:196
+#: ../comps-f10.xml.in.h:208 ../comps-f11.xml.in.h:225
+#: ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:71
 msgid "Various core pieces of the system."
 msgstr "Rôzne základné časti systému."
 
-#: ../comps-f7.xml.in.h:182
-#: ../comps-f8.xml.in.h:190
-#: ../comps-f9.xml.in.h:197
-#: ../comps-f10.xml.in.h:209
-#: ../comps-f11.xml.in.h:219
+#: ../comps-f7.xml.in.h:182 ../comps-f8.xml.in.h:190 ../comps-f9.xml.in.h:197
+#: ../comps-f10.xml.in.h:209 ../comps-f11.xml.in.h:226
 #: ../comps-el5.xml.in.h:72
 msgid "Various ways to relax and spend your free time."
 msgstr "Rôzne spôsoby ako oddychovať a tráviť voľný čas."
 
-#: ../comps-f7.xml.in.h:183
-#: ../comps-f8.xml.in.h:191
-#: ../comps-f9.xml.in.h:198
-#: ../comps-f10.xml.in.h:210
-#: ../comps-f11.xml.in.h:220
+#: ../comps-f7.xml.in.h:183 ../comps-f8.xml.in.h:191 ../comps-f9.xml.in.h:198
+#: ../comps-f10.xml.in.h:210 ../comps-f11.xml.in.h:227
 msgid "Venda Support"
 msgstr "Podpora venda"
 
-#: ../comps-f7.xml.in.h:184
-#: ../comps-f8.xml.in.h:192
-#: ../comps-f9.xml.in.h:199
-#: ../comps-f10.xml.in.h:211
-#: ../comps-f11.xml.in.h:221
+#: ../comps-f7.xml.in.h:184 ../comps-f8.xml.in.h:192 ../comps-f9.xml.in.h:199
+#: ../comps-f10.xml.in.h:211 ../comps-f11.xml.in.h:228
 msgid "Vietnamese Support"
 msgstr "Vietnamská podpora"
 
-#: ../comps-f7.xml.in.h:185
-#: ../comps-f8.xml.in.h:193
-#: ../comps-f9.xml.in.h:200
-#: ../comps-f10.xml.in.h:212
-#: ../comps-f11.xml.in.h:222
+#: ../comps-f7.xml.in.h:185 ../comps-f8.xml.in.h:193 ../comps-f9.xml.in.h:200
+#: ../comps-f10.xml.in.h:212 ../comps-f11.xml.in.h:229
 msgid "Virtualization"
 msgstr "Virtualizácia"
 
-#: ../comps-f7.xml.in.h:186
-#: ../comps-f8.xml.in.h:194
-#: ../comps-f9.xml.in.h:202
-#: ../comps-f10.xml.in.h:214
-#: ../comps-f11.xml.in.h:224
-#: ../comps-el4.xml.in.h:73
-#: ../comps-el5.xml.in.h:73
+#: ../comps-f7.xml.in.h:186 ../comps-f8.xml.in.h:194 ../comps-f9.xml.in.h:202
+#: ../comps-f10.xml.in.h:214 ../comps-f11.xml.in.h:231
+#: ../comps-el4.xml.in.h:73 ../comps-el5.xml.in.h:73
 msgid "Web Development"
 msgstr "Vývoj webu"
 
-#: ../comps-f7.xml.in.h:187
-#: ../comps-f8.xml.in.h:195
-#: ../comps-f9.xml.in.h:203
-#: ../comps-f10.xml.in.h:215
-#: ../comps-f11.xml.in.h:225
-#: ../comps-el4.xml.in.h:74
-#: ../comps-el5.xml.in.h:74
+#: ../comps-f7.xml.in.h:187 ../comps-f8.xml.in.h:195 ../comps-f9.xml.in.h:203
+#: ../comps-f10.xml.in.h:215 ../comps-f11.xml.in.h:232
+#: ../comps-el4.xml.in.h:74 ../comps-el5.xml.in.h:74
 msgid "Web Server"
 msgstr "WWW server"
 
-#: ../comps-f7.xml.in.h:188
-#: ../comps-f8.xml.in.h:196
-#: ../comps-f9.xml.in.h:204
-#: ../comps-f10.xml.in.h:216
-#: ../comps-f11.xml.in.h:226
+#: ../comps-f7.xml.in.h:188 ../comps-f8.xml.in.h:196 ../comps-f9.xml.in.h:204
+#: ../comps-f10.xml.in.h:216 ../comps-f11.xml.in.h:233
 msgid "Welsh Support"
 msgstr "Waleská podpora"
 
-#: ../comps-f7.xml.in.h:189
-#: ../comps-f8.xml.in.h:197
-#: ../comps-f9.xml.in.h:205
-#: ../comps-f10.xml.in.h:217
-#: ../comps-f11.xml.in.h:227
-#: ../comps-el4.xml.in.h:75
-#: ../comps-el5.xml.in.h:75
+#: ../comps-f7.xml.in.h:189 ../comps-f8.xml.in.h:197 ../comps-f9.xml.in.h:205
+#: ../comps-f10.xml.in.h:217 ../comps-f11.xml.in.h:234
+#: ../comps-el4.xml.in.h:75 ../comps-el5.xml.in.h:75
 msgid "Window Managers"
 msgstr "Správcovia okien"
 
-#: ../comps-f7.xml.in.h:190
-#: ../comps-f8.xml.in.h:198
-#: ../comps-f9.xml.in.h:206
-#: ../comps-f10.xml.in.h:218
-#: ../comps-f11.xml.in.h:228
+#: ../comps-f7.xml.in.h:190 ../comps-f8.xml.in.h:198 ../comps-f9.xml.in.h:206
+#: ../comps-f10.xml.in.h:218 ../comps-f11.xml.in.h:235
 msgid "Windows File Server"
 msgstr "Súborový server Windows"
 
-#: ../comps-f7.xml.in.h:191
-#: ../comps-f8.xml.in.h:199
-#: ../comps-f9.xml.in.h:207
-#: ../comps-f10.xml.in.h:219
-#: ../comps-f11.xml.in.h:229
+#: ../comps-f7.xml.in.h:191 ../comps-f8.xml.in.h:199 ../comps-f9.xml.in.h:207
+#: ../comps-f10.xml.in.h:219 ../comps-f11.xml.in.h:236
 msgid "X Software Development"
 msgstr "Softvérový vývoj X"
 
-#: ../comps-f7.xml.in.h:192
-#: ../comps-f8.xml.in.h:200
-#: ../comps-f9.xml.in.h:208
-#: ../comps-f10.xml.in.h:220
-#: ../comps-f11.xml.in.h:230
-#: ../comps-el4.xml.in.h:76
-#: ../comps-el5.xml.in.h:76
+#: ../comps-f7.xml.in.h:192 ../comps-f8.xml.in.h:200 ../comps-f9.xml.in.h:208
+#: ../comps-f10.xml.in.h:220 ../comps-f11.xml.in.h:237
+#: ../comps-el4.xml.in.h:76 ../comps-el5.xml.in.h:76
 msgid "X Window System"
 msgstr "X Window systém"
 
-#: ../comps-f7.xml.in.h:193
-#: ../comps-f8.xml.in.h:201
-#: ../comps-f9.xml.in.h:209
-#: ../comps-f10.xml.in.h:221
-#: ../comps-f11.xml.in.h:231
+#: ../comps-f7.xml.in.h:193 ../comps-f8.xml.in.h:201 ../comps-f9.xml.in.h:209
+#: ../comps-f10.xml.in.h:221 ../comps-f11.xml.in.h:238
 msgid "XFCE"
 msgstr "XFCE"
 
-#: ../comps-f7.xml.in.h:194
-#: ../comps-f8.xml.in.h:202
-#: ../comps-f9.xml.in.h:210
-#: ../comps-f10.xml.in.h:222
-#: ../comps-f11.xml.in.h:232
+#: ../comps-f7.xml.in.h:194 ../comps-f8.xml.in.h:202 ../comps-f9.xml.in.h:210
+#: ../comps-f10.xml.in.h:222 ../comps-f11.xml.in.h:239
 msgid "XFCE Software Development"
 msgstr "Softvérový vývoj XFCE"
 
-#: ../comps-f7.xml.in.h:195
-#: ../comps-f8.xml.in.h:203
-#: ../comps-f9.xml.in.h:211
-#: ../comps-f10.xml.in.h:223
-#: ../comps-f11.xml.in.h:233
+#: ../comps-f7.xml.in.h:195 ../comps-f8.xml.in.h:203 ../comps-f9.xml.in.h:211
+#: ../comps-f10.xml.in.h:223 ../comps-f11.xml.in.h:240
 msgid "Xhosa Support"
 msgstr "Podpora xhosa"
 
-#: ../comps-f7.xml.in.h:196
-#: ../comps-f8.xml.in.h:204
-#: ../comps-f9.xml.in.h:212
-#: ../comps-f10.xml.in.h:224
-#: ../comps-f11.xml.in.h:234
+#: ../comps-f7.xml.in.h:196 ../comps-f8.xml.in.h:204 ../comps-f9.xml.in.h:212
+#: ../comps-f10.xml.in.h:224 ../comps-f11.xml.in.h:241
 msgid "Zulu Support"
 msgstr "Zuluská podpora"
 
-#: ../comps-f8.xml.in.h:21
-#: ../comps-f9.xml.in.h:21
-#: ../comps-f10.xml.in.h:21
-#: ../comps-f11.xml.in.h:22
+#: ../comps-f8.xml.in.h:21 ../comps-f9.xml.in.h:21 ../comps-f10.xml.in.h:22
+#: ../comps-f11.xml.in.h:23
 msgid "Buildsystem building group"
 msgstr "Skupina zostavovania systému"
 
-#: ../comps-f8.xml.in.h:48
-#: ../comps-f9.xml.in.h:49
-#: ../comps-f10.xml.in.h:49
-#: ../comps-f11.xml.in.h:50
+#: ../comps-f8.xml.in.h:48 ../comps-f9.xml.in.h:49 ../comps-f10.xml.in.h:50
+#: ../comps-f11.xml.in.h:53
 msgid "Fedora Eclipse"
 msgstr "Fedora Eclipse"
 
-#: ../comps-f8.xml.in.h:52
-#: ../comps-f9.xml.in.h:53
-#: ../comps-f10.xml.in.h:53
-#: ../comps-f11.xml.in.h:55
+#: ../comps-f8.xml.in.h:52 ../comps-f9.xml.in.h:53 ../comps-f10.xml.in.h:54
+#: ../comps-f11.xml.in.h:58
 msgid "Fonts"
 msgstr "Písma"
 
-#: ../comps-f8.xml.in.h:53
-#: ../comps-f9.xml.in.h:54
-#: ../comps-f10.xml.in.h:54
-#: ../comps-f11.xml.in.h:56
+#: ../comps-f8.xml.in.h:53 ../comps-f9.xml.in.h:54 ../comps-f10.xml.in.h:55
+#: ../comps-f11.xml.in.h:59
 msgid "Fonts packages for rendering text on the desktop."
 msgstr "Balíčky písiem pre zobrazovanie textu v systéme."
 
-#: ../comps-f8.xml.in.h:79
-#: ../comps-f9.xml.in.h:80
-#: ../comps-f10.xml.in.h:83
-#: ../comps-f11.xml.in.h:87
+#: ../comps-f8.xml.in.h:79 ../comps-f9.xml.in.h:80 ../comps-f10.xml.in.h:84
+#: ../comps-f11.xml.in.h:90
 msgid "Integrated Development Environments based on Eclipse."
 msgstr "Integrované vývojové prostredie založené na Eclipse"
 
-#: ../comps-f8.xml.in.h:95
-#: ../comps-f9.xml.in.h:98
-#: ../comps-f10.xml.in.h:104
-#: ../comps-f11.xml.in.h:109
+#: ../comps-f8.xml.in.h:95 ../comps-f9.xml.in.h:98 ../comps-f10.xml.in.h:105
+#: ../comps-f11.xml.in.h:112
 msgid "Legacy Fonts"
 msgstr "Zdedené fonty"
 
-#: ../comps-f8.xml.in.h:100
-#: ../comps-f9.xml.in.h:103
-#: ../comps-f10.xml.in.h:109
-#: ../comps-f11.xml.in.h:114
+#: ../comps-f8.xml.in.h:100 ../comps-f9.xml.in.h:103 ../comps-f10.xml.in.h:110
+#: ../comps-f11.xml.in.h:117
 msgid "Low Saxon Support"
 msgstr "Podpora low saxon"
 
-#: ../comps-f8.xml.in.h:106
-#: ../comps-f9.xml.in.h:110
-#: ../comps-f10.xml.in.h:117
-#: ../comps-f11.xml.in.h:123
+#: ../comps-f8.xml.in.h:106 ../comps-f9.xml.in.h:110 ../comps-f10.xml.in.h:118
+#: ../comps-f11.xml.in.h:127
 msgid "Mongolian Support"
 msgstr "Mongolská podpora"
 
-#: ../comps-f8.xml.in.h:108
-#: ../comps-f9.xml.in.h:112
-#: ../comps-f10.xml.in.h:120
-#: ../comps-f11.xml.in.h:126
+#: ../comps-f8.xml.in.h:108 ../comps-f9.xml.in.h:112 ../comps-f10.xml.in.h:121
+#: ../comps-f11.xml.in.h:130
 msgid "Nepali Support"
 msgstr "Nepálska podpora"
 
-#: ../comps-f8.xml.in.h:114
-#: ../comps-f9.xml.in.h:119
-#: ../comps-f10.xml.in.h:127
-#: ../comps-f11.xml.in.h:134
+#: ../comps-f8.xml.in.h:114 ../comps-f9.xml.in.h:119 ../comps-f10.xml.in.h:128
+#: ../comps-f11.xml.in.h:139
 msgid "Older bitmap and vector fonts packages"
-msgstr "Balíky starších bitmapových a vektorových písiem"
+msgstr "Balíčky starších bitmapových a vektorových písiem"
 
-#: ../comps-f9.xml.in.h:44
-#: ../comps-f10.xml.in.h:44
-#: ../comps-f11.xml.in.h:45
+#: ../comps-f9.xml.in.h:44 ../comps-f10.xml.in.h:45 ../comps-f11.xml.in.h:48
 msgid "Esperanto Support"
 msgstr "Esperanto podpora"
 
-#: ../comps-f9.xml.in.h:91
-#: ../comps-f10.xml.in.h:95
-#: ../comps-f11.xml.in.h:99
+#: ../comps-f9.xml.in.h:91 ../comps-f10.xml.in.h:96 ../comps-f11.xml.in.h:102
 msgid "Kashubian Support"
 msgstr "Kašubská podpora"
 
-#: ../comps-f9.xml.in.h:94
-#: ../comps-f10.xml.in.h:99
-#: ../comps-f11.xml.in.h:104
+#: ../comps-f9.xml.in.h:94 ../comps-f10.xml.in.h:100 ../comps-f11.xml.in.h:107
 msgid "Kurdish Support"
 msgstr "Kurdská podpora"
 
-#: ../comps-f9.xml.in.h:104
-#: ../comps-f10.xml.in.h:110
-#: ../comps-f11.xml.in.h:115
+#: ../comps-f9.xml.in.h:104 ../comps-f10.xml.in.h:111
+#: ../comps-f11.xml.in.h:118
 msgid "Macedonian Support"
 msgstr "Macedónska podpora"
 
-#: ../comps-f9.xml.in.h:115
-#: ../comps-f10.xml.in.h:123
-#: ../comps-f11.xml.in.h:129
+#: ../comps-f9.xml.in.h:115 ../comps-f10.xml.in.h:124
+#: ../comps-f11.xml.in.h:133
 msgid "Northern Sami Support"
 msgstr "Podpora severného Sami"
 
-#: ../comps-f9.xml.in.h:131
-#: ../comps-f10.xml.in.h:139
-#: ../comps-f11.xml.in.h:146
+#: ../comps-f9.xml.in.h:131 ../comps-f10.xml.in.h:140
 msgid "SUGAR Desktop Environment"
 msgstr "Pracovné prostredie SUGAR"
 
 #: ../comps-f9.xml.in.h:132
-#: ../comps-f10.xml.in.h:140
-#: ../comps-f11.xml.in.h:147
 msgid "SUGAR is the desktop environment developed for the OLPC XO."
 msgstr "SUGAR je pracovné prostredie vyvinuté pre OLPC XO."
 
-#: ../comps-f9.xml.in.h:201
-#: ../comps-f10.xml.in.h:213
-#: ../comps-f11.xml.in.h:223
+#: ../comps-f9.xml.in.h:201 ../comps-f10.xml.in.h:213
+#: ../comps-f11.xml.in.h:230
 msgid "Walloon Support"
 msgstr "Wallónska podpora"
 
-#: ../comps-f10.xml.in.h:70
-#: ../comps-f11.xml.in.h:74
+#: ../comps-f10.xml.in.h:2 ../comps-f11.xml.in.h:2
+msgid "A software playground for learning about learning."
+msgstr "Softvér pre výučbu učenia."
+
+#: ../comps-f10.xml.in.h:71 ../comps-f11.xml.in.h:77
 msgid "Haskell Development"
 msgstr "Vývoj Haskell"
 
-#: ../comps-f10.xml.in.h:76
-#: ../comps-f11.xml.in.h:80
+#: ../comps-f10.xml.in.h:77 ../comps-f11.xml.in.h:83
 msgid "Input Methods"
 msgstr "Metódy vstupu"
 
-#: ../comps-f10.xml.in.h:77
-#: ../comps-f11.xml.in.h:81
+#: ../comps-f10.xml.in.h:78 ../comps-f11.xml.in.h:84
 msgid "Input method packages for the input of international text."
 msgstr "Balíčky metód vstupu pre podporu medzinárodného textu."
 
-#: ../comps-f10.xml.in.h:94
-#: ../comps-f11.xml.in.h:98
+#: ../comps-f10.xml.in.h:95 ../comps-f11.xml.in.h:101
 msgid "Kashmiri Support"
 msgstr "Kašmírska podpora"
 
-#: ../comps-f10.xml.in.h:97
-#: ../comps-f11.xml.in.h:102
+#: ../comps-f10.xml.in.h:98 ../comps-f11.xml.in.h:105
 msgid "Konkani Support"
 msgstr "Konkani podpora"
 
-#: ../comps-f10.xml.in.h:100
-#: ../comps-f11.xml.in.h:105
+#: ../comps-f10.xml.in.h:101 ../comps-f11.xml.in.h:108
 msgid "LXDE"
 msgstr "LXDE"
 
-#: ../comps-f10.xml.in.h:112
-#: ../comps-f11.xml.in.h:117
+#: ../comps-f10.xml.in.h:113 ../comps-f11.xml.in.h:120
 msgid "Maithili Support"
 msgstr "Maithili podpora"
 
-#: ../comps-f10.xml.in.h:119
-#: ../comps-f11.xml.in.h:125
+#: ../comps-f10.xml.in.h:120 ../comps-f11.xml.in.h:129
 msgid "Myanmar (Burmese) Support"
 msgstr "Mjanmarská (Barmčina) podpora"
 
-#: ../comps-f10.xml.in.h:146
-#: ../comps-f11.xml.in.h:153
+#: ../comps-f10.xml.in.h:146 ../comps-f11.xml.in.h:157
 msgid "Sindhi Support"
 msgstr "Sindhi podpora"
 
-#: ../comps-f10.xml.in.h:158
-#: ../comps-f11.xml.in.h:165
+#: ../comps-f10.xml.in.h:158 ../comps-f11.xml.in.h:171
 msgid "Support for developing programs in the Haskell programming language."
 msgstr "Podpora pre vývoj programov v programovacom jazyku Haskell."
 
-#: ../comps-f10.xml.in.h:165
-#: ../comps-f11.xml.in.h:172
+#: ../comps-f10.xml.in.h:165 ../comps-f11.xml.in.h:179
 msgid "Tajik Support"
 msgstr "Tadžická podpora"
 
-#: ../comps-f10.xml.in.h:207
-#: ../comps-f11.xml.in.h:217
+#: ../comps-f10.xml.in.h:207 ../comps-f11.xml.in.h:224
 msgid "Uzbek Support"
 msgstr "Uzbecká podpora"
 
-#: ../comps-f11.xml.in.h:5
+#: ../comps-f11.xml.in.h:6
 msgid "Amazigh Support"
 msgstr "Berberská podpora"
 
-#: ../comps-f11.xml.in.h:54
-msgid "Font design and packaging"
-msgstr "Návrh pisiem a vytváranie balíčkov"
+#: ../comps-f11.xml.in.h:34
+msgid "Design and Simulation tools for hardware engineers"
+msgstr "Dizajnové a simulačné nástroje pre hadvérových inžinierov"
 
-#: ../comps-f11.xml.in.h:58
+#: ../comps-f11.xml.in.h:45
+msgid "Electronic Lab"
+msgstr "Elektronické laboratórium"
+
+#: ../comps-f11.xml.in.h:57
+msgid "Font design and packaging"
+msgstr "Návrh písiem a vytváranie balíčkov"
+
+#: ../comps-f11.xml.in.h:61
 msgid "Frisian Support"
 msgstr "Friská podpora"
 
-#: ../comps-f11.xml.in.h:59
+#: ../comps-f11.xml.in.h:62
 msgid "Friulian Support"
 msgstr "Friulská podpora"
 
-#: ../comps-f11.xml.in.h:101
+#: ../comps-f11.xml.in.h:104
 msgid "Kinyarwanda Support"
 msgstr "Rwandská podpora"
 
-#: ../comps-f11.xml.in.h:118
+#: ../comps-f11.xml.in.h:121
 msgid "Malagasy Support"
 msgstr "Malagajská podpora"
 
-#: ../comps-f11.xml.in.h:132
+#: ../comps-f11.xml.in.h:126
+msgid "MinGW cross-compiler"
+msgstr "MinGW krížový kompilátor"
+
+#: ../comps-f11.xml.in.h:136
+msgid "OCaml"
+msgstr "OCaml"
+
+#: ../comps-f11.xml.in.h:137
 msgid "Occitan Support"
 msgstr "Okcitánska podpora"
 
-#: ../comps-f11.xml.in.h:201
-msgid "This group is a collection of tools used in the design, modification, manipulation, and packaging of fonts."
-msgstr "Táto skupina zahŕňa nástroje používane k návrhu, vytváraniu a úprave písem a balíčkov s písmami."
+#: ../comps-f11.xml.in.h:140
+msgid "Online Help and Documentation"
+msgstr "Online pomocník a dokumentácia"
 
-#: ../comps-f11.xml.in.h:213
+#: ../comps-f11.xml.in.h:169
+msgid "Sugar Desktop Environment"
+msgstr "Pracovné prostredie Sugar"
+
+#: ../comps-f11.xml.in.h:170
+msgid ""
+"Support for cross-compiling programs to 32 bit Windows targets, testing "
+"them, and building installers, all from within Fedora."
+msgstr ""
+"Podpora pre krížovú kompiláciu 32 bitových Windows programov, ich testovanie "
+"a vytváranie inštalátorov. A to všetko pomocou Fedory."
+
+#: ../comps-f11.xml.in.h:173
+msgid ""
+"Support for developing software using the Objective CAML programming "
+"language and libraries."
+msgstr ""
+"Podpora pre vývoj programov použitím programovacieho jazyka a knižníc "
+"Objective CAML."
+
+#: ../comps-f11.xml.in.h:208
+msgid ""
+"This group is a collection of tools used in the design, modification, "
+"manipulation, and packaging of fonts."
+msgstr ""
+"Táto skupina zahŕňa nástroje používane k návrhu, vytváraniu a úprave písem a "
+"balíčkov s písmami."
+
+#: ../comps-f11.xml.in.h:220
 msgid "Turkmen Support"
 msgstr "Turkménska podpora"
 
-#: ../comps-f11.xml.in.h:215
+#: ../comps-f11.xml.in.h:222
 msgid "Upper Sorbian Support"
 msgstr "Podpora hornolužickej srbštiny"
 
-#: ../comps-el4.xml.in.h:3
-#: ../comps-el5.xml.in.h:3
+#: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
 msgid "Applications for a variety of tasks"
 msgstr "Aplikácie pre rôzne úlohy"
 
-#: ../comps-el4.xml.in.h:12
-#: ../comps-el5.xml.in.h:13
+#: ../comps-el4.xml.in.h:12 ../comps-el5.xml.in.h:13
 msgid "Dialup Networking Support"
 msgstr "Podpora telefonického pripojenia"
 
-#: ../comps-el4.xml.in.h:22
-#: ../comps-el5.xml.in.h:23
-msgid "GNOME is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager."
-msgstr "GNOME je výkonné grafické používateľské rozhranie, ktoré obsahuje panel, pracovnú pllochu, systémové ikony a grafického správcu súborov."
+#: ../comps-el4.xml.in.h:22 ../comps-el5.xml.in.h:23
+msgid ""
+"GNOME is a powerful, graphical user interface which includes a panel, "
+"desktop, system icons, and a graphical file manager."
+msgstr ""
+"GNOME je výkonné grafické používateľské rozhranie, ktoré obsahuje panel, "
+"pracovnú plochu, systémové ikony a grafického správcu súborov."
 
-#: ../comps-el4.xml.in.h:35
-#: ../comps-el5.xml.in.h:35
-msgid "KDE is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager."
-msgstr "KDE je výkonné grafické používateľské rozhranie, ktoré obsahuje panel, pracovnú plochu, systémové ikony a grafického správcu súborov."
+#: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:35
+msgid ""
+"KDE is a powerful, graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE je výkonné grafické používateľské rozhranie, ktoré obsahuje panel, "
+"pracovnú plochu, systémové ikony a grafického správcu súborov."
 
-#: ../comps-el4.xml.in.h:44
-#: ../comps-el5.xml.in.h:44
-msgid "Sometimes called text editors, these are programs that allow you to create and edit files. These include Emacs and Vi."
-msgstr "Tieto programy, niekedy nazývané textové editory, vám umožnia vytvárať a upravovať súbory. Toto zahŕňa aj Emacs a Vi."
+#: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:44
+msgid ""
+"Sometimes called text editors, these are programs that allow you to create "
+"and edit files. These include Emacs and Vi."
+msgstr ""
+"Tieto programy, niekedy nazývané textové editory, vám umožnia vytvárať a "
+"upravovať súbory. Toto zahŕňa aj Emacs a Vi."
 
-#: ../comps-el4.xml.in.h:50
-#: ../comps-el5.xml.in.h:48
+#: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:48
 msgid "The XEmacs text editor."
 msgstr "Textový editor XEmacs."
 
-#: ../comps-el4.xml.in.h:54
-#: ../comps-el5.xml.in.h:52
-msgid "These tools allow you to create documentation in the DocBook format and convert them to HTML, PDF, Postscript, and text."
-msgstr "Tieto nástroje vám umožnia vytvárať dokumentáciu vo formáte DocBook a konvertovať ju do HTML, PDF, Postscriptu a textu."
+#: ../comps-el4.xml.in.h:54 ../comps-el5.xml.in.h:52
+msgid ""
+"These tools allow you to create documentation in the DocBook format and "
+"convert them to HTML, PDF, Postscript, and text."
+msgstr ""
+"Tieto nástroje vám umožnia vytvárať dokumentáciu vo formáte DocBook a "
+"konvertovať ju do HTML, PDF, Postscriptu a textu."
 
-#: ../comps-el4.xml.in.h:64
-#: ../comps-el5.xml.in.h:62
+#: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:62
 msgid "This group is a collection of network servers for specific purposes"
 msgstr "Táto skupina je kolekciou sieťových serverov pre špecifické úlohy."
 
-#: ../comps-el4.xml.in.h:65
-#: ../comps-el5.xml.in.h:63
-msgid "This group is a collection of tools and resources of Arabic environments."
+#: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
+msgid ""
+"This group is a collection of tools and resources of Arabic environments."
 msgstr "Táto skupina je kolekciou nástrojov a zdrojov arabských prostredí."
 
-#: ../comps-el4.xml.in.h:67
-#: ../comps-el5.xml.in.h:66
-msgid "This group is a collection of tools and resources of Hebrew environments."
+#: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:66
+msgid ""
+"This group is a collection of tools and resources of Hebrew environments."
 msgstr "Táto skupina je kolekciou nástrojov a zdrojov hebrejských prostredí."
 
-#: ../comps-el4.xml.in.h:68
-#: ../comps-el5.xml.in.h:67
-msgid "This group is a collection of tools and resources of Japanese environments."
+#: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
+msgid ""
+"This group is a collection of tools and resources of Japanese environments."
 msgstr "Táto skupina je kolekciou nástrojov a zdrojov japonských prostredí."
 
-#: ../comps-el4.xml.in.h:77
-#: ../comps-el5.xml.in.h:77
+#: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:77
 msgid "XEmacs"
 msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:65
-msgid "This group is a collection of tools and resources of Czech environments."
+msgid ""
+"This group is a collection of tools and resources of Czech environments."
 msgstr "Táto skupina je kolekciou nástrojov a zdrojov českých prostredí."
 
 #~ msgid "British Support"
 #~ msgstr "Britská podpora"
+
 #~ msgid "Cluster Storage"
 #~ msgstr "Úložisko klastra"
+
 #~ msgid "Clustering Support."
 #~ msgstr "Podpora klastrov."
+
 #~ msgid "Libraries for applications built on older releases."
 #~ msgstr "Knižnice pre aplikácie zostavené v starších vydaniach."
+
 #~ msgid "Miscellaneous Included Packages"
 #~ msgstr "Rôzne obsiahnuté balíčky"
+
 #~ msgid "Packages which provide support for cluster storage."
 #~ msgstr "Balíčky poskytujúce podporu pre uložiská klastrov."
+
 #~ msgid "Packages which provide support for single-node GFS."
 #~ msgstr "Balíčky poskytujúce podporu pre jednoduché uzly GFS."
+
 #~ msgid "Single Node GFS Support"
 #~ msgstr "Podpora jednoduchého uzla GFS"
+
 #~ msgid "These packages provide compatibility support with previous releases."
 #~ msgstr ""
 #~ "Tieto balíčky poskytujú podporu kompatibility s predchádzajúcimi "
 #~ "vydaniami."
+
 #~ msgid "Java Runtime Environments and Development Kits"
 #~ msgstr "Prostredia pre beh a vývoj aplikácií v Jave"
+
 #~ msgid "Misc"
 #~ msgstr "Rôzne"
+
 #~ msgid "Misc packages"
 #~ msgstr "Rôzne balíčky"
+
 #~ msgid "Multimedia"
 #~ msgstr "Multimédiá"
+
 #~ msgid "Multimedia applications"
 #~ msgstr "Multimediálne aplikácie"
+
 #~ msgid ""
 #~ "Packages which provide additional functionality for Red Hat Enterprise "
 #~ "Linux"
 #~ msgstr ""
 #~ "Tieto balíčky poskytujú ďalšiu podporu funkcionality pre Red Hat "
 #~ "Enterprise Linux"
+
 #~ msgid "Red Hat Enterprise Linux Supplementary"
 #~ msgstr "Red Hat Enterprise Linux Doplnok"
+
 #~ msgid ""
 #~ "Components used for high performance networking and clustering, such as "
 #~ "Infiniband and RDMA."
 #~ msgstr ""
 #~ "Komponenty používané na vysokovýkonné sieťovanie a klastre, ako napríklad "
 #~ "Infiniband a RDMA."
+
 #~ msgid "OpenFabrics Enterprise Distribution"
 #~ msgstr "OpenFabrics Enterprise Distribúcia"
+
 #~ msgid "Virtualization Support."
 #~ msgstr "Podpora virtualizácie."
+
 #~ msgid "Compatibility Arch Development Support"
 #~ msgstr "Podpora vývoja kompatibilných architektúr"
+
 #~ msgid "Compatibility Arch Mozilla Support"
 #~ msgstr "Podpora kompatibilných architektúr Mozilla"
+
 #~ msgid "Compatibility Arch Support"
 #~ msgstr "Podpora kompatibilných architektúr"
+
 #~ msgid "Cyrillic Support"
 #~ msgstr "Podpora cyriliky"
+
 #~ msgid "Desktops"
 #~ msgstr "Pracovné plochy"
+
 #~ msgid "Emacs"
 #~ msgstr "Emacs"
+
 #~ msgid "GNOME"
 #~ msgstr "GNOME"
+
 #~ msgid "ISO8859-14 Support"
 #~ msgstr "Podpora ISO8859-14"
+
 #~ msgid "ISO8859-15 Support"
 #~ msgstr "Podpora ISO8859-15"
+
 #~ msgid "ISO8859-2 Support"
 #~ msgstr "Podpora ISO8859-2"
+
 #~ msgid "ISO8859-9 Support"
 #~ msgstr "Podpora ISO8859-9"
+
 #~ msgid "Install these packages to recompile the kernel."
 #~ msgstr "Nainštalujte si tieto balíky, ak budete kompilovať jadro."
+
 #~ msgid "KDE"
 #~ msgstr "KDE"
+
 #~ msgid "KDE Desktop Environment"
 #~ msgstr "KDE pracovné prostredie"
+
 #~ msgid "Kernel Development"
 #~ msgstr "Vývoj jadra"
+
 #~ msgid "Mozilla packages for the x86 platform"
 #~ msgstr "Balíky Mozilla pre platformu x86"
+
 #~ msgid "Multilib support packages"
 #~ msgstr "Podpora pre multilib balíky"
+
 #~ msgid "SQL Database"
 #~ msgstr "Databáza SQL"
+
 #~ msgid "Server"
 #~ msgstr "Server"
+
 #~ msgid "Support for developing packages for the non-primary architecture"
 #~ msgstr "Podpora pre vývoj balíkov pre ostatné architektúry"
+
 #~ msgid "Syriac Support"
 #~ msgstr "Sýrska podpora"
+
 #~ msgid "System"
 #~ msgstr "Systém"
+
 #~ msgid "The GNU Emacs text editor."
 #~ msgstr "Textový editor GNU Emacs."
+
 #~ msgid ""
 #~ "These packages allow you to configure an IMAP or Postfix mail server."
 #~ msgstr ""
 #~ "Tieto balíky vám umožnia nakonfigurovať IMAP alebo poštový server Postfix."
+
 #~ msgid ""
 #~ "These packages provide compatibility support for previous releases of Red "
 #~ "Hat Enterprise Linux."
 #~ msgstr ""
 #~ "Tieto balíky poskytujú podporu pre kompatibilitu s predchádzajúcimi "
 #~ "vydaniami Red Hat Enterprise Linux."
+
 #~ msgid "Unsupported Development Libraries"
 #~ msgstr "Nepodporované vývojárske knižnice"
+
 #~ msgid "Workstation Common"
 #~ msgstr "Všeobecné pre pracovnú stanicu"
+
 #~ msgid "ppc64 Compatibility Arch Support"
 #~ msgstr "Podpora kompatibilných ppc64 architektúr"
+
 #~ msgid "x86 Compatibility Arch Development Support"
 #~ msgstr "Podpora vývoja kompatibilných x86 architektúr"
+
 #~ msgid "x86 Compatibility Arch Support"
 #~ msgstr "Podpora kompatibilných x86 architektúr"
+
 #~ msgid "Brazilian Portuguese"
 #~ msgstr "Brazílska portugalčina"
+
 #~ msgid "English"
 #~ msgstr "Angličtina"
+
 #~ msgid "French"
 #~ msgstr "Francúzština"
+
 #~ msgid "German"
 #~ msgstr "Nemčina"
+
 #~ msgid "Italian"
 #~ msgstr "Taliančina"
+
 #~ msgid "Spanish"
 #~ msgstr "Španielčina"
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Brazilian Portuguese language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v brazílskej "
 #~ "portugalčine."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "English language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v angličtine."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "French language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux vo "
 #~ "francúzštine."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "German language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v nemčine."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Italian language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v taliančine."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Spanish language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v španielčine."
+
 #~ msgid "Japanese"
 #~ msgstr "Japončina"
+
 #~ msgid "Korean"
 #~ msgstr "Kórejčina"
+
 #~ msgid "Simplified Chinese"
 #~ msgstr "Zjednodušená čínština"
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Japanese language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v japončine."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Korean language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v kórejčine."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Simplified Chinese language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v "
 #~ "zjednodušenej čínštine."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Traditional Chinese language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v tradičnej "
 #~ "čínštine."
+
 #~ msgid "Traditional Chinese"
 #~ msgstr "Tradičná čínština"
+
 #~ msgid "ppc64 Compatibility Arch Development Support"
 #~ msgstr "Podpora vývoja kompatibilných ppc64 architektúr"
+
 #~ msgid "Bengali"
 #~ msgstr "Bengálske"
+
 #~ msgid "Gujarati"
 #~ msgstr "Gujaratské"
+
 #~ msgid "Hindi"
 #~ msgstr "Hindské"
+
 #~ msgid "Punjabi"
 #~ msgstr "Pandžábske"
-#~ msgid "Red Hat Enterprise Linux 4 Documentation"
-#~ msgstr "Dokumentácia Red Hat Enterprise Linux 4"
-#~ msgid "Tamil"
-#~ msgstr "Tamilské"
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Bengali language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v bengálčine."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Gujarati language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v gujaratčine."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Hindi language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v hindskom "
 #~ "jazyku."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Punjabi language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v pandžábskom "
 #~ "jazyku."
+
 #~ msgid ""
 #~ "This group contains the Red Hat Enterprise Linux documentation in the "
 #~ "Tamil language."
 #~ msgstr ""
 #~ "Táto skupina obsahuje dokumentáciu Red Hat Enterprise Linux v tamilčine."
+
 #~ msgid "Red Hat Enterprise Linux Extras"
 #~ msgstr "Red Hat Enterprise Linux Extras"
+
 #~ msgid "Workstation"
 #~ msgstr "Pracovná stanica"
+
 #~ msgid "Workstation applications and utilities."
 #~ msgstr "Aplikácie pre pracovné stanice a pomocné programy."
+
 #~ msgid "Compatibility Arch"
 #~ msgstr "Architektúra kompatibility"
+
 #~ msgid "Compatibility Arch Libraries"
 #~ msgstr "Knižnice architektúry kompatibility"
+
 #~ msgid "Multilib library packages"
 #~ msgstr "Balíky knižnice multilib"
+
 #~ msgid ""
 #~ "Packages which provide functionality for the compatibility architecture."
 #~ msgstr "Tieto balíky poskytujú podporu pre architektúru kompatibility."
@@ -5752,25 +5298,34 @@ msgstr "Táto skupina je kolekciou nástrojov a zdrojov českých prostredí."
 #~ "packagereq> </packagelist> </group> <group> <id>mysql</id> "
 #~ "<_name>Databáza MySQL</_name> <_description>Táto skupina balíkov obsahuje "
 #~ "balíky vhodné pre použitie s MySQL."
+
 #~ msgid "Cups"
 #~ msgstr "Cups"
+
 #~ msgid "Cups printing service and drivers to use it."
 #~ msgstr "Tlačová služba cups a ovládače na jej použitie."
+
 #~ msgid "SQL Database Server"
 #~ msgstr "Databázový server SQL"
+
 #~ msgid "Supported Packages"
 #~ msgstr "Podporované balíky"
+
 #~ msgid ""
 #~ "These packages include network-based servers such as CIPE, DHCP, and "
 #~ "telnet."
 #~ msgstr "Tieto balíky obsahujú sieťové servery, napr. CIPE, DHCP a telnet."
+
 #~ msgid "This package group allows you to run an SQL server on the system."
 #~ msgstr "Táto skupina balíkov vám umožní spustiť na počítači SQL server."
+
 #~ msgid "GNOME Desktop"
 #~ msgstr "Pracovná plocha GNOME"
+
 #~ msgid ""
 #~ "These packages include network-based servers such as DHCP and telnet."
 #~ msgstr "Tieto balíky obsahujú sieťové servery, napr. DHCP a telnet."
+
 #~ msgid ""
 #~ "</_description> <default>false</default> <uservisible>false</uservisible> "
 #~ "<langonly>sk</langonly> <grouplist> <groupreq>ISO8859-2-support</"
@@ -5785,6 +5340,7 @@ msgstr "Táto skupina je kolekciou nástrojov a zdrojov českých prostredí."
 #~ "requires=\"kdelibs\">kde-i18n-Slovak</packagereq> </packagelist> </group> "
 #~ "<group> <id>slovenian-support</id> <_name>Slovinská podpora</_name> "
 #~ "<_description>"
+
 #~ msgid ""
 #~ "</_description> <default>false</default> <uservisible>false</uservisible> "
 #~ "<packagelist> <packagereq type=\"mandatory\">fonts-KOI8-R</packagereq> "
@@ -5799,4 +5355,3 @@ msgstr "Táto skupina je kolekciou nástrojov a zdrojov českých prostredí."
 #~ "<packagereq type=\"optional\" requires=\"xorg-x11\">fonts-xorg-cyrillic</"
 #~ "packagereq> </packagelist> </group> <group> <id>czech-support</id> "
 #~ "<_name>Česká podpora</_name> <_description>"
-
