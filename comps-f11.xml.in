@@ -2760,6 +2760,7 @@
       <packagereq type="conditional" requires="gtk2">ibus-gtk</packagereq>
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
       <packagereq type="conditional" requires="xfce-utils">imsettings-xfce</packagereq>
+      <packagereq type="default">ibus</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
       <packagereq type="default">ibus-chewing</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
