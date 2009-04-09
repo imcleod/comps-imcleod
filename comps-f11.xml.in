@@ -1050,9 +1050,15 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">bind</packagereq>
+      <packagereq type="optional">bind</packagereq>
       <packagereq type="default">bind-chroot</packagereq>
+      <packagereq type="mandatory">dnssec-conf</packagereq>
+      <packagereq type="optional">dnsperf</packagereq>
+      <packagereq type="optional">ldns</packagereq>
+      <packagereq type="optional">nsd</packagereq>
       <packagereq type="optional">pdns</packagereq>
+      <packagereq type="optional">pdns-recursor</packagereq>
+      <packagereq type="optional">unbound</packagereq>
     </packagelist>
   </group>
   <group>
