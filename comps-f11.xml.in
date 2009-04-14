@@ -1554,34 +1554,14 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">abyssinica-fonts</packagereq>
-      <packagereq type="default">cjkuni-uming-fonts</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
-      <packagereq type="default">jomolhari-fonts</packagereq>
-      <packagereq type="default">kacst-fonts</packagereq>
-      <packagereq type="default">khmeros-base-fonts</packagereq>
       <packagereq type="default">liberation-mono-fonts</packagereq>
       <packagereq type="default">liberation-sans-fonts</packagereq>
       <packagereq type="default">liberation-serif-fonts</packagereq>
-      <packagereq type="default">lklug-fonts</packagereq>
-      <packagereq type="default">lohit-bengali-fonts</packagereq>
-      <packagereq type="default">lohit-gujarati-fonts</packagereq>
-      <packagereq type="default">lohit-hindi-fonts</packagereq>
-      <packagereq type="default">lohit-kannada-fonts</packagereq>
-      <packagereq type="default">lohit-maithili-fonts</packagereq>
-      <packagereq type="default">lohit-oriya-fonts</packagereq>
-      <packagereq type="default">lohit-punjabi-fonts</packagereq>
-      <packagereq type="default">lohit-tamil-fonts</packagereq>
-      <packagereq type="default">lohit-telugu-fonts</packagereq>
-      <packagereq type="default">padauk-fonts</packagereq>
-      <packagereq type="default">paktype-fonts</packagereq>
-      <packagereq type="default">smc-meera-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
-      <packagereq type="default">thai-scalable-waree-fonts</packagereq>
-      <packagereq type="default">un-core-fonts-dotum</packagereq>
-      <packagereq type="default">vlgothic-fonts</packagereq>
+      <packagereq type="optional">abyssinica-fonts</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">asana-math-fonts</packagereq>
@@ -1596,6 +1576,7 @@
       <packagereq type="optional">cf-bonveno-fonts</packagereq>
       <packagereq type="optional">chisholm-to-be-continued-fonts</packagereq>
       <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
+      <packagereq type="optional">cjkuni-uming-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-roman-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-sans-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-typewriter-fonts</packagereq>
@@ -1641,7 +1622,9 @@
       <packagereq type="optional">hartke-aurulent-sans-fonts</packagereq>
       <packagereq type="optional">hartke-aurulent-sans-mono-fonts</packagereq>
       <packagereq type="optional">icelandic-fonts</packagereq>
-      <packagereq type="optional">levien-inconsolata-fonts</packagereq>
+      <packagereq type="optional">jomolhari-fonts</packagereq>
+      <packagereq type="optional">kacst-fonts</packagereq>
+      <packagereq type="optional">khmeros-base-fonts</packagereq>
       <packagereq type="optional">khmeros-battambang-fonts</packagereq>
       <packagereq type="optional">khmeros-bokor-fonts</packagereq>
       <packagereq type="optional">khmeros-handwritten-fonts</packagereq>
@@ -1649,6 +1632,7 @@
       <packagereq type="optional">khmeros-muol-fonts</packagereq>
       <packagereq type="optional">khmeros-siemreap-fonts</packagereq>
       <packagereq type="optional">kurdit-unikurd-web-fonts</packagereq>
+      <packagereq type="optional">levien-inconsolata-fonts</packagereq>
       <packagereq type="optional">lilypond-aybabtu-fonts</packagereq>
       <packagereq type="optional">lilypond-century-schoolbook-l-fonts</packagereq>
       <packagereq type="optional">lilypond-emmentaler-fonts</packagereq>
@@ -1657,12 +1641,22 @@
       <packagereq type="optional">lilypond-feta-braces-fonts</packagereq>
       <packagereq type="optional">lilypond-parmesan-fonts</packagereq>
       <packagereq type="optional">linux-libertine-fonts</packagereq>
+      <packagereq type="optional">lklug-fonts</packagereq>
+      <packagereq type="optional">lohit-bengali-fonts</packagereq>
+      <packagereq type="optional">lohit-gujarati-fonts</packagereq>
+      <packagereq type="optional">lohit-hindi-fonts</packagereq>
+      <packagereq type="optional">lohit-kannada-fonts</packagereq>
       <packagereq type="optional">lohit-kashmiri-fonts</packagereq>
       <packagereq type="optional">lohit-konkani-fonts</packagereq>
+      <packagereq type="optional">lohit-maithili-fonts</packagereq>
       <packagereq type="optional">lohit-malayalam-fonts</packagereq>
       <packagereq type="optional">lohit-marathi-fonts</packagereq>
       <packagereq type="optional">lohit-nepali-fonts</packagereq>
+      <packagereq type="optional">lohit-oriya-fonts</packagereq>
+      <packagereq type="optional">lohit-punjabi-fonts</packagereq>
       <packagereq type="optional">lohit-sindhi-fonts</packagereq>
+      <packagereq type="optional">lohit-tamil-fonts</packagereq>
+      <packagereq type="optional">lohit-telugu-fonts</packagereq>
       <packagereq type="optional">madan-fonts</packagereq>
       <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">mgopen-canonica-fonts</packagereq>
@@ -1674,6 +1668,8 @@
       <packagereq type="optional">myanmar3-unicode-fonts</packagereq>
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
+      <packagereq type="optional">padauk-fonts</packagereq>
+      <packagereq type="optional">paktype-fonts</packagereq>
       <packagereq type="optional">roadstencil-fonts</packagereq>
       <packagereq type="optional">samyak-devanagari-fonts</packagereq>
       <packagereq type="optional">samyak-gujarati-fonts</packagereq>
@@ -1698,6 +1694,7 @@
       <packagereq type="optional">smc-anjalioldlipi-fonts</packagereq>
       <packagereq type="optional">smc-dyuthi-fonts</packagereq>
       <packagereq type="optional">smc-kalyani-fonts</packagereq>
+      <packagereq type="optional">smc-meera-fonts</packagereq>
       <packagereq type="optional">smc-rachana-fonts</packagereq>
       <packagereq type="optional">smc-raghumalayalam-fonts</packagereq>
       <packagereq type="optional">smc-suruma-fonts</packagereq>
@@ -1706,6 +1703,7 @@
       <packagereq type="optional">stix-pua-fonts</packagereq>
       <packagereq type="optional">stix-sizes-fonts</packagereq>
       <packagereq type="optional">stix-variants-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-waree-fonts</packagereq>
       <packagereq type="optional">thibault-fonts-essays1743</packagereq>
       <packagereq type="optional">thibault-fonts-isabella</packagereq>
       <packagereq type="optional">thibault-fonts-rockets</packagereq>
@@ -1721,6 +1719,7 @@
       <packagereq type="optional">tiresias-sign-z-fonts</packagereq>
       <packagereq type="optional">un-core-fonts-batang</packagereq>
       <packagereq type="optional">un-core-fonts-dinaru</packagereq>
+      <packagereq type="optional">un-core-fonts-dotum</packagereq>
       <packagereq type="optional">un-core-fonts-graphic</packagereq>
       <packagereq type="optional">un-core-fonts-gungseo</packagereq>
       <packagereq type="optional">un-core-fonts-pilgi</packagereq>
@@ -1736,6 +1735,7 @@
       <packagereq type="optional">un-extra-fonts-taza</packagereq>
       <packagereq type="optional">un-extra-fonts-vada</packagereq>
       <packagereq type="optional">un-extra-fonts-yetgul</packagereq>
+      <packagereq type="optional">vlgothic-fonts</packagereq>
       <packagereq type="optional">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">vollkorn-fonts</packagereq>
       <packagereq type="optional">wqy-zenhei-fonts</packagereq>
