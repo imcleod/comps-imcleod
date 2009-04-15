@@ -5193,8 +5193,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">python-virtinst</packagereq>
-      <packagereq type="default">qemu-system-x86</packagereq>
-      <packagereq type="default">qemu-system-ppc</packagereq>
+      <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="default">virt-manager</packagereq>
       <packagereq type="default">virt-viewer</packagereq>
       <packagereq type="optional">gnome-applet-vm</packagereq>
