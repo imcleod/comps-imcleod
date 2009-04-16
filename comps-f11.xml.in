@@ -195,6 +195,7 @@
       <packagereq type="mandatory">quota</packagereq>
       <packagereq type="mandatory">tmpwatch</packagereq>
       <packagereq type="mandatory">traceroute</packagereq>
+      <packagereq type="conditional" requires="aspell">aspell-en</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
       <packagereq type="default">acpid</packagereq>
       <packagereq type="default">anacron</packagereq>
