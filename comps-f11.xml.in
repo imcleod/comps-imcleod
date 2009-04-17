@@ -3661,6 +3661,7 @@
     <langonly>mai</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mai_IN</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">lohit-maithili-fonts</packagereq>
       <packagereq type="default">m17n-contrib-maithili</packagereq>
