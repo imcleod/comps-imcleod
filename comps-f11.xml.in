@@ -798,6 +798,7 @@
       <packagereq type="default">libattr-devel</packagereq>
       <packagereq type="default">libcap-devel</packagereq>
       <packagereq type="default">libcurl-devel</packagereq>
+      <packagereq type="default">libdwarf-devel</packagereq>
       <packagereq type="default">libogg-devel</packagereq>
       <packagereq type="default">libselinux-devel</packagereq>
       <packagereq type="default">libuser-devel</packagereq>
@@ -829,6 +830,7 @@
       <packagereq type="mandatory">automake</packagereq>
       <packagereq type="mandatory">binutils</packagereq>
       <packagereq type="mandatory">bison</packagereq>
+      <packagereq type="optional">CodeAnalyst-gui</packagereq>
       <packagereq type="mandatory">flex</packagereq>
       <packagereq basearchonly="true" type="mandatory">gcc</packagereq>
       <packagereq basearchonly="true" type="mandatory">gcc-c++</packagereq>
@@ -948,6 +950,7 @@
       <packagereq type="optional">kuipc</packagereq>
       <packagereq type="optional">lazarus</packagereq>
       <packagereq type="optional">lcov</packagereq>
+      <packagereq type="optional">libdwarf-tools</packagereq>
       <packagereq type="optional">lightning</packagereq>
       <packagereq type="optional">livecd-tools</packagereq>
       <packagereq type="optional">lua</packagereq>
