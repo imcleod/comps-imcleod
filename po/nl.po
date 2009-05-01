@@ -1,27 +1,30 @@
+# translation of comps.HEAD.nl.po to Dutch
 # Dutch translation of comps
 # Copyright (C) 2003-2009 The Free Software Foundation, Inc.
 # This file is distributed under the same license as the comps package.
 #
+#
 # Huib Kleinhout <huib@stack.nl>, 2003.
 # Peter van Egdom <p.van.egdom@gmail.com>, 2003-2009.
-#
+# R.E. van der Luit <nippur@fedoraproject.org>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: comps\n"
+"Project-Id-Version: comps.HEAD.nl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-29 15:51-0400\n"
-"PO-Revision-Date: 2009-03-15 20:21+0100\n"
-"Last-Translator: Peter van Egdom <p.van.egdom@gmail.com>\n"
-"Language-Team: Dutch <fedora-trans-list@redhat.com>\n"
+"POT-Creation-Date: 2009-05-01 19:12+0000\n"
+"PO-Revision-Date: 2009-05-01 23:25+0200\n"
+"Last-Translator: R.E. van der Luit <nippur@fedoraproject.org>\n"
+"Language-Team: Dutch <nippur@fedoraproject.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: ../comps-f7.xml.in.h:1 ../comps-f8.xml.in.h:1 ../comps-f9.xml.in.h:1
 #: ../comps-f10.xml.in.h:1 ../comps-f11.xml.in.h:1
 msgid "A lightweight desktop environment that works well on low end machines."
-msgstr ""
-"Een lichte werkomgeving die zeer geschikt is voor minder krachtige machines."
+msgstr "Een lichte werkomgeving die zeer geschikt is voor minder krachtige machines."
 
 #: ../comps-f7.xml.in.h:2 ../comps-f8.xml.in.h:2 ../comps-f9.xml.in.h:2
 #: ../comps-f10.xml.in.h:3 ../comps-f11.xml.in.h:3 ../comps-el4.xml.in.h:1
@@ -428,8 +431,7 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:74 ../comps-f8.xml.in.h:77 ../comps-f9.xml.in.h:78
 #: ../comps-f10.xml.in.h:82 ../comps-f11.xml.in.h:93
-msgid ""
-"Install these tools to enable the system to print or act as a print server."
+msgid "Install these tools to enable the system to print or act as a print server."
 msgstr ""
 "Installeer deze hulpmiddelen om uw systeem te kunnen laten printen of als "
 "printerserver te laten fungeren."
@@ -437,8 +439,7 @@ msgstr ""
 #: ../comps-f7.xml.in.h:75 ../comps-f8.xml.in.h:78 ../comps-f9.xml.in.h:79
 #: ../comps-f10.xml.in.h:83 ../comps-f11.xml.in.h:94 ../comps-el4.xml.in.h:29
 #: ../comps-el5.xml.in.h:31
-msgid ""
-"Install this group of packages to use the base graphical (X) user interface."
+msgid "Install this group of packages to use the base graphical (X) user interface."
 msgstr ""
 "Installeer deze pakketgroep om de basis grafische (X) gebruikersinterface te "
 "kunnen gebruiken."
@@ -688,8 +689,7 @@ msgstr "Servers"
 #: ../comps-f7.xml.in.h:121 ../comps-f8.xml.in.h:130 ../comps-f9.xml.in.h:137
 #: ../comps-f10.xml.in.h:145 ../comps-f11.xml.in.h:169
 #: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:42
-msgid ""
-"Simple window managers that aren't part of a larger desktop environment."
+msgid "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
 "Eenvoudige window managers die geen deel uitmaken van een grotere "
 "werkomgeving."
@@ -825,8 +825,7 @@ msgstr "Deze toepassingen omvatten office-pakketten, PDF-bekijkers en meer."
 
 #: ../comps-f7.xml.in.h:145 ../comps-f8.xml.in.h:153 ../comps-f9.xml.in.h:160
 #: ../comps-f10.xml.in.h:171 ../comps-f11.xml.in.h:200
-msgid ""
-"The packages in this group are core libraries needed to develop applications."
+msgid "The packages in this group are core libraries needed to develop applications."
 msgstr ""
 "De pakketten in deze groep bestaan uit basisbibliotheken die nodig zijn voor "
 "ontwikkeling van toepassingen."
@@ -839,26 +838,21 @@ msgstr "Met deze pakketten kunt u een IMAP of SMTP e-mailserver configureren."
 
 #: ../comps-f7.xml.in.h:147 ../comps-f8.xml.in.h:155 ../comps-f9.xml.in.h:162
 #: ../comps-f10.xml.in.h:173 ../comps-f11.xml.in.h:202
-msgid ""
-"These packages allow you to develop applications for the X Window System."
-msgstr ""
-"Met deze pakketten kunt u toepassingen voor het X Window systeem ontwikkelen."
+msgid "These packages allow you to develop applications for the X Window System."
+msgstr "Met deze pakketten kunt u toepassingen voor het X Window systeem ontwikkelen."
 
 #: ../comps-f7.xml.in.h:148 ../comps-f8.xml.in.h:156 ../comps-f9.xml.in.h:163
 #: ../comps-f10.xml.in.h:174 ../comps-f11.xml.in.h:203
 #: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:51
-msgid ""
-"These packages are helpful when developing web applications or web pages."
+msgid "These packages are helpful when developing web applications or web pages."
 msgstr ""
 "Deze pakketten zijn handig bij het ontwikkelen van webapplicaties of "
 "webpagina's."
 
 #: ../comps-f7.xml.in.h:149 ../comps-f8.xml.in.h:157 ../comps-f9.xml.in.h:164
 #: ../comps-f10.xml.in.h:175 ../comps-f11.xml.in.h:204
-msgid ""
-"These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr ""
-"Deze pakketten bevatten netwerkgebaseerde servers als DHCP, Kerberos en NIS."
+msgid "These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgstr "Deze pakketten bevatten netwerkgebaseerde servers als DHCP, Kerberos en NIS."
 
 #: ../comps-f7.xml.in.h:150 ../comps-f8.xml.in.h:158 ../comps-f9.xml.in.h:165
 #: ../comps-f10.xml.in.h:176 ../comps-f11.xml.in.h:205
@@ -959,8 +953,7 @@ msgstr ""
 #: ../comps-f10.xml.in.h:189 ../comps-f11.xml.in.h:218
 #: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:59
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr ""
-"Deze groep bevat pakketten waarmee u afbeeldingen kunt inscannen en bewerken."
+msgstr "Deze groep bevat pakketten waarmee u afbeeldingen kunt inscannen en bewerken."
 
 #: ../comps-f7.xml.in.h:164 ../comps-f8.xml.in.h:172 ../comps-f9.xml.in.h:179
 #: ../comps-f10.xml.in.h:190 ../comps-f11.xml.in.h:219
@@ -986,8 +979,7 @@ msgstr ""
 #: ../comps-f7.xml.in.h:166 ../comps-f8.xml.in.h:174 ../comps-f9.xml.in.h:181
 #: ../comps-f10.xml.in.h:192 ../comps-f11.xml.in.h:221
 #: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:64
-msgid ""
-"This group is a collection of tools and resources of Armenian environments."
+msgid "This group is a collection of tools and resources of Armenian environments."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen en hulpbronnen voor Armeense "
 "omgevingen."
@@ -995,8 +987,7 @@ msgstr ""
 #: ../comps-f7.xml.in.h:167 ../comps-f8.xml.in.h:175 ../comps-f9.xml.in.h:182
 #: ../comps-f10.xml.in.h:193 ../comps-f11.xml.in.h:222
 #: ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:68
-msgid ""
-"This group is a collection of tools for various hardware specific utilities."
+msgid "This group is a collection of tools for various hardware specific utilities."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen voor diverse hardware-"
 "specifieke gereedschappen."
@@ -1014,10 +1005,8 @@ msgstr ""
 
 #: ../comps-f7.xml.in.h:169 ../comps-f8.xml.in.h:177 ../comps-f9.xml.in.h:184
 #: ../comps-f10.xml.in.h:195 ../comps-f11.xml.in.h:225
-msgid ""
-"This package group allows you to run a DNS name server (BIND) on the system."
-msgstr ""
-"Met deze pakketgroep kunt u een DNS-naamserver (BIND) op het systeem draaien."
+msgid "This package group allows you to run a DNS name server (BIND) on the system."
+msgstr "Met deze pakketgroep kunt u een DNS-naamserver (BIND) op het systeem draaien."
 
 #: ../comps-f7.xml.in.h:170 ../comps-f8.xml.in.h:178 ../comps-f9.xml.in.h:185
 #: ../comps-f10.xml.in.h:196 ../comps-f11.xml.in.h:226
@@ -1031,14 +1020,12 @@ msgstr ""
 #: ../comps-f7.xml.in.h:171 ../comps-f8.xml.in.h:179 ../comps-f9.xml.in.h:186
 #: ../comps-f10.xml.in.h:197 ../comps-f11.xml.in.h:227
 msgid "This package group contains packages useful for use with MySQL."
-msgstr ""
-"Deze pakketgroep bevat pakketten die nuttig zijn voor gebruik met MySQL."
+msgstr "Deze pakketgroep bevat pakketten die nuttig zijn voor gebruik met MySQL."
 
 #: ../comps-f7.xml.in.h:172 ../comps-f8.xml.in.h:180 ../comps-f9.xml.in.h:187
 #: ../comps-f10.xml.in.h:198 ../comps-f11.xml.in.h:228
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr ""
-"Deze pakketgroep bevat pakketten die nuttig zijn voor gebruik met Postgresql."
+msgstr "Deze pakketgroep bevat pakketten die nuttig zijn voor gebruik met Postgresql."
 
 #: ../comps-f7.xml.in.h:173 ../comps-f8.xml.in.h:181 ../comps-f9.xml.in.h:188
 #: ../comps-f10.xml.in.h:199 ../comps-f11.xml.in.h:229
@@ -1091,8 +1078,7 @@ msgstr "Verschillende kerndelen van het systeem."
 #: ../comps-f10.xml.in.h:209 ../comps-f11.xml.in.h:241
 #: ../comps-el5.xml.in.h:72
 msgid "Various ways to relax and spend your free time."
-msgstr ""
-"Verschillende mogelijkheden om te ontspannen en uw vrije tijd te besteden."
+msgstr "Verschillende mogelijkheden om te ontspannen en uw vrije tijd te besteden."
 
 #: ../comps-f7.xml.in.h:183 ../comps-f8.xml.in.h:191 ../comps-f9.xml.in.h:198
 #: ../comps-f10.xml.in.h:210 ../comps-f11.xml.in.h:242
@@ -1312,19 +1298,16 @@ msgid "Amazigh Support"
 msgstr "Ondersteuning voor Amazigh"
 
 #: ../comps-f11.xml.in.h:13
-#, fuzzy
 msgid "Azerbaijani Support"
-msgstr "Ondersteuning voor Servisch"
+msgstr "Azerbaijani Support"
 
 #: ../comps-f11.xml.in.h:27
-#, fuzzy
 msgid "Chichewa Support"
-msgstr "Ondersteuning voor Chinees"
+msgstr "Chichewa Support"
 
 #: ../comps-f11.xml.in.h:31
-#, fuzzy
 msgid "Coptic Support"
-msgstr "Ondersteuning voor Kroatisch"
+msgstr "Coptic Support"
 
 #: ../comps-f11.xml.in.h:37
 msgid "Design and Simulation tools for hardware engineers"
@@ -1335,9 +1318,8 @@ msgid "Electronic Lab"
 msgstr "Elektronisch lab"
 
 #: ../comps-f11.xml.in.h:58
-#, fuzzy
 msgid "Fijian Support"
-msgstr "Ondersteuning voor Fries"
+msgstr "Fijian Support"
 
 #: ../comps-f11.xml.in.h:61
 msgid "Font design and packaging"
@@ -1352,47 +1334,40 @@ msgid "Friulian Support"
 msgstr "Ondersteuning voor Friulisch"
 
 #: ../comps-f11.xml.in.h:83
-#, fuzzy
 msgid "Hiligaynon Support"
-msgstr "Ondersteuning voor Filipijns"
+msgstr "Hiligaynon Support"
 
 #: ../comps-f11.xml.in.h:96
-#, fuzzy
 msgid "Interlingua Support"
-msgstr "Ondersteuning voor Italiaans"
+msgstr "Interlingua Support"
 
 #: ../comps-f11.xml.in.h:109
-#, fuzzy
 msgid "Kazakh Support"
-msgstr "Ondersteuning voor Kannada"
+msgstr "Ondersteuning voor Kazakh"
 
 #: ../comps-f11.xml.in.h:111
 msgid "Kinyarwanda Support"
 msgstr "Ondersteuning voor Kinyarwanda"
 
 #: ../comps-f11.xml.in.h:118
-#, fuzzy
 msgid "Latin Support"
-msgstr "Ondersteuning voor Lets"
+msgstr "Ondersteuning voor Latijn"
 
 #: ../comps-f11.xml.in.h:126
-#, fuzzy
 msgid "Luxembourgish Support"
-msgstr "Ondersteuning voor Turks"
+msgstr "Ondersteuning voor Luxemburg"
 
 #: ../comps-f11.xml.in.h:130
 msgid "Malagasy Support"
 msgstr "Ondersteuning voor Malagasi"
 
 #: ../comps-f11.xml.in.h:133
-#, fuzzy
 msgid "Maltese Support"
-msgstr "Ondersteuning voor Maleis"
+msgstr "Ondersteuning voor Maltees"
 
 #: ../comps-f11.xml.in.h:134
-#, fuzzy
 msgid "Manx Support"
-msgstr "Ondersteuning voor Maleis"
+msgstr "Ondersteuning voor Manx"
 
 #: ../comps-f11.xml.in.h:137
 msgid "MinGW cross-compiler"
@@ -1411,14 +1386,12 @@ msgid "Online Help and Documentation"
 msgstr "Online hulp en documentatie"
 
 #: ../comps-f11.xml.in.h:164
-#, fuzzy
 msgid "Sanskrit Support"
-msgstr "Ondersteuning voor Spaans"
+msgstr "Ondersteuning voor Sanskrit"
 
 #: ../comps-f11.xml.in.h:165
-#, fuzzy
 msgid "Sardinian Support"
-msgstr "Ondersteuning voor Oekraïens"
+msgstr "Ondersteuning voor Sardinië"
 
 #: ../comps-f11.xml.in.h:182
 msgid "Sugar Desktop Environment"
@@ -1442,14 +1415,12 @@ msgstr ""
 "CAML programmeertaal en bibliotheken."
 
 #: ../comps-f11.xml.in.h:188
-#, fuzzy
 msgid "Swahili Support"
-msgstr "Ondersteuning voor Swati"
+msgstr "Ondersteuning voor Swahili"
 
 #: ../comps-f11.xml.in.h:196
-#, fuzzy
 msgid "Tetum Support"
-msgstr "Ondersteuning voor Telugu"
+msgstr "Ondersteuning voor Tetum"
 
 #: ../comps-f11.xml.in.h:223
 msgid ""
@@ -1516,22 +1487,19 @@ msgid "This group is a collection of network servers for specific purposes"
 msgstr "Deze groep is een collectie van netwerkservers voor specifieke doelen"
 
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:63
-msgid ""
-"This group is a collection of tools and resources of Arabic environments."
+msgid "This group is a collection of tools and resources of Arabic environments."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen en hulpbronnen voor Arabische "
 "omgevingen."
 
 #: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:66
-msgid ""
-"This group is a collection of tools and resources of Hebrew environments."
+msgid "This group is a collection of tools and resources of Hebrew environments."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen en hulpbronnen voor Hebreeuwse "
 "omgevingen."
 
 #: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:67
-msgid ""
-"This group is a collection of tools and resources of Japanese environments."
+msgid "This group is a collection of tools and resources of Japanese environments."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen en hulpbronnen voor Japanse "
 "omgevingen."
@@ -1541,395 +1509,8 @@ msgid "XEmacs"
 msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:65
-msgid ""
-"This group is a collection of tools and resources of Czech environments."
+msgid "This group is a collection of tools and resources of Czech environments."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen en hulpbronnen voor Tsjechische "
 "omgevingen."
 
-#~ msgid "Haskell"
-#~ msgstr "Haskell"
-
-#~ msgid "British Support"
-#~ msgstr "Britse ondersteuning"
-
-#~ msgid "Cluster Storage"
-#~ msgstr "Cluster-opslag"
-
-#~ msgid "Clustering Support."
-#~ msgstr "Cluster-ondersteuning."
-
-#~ msgid "Miscellaneous Included Packages"
-#~ msgstr "Verschillende bijgeleverde pakketten"
-
-#~ msgid "Packages which provide support for cluster storage."
-#~ msgstr "Pakketten die ondersteuning bieden voor cluster-opslag."
-
-#~ msgid "Packages which provide support for single-node GFS."
-#~ msgstr "Pakketten die ondersteuning bieden voor single-node GFS."
-
-#~ msgid "Single Node GFS Support"
-#~ msgstr "Single Node GFS ondersteuning"
-
-#~ msgid "These packages provide compatibility support with previous releases."
-#~ msgstr ""
-#~ "Deze pakketten bieden compatibiliteitsondersteuning met voorgaande "
-#~ "versies."
-
-#~ msgid "Java Runtime Environments and Development Kits"
-#~ msgstr "Java Runtime Environments en Development Kits"
-
-#~ msgid "Misc"
-#~ msgstr "Diverse"
-
-#~ msgid "Misc packages"
-#~ msgstr "Diverse pakketten"
-
-#~ msgid "Multimedia"
-#~ msgstr "Multimedia"
-
-#~ msgid "Multimedia applications"
-#~ msgstr "Multimedia-toepassingen"
-
-#~ msgid ""
-#~ "Packages which provide additional functionality for Red Hat Enterprise "
-#~ "Linux"
-#~ msgstr ""
-#~ "Pakketten die additionele functionaliteit bieden voor Red Hat Enterprise "
-#~ "Linux"
-
-#, fuzzy
-#~ msgid "Red Hat Enterprise Linux Supplementary"
-#~ msgstr "Red Hat Enterprise Linux 3 Documentatie"
-
-#~ msgid "Virtualization Support."
-#~ msgstr "Ondersteuning voor virtualisatie."
-
-#, fuzzy
-#~ msgid "Somail Support"
-#~ msgstr "Swati ondersteuning"
-
-#~ msgid "Compatibility Arch Development Support"
-#~ msgstr "Architectuur compatibiliteitsondersteuning voor ontwikkeling"
-
-#~ msgid "Compatibility Arch Mozilla Support"
-#~ msgstr "Architectuur compatibiliteitsondersteuning voor Mozilla"
-
-#~ msgid "Compatibility Arch Support"
-#~ msgstr "Architectuur compatibiliteitsondersteuning"
-
-#~ msgid "Cyrillic Support"
-#~ msgstr "Cyrillische ondersteuning"
-
-#~ msgid "Desktops"
-#~ msgstr "Werkomgevingen"
-
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
-
-#~ msgid "GNOME"
-#~ msgstr "GNOME"
-
-#~ msgid "ISO8859-14 Support"
-#~ msgstr "ISO8859-14 ondersteuning"
-
-#~ msgid "ISO8859-15 Support"
-#~ msgstr "ISO8859-15 ondersteuning"
-
-#~ msgid "ISO8859-2 Support"
-#~ msgstr "ISO8859-2 ondersteuning"
-
-#~ msgid "ISO8859-9 Support"
-#~ msgstr "ISO8859-9 ondersteuning"
-
-#~ msgid "Install these packages to recompile the kernel."
-#~ msgstr ""
-#~ "Installeer deze pakketten om de kernel opnieuw te kunnen compileren."
-
-#~ msgid "KDE"
-#~ msgstr "KDE"
-
-#~ msgid "KDE Desktop Environment"
-#~ msgstr "KDE-werkomgeving"
-
-#~ msgid "Kernel Development"
-#~ msgstr "Kernelontwikkeling"
-
-#~ msgid "Mozilla packages for the x86 platform"
-#~ msgstr "Mozilla pakketten voor het x86 platform"
-
-#~ msgid "Multilib support packages"
-#~ msgstr "Support pakketten voor Multilib"
-
-#~ msgid "SQL Database"
-#~ msgstr "SQL Database"
-
-#~ msgid "Server"
-#~ msgstr "Server"
-
-#~ msgid "Support for developing packages for the non-primary architecture"
-#~ msgstr ""
-#~ "Ondersteuning voor het ontwikkelen van pakketten voor de niet-primaire "
-#~ "architectuur"
-
-#~ msgid "Syriac Support"
-#~ msgstr "Cyrische ondersteuning"
-
-#~ msgid "System"
-#~ msgstr "Systeem"
-
-#~ msgid "The GNU Emacs text editor."
-#~ msgstr "De GNU Emacs tekst-editor."
-
-#~ msgid ""
-#~ "These packages allow you to configure an IMAP or Postfix mail server."
-#~ msgstr ""
-#~ "Met deze pakketten kunt u een IMAP of Postfix e-mailserver configureren."
-
-#~ msgid ""
-#~ "These packages provide compatibility support for previous releases of Red "
-#~ "Hat Enterprise Linux."
-#~ msgstr ""
-#~ "Deze pakketten bieden compatibiliteitsondersteuning voor voorgaande "
-#~ "versies van Red Hat Enterprise Linux."
-
-#~ msgid "Unsupported Development Libraries"
-#~ msgstr "Niet-ondersteunde ontwikkelingsbibliotheken"
-
-#~ msgid "Workstation Common"
-#~ msgstr "Werkstation algemeen"
-
-#~ msgid "ppc64 Compatibility Arch Support"
-#~ msgstr "ppc64 Compatibiliteits-ondersteuning"
-
-#~ msgid "x86 Compatibility Arch Development Support"
-#~ msgstr "x86 Compatibiliteits-ondersteuning voor softwareontwikkeling"
-
-#~ msgid "x86 Compatibility Arch Support"
-#~ msgstr "x86 Compatibiliteits-ondersteuning"
-
-#~ msgid "Brazilian Portuguese"
-#~ msgstr "Braziliaans Portugees"
-
-#~ msgid "English"
-#~ msgstr "Engels"
-
-#~ msgid "French"
-#~ msgstr "Frans"
-
-#~ msgid "German"
-#~ msgstr "Duits"
-
-#~ msgid "Italian"
-#~ msgstr "Italiaans"
-
-#~ msgid "Spanish"
-#~ msgstr "Spaans"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Brazilian Portuguese language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de "
-#~ "Braziliaans- Portugese taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "English language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Engelse "
-#~ "taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "French language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Franse "
-#~ "taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "German language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Duitse "
-#~ "taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Italian language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de "
-#~ "Italiaanse taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Spanish language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Spaanse "
-#~ "taal."
-
-#~ msgid "Japanese"
-#~ msgstr "Japans"
-
-#~ msgid "Korean"
-#~ msgstr "Koreaans"
-
-#~ msgid "Simplified Chinese"
-#~ msgstr "Versimpeld Chinees"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Japanese language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Japanse "
-#~ "taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Korean language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Koreaanse "
-#~ "taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Simplified Chinese language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de "
-#~ "Versimpeld Chinese taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Traditional Chinese language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de "
-#~ "Traditioneel Chinese taal."
-
-#~ msgid "Traditional Chinese"
-#~ msgstr "Traditioneel Chinees"
-
-#~ msgid "ppc64 Compatibility Arch Development Support"
-#~ msgstr "ppc64 Compatibiliteits-ondersteuning voor softwareontwikkeling"
-
-#~ msgid "Bengali"
-#~ msgstr "Bengaals"
-
-#~ msgid "Gujarati"
-#~ msgstr "Gujarati"
-
-#~ msgid "Hindi"
-#~ msgstr "Hindi"
-
-#~ msgid "Punjabi"
-#~ msgstr "Punjabi"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Bengali language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Bengaalse "
-#~ "taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Gujarati language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Gujarati "
-#~ "taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Hindi language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Hindi "
-#~ "taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Punjabi language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Punjabi "
-#~ "taal."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Tamil language."
-#~ msgstr ""
-#~ "Deze groep bevat de Red Hat Enterprise Linux documentatie in de Tamil "
-#~ "taal."
-
-#~ msgid "Red Hat Enterprise Linux Extras"
-#~ msgstr "Red Hat Enterprise Linux Extras"
-
-#~ msgid "Workstation"
-#~ msgstr "Werkstation"
-
-#~ msgid "Workstation applications and utilities."
-#~ msgstr "Toepassingen en hulpprogramma's voor werkstations."
-
-#~ msgid "Compatibility Arch"
-#~ msgstr "Architectuur compatibiliteit"
-
-#~ msgid "Compatibility Arch Libraries"
-#~ msgstr "Architectuur compatibiliteitsbibliotheken"
-
-#~ msgid "Multilib library packages"
-#~ msgstr "Library pakketten voor Multilib"
-
-#~ msgid ""
-#~ "Packages which provide functionality for the compatibility architecture."
-#~ msgstr ""
-#~ "Pakketten die functionaliteit bieden voor de architectuur compatibiliteit."
-
-#~ msgid "IBM eServer iSeries/pSeries Provided Software"
-#~ msgstr "Software voor IBM eServer iSeries/pSeries"
-
-#~ msgid "Software provided by IBM for eServer iSeries and pSeries machines"
-#~ msgstr ""
-#~ "Software geleverd door IBM voor eServer iSeries and pSeries machines"
-
-#~ msgid "HPC"
-#~ msgstr "HPC"
-
-#~ msgid "High Performance Computing Support"
-#~ msgstr "Ondersteuning voor High Performance Computing"
-
-#~ msgid ""
-#~ "These packages provide the kernel and userspace tools needed for using "
-#~ "the Xen virtual machine monitor"
-#~ msgstr ""
-#~ "Deze pakketten bieden de kernel en userspace-hulpmiddelen die nodig zijn "
-#~ "om de Xen virtual machine monitor te gebruiken"
-
-#~ msgid "Xen"
-#~ msgstr "Xen"
-
-#~ msgid "Cups"
-#~ msgstr "Cups"
-
-#~ msgid "Cups printing service and drivers to use it."
-#~ msgstr "Cups printerondersteuning en bijbehorende stuurprogramma's."
-
-#~ msgid "SQL Database Server"
-#~ msgstr "SQL-databaseserver"
-
-#~ msgid "Supported Packages"
-#~ msgstr "Ondersteunde pakketten"
-
-#~ msgid ""
-#~ "These packages include network-based servers such as CIPE, DHCP, and "
-#~ "telnet."
-#~ msgstr ""
-#~ "Deze pakketten bevatten netwerkgebaseerde servers als CIPE, DHCP en "
-#~ "telnet."
-
-#~ msgid "This package group allows you to run an SQL server on the system."
-#~ msgstr "Met deze pakketgroep kunt u een SQL-server op het systeem draaien."
-
-#~ msgid "GNOME Desktop"
-#~ msgstr "GNOME Desktop"
-
-#~ msgid ""
-#~ "These packages include network-based servers such as DHCP and telnet."
-#~ msgstr ""
-#~ "Deze pakketten bevatten netwerkgebaseerde servers als DHCP en telnet."
