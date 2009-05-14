@@ -1754,8 +1754,6 @@
       <packagereq type="optional">mgopen-cosmetica-fonts</packagereq>
       <packagereq type="optional">mgopen-modata-fonts</packagereq>
       <packagereq type="optional">mgopen-moderna-fonts</packagereq>
-      <packagereq type="optional">mona-sazanami-fonts</packagereq>
-      <packagereq type="optional">mona-vlgothic-fonts</packagereq>
       <packagereq type="optional">myanmar3-unicode-fonts</packagereq>
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
@@ -3108,9 +3106,9 @@
       <packagereq type="optional">mfiler2</packagereq>
       <packagereq type="optional">mfiler3</packagereq>
       <packagereq type="optional">migemo</packagereq>
-      <packagereq type="optional">mona-fonts-bitmap</packagereq>
-      <packagereq type="optional">mona-fonts-sazanami</packagereq>
-      <packagereq type="optional">mona-fonts-VLGothic</packagereq>
+      <packagereq type="optional">mona-bitmap-fonts</packagereq>
+      <packagereq type="optional">mona-sazanami-fonts</packagereq>
+      <packagereq type="optional">mona-vlgothic-fonts</packagereq>
       <packagereq type="optional">nkf</packagereq>
       <packagereq type="optional">oniguruma</packagereq>
       <packagereq type="optional">perl-NKF</packagereq>
@@ -4052,7 +4050,6 @@
       <packagereq type="mandatory">madan-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ne</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Nepali</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
       <packagereq type="optional">scim-tables-nepali</packagereq>
     </packagelist>
@@ -4119,17 +4116,6 @@
       <packagereq type="optional">newscache</packagereq>
       <packagereq type="optional">newsx</packagereq>
       <packagereq type="optional">suck</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>northern-sami-support</id>
-    <_name>Northern Sami Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>se</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-NorthernSami</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5203,7 +5189,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-ta</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Tamil</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Tamil</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ta</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ta_lk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ta_IN</packagereq>
