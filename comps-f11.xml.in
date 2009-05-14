@@ -1663,6 +1663,7 @@
       <packagereq type="default">vlgothic-fonts</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
+      <packagereq type="optional">aplus-fsf-KAPL-fonts</packagereq>
       <packagereq type="optional">asana-math-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-dotum-fonts</packagereq>
@@ -1685,13 +1686,12 @@
       <packagereq type="optional">dejavu-lgc-sans-fonts</packagereq>
       <packagereq type="optional">dejavu-lgc-sans-mono-fonts</packagereq>
       <packagereq type="optional">dejavu-lgc-serif-fonts</packagereq>
-      <packagereq type="optional">denenmo-music-fonts</packagereq>
+      <packagereq type="optional">denemo-music-fonts</packagereq>
       <packagereq type="optional">dustin-domestic-manners-fonts</packagereq>
       <packagereq type="optional">dustin-dustismo-roman-fonts</packagereq>
       <packagereq type="optional">dustin-dustismo-sans-fonts</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
       <packagereq type="optional">ecolier-court-lignes-fonts</packagereq>
-      <packagereq type="optional">fonts-truetype-apl</packagereq>
       <packagereq type="optional">freecol-shadowedblack-fonts</packagereq>
       <packagereq type="optional">gfs-ambrosia-fonts</packagereq>
       <packagereq type="optional">gfs-artemisia-fonts</packagereq>
@@ -1715,7 +1715,9 @@
       <packagereq type="optional">google-droid-sans-fonts</packagereq>
       <packagereq type="optional">google-droid-sans-mono-fonts</packagereq>
       <packagereq type="optional">google-droid-serif-fonts</packagereq>
-      <packagereq type="optional">gnu-free-fonts</packagereq>
+      <packagereq type="optional">gnu-free-mono-fonts</packagereq>
+      <packagereq type="optional">gnu-free-sans-fonts</packagereq>
+      <packagereq type="optional">gnu-free-serif-fonts</packagereq>
       <packagereq type="optional">hanazono-fonts</packagereq>
       <packagereq type="optional">hartke-aurulent-sans-fonts</packagereq>
       <packagereq type="optional">hartke-aurulent-sans-mono-fonts</packagereq>
@@ -1728,7 +1730,7 @@
       <packagereq type="optional">khmeros-battambang-fonts</packagereq>
       <packagereq type="optional">khmeros-bokor-fonts</packagereq>
       <packagereq type="optional">khmeros-handwritten-fonts</packagereq>
-      <packagereq type="optional">khmeros-metalchrieng-fonts</packagereq>
+      <packagereq type="optional">khmeros-metal-chrieng-fonts</packagereq>
       <packagereq type="optional">khmeros-muol-fonts</packagereq>
       <packagereq type="optional">khmeros-siemreap-fonts</packagereq>
       <packagereq type="optional">kurdit-unikurd-web-fonts</packagereq>
@@ -1752,8 +1754,8 @@
       <packagereq type="optional">mgopen-cosmetica-fonts</packagereq>
       <packagereq type="optional">mgopen-modata-fonts</packagereq>
       <packagereq type="optional">mgopen-moderna-fonts</packagereq>
-      <packagereq type="optional">mona-fonts-sazanami</packagereq>
-      <packagereq type="optional">mona-fonts-VLGothic</packagereq>
+      <packagereq type="optional">mona-sazanami-fonts</packagereq>
+      <packagereq type="optional">mona-vlgothic-fonts</packagereq>
       <packagereq type="optional">myanmar3-unicode-fonts</packagereq>
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
@@ -2628,7 +2630,7 @@
       <packagereq type="conditional" requires="moodle">moodle-el</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-el</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-el_GR</packagereq>
-      <packagereq type="conditional" requires="texlive">tetex-font-kerkis</packagereq>
+      <packagereq type="conditional" requires="texlive">tex-kerkis</packagereq>
       <packagereq type="conditional" requires="texlive">tex-cm-lgc</packagereq>
       <packagereq type="optional">ctan-kerkis-calligraphic-fonts</packagereq>
       <packagereq type="optional">ctan-kerkis-sans-fonts</packagereq>
@@ -3637,13 +3639,12 @@
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
-      <packagereq type="optional">fonts-x11-apl</packagereq>
       <packagereq type="optional">ghostscript-fonts</packagereq>
       <packagereq type="optional">japanese-bitmap-fonts</packagereq>
       <packagereq type="optional">jisksp16-1990-fonts</packagereq>
       <packagereq type="optional">knm_new-fonts</packagereq>
       <packagereq type="optional">libdockapp-fonts</packagereq>
-      <packagereq type="optional">mona-fonts-bitmap</packagereq>
+      <packagereq type="optional">mona-bitmap-fonts</packagereq>
       <packagereq type="optional">taipeifonts</packagereq>
       <packagereq type="optional">terminus-fonts-console</packagereq>
       <packagereq type="optional">terminus-fonts</packagereq>
