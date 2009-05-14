@@ -31,7 +31,6 @@
       <packagereq type="optional">lshw-gui</packagereq>
       <packagereq type="optional">luma</packagereq>
       <packagereq type="optional">ntop</packagereq>
-      <packagereq type="optional">opyum</packagereq>
       <packagereq type="optional">pessulus</packagereq>
       <packagereq type="optional">qtparted</packagereq>
       <packagereq type="optional">system-config-kickstart</packagereq>
@@ -362,22 +361,15 @@
       <packagereq type="optional">aterm</packagereq>
       <packagereq type="optional">devilspie</packagereq>
       <packagereq type="optional">gdm</packagereq>
-      <packagereq type="optional">gxmessage</packagereq>
-      <packagereq type="optional">lilyterm</packagereq>
-      <packagereq type="optional">lineak-defaultplugin</packagereq>
-      <packagereq type="optional">lineak-xosdplugin</packagereq>
-      <packagereq type="optional">lineakd</packagereq>
       <packagereq type="optional">lxpanel</packagereq>
       <packagereq type="optional">roxterm</packagereq>
       <packagereq type="optional">rss-glx</packagereq>
       <packagereq type="optional">rss-glx-xscreensaver</packagereq>
       <packagereq type="optional">rxvt</packagereq>
-      <packagereq type="optional">sakura</packagereq>
       <packagereq type="optional">slim</packagereq>
       <packagereq type="optional">switchdesk</packagereq>
       <packagereq type="optional">system-config-display</packagereq>
       <packagereq type="optional">system-switch-displaymanager</packagereq>
-      <packagereq type="optional">termit</packagereq>
       <packagereq type="optional">tigervnc-server</packagereq>
       <packagereq type="optional">uim-gtk2</packagereq>
       <packagereq type="optional">workrave</packagereq>
@@ -679,9 +671,7 @@
       <packagereq type="default">cluster-cim</packagereq>
       <packagereq type="default">cluster-snmp</packagereq>
       <packagereq type="default">ipvsadm</packagereq>
-      <packagereq type="default">luci</packagereq>
       <packagereq type="default">modcluster</packagereq>
-      <packagereq type="default">pirahna</packagereq>
       <packagereq type="default">rgmanager</packagereq>
       <packagereq type="default">ricci</packagereq>
       <packagereq type="default">system-config-cluster</packagereq>
@@ -951,7 +941,6 @@
       <packagereq type="optional">colordiff</packagereq>
       <packagereq type="optional">coredumper</packagereq>
       <packagereq type="optional">cpan-upload</packagereq>
-      <packagereq type="optional">cpan2rpm</packagereq>
       <packagereq type="optional">cpanspec</packagereq>
       <packagereq type="optional">cppunit</packagereq>
       <packagereq type="optional">cproto</packagereq>
@@ -1033,7 +1022,6 @@
       <packagereq type="optional">patchy</packagereq>
       <packagereq type="optional">perl-perlmenu</packagereq>
       <packagereq type="optional">perltidy</packagereq>
-      <packagereq type="optional">pgadmin3</packagereq>
       <packagereq type="optional">phpcs</packagereq>
       <packagereq type="optional">pikdev</packagereq>
       <packagereq type="optional">pl</packagereq>
@@ -1165,7 +1153,7 @@
       <packagereq type="default">eclipse-pydev</packagereq>
       <packagereq type="default">eclipse-rpm-editor</packagereq>
       <packagereq type="default">eclipse-subclipse</packagereq>
-      <packagereq type="optional">eclipse-cmake</packagereq>
+      <packagereq type="optional">eclipse-cmakeed</packagereq>
       <packagereq type="optional">eclipse-egit</packagereq>
       <packagereq type="optional">eclipse-epic</packagereq>
       <packagereq type="optional">eclipse-findbugs</packagereq>
@@ -1327,7 +1315,7 @@
       <packagereq type="optional">glglobe</packagereq>
       <packagereq type="optional">gperiodic</packagereq>
       <packagereq type="optional">gtypist</packagereq>
-      <packagereq type="optional">justmoon</packagereq>
+      <packagereq type="optional">justmoon-gtk</packagereq>
       <packagereq type="optional">kdeedu</packagereq>
       <packagereq type="optional">kdeedu-kstars</packagereq>
       <packagereq type="optional">kdeedu-math</packagereq>
@@ -1364,7 +1352,6 @@
       <packagereq type="optional">funtools</packagereq>
       <packagereq type="optional">gabedit</packagereq>
       <packagereq type="optional">galculator</packagereq>
-      <packagereq type="optional">gchempaint</packagereq>
       <packagereq type="optional">gdl</packagereq>
       <packagereq type="optional">geant321</packagereq>
       <packagereq type="optional">genius</packagereq>
@@ -1931,7 +1918,6 @@
       <packagereq type="default">gnome-games</packagereq>
       <packagereq type="default">gnome-games-help</packagereq>
       <packagereq type="default">joystick</packagereq>
-      <packagereq type="optional">8Kingdoms</packagereq>
       <packagereq type="optional">abe</packagereq>
       <packagereq type="optional">abuse</packagereq>
       <packagereq type="optional">adanaxisgpl</packagereq>
@@ -2065,7 +2051,6 @@
       <packagereq type="optional">mirrormagic</packagereq>
       <packagereq type="optional">monkey-bubble</packagereq>
       <packagereq type="optional">monsterz</packagereq>
-      <packagereq type="optional">moon-buddy</packagereq>
       <packagereq type="optional">nagi</packagereq>
       <packagereq type="optional">naturette</packagereq>
       <packagereq type="optional">nazghul</packagereq>
@@ -2137,7 +2122,7 @@
       <packagereq type="optional">TnL</packagereq>
       <packagereq type="optional">tong</packagereq>
       <packagereq type="optional">torcs</packagereq>
-      <packagereq type="optional">torcs-data-cars-nascar</packagereq>
+      <packagereq type="optional">torcs-data-cars-extra</packagereq>
       <packagereq type="optional">torcs-data-tracks-dirt</packagereq>
       <packagereq type="optional">torcs-data-tracks-oval</packagereq>
       <packagereq type="optional">trackballs</packagereq>
@@ -2409,7 +2394,6 @@
       <packagereq type="optional">gazpacho</packagereq>
       <packagereq type="optional">gconfmm26-devel</packagereq>
       <packagereq type="optional">gedit-vala</packagereq>
-      <packagereq type="optional">ghc-gtk</packagereq>
       <packagereq type="optional">glade2</packagereq>
       <packagereq type="optional">glibmm24-devel</packagereq>
       <packagereq type="optional">gnome-common</packagereq>
@@ -2879,7 +2863,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="gtk2">ibus-gtk</packagereq>
-      <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
+      <packagereq type="conditional" requires="qt">ibus</packagereq>
       <packagereq type="conditional" requires="xfce-utils">imsettings-xfce</packagereq>
       <packagereq type="default">ibus</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
@@ -2906,7 +2890,6 @@
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">gok</packagereq>
       <packagereq type="optional">ibus-table-additional</packagereq>
-      <packagereq type="optional">ibus-table-chinese</packagereq>
       <packagereq type="optional">iok</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">m17n-contrib-esperanto</packagereq>
@@ -3083,7 +3066,6 @@
       <packagereq type="default">sazanami-mincho-fonts</packagereq>
       <packagereq type="default">vlgothic-fonts</packagereq>
       <packagereq type="default">vlgothic-p-fonts</packagereq>
-      <packagereq type="optional">anthy-el</packagereq>
       <packagereq type="optional">cmigemo</packagereq>
       <packagereq type="optional">ddskk</packagereq>
       <packagereq type="optional">ddskk-xemacs</packagereq>
@@ -3141,7 +3123,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">ant</packagereq>
-      <packagereq type="mandatory">eclipse-ecj</packagereq>
+      <packagereq type="mandatory">ecj</packagereq>
       <packagereq basearchonly="true" type="mandatory">gcc-java</packagereq>
       <packagereq type="mandatory">java-1.5.0-gcj-devel</packagereq>
       <packagereq type="mandatory">libgcj-devel</packagereq>
@@ -3411,7 +3393,6 @@
       <packagereq type="optional">ksig</packagereq>
       <packagereq type="optional">leonidas-kde-theme-landscape</packagereq>
       <packagereq type="optional">leonidas-kde-theme-lion</packagereq>
-      <packagereq type="optional">lineak-kdeplugins</packagereq>
       <packagereq type="optional">metamonitor</packagereq>
       <packagereq type="optional">oooqs2</packagereq>
       <packagereq type="optional">polyester</packagereq>
@@ -3445,7 +3426,7 @@
       <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="default">qt3-designer</packagereq>
       <packagereq type="default">qt3-devel</packagereq>
-      <packagereq type="optional">gambas</packagereq>
+      <packagereq type="optional">gambas-runtime</packagereq>
       <packagereq type="optional">kdebase-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
       <packagereq type="optional">kdeedu-devel</packagereq>
@@ -5071,8 +5052,6 @@
       <packagereq type="optional">macchanger</packagereq>
       <packagereq type="optional">mc</packagereq>
       <packagereq type="optional">mmv</packagereq>
-      <packagereq type="optional">moodss</packagereq>
-      <packagereq type="optional">moomps</packagereq>
       <packagereq type="optional">mrtg</packagereq>
       <packagereq type="optional">mtx</packagereq>
       <packagereq type="optional">munin</packagereq>
@@ -5257,7 +5236,6 @@
       <packagereq type="optional">isync</packagereq>
       <packagereq type="optional">libtranslate</packagereq>
       <packagereq type="optional">lynx</packagereq>
-      <packagereq type="optional">nail</packagereq>
       <packagereq type="optional">naim</packagereq>
       <packagereq type="optional">ncftp</packagereq>
       <packagereq type="optional">ninja</packagereq>
@@ -5627,7 +5605,6 @@
       <packagereq type="optional">obconf</packagereq>
       <packagereq type="optional">obmenu</packagereq>
       <packagereq type="optional">openbox</packagereq>
-      <packagereq type="optional">pekwm</packagereq>
       <packagereq type="optional">ratpoison</packagereq>
       <packagereq type="optional">WindowMaker</packagereq>
       <packagereq type="optional">wmx</packagereq>
