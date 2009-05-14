@@ -426,7 +426,6 @@
     <langonly>be</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-be</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Belarusian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-be</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
     </packagelist>
@@ -1468,7 +1467,6 @@
     <langonly>eo</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-eo</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Esperanto</packagereq>
       <packagereq type="optional">m17n-contrib-esperanto</packagereq>
     </packagelist>
   </group>
@@ -2335,7 +2333,6 @@
       <packagereq type="optional">istanbul</packagereq>
       <packagereq type="optional">lock-keys-applet</packagereq>
       <packagereq type="optional">nautilus-actions</packagereq>
-      <packagereq type="optional">nautilus-cd-burner</packagereq>
       <packagereq type="optional">nautilus-image-converter</packagereq>
       <packagereq type="optional">nautilus-open-terminal</packagereq>
       <packagereq type="optional">nautilus-search-tool</packagereq>
