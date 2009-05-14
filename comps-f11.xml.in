@@ -817,7 +817,6 @@
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Danish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Danish</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-da</packagereq>
-      <packagereq type="conditional" requires="man-pages">man-pages-da</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-da</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-da</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-da_DK</packagereq>
@@ -2507,7 +2506,6 @@
       <packagereq type="optional">kdepim</packagereq>
       <packagereq type="optional">kdewebdev</packagereq>
       <packagereq type="optional">kftpgrabber</packagereq>
-      <packagereq type="optional">kickpim</packagereq>
       <packagereq type="optional">kita</packagereq>
       <packagereq type="optional">knetstats</packagereq>
       <packagereq type="optional">konversation</packagereq>
@@ -3381,8 +3379,6 @@
       <packagereq type="optional">compiz-kde</packagereq>
       <packagereq type="optional">crystal</packagereq>
       <packagereq type="optional">gtk-qt-engine</packagereq>
-      <packagereq type="optional">katapult</packagereq>
-      <packagereq type="optional">kbackup</packagereq>
       <packagereq type="optional">kbibtex</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
       <packagereq type="optional">kchmviewer</packagereq>
@@ -3403,10 +3399,8 @@
       <packagereq type="optional">kiconedit</packagereq>
       <packagereq type="optional">kiosktool</packagereq>
       <packagereq type="optional">klamav</packagereq>
-      <packagereq type="optional">kleansweep</packagereq>
       <packagereq type="optional">kmenu-gnome</packagereq>
       <packagereq type="optional">kmid</packagereq>
-      <packagereq type="optional">kmobiletools</packagereq>
       <packagereq type="optional">kmymoney2</packagereq>
       <packagereq type="optional">koffice-suite</packagereq>
       <packagereq type="optional">koverartist</packagereq>
@@ -3416,7 +3410,6 @@
       <packagereq type="optional">ksensors</packagereq>
       <packagereq type="optional">kshutdown</packagereq>
       <packagereq type="optional">ksig</packagereq>
-      <packagereq type="optional">kyum</packagereq>
       <packagereq type="optional">leonidas-kde-theme-landscape</packagereq>
       <packagereq type="optional">leonidas-kde-theme-lion</packagereq>
       <packagereq type="optional">lineak-kdeplugins</packagereq>
