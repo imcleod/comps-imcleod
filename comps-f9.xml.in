@@ -735,6 +735,9 @@
       <packagereq type="default">cyrus-sasl-devel</packagereq>
       <packagereq type="default">db4-devel</packagereq>
       <packagereq type="default">dbus-devel</packagereq>
+      <packagereq type="default">dbus-cxx-devel</packagereq>
+      <packagereq type="default">dbus-cxx-doc</packagereq>
+      <packagereq type="default">dbus-cxx-tools</packagereq>
       <packagereq type="default">expat-devel</packagereq>
       <packagereq type="default">gdbm-devel</packagereq>
       <packagereq type="default">geoclue-devel</packagereq>
@@ -828,6 +831,7 @@
       <packagereq type="optional">clips</packagereq>
       <packagereq type="optional">clips-doc</packagereq>
       <packagereq type="optional">clips-xclips</packagereq>
+      <packagereq type="optional">clipsmm-devel</packagereq>
       <packagereq type="optional">clisp</packagereq>
       <packagereq type="optional">cmake</packagereq>
       <packagereq type="optional">cmucl</packagereq>
@@ -905,6 +909,7 @@
       <packagereq type="optional">nasm</packagereq>
       <packagereq type="optional">nemiver</packagereq>
       <packagereq type="optional">nqc</packagereq>
+      <packagereq type="optional">nqc-doc</packagereq>
       <packagereq type="optional">ocaml</packagereq>
       <packagereq type="optional">oorexx</packagereq>
       <packagereq type="optional">patchy</packagereq>
@@ -2008,6 +2013,9 @@
       <packagereq type="optional">libsigc++20-devel</packagereq>
       <packagereq type="optional">nemiver</packagereq>
       <packagereq type="optional">papyrus-devel</packagereq>
+      <packagereq type="optional">papyrus-doc</packagereq>
+      <packagereq type="optional">papyrus-extras-devel</packagereq>
+      <packagereq type="optional">papyrus-gtkmm-devel</packagereq>
       <packagereq type="optional">plotmm-devel</packagereq>
       <packagereq type="optional">scim-devel</packagereq>
     </packagelist>
@@ -3315,12 +3323,14 @@
       <packagereq type="optional">tellico</packagereq>
       <packagereq type="optional">tetex-xdvi</packagereq>
       <packagereq type="optional">texmaker</packagereq>
+      <packagereq type="optional">tetex-IEEEtran</packagereq>
       <packagereq type="optional">tinyerp</packagereq>
       <packagereq type="optional">tinyerp-server</packagereq>
       <packagereq type="optional">vym</packagereq>
       <packagereq type="optional">wyrd</packagereq>
       <packagereq type="optional">xchm</packagereq>
       <packagereq type="optional">xfbib</packagereq>
+      <packagereq type="optional">xournal</packagereq>
       <packagereq type="optional">Zim</packagereq>
     </packagelist>
   </group>
