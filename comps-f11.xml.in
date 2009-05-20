@@ -3745,6 +3745,8 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">lxde-common</packagereq>
+      <packagereq type="mandatory">lxde-settings-daemon</packagereq>
+      <packagereq type="mandatory">lxmenu-data</packagereq>
       <packagereq type="mandatory">lxpanel</packagereq>
       <packagereq type="mandatory">lxsession-lite</packagereq>
       <packagereq type="mandatory">openbox</packagereq>
@@ -3752,7 +3754,9 @@
       <packagereq type="default">gpicview</packagereq>
       <packagereq type="default">leafpad</packagereq>
       <packagereq type="default">lxappearance</packagereq>
+      <packagereq type="default">lxinput</packagereq>
       <packagereq type="default">lxsession-edit</packagereq>
+      <packagereq type="default">lxshortcut</packagereq>
       <packagereq type="default">lxtask</packagereq>
       <packagereq type="default">lxterminal</packagereq>
       <packagereq type="default">obconf</packagereq>
