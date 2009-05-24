@@ -5778,15 +5778,15 @@
       <groupreq>x-software-development</groupreq>
     </grouplist>
     <packagelist>
-      <packagereq type="mandatory">libxfce4menu-devel</packagereq>
       <packagereq type="mandatory">libxfce4util-devel</packagereq>
       <packagereq type="mandatory">libxfcegui4-devel</packagereq>
-      <packagereq type="mandatory">xfce4-panel-devel</packagereq>
-      <packagereq type="mandatory">xfce4-session-devel</packagereq>
-      <packagereq type="mandatory">xfconf-devel</packagereq>
       <packagereq type="default">exo-devel</packagereq>
+      <packagereq type="default">libxfce4menu-devel</packagereq>
+      <packagereq type="default">xfce4-panel-devel</packagereq>
+      <packagereq type="default">xfconf-devel</packagereq>
       <packagereq type="default">Thunar-devel</packagereq>
       <packagereq type="optional">xfce4-dev-tools</packagereq>
+      <packagereq type="optional">xfce4-session-devel</packagereq>
     </packagelist>
   </group>
   <group>
