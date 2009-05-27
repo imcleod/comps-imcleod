@@ -2810,6 +2810,7 @@
       <packagereq type="mandatory">m17n-contrib-hindi</packagereq>
       <packagereq type="mandatory">m17n-db-hindi</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-hi</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-hi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-hi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-hi</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-hi</packagereq>
@@ -4015,6 +4016,7 @@
     <langonly>mn</langonly>
     <packagelist>
       <packagereq type="conditional" requires="autocorr-en">autocorr-mn</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-mn</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-mn</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-mn</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-mn</packagereq>
