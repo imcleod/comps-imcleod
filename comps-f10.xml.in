@@ -1309,6 +1309,7 @@
     <uservisible>false</uservisible>
     <langonly>et</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-et</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ee</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-et</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Estonian</packagereq>
@@ -2486,6 +2487,7 @@
       <packagereq type="mandatory">m17n-contrib-hindi</packagereq>
       <packagereq type="mandatory">m17n-db-hindi</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-hi</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-hi</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-hi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-hi</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Hindi</packagereq>
@@ -3520,6 +3522,7 @@
     <uservisible>false</uservisible>
     <langonly>mn</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-mn</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-mn</packagereq>
     </packagelist>
   </group>
