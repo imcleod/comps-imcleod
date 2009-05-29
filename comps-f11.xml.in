@@ -2203,8 +2203,23 @@
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ka</packagereq>
+      <packagereq type="default">bpg-chveulebrivi-fonts</packagereq>
+      <packagereq type="default">bpg-courier-fonts</packagereq>
+      <packagereq type="default">bpg-glaho-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
+      <packagereq type="optional">bpg-algeti-fonts</packagereq>
+      <packagereq type="optional">bpg-courier-s-fonts</packagereq>
+      <packagereq type="optional">bpg-elite-fonts</packagereq>
+      <packagereq type="optional">bpg-ingiri-fonts</packagereq>
+      <packagereq type="optional">bpg-nino-medium-cond-fonts</packagereq>
+      <packagereq type="optional">bpg-nino-medium-fonts</packagereq>
+      <packagereq type="optional">bpg-sans-fonts</packagereq>
+      <packagereq type="optional">bpg-sans-medium-fonts</packagereq>
+      <packagereq type="optional">bpg-sans-modern-fonts</packagereq>
+      <packagereq type="optional">bpg-sans-regular-fonts</packagereq>
+      <packagereq type="optional">bpg-serif-fonts</packagereq>
+      <packagereq type="optional">bpg-serif-modern-fonts</packagereq>
     </packagelist>
   </group>
   <group>
