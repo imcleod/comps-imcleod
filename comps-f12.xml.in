@@ -645,6 +645,9 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
       <packagereq type="default">taipeifonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
+      <packagereq type="optional">ibus-table-cangjie</packagereq>
+      <packagereq type="optional">ibus-table-erbi</packagereq>
+      <packagereq type="optional">ibus-table-wubi</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-chinese</packagereq>
       <packagereq type="optional">scim-array</packagereq>
@@ -2792,7 +2795,7 @@
   </group>
   <group>
     <id>haskell</id>
-    <_name>Haskell Development</_name>
+    <_name>Haskell</_name>
     <_description>Support for developing programs in the Haskell programming language.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
@@ -2969,7 +2972,11 @@
       <packagereq type="optional">cellwriter</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">gok</packagereq>
+      <packagereq type="optional">ibus-sayura</packagereq>
       <packagereq type="optional">ibus-table-additional</packagereq>
+      <packagereq type="optional">ibus-table-cangjie</packagereq>
+      <packagereq type="optional">ibus-table-erbi</packagereq>
+      <packagereq type="optional">ibus-table-wubi</packagereq>
       <packagereq type="optional">iok</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">m17n-contrib-esperanto</packagereq>
@@ -4686,6 +4693,7 @@
       <packagereq type="mandatory">m17n-contrib-sinhala</packagereq>
       <packagereq type="mandatory">m17n-db-sinhala</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-sayura</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-si</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
     </packagelist>
