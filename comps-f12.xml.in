@@ -1544,6 +1544,7 @@
       <packagereq type="mandatory">redhat-rpm-config</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
       <packagereq type="mandatory">rpmdevtools</packagereq>
+      <packagereq type="optional">cpanspec</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4389,6 +4390,22 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-or_IN</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-oriya-fonts</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>perl</id>
+    <_name>Perl Development</_name>
+    <_description>Support for developing programs in the Perl programming language.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">perl-core</packagereq>
+      <packagereq type="default">cpan-upload</packagereq>
+      <packagereq type="default">git-cpan-patch</packagereq>
+      <packagereq type="default">vim-perl-support</packagereq>
+      <packagereq type="default">perltidy</packagereq>
+      <packagereq type="default">eclipse-epic</packagereq>
+      <packagereq type="optional">perl-Task-Catalyst</packagereq>
     </packagelist>
   </group>
   <group>
