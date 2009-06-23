@@ -125,8 +125,8 @@
       <packagereq type="mandatory">lohit-bengali-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib-assamese</packagereq>
       <packagereq type="mandatory">m17n-db-assamese</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-as</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Bengali</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-as_IN</packagereq>
       <packagereq type="default">iok</packagereq>
@@ -3587,9 +3587,9 @@
     <langonly>ko</langonly>
     <packagelist>
       <packagereq type="mandatory">un-core-fonts-dotum</packagereq>
-      <packagereq type="conditional" requires="hunspell">hunspell-ko</packagereq>
       <packagereq type="conditional" requires="autocorr-en">autocorr-ko</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ko</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-ko</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-hangul</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Korean</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Korean</packagereq>
@@ -4409,12 +4409,12 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">perl-core</packagereq>
       <packagereq type="default">cpan-upload</packagereq>
-      <packagereq type="default">git-cpan-patch</packagereq>
-      <packagereq type="default">vim-perl-support</packagereq>
-      <packagereq type="default">perltidy</packagereq>
       <packagereq type="default">eclipse-epic</packagereq>
+      <packagereq type="default">git-cpan-patch</packagereq>
+      <packagereq type="default">perl-core</packagereq>
+      <packagereq type="default">perltidy</packagereq>
+      <packagereq type="default">vim-perl-support</packagereq>
       <packagereq type="optional">perl-Task-Catalyst</packagereq>
     </packagelist>
   </group>
@@ -4767,8 +4767,8 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-so</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-so</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-so</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-so</packagereq>
     </packagelist>
   </group>
