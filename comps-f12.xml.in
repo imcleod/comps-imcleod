@@ -140,6 +140,8 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="texlive">tex-cm-lgc</packagereq>
+      <packagereq type="default">docbook5-schemas</packagereq>
+      <packagereq type="default">docbook5-style-xsl</packagereq>
       <packagereq type="default">docbook-slides</packagereq>
       <packagereq type="default">docbook-style-dsssl</packagereq>
       <packagereq type="default">docbook-style-xsl</packagereq>
