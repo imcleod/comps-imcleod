@@ -333,13 +333,13 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">bitmap-fonts</packagereq>
       <packagereq type="mandatory">desktop-backgrounds-basic</packagereq>
       <packagereq type="mandatory">xorg-x11-drivers</packagereq>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
       <packagereq type="default">authconfig-gtk</packagereq>
+      <packagereq type="default">bitmap-fonts</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
       <packagereq type="default">firstboot</packagereq>
       <packagereq type="default">glx-utils</packagereq>
