@@ -4411,12 +4411,12 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="mandatory">perl-core</packagereq>
       <packagereq type="default">cpan-upload</packagereq>
-      <packagereq type="default">eclipse-epic</packagereq>
       <packagereq type="default">git-cpan-patch</packagereq>
-      <packagereq type="default">perl-core</packagereq>
       <packagereq type="default">perltidy</packagereq>
-      <packagereq type="default">vim-perl-support</packagereq>
+      <packagereq type="optional">eclipse-epic</packagereq>
+      <packagereq type="optional">vim-perl-support</packagereq>
       <packagereq type="optional">perl-Task-Catalyst</packagereq>
     </packagelist>
   </group>
