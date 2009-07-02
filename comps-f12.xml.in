@@ -520,6 +520,17 @@
     </packagelist>
   </group>
   <group>
+    <id>books</id>
+    <_name>Books and Guides</_name>
+    <_description> Books and Guides for Fedora users and developers</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">diveintopython</packagereq>
+      <packagereq type="default">ldd-pdf</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>buildsys-build</id>
     <_name>Buildsystem building group</_name>
     <_description/>
