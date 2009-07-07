@@ -762,6 +762,56 @@
       <packagereq type="default">yaboot</packagereq>
     </packagelist>
   </group>
+  <!-- 
+    Note: The critical-path-* groups are used to identify the packages
+    that are critical to the health of the distro. For details see:
+    https://fedoraproject.org/wiki/Critical_Path_Packages_Proposal
+    @core is also considered part of the Critical Path.
+  -->
+  <group>
+    <id>critical-path-base</id>
+    <_name>Critical Path (Base)</_name>
+    <_description>A set of packages that provide the shared platform for Critical Path functionality on all Fedora spins</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <!-- 'kernel' is listed because we need to ensure that kernel
+           packages exist and are installable etc. We're not using this
+           to force-install 'kernel' over 'kernel-PAE' or anything. -->
+      <packagereq type="mandatory">kernel</packagereq>
+      <packagereq type="mandatory">anaconda</packagereq>
+      <packagereq type="mandatory">firstboot</packagereq>
+      <packagereq type="mandatory">yum</packagereq>
+      <packagereq type="mandatory">NetworkManager</packagereq>
+      <!-- Build/Compose tools -->
+      <packagereq type="mandatory">pungi</packagereq>
+      <packagereq type="mandatory">mash</packagereq>
+      <packagereq type="mandatory">createrepo</packagereq>
+      <packagereq type="mandatory">livecd-tools</packagereq>
+      <packagereq type="mandatory">rpm-build</packagereq>
+      <packagereq type="mandatory">redhat-rpm-config</packagereq>
+      <packagereq type="mandatory">gcc-c++</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>critical-path-gnome</id>
+    <_name>Critical Path (GNOME)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for the GNOME desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">gdm</packagereq>
+      <!-- specify this because otherwise xfce4-notifyd wins -->
+      <packagereq type="default">notification-daemon</packagereq>
+      <!-- Just the mandatory packages from base-x. Might want to cut this
+           down to a small set of specific drivers in the future. -->
+      <packagereq type="mandatory">desktop-backgrounds-basic</packagereq>
+      <packagereq type="mandatory">xorg-x11-drivers</packagereq>
+      <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
+      <packagereq type="mandatory">xorg-x11-xauth</packagereq>
+      <packagereq type="mandatory">xorg-x11-xinit</packagereq>
+    </packagelist>
+  </group>
   <group>
     <id>croatian-support</id>
     <_name>Croatian Support</_name>
