@@ -94,8 +94,23 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ar</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
-      <packagereq type="default">kacst-fonts</packagereq>
-      <packagereq type="default">paktype-fonts</packagereq>
+     <packagereq type="default">kacst-book-fonts</packagereq>
+     <packagereq type="default">kacst-digital-fonts</packagereq>
+     <packagereq type="default">kacst-letter-fonts</packagereq>
+     <packagereq type="default">kacst-office-fonts</packagereq>
+     <packagereq type="default">kacst-pen-fonts</packagereq>
+     <packagereq type="default">kacst-qurn-fonts</packagereq>
+     <packagereq type="default">kacst-titlel-fonts</packagereq>
+     <packagereq type="default">kacst-art-fonts</packagereq>
+     <packagereq type="default">kacst-decorative-fonts</packagereq>
+     <packagereq type="default">kacst-farsi-fonts</packagereq>
+     <packagereq type="default">kacst-naskh-fonts</packagereq>
+     <packagereq type="default">kacst-one-fonts</packagereq>
+     <packagereq type="default">kacst-poster-fonts</packagereq>
+     <packagereq type="default">kacst-screen-fonts</packagereq>
+     <packagereq type="default">kacst-title-fonts</packagereq>
+      <packagereq type="default">paktype-tehreer-fonts</packagereq>
+      <packagereq type="default">paktype-naqsh-fonts</packagereq>
       <packagereq type="optional">m17n-db-arabic</packagereq>
       <packagereq type="optional">scim-tables-arabic</packagereq>
     </packagelist>
@@ -1722,7 +1737,21 @@
       <packagereq type="default">dejavu-serif-fonts</packagereq>
       <packagereq type="default">ipa-pgothic-fonts</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
-      <packagereq type="default">kacst-fonts</packagereq>
+     <packagereq type="default">kacst-book-fonts</packagereq>
+     <packagereq type="default">kacst-digital-fonts</packagereq>
+     <packagereq type="default">kacst-letter-fonts</packagereq>
+     <packagereq type="default">kacst-office-fonts</packagereq>
+     <packagereq type="default">kacst-pen-fonts</packagereq>
+     <packagereq type="default">kacst-qurn-fonts</packagereq>
+     <packagereq type="default">kacst-titlel-fonts</packagereq>
+     <packagereq type="default">kacst-art-fonts</packagereq>
+     <packagereq type="default">kacst-decorative-fonts</packagereq>
+     <packagereq type="default">kacst-farsi-fonts</packagereq>
+     <packagereq type="default">kacst-naskh-fonts</packagereq>
+     <packagereq type="default">kacst-one-fonts</packagereq>
+     <packagereq type="default">kacst-poster-fonts</packagereq>
+     <packagereq type="default">kacst-screen-fonts</packagereq>
+     <packagereq type="default">kacst-title-fonts</packagereq>
       <packagereq type="default">khmeros-base-fonts</packagereq>
       <packagereq type="default">liberation-mono-fonts</packagereq>
       <packagereq type="default">liberation-sans-fonts</packagereq>
@@ -1738,7 +1767,8 @@
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
       <packagereq type="default">padauk-fonts</packagereq>
-      <packagereq type="default">paktype-fonts</packagereq>
+      <packagereq type="default">paktype-tehreer-fonts</packagereq>
+      <packagereq type="default">paktype-naqsh-fonts</packagereq>
       <packagereq type="default">smc-meera-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
@@ -5602,13 +5632,28 @@
     <langonly>ur</langonly>
     <packagelist>
       <packagereq type="mandatory">m17n-contrib-urdu</packagereq>
-      <packagereq type="mandatory">paktype-fonts</packagereq>
+      <packagereq type="mandatory">paktype-tehreer-fonts</packagereq>
+      <packagereq type="mandatory">paktype-naqsh-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ur</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">nafees-web-naskh-fonts</packagereq>
-      <packagereq type="optional">kacst-fonts</packagereq>
+     <packagereq type="optional">kacst-book-fonts</packagereq>
+     <packagereq type="optional">kacst-digital-fonts</packagereq>
+     <packagereq type="optional">kacst-letter-fonts</packagereq>
+     <packagereq type="optional">kacst-office-fonts</packagereq>
+     <packagereq type="optional">kacst-pen-fonts</packagereq>
+     <packagereq type="optional">kacst-qurn-fonts</packagereq>
+     <packagereq type="optional">kacst-titlel-fonts</packagereq>
+     <packagereq type="optional">kacst-art-fonts</packagereq>
+     <packagereq type="optional">kacst-decorative-fonts</packagereq>
+     <packagereq type="optional">kacst-farsi-fonts</packagereq>
+     <packagereq type="optional">kacst-naskh-fonts</packagereq>
+     <packagereq type="optional">kacst-one-fonts</packagereq>
+     <packagereq type="optional">kacst-poster-fonts</packagereq>
+     <packagereq type="optional">kacst-screen-fonts</packagereq>
+     <packagereq type="optional">kacst-title-fonts</packagereq>
     </packagelist>
   </group>
   <group>
