@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+b<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
 <comps>
   <group>
@@ -542,6 +542,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">diveintopython</packagereq>
+      <packagereq type="default">javanotes</packagereq>
       <packagereq type="default">ldd-pdf</packagereq>
     </packagelist>
   </group>
