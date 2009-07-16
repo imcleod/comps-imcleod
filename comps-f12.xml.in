@@ -1,4 +1,4 @@
-b<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
 <comps>
   <group>
@@ -94,23 +94,23 @@ b<?xml version="1.0" encoding="UTF-8"?>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ar</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
-     <packagereq type="default">kacst-book-fonts</packagereq>
-     <packagereq type="default">kacst-digital-fonts</packagereq>
-     <packagereq type="default">kacst-letter-fonts</packagereq>
-     <packagereq type="default">kacst-office-fonts</packagereq>
-     <packagereq type="default">kacst-pen-fonts</packagereq>
-     <packagereq type="default">kacst-qurn-fonts</packagereq>
-     <packagereq type="default">kacst-titlel-fonts</packagereq>
-     <packagereq type="default">kacst-art-fonts</packagereq>
-     <packagereq type="default">kacst-decorative-fonts</packagereq>
-     <packagereq type="default">kacst-farsi-fonts</packagereq>
-     <packagereq type="default">kacst-naskh-fonts</packagereq>
-     <packagereq type="default">kacst-one-fonts</packagereq>
-     <packagereq type="default">kacst-poster-fonts</packagereq>
-     <packagereq type="default">kacst-screen-fonts</packagereq>
-     <packagereq type="default">kacst-title-fonts</packagereq>
-      <packagereq type="default">paktype-tehreer-fonts</packagereq>
+      <packagereq type="default">kacst-art-fonts</packagereq>
+      <packagereq type="default">kacst-book-fonts</packagereq>
+      <packagereq type="default">kacst-decorative-fonts</packagereq>
+      <packagereq type="default">kacst-digital-fonts</packagereq>
+      <packagereq type="default">kacst-farsi-fonts</packagereq>
+      <packagereq type="default">kacst-letter-fonts</packagereq>
+      <packagereq type="default">kacst-naskh-fonts</packagereq>
+      <packagereq type="default">kacst-office-fonts</packagereq>
+      <packagereq type="default">kacst-one-fonts</packagereq>
+      <packagereq type="default">kacst-pen-fonts</packagereq>
+      <packagereq type="default">kacst-poster-fonts</packagereq>
+      <packagereq type="default">kacst-qurn-fonts</packagereq>
+      <packagereq type="default">kacst-screen-fonts</packagereq>
+      <packagereq type="default">kacst-title-fonts</packagereq>
+      <packagereq type="default">kacst-titlel-fonts</packagereq>
       <packagereq type="default">paktype-naqsh-fonts</packagereq>
+      <packagereq type="default">paktype-tehreer-fonts</packagereq>
       <packagereq type="optional">m17n-db-arabic</packagereq>
       <packagereq type="optional">scim-tables-arabic</packagereq>
     </packagelist>
@@ -155,13 +155,13 @@ b<?xml version="1.0" encoding="UTF-8"?>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="texlive">tex-cm-lgc</packagereq>
-      <packagereq type="default">docbook5-schemas</packagereq>
-      <packagereq type="default">docbook5-style-xsl</packagereq>
       <packagereq type="default">docbook-slides</packagereq>
       <packagereq type="default">docbook-style-dsssl</packagereq>
       <packagereq type="default">docbook-style-xsl</packagereq>
       <packagereq type="default">docbook-utils</packagereq>
       <packagereq type="default">docbook-utils-pdf</packagereq>
+      <packagereq type="default">docbook5-schemas</packagereq>
+      <packagereq type="default">docbook5-style-xsl</packagereq>
       <packagereq type="default">linuxdoc-tools</packagereq>
       <packagereq type="default">texlive</packagereq>
       <packagereq type="default">xhtml1-dtds</packagereq>
@@ -475,6 +475,18 @@ b<?xml version="1.0" encoding="UTF-8"?>
     </packagelist>
   </group>
   <group>
+    <id>books</id>
+    <_name>Books and Guides</_name>
+    <_description> Books and Guides for Fedora users and developers</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">diveintopython</packagereq>
+      <packagereq type="default">javanotes</packagereq>
+      <packagereq type="default">ldd-pdf</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>bosnian-support</id>
     <_name>Bosnian Support</_name>
     <_description/>
@@ -532,18 +544,6 @@ b<?xml version="1.0" encoding="UTF-8"?>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-British</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-British</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-en_GB</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>books</id>
-    <_name>Books and Guides</_name>
-    <_description> Books and Guides for Fedora users and developers</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="default">diveintopython</packagereq>
-      <packagereq type="default">javanotes</packagereq>
-      <packagereq type="default">ldd-pdf</packagereq>
     </packagelist>
   </group>
   <group>
@@ -791,22 +791,22 @@ b<?xml version="1.0" encoding="UTF-8"?>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">anaconda</packagereq>
+      <packagereq type="mandatory">createrepo</packagereq>
+      <packagereq type="mandatory">firstboot</packagereq>
+      <packagereq type="mandatory">gcc-c++</packagereq>
       <!-- 'kernel' is listed because we need to ensure that kernel
            packages exist and are installable etc. We're not using this
            to force-install 'kernel' over 'kernel-PAE' or anything. -->
       <packagereq type="mandatory">kernel</packagereq>
-      <packagereq type="mandatory">anaconda</packagereq>
-      <packagereq type="mandatory">firstboot</packagereq>
-      <packagereq type="mandatory">yum</packagereq>
+      <packagereq type="mandatory">livecd-tools</packagereq>
+      <packagereq type="mandatory">mash</packagereq>
       <packagereq type="mandatory">NetworkManager</packagereq>
       <!-- Build/Compose tools -->
       <packagereq type="mandatory">pungi</packagereq>
-      <packagereq type="mandatory">mash</packagereq>
-      <packagereq type="mandatory">createrepo</packagereq>
-      <packagereq type="mandatory">livecd-tools</packagereq>
-      <packagereq type="mandatory">rpm-build</packagereq>
       <packagereq type="mandatory">redhat-rpm-config</packagereq>
-      <packagereq type="mandatory">gcc-c++</packagereq>
+      <packagereq type="mandatory">rpm-build</packagereq>
+      <packagereq type="mandatory">yum</packagereq>
     </packagelist>
   </group>
   <group>
@@ -816,16 +816,16 @@ b<?xml version="1.0" encoding="UTF-8"?>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">gdm</packagereq>
-      <!-- specify this because otherwise xfce4-notifyd wins -->
-      <packagereq type="default">notification-daemon</packagereq>
       <!-- Just the mandatory packages from base-x. Might want to cut this
            down to a small set of specific drivers in the future. -->
       <packagereq type="mandatory">desktop-backgrounds-basic</packagereq>
+      <packagereq type="mandatory">gdm</packagereq>
       <packagereq type="mandatory">xorg-x11-drivers</packagereq>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
+      <!-- specify this because otherwise xfce4-notifyd wins -->
+      <packagereq type="default">notification-daemon</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1352,8 +1352,8 @@ b<?xml version="1.0" encoding="UTF-8"?>
       <packagereq type="default">dfu-programmer</packagereq>
       <packagereq type="default">dinotrace</packagereq>
       <packagereq type="default">drawtiming</packagereq>
-      <packagereq type="default">electric</packagereq>
       <packagereq type="default">eclipse-veditor</packagereq>
+      <packagereq type="default">electric</packagereq>
       <packagereq type="default">gds2pov</packagereq>
       <packagereq type="default">geda-docs</packagereq>
       <packagereq type="default">geda-examples</packagereq>
@@ -1739,21 +1739,21 @@ b<?xml version="1.0" encoding="UTF-8"?>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
       <packagereq type="default">ipa-pgothic-fonts</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
-     <packagereq type="default">kacst-book-fonts</packagereq>
-     <packagereq type="default">kacst-digital-fonts</packagereq>
-     <packagereq type="default">kacst-letter-fonts</packagereq>
-     <packagereq type="default">kacst-office-fonts</packagereq>
-     <packagereq type="default">kacst-pen-fonts</packagereq>
-     <packagereq type="default">kacst-qurn-fonts</packagereq>
-     <packagereq type="default">kacst-titlel-fonts</packagereq>
-     <packagereq type="default">kacst-art-fonts</packagereq>
-     <packagereq type="default">kacst-decorative-fonts</packagereq>
-     <packagereq type="default">kacst-farsi-fonts</packagereq>
-     <packagereq type="default">kacst-naskh-fonts</packagereq>
-     <packagereq type="default">kacst-one-fonts</packagereq>
-     <packagereq type="default">kacst-poster-fonts</packagereq>
-     <packagereq type="default">kacst-screen-fonts</packagereq>
-     <packagereq type="default">kacst-title-fonts</packagereq>
+      <packagereq type="default">kacst-art-fonts</packagereq>
+      <packagereq type="default">kacst-book-fonts</packagereq>
+      <packagereq type="default">kacst-decorative-fonts</packagereq>
+      <packagereq type="default">kacst-digital-fonts</packagereq>
+      <packagereq type="default">kacst-farsi-fonts</packagereq>
+      <packagereq type="default">kacst-letter-fonts</packagereq>
+      <packagereq type="default">kacst-naskh-fonts</packagereq>
+      <packagereq type="default">kacst-office-fonts</packagereq>
+      <packagereq type="default">kacst-one-fonts</packagereq>
+      <packagereq type="default">kacst-pen-fonts</packagereq>
+      <packagereq type="default">kacst-poster-fonts</packagereq>
+      <packagereq type="default">kacst-qurn-fonts</packagereq>
+      <packagereq type="default">kacst-screen-fonts</packagereq>
+      <packagereq type="default">kacst-title-fonts</packagereq>
+      <packagereq type="default">kacst-titlel-fonts</packagereq>
       <packagereq type="default">khmeros-base-fonts</packagereq>
       <packagereq type="default">liberation-mono-fonts</packagereq>
       <packagereq type="default">liberation-sans-fonts</packagereq>
@@ -1769,17 +1769,17 @@ b<?xml version="1.0" encoding="UTF-8"?>
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
       <packagereq type="default">padauk-fonts</packagereq>
-      <packagereq type="default">paktype-tehreer-fonts</packagereq>
       <packagereq type="default">paktype-naqsh-fonts</packagereq>
+      <packagereq type="default">paktype-tehreer-fonts</packagereq>
       <packagereq type="default">smc-meera-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
       <packagereq type="default">un-core-fonts-dotum</packagereq>
       <packagereq type="optional">allgeyer-musiqwik-fonts</packagereq>
       <packagereq type="optional">allgeyer-musisync-fonts</packagereq>
+      <packagereq type="optional">apa-new-athena-unicode-fonts</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
-      <packagereq type="optional">apa-new-athena-unicode-fonts</packagereq>
       <packagereq type="optional">aplus-fsf-KAPL-fonts</packagereq>
       <packagereq type="optional">asana-math-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
@@ -4523,8 +4523,8 @@ b<?xml version="1.0" encoding="UTF-8"?>
       <packagereq type="default">git-cpan-patch</packagereq>
       <packagereq type="default">perltidy</packagereq>
       <packagereq type="optional">eclipse-epic</packagereq>
-      <packagereq type="optional">vim-perl-support</packagereq>
       <packagereq type="optional">perl-Task-Catalyst</packagereq>
+      <packagereq type="optional">vim-perl-support</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5638,28 +5638,28 @@ b<?xml version="1.0" encoding="UTF-8"?>
     <langonly>ur</langonly>
     <packagelist>
       <packagereq type="mandatory">m17n-contrib-urdu</packagereq>
-      <packagereq type="mandatory">paktype-tehreer-fonts</packagereq>
       <packagereq type="mandatory">paktype-naqsh-fonts</packagereq>
+      <packagereq type="mandatory">paktype-tehreer-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ur</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">nafees-web-naskh-fonts</packagereq>
-     <packagereq type="optional">kacst-book-fonts</packagereq>
-     <packagereq type="optional">kacst-digital-fonts</packagereq>
-     <packagereq type="optional">kacst-letter-fonts</packagereq>
-     <packagereq type="optional">kacst-office-fonts</packagereq>
-     <packagereq type="optional">kacst-pen-fonts</packagereq>
-     <packagereq type="optional">kacst-qurn-fonts</packagereq>
-     <packagereq type="optional">kacst-titlel-fonts</packagereq>
-     <packagereq type="optional">kacst-art-fonts</packagereq>
-     <packagereq type="optional">kacst-decorative-fonts</packagereq>
-     <packagereq type="optional">kacst-farsi-fonts</packagereq>
-     <packagereq type="optional">kacst-naskh-fonts</packagereq>
-     <packagereq type="optional">kacst-one-fonts</packagereq>
-     <packagereq type="optional">kacst-poster-fonts</packagereq>
-     <packagereq type="optional">kacst-screen-fonts</packagereq>
-     <packagereq type="optional">kacst-title-fonts</packagereq>
+      <packagereq type="optional">kacst-art-fonts</packagereq>
+      <packagereq type="optional">kacst-book-fonts</packagereq>
+      <packagereq type="optional">kacst-decorative-fonts</packagereq>
+      <packagereq type="optional">kacst-digital-fonts</packagereq>
+      <packagereq type="optional">kacst-farsi-fonts</packagereq>
+      <packagereq type="optional">kacst-letter-fonts</packagereq>
+      <packagereq type="optional">kacst-naskh-fonts</packagereq>
+      <packagereq type="optional">kacst-office-fonts</packagereq>
+      <packagereq type="optional">kacst-one-fonts</packagereq>
+      <packagereq type="optional">kacst-pen-fonts</packagereq>
+      <packagereq type="optional">kacst-poster-fonts</packagereq>
+      <packagereq type="optional">kacst-qurn-fonts</packagereq>
+      <packagereq type="optional">kacst-screen-fonts</packagereq>
+      <packagereq type="optional">kacst-title-fonts</packagereq>
+      <packagereq type="optional">kacst-titlel-fonts</packagereq>
     </packagelist>
   </group>
   <group>
