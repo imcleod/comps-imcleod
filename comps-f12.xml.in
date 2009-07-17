@@ -1184,6 +1184,27 @@
     </packagelist>
   </group>
   <group>
+      <id>directory-server</id>
+      <_name>Directory Server</_name>
+      <_description>Machine and user identity servers.</_description>
+      <default>false</default>
+      <uservisible>true</uservisible>
+      <packagelist>
+        <packagereq type="optional">krb5-server</packagereq>
+        <packagereq type="optional">migrationtools</packagereq>
+        <packagereq type="optional">openldap-servers</packagereq>
+        <packagereq type="optional">samba</packagereq>
+        <packagereq type="optional">ypserv</packagereq>
+        <packagereq type="optional">389-ds-base</packagereq>
+        <packagereq type="optional">389-ds-admin</packagereq>
+        <packagereq type="optional">idm-console-framework</packagereq>
+        <packagereq type="optional">389-console</packagereq>
+        <packagereq type="optional">389-ds-console</packagereq>
+        <packagereq type="optional">389-admin-console</packagereq>
+        <packagereq type="optional">389-dsgw</packagereq>
+      </packagelist>
+  </group>
+  <group>
     <id>dns-server</id>
     <_name>DNS Name Server</_name>
     <_description>This package group allows you to run a DNS name server (BIND) on the system.</_description>
@@ -6239,6 +6260,7 @@
     <display_order>90</display_order>
     <grouplist>
       <groupid>clustering</groupid>
+      <groupid>directory-server</groupid>
       <groupid>dns-server</groupid>
       <groupid>ftp-server</groupid>
       <groupid>legacy-network-server</groupid>
