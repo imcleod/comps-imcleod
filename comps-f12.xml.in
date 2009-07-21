@@ -4628,7 +4628,6 @@
       <packagereq type="mandatory">ghostscript</packagereq>
       <packagereq type="default">bluez-cups</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
-      <packagereq type="default">enscript</packagereq>
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-foomatic</packagereq>
       <packagereq type="default">hal-cups-utils</packagereq>
@@ -4638,6 +4637,7 @@
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">system-config-printer</packagereq>
       <packagereq type="optional">a2ps</packagereq>
+      <packagereq type="optional">enscript</packagereq>
     </packagelist>
   </group>
   <group>
