@@ -63,7 +63,6 @@
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-sq</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sq</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-sq</packagereq>
     </packagelist>
   </group>
   <group>
@@ -93,7 +92,6 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Arabic</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ar</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ar</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ar</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">kacst-art-fonts</packagereq>
@@ -128,7 +126,6 @@
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-hy</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hy</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-hy</packagereq>
       <packagereq type="optional">m17n-db-armenian</packagereq>
     </packagelist>
   </group>
@@ -147,7 +144,6 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Bengali</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-as_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-as</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -200,7 +196,6 @@
     <langonly>az</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-az</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-az</packagereq>
     </packagelist>
   </group>
   <group>
@@ -431,7 +426,6 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-eu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-eu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-eu_ES</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-eu</packagereq>
     </packagelist>
   </group>
   <group>
@@ -444,7 +438,6 @@
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-be</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-be</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-be</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
     </packagelist>
   </group>
@@ -465,7 +458,6 @@
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Bengali</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-bn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bn</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-bn</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -479,7 +471,6 @@
     <packagelist>
       <packagereq type="mandatory">jomolhari-fonts</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-dz</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-dz</packagereq>
     </packagelist>
   </group>
   <group>
@@ -503,7 +494,6 @@
     <langonly>bs</langonly>
     <packagelist>
       <packagereq type="conditional" requires="moodle">moodle-bs</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-bs</packagereq>
     </packagelist>
   </group>
   <group>
@@ -527,7 +517,6 @@
       <packagereq type="conditional" requires="mythes-en">mythes-pt</packagereq>
       <packagereq type="conditional" requires="nqc-doc">nqc-doc-pt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pt_BR</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-pt_BR</packagereq>
     </packagelist>
   </group>
   <group>
@@ -554,7 +543,6 @@
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-British</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-British</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-en_GB</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-en_GB</packagereq>
     </packagelist>
   </group>
   <group>
@@ -608,7 +596,6 @@
       <packagereq type="conditional" requires="moodle">moodle-bg</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-bg</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bg_BG</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-bg</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
@@ -646,7 +633,6 @@
       <packagereq type="conditional" requires="mythes-en">mythes-ca</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ca_ES</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-ca</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ca</packagereq>
     </packagelist>
   </group>
   <group>
@@ -686,9 +672,6 @@
       <packagereq type="conditional" requires="moodle">moodle-zh_tw</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_CN</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-zh_CN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-zh_HK</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-zh_TW</packagereq>
       <packagereq type="default">taipeifonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
@@ -858,7 +841,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-hr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hr_HR</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-hr</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -887,7 +869,6 @@
       <packagereq type="conditional" requires="mythes-en">mythes-cs</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-cs_CZ</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-cs</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-cs</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -914,7 +895,6 @@
       <packagereq type="conditional" requires="moodle">moodle-da</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-da</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-da_DK</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-da</packagereq>
       <packagereq type="optional">m17n-db-danish</packagereq>
     </packagelist>
   </group>
@@ -1267,7 +1247,6 @@
       <packagereq type="conditional" requires="nqc-doc">nqc-doc-nl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nl</packagereq>
       <packagereq type="conditional" requires="tesseract">tesseract-langpack-nl</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-nl</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1616,7 +1595,6 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-et</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-et</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-et_EE</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-et</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
@@ -1631,7 +1609,6 @@
     <uservisible>true</uservisible>
     <langonly>am</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-am</packagereq>
       <packagereq type="default">abyssinica-fonts</packagereq>
       <packagereq type="optional">m17n-db-amharic</packagereq>
       <packagereq type="optional">scim-tables-amharic</packagereq>
@@ -1704,7 +1681,6 @@
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-tl</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fil</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-fi</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2050,7 +2026,6 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fr</packagereq>
       <packagereq type="conditional" requires="tesseract">tesseract-langpack-fr</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-fr</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-fr</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
       <packagereq type="optional">ecolier-court-lignes-fonts</packagereq>
       <packagereq type="optional">m17n-db-french</packagereq>
@@ -2117,7 +2092,6 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-gl</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-gl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-gl_ES</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-gl</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2400,7 +2374,6 @@
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ka</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ka</packagereq>
       <packagereq type="default">bpg-chveulebrivi-fonts</packagereq>
       <packagereq type="default">bpg-courier-fonts</packagereq>
       <packagereq type="default">bpg-glaho-fonts</packagereq>
@@ -2447,7 +2420,6 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-de</packagereq>
       <packagereq type="conditional" requires="tesseract">tesseract-langpack-de</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-de</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-de</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2857,7 +2829,6 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-el_GR</packagereq>
       <packagereq type="conditional" requires="texlive">tex-cm-lgc</packagereq>
       <packagereq type="conditional" requires="texlive">tex-kerkis</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-el</packagereq>
       <packagereq type="optional">ctan-kerkis-calligraphic-fonts</packagereq>
       <packagereq type="optional">ctan-kerkis-sans-fonts</packagereq>
       <packagereq type="optional">ctan-kerkis-serif-fonts</packagereq>
@@ -2907,7 +2878,6 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Gujarati</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-gu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-gu_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-gu</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-gujarati-fonts</packagereq>
     </packagelist>
@@ -3000,7 +2970,6 @@
       <packagereq type="conditional" requires="moodle">moodle-he</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-he_IL</packagereq>
       <packagereq type="conditional" requires="texlive">tetex-fonts-hebrew</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-he</packagereq>
       <packagereq type="default">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="default">culmus-caladings-clm-fonts</packagereq>
       <packagereq type="default">culmus-david-clm-fonts</packagereq>
@@ -3047,7 +3016,6 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Hindi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hi_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-hi</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
       <packagereq type="default">sarai-fonts</packagereq>
@@ -3071,7 +3039,6 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-hu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hu_HU</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-hu</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -3091,7 +3058,6 @@
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Icelandic</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Icelandic</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-is</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-is</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3107,7 +3073,6 @@
       <packagereq type="conditional" requires="hunspell">hunspell-id</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-id</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-id</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-id</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3271,7 +3236,6 @@
       <packagereq type="conditional" requires="moodle">moodle-ga</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-ga</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ga_IE</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ga</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3300,7 +3264,6 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-it</packagereq>
       <packagereq type="conditional" requires="tesseract">tesseract-langpack-it</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-it</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-it</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3318,7 +3281,6 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Japanese</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ja</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-ja</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ja</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ja</packagereq>
       <packagereq type="conditional" requires="nqc-doc">nqc-doc-ja</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ja_JP</packagereq>
@@ -3534,7 +3496,6 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-kn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-kn_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-kn</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -3737,7 +3698,6 @@
     <langonly>rw</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-rw</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-rw</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3773,7 +3733,6 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ko</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ko</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ko_KR</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ko</packagereq>
       <packagereq type="default">baekmuk-bdf-fonts</packagereq>
       <packagereq type="default">baekmuk-ttf-batang-fonts</packagereq>
       <packagereq type="default">baekmuk-ttf-dotum-fonts</packagereq>
@@ -3811,7 +3770,6 @@
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-ku</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Kurdish</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ku</packagereq>
       <packagereq type="default">kurdit-unikurd-web-fonts</packagereq>
     </packagelist>
   </group>
@@ -3853,7 +3811,6 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-lv</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-lv</packagereq>
     </packagelist>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-lv</packagereq>
   </group>
   <group>
     <id>legacy-fonts</id>
@@ -3976,7 +3933,6 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Lithuanian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-lt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-lt_LT</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-lt</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4047,7 +4003,6 @@
       <packagereq type="conditional" requires="hunspell">hunspell-mk</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Macedonian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-mk</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-mk</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4100,7 +4055,6 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Maithili</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mai_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-mai</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">lohit-maithili-fonts</packagereq>
       <packagereq type="default">m17n-contrib-maithili</packagereq>
@@ -4115,7 +4069,6 @@
     <langonly>mg</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-mg</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-mg</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4130,7 +4083,6 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ms</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ms</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ms_MY</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ms</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4150,7 +4102,6 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Malayalam</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ml</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ml_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ml</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">lohit-malayalam-fonts</packagereq>
       <packagereq type="default">samyak-malayalam-fonts</packagereq>
@@ -4216,7 +4167,6 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Marathi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mr_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-mr</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
@@ -4276,7 +4226,6 @@
       <packagereq type="conditional" requires="autocorr-en">autocorr-mn</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-mn</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-mn</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-mn</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-mn</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-mn</packagereq>
     </packagelist>
@@ -4319,7 +4268,6 @@
       <packagereq type="conditional" requires="hunspell">hunspell-ne</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ne</packagereq>
       <packagereq type="optional">scim-tables-nepali</packagereq>
     </packagelist>
   </group>
@@ -4426,8 +4374,6 @@
       <packagereq type="conditional" requires="mythes-en">mythes-nn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nb_NO</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-nn_NO</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-nb</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-nn</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4476,7 +4422,6 @@
     <langonly>oc</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-oc</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-oc</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4591,7 +4536,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-or</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-or_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-or</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-oriya-fonts</packagereq>
     </packagelist>
@@ -4626,7 +4570,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-fa</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-fa</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fa</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-fa</packagereq>
       <packagereq type="optional">m17n-db-farsi</packagereq>
     </packagelist>
   </group>
@@ -4651,7 +4594,6 @@
       <packagereq type="conditional" requires="moodle">moodle-pl</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-pl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pl_PL</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-pl</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -4678,7 +4620,6 @@
       <packagereq type="conditional" requires="mythes-en">mythes-pt</packagereq>
       <packagereq type="conditional" requires="nqc-doc">nqc-doc-pt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pt_PT</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-pt</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4722,7 +4663,6 @@
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Punjabi</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Punjabi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pa_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-pa</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -4741,7 +4681,6 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Romanian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ro</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-ro</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ro</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -4783,7 +4722,6 @@
       <packagereq type="conditional" requires="moodle">moodle-ru</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-ru</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ru</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
@@ -4848,7 +4786,6 @@
       <packagereq type="conditional" requires="moodle">moodle-sr_cr_bo</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sr_lt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sr</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-sr</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
@@ -4900,7 +4837,6 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-sayura</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-si</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-si</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
     </packagelist>
   </group>
@@ -4922,7 +4858,6 @@
       <packagereq type="conditional" requires="moodle">moodle-sk</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-sk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sk_SK</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-sk</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -4947,7 +4882,6 @@
       <packagereq type="conditional" requires="moodle">moodle-sl</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-sl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sl_SI</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-sl</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -5155,7 +5089,6 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-es</packagereq>
       <packagereq type="conditional" requires="tesseract">tesseract-langpack-es</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-es</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-es</packagereq>
       <packagereq type="optional">man-pages-es-extra</packagereq>
     </packagelist>
   </group>
@@ -5256,7 +5189,6 @@
       <packagereq type="conditional" requires="moodle">moodle-sv</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-sv</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sv</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-sv</packagereq>
       <packagereq type="optional">m17n-db-swedish</packagereq>
     </packagelist>
   </group>
@@ -5498,7 +5430,6 @@
       <packagereq type="conditional" requires="moodle">moodle-ta</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ta_lk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ta_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-ta</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-tamil-fonts</packagereq>
       <packagereq type="optional">serafettin-cartoon-fonts</packagereq>
@@ -5520,7 +5451,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-te</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-te_IN</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-te</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="optional">pothana2000-fonts</packagereq>
     </packagelist>
@@ -5600,7 +5530,6 @@
       <packagereq type="conditional" requires="moodle">moodle-th</packagereq>
       <packagereq type="conditional" requires="nqc-doc">nqc-doc-th</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-th_TH</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-th</packagereq>
       <packagereq type="default">thai-scalable-garuda-fonts</packagereq>
       <packagereq type="default">thai-scalable-kinnari-fonts</packagereq>
       <packagereq type="default">thai-scalable-loma-fonts</packagereq>
@@ -5681,7 +5610,6 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-tr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-tr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-tr_TR</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-tr</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
     </packagelist>
@@ -5715,7 +5643,6 @@
       <packagereq type="conditional" requires="moodle">moodle-uk</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-uk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-uk</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-uk</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
@@ -5806,7 +5733,6 @@
       <packagereq type="conditional" requires="autocorr-en">autocorr-vi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-vi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-vi</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-vi</packagereq>
       <packagereq type="optional">m17n-contrib-vietnamese</packagereq>
       <packagereq type="optional">m17n-db-vietnamese</packagereq>
       <packagereq type="optional">scim-tables-vietnamese</packagereq>
@@ -5837,7 +5763,6 @@
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-wa</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Walloon</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-wa</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5936,7 +5861,6 @@
       <packagereq type="conditional" requires="moodle">moodle-cy</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-cy_GB</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-cy</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-cy</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6133,7 +6057,6 @@
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-xh</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-xh_ZA</packagereq>
-      <packagereq type="conditional" requires="libgweather">libgweather-langpack-xh</packagereq>
     </packagelist>
   </group>
   <group>
