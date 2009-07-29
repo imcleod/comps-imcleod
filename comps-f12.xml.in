@@ -2442,7 +2442,6 @@
       <packagereq type="mandatory">yelp</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
-      <packagereq type="default">alacarte</packagereq>
       <packagereq type="default">at-spi</packagereq>
       <packagereq type="default">brasero-nautilus</packagereq>
       <packagereq type="default">bug-buddy</packagereq>
@@ -2489,6 +2488,7 @@
       <packagereq type="default">vino</packagereq>
       <packagereq type="default">xdg-user-dirs-gtk</packagereq>
       <packagereq type="default">zenity</packagereq>
+      <packagereq type="optional">alacarte</packagereq>
       <packagereq type="optional">avant-window-navigator</packagereq>
       <packagereq type="optional">beagle-evolution</packagereq>
       <packagereq type="optional">beagle-gnome</packagereq>
