@@ -1,20 +1,19 @@
-# translation of comps.HEAD.po to Dutch
 # Dutch translation of comps
 # Copyright (C) 2003-2009 The Free Software Foundation, Inc.
 # This file is distributed under the same license as the comps package.
 #
-#
 # Huib Kleinhout <huib@stack.nl>, 2003.
 # Peter van Egdom <p.van.egdom@gmail.com>, 2003-2009.
 # R.E. van der Luit <nippur@fedoraproject.org>, 2009.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: comps.HEAD.nl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-06-15 14:05+0000\n"
-"PO-Revision-Date: 2009-06-17 14:21+0200\n"
-"Last-Translator: R.E. van der Luit <nippur@fedoraproject.org>\n"
-"Language-Team: Dutch <nippur@fedoraproject.org>\n"
+"PO-Revision-Date: 2009-07-27 17:47+0200\n"
+"Last-Translator: Peter van Egdom <p.van.egdom@gmail.com>\n"
+"Language-Team: Dutch <fedora-trans-list@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,7 +23,8 @@ msgstr ""
 #: ../comps-f9.xml.in.h:1 ../comps-f10.xml.in.h:1 ../comps-f11.xml.in.h:1
 #: ../comps-f12.xml.in.h:1
 msgid "A lightweight desktop environment that works well on low end machines."
-msgstr "Een lichte werkomgeving die zeer geschikt is voor minder krachtige machines."
+msgstr ""
+"Een lichte werkomgeving die zeer geschikt is voor minder krachtige machines."
 
 #: ../comps-f9.xml.in.h:2 ../comps-f10.xml.in.h:3 ../comps-f11.xml.in.h:3
 #: ../comps-f12.xml.in.h:3 ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
@@ -427,14 +427,16 @@ msgstr ""
 
 #: ../comps-f9.xml.in.h:78 ../comps-f10.xml.in.h:82 ../comps-f11.xml.in.h:93
 #: ../comps-f12.xml.in.h:93
-msgid "Install these tools to enable the system to print or act as a print server."
+msgid ""
+"Install these tools to enable the system to print or act as a print server."
 msgstr ""
 "Installeer deze hulpmiddelen om uw systeem te kunnen laten printen of als "
 "printerserver te laten fungeren."
 
 #: ../comps-f9.xml.in.h:79 ../comps-f10.xml.in.h:83 ../comps-f11.xml.in.h:94
 #: ../comps-f12.xml.in.h:94 ../comps-el4.xml.in.h:29 ../comps-el5.xml.in.h:32
-msgid "Install this group of packages to use the base graphical (X) user interface."
+msgid ""
+"Install this group of packages to use the base graphical (X) user interface."
 msgstr ""
 "Installeer deze pakketgroep om de basis grafische (X) gebruikersinterface te "
 "kunnen gebruiken."
@@ -738,7 +740,8 @@ msgstr "Servers"
 #: ../comps-f9.xml.in.h:137 ../comps-f10.xml.in.h:146
 #: ../comps-f11.xml.in.h:169 ../comps-f12.xml.in.h:169
 #: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:43
-msgid "Simple window managers that aren't part of a larger desktop environment."
+msgid ""
+"Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
 "Eenvoudige window managers die geen deel uitmaken van een grotere "
 "werkomgeving."
@@ -870,7 +873,8 @@ msgstr "Deze toepassingen omvatten office-pakketten, PDF-bekijkers en meer."
 
 #: ../comps-f9.xml.in.h:160 ../comps-f10.xml.in.h:173
 #: ../comps-f11.xml.in.h:201 ../comps-f12.xml.in.h:201
-msgid "The packages in this group are core libraries needed to develop applications."
+msgid ""
+"The packages in this group are core libraries needed to develop applications."
 msgstr ""
 "De pakketten in deze groep bestaan uit basisbibliotheken die nodig zijn voor "
 "ontwikkeling van toepassingen."
@@ -883,21 +887,26 @@ msgstr "Met deze pakketten kunt u een IMAP of SMTP e-mailserver configureren."
 
 #: ../comps-f9.xml.in.h:162 ../comps-f10.xml.in.h:175
 #: ../comps-f11.xml.in.h:203 ../comps-f12.xml.in.h:203
-msgid "These packages allow you to develop applications for the X Window System."
-msgstr "Met deze pakketten kunt u toepassingen voor het X Window systeem ontwikkelen."
+msgid ""
+"These packages allow you to develop applications for the X Window System."
+msgstr ""
+"Met deze pakketten kunt u toepassingen voor het X Window systeem ontwikkelen."
 
 #: ../comps-f9.xml.in.h:163 ../comps-f10.xml.in.h:176
 #: ../comps-f11.xml.in.h:204 ../comps-f12.xml.in.h:204
 #: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:52
-msgid "These packages are helpful when developing web applications or web pages."
+msgid ""
+"These packages are helpful when developing web applications or web pages."
 msgstr ""
 "Deze pakketten zijn handig bij het ontwikkelen van webapplicaties of "
 "webpagina's."
 
 #: ../comps-f9.xml.in.h:164 ../comps-f10.xml.in.h:177
 #: ../comps-f11.xml.in.h:205 ../comps-f12.xml.in.h:205
-msgid "These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr "Deze pakketten bevatten netwerkgebaseerde servers als DHCP, Kerberos en NIS."
+msgid ""
+"These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgstr ""
+"Deze pakketten bevatten netwerkgebaseerde servers als DHCP, Kerberos en NIS."
 
 #: ../comps-f9.xml.in.h:165 ../comps-f10.xml.in.h:178
 #: ../comps-f11.xml.in.h:206 ../comps-f12.xml.in.h:206
@@ -998,7 +1007,8 @@ msgstr ""
 #: ../comps-f11.xml.in.h:219 ../comps-f12.xml.in.h:219
 #: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:60
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr "Deze groep bevat pakketten waarmee u afbeeldingen kunt inscannen en bewerken."
+msgstr ""
+"Deze groep bevat pakketten waarmee u afbeeldingen kunt inscannen en bewerken."
 
 #: ../comps-f9.xml.in.h:179 ../comps-f10.xml.in.h:192
 #: ../comps-f11.xml.in.h:220 ../comps-f12.xml.in.h:220
@@ -1024,7 +1034,8 @@ msgstr ""
 #: ../comps-f9.xml.in.h:181 ../comps-f10.xml.in.h:194
 #: ../comps-f11.xml.in.h:222 ../comps-f12.xml.in.h:222
 #: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:65
-msgid "This group is a collection of tools and resources of Armenian environments."
+msgid ""
+"This group is a collection of tools and resources of Armenian environments."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen en hulpbronnen voor Armeense "
 "omgevingen."
@@ -1032,7 +1043,8 @@ msgstr ""
 #: ../comps-f9.xml.in.h:182 ../comps-f10.xml.in.h:195
 #: ../comps-f11.xml.in.h:223 ../comps-f12.xml.in.h:223
 #: ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:69
-msgid "This group is a collection of tools for various hardware specific utilities."
+msgid ""
+"This group is a collection of tools for various hardware specific utilities."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen voor diverse hardware-"
 "specifieke gereedschappen."
@@ -1050,8 +1062,10 @@ msgstr ""
 
 #: ../comps-f9.xml.in.h:184 ../comps-f10.xml.in.h:197
 #: ../comps-f11.xml.in.h:226 ../comps-f12.xml.in.h:226
-msgid "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr "Met deze pakketgroep kunt u een DNS-naamserver (BIND) op het systeem draaien."
+msgid ""
+"This package group allows you to run a DNS name server (BIND) on the system."
+msgstr ""
+"Met deze pakketgroep kunt u een DNS-naamserver (BIND) op het systeem draaien."
 
 #: ../comps-f9.xml.in.h:185 ../comps-f10.xml.in.h:198
 #: ../comps-f11.xml.in.h:227 ../comps-f12.xml.in.h:227
@@ -1065,12 +1079,14 @@ msgstr ""
 #: ../comps-f9.xml.in.h:186 ../comps-f10.xml.in.h:199
 #: ../comps-f11.xml.in.h:228 ../comps-f12.xml.in.h:228
 msgid "This package group contains packages useful for use with MySQL."
-msgstr "Deze pakketgroep bevat pakketten die nuttig zijn voor gebruik met MySQL."
+msgstr ""
+"Deze pakketgroep bevat pakketten die nuttig zijn voor gebruik met MySQL."
 
 #: ../comps-f9.xml.in.h:187 ../comps-f10.xml.in.h:200
 #: ../comps-f11.xml.in.h:229 ../comps-f12.xml.in.h:229
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr "Deze pakketgroep bevat pakketten die nuttig zijn voor gebruik met Postgresql."
+msgstr ""
+"Deze pakketgroep bevat pakketten die nuttig zijn voor gebruik met Postgresql."
 
 #: ../comps-f9.xml.in.h:188 ../comps-f10.xml.in.h:201
 #: ../comps-f11.xml.in.h:230 ../comps-f12.xml.in.h:230
@@ -1123,7 +1139,8 @@ msgstr "Verschillende kerndelen van het systeem."
 #: ../comps-f11.xml.in.h:242 ../comps-f12.xml.in.h:242
 #: ../comps-el5.xml.in.h:73
 msgid "Various ways to relax and spend your free time."
-msgstr "Verschillende mogelijkheden om te ontspannen en uw vrije tijd te besteden."
+msgstr ""
+"Verschillende mogelijkheden om te ontspannen en uw vrije tijd te besteden."
 
 #: ../comps-f9.xml.in.h:198 ../comps-f10.xml.in.h:212
 #: ../comps-f11.xml.in.h:243 ../comps-f12.xml.in.h:243
@@ -1285,15 +1302,15 @@ msgstr "Ondersteuning voor Amazigh"
 
 #: ../comps-f11.xml.in.h:13 ../comps-f12.xml.in.h:13
 msgid "Azerbaijani Support"
-msgstr "Azerbaijani Support"
+msgstr "Ondersteuning voor Azerbeidzjaans"
 
 #: ../comps-f11.xml.in.h:27 ../comps-f12.xml.in.h:27
 msgid "Chichewa Support"
-msgstr "Chichewa Support"
+msgstr "Ondersteuning voor Chichewa"
 
 #: ../comps-f11.xml.in.h:31 ../comps-f12.xml.in.h:31
 msgid "Coptic Support"
-msgstr "Coptic Support"
+msgstr "Ondersteuning voor Koptisch"
 
 #: ../comps-f11.xml.in.h:37 ../comps-f12.xml.in.h:37
 msgid "Design and Simulation tools for hardware engineers"
@@ -1305,7 +1322,7 @@ msgstr "Elektronisch lab"
 
 #: ../comps-f11.xml.in.h:58 ../comps-f12.xml.in.h:58
 msgid "Fijian Support"
-msgstr "Fijian Support"
+msgstr "Ondersteuning voor Fijisch"
 
 #: ../comps-f11.xml.in.h:61 ../comps-f12.xml.in.h:61
 msgid "Font design and packaging"
@@ -1321,11 +1338,11 @@ msgstr "Ondersteuning voor Friulisch"
 
 #: ../comps-f11.xml.in.h:83 ../comps-f12.xml.in.h:83
 msgid "Hiligaynon Support"
-msgstr "Hiligaynon Support"
+msgstr "Ondersteuning voor Hiligaynon"
 
 #: ../comps-f11.xml.in.h:96 ../comps-f12.xml.in.h:96
 msgid "Interlingua Support"
-msgstr "Interlingua Support"
+msgstr "Ondersteuning voor Interlingua"
 
 #: ../comps-f11.xml.in.h:109 ../comps-f12.xml.in.h:109
 msgid "Kazakh Support"
@@ -1341,7 +1358,7 @@ msgstr "Ondersteuning voor Latijn"
 
 #: ../comps-f11.xml.in.h:126 ../comps-f12.xml.in.h:126
 msgid "Luxembourgish Support"
-msgstr "Ondersteuning voor Luxemburg"
+msgstr "Ondersteuning voor Luxemburgs"
 
 #: ../comps-f11.xml.in.h:130 ../comps-f12.xml.in.h:130
 msgid "Malagasy Support"
@@ -1473,19 +1490,22 @@ msgid "This group is a collection of network servers for specific purposes"
 msgstr "Deze groep is een collectie van netwerkservers voor specifieke doelen"
 
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:64
-msgid "This group is a collection of tools and resources of Arabic environments."
+msgid ""
+"This group is a collection of tools and resources of Arabic environments."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen en hulpbronnen voor Arabische "
 "omgevingen."
 
 #: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:67
-msgid "This group is a collection of tools and resources of Hebrew environments."
+msgid ""
+"This group is a collection of tools and resources of Hebrew environments."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen en hulpbronnen voor Hebreeuwse "
 "omgevingen."
 
 #: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:68
-msgid "This group is a collection of tools and resources of Japanese environments."
+msgid ""
+"This group is a collection of tools and resources of Japanese environments."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen en hulpbronnen voor Japanse "
 "omgevingen."
@@ -1495,8 +1515,8 @@ msgid "XEmacs"
 msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:66
-msgid "This group is a collection of tools and resources of Czech environments."
+msgid ""
+"This group is a collection of tools and resources of Czech environments."
 msgstr ""
 "Deze groep is een collectie van hulpmiddelen en hulpbronnen voor Tsjechische "
 "omgevingen."
-
