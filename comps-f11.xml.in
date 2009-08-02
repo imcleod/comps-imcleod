@@ -4540,6 +4540,41 @@
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
+  <group>                                                         
+    <id>reconnaissance</id>                                       
+    <_name>Reconnaissance tools</_name>                           
+    <_description>These tools can be used to perform IT security related reconnaissance.</_description>
+    <default>false</default>                                                                           
+    <uservisible>false</uservisible>
+    <packagelist>
+        <packagereq type="default">argus</packagereq>
+        <packagereq type="default">cgf</packagereq>
+        <packagereq type="default">dsniff</packagereq>
+        <packagereq type="default">etherape</packagereq>
+        <packagereq type="default">ettercap</packagereq>
+        <packagereq type="default">examiner</packagereq>
+        <packagereq type="default">firewalk</packagereq>
+        <packagereq type="default">halberd</packagereq>
+        <packagereq type="default">hping3</packagereq>
+        <packagereq type="default">hunt</packagereq>
+        <packagereq type="default">iptraf</packagereq>
+        <packagereq type="default">Lynis</packagereq>
+        <packagereq type="default">nbtscan</packagereq>
+        <packagereq type="default">nc6</packagereq>
+        <packagereq type="default">nc</packagereq>
+        <packagereq type="default">nessus</packagereq>
+        <packagereq type="default">nmap</packagereq>
+        <packagereq type="default">pcapdiff</packagereq>
+        <packagereq type="default">picviz</packagereq>
+        <packagereq type="default">scanssh</packagereq>
+        <packagereq type="default">socat</packagereq>
+        <packagereq type="default">tcpdump</packagereq>
+        <packagereq type="default">tcpxtract</packagereq>
+        <packagereq type="default">tiger</packagereq>
+        <packagereq type="default">wireshark</packagereq>
+        <packagereq type="default">xprobe2</packagereq>
+    </packagelist>
+  </group>
   <group>
     <id>romanian-support</id>
     <_name>Romanian Support</_name>
