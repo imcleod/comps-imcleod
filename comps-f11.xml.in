@@ -4542,11 +4542,11 @@
     </packagelist>
   </group>
   <group>                                                         
-    <id>reconnaissance</id>                                       
-    <_name>Reconnaissance tools</_name>                           
+    <id>it-security-reconnaissance</id>                                       
+    <_name>IT Security Reconnaissance Tools</_name>                           
     <_description>These tools can be used to perform IT security related reconnaissance.</_description>
     <default>false</default>                                                                           
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
     <packagelist>
         <packagereq type="default">argus</packagereq>
         <packagereq type="default">cgf</packagereq>
@@ -5965,6 +5965,14 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zu_ZA</packagereq>
     </packagelist>
   </group>
+  <category>
+    <id>it-security</id>
+    <_name>IT Security</_name>
+    <_description>These packages are useful for IT security related tasks.</_description>
+    <grouplist>
+      <groupid>it-security-reconnaissance</groupid>
+    </grouplist>
+  </category>
   <category>
     <id>language-support</id>
     <_name>Languages</_name>
