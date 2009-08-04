@@ -4706,6 +4706,73 @@
         <packagereq type="default">wireshark</packagereq>
         <packagereq type="default">xprobe2</packagereq>
     </packagelist>
+</group>
+  <group>
+    <id>it-security-forensics</id>
+    <_name>Forensics tools</_name>
+    <_description>These tools can be used to perform IT security related forensics.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="default">chkrootkit</packagereq>
+        <packagereq type="default">Unhide</packagereq>
+        <packagereq type="default">clamav</packagereq>
+        <packagereq type="default">dc3dd</packagereq>
+        <packagereq type="default">dd_rescue</packagereq>
+        <packagereq type="default">sleuthkit</packagereq>
+        <packagereq type="default">gpart</packagereq>
+        <packagereq type="default">hexedit</packagereq>
+        <packagereq type="default">prelude</packagereq>
+        <packagereq type="default">testdisk</packagereq>
+        <packagereq type="default">foremost</packagereq>
+        <packagereq type="default">sectool</packagereq>
+        <packagereq type="default">rkhunter</packagereq>
+        <packagereq type="default">scanmem</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>it-security-wireless</id>
+    <_name>Wireless tools</_name>
+    <_description>These tools can be used to perform IT security related wireless auditing.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="default">aircrack-ng</packagereq>
+        <packagereq type="default">airsnort</packagereq>
+        <packagereq type="default">kismet</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>it-security-code-analysis</id>
+    <_name>Code analysis tools</_name>
+    <_description>These tools can be used to perform security related code analysis.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="default">pscan</packagereq>
+        <packagereq type="default">splint</packagereq>
+        <packagereq type="default">rats</packagereq>
+        <packagereq type="default">flawfinder</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>it-security-intrusion-detection</id>
+    <_name>Intrusion detection tools</_name>
+    <_description>These tools can be used to setup intrusion detection systems.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="default">aide</packagereq>
+        <packagereq type="default">prewikka</packagereq>
+        <packagereq type="default">prelude-manager</packagereq>
+        <packagereq type="default">prelude-notify</packagereq>
+        <packagereq type="default">snort</packagereq>
+        <packagereq type="default">tripwire</packagereq>
+        <packagereq type="default">labrea</packagereq>
+        <packagereq type="default">pads</packagereq>
+        <packagereq type="default">honeyd</packagereq>
+        <packagereq type="default">Nebula</packagereq>
+    </packagelist>
   </group>
   <group>
     <id>romanian-support</id>
@@ -6118,7 +6185,11 @@
     <_name>IT Security</_name>
     <_description>These packages are useful for IT security related tasks.</_description>
     <grouplist>
+      <groupid>it-security-code-analysis</groupid>
+      <groupid>it-security-forensics</groupid>
+      <groupid>it-security-intrusion-detection</groupid>
       <groupid>it-security-reconnaissance</groupid>
+      <groupid>it-security-wireless</groupid>
     </grouplist>
   </category>
   <category>
