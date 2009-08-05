@@ -4715,19 +4715,20 @@
     <uservisible>true</uservisible>
     <packagelist>
         <packagereq type="default">chkrootkit</packagereq>
-        <packagereq type="default">Unhide</packagereq>
         <packagereq type="default">clamav</packagereq>
         <packagereq type="default">dc3dd</packagereq>
         <packagereq type="default">dd_rescue</packagereq>
-        <packagereq type="default">sleuthkit</packagereq>
+        <packagereq type="default">foremost</packagereq>
         <packagereq type="default">gpart</packagereq>
         <packagereq type="default">hexedit</packagereq>
+        <packagereq type="default">pdfresurrect</packagereq>
         <packagereq type="default">prelude</packagereq>
-        <packagereq type="default">testdisk</packagereq>
-        <packagereq type="default">foremost</packagereq>
-        <packagereq type="default">sectool</packagereq>
         <packagereq type="default">rkhunter</packagereq>
         <packagereq type="default">scanmem</packagereq>
+        <packagereq type="default">sectool</packagereq>
+        <packagereq type="default">sleuthkit</packagereq>
+        <packagereq type="default">testdisk</packagereq>
+        <packagereq type="default">Unhide</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4772,6 +4773,20 @@
         <packagereq type="default">pads</packagereq>
         <packagereq type="default">honeyd</packagereq>
         <packagereq type="default">Nebula</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>it-security-password-recovery</id>
+    <_name>Password recovery tools</_name>
+    <_description>These tools can be used to recover passwords.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+        <packagereq type="default">crack</packagereq>
+        <packagereq type="default">john</packagereq>
+        <packagereq type="default">medusa</packagereq>
+        <packagereq type="default">ophcrack</packagereq>
+        <packagereq type="default">xlcrack</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6190,6 +6205,7 @@
       <groupid>it-security-intrusion-detection</groupid>
       <groupid>it-security-reconnaissance</groupid>
       <groupid>it-security-wireless</groupid>
+      <groupid>it-security-password-recovery</groupid>
     </grouplist>
   </category>
   <category>
