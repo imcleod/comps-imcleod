@@ -395,6 +395,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="optional">alpine</packagereq>
       <packagereq type="optional">naim</packagereq>
       <packagereq type="optional">ncftp</packagereq>
       <packagereq type="optional">pork</packagereq>
