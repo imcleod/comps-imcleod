@@ -1379,7 +1379,9 @@
       <packagereq type="default">dinotrace</packagereq>
       <packagereq type="default">drawtiming</packagereq>
       <packagereq type="default">eclipse-veditor</packagereq>
+      <packagereq type="default">eclipse-eclox</packagereq>
       <packagereq type="default">electric</packagereq>
+      <packagereq type="default">espresso-ab</packagereq>
       <packagereq type="default">gds2pov</packagereq>
       <packagereq type="default">geda-docs</packagereq>
       <packagereq type="default">geda-examples</packagereq>
@@ -1392,6 +1394,7 @@
       <packagereq type="default">gerbv</packagereq>
       <packagereq type="default">ghdl</packagereq>
       <packagereq type="default">gnucap</packagereq>
+      <packagereq type="default">gnuradio</packagereq>
       <packagereq type="default">gnusim8085</packagereq>
       <packagereq type="default">gresistor</packagereq>
       <packagereq type="default">gsim85</packagereq>
@@ -1406,10 +1409,11 @@
       <packagereq type="default">LabPlot</packagereq>
       <packagereq type="default">linsmith</packagereq>
       <packagereq type="default">magic</packagereq>
+      <packagereq type="default">magic-doc</packagereq>
       <packagereq type="default">mcu8051ide</packagereq>
       <packagereq type="default">netgen</packagereq>
       <packagereq type="default">ngspice</packagereq>
-      <packagereq type="default">octave-forge</packagereq>
+      <packagereq type="default">ngspice-doc</packagereq>
       <packagereq type="default">pcb</packagereq>
       <packagereq type="default">perl-Hardware-Verilog-Parser</packagereq>
       <packagereq type="default">perl-Hardware-Vhdl-Lexer</packagereq>
@@ -1434,10 +1438,14 @@
       <packagereq type="default">qucs</packagereq>
       <packagereq type="default">sdcc</packagereq>
       <packagereq type="default">sk2py</packagereq>
+      <packagereq type="default">tclspice</packagereq>
       <packagereq type="default">tetex-IEEEtran</packagereq>
       <packagereq type="default">tkcvs</packagereq>
+      <packagereq type="default">tkgate</packagereq>
       <packagereq type="default">toped</packagereq>
       <packagereq type="default">uisp</packagereq>
+      <packagereq type="default">usrp</packagereq>
+      <packagereq type="default">verilator</packagereq>
       <packagereq type="default">vhd2vl</packagereq>
       <packagereq type="default">vym</packagereq>
       <packagereq type="default">xcircuit</packagereq>
@@ -1448,6 +1456,7 @@
       <packagereq type="optional">freehdl</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">minicom</packagereq>
+      <packagereq type="optional">octave-forge</packagereq>
       <packagereq type="optional">planner</packagereq>
       <packagereq type="optional">qemu</packagereq>
       <packagereq type="optional">rfdump</packagereq>
