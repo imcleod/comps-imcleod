@@ -672,7 +672,6 @@
       <packagereq type="conditional" requires="moodle">moodle-zh_tw</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_CN</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
-      <packagereq type="default">taipeifonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
       <packagereq type="optional">ibus-table-erbi</packagereq>
@@ -690,6 +689,7 @@
       <packagereq type="optional">scim-tables-chinese-extra</packagereq>
       <packagereq type="optional">stardict-dic-zh_CN</packagereq>
       <packagereq type="optional">stardict-dic-zh_TW</packagereq>
+      <packagereq type="optional">taipeifonts</packagereq>
       <packagereq type="optional">wqy-bitmap-fonts</packagereq>
       <packagereq type="optional">wqy-unibit-fonts</packagereq>
       <packagereq type="optional">wqy-zenhei-fonts</packagereq>
@@ -3306,15 +3306,13 @@
       <packagereq type="default">ipa-mincho-fonts</packagereq>
       <packagereq type="default">ipa-pgothic-fonts</packagereq>
       <packagereq type="default">ipa-pmincho-fonts</packagereq>
-      <packagereq type="default">japanese-bitmap-fonts</packagereq>
-      <packagereq type="default">vlgothic-fonts</packagereq>
-      <packagereq type="default">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">cmigemo</packagereq>
       <packagereq type="optional">ddskk</packagereq>
       <packagereq type="optional">ddskk-xemacs</packagereq>
       <packagereq type="optional">eblook</packagereq>
       <packagereq type="optional">ebview</packagereq>
       <packagereq type="optional">hanazono-fonts</packagereq>
+      <packagereq type="optional">japanese-bitmap-fonts</packagereq>
       <packagereq type="optional">jfbterm</packagereq>
       <packagereq type="optional">jisksp16-1990-fonts</packagereq>
       <packagereq type="optional">kcc</packagereq>
@@ -3340,6 +3338,8 @@
       <packagereq type="optional">stardict-dic-ja</packagereq>
       <packagereq type="optional">uim-canna</packagereq>
       <packagereq type="optional">uim-skk</packagereq>
+      <packagereq type="optional">vlgothic-fonts</packagereq>
+      <packagereq type="optional">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">wkf</packagereq>
     </packagelist>
   </group>
@@ -3740,7 +3740,6 @@
     <uservisible>true</uservisible>
     <langonly>ko</langonly>
     <packagelist>
-      <packagereq type="mandatory">un-core-fonts-dotum</packagereq>
       <packagereq type="conditional" requires="autocorr-en">autocorr-ko</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ko</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ko</packagereq>
@@ -3750,31 +3749,32 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ko</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ko</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ko_KR</packagereq>
-      <packagereq type="default">baekmuk-bdf-fonts</packagereq>
-      <packagereq type="default">baekmuk-ttf-batang-fonts</packagereq>
-      <packagereq type="default">baekmuk-ttf-dotum-fonts</packagereq>
-      <packagereq type="default">baekmuk-ttf-gulim-fonts</packagereq>
-      <packagereq type="default">baekmuk-ttf-hline-fonts</packagereq>
       <packagereq type="default">un-core-fonts-batang</packagereq>
       <packagereq type="default">un-core-fonts-dinaru</packagereq>
+      <packagereq type="default">un-core-fonts-dotum</packagereq>
       <packagereq type="default">un-core-fonts-graphic</packagereq>
       <packagereq type="default">un-core-fonts-gungseo</packagereq>
       <packagereq type="default">un-core-fonts-pilgi</packagereq>
-      <packagereq type="default">un-extra-fonts-bom</packagereq>
-      <packagereq type="default">un-extra-fonts-jamobatang</packagereq>
-      <packagereq type="default">un-extra-fonts-jamodotum</packagereq>
-      <packagereq type="default">un-extra-fonts-jamonovel</packagereq>
-      <packagereq type="default">un-extra-fonts-jamosora</packagereq>
-      <packagereq type="default">un-extra-fonts-pen</packagereq>
-      <packagereq type="default">un-extra-fonts-penheulim</packagereq>
-      <packagereq type="default">un-extra-fonts-pilgia</packagereq>
-      <packagereq type="default">un-extra-fonts-shinmun</packagereq>
-      <packagereq type="default">un-extra-fonts-taza</packagereq>
-      <packagereq type="default">un-extra-fonts-vada</packagereq>
-      <packagereq type="default">un-extra-fonts-yetgul</packagereq>
+      <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
+      <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
+      <packagereq type="optional">baekmuk-ttf-dotum-fonts</packagereq>
+      <packagereq type="optional">baekmuk-ttf-gulim-fonts</packagereq>
+      <packagereq type="optional">baekmuk-ttf-hline-fonts</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-korean</packagereq>
       <packagereq type="optional">nabi</packagereq>
+      <packagereq type="optional">un-extra-fonts-bom</packagereq>
+      <packagereq type="optional">un-extra-fonts-jamobatang</packagereq>
+      <packagereq type="optional">un-extra-fonts-jamodotum</packagereq>
+      <packagereq type="optional">un-extra-fonts-jamonovel</packagereq>
+      <packagereq type="optional">un-extra-fonts-jamosora</packagereq>
+      <packagereq type="optional">un-extra-fonts-pen</packagereq>
+      <packagereq type="optional">un-extra-fonts-penheulim</packagereq>
+      <packagereq type="optional">un-extra-fonts-pilgia</packagereq>
+      <packagereq type="optional">un-extra-fonts-shinmun</packagereq>
+      <packagereq type="optional">un-extra-fonts-taza</packagereq>
+      <packagereq type="optional">un-extra-fonts-vada</packagereq>
+      <packagereq type="optional">un-extra-fonts-yetgul</packagereq>
     </packagelist>
   </group>
   <group>
