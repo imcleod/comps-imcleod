@@ -800,6 +800,7 @@
            packages exist and are installable etc. We're not using this
            to force-install 'kernel' over 'kernel-PAE' or anything. -->
       <packagereq type="mandatory">kernel</packagereq>
+      <packagereq type="mandatory">perf</packagereq>
       <packagereq type="mandatory">livecd-tools</packagereq>
       <packagereq type="mandatory">mash</packagereq>
       <packagereq type="mandatory">NetworkManager</packagereq>
