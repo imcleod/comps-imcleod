@@ -141,6 +141,7 @@
       <packagereq type="mandatory">m17n-contrib-assamese</packagereq>
       <packagereq type="mandatory">m17n-db-assamese</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-as</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-as</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Bengali-India</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-as_IN</packagereq>
@@ -455,6 +456,7 @@
       <packagereq type="mandatory">m17n-db-bengali</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-bn</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-bn</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-bn</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Bengali-India</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-bn</packagereq>
@@ -4186,6 +4188,7 @@
       <packagereq type="conditional" requires="aspell">aspell-mr</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-mr</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-mr</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-mr</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Marathi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mr_IN</packagereq>
