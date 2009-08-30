@@ -3573,6 +3573,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="mandatory">kdebase-runtime</packagereq>
       <packagereq type="mandatory">kdebase-workspace</packagereq>
       <packagereq type="mandatory">kdelibs</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-qt</packagereq>
@@ -3581,6 +3582,7 @@
       <packagereq type="default">cups-pk-helper</packagereq>
       <packagereq type="default">digikam</packagereq>
       <packagereq type="default">kaffeine</packagereq>
+      <packagereq type="default">kde-plasma-folderview</packagereq>
       <packagereq type="default">kde-settings-pulseaudio</packagereq>
       <packagereq type="default">kdeaccessibility</packagereq>
       <packagereq type="default">kdeartwork-screensavers</packagereq>
