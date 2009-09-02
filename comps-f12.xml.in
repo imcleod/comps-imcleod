@@ -360,7 +360,7 @@
       <packagereq type="default">firstboot</packagereq>
       <packagereq type="default">glx-utils</packagereq>
       <packagereq type="default">gnome-packagekit</packagereq>
-      <packagereq type="default">kerneloops</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">krb5-auth-dialog</packagereq>
       <packagereq type="default">openssh-askpass</packagereq>
       <packagereq type="default">plymouth-system-theme</packagereq>
@@ -2462,7 +2462,6 @@
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
       <packagereq type="default">at-spi</packagereq>
       <packagereq type="default">brasero-nautilus</packagereq>
-      <packagereq type="default">bug-buddy</packagereq>
       <packagereq type="default">cheese</packagereq>
       <packagereq type="default">compiz-gnome</packagereq>
       <packagereq type="default">dasher</packagereq>
