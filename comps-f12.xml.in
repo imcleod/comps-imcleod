@@ -2456,7 +2456,6 @@
       <packagereq type="mandatory">gvfs-fuse</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">nautilus</packagereq>
-      <packagereq type="mandatory">PolicyKit-gnome</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
@@ -2566,6 +2565,7 @@
       <packagereq type="optional">scim-gtk</packagereq>
       <packagereq type="optional">screenruler</packagereq>
       <packagereq type="optional">seahorse-plugins</packagereq>
+      <packagereq type="optional">shotwell</packagereq>
       <packagereq type="optional">stardict-dic-en</packagereq>
       <packagereq type="optional">swfdec-gnome</packagereq>
       <packagereq type="optional">tango-icon-theme</packagereq>
