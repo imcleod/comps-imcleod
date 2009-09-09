@@ -353,6 +353,7 @@
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">authconfig-gtk</packagereq>
       <packagereq type="default">bitmap-fonts</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
@@ -360,7 +361,6 @@
       <packagereq type="default">firstboot</packagereq>
       <packagereq type="default">glx-utils</packagereq>
       <packagereq type="default">gnome-packagekit</packagereq>
-      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">krb5-auth-dialog</packagereq>
       <packagereq type="default">openssh-askpass</packagereq>
       <packagereq type="default">plymouth-system-theme</packagereq>
@@ -778,8 +778,8 @@
       <packagereq type="default">efibootmgr</packagereq>
       <packagereq type="default">grub</packagereq>
       <packagereq type="default">ppc64-utils</packagereq>
-      <packagereq type="default">sendmail</packagereq>
       <packagereq type="default">s390utils</packagereq>
+      <packagereq type="default">sendmail</packagereq>
       <packagereq type="default">yaboot</packagereq>
     </packagelist>
   </group>
@@ -1191,25 +1191,25 @@
     </packagelist>
   </group>
   <group>
-      <id>directory-server</id>
-      <_name>Directory Server</_name>
-      <_description>Machine and user identity servers.</_description>
-      <default>false</default>
-      <uservisible>true</uservisible>
-      <packagelist>
-        <packagereq type="optional">krb5-server</packagereq>
-        <packagereq type="optional">migrationtools</packagereq>
-        <packagereq type="optional">openldap-servers</packagereq>
-        <packagereq type="optional">samba</packagereq>
-        <packagereq type="optional">ypserv</packagereq>
-        <packagereq type="optional">389-ds-base</packagereq>
-        <packagereq type="optional">389-ds-admin</packagereq>
-        <packagereq type="optional">idm-console-framework</packagereq>
-        <packagereq type="optional">389-console</packagereq>
-        <packagereq type="optional">389-ds-console</packagereq>
-        <packagereq type="optional">389-admin-console</packagereq>
-        <packagereq type="optional">389-dsgw</packagereq>
-      </packagelist>
+    <id>directory-server</id>
+    <_name>Directory Server</_name>
+    <_description>Machine and user identity servers.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">389-admin-console</packagereq>
+      <packagereq type="optional">389-console</packagereq>
+      <packagereq type="optional">389-ds-admin</packagereq>
+      <packagereq type="optional">389-ds-base</packagereq>
+      <packagereq type="optional">389-ds-console</packagereq>
+      <packagereq type="optional">389-dsgw</packagereq>
+      <packagereq type="optional">idm-console-framework</packagereq>
+      <packagereq type="optional">krb5-server</packagereq>
+      <packagereq type="optional">migrationtools</packagereq>
+      <packagereq type="optional">openldap-servers</packagereq>
+      <packagereq type="optional">samba</packagereq>
+      <packagereq type="optional">ypserv</packagereq>
+    </packagelist>
   </group>
   <group>
     <id>dns-server</id>
@@ -1383,8 +1383,8 @@
       <packagereq type="default">dfu-programmer</packagereq>
       <packagereq type="default">dinotrace</packagereq>
       <packagereq type="default">drawtiming</packagereq>
-      <packagereq type="default">eclipse-veditor</packagereq>
       <packagereq type="default">eclipse-eclox</packagereq>
+      <packagereq type="default">eclipse-veditor</packagereq>
       <packagereq type="default">electric</packagereq>
       <packagereq type="default">espresso-ab</packagereq>
       <packagereq type="default">gds2pov</packagereq>
@@ -3600,12 +3600,12 @@
       <packagereq type="default">konq-plugins</packagereq>
       <packagereq type="default">konversation</packagereq>
       <packagereq type="default">kpackagekit</packagereq>
-      <packagereq type="default">polkit-gnome</packagereq>	
       <packagereq type="default">ksshaskpass</packagereq>
       <packagereq type="default">ktorrent</packagereq>
       <packagereq type="default">NetworkManager-gnome</packagereq>
       <packagereq type="default">pinentry-qt</packagereq>
       <packagereq type="default">PolicyKit-kde</packagereq>
+      <packagereq type="default">polkit-gnome</packagereq>
       <packagereq type="default">scribus</packagereq>
       <packagereq type="default">system-config-printer-kde</packagereq>
       <packagereq type="default">xsettings-kde</packagereq>
@@ -4693,12 +4693,12 @@
       <packagereq type="default">cups-pk-helper</packagereq>
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-cups</packagereq>
-      <packagereq type="default">system-config-printer-udev</packagereq>
       <packagereq type="default">hpijs</packagereq>
       <packagereq type="default">hplip</packagereq>
       <packagereq type="default">mpage</packagereq>
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">system-config-printer</packagereq>
+      <packagereq type="default">system-config-printer-udev</packagereq>
       <packagereq type="optional">a2ps</packagereq>
       <packagereq type="optional">enscript</packagereq>
     </packagelist>
@@ -4811,8 +4811,8 @@
     <uservisible>true</uservisible>
     <langonly>sa</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="hyphen">hyphen-sa</packagereq>
       <packagereq type="mandatory">m17n-db-sanskrit</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-sa</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5077,8 +5077,8 @@
       <packagereq type="optional">ushare</packagereq>
       <packagereq type="optional">v4l2-tool</packagereq>
       <packagereq type="optional">vdr</packagereq>
-      <packagereq type="optional">vdr-femon</packagereq>
       <packagereq type="optional">vdr-epgsearch</packagereq>
+      <packagereq type="optional">vdr-femon</packagereq>
       <packagereq type="optional">vdr-osdteletext</packagereq>
       <packagereq type="optional">vdr-remote</packagereq>
       <packagereq type="optional">vdr-skins</packagereq>
@@ -5310,7 +5310,6 @@
       <packagereq type="optional">autofs</packagereq>
       <packagereq type="optional">avahi-tools</packagereq>
       <packagereq type="optional">bash-completion</packagereq>
-      <packagereq type="optional">PackageKit-command-not-found</packagereq>
       <packagereq type="optional">bochs</packagereq>
       <packagereq type="optional">cabextract</packagereq>
       <packagereq type="optional">catfish</packagereq>
@@ -5402,6 +5401,7 @@
       <packagereq type="optional">oddjob</packagereq>
       <packagereq type="optional">p0f</packagereq>
       <packagereq type="optional">p7zip</packagereq>
+      <packagereq type="optional">PackageKit-command-not-found</packagereq>
       <packagereq type="optional">pam_keyring</packagereq>
       <packagereq type="optional">par2cmdline</packagereq>
       <packagereq type="optional">pbzip2</packagereq>
