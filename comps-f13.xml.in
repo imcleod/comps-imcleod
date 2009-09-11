@@ -675,6 +675,7 @@
       <packagereq type="conditional" requires="moodle">moodle-zh_tw</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_CN</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
+      <packagereq type="conditional" requires="poppler">poppler-data</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
       <packagereq type="optional">ibus-table-erbi</packagereq>
@@ -4778,6 +4779,7 @@
       <packagereq type="conditional" requires="moodle">moodle-ru</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-ru</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
+      <packagereq type="conditional" requires="poppler">poppler-data</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
@@ -5705,6 +5707,7 @@
       <packagereq type="conditional" requires="moodle">moodle-uk</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-uk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-uk</packagereq>
+      <packagereq type="conditional" requires="poppler">poppler-data</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
