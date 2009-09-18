@@ -137,7 +137,7 @@
     <uservisible>true</uservisible>
     <langonly>as</langonly>
     <packagelist>
-      <packagereq type="mandatory">lohit-bengali-fonts</packagereq>
+      <packagereq type="mandatory">lohit-assamese-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib-assamese</packagereq>
       <packagereq type="mandatory">m17n-db-assamese</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-as</packagereq>
@@ -1810,11 +1810,13 @@
       <packagereq type="default">liberation-sans-fonts</packagereq>
       <packagereq type="default">liberation-serif-fonts</packagereq>
       <packagereq type="default">lklug-fonts</packagereq>
+      <packagereq type="default">lohit-assamese-fonts</packagereq>
       <packagereq type="default">lohit-bengali-fonts</packagereq>
       <packagereq type="default">lohit-gujarati-fonts</packagereq>
       <packagereq type="default">lohit-hindi-fonts</packagereq>
       <packagereq type="default">lohit-kannada-fonts</packagereq>
       <packagereq type="default">lohit-maithili-fonts</packagereq>
+      <packagereq type="default">lohit-marathi-fonts</packagereq>
       <packagereq type="default">lohit-oriya-fonts</packagereq>
       <packagereq type="default">lohit-punjabi-fonts</packagereq>
       <packagereq type="default">lohit-tamil-fonts</packagereq>
@@ -3530,6 +3532,7 @@
       <packagereq type="mandatory">m17n-contrib-kannada</packagereq>
       <packagereq type="mandatory">m17n-db-kannada</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-kn</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-kn</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-kn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-kn_IN</packagereq>
@@ -3548,8 +3551,7 @@
       <packagereq type="mandatory">m17n-contrib-kashmiri</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
-      <packagereq type="default">m17n-contrib-hindi</packagereq>
-      <packagereq type="default">m17n-db-hindi</packagereq>
+      <packagereq type="default">m17n-contrib-kashmiri</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3754,8 +3756,6 @@
       <packagereq type="mandatory">lohit-konkani-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
-      <packagereq type="default">m17n-contrib-hindi</packagereq>
-      <packagereq type="default">m17n-db-hindi</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4734,6 +4734,7 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Punjabi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pa_IN</packagereq>
       <packagereq type="default">iok</packagereq>
+      <packagereq type="default">saab-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4826,6 +4827,7 @@
     <packagelist>
       <packagereq type="mandatory">m17n-db-sanskrit</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-sa</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4892,6 +4894,7 @@
     <packagelist>
       <packagereq type="mandatory">lohit-sindhi-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib-sindhi</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -5521,7 +5524,7 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ta_IN</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-tamil-fonts</packagereq>
-      <packagereq type="optional">serafettin-cartoon-fonts</packagereq>
+      <packagereq type="default">serafettin-cartoon-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5541,8 +5544,8 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-te_IN</packagereq>
       <packagereq type="default">iok</packagereq>
-      <packagereq type="optional">pothana2000-fonts</packagereq>
-      <packagereq type="optional">vemana2000-fonts</packagereq>
+      <packagereq type="default">pothana2000-fonts</packagereq>
+      <packagereq type="default">vemana2000-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5768,6 +5771,7 @@
       <packagereq type="mandatory">paktype-tehreer-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ur</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">nafees-web-naskh-fonts</packagereq>
