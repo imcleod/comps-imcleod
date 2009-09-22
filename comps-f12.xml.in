@@ -483,6 +483,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">diveintopython</packagereq>
+      <packagereq type="default">fedora-security-guide-en-US</packagereq>
       <packagereq type="default">javanotes</packagereq>
       <packagereq type="default">ldd-pdf</packagereq>
     </packagelist>
@@ -6346,6 +6347,7 @@
     <_description>Packages which provide functionality for developing and building applications.</_description>
     <display_order>70</display_order>
     <grouplist>
+      <groupid>books</groupid>
       <groupid>development-libs</groupid>
       <groupid>development-tools</groupid>
       <groupid>eclipse</groupid>
