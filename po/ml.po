@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: comps.HEAD.ml\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-01 02:22+0000\n"
-"PO-Revision-Date: 2009-09-02 11:49+0530\n"
+"POT-Creation-Date: 2009-09-22 04:31+0000\n"
+"PO-Revision-Date: 2009-09-22 12:04+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -820,7 +820,7 @@ msgstr "സാധ്യമായ ഏറ്റവും ചെറിയ ഇന്
 #: ../comps-f11.xml.in.h:175 ../comps-f12.xml.in.h:186
 #: ../comps-f13.xml.in.h:186 ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:44
 msgid "Software used for running network servers"
-msgstr "നെറ്റ്‌വര്‍ക്ക് സര്‍വറുകള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നതിനുളള സോഫ്റ്റ്‍വയര്‍"
+msgstr "നെറ്റ്‌വര്‍ക്ക് സര്‍വറുകള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നതിനുളള സോഫ്റ്റ്‌വെയര്‍"
 
 #: ../comps-f9.xml.in.h:143 ../comps-f10.xml.in.h:153
 #: ../comps-f11.xml.in.h:176 ../comps-f12.xml.in.h:187
@@ -1073,7 +1073,7 @@ msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"ടെക്സ്റ്റ്-ബെയ്സ്ട് ഈമെയില്‍, Web, ചാറ്റ് ക്ളൈന്‍റുകള്‍ എന്നിവ ഈ വിഭാഗത്തില്‍ ഉല്‍പ്പെടുന്നു. ഈ "
+"ടെക്സ്റ്റ്-ബെയ്സ്ട് ഈമെയില്‍, Web, ചാറ്റ് ക്ലൈറ്റുകള്‍ എന്നിവ ഈ വിഭാഗത്തില്‍ ഉല്‍പ്പെടുന്നു. ഈ "
 "പ്രയോഗങ്ങള്‍ക്ക് X Window സിസ്റ്റം ആവശ്യമില്ല."
 
 #: ../comps-f9.xml.in.h:180 ../comps-f10.xml.in.h:193
@@ -1083,8 +1083,8 @@ msgid ""
 "This group is a collection of graphical administration tools for the system, "
 "such as for managing user accounts and configuring system hardware."
 msgstr ""
-"യൂസര്‍ അക്കൌണ്ടുകള്‍ കൈകാര്യം ചെയ്യുക, കംപ്യൂട്ടറിന്റെ ഹാര്‍ഡ്‌വെയര്‍ ക്രമികരിക്കുക എന്നീ ഗ്രാഫിക്കല്‍ "
-"അഡ്മിനിസ്ട്രേഷന്‍ ടൂളുകളുടെ ഒരു ശേഖരമാണ് ഈ വിഭാഗം "
+"ഉപയോക്താവിന്റെ അക്കൌണ്ടുകള്‍ കൈകാര്യം ചെയ്യുക, കംപ്യൂട്ടറിന്റെ ഹാര്‍ഡ്‌വെയര്‍ \n"
+"ക്രമികരിക്കുക എന്നീ ഗ്രാഫിക്കല്‍ അഡ്മിനിസ്ട്രേഷന്‍ ടൂളുകളുടെ ഒരു ശേഖരമാണ് ഈ വിഭാഗം."
 
 #: ../comps-f9.xml.in.h:181 ../comps-f10.xml.in.h:194
 #: ../comps-f11.xml.in.h:222 ../comps-f12.xml.in.h:233
@@ -1539,8 +1539,8 @@ msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
 msgstr ""
-"എല്ലാ ഫെഡോറാ സ്പിനുകളിലും ക്രിറ്റിക്കല്‍ പാഥ് സംവിധാനത്തിനുള്ള ഷെയര്‍ഡ് പ്ലാറ്റ്ഫോം "
-"ലഭ്യമാക്കുന്ന പാക്കേജുകള്‍"
+"എല്ലാ ഫെഡോറാ സ്പിനുകളിലും ക്രിറ്റിക്കല്‍ പാഥ് സംവിധാനത്തിനുള്ള ഷെയര്‍ഡ് പ്ലാറ്റ്ഫോം ലഭ്യമാക്കുന്ന "
+"പാക്കേജുകള്‍"
 
 #: ../comps-f12.xml.in.h:23 ../comps-f13.xml.in.h:23
 msgid "Books and Guides"
@@ -1571,13 +1571,12 @@ msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
-"പഴയ കമ്പ്യൂട്ടറുകള്‍ അല്ലെങ്കില്‍ നെറ്റ്ബുക്സ്, മൊബൈല്‍ ഡിവൈസുകള്‍ എന്നിങ്ങനെയുള്ള "
-"ലോ ഹാര്‍ഡ്‌വെയര്‍ വിവരണങ്ങളുള്ള കമ്പ്യൂട്ടറുകള്‍ക്കായുള്ള ഒരു ലൈറ്റ്‌വെയിറ്റ് X11 ഡസ്ക്ടോപ്പ് "
-"എന്‍വയോണ്മെന്റാകുന്നു LXDE."
+"പഴയ കമ്പ്യൂട്ടറുകള്‍ അല്ലെങ്കില്‍ നെറ്റ്ബുക്സ്, മൊബൈല്‍ ഡിവൈസുകള്‍ എന്നിങ്ങനെയുള്ള ലോ ഹാര്‍ഡ്‌വെയര്‍ "
+"വിവരണങ്ങളുള്ള കമ്പ്യൂട്ടറുകള്‍ക്കായുള്ള ഒരു ലൈറ്റ്‌വെയിറ്റ് X11 ഡസ്ക്ടോപ്പ് എന്‍വയോണ്മെന്റാകുന്നു LXDE."
 
 #: ../comps-f12.xml.in.h:136 ../comps-f13.xml.in.h:136
 msgid "Machine and user identity servers."
-msgstr "മഷീനും യൂസര്‍ ഐഡന്റിറ്റി സര്‍വറുകള്‍."
+msgstr "മഷീനും ഉപയോക്താവു് തിരിച്ചറിയല്‍ സര്‍വറുകളും."
 
 #: ../comps-f12.xml.in.h:147 ../comps-f13.xml.in.h:147
 msgid "Moblin Desktop Environment"
@@ -1600,16 +1599,16 @@ msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
 msgstr ""
-"പാനല്‍, ഡസ്ക്ക്ടോപ്പ്, സിസ്റ്റ് ഐക്കണുകള്‍, ഗ്രാഫിക്കല്‍ മാനേജറ്‍ എന്നിവയെല്ലാം ഉല്‍പ്പെട്ട ഒരു ശക്തമായ "
-"ഗ്രാഫിക്കല്‍ യൂസറ്‍ ഇന്‍ററ്‍ഫെയ്സ് ആണ് GNOME. "
+"പാനല്‍, ഡസ്ക്ക്ടോപ്പ്, സിസ്റ്റ് ഐക്കണുകള്‍, ഗ്രാഫിക്കല്‍ മാനേജര്‍ എന്നിവയെല്ലാം ഉല്‍പ്പെട്ട ഒരു ശക്തമായ "
+"ഗ്രാഫിക്കല്‍ യൂസര്‍ ഇന്റര്‍ഫെയിസാണു് GNOME. "
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:36
 msgid ""
 "KDE is a powerful, graphical user interface which includes a panel, desktop, "
 "system icons, and a graphical file manager."
 msgstr ""
-"പാനല്‍, ഡസ്ക്ക്ടോപ്പ്, സിസ്റ്റ് ഐക്കണുകള്‍, ഗ്രാഫിക്കല്‍ മാനേജറ്‍ എന്നിവയെല്ലാം ഉല്‍പ്പെട്ട ഒരു ശക്തമായ "
-"ഗ്രാഫിക്കല്‍ യൂസറ്‍ ഇന്‍ററ്‍ഫെയ്സ് ആണ് KDE. "
+"പാനല്‍, ഡസ്ക്ക്ടോപ്പ്, സിസ്റ്റ് ഐക്കണുകള്‍, ഗ്രാഫിക്കല്‍ മാനേജര്‍ എന്നിവയെല്ലാം ഉല്‍പ്പെട്ട ഒരു ശക്തമായ "
+"ഗ്രാഫിക്കല്‍ യൂസര്‍ ഇന്റര്‍ഫെയിസാണു് കെഡിഇ. "
 
 #: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:45
 msgid ""
@@ -1628,8 +1627,8 @@ msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
 msgstr ""
-"DocBook formatല്‍ ഡോക്യുമെന്‍റേഷന്‍ ചെയ്യുന്നതിനും, അവയെ HTML, PDF, Postscript, text "
-"എന്നിവയിലേക്ക് കണ്‍വേറ്‍ക്ക് ചെയ്യുന്നതിനായി ഈ ഉപകരണങ്ങള്‍ ഉപയോഗിക്കുന്നു."
+"DocBook ശൈലിയില്‍ വിവരണക്കുറിപ്പുകള്‍ ഉണ്ടാക്കുന്നതിനും, അവയെ HTML, PDF, Postscript, text "
+"എന്നിവയിലേക്ക് വേര്‍തിരിക്കുന്നതിനും ഈ ഉപകരണങ്ങള്‍ ഉപയോഗിക്കുന്നു."
 
 #: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:63
 msgid "This group is a collection of network servers for specific purposes"
