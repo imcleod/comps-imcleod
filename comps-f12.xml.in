@@ -1393,7 +1393,11 @@
       <packagereq type="default">dfu-programmer</packagereq>
       <packagereq type="default">dinotrace</packagereq>
       <packagereq type="default">drawtiming</packagereq>
+      <packagereq type="default">eclipse-cdt</packagereq>
       <packagereq type="default">eclipse-eclox</packagereq>
+      <packagereq type="default">eclipse-epic</packagereq>
+      <packagereq type="default">eclipse-dltk-tcl</packagereq>
+      <packagereq type="default">eclipse-subclipse</packagereq>
       <packagereq type="default">eclipse-texlipse</packagereq>
       <packagereq type="default">eclipse-veditor</packagereq>
       <packagereq type="default">electric</packagereq>
@@ -1416,6 +1420,8 @@
       <packagereq type="default">gnucap</packagereq>
       <packagereq type="default">gnuradio</packagereq>
       <packagereq type="default">gnusim8085</packagereq>
+      <packagereq type="default">gpsim</packagereq>
+      <packagereq type="default">gputils</packagereq>
       <packagereq type="default">gresistor</packagereq>
       <packagereq type="default">gsim85</packagereq>
       <packagereq type="default">gspiceui</packagereq>
@@ -1453,6 +1459,7 @@
       <packagereq type="default">pharosc-synopsys</packagereq>
       <packagereq type="default">pharosc-xcircuit</packagereq>
       <packagereq type="default">picocom</packagereq>
+      <packagereq type="default">picprog</packagereq>
       <packagereq type="default">pikdev</packagereq>
       <packagereq type="default">piklab</packagereq>
       <packagereq type="default">pikloops</packagereq>
@@ -1470,7 +1477,6 @@
       <packagereq type="default">verilator</packagereq>
       <packagereq type="default">vhd2vl</packagereq>
       <packagereq type="default">vrq</packagereq>
-      <packagereq type="default">vym</packagereq>
       <packagereq type="default">xcircuit</packagereq>
       <packagereq type="default">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
@@ -1480,8 +1486,6 @@
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">minicom</packagereq>
       <packagereq type="optional">octave-forge</packagereq>
-      <packagereq type="optional">planner</packagereq>
-      <packagereq type="optional">qemu</packagereq>
       <packagereq type="optional">rfdump</packagereq>
     </packagelist>
   </group>
