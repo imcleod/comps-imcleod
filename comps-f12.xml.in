@@ -664,7 +664,6 @@
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh_TW</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-table-chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese-Big5</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Chinese</packagereq>
@@ -677,9 +676,14 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
       <packagereq type="conditional" requires="poppler">poppler-data</packagereq>
       <packagereq type="optional">gcin</packagereq>
+      <packagereq type="optional">ibus-table-array30</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
       <packagereq type="optional">ibus-table-erbi</packagereq>
+      <packagereq type="optional">ibus-table-extraphrase</packagereq>
+      <packagereq type="optional">ibus-table-quick</packagereq>
       <packagereq type="optional">ibus-table-wubi</packagereq>
+      <packagereq type="optional">ibus-table-xinhua</packagereq>
+      <packagereq type="optional">ibus-table-yong</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-chinese</packagereq>
       <packagereq type="optional">scim-array</packagereq>
@@ -690,6 +694,7 @@
       <packagereq type="optional">scim-python-xingma-erbi</packagereq>
       <packagereq type="optional">scim-python-xingma-wubi</packagereq>
       <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
+      <packagereq type="optional">scim-tables-chinese</packagereq>
       <packagereq type="optional">scim-tables-chinese-extra</packagereq>
       <packagereq type="optional">stardict-dic-zh_CN</packagereq>
       <packagereq type="optional">stardict-dic-zh_TW</packagereq>
@@ -1790,7 +1795,6 @@
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
-      <packagereq type="default">ipa-pgothic-fonts</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
       <packagereq type="default">kacst-art-fonts</packagereq>
       <packagereq type="default">kacst-book-fonts</packagereq>
@@ -1830,6 +1834,7 @@
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
       <packagereq type="default">un-core-dotum-fonts</packagereq>
+      <packagereq type="default">vlgothic-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-fonts</packagereq>
       <packagereq type="optional">allgeyer-musiqwik-fonts</packagereq>
       <packagereq type="optional">allgeyer-musisync-fonts</packagereq>
@@ -1908,6 +1913,7 @@
       <packagereq type="optional">icelandic-fonts</packagereq>
       <packagereq type="optional">inkboy-fonts</packagereq>
       <packagereq type="optional">ipa-gothic-fonts</packagereq>
+      <packagereq type="optional">ipa-pgothic-fonts</packagereq>
       <packagereq type="optional">ipa-mincho-fonts</packagereq>
       <packagereq type="optional">ipa-pmincho-fonts</packagereq>
       <packagereq type="optional">khmeros-battambang-fonts</packagereq>
@@ -2020,7 +2026,6 @@
       <packagereq type="optional">un-extra-fonts-taza</packagereq>
       <packagereq type="optional">un-extra-fonts-vada</packagereq>
       <packagereq type="optional">un-extra-fonts-yetgul</packagereq>
-      <packagereq type="optional">vlgothic-fonts</packagereq>
       <packagereq type="optional">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">vollkorn-fonts</packagereq>
       <packagereq type="optional">woodardworks-laconic-fonts</packagereq>
@@ -2985,10 +2990,24 @@
       <packagereq type="default">ghc-doc</packagereq>
       <packagereq type="default">happy</packagereq>
       <packagereq type="optional">cpphs</packagereq>
-      <packagereq type="optional">ghc-gtk</packagereq>
+      <packagereq type="optional">ghc-cgi-devel</packagereq>
+      <packagereq type="optional">ghc-editline-devel</packagereq>
+      <packagereq type="optional">ghc-ghc-paths-devel</packagereq>
+      <packagereq type="optional">ghc-gtk-devek</packagereq>
       <packagereq type="optional">ghc-gtk2hs-doc</packagereq>
+      <packagereq type="optional">ghc-haskell-src-exts-devel</packagereq>
+      <packagereq type="optional">ghc-HTTP-devel</packagereq>
+      <packagereq type="optional">ghc-HUnit-devel</packagereq>
+      <packagereq type="optional">ghc-network-devel</packagereq>
       <packagereq type="optional">ghc-prof</packagereq>
+      <packagereq type="optional">ghc-uniplate-devel</packagereq>
+      <packagereq type="optional">ghc-utf8-string-devel</packagereq>
+      <packagereq type="optional">ghc-X11-devel</packagereq>
+      <packagereq type="optional">ghc-X11-xft-devel</packagereq>
+      <packagereq type="optional">ghc-X11-zlib-devel</packagereq>
+      <packagereq type="optional">ghc-xmonad-contrib-devel</packagereq>
       <packagereq type="optional">haddock</packagereq>
+      <packagereq type="optional">hscolour</packagereq>
       <packagereq type="optional">hugs98</packagereq>
       <packagereq type="optional">hugs98-demos</packagereq>
       <packagereq type="optional">xmonad</packagereq>
@@ -3123,8 +3142,8 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="conditional" requires="qt">ibus</packagereq>
       <packagereq type="conditional" requires="gtk2">ibus-gtk</packagereq>
+      <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
       <packagereq type="conditional" requires="xfce-utils">imsettings-xfce</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
       <packagereq type="default">ibus-chewing</packagereq>
@@ -3154,9 +3173,14 @@
       <packagereq type="optional">gok</packagereq>
       <packagereq type="optional">ibus-sayura</packagereq>
       <packagereq type="optional">ibus-table-additional</packagereq>
+      <packagereq type="optional">ibus-table-array30</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
       <packagereq type="optional">ibus-table-erbi</packagereq>
+      <packagereq type="optional">ibus-table-quick</packagereq>
+      <packagereq type="optional">ibus-table-translit</packagereq>
       <packagereq type="optional">ibus-table-wubi</packagereq>
+      <packagereq type="optional">ibus-table-xinhua</packagereq>
+      <packagereq type="optional">ibus-table-yong</packagereq>
       <packagereq type="optional">iok</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">m17n-contrib-esperanto</packagereq>
@@ -3328,16 +3352,18 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ja_JP</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-ja</packagereq>
       <packagereq type="conditional" requires="uim">uim-anthy</packagereq>
-      <packagereq type="default">ipa-gothic-fonts</packagereq>
-      <packagereq type="default">ipa-mincho-fonts</packagereq>
-      <packagereq type="default">ipa-pgothic-fonts</packagereq>
-      <packagereq type="default">ipa-pmincho-fonts</packagereq>
+      <packagereq type="default">vlgothic-fonts</packagereq>
+      <packagereq type="default">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">cmigemo</packagereq>
       <packagereq type="optional">ddskk</packagereq>
       <packagereq type="optional">ddskk-xemacs</packagereq>
       <packagereq type="optional">eblook</packagereq>
       <packagereq type="optional">ebview</packagereq>
       <packagereq type="optional">hanazono-fonts</packagereq>
+      <packagereq type="optional">ipa-gothic-fonts</packagereq>
+      <packagereq type="optional">ipa-mincho-fonts</packagereq>
+      <packagereq type="optional">ipa-pgothic-fonts</packagereq>
+      <packagereq type="optional">ipa-pmincho-fonts</packagereq>
       <packagereq type="optional">japanese-bitmap-fonts</packagereq>
       <packagereq type="optional">jfbterm</packagereq>
       <packagereq type="optional">jisksp16-1990-fonts</packagereq>
@@ -3364,8 +3390,6 @@
       <packagereq type="optional">stardict-dic-ja</packagereq>
       <packagereq type="optional">uim-canna</packagereq>
       <packagereq type="optional">uim-skk</packagereq>
-      <packagereq type="optional">vlgothic-fonts</packagereq>
-      <packagereq type="optional">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">wkf</packagereq>
     </packagelist>
   </group>
@@ -4809,6 +4833,7 @@
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
+      <packagereq type="optional">ibus-table-translit</packagereq>
       <packagereq type="optional">m17n-contrib-russian</packagereq>
       <packagereq type="optional">m17n-db-russian</packagereq>
       <packagereq type="optional">scim-tables-russian</packagereq>
