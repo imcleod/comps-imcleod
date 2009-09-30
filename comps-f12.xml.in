@@ -1274,6 +1274,7 @@
     <packagelist>
       <packagereq type="mandatory">eclipse-cdt</packagereq>
       <packagereq type="mandatory">eclipse-jdt</packagereq>
+      <packagereq type="default">eclipse-callgraph</packagereq>
       <packagereq type="default">eclipse-changelog</packagereq>
       <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-mylyn</packagereq>
@@ -1283,7 +1284,6 @@
       <packagereq type="default">eclipse-pydev</packagereq>
       <packagereq type="default">eclipse-rpm-editor</packagereq>
       <packagereq type="default">eclipse-subclipse</packagereq>
-      <packagereq type="default">eclipse-systemtap</packagereq>
       <packagereq type="default">eclipse-valgrind</packagereq>
       <packagereq type="optional">eclipse-cmakeed</packagereq>
       <packagereq type="optional">eclipse-epic</packagereq>
