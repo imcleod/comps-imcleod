@@ -146,6 +146,60 @@
     </packagelist>
   </group>
   <group>
+    <id>electronic-lab</id>
+    <_name>Electronic Lab</_name>
+    <_description>Design and Simulation tools for hardware engineers</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">alliance</packagereq>
+      <packagereq type="default">dfu-programmer</packagereq>
+      <packagereq type="default">dinotrace</packagereq>
+      <packagereq type="default">electric</packagereq>
+      <packagereq type="default">emacs-dinotrace</packagereq>
+      <packagereq type="default">emacs-verilog-mode</packagereq>
+      <packagereq type="default">emacs-vregs-mode</packagereq>
+      <packagereq type="default">eqntott</packagereq>
+      <packagereq type="default">espresso-ab</packagereq>
+      <packagereq type="default">fped</packagereq>
+      <packagereq type="default">geda-docs</packagereq>
+      <packagereq type="default">geda-examples</packagereq>
+      <packagereq type="default">geda-gattrib</packagereq>
+      <packagereq type="default">geda-gnetlist</packagereq>
+      <packagereq type="default">geda-gschem</packagereq>
+      <packagereq type="default">geda-gsymcheck</packagereq>
+      <packagereq type="default">geda-symbols</packagereq>
+      <packagereq type="default">geda-utils</packagereq>
+      <packagereq type="default">gerbv</packagereq>
+      <packagereq type="default">gnucap</packagereq>
+      <packagereq type="default">gplcver</packagereq>
+      <packagereq type="default">gtkwave</packagereq>
+      <packagereq type="default">irsim</packagereq>
+      <packagereq type="default">iverilog</packagereq>
+      <packagereq type="default">linsmith</packagereq>
+      <packagereq type="default">magic</packagereq>
+      <packagereq type="default">mcu8051ide</packagereq>
+      <packagereq type="default">netgen</packagereq>
+      <packagereq type="default">ngspice</packagereq>
+      <packagereq type="default">pcb</packagereq>
+      <packagereq type="default">perl-Hardware-Verilog-Parser</packagereq>
+      <packagereq type="default">perl-Hardware-Vhdl-Parser</packagereq>
+      <packagereq type="default">perl-ModelSim-List</packagereq>
+      <packagereq type="default">perl-Perlilog</packagereq>
+      <packagereq type="default">perl-SystemC-Vregs</packagereq>
+      <packagereq type="default">perl-SystemPerl</packagereq>
+      <packagereq type="default">perl-Verilog</packagereq>
+      <packagereq type="default">perl-Verilog-CodeGen</packagereq>
+      <packagereq type="default">perl-Verilog-Readmem</packagereq>
+      <packagereq type="default">qucs</packagereq>
+      <packagereq type="default">tkcvs</packagereq>
+      <packagereq type="default">tkgate</packagereq>
+      <packagereq type="default">toped</packagereq>
+      <packagereq type="default">vym</packagereq>
+      <packagereq type="default">xcircuit</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>engineering-and-scientific</id>
     <_name>Engineering and Scientific</_name>
     <_description>This group includes packages for performing mathematical and scientific computations and plotting, as well as unit conversion.</_description>
