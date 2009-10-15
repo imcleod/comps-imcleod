@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
-<comps xmlns="">
+<comps>
   <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
@@ -1844,6 +1844,7 @@
       <packagereq type="default">un-core-dotum-fonts</packagereq>
       <packagereq type="default">vlgothic-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-fonts</packagereq>
+      <packagereq type="optional">adf-tribun-fonts</packagereq>
       <packagereq type="optional">allgeyer-musiqwik-fonts</packagereq>
       <packagereq type="optional">allgeyer-musisync-fonts</packagereq>
       <packagereq type="optional">apa-new-athena-unicode-fonts</packagereq>
@@ -1900,6 +1901,7 @@
       <packagereq type="optional">gfs-fleischman-fonts</packagereq>
       <packagereq type="optional">gfs-garaldus-fonts</packagereq>
       <packagereq type="optional">gfs-gazis-fonts</packagereq>
+      <packagereq type="optional">gfs-ignacio-fonts</packagereq>
       <packagereq type="optional">gfs-jackson-fonts</packagereq>
       <packagereq type="optional">gfs-neohellenic-fonts</packagereq>
       <packagereq type="optional">gfs-nicefore-fonts</packagereq>
@@ -2898,6 +2900,7 @@
       <packagereq type="optional">gfs-fleischman-fonts</packagereq>
       <packagereq type="optional">gfs-garaldus-fonts</packagereq>
       <packagereq type="optional">gfs-gazis-fonts</packagereq>
+      <packagereq type="optional">gfs-ignacio-fonts</packagereq>
       <packagereq type="optional">gfs-jackson-fonts</packagereq>
       <packagereq type="optional">gfs-neohellenic-fonts</packagereq>
       <packagereq type="optional">gfs-nicefore-fonts</packagereq>
