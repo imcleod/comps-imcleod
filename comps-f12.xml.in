@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
-<comps>
+<comps xmlns="">
   <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
@@ -786,8 +786,8 @@
       <packagereq type="default">ppc64-utils</packagereq>
       <packagereq type="default">s390utils</packagereq>
       <packagereq type="default">sendmail</packagereq>
-      <packagereq type="default">yaboot</packagereq>
       <packagereq type="default">silo</packagereq>
+      <packagereq type="default">yaboot</packagereq>
     </packagelist>
   </group>
   <!-- 
@@ -1157,8 +1157,8 @@
       <packagereq type="optional">Sprog</packagereq>
       <packagereq type="optional">srecord</packagereq>
       <packagereq type="optional">subcommander</packagereq>
-      <packagereq type="optional">sunifdef</packagereq>
       <packagereq type="optional">subversion-svn2cl</packagereq>
+      <packagereq type="optional">sunifdef</packagereq>
       <packagereq type="optional">svnmailer</packagereq>
       <packagereq type="optional">sysconftool</packagereq>
       <packagereq type="optional">tailor</packagereq>
@@ -1395,9 +1395,9 @@
       <packagereq type="default">dinotrace</packagereq>
       <packagereq type="default">drawtiming</packagereq>
       <packagereq type="default">eclipse-cdt</packagereq>
+      <packagereq type="default">eclipse-dltk-tcl</packagereq>
       <packagereq type="default">eclipse-eclox</packagereq>
       <packagereq type="default">eclipse-epic</packagereq>
-      <packagereq type="default">eclipse-dltk-tcl</packagereq>
       <packagereq type="default">eclipse-subclipse</packagereq>
       <packagereq type="default">eclipse-texlipse</packagereq>
       <packagereq type="default">eclipse-veditor</packagereq>
@@ -1921,8 +1921,8 @@
       <packagereq type="optional">icelandic-fonts</packagereq>
       <packagereq type="optional">inkboy-fonts</packagereq>
       <packagereq type="optional">ipa-gothic-fonts</packagereq>
-      <packagereq type="optional">ipa-pgothic-fonts</packagereq>
       <packagereq type="optional">ipa-mincho-fonts</packagereq>
+      <packagereq type="optional">ipa-pgothic-fonts</packagereq>
       <packagereq type="optional">ipa-pmincho-fonts</packagereq>
       <packagereq type="optional">khmeros-battambang-fonts</packagereq>
       <packagereq type="optional">khmeros-bokor-fonts</packagereq>
@@ -1940,11 +1940,9 @@
       <packagereq type="optional">lilypond-feta-fonts</packagereq>
       <packagereq type="optional">lilypond-parmesan-fonts</packagereq>
       <packagereq type="optional">linux-libertine-fonts</packagereq>
-      <packagereq type="optional">lohit-assamese-fonts</packagereq>
       <packagereq type="optional">lohit-kashmiri-fonts</packagereq>
       <packagereq type="optional">lohit-konkani-fonts</packagereq>
       <packagereq type="optional">lohit-malayalam-fonts</packagereq>
-      <packagereq type="optional">lohit-marathi-fonts</packagereq>
       <packagereq type="optional">lohit-nepali-fonts</packagereq>
       <packagereq type="optional">lohit-sindhi-fonts</packagereq>
       <packagereq type="optional">madan-fonts</packagereq>
@@ -3571,8 +3569,8 @@
       <packagereq type="mandatory">lohit-kannada-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib-kannada</packagereq>
       <packagereq type="mandatory">m17n-db-kannada</packagereq>
-      <packagereq type="conditional" requires="hyphen">hyphen-kn</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-kn</packagereq>
+      <packagereq type="conditional" requires="hyphen">hyphen-kn</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-kn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-kn_IN</packagereq>
@@ -3591,7 +3589,6 @@
       <packagereq type="mandatory">m17n-contrib-kashmiri</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
-      <packagereq type="default">m17n-contrib-kashmiri</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3694,8 +3691,8 @@
       <packagereq type="optional">kgrab</packagereq>
       <packagereq type="optional">kiconedit</packagereq>
       <packagereq type="optional">kio-ftps</packagereq>
-      <packagereq type="optional">kio_gopher</packagereq>
       <packagereq type="optional">kiosktool</packagereq>
+      <packagereq type="optional">kio_gopher</packagereq>
       <packagereq type="optional">klamav</packagereq>
       <packagereq type="optional">kmenu-gnome</packagereq>
       <packagereq type="optional">kmid</packagereq>
@@ -5825,8 +5822,8 @@
       <packagereq type="mandatory">paktype-naqsh-fonts</packagereq>
       <packagereq type="mandatory">paktype-tehreer-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ur</packagereq>
-      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">nafees-web-naskh-fonts</packagereq>
