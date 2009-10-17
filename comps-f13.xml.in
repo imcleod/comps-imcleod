@@ -4289,10 +4289,12 @@
     <packagelist>
       <packagereq type="mandatory">bisho</packagereq>
       <packagereq type="mandatory">bognor-regis</packagereq>
+      <packagereq type="mandatory">dalston</packagereq>
       <packagereq type="mandatory">moblin-cursor-theme</packagereq>
       <packagereq type="mandatory">moblin-gtk-engine</packagereq>
       <packagereq type="mandatory">moblin-icon-theme</packagereq>
       <packagereq type="mandatory">moblin-panel-applications</packagereq>
+      <packagereq type="mandatory">moblin-panel-media</packagereq>
       <packagereq type="mandatory">moblin-panel-myzone</packagereq>
       <packagereq type="mandatory">moblin-panel-pasteboard</packagereq>
       <packagereq type="mandatory">moblin-panel-people</packagereq>
@@ -4302,6 +4304,8 @@
       <packagereq type="mandatory">mutter</packagereq>
       <packagereq type="mandatory">network-manager-netbook</packagereq>
       <packagereq type="default">anjal</packagereq>
+      <packagereq type="default">hornsey</packagereq>
+      <packagereq type="default">syncevolution-moblin</packagereq>
     </packagelist>
   </group>
   <group>
