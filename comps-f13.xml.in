@@ -138,7 +138,7 @@
     <uservisible>true</uservisible>
     <langonly>as</langonly>
     <packagelist>
-      <packagereq type="mandatory">lohit-bengali-fonts</packagereq>
+      <packagereq type="mandatory">lohit-assamese-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib-assamese</packagereq>
       <packagereq type="mandatory">m17n-db-assamese</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-as</packagereq>
@@ -1544,7 +1544,6 @@
       <packagereq type="optional">libtcd</packagereq>
       <packagereq type="optional">Macaulay2</packagereq>
       <packagereq type="optional">malaga</packagereq>
-      <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">maxima</packagereq>
       <packagereq type="optional">maxima-gui</packagereq>
       <packagereq type="optional">mona</packagereq>
@@ -1836,6 +1835,8 @@
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
       <packagereq type="default">un-core-dotum-fonts</packagereq>
+      <packagereq type="optional">adf-accanthis-2-fonts</packagereq>
+      <packagereq type="optional">adf-accanthis-3-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-fonts</packagereq>
       <packagereq type="optional">adf-tribun-fonts</packagereq>
       <packagereq type="optional">allgeyer-musiqwik-fonts</packagereq>
@@ -1855,7 +1856,24 @@
       <packagereq type="optional">bitstream-vera-sans-fonts</packagereq>
       <packagereq type="optional">bitstream-vera-sans-mono-fonts</packagereq>
       <packagereq type="optional">bitstream-vera-serif-fonts</packagereq>
+      <packagereq type="optional">bpg-algeti-fonts</packagereq>
+      <packagereq type="optional">bpg-chveulebrivi-fonts</packagereq>
+      <packagereq type="optional">bpg-courier-fonts</packagereq>
+      <packagereq type="optional">bpg-courier-s-fonts</packagereq>
+      <packagereq type="optional">bpg-elite-fonts</packagereq>
+      <packagereq type="optional">bpg-excelsior-fonts</packagereq>
+      <packagereq type="optional">bpg-glaho-fonts</packagereq>
+      <packagereq type="optional">bpg-ingiri-fonts</packagereq>
+      <packagereq type="optional">bpg-nino-medium-cond-fonts</packagereq>
+      <packagereq type="optional">bpg-nino-medium-fonts</packagereq>
+      <packagereq type="optional">bpg-sans-fonts</packagereq>
+      <packagereq type="optional">bpg-sans-medium-fonts</packagereq>
+      <packagereq type="optional">bpg-sans-modern-fonts</packagereq>
+      <packagereq type="optional">bpg-sans-regular-fonts</packagereq>
+      <packagereq type="optional">bpg-serif-fonts</packagereq>
+      <packagereq type="optional">bpg-serif-modern-fonts</packagereq>
       <packagereq type="optional">brettfont-fonts</packagereq>
+      <packagereq type="optional">cave9-mutante-fonts</packagereq>
       <packagereq type="optional">cf-bonveno-fonts</packagereq>
       <packagereq type="optional">chisholm-letterslaughing-fonts</packagereq>
       <packagereq type="optional">chisholm-to-be-continued-fonts</packagereq>
@@ -1902,6 +1920,7 @@
       <packagereq type="optional">gfs-neohellenic-fonts</packagereq>
       <packagereq type="optional">gfs-nicefore-fonts</packagereq>
       <packagereq type="optional">gfs-olga-fonts</packagereq>
+      <packagereq type="optional">gfs-philostratos-fonts</packagereq>
       <packagereq type="optional">gfs-porson-fonts</packagereq>
       <packagereq type="optional">gfs-pyrsos-fonts</packagereq>
       <packagereq type="optional">gfs-solomos-fonts</packagereq>
@@ -1949,15 +1968,18 @@
       <packagereq type="optional">mgopen-cosmetica-fonts</packagereq>
       <packagereq type="optional">mgopen-modata-fonts</packagereq>
       <packagereq type="optional">mgopen-moderna-fonts</packagereq>
-      <packagereq type="optional">mscore-mscore-fonts</packagereq>
+      <packagereq type="optional">mscore-fonts</packagereq>
       <packagereq type="optional">myanmar3-unicode-fonts</packagereq>
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">oflb-goudy-bookletter-1911-fonts</packagereq>
       <packagereq type="optional">oflb-notcouriersans-fonts</packagereq>
+      <packagereq type="optional">oflb-prociono-fonts</packagereq>
       <packagereq type="optional">oflb-riordonfancy-fonts</packagereq>
+      <packagereq type="optional">oflb-smonohand-fonts</packagereq>
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
       <packagereq type="optional">openoffice.org-opensymbol-fonts</packagereq>
       <packagereq type="optional">roadstencil-fonts</packagereq>
+      <packagereq type="optional">saab-fonts</packagereq>
       <packagereq type="optional">samyak-devanagari-fonts</packagereq>
       <packagereq type="optional">samyak-gujarati-fonts</packagereq>
       <packagereq type="optional">samyak-malayalam-fonts</packagereq>
@@ -1985,6 +2007,8 @@
       <packagereq type="optional">sil-gentium-basic-book-fonts</packagereq>
       <packagereq type="optional">sil-gentium-basic-fonts</packagereq>
       <packagereq type="optional">sil-gentium-fonts</packagereq>
+      <packagereq type="optional">sil-lateef-fonts</packagereq>
+      <packagereq type="optional">sil-padauk-fonts</packagereq>
       <packagereq type="optional">sil-scheherazade-fonts</packagereq>
       <packagereq type="optional">silkscreen-expanded-fonts</packagereq>
       <packagereq type="optional">silkscreen-fonts</packagereq>
@@ -2014,11 +2038,12 @@
       <packagereq type="optional">tiresias-pc-z-fonts</packagereq>
       <packagereq type="optional">tiresias-sign-fonts</packagereq>
       <packagereq type="optional">tiresias-sign-z-fonts</packagereq>
-      <packagereq type="optional">un-core-fonts-batang</packagereq>
-      <packagereq type="optional">un-core-fonts-dinaru</packagereq>
-      <packagereq type="optional">un-core-fonts-graphic</packagereq>
-      <packagereq type="optional">un-core-fonts-gungseo</packagereq>
-      <packagereq type="optional">un-core-fonts-pilgi</packagereq>
+      <packagereq type="optional">tulrich-tuffy-fonts</packagereq>
+      <packagereq type="optional">un-core-batang-fonts</packagereq>
+      <packagereq type="optional">un-core-dinaru-fonts</packagereq>
+      <packagereq type="optional">un-core-graphic-fonts</packagereq>
+      <packagereq type="optional">un-core-gungseo-fonts</packagereq>
+      <packagereq type="optional">un-core-pilgi-fonts</packagereq>
       <packagereq type="optional">un-extra-fonts-bom</packagereq>
       <packagereq type="optional">un-extra-fonts-jamobatang</packagereq>
       <packagereq type="optional">un-extra-fonts-jamodotum</packagereq>
@@ -2031,6 +2056,7 @@
       <packagereq type="optional">un-extra-fonts-taza</packagereq>
       <packagereq type="optional">un-extra-fonts-vada</packagereq>
       <packagereq type="optional">un-extra-fonts-yetgul</packagereq>
+      <packagereq type="optional">vemana2000-fonts</packagereq>
       <packagereq type="optional">vlgothic-fonts</packagereq>
       <packagereq type="optional">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">vollkorn-fonts</packagereq>
@@ -2427,6 +2453,7 @@
       <packagereq type="optional">bpg-algeti-fonts</packagereq>
       <packagereq type="optional">bpg-courier-s-fonts</packagereq>
       <packagereq type="optional">bpg-elite-fonts</packagereq>
+      <packagereq type="optional">bpg-excelsior-fonts</packagereq>
       <packagereq type="optional">bpg-ingiri-fonts</packagereq>
       <packagereq type="optional">bpg-nino-medium-cond-fonts</packagereq>
       <packagereq type="optional">bpg-nino-medium-fonts</packagereq>
@@ -2903,6 +2930,7 @@
       <packagereq type="optional">gfs-neohellenic-fonts</packagereq>
       <packagereq type="optional">gfs-nicefore-fonts</packagereq>
       <packagereq type="optional">gfs-olga-fonts</packagereq>
+      <packagereq type="optional">gfs-philostratos-fonts</packagereq>
       <packagereq type="optional">gfs-porson-fonts</packagereq>
       <packagereq type="optional">gfs-pyrsos-fonts</packagereq>
       <packagereq type="optional">gfs-solomos-fonts</packagereq>
@@ -3896,7 +3924,7 @@
       <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
       <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
-      <packagereq type="optional">bitmap-fonts-cjk</packagereq>
+      <packagereq type="optional">bitmap-cjk-fonts</packagereq>
       <packagereq type="optional">ctan-musixtex-fonts</packagereq>
       <packagereq type="optional">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="optional">culmus-caladings-clm-fonts</packagereq>
@@ -3921,8 +3949,20 @@
       <packagereq type="optional">jisksp16-1990-fonts</packagereq>
       <packagereq type="optional">knm_new-fonts</packagereq>
       <packagereq type="optional">libdockapp-fonts</packagereq>
+      <packagereq type="optional">lyx-cmex10-fonts</packagereq>
+      <packagereq type="optional">lyx-cmmi10-fonts</packagereq>
+      <packagereq type="optional">lyx-cmr10-fonts</packagereq>
+      <packagereq type="optional">lyx-cmsy10-fonts</packagereq>
+      <packagereq type="optional">lyx-esint10-fonts</packagereq>
+      <packagereq type="optional">lyx-eufm10-fonts</packagereq>
+      <packagereq type="optional">lyx-msam10-fonts</packagereq>
+      <packagereq type="optional">lyx-msbm10-fonts</packagereq>
+      <packagereq type="optional">lyx-wasy10-fonts</packagereq>
       <packagereq type="optional">mona-bitmap-fonts</packagereq>
+      <packagereq type="optional">nethack-bitmap-fonts</packagereq>
       <packagereq type="optional">nted-ntedfont-fonts</packagereq>
+      <packagereq type="optional">rosegarden4-feta-fonts</packagereq>
+      <packagereq type="optional">rosegarden4-parmesan-fonts</packagereq>
       <packagereq type="optional">taipeifonts</packagereq>
       <packagereq type="optional">terminus-fonts</packagereq>
       <packagereq type="optional">terminus-fonts-console</packagereq>
