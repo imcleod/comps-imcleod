@@ -957,6 +957,7 @@
       <packagereq type="default">rpm-devel</packagereq>
       <packagereq type="default">slang-devel</packagereq>
       <packagereq type="optional">check-devel</packagereq>
+      <packagereq type="optional">cvc3-devel</packagereq>
       <packagereq type="optional">expatmm-devel</packagereq>
       <packagereq type="optional">libdwarf-devel</packagereq>
       <packagereq type="optional">libusb-devel</packagereq>
@@ -1505,6 +1506,10 @@
       <packagereq type="optional">cdo</packagereq>
       <packagereq type="optional">cernlib-utils</packagereq>
       <packagereq type="optional">chemtool</packagereq>
+      <packagereq type="optional">cvc3</packagereq>
+      <packagereq type="optional">cvc3-doc</packagereq>
+      <packagereq type="optional">cvc3-emacs</packagereq>
+      <packagereq type="optional">cvc3-xemacs</packagereq>
       <packagereq type="optional">dx</packagereq>
       <packagereq type="optional">dx-samples</packagereq>
       <packagereq type="optional">freefem++</packagereq>
