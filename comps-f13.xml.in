@@ -1772,6 +1772,7 @@
       <packagereq type="optional">bzr</packagereq>
       <packagereq type="optional">cvs</packagereq>
       <packagereq type="optional">darcs</packagereq>
+      <packagereq type="optional">fontpackages-tools</packagereq>
       <packagereq type="optional">freetype-demos</packagereq>
       <packagereq type="optional">gbdfed</packagereq>
       <packagereq type="optional">ghostscript-doc</packagereq>
@@ -5917,8 +5918,8 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">python-virtinst</packagereq>
-      <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="default">libvirt</packagereq>
+      <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="default">virt-manager</packagereq>
       <packagereq type="default">virt-viewer</packagereq>
       <packagereq type="optional">virt-top</packagereq>
