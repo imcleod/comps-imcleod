@@ -113,6 +113,7 @@
       <packagereq type="default">paktype-tehreer-fonts</packagereq>
       <packagereq type="optional">m17n-db-arabic</packagereq>
       <packagereq type="optional">scim-tables-arabic</packagereq>
+      <packagereq type="optional">sil-lateef-fonts</packagereq>
       <packagereq type="optional">sil-scheherazade-fonts</packagereq>
     </packagelist>
   </group>
@@ -2023,6 +2024,7 @@
       <packagereq type="optional">sil-gentium-basic-book-fonts</packagereq>
       <packagereq type="optional">sil-gentium-basic-fonts</packagereq>
       <packagereq type="optional">sil-gentium-fonts</packagereq>
+      <packagereq type="optional">sil-lateef-fonts</packagereq>
       <packagereq type="optional">sil-scheherazade-fonts</packagereq>
       <packagereq type="optional">silkscreen-expanded-fonts</packagereq>
       <packagereq type="optional">silkscreen-fonts</packagereq>
@@ -4771,6 +4773,7 @@
       <packagereq type="conditional" requires="moodle">moodle-fa</packagereq>
       <packagereq type="default">sil-scheherazade-fonts</packagereq>
       <packagereq type="optional">m17n-db-farsi</packagereq>
+      <packagereq type="optional">sil-lateef-fonts</packagereq>
     </packagelist>
   </group>
   <group>

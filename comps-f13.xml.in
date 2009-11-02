@@ -113,6 +113,7 @@
       <packagereq type="default">paktype-tehreer-fonts</packagereq>
       <packagereq type="optional">m17n-db-arabic</packagereq>
       <packagereq type="optional">scim-tables-arabic</packagereq>
+      <packagereq type="optional">sil-lateef-fonts</packagereq>
       <packagereq type="optional">sil-scheherazade-fonts</packagereq>
     </packagelist>
   </group>
@@ -4745,6 +4746,7 @@
       <packagereq type="conditional" requires="moodle">moodle-fa</packagereq>
       <packagereq type="default">sil-scheherazade-fonts</packagereq>
       <packagereq type="optional">m17n-db-farsi</packagereq>
+      <packagereq type="optional">sil-lateef-fonts</packagereq>
     </packagelist>
   </group>
   <group>
