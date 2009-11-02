@@ -1261,10 +1261,13 @@
       <packagereq type="optional">qalculate-kde</packagereq>
       <packagereq type="optional">qcad</packagereq>
       <packagereq type="optional">qtiplot</packagereq>
+      <packagereq type="optional">qtoctave</packagereq>
       <packagereq type="optional">qucs</packagereq>
       <packagereq type="optional">R</packagereq>
       <packagereq type="optional">rrdtool</packagereq>
       <packagereq type="optional">scalapack</packagereq>
+      <packagereq type="optional">scidavis</packagereq>
+      <packagereq type="optional">scidavis-manual</packagereq>
       <packagereq type="optional">scigraphica</packagereq>
       <packagereq type="optional">scrip</packagereq>
       <packagereq type="optional">seaview</packagereq>
@@ -3937,6 +3940,7 @@
       <packagereq type="default">mpage</packagereq>
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">system-config-printer</packagereq>
+      <packagereq type="optional">cups-pdf</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4195,6 +4199,7 @@
       <packagereq type="default">totem-nautilus</packagereq>
       <packagereq type="default">wodim</packagereq>
       <packagereq type="optional">abcde</packagereq>
+      <packagereq type="optional">AcetoneISO2</packagereq>
       <packagereq type="optional">adplay</packagereq>
       <packagereq type="optional">alsamixergui</packagereq>
       <packagereq type="optional">amarok</packagereq>
@@ -4265,6 +4270,7 @@
       <packagereq type="optional">serpentine</packagereq>
       <packagereq type="optional">soundconverter</packagereq>
       <packagereq type="optional">soundtracker</packagereq>
+      <packagereq type="optional">subtitlecomposer</packagereq>
       <packagereq type="optional">sweep</packagereq>
       <packagereq type="optional">tagtool</packagereq>
       <packagereq type="optional">tclabc</packagereq>
@@ -5005,6 +5011,7 @@
       <packagereq type="optional">php-pecl-apc</packagereq>
       <packagereq type="optional">php-pgsql</packagereq>
       <packagereq type="optional">phpldapadmin</packagereq>
+      <packagereq type="optional">phpMyAdmin</packagereq>
       <packagereq type="optional">Pound</packagereq>
       <packagereq type="optional">tclhttpd</packagereq>
       <packagereq type="optional">thttpd</packagereq>
