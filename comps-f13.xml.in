@@ -5408,7 +5408,6 @@
     <packagelist>
       <packagereq type="default">BackupPC</packagereq>
       <packagereq type="default">bonnie++</packagereq>
-      <packagereq type="default">ipsec-tools</packagereq>
       <packagereq type="default">jigdo</packagereq>
       <packagereq type="default">NetworkManager-openconnect</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
@@ -5418,6 +5417,7 @@
       <packagereq type="default">ntp</packagereq>
       <packagereq type="default">openconnect</packagereq>
       <packagereq type="default">openldap-clients</packagereq>
+      <packagereq type="default">openswan</packagereq>
       <packagereq type="default">openvpn</packagereq>
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">screen</packagereq>
@@ -5506,6 +5506,7 @@
       <packagereq type="optional">iftop</packagereq>
       <packagereq type="optional">inadyn-mt</packagereq>
       <packagereq type="optional">incron</packagereq>
+      <packagereq type="optional">ipsec-tools</packagereq>
       <packagereq type="optional">iotop</packagereq>
       <packagereq type="optional">ip6sic</packagereq>
       <packagereq type="optional">iptraf</packagereq>
