@@ -1,22 +1,17 @@
-# translation of comps.HEAD.po to Simplified Chinese
-# Simplified Chinese Version of comps.po.
-# Copyright (C) 2002 Red Hat Inc.
-# This file is distributed under the same license as the comps.HEAD package.
-#
-#
-# Sarah Wang <sarahs@redhat.com>, 2003,2004.
-# Tony Fu <tfu@redhat.com>, 2004, 2006.
-# Leah Liu <weliu@redhat.com>, 2005, 2006.
+# translation of setroubleshoot.tip-plugins.po to Simplified Chinese
 # Xi Huang <xhuang@redhat.com>, 2006.
-# Tony Fu <tfu@redhat.com>, 2007.
-# Leah Liu <lliu@redhat.com>, 2008.
-# Tian Shixiong <tiansworld@gmail.com>, 2008.Leah Liu <lliu@redhat.com>, 2008, 2009.
+# Tony Fu <tfu@redhat.com>, 2006.
+# Leah Liu <lliu@redhat.com>, 2008, 2009.
+# translation of zh_CN.po to
+# translation of zh_CN.po to
+# translation of zh_CN.po to
+# translation of zh_CN.po to
 msgid ""
 msgstr ""
-"Project-Id-Version: comps.HEAD\n"
+"Project-Id-Version: setroubleshoot.tip-plugins\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-02 02:23+0000\n"
-"PO-Revision-Date: 2009-09-03 09:47+1000\n"
+"POT-Creation-Date: 2009-10-26 10:05-0400\n"
+"PO-Revision-Date: 2009-11-18 16:27+0800\n"
 "Last-Translator: Leah Liu <lliu@redhat.com>\n"
 "Language-Team: Simplified Chinese <zh@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,1601 +19,4362 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: ../comps-f9.xml.in.h:1 ../comps-f10.xml.in.h:1 ../comps-f11.xml.in.h:1
-#: ../comps-f12.xml.in.h:1 ../comps-f13.xml.in.h:1
-msgid "A lightweight desktop environment that works well on low end machines."
-msgstr "轻量级环境，即使在配置较低的机器上也能胜任。"
-
-#: ../comps-f9.xml.in.h:2 ../comps-f10.xml.in.h:3 ../comps-f11.xml.in.h:3
-#: ../comps-f12.xml.in.h:5 ../comps-f13.xml.in.h:5 ../comps-el4.xml.in.h:1
-#: ../comps-el5.xml.in.h:1
-msgid "Administration Tools"
-msgstr "管理工具"
-
-#: ../comps-f9.xml.in.h:3 ../comps-f10.xml.in.h:4 ../comps-f11.xml.in.h:4
-#: ../comps-f12.xml.in.h:6 ../comps-f13.xml.in.h:6
-msgid "Afrikaans Support"
-msgstr "南非荷兰语支持"
-
-#: ../comps-f9.xml.in.h:4 ../comps-f10.xml.in.h:5 ../comps-f11.xml.in.h:5
-#: ../comps-f12.xml.in.h:7 ../comps-f13.xml.in.h:7
-msgid "Albanian Support"
-msgstr "阿尔巴尼亚语支持"
-
-#: ../comps-f9.xml.in.h:5 ../comps-f10.xml.in.h:6 ../comps-f11.xml.in.h:7
-#: ../comps-f12.xml.in.h:9 ../comps-f13.xml.in.h:9 ../comps-el4.xml.in.h:2
-#: ../comps-el5.xml.in.h:2
-msgid "Applications"
-msgstr "应用程序"
-
-#: ../comps-f9.xml.in.h:6 ../comps-f10.xml.in.h:7 ../comps-f11.xml.in.h:8
-#: ../comps-f12.xml.in.h:10 ../comps-f13.xml.in.h:10
-msgid "Applications to perform a variety of tasks"
-msgstr "进行一系列任务的应用程序"
-
-#: ../comps-f9.xml.in.h:7 ../comps-f10.xml.in.h:8 ../comps-f11.xml.in.h:9
-#: ../comps-f12.xml.in.h:11 ../comps-f13.xml.in.h:11 ../comps-el4.xml.in.h:4
-#: ../comps-el5.xml.in.h:4
-msgid "Arabic Support"
-msgstr "阿拉伯语支持"
-
-#: ../comps-f9.xml.in.h:8 ../comps-f10.xml.in.h:9 ../comps-f11.xml.in.h:10
-#: ../comps-f12.xml.in.h:12 ../comps-f13.xml.in.h:12 ../comps-el4.xml.in.h:5
-#: ../comps-el5.xml.in.h:5
-msgid "Armenian Support"
-msgstr "亚美尼亚语支持"
-
-#: ../comps-f9.xml.in.h:9 ../comps-f10.xml.in.h:10 ../comps-f11.xml.in.h:11
-#: ../comps-f12.xml.in.h:13 ../comps-f13.xml.in.h:13
-msgid "Assamese Support"
-msgstr "阿萨姆语支持"
-
-#: ../comps-f9.xml.in.h:10 ../comps-f10.xml.in.h:11 ../comps-f11.xml.in.h:12
-#: ../comps-f12.xml.in.h:14 ../comps-f13.xml.in.h:14 ../comps-el4.xml.in.h:6
-#: ../comps-el5.xml.in.h:6
-msgid "Authoring and Publishing"
-msgstr "授权和出版"
-
-#: ../comps-f9.xml.in.h:11 ../comps-f10.xml.in.h:12 ../comps-f11.xml.in.h:14
-#: ../comps-f12.xml.in.h:16 ../comps-f13.xml.in.h:16
-msgid "Base"
-msgstr "基本"
-
-#: ../comps-f9.xml.in.h:12 ../comps-f10.xml.in.h:13 ../comps-f11.xml.in.h:15
-#: ../comps-f12.xml.in.h:17 ../comps-f13.xml.in.h:17 ../comps-el4.xml.in.h:7
-#: ../comps-el5.xml.in.h:7
-msgid "Base System"
-msgstr "基本系统"
-
-#: ../comps-f9.xml.in.h:13 ../comps-f10.xml.in.h:14 ../comps-f11.xml.in.h:16
-#: ../comps-f12.xml.in.h:18 ../comps-f13.xml.in.h:18
-msgid "Basic support for the Ruby programming language."
-msgstr "对 Ruby 编程语言的基本支持。"
-
-#: ../comps-f9.xml.in.h:14 ../comps-f10.xml.in.h:15 ../comps-f11.xml.in.h:17
-#: ../comps-f12.xml.in.h:19 ../comps-f13.xml.in.h:19
-msgid "Basque Support"
-msgstr "巴斯克语支持"
-
-#: ../comps-f9.xml.in.h:15 ../comps-f10.xml.in.h:16 ../comps-f11.xml.in.h:18
-#: ../comps-f12.xml.in.h:20 ../comps-f13.xml.in.h:20
-msgid "Belarusian Support"
-msgstr "白俄罗斯语支持"
-
-#: ../comps-f9.xml.in.h:16 ../comps-f10.xml.in.h:17 ../comps-f11.xml.in.h:19
-#: ../comps-f12.xml.in.h:21 ../comps-f13.xml.in.h:21
-msgid "Bengali Support"
-msgstr "孟加拉语支持"
-
-#: ../comps-f9.xml.in.h:17 ../comps-f10.xml.in.h:18 ../comps-f11.xml.in.h:20
-#: ../comps-f12.xml.in.h:22 ../comps-f13.xml.in.h:22
-msgid "Bhutanese Support"
-msgstr "不丹语支持"
-
-#: ../comps-f9.xml.in.h:18 ../comps-f10.xml.in.h:19 ../comps-f11.xml.in.h:21
-#: ../comps-f12.xml.in.h:25 ../comps-f13.xml.in.h:25
-msgid "Bosnian Support"
-msgstr "波斯尼亚语支持"
-
-#: ../comps-f9.xml.in.h:19 ../comps-f10.xml.in.h:20 ../comps-f11.xml.in.h:22
-#: ../comps-f12.xml.in.h:26 ../comps-f13.xml.in.h:26
-msgid "Brazilian Portuguese Support"
-msgstr "巴西葡萄牙语支持"
-
-#: ../comps-f9.xml.in.h:20 ../comps-f10.xml.in.h:21 ../comps-f11.xml.in.h:23
-#: ../comps-f12.xml.in.h:27 ../comps-f13.xml.in.h:27
-msgid "Breton Support"
-msgstr "布尔吞语支持"
-
-#: ../comps-f9.xml.in.h:21 ../comps-f10.xml.in.h:22 ../comps-f11.xml.in.h:24
-#: ../comps-f12.xml.in.h:28 ../comps-f13.xml.in.h:28 ../comps-el5.xml.in.h:8
-msgid "Buildsystem building group"
-msgstr "编译系统基本组成"
-
-#: ../comps-f9.xml.in.h:22 ../comps-f10.xml.in.h:23 ../comps-f11.xml.in.h:25
-#: ../comps-f12.xml.in.h:29 ../comps-f13.xml.in.h:29
-msgid "Bulgarian Support"
-msgstr "保加利亚语支持"
-
-#: ../comps-f9.xml.in.h:23 ../comps-f10.xml.in.h:24 ../comps-f11.xml.in.h:26
-#: ../comps-f12.xml.in.h:30 ../comps-f13.xml.in.h:30
-msgid "Catalan Support"
-msgstr "加泰隆语支持"
-
-#: ../comps-f9.xml.in.h:24 ../comps-f10.xml.in.h:25 ../comps-f11.xml.in.h:28
-#: ../comps-f12.xml.in.h:32 ../comps-f13.xml.in.h:32
-msgid "Chinese Support"
-msgstr "中文支持"
-
-#: ../comps-f9.xml.in.h:25 ../comps-f10.xml.in.h:26 ../comps-f11.xml.in.h:29
-#: ../comps-f12.xml.in.h:33 ../comps-f13.xml.in.h:33
-msgid "Clustering"
-msgstr "集群"
-
-#: ../comps-f9.xml.in.h:26 ../comps-f10.xml.in.h:27 ../comps-f11.xml.in.h:30
-#: ../comps-f12.xml.in.h:34 ../comps-f13.xml.in.h:34
-msgid "Clustering Support"
-msgstr "集群支持"
-
-#: ../comps-f9.xml.in.h:27 ../comps-f10.xml.in.h:28 ../comps-f11.xml.in.h:32
-#: ../comps-f12.xml.in.h:36 ../comps-f13.xml.in.h:36
-msgid "Core"
-msgstr "核心"
-
-#: ../comps-f9.xml.in.h:28 ../comps-f10.xml.in.h:29 ../comps-f11.xml.in.h:33
-#: ../comps-f12.xml.in.h:39 ../comps-f13.xml.in.h:39
-msgid "Croatian Support"
-msgstr "克罗地亚语支持"
-
-#: ../comps-f9.xml.in.h:29 ../comps-f10.xml.in.h:30 ../comps-f11.xml.in.h:34
-#: ../comps-f12.xml.in.h:40 ../comps-f13.xml.in.h:40 ../comps-el5.xml.in.h:9
-msgid "Czech Support"
-msgstr "捷克语支持"
-
-#: ../comps-f9.xml.in.h:30 ../comps-f10.xml.in.h:31 ../comps-f11.xml.in.h:35
-#: ../comps-f12.xml.in.h:41 ../comps-f13.xml.in.h:41
-msgid "DNS Name Server"
-msgstr "DNS 名称服务器"
-
-#: ../comps-f9.xml.in.h:31 ../comps-f10.xml.in.h:32 ../comps-f11.xml.in.h:36
-#: ../comps-f12.xml.in.h:42 ../comps-f13.xml.in.h:42
-msgid "Danish Support"
-msgstr "丹麦语支持"
-
-#: ../comps-f9.xml.in.h:32 ../comps-f10.xml.in.h:33 ../comps-f11.xml.in.h:38
-#: ../comps-f12.xml.in.h:44 ../comps-f13.xml.in.h:44 ../comps-el4.xml.in.h:8
-#: ../comps-el5.xml.in.h:10
-msgid "Desktop Environments"
-msgstr "桌面环境"
-
-#: ../comps-f9.xml.in.h:33 ../comps-f10.xml.in.h:34 ../comps-f11.xml.in.h:39
-#: ../comps-f12.xml.in.h:45 ../comps-f13.xml.in.h:45 ../comps-el4.xml.in.h:9
-#: ../comps-el5.xml.in.h:11
-msgid "Desktop environments"
-msgstr "桌面环境"
-
-#: ../comps-f9.xml.in.h:34 ../comps-f10.xml.in.h:35 ../comps-f11.xml.in.h:40
-#: ../comps-f12.xml.in.h:46 ../comps-f13.xml.in.h:46 ../comps-el4.xml.in.h:10
-#: ../comps-el5.xml.in.h:12
-msgid "Development"
-msgstr "开发"
-
-#: ../comps-f9.xml.in.h:35 ../comps-f10.xml.in.h:36 ../comps-f11.xml.in.h:41
-#: ../comps-f12.xml.in.h:47 ../comps-f13.xml.in.h:47
-msgid "Development Libraries"
-msgstr "开发库"
-
-#: ../comps-f9.xml.in.h:36 ../comps-f10.xml.in.h:37 ../comps-f11.xml.in.h:42
-#: ../comps-f12.xml.in.h:48 ../comps-f13.xml.in.h:48 ../comps-el4.xml.in.h:11
-#: ../comps-el5.xml.in.h:13
-msgid "Development Tools"
-msgstr "开发工具"
-
-#: ../comps-f9.xml.in.h:37 ../comps-f10.xml.in.h:38 ../comps-f11.xml.in.h:43
-#: ../comps-f12.xml.in.h:49 ../comps-f13.xml.in.h:49
-msgid "Dial-up Networking Support"
-msgstr "拨号网络支持"
-
-#: ../comps-f9.xml.in.h:38 ../comps-f10.xml.in.h:39 ../comps-f11.xml.in.h:44
-#: ../comps-f12.xml.in.h:51 ../comps-f13.xml.in.h:51
-msgid "Dutch Support"
-msgstr "荷兰语支持"
-
-#: ../comps-f9.xml.in.h:39 ../comps-f10.xml.in.h:40 ../comps-f11.xml.in.h:45
-#: ../comps-f12.xml.in.h:52 ../comps-f13.xml.in.h:52 ../comps-el4.xml.in.h:13
-#: ../comps-el5.xml.in.h:15
-msgid "Editors"
-msgstr "编辑器"
-
-#: ../comps-f9.xml.in.h:40 ../comps-f10.xml.in.h:41 ../comps-f11.xml.in.h:46
-#: ../comps-f12.xml.in.h:53 ../comps-f13.xml.in.h:53 ../comps-el4.xml.in.h:14
-#: ../comps-el5.xml.in.h:16
-msgid "Educational Software"
-msgstr "教育软件"
-
-#: ../comps-f9.xml.in.h:41 ../comps-f10.xml.in.h:42 ../comps-f11.xml.in.h:47
-#: ../comps-f12.xml.in.h:54 ../comps-f13.xml.in.h:54 ../comps-el4.xml.in.h:15
-#: ../comps-el5.xml.in.h:17
-msgid "Educational software for learning"
-msgstr "教育软件，适合学习"
-
-#: ../comps-f9.xml.in.h:42 ../comps-f10.xml.in.h:43 ../comps-f11.xml.in.h:49
-#: ../comps-f12.xml.in.h:56 ../comps-f13.xml.in.h:56 ../comps-el4.xml.in.h:16
-#: ../comps-el5.xml.in.h:18
-msgid "Engineering and Scientific"
-msgstr "工程和科学"
-
-#: ../comps-f9.xml.in.h:43 ../comps-f10.xml.in.h:44 ../comps-f11.xml.in.h:50
-#: ../comps-f12.xml.in.h:57 ../comps-f13.xml.in.h:57
-msgid "English (UK) Support"
-msgstr "英国英语支持"
-
-#: ../comps-f9.xml.in.h:44 ../comps-f10.xml.in.h:45 ../comps-f11.xml.in.h:51
-#: ../comps-f12.xml.in.h:58 ../comps-f13.xml.in.h:58
-msgid "Esperanto Support"
-msgstr "世界语支持"
-
-#: ../comps-f9.xml.in.h:45 ../comps-f10.xml.in.h:46 ../comps-f11.xml.in.h:52
-#: ../comps-f12.xml.in.h:59 ../comps-f13.xml.in.h:59
-msgid "Estonian Support"
-msgstr "爱沙尼亚语支持"
-
-#: ../comps-f9.xml.in.h:46 ../comps-f10.xml.in.h:47 ../comps-f11.xml.in.h:53
-#: ../comps-f12.xml.in.h:60 ../comps-f13.xml.in.h:60
-msgid "Ethiopic Support"
-msgstr "埃塞俄比亚语支持"
-
-#: ../comps-f9.xml.in.h:47 ../comps-f10.xml.in.h:48 ../comps-f11.xml.in.h:54
-#: ../comps-f12.xml.in.h:61 ../comps-f13.xml.in.h:61 ../comps-el4.xml.in.h:17
-#: ../comps-el5.xml.in.h:19
-msgid "FTP Server"
-msgstr "FTP 服务器"
-
-#: ../comps-f9.xml.in.h:48 ../comps-f10.xml.in.h:49 ../comps-f11.xml.in.h:55
-#: ../comps-f12.xml.in.h:62 ../comps-f13.xml.in.h:62
-msgid "Faeroese Support"
-msgstr "法罗斯语支持"
-
-#: ../comps-f9.xml.in.h:49 ../comps-f10.xml.in.h:50 ../comps-f11.xml.in.h:56
-#: ../comps-f12.xml.in.h:63 ../comps-f13.xml.in.h:63
-msgid "Fedora Eclipse"
-msgstr "Fedora Eclipse"
-
-#: ../comps-f9.xml.in.h:50 ../comps-f10.xml.in.h:51 ../comps-f11.xml.in.h:57
-#: ../comps-f12.xml.in.h:64 ../comps-f13.xml.in.h:64 ../comps-el4.xml.in.h:18
-#: ../comps-el5.xml.in.h:20
-msgid "Fedora Packager"
-msgstr "Fedora Packager"
-
-#: ../comps-f9.xml.in.h:51 ../comps-f10.xml.in.h:52 ../comps-f11.xml.in.h:59
-#: ../comps-f12.xml.in.h:66 ../comps-f13.xml.in.h:66
-msgid "Filipino Support"
-msgstr "菲律宾语支持"
-
-#: ../comps-f9.xml.in.h:52 ../comps-f10.xml.in.h:53 ../comps-f11.xml.in.h:60
-#: ../comps-f12.xml.in.h:67 ../comps-f13.xml.in.h:67
-msgid "Finnish Support"
-msgstr "芬兰语支持"
-
-#: ../comps-f9.xml.in.h:53 ../comps-f10.xml.in.h:54 ../comps-f11.xml.in.h:62
-#: ../comps-f12.xml.in.h:69 ../comps-f13.xml.in.h:69
-msgid "Fonts"
-msgstr "字体"
-
-#: ../comps-f9.xml.in.h:54 ../comps-f10.xml.in.h:55 ../comps-f11.xml.in.h:63
-#: ../comps-f12.xml.in.h:70 ../comps-f13.xml.in.h:70
-msgid "Fonts packages for rendering text on the desktop."
-msgstr "字体软件包用于在桌面环境中渲染字体。"
-
-#: ../comps-f9.xml.in.h:55 ../comps-f10.xml.in.h:56 ../comps-f11.xml.in.h:64
-#: ../comps-f12.xml.in.h:71 ../comps-f13.xml.in.h:71
-msgid "French Support"
-msgstr "法语支持"
-
-#: ../comps-f9.xml.in.h:56 ../comps-f10.xml.in.h:57 ../comps-f11.xml.in.h:67
-#: ../comps-f12.xml.in.h:74 ../comps-f13.xml.in.h:74 ../comps-el4.xml.in.h:19
-#: ../comps-el5.xml.in.h:21
+#: ../src/allow_cvs_read_shadow.py:28
 msgid ""
-"From CD recording to playing audio CDs and multimedia files, this package "
-"group allows you to work with sound and video on the system."
+"\n"
+"    SELinux prevented the CVS application from reading the shadow password "
+"file.\n"
+"    "
 msgstr ""
-"从光盘录制到播放音频光盘和多媒体文件，该软件包组允许您使用系统上的音频和视频"
-"资源。"
+"\n"
+"    SELinux 阻止了 CVS 应用程序读取 shadow 密码文件。\n"
+"    "
 
-#: ../comps-f9.xml.in.h:57 ../comps-f10.xml.in.h:58 ../comps-f11.xml.in.h:68
-#: ../comps-f12.xml.in.h:75 ../comps-f13.xml.in.h:75 ../comps-el4.xml.in.h:20
-#: ../comps-el5.xml.in.h:22
-msgid "GNOME Desktop Environment"
-msgstr "GNOME 桌面环境"
-
-#: ../comps-f9.xml.in.h:58 ../comps-f10.xml.in.h:59 ../comps-f11.xml.in.h:69
-#: ../comps-f12.xml.in.h:76 ../comps-f13.xml.in.h:76 ../comps-el4.xml.in.h:21
-#: ../comps-el5.xml.in.h:23
-msgid "GNOME Software Development"
-msgstr "GNOME 软件开发"
-
-#: ../comps-f9.xml.in.h:59 ../comps-f10.xml.in.h:60 ../comps-f11.xml.in.h:70
-#: ../comps-f12.xml.in.h:77 ../comps-f13.xml.in.h:77
+#: ../src/allow_cvs_read_shadow.py:32
 msgid ""
-"GNOME is a powerful graphical user interface which includes a panel, "
-"desktop, system icons, and a graphical file manager."
+"\n"
+"    SELinux prevented the CVS application from reading the shadow password "
+"file.\n"
+"    The CVS application requires this access when it is configured for "
+"direct\n"
+"    connection (i.e., pserver) and to authenticate to the system password / "
+"shadow\n"
+"    files without PAM. It is possible that this access request signals an "
+"intrusion\n"
+"    attempt.\n"
+"\n"
+"    It is recommended that CVS be configured to use PAM, authenticate to a "
+"separate\n"
+"    user file, or use another protocol (e.g., SSH) instead of allowing this "
+"access.\n"
+"    See the CVS manual for more details on why this access is potentially "
+"insecure: \n"
+"    (<a href=\"http://ximbiot.com/cvs/manual/cvs-1.11.22/cvs_2.html\">http://"
+"ximbiot.com/cvs/manual/cvs-1.11.22/cvs_2.html</a>).\n"
+"    "
 msgstr ""
-"GNOME 是一个功能强大的图形化用户界面，它包括面板、桌面、系统图标、以及图形化"
-"文件管理器。"
+"\n"
+"    SELinux 阻止了 CVS 程序读取影子密码文件。\n"
+"    当将 CVS 程序配置为不使用 PAM 直接连接 (例如，pserver)\n"
+"    和验证系统密码/shadow文件，就需要需要访问该文件。\n"
+"    可能这次访问请求被记为一次入侵尝试。\n"
+"\n"
+"    建议将 CVS 程序设置为使用 PAM 验证独立用户文件，或者使用其他协议(例如，"
+"SSH)。\n"
+"    关于为什么这个访问可能是不安全的，请查阅 CVS 手册来获得更详细的说明。\n"
+"    (<a href=\"http://ximbiot.com/cvs/manual/cvs-1.11.22/cvs_2.html\">http://"
+"ximbiot.com/cvs/manual/cvs-1.11.22/cvs_2.html</a>)。\n"
+"    "
 
-#: ../comps-f9.xml.in.h:60 ../comps-f10.xml.in.h:61 ../comps-f11.xml.in.h:71
-#: ../comps-f12.xml.in.h:78 ../comps-f13.xml.in.h:78
-msgid "Gaelic Support"
-msgstr "盖尔语支持"
-
-#: ../comps-f9.xml.in.h:61 ../comps-f10.xml.in.h:62 ../comps-f11.xml.in.h:72
-#: ../comps-f12.xml.in.h:79 ../comps-f13.xml.in.h:79
-msgid "Galician Support"
-msgstr "加利西亚语支持"
-
-#: ../comps-f9.xml.in.h:62 ../comps-f10.xml.in.h:63 ../comps-f11.xml.in.h:73
-#: ../comps-f12.xml.in.h:80 ../comps-f13.xml.in.h:80 ../comps-el5.xml.in.h:25
-msgid "Games and Entertainment"
-msgstr "游戏和娱乐"
-
-#: ../comps-f9.xml.in.h:63 ../comps-f10.xml.in.h:64 ../comps-f11.xml.in.h:74
-#: ../comps-f12.xml.in.h:81 ../comps-f13.xml.in.h:81
-msgid "Georgian Support"
-msgstr "格鲁吉亚语支持"
-
-#: ../comps-f9.xml.in.h:64 ../comps-f10.xml.in.h:65 ../comps-f11.xml.in.h:75
-#: ../comps-f12.xml.in.h:82 ../comps-f13.xml.in.h:82
-msgid "German Support"
-msgstr "德语支持"
-
-#: ../comps-f9.xml.in.h:65 ../comps-f10.xml.in.h:66 ../comps-f11.xml.in.h:76
-#: ../comps-f12.xml.in.h:83 ../comps-f13.xml.in.h:83 ../comps-el4.xml.in.h:23
-#: ../comps-el5.xml.in.h:26
-msgid "Graphical Internet"
-msgstr "图形化互联网"
-
-#: ../comps-f9.xml.in.h:66 ../comps-f10.xml.in.h:67 ../comps-f11.xml.in.h:77
-#: ../comps-f12.xml.in.h:84 ../comps-f13.xml.in.h:84 ../comps-el4.xml.in.h:24
-#: ../comps-el5.xml.in.h:27
-msgid "Graphics"
-msgstr "图形"
-
-#: ../comps-f9.xml.in.h:67 ../comps-f10.xml.in.h:68 ../comps-f11.xml.in.h:78
-#: ../comps-f12.xml.in.h:85 ../comps-f13.xml.in.h:85
-msgid "Greek Support"
-msgstr "希腊语支持"
-
-#: ../comps-f9.xml.in.h:68 ../comps-f10.xml.in.h:69 ../comps-f11.xml.in.h:79
-#: ../comps-f12.xml.in.h:86 ../comps-f13.xml.in.h:86
-msgid "Gujarati Support"
-msgstr "古吉拉特语支持"
-
-#: ../comps-f9.xml.in.h:69 ../comps-f10.xml.in.h:70 ../comps-f11.xml.in.h:80
-#: ../comps-f12.xml.in.h:87 ../comps-f13.xml.in.h:87 ../comps-el4.xml.in.h:25
-#: ../comps-el5.xml.in.h:28
-msgid "Hardware Support"
-msgstr "硬件支持"
-
-#: ../comps-f9.xml.in.h:70 ../comps-f10.xml.in.h:72 ../comps-f11.xml.in.h:82
-#: ../comps-f12.xml.in.h:89 ../comps-f13.xml.in.h:89 ../comps-el4.xml.in.h:26
-#: ../comps-el5.xml.in.h:29
-msgid "Hebrew Support"
-msgstr "希伯来语支持"
-
-#: ../comps-f9.xml.in.h:71 ../comps-f10.xml.in.h:73 ../comps-f11.xml.in.h:84
-#: ../comps-f12.xml.in.h:91 ../comps-f13.xml.in.h:91
-msgid "Hindi Support"
-msgstr "印地语支持"
-
-#: ../comps-f9.xml.in.h:72 ../comps-f10.xml.in.h:74 ../comps-f11.xml.in.h:85
-#: ../comps-f12.xml.in.h:92 ../comps-f13.xml.in.h:92
-msgid "Hungarian Support"
-msgstr "匈牙利语支持"
-
-#: ../comps-f9.xml.in.h:73 ../comps-f10.xml.in.h:75 ../comps-f11.xml.in.h:86
-#: ../comps-f12.xml.in.h:93 ../comps-f13.xml.in.h:93
-msgid "Icelandic Support"
-msgstr "冰岛语支持"
-
-#: ../comps-f9.xml.in.h:74 ../comps-f10.xml.in.h:76 ../comps-f11.xml.in.h:87
-#: ../comps-f12.xml.in.h:94 ../comps-f13.xml.in.h:94
-msgid "Indonesian Support"
-msgstr "印度尼西亚语支持"
-
-#: ../comps-f9.xml.in.h:75 ../comps-f10.xml.in.h:79 ../comps-f11.xml.in.h:90
-#: ../comps-f12.xml.in.h:97 ../comps-f13.xml.in.h:97 ../comps-el4.xml.in.h:27
-#: ../comps-el5.xml.in.h:30
+#: ../src/allow_cvs_read_shadow.py:45
+#: ../src/allow_postfix_local_write_mail_spool.py:43
+#: ../src/httpd_unified.py:46 ../src/use_nfs_home_dirs.py:46
+#: ../src/use_samba_home_dirs.py:45
 msgid ""
-"Install these packages in order to develop GTK+ and GNOME graphical "
-"applications."
-msgstr "安装这些软件包来开发 GTK+ 和 GNOME 图形化应用程序。"
+"\n"
+"    Changing the \"$BOOLEAN\" boolean to true will allow this access:\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    改变 \"$BOOLEAN\" 布尔值为 true 将允许这个访问：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
 
-#: ../comps-f9.xml.in.h:76 ../comps-f10.xml.in.h:80 ../comps-f11.xml.in.h:91
-#: ../comps-f12.xml.in.h:98 ../comps-f13.xml.in.h:98
+#: ../src/allow_cvs_read_shadow.py:60
+msgid "CVS"
+msgstr "CVS"
+
+#: ../src/allow_daemons_dump_core.py:28
 msgid ""
-"Install these packages in order to develop GTK+ and XFCE graphical "
-"applications."
-msgstr "安装这些软件包来开发 GTK+ 和 XFCE 图形化应用程序。"
+"\n"
+"    SELinux prevented $SOURCE from writing $TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 写 $TARGET_PATH。\n"
+"    "
 
-#: ../comps-f9.xml.in.h:77 ../comps-f10.xml.in.h:81 ../comps-f11.xml.in.h:92
-#: ../comps-f12.xml.in.h:99 ../comps-f13.xml.in.h:99 ../comps-el4.xml.in.h:28
-#: ../comps-el5.xml.in.h:31
-msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr "安装这些软件包来开发 QT 和 KDE 图形化应用程序。"
+#: ../src/allow_daemons_dump_core.py:32
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from writing $TARGET_PATH. \n"
+"    If $TARGET_PATH is a core file, you may want to allow this.  If "
+"$TARGET_PATH is not a core file, this could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 防止 $SOURCE 写入 $TARGET_PATH。 \n"
+"    如果 $TARGET_PATH 是一个核文件，您可以允许这个行为。如果 $TARGET_PATH 不"
+"是一个核文件，这可能是一个入侵尝试信号。\n"
+"    "
 
-#: ../comps-f9.xml.in.h:78 ../comps-f10.xml.in.h:82 ../comps-f11.xml.in.h:93
-#: ../comps-f12.xml.in.h:100 ../comps-f13.xml.in.h:100
-msgid "Install these tools to enable the system to print or act as a print server."
-msgstr "安装这些工具来启用打印系统或充当打印服务器的系统。"
+#: ../src/allow_daemons_dump_core.py:37 ../src/allow_ftpd_use_cifs.py:45
+#: ../src/allow_gssd_read_tmp.py:38 ../src/allow_java_execstack.py:41
+#: ../src/allow_kerberos.py:39 ../src/allow_mount_anyfile.py:43
+#: ../src/allow_mplayer_execstack.py:42 ../src/allow_ypbind.py:39
+#: ../src/fcron_crond.py:39 ../src/ftpd_is_daemon.py:41
+#: ../src/global_ssp.py:43 ../src/httpd_use_cifs.py:46
+#: ../src/httpd_use_nfs.py:46
+msgid ""
+"\n"
+"    Changing the \"$BOOLEAN\" boolean to true will allow this access:\n"
+"    \"setsebool -P $BOOLEAN=1.\"\n"
+"    "
+msgstr ""
+"\n"
+"    改变 \"$BOOLEAN\" 布尔值为 true 将允许这个访问：\n"
+"    \"setsebool -P $BOOLEAN=1.\"\n"
+"    "
 
-#: ../comps-f9.xml.in.h:79 ../comps-f10.xml.in.h:83 ../comps-f11.xml.in.h:94
-#: ../comps-f12.xml.in.h:101 ../comps-f13.xml.in.h:101
-#: ../comps-el4.xml.in.h:29 ../comps-el5.xml.in.h:32
-msgid "Install this group of packages to use the base graphical (X) user interface."
-msgstr "安装这组软件包来使用基础图形化用户界面(X)。"
+#: ../src/allow_execheap.py:26
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH from changing the access\n"
+"    protection of memory on the heap.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE 修改堆上\n"
+"    的内存访问保护.\n"
+"    "
 
-#: ../comps-f9.xml.in.h:80 ../comps-f10.xml.in.h:84 ../comps-f11.xml.in.h:95
-#: ../comps-f12.xml.in.h:102 ../comps-f13.xml.in.h:102
-msgid "Integrated Development Environments based on Eclipse."
-msgstr "基于 Eclipse 的集成开发环境"
+#: ../src/allow_execheap.py:31
+msgid ""
+"\n"
+"    The $SOURCE application attempted to change the access protection of "
+"memory on\n"
+"    the heap (e.g., allocated using malloc).  This is a potential security\n"
+"    problem.  Applications should not be doing this. Applications are\n"
+"    sometimes coded incorrectly and request this permission.  The\n"
+"    <a href=\"http://people.redhat.com/drepper/selinux-mem.html\">SELinux "
+"Memory Protection Tests</a>\n"
+"    web page explains how to remove this requirement.  If $SOURCE does not "
+"work and\n"
+"    you need it to work, you can configure SELinux temporarily to allow\n"
+"    this access until the application is fixed. Please file a bug\n"
+"    report against this package.\n"
+"    "
+msgstr ""
+"\n"
+"    $SOURCE 应用程序试图改变堆上的内存访问保护(例如，使用 malloc 分配内"
+"存)。\n"
+"    这是潜在的安全问题。应用程序不应该这样做。有时候应用程序编码不正确，会请"
+"求这样的允许。\n"
+"    <a href=\"http://people.redhat.com/drepper/selinux-mem.html\">SELinux 内"
+"存保护测试</a>\n"
+"    页面说明了怎样移除这个请求。如果 $SOURCE 不能工作而您需要它运行，\n"
+"    您可以配置 SELinux 临时允许这个访问直到这个应用程序被修正。\n"
+"    请发送一份关于这个软件包的 <a\n"
+"    href=\"http://bugzilla.redhat.com/bugzilla/enter_bug.cgi\">错误\n"
+"    报告</a> 。\n"
+"    "
 
-#: ../comps-f9.xml.in.h:81 ../comps-f10.xml.in.h:85 ../comps-f11.xml.in.h:97
-#: ../comps-f12.xml.in.h:104 ../comps-f13.xml.in.h:104
-msgid "Inuktitut Support"
-msgstr "伊努伊特语支持"
+#: ../src/allow_execheap.py:43
+msgid ""
+"\n"
+"    If you want $SOURCE to continue, you must turn on the\n"
+"    $BOOLEAN boolean.  Note: This boolean will affect all applications\n"
+"    on the system.\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 $SOURCE 继续执行, 您必须开启\n"
+"    $BOOLEAN 布尔值.  注意：这个布尔值将会影响系统中的\n"
+"    所有应用程序。 \n"
+" "
 
-#: ../comps-f9.xml.in.h:82 ../comps-f10.xml.in.h:86 ../comps-f11.xml.in.h:98
-#: ../comps-f12.xml.in.h:105 ../comps-f13.xml.in.h:105
-msgid "Irish Support"
-msgstr "爱尔兰语支持"
+#. MATCH
+#: ../src/allow_execheap.py:58 ../src/allow_execmod.py:78
+#: ../src/allow_execmod.py:82 ../src/allow_execstack.py:67
+#: ../src/firefox.py:53
+msgid "Memory"
+msgstr "内存"
 
-#: ../comps-f9.xml.in.h:83 ../comps-f10.xml.in.h:87 ../comps-f11.xml.in.h:99
-#: ../comps-f12.xml.in.h:106 ../comps-f13.xml.in.h:106
-msgid "Italian Support"
-msgstr "意大利语支持"
+#: ../src/allow_execmod.py:26
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH from loading $TARGET_PATH which "
+"requires text relocation.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE 装载需要重新定位文本的 $TARGET_PATH。\n"
+"    "
 
-#: ../comps-f9.xml.in.h:84 ../comps-f10.xml.in.h:88 ../comps-f11.xml.in.h:100
-#: ../comps-f12.xml.in.h:107 ../comps-f13.xml.in.h:107
-#: ../comps-el4.xml.in.h:30 ../comps-el5.xml.in.h:33
-msgid "Japanese Support"
-msgstr "日语支持"
+#: ../src/allow_execmod.py:30
+msgid ""
+"\n"
+"    The $SOURCE application attempted to load $TARGET_PATH which\n"
+"    requires text relocation.  This is a potential security problem.\n"
+"    Most libraries do not need this permission. Libraries are\n"
+"    sometimes coded incorrectly and request this permission.  The\n"
+"    <a href=\"http://people.redhat.com/drepper/selinux-mem.html\">SELinux "
+"Memory Protection Tests</a>\n"
+"    web page explains how to remove this requirement.  You can configure\n"
+"    SELinux temporarily to allow $TARGET_PATH to use relocation as a\n"
+"    workaround, until the library is fixed. Please file a \n"
+"bug report.\n"
+"    "
+msgstr ""
+"\n"
+"    $SOURCE 应用程序试图读取需要文本重定位的 $TARGET_PATH。\n"
+"    这是潜在的安全问题。\n"
+"    多数程序库不需要这样做。有时候程序库编码不正确会有这样的请求。\n"
+"    <a href=\"http://people.redhat.com/drepper/selinux-mem.html\">SELinux 内"
+"存保护测试</a>\n"
+"    页面说明如何移除这个请求。您能够设置 SELinux 临时允许 $TARGET_PATH\n"
+"    在工作区使用重定位直到程序库被修正。\n"
+"    请生成一份关于这个程序包的    <a href=\"http://bugzilla.redhat.com/"
+"bugzilla/enter_bug.cgi\">错误报告</a>\n"
+"    "
 
-#: ../comps-f9.xml.in.h:85 ../comps-f10.xml.in.h:89 ../comps-f11.xml.in.h:101
-#: ../comps-f12.xml.in.h:108 ../comps-f13.xml.in.h:108
-#: ../comps-el4.xml.in.h:31
+#: ../src/allow_execmod.py:42
+msgid ""
+"\n"
+"    The $SOURCE application attempted to load $TARGET_PATH which\n"
+"    requires text relocation.  This is a potential security problem.\n"
+"    Most libraries should not need this permission.   The   \n"
+"    <a href=\"http://people.redhat.com/drepper/selinux-mem.html\">\n"
+"    SELinux Memory Protection Tests</a>\n"
+"    web page explains this check.  This tool examined the library and it "
+"looks \n"
+"    like it was built correctly. So setroubleshoot can not determine if "
+"this \n"
+"    application is compromized or not.  This could be a serious issue. "
+"Your \n"
+"    system may very well be compromised.\n"
+"\n"
+"    Contact your security administrator and report this issue.\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"    $SOURCE 程序试图载入需要文本重新定位\n"
+"    的 $TARGET_PATH。这是一个潜在的安全性问题。\n"
+"    大多数程序库应该不需要这个权限。\n"
+"    <a href=\"http://people.redhat.com/drepper/selinux-mem.html\">\n"
+"    SELinux Memory Protection Tests</a>\n"
+"    网页中解释了这个检查。这个工具检查程序库且它 \n"
+"    看起来工作正常。因此 setroubleshoot 无法确定这个程序是否受到侵害。这可能"
+"是一个严重问题。您的系统可能受到侵害。请联络您的安全管理员并包括这个问题。\n"
+"\n"
+" "
+
+#: ../src/allow_execmod.py:59
+msgid ""
+"\n"
+"    If you trust $TARGET_PATH to run correctly, you can change the\n"
+"    file context to textrel_shlib_t. \"chcon -t textrel_shlib_t\n"
+"    '$TARGET_PATH'\"\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"textrel_shlib_t '$TARGET_PATH'\"\n"
+"    \n"
+"    "
+msgstr ""
+"\n"
+"    如果您确信 $TARGET 正确运行，您可以将文件上下文改为\n"
+" textrel_shlib_t。\"chcon -t textrel_shlib_t\n"
+"    $TARGET_PATH\"\n"
+"    您还必须在系统中更改默认文件上下文文件以便在完全重新标记时可保留它们。 "
+"\"semanage fcontext -a -t textrel_shlib_t '$TARGET_PATH'\"\n"
+"    \n"
+"    "
+
+#: ../src/allow_execstack.py:26
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH from making the program stack "
+"executable.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE_PATH 使程序栈可执行。\n"
+"    "
+
+#: ../src/allow_execstack.py:30
+msgid ""
+"\n"
+"    The $SOURCE application attempted to make its stack\n"
+"    executable.  This is a potential security problem.  This should\n"
+"    never ever be necessary. Stack memory is not executable on most\n"
+"    OSes these days and this will not change. Executable stack memory\n"
+"    is one of the biggest security problems. An execstack error might\n"
+"    in fact be most likely raised by malicious code. Applications are\n"
+"    sometimes coded incorrectly and request this permission.  The\n"
+"    <a href=\"http://people.redhat.com/drepper/selinux-mem.html\">SELinux "
+"Memory Protection Tests</a>\n"
+"    web page explains how to remove this requirement.  If $SOURCE does not\n"
+"    work and you need it to work, you can configure SELinux\n"
+"    temporarily to allow this access until the application is fixed. "
+"Please \n"
+"file a bug report.\n"
+"    "
+msgstr ""
+"\n"
+"    $SOURCE 应用程序试图使它的栈可执行。这是一个潜在的安全问题。\n"
+"    这应该是完全不必要的。栈内存在多数现代操作系统中是不能够执行的，而且这是"
+"不会被改变的。\n"
+"    可执行的栈内存是最大的安全问题之一。事实上，可运行栈错误很可能被恶意代码"
+"利用。\n"
+"    有时候应用程序编码不正确会请求这样的允许。\n"
+"    <a href=\"http://people.redhat.com/drepper/selinux-mem.html\">SELinux 内"
+"存保护测试</a>\n"
+"    页面说明了如何移除这个请求。如果 $SOURCE 不能工作且您需要它工作，\n"
+"    您可以配置 SELinux 临时允许这个访问直到应用程序被修正。\n"
+"    请生成一份关于这个程序包的 <a\n"
+"    href=\"http://bugzilla.redhat.com/bugzilla/enter_bug.cgi\">错误报告</"
+"a> 。\n"
+"    "
+
+#: ../src/allow_execstack.py:45
+msgid ""
+"\n"
+"    Sometimes a library is accidentally marked with the execstack flag,\n"
+"    if you find a library with this flag you can clear it with the\n"
+"    execstack -c LIBRARY_PATH.  Then retry your application.  If the\n"
+"    app continues to not work, you can turn the flag back on with\n"
+"    execstack -s LIBRARY_PATH.  Otherwise, if you trust $SOURCE to\n"
+"    run correctly, you can change the context of the executable to\n"
+"    execmem_exec_t. \"chcon -t execmem_exec_t\n"
+"    '$SOURCE_PATH'\"\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"execmem_exec_t '$SOURCE_PATH'\"\n"
+"    \n"
+"    "
+msgstr ""
+"\n"
+"    有时候一个程序库被意外标记了 execstack 标志，如果您发现一个程序库拥有这种"
+"标志，\n"
+"    您可以使用 execstack -c LIBRARY_PATH 清除它。然后重新运行您的应用程序。\n"
+"    如果这个应用程序还是不工作，您可以使用\n"
+"    execstack -s LIBRARY_PATH 恢复原来的设置。另外，如果您确定 $SOURCE 运行正"
+"确，\n"
+"    您可以将 executalbe 上下文改为 execmem_exec_t。\n"
+"     \"chcon -t execmem_exec_t $SOURCE_PATH\"\n"
+"    您还必须在系统中更改默认文件上下文文件以便在完全重新标记后保留它们。"
+"\"semanage fcontext -a -t unconfined_execmem_exec_t '$SOURCE_PATH'\"\n"
+"    \n"
+" "
+
+#: ../src/allow_ftpd_anon_write.py:26
+msgid ""
+"\n"
+"    SELinux policy is preventing the ftp daemon from writing to a public\n"
+"    directory.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 策略正在阻止 ftp 在后台写入公共目录。\n"
+"    "
+
+#: ../src/allow_ftpd_anon_write.py:31
+msgid ""
+"\n"
+"    SELinux policy is preventing the ftp daemon from writing to a public\n"
+"    directory.  If ftpd is not setup to allow anonymous writes, this\n"
+"    could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 策略正在阻止 ftp 守护进程写入公共目录。\n"
+"    如果未将 ftpd 设置为允许匿名写入， 这就可能是一次入侵尝试信号。\n"
+"    "
+
+#: ../src/allow_ftpd_anon_write.py:37
+msgid ""
+"\n"
+"    If the ftp daemon should be allowed to write to this directory you need "
+"to turn\n"
+"    on the $BOOLEAN boolean and change the file context of\n"
+"    the public directory to public_content_rw_t.  Read the ftpd_selinux\n"
+"    man page for further information:\n"
+"    \"setsebool -P $BOOLEAN=1; chcon -t public_content_rw_t <path>\"\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"public_content_rw_t <path>\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果应该允许 ftp 守护进程写入这个目录，您需要开启$BOOLEAN布尔值\n"
+"    并且将公共目录的文件上下文改为 public_content_rw_t。\n"
+"    阅读 ftpd_selinux 的 man page 获得更多信息：\n"
+"    \"setsebool -P $BOOLEAN=1; chcon -t public_content_rw_t <path>\"\n"
+"    您还必须更改系统中文件的默认文件上下文以便在重新标记时仍可保留它们。"
+"\"semanage fcontext -a -t public_content_rw_t <path>\"\n"
+" "
+
+#: ../src/allow_ftpd_anon_write.py:57 ../src/allow_ftpd_full_access.py:55
+#: ../src/allow_ftpd_use_cifs.py:76 ../src/allow_ftpd_use_cifs.py:83
+#: ../src/allow_ftpd_use_nfs.py:76 ../src/allow_ftpd_use_nfs.py:83
+#: ../src/ftpd_is_daemon.py:70 ../src/ftpd_is_daemon.py:82
+#: ../src/ftp_home_dir.py:53
+msgid "FTP"
+msgstr "FTP"
+
+#: ../src/allow_ftpd_full_access.py:28
+msgid ""
+"\n"
+"    SELinux is preventing the ftp daemon from writing files outside the home "
+"directory ($TARGET_PATH).\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 ftp 写主目录 ($TARGET_PATH) 外的文件。\n"
+"    "
+
+#: ../src/allow_ftpd_full_access.py:32
+msgid ""
+"\n"
+"    SELinux has denied the ftp daemon write access to directories outside\n"
+"    the home directory ($TARGET_PATH). Someone has logged in via\n"
+"    your ftp daemon and is trying to create or write a file. If you only "
+"setup\n"
+"    ftp to allow anonymous ftp, this could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 ftp 守护进程写入主目录 ($TARGET_PATH) 外的目录。有\n"
+"    人通过您的 ftp 守护进程登录并正在创建或写入一个文件。如果您只将您的 ftp "
+"设置\n"
+"    为允许匿名访问，这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/allow_ftpd_full_access.py:39
+msgid ""
+"\n"
+"    If you do not want SELinux preventing ftp from writing files anywhere "
+"on\n"
+"    the system you need to turn on the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您不想让 SELinux 防止 ftp 在系统的任何地方写文件， \n"
+"    您需要打开 $BOOLEAN 布尔值：    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/allow_ftpd_use_cifs.py:28
+msgid ""
+"\n"
+"    SELinux prevented the ftp daemon from $ACCESS files stored on a CIFS "
+"filesytem.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 ftp 在后台 $ACCESS 一个存储在一个 CIFS 文件系统中的文件.\n"
+"    "
+
+#: ../src/allow_ftpd_use_cifs.py:32
+msgid ""
+"\n"
+"    SELinux prevented the ftp daemon from $ACCESS files stored on a CIFS "
+"filesystem.\n"
+"    CIFS (Comment Internet File System) is a network filesystem similar to\n"
+"    SMB (<a href=\"http://www.microsoft.com/mind/1196/cifs.asp\">http://www."
+"microsoft.com/mind/1196/cifs.asp</a>)\n"
+"    The ftp daemon attempted to read one or more files or directories from\n"
+"    a mounted filesystem of this type.  As CIFS filesystems do not support\n"
+"    fine-grained SELinux labeling, all files and directories in the\n"
+"    filesystem will have the same security context.\n"
+"    \n"
+"    If you have not configured the ftp daemon to read files from a CIFS "
+"filesystem\n"
+"    this access attempt could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了ftp后台 $ACCESS 存储在一个CIFS文件系统中的文件。\n"
+"    CIFS (通用Internet文件系统)是一个网络文件系统，它类似SMB(<a href="
+"\"http://www.microsoft.com/mind/1196/cifs.asp\">http://www.microsoft.com/"
+"mind/1196/cifs.asp</a>)\n"
+"    ftp后台试图读取已经安装的这种类型的文件系统中的一个或多个文件或目录。\n"
+"    由于CIFS文件系统不支持 fine-grained SELinux标志，文件系统中的所有的文件和"
+"目录将拥有一样的请安全上下文。\n"
+"    \n"
+"    如果您没有配置ftp后台从一个CIFS文件系统读取文件，这个访问被记为一次入侵尝"
+"试。\n"
+"    "
+
+#: ../src/allow_ftpd_use_cifs.py:52
+msgid ""
+" Changing the \"$BOOLEAN\" and\n"
+"    \"$WRITE_BOOLEAN\" booleans to true will allow this access:\n"
+"    \"setsebool -P $BOOLEAN=1 $WRITE_BOOLEAN=1\".\n"
+"    warning: setting the \"$WRITE_BOOLEAN\" boolean to true will\n"
+"    allow the ftp daemon to write to all public content (files and\n"
+"    directories with type public_content_t) in addition to writing to\n"
+"    files and directories on CIFS filesystems.  "
+msgstr ""
+" 修改 \"$BOOLEAN\" 和 \n"
+"    \"$WRITE_BOOLEAN\" 布尔值为true将允许这个访问：\n"
+"    \"setsebool -P $BOOLEAN=1 $WRITE_BOOLEAN=1\"。\n"
+"    警告：设置 \"$WRITE_BOOLEAN\"布尔值为true将允许\n"
+"    ftp后台向所有的公共内容(public_content_t类型的文件和目录)写入，\n"
+"    也可以写入CIFS文件系统中的文件和目录。"
+
+#: ../src/allow_ftpd_use_nfs.py:28
+msgid ""
+"\n"
+"    SELinux prevented the ftp daemon from $ACCESS files stored on a NFS "
+"filesytem.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 ftp 在后台 $ACCESS 存储在一个NFS文件系统的文件。\n"
+"    "
+
+#: ../src/allow_ftpd_use_nfs.py:32
+msgid ""
+"\n"
+"    SELinux prevented the ftp daemon from $ACCESS files stored on a NFS "
+"filesystem.\n"
+"    NFS (Network Filesystem) is a network filesystem commonly used on Unix / "
+"Linux\n"
+"    systems.\n"
+"    \n"
+"    The ftp daemon attempted to read one or more files or directories from\n"
+"    a mounted filesystem of this type.  As NFS filesystems do not support\n"
+"    fine-grained SELinux labeling, all files and directories in the\n"
+"    filesystem will have the same security context.\n"
+"    \n"
+"    If you have not configured the ftp daemon to read files from a NFS "
+"filesystem\n"
+"    this access attempt could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了ftp后台 $ACCESS 存储在NFS文件系统中的文件。\n"
+"    NFS(网络文件系统)是一个通常在Unix和Linux下被使用的网络文件系统。\n"
+"    \n"
+"    ftp后台试图从已经挂接的这种类型的文件操作系统中读取一个或多个文件或目"
+"录。\n"
+"    由于NFS文件系统不支持fine-grained的SELinux标志。在此文件系统下所有的文件"
+"和目录将拥有相同的安全上下文。\n"
+"    \n"
+"    如果您没有配置ftp后台从NFS文件系统中读取文件，这个访问被记为一次入侵尝"
+"试。\n"
+"    "
+
+#: ../src/allow_ftpd_use_nfs.py:46
+msgid ""
+"\n"
+"    Changing the \"allow_ftpd_use_nfs\" boolean to true will allow this "
+"access:\n"
+"    \"setsebool -P allow_ftpd_use_nfs=1.\"\n"
+"    "
+msgstr ""
+"\n"
+"    改变 \"allow_ftpd_use_nfs\" 的布尔值为 true 将允许这个访问：\n"
+"    \"setsebool -P allow_ftpd_use_nfs=1.\"\n"
+"    "
+
+#: ../src/allow_ftpd_use_nfs.py:53
+msgid ""
+" Changing the \"allow_ftpd_use_nfs\" and\n"
+"    \"$WRITE_BOOLEAN\" booleans to true will allow this access:\n"
+"    \"setsebool -P allow_ftpd_use_nfs=1 $WRITE_BOOLEAN=1\".\n"
+"    warning: setting the \"$WRITE_BOOLEAN\" boolean to true will\n"
+"    allow the ftp daemon to write to all public content (files and\n"
+"    directories with type public_content_t) in addition to writing to\n"
+"    files and directories on NFS filesystems.  "
+msgstr ""
+" 修改 \"allow_ftpd_use_nfs\" 和\n"
+"    \"$WRITE_BOOLEAN\"布尔值为true将允许这个访问：\n"
+"    \"setsebool -P allow_ftpd_use_nfs=1$WRITE_BOOLEAN=1\"。\n"
+"    警告：设置\"$WRITE_BOOLEAN\"布尔值为true将允许ftp后台写入所有公共内容"
+"(public_content_t类型的文件和目录)，\n"
+"    另外，也允许写入NFS文件系统中的文件和目录。"
+
+#: ../src/allow_gssd_read_tmp.py:28
+msgid ""
+"\n"
+"    SELinux prevented the gss daemon from reading unprivileged user "
+"temporary files.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 gss 在后台读取非特权用户的临时文件。\n"
+"    "
+
+#: ../src/allow_gssd_read_tmp.py:32
+msgid ""
+"SELinux prevented the gss daemon from\n"
+"    reading unprivileged user temporary files (e.g., files in /tmp). "
+"Allowing this\n"
+"    access is low risk, but if you have not configured the gss daemon to\n"
+"    read these files this access request could signal an intrusion\n"
+"    attempt."
+msgstr ""
+"SELinux 阻止了 gss 守护进程读取非特权用户临时文件(例如，/tmp中的文件)。\n"
+"    允许这个访问是低风险的，但是如果您没有配置 gss 守护进程读取这些文件\n"
+"    这个访问请求记为一次入侵尝试。"
+
+#: ../src/allow_gssd_read_tmp.py:55 ../src/allow_kerberos.py:53
+#: ../src/allow_saslauthd_read_shadow.py:54 ../src/allow_ypbind.py:53
+msgid "Authorization"
+msgstr "验证"
+
+#: ../src/allow_httpd_anon_write.py:26
+msgid ""
+"\n"
+"    SELinux policy is preventing the http daemon from writing to a public\n"
+"    directory.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 策略正在阻止 http daemon 写入一个公共目录。\n"
+"    "
+
+#: ../src/allow_httpd_anon_write.py:31
+msgid ""
+"\n"
+"    SELinux policy is preventing the http daemon from writing to a public\n"
+"    directory.  If httpd is not setup to write to public directories, this\n"
+"    could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 策略正在阻止 http 守护进程写入一个公共目录。\n"
+"    如果没有将 httpd 设置为可以写入公共目录，这就可能是一次\n"
+"    入侵尝试信号。\n"
+"    "
+
+#: ../src/allow_httpd_anon_write.py:37
+msgid ""
+"\n"
+"    If httpd should be allowed to write to this directory you need to turn\n"
+"    on the $BOOLEAN boolean and change the file context of\n"
+"    the public directory to public_content_rw_t.  Read the httpd_selinux\n"
+"    man page for further information:\n"
+"    \"setsebool -P $BOOLEAN=1; chcon -t public_content_rw_t <path>\"\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"public_content_rw_t <path>\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果应该允许 httpd 写入这个公共目录，您需要开启\n"
+"    $BOOLEAN 布尔值并且将这个公共目录的文件上下文改为\n"
+"    public_content_rw_t。请阅读 httpd_selinux 的 man page 以便了解进一步的信"
+"息：\n"
+"    \"setsebool -P $BOOLEAN=1; chcon -t public_content_rw_t <path>\"\n"
+"    您还必须更改系统中文件的默认文件上下文以便在重新标记时仍可保留它们。 "
+"\"semanage fcontext -a -t public_content_rw_t <path>\"\n"
+"    "
+
+#: ../src/allow_httpd_anon_write.py:57
+#: ../src/allow_httpd_sys_script_anon_write.py:55
+#: ../src/httpd_builtin_scripting.py:52
+#: ../src/httpd_can_network_connect_db.py:53
+#: ../src/httpd_can_network_connect.py:59 ../src/httpd_can_network_relay.py:56
+#: ../src/httpd_can_sendmail.py:56 ../src/httpd_enable_cgi.py:54
+#: ../src/httpd_enable_ftp_server.py:53 ../src/httpd_enable_homedirs.py:51
+#: ../src/httpd_ssi_exec.py:53 ../src/httpd_tty_comm.py:55
+#: ../src/httpd_unified.py:65 ../src/httpd_unified.py:72
+#: ../src/httpd_write_content.py:56 ../src/httpd_use_cifs.py:63
+#: ../src/httpd_use_nfs.py:63
+msgid "Web Server"
+msgstr "Web服务器"
+
+#: ../src/allow_httpd_sys_script_anon_write.py:26
+msgid ""
+"\n"
+"    SELinux policy is preventing an httpd script from writing to a public\n"
+"    directory.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 策略正在阻止一个 httpd 脚本写入一个公共目录。\n"
+"    "
+
+#: ../src/allow_httpd_sys_script_anon_write.py:31
+msgid ""
+"\n"
+"    SELinux policy is preventing an httpd script from writing to a public\n"
+"    directory.  If httpd is not setup to write to public directories, this\n"
+"    could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 策略正在阻止 httpd 脚本写入一个公共目录。\n"
+"    如果没有将 httpd 设置为可写入公共目录，这可能是一个入侵尝试信号。\n"
+"      "
+
+#: ../src/allow_httpd_sys_script_anon_write.py:37
+msgid ""
+"\n"
+"    If httpd scripts should be allowed to write to public directories you "
+"need to turn on the $BOOLEAN boolean and change the file context of the "
+"public directory to public_content_rw_t.  Read the httpd_selinux\n"
+"    man page for further information:\n"
+"    \"setsebool -P $BOOLEAN=1; chcon -t public_content_rw_t <path>\"\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"public_content_rw_t <path>\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果需要让 httpd 脚本写入公共目录，您需要开启 $BOOLEAN 布尔值并且将公共目"
+"录的文件上下文改为 public_content_rw_t。阅读 httpd_selinux 的 man page 获得更"
+"多信息：\n"
+"    \"setsebool -P $BOOLEAN=1; chcon -t public_content_rw_t <path>\"\n"
+"    您还必须更改系统中文件的默认文件上下文以便在重新标记时仍可保留它们。 "
+"\"semanage fcontext -a -t public_content_rw_t <path>\"\n"
+"    "
+
+#: ../src/allow_java_execstack.py:28
+msgid ""
+"\n"
+"    SELinux prevented a java plugin ($SOURCE_TYPE) from making the stack "
+"executable.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了一个 java 插件 ($SOURCE_TYPE) 使栈变为可执行。\n"
+"    "
+
+#: ../src/allow_java_execstack.py:32
+msgid ""
+"\n"
+"    SELinux prevented the java plugin ($SOURCE_TYPE) from making the stack\n"
+"    executable.  An executable stack should not be required by any\n"
+"    software (see <a href=\"http://people.redhat.com/drepper/selinux-mem.html"
+"\">SELinux Memory Protection Tests</a>\n"
+"    for more information). However, some versions of the Java plugin are "
+"known\n"
+"    to require this access to work properly. You should check for updates\n"
+"    to the software before allowing this access.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了java插件($SOURCE_TYPE)使栈可执行。\n"
+"    任何软件不应该需要一个可执行的栈(阅读<a href=\"http://people.redhat.com/"
+"drepper/selinux-mem.html\">SELinux 内存保护测试</a>\n"
+"    获得更多信息)。尽管如此，发现了一些版本的java插件需要可执行的栈。\n"
+"    您应该在允许这个访问请求前检查更新这个软件。\n"
+"    "
+
+#: ../src/allow_java_execstack.py:56
 msgid "Java"
 msgstr "Java"
 
-#: ../comps-f9.xml.in.h:86 ../comps-f10.xml.in.h:90 ../comps-f11.xml.in.h:102
-#: ../comps-f12.xml.in.h:109 ../comps-f13.xml.in.h:109
-#: ../comps-el4.xml.in.h:32
-msgid "Java Development"
-msgstr "Java开发"
-
-#: ../comps-f9.xml.in.h:87 ../comps-f10.xml.in.h:91 ../comps-f11.xml.in.h:103
-#: ../comps-f12.xml.in.h:110 ../comps-f13.xml.in.h:110
-#: ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:34
-msgid "KDE (K Desktop Environment)"
-msgstr "KDE （K 桌面环境）"
-
-#: ../comps-f9.xml.in.h:88 ../comps-f10.xml.in.h:92 ../comps-f11.xml.in.h:104
-#: ../comps-f12.xml.in.h:111 ../comps-f13.xml.in.h:111
-#: ../comps-el4.xml.in.h:34 ../comps-el5.xml.in.h:35
-msgid "KDE Software Development"
-msgstr "KDE 软件开发"
-
-#: ../comps-f9.xml.in.h:89 ../comps-f10.xml.in.h:93 ../comps-f11.xml.in.h:105
-#: ../comps-f12.xml.in.h:112 ../comps-f13.xml.in.h:112
+#: ../src/allow_kerberos.py:28
 msgid ""
-"KDE is a powerful graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"\n"
+"    SELinux prevented $SOURCE from using kerberos.\n"
+"    "
 msgstr ""
-"KDE 是一个功能强大的图形化用户界面，它包括面板、桌面、系统图标以及图形化文件"
-"管理器。"
+"\n"
+"    SELinux 阻止了 $SOURCE 使用 kerberos.\n"
+"    "
 
-#: ../comps-f9.xml.in.h:90 ../comps-f10.xml.in.h:94 ../comps-f11.xml.in.h:106
-#: ../comps-f12.xml.in.h:113 ../comps-f13.xml.in.h:113
-msgid "Kannada Support"
-msgstr "坎纳达语支持"
-
-#: ../comps-f9.xml.in.h:91 ../comps-f10.xml.in.h:96 ../comps-f11.xml.in.h:108
-#: ../comps-f12.xml.in.h:115 ../comps-f13.xml.in.h:115
-msgid "Kashubian Support"
-msgstr "卡舒比语支持"
-
-#: ../comps-f9.xml.in.h:92 ../comps-f10.xml.in.h:97 ../comps-f11.xml.in.h:110
-#: ../comps-f12.xml.in.h:117 ../comps-f13.xml.in.h:117
-msgid "Khmer Support"
-msgstr "高棉语支持"
-
-#: ../comps-f9.xml.in.h:93 ../comps-f10.xml.in.h:99 ../comps-f11.xml.in.h:113
-#: ../comps-f12.xml.in.h:120 ../comps-f13.xml.in.h:120
-msgid "Korean Support"
-msgstr "韩文支持"
-
-#: ../comps-f9.xml.in.h:94 ../comps-f10.xml.in.h:100 ../comps-f11.xml.in.h:114
-#: ../comps-f12.xml.in.h:121 ../comps-f13.xml.in.h:121
-msgid "Kurdish Support"
-msgstr "库德语支持"
-
-#: ../comps-f9.xml.in.h:95 ../comps-f10.xml.in.h:102 ../comps-f11.xml.in.h:116
-#: ../comps-f12.xml.in.h:124 ../comps-f13.xml.in.h:124
-msgid "Languages"
-msgstr "语言支持"
-
-#: ../comps-f9.xml.in.h:96 ../comps-f10.xml.in.h:103 ../comps-f11.xml.in.h:117
-#: ../comps-f12.xml.in.h:125 ../comps-f13.xml.in.h:125
-msgid "Lao Support"
-msgstr "老挝语支持"
-
-#: ../comps-f9.xml.in.h:97 ../comps-f10.xml.in.h:104 ../comps-f11.xml.in.h:119
-#: ../comps-f12.xml.in.h:127 ../comps-f13.xml.in.h:127
-msgid "Latvian Support"
-msgstr "拉脱维亚语支持"
-
-#: ../comps-f9.xml.in.h:98 ../comps-f10.xml.in.h:105 ../comps-f11.xml.in.h:120
-#: ../comps-f12.xml.in.h:128 ../comps-f13.xml.in.h:128
-msgid "Legacy Fonts"
-msgstr "旧字体"
-
-#: ../comps-f9.xml.in.h:99 ../comps-f10.xml.in.h:106 ../comps-f11.xml.in.h:121
-#: ../comps-f12.xml.in.h:129 ../comps-f13.xml.in.h:129
-msgid "Legacy Network Server"
-msgstr "老的网络服务器"
-
-#: ../comps-f9.xml.in.h:100 ../comps-f10.xml.in.h:107
-#: ../comps-f11.xml.in.h:122 ../comps-f12.xml.in.h:130
-#: ../comps-f13.xml.in.h:130
-msgid "Legacy Software Development"
-msgstr "老的软件开发"
-
-#: ../comps-f9.xml.in.h:101 ../comps-f10.xml.in.h:108
-#: ../comps-f11.xml.in.h:123 ../comps-f12.xml.in.h:131
-#: ../comps-f13.xml.in.h:131
-msgid "Legacy Software Support"
-msgstr "老的软件支持"
-
-#: ../comps-f9.xml.in.h:102 ../comps-f10.xml.in.h:109
-#: ../comps-f11.xml.in.h:124 ../comps-f12.xml.in.h:132
-#: ../comps-f13.xml.in.h:132
-msgid "Lithuanian Support"
-msgstr "立陶宛语支持"
-
-#: ../comps-f9.xml.in.h:103 ../comps-f10.xml.in.h:110
-#: ../comps-f11.xml.in.h:125 ../comps-f12.xml.in.h:133
-#: ../comps-f13.xml.in.h:133
-msgid "Low Saxon Support"
-msgstr "低地撒克逊语支持"
-
-#: ../comps-f9.xml.in.h:104 ../comps-f10.xml.in.h:111
-#: ../comps-f11.xml.in.h:127 ../comps-f12.xml.in.h:135
-#: ../comps-f13.xml.in.h:135
-msgid "Macedonian Support"
-msgstr "马其顿语支持"
-
-#: ../comps-f9.xml.in.h:105 ../comps-f10.xml.in.h:112
-#: ../comps-f11.xml.in.h:128 ../comps-f12.xml.in.h:137
-#: ../comps-f13.xml.in.h:137 ../comps-el4.xml.in.h:36 ../comps-el5.xml.in.h:37
-msgid "Mail Server"
-msgstr "邮件服务器"
-
-#: ../comps-f9.xml.in.h:106 ../comps-f10.xml.in.h:114
-#: ../comps-f11.xml.in.h:131 ../comps-f12.xml.in.h:140
-#: ../comps-f13.xml.in.h:140
-msgid "Malay Support"
-msgstr "马来语支持"
-
-#: ../comps-f9.xml.in.h:107 ../comps-f10.xml.in.h:115
-#: ../comps-f11.xml.in.h:132 ../comps-f12.xml.in.h:141
-#: ../comps-f13.xml.in.h:141
-msgid "Malayalam Support"
-msgstr "马来语支持"
-
-#: ../comps-f9.xml.in.h:108 ../comps-f10.xml.in.h:116
-#: ../comps-f11.xml.in.h:135 ../comps-f12.xml.in.h:144
-#: ../comps-f13.xml.in.h:144
-msgid "Maori Support"
-msgstr "毛利语支持"
-
-#: ../comps-f9.xml.in.h:109 ../comps-f10.xml.in.h:117
-#: ../comps-f11.xml.in.h:136 ../comps-f12.xml.in.h:145
-#: ../comps-f13.xml.in.h:145
-msgid "Marathi Support"
-msgstr "古吉拉特语支持"
-
-#: ../comps-f9.xml.in.h:110 ../comps-f10.xml.in.h:118
-#: ../comps-f11.xml.in.h:138 ../comps-f12.xml.in.h:149
-#: ../comps-f13.xml.in.h:149
-msgid "Mongolian Support"
-msgstr "蒙古语支持"
-
-#: ../comps-f9.xml.in.h:111 ../comps-f10.xml.in.h:119
-#: ../comps-f11.xml.in.h:139 ../comps-f12.xml.in.h:150
-#: ../comps-f13.xml.in.h:150
-msgid "MySQL Database"
-msgstr "MySQL 数据库"
-
-#: ../comps-f9.xml.in.h:112 ../comps-f10.xml.in.h:121
-#: ../comps-f11.xml.in.h:141 ../comps-f12.xml.in.h:152
-#: ../comps-f13.xml.in.h:152
-msgid "Nepali Support"
-msgstr "尼泊尔语支持"
-
-#: ../comps-f9.xml.in.h:113 ../comps-f10.xml.in.h:122
-#: ../comps-f11.xml.in.h:142 ../comps-f12.xml.in.h:153
-#: ../comps-f13.xml.in.h:153 ../comps-el4.xml.in.h:37 ../comps-el5.xml.in.h:38
-msgid "Network Servers"
-msgstr "网络服务器"
-
-#: ../comps-f9.xml.in.h:114 ../comps-f10.xml.in.h:123
-#: ../comps-f11.xml.in.h:143 ../comps-f12.xml.in.h:154
-#: ../comps-f13.xml.in.h:154 ../comps-el4.xml.in.h:38 ../comps-el5.xml.in.h:39
-msgid "News Server"
-msgstr "新闻服务器"
-
-#: ../comps-f9.xml.in.h:115 ../comps-f10.xml.in.h:124
-msgid "Northern Sami Support"
-msgstr "北萨摩斯语支持"
-
-#: ../comps-f9.xml.in.h:116 ../comps-f10.xml.in.h:125
-#: ../comps-f11.xml.in.h:144 ../comps-f12.xml.in.h:155
-#: ../comps-f13.xml.in.h:155
-msgid "Northern Sotho Support"
-msgstr "布尔吞语支持"
-
-#: ../comps-f9.xml.in.h:117 ../comps-f10.xml.in.h:126
-#: ../comps-f11.xml.in.h:145 ../comps-f12.xml.in.h:156
-#: ../comps-f13.xml.in.h:156
-msgid "Norwegian Support"
-msgstr "挪威语支持"
-
-#: ../comps-f9.xml.in.h:118 ../comps-f10.xml.in.h:127
-#: ../comps-f11.xml.in.h:148 ../comps-f12.xml.in.h:159
-#: ../comps-f13.xml.in.h:159 ../comps-el4.xml.in.h:39 ../comps-el5.xml.in.h:40
-msgid "Office/Productivity"
-msgstr "办公/生产率"
-
-#: ../comps-f9.xml.in.h:119 ../comps-f10.xml.in.h:128
-#: ../comps-f11.xml.in.h:149 ../comps-f12.xml.in.h:160
-#: ../comps-f13.xml.in.h:160
-msgid "Older bitmap and vector fonts packages"
-msgstr "过去使用的点阵和矢量字体包"
-
-#: ../comps-f9.xml.in.h:120 ../comps-f10.xml.in.h:129
-#: ../comps-f11.xml.in.h:151 ../comps-f12.xml.in.h:162
-#: ../comps-f13.xml.in.h:162
-msgid "Oriya Support"
-msgstr "叙利亚语支持"
-
-#: ../comps-f9.xml.in.h:121 ../comps-f10.xml.in.h:130
-#: ../comps-f11.xml.in.h:152 ../comps-f12.xml.in.h:163
-#: ../comps-f13.xml.in.h:163 ../comps-el4.xml.in.h:40 ../comps-el5.xml.in.h:41
+#: ../src/allow_kerberos.py:32
 msgid ""
-"Packages which provide functionality for developing and building "
-"applications."
-msgstr "用于开发和构建应用程序的软件包。"
-
-#: ../comps-f9.xml.in.h:122 ../comps-f10.xml.in.h:132
-#: ../comps-f11.xml.in.h:154 ../comps-f12.xml.in.h:165
-#: ../comps-f13.xml.in.h:165
-msgid "Persian Support"
-msgstr "波斯语支持"
-
-#: ../comps-f9.xml.in.h:123 ../comps-f10.xml.in.h:133
-#: ../comps-f11.xml.in.h:155 ../comps-f12.xml.in.h:166
-#: ../comps-f13.xml.in.h:166
-msgid "Polish Support"
-msgstr "波兰语支持"
-
-#: ../comps-f9.xml.in.h:124 ../comps-f10.xml.in.h:134
-#: ../comps-f11.xml.in.h:156 ../comps-f12.xml.in.h:167
-#: ../comps-f13.xml.in.h:167
-msgid "Portuguese Support"
-msgstr "葡萄牙语支持"
-
-#: ../comps-f9.xml.in.h:125 ../comps-f10.xml.in.h:135
-#: ../comps-f11.xml.in.h:157 ../comps-f12.xml.in.h:168
-#: ../comps-f13.xml.in.h:168
-msgid "PostgreSQL Database"
-msgstr "PostgreSQL 数据库"
-
-#: ../comps-f9.xml.in.h:126 ../comps-f10.xml.in.h:136
-#: ../comps-f11.xml.in.h:158 ../comps-f12.xml.in.h:169
-#: ../comps-f13.xml.in.h:169
-msgid "Printing Support"
-msgstr "打印支持"
-
-#: ../comps-f9.xml.in.h:127 ../comps-f10.xml.in.h:137
-#: ../comps-f11.xml.in.h:159 ../comps-f12.xml.in.h:170
-#: ../comps-f13.xml.in.h:170
-msgid "Punjabi Support"
-msgstr "旁遮普语支持"
-
-#: ../comps-f9.xml.in.h:128 ../comps-f10.xml.in.h:138
-#: ../comps-f11.xml.in.h:160 ../comps-f12.xml.in.h:171
-#: ../comps-f13.xml.in.h:171
-msgid "Romanian Support"
-msgstr "罗马尼亚语支持"
-
-#: ../comps-f9.xml.in.h:129 ../comps-f10.xml.in.h:139
-#: ../comps-f11.xml.in.h:161 ../comps-f12.xml.in.h:172
-#: ../comps-f13.xml.in.h:172
-msgid "Ruby"
-msgstr "Ruby"
-
-#: ../comps-f9.xml.in.h:130 ../comps-f10.xml.in.h:140
-#: ../comps-f11.xml.in.h:162 ../comps-f12.xml.in.h:173
-#: ../comps-f13.xml.in.h:173
-msgid "Russian Support"
-msgstr "俄语支持"
-
-#: ../comps-f9.xml.in.h:131 ../comps-f10.xml.in.h:141
-msgid "SUGAR Desktop Environment"
-msgstr "SUGAR 桌面环境"
-
-#: ../comps-f9.xml.in.h:132
-msgid "SUGAR is the desktop environment developed for the OLPC XO."
-msgstr "SUGAR 是为 OLPC XO 开发的桌面环境。"
-
-#: ../comps-f9.xml.in.h:133 ../comps-f10.xml.in.h:142
-#: ../comps-f11.xml.in.h:163 ../comps-f12.xml.in.h:174
-#: ../comps-f13.xml.in.h:174
-msgid "Samoan Support"
-msgstr "萨摩亚语支持"
-
-#: ../comps-f9.xml.in.h:134 ../comps-f10.xml.in.h:143
-#: ../comps-f11.xml.in.h:166 ../comps-f12.xml.in.h:177
-#: ../comps-f13.xml.in.h:177
-msgid "Serbian Support"
-msgstr "塞尔维亚语支持"
-
-#: ../comps-f9.xml.in.h:135 ../comps-f10.xml.in.h:144
-#: ../comps-f11.xml.in.h:167 ../comps-f12.xml.in.h:178
-#: ../comps-f13.xml.in.h:178
-msgid "Server Configuration Tools"
-msgstr "服务器配置工具"
-
-#: ../comps-f9.xml.in.h:136 ../comps-f10.xml.in.h:145
-#: ../comps-f11.xml.in.h:168 ../comps-f12.xml.in.h:179
-#: ../comps-f13.xml.in.h:179 ../comps-el4.xml.in.h:41 ../comps-el5.xml.in.h:42
-msgid "Servers"
-msgstr "服务器"
-
-#: ../comps-f9.xml.in.h:137 ../comps-f10.xml.in.h:146
-#: ../comps-f11.xml.in.h:169 ../comps-f12.xml.in.h:180
-#: ../comps-f13.xml.in.h:180 ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:43
-msgid "Simple window managers that aren't part of a larger desktop environment."
-msgstr "简单的窗口管理器，不是某个桌面环境的组成部分。"
-
-#: ../comps-f9.xml.in.h:138 ../comps-f10.xml.in.h:148
-#: ../comps-f11.xml.in.h:171 ../comps-f12.xml.in.h:182
-#: ../comps-f13.xml.in.h:182
-msgid "Sinhala Support"
-msgstr "新哈拉语支持"
-
-#: ../comps-f9.xml.in.h:139 ../comps-f10.xml.in.h:149
-#: ../comps-f11.xml.in.h:172 ../comps-f12.xml.in.h:183
-#: ../comps-f13.xml.in.h:183
-msgid "Slovak Support"
-msgstr "斯洛伐克语支持"
-
-#: ../comps-f9.xml.in.h:140 ../comps-f10.xml.in.h:150
-#: ../comps-f11.xml.in.h:173 ../comps-f12.xml.in.h:184
-#: ../comps-f13.xml.in.h:184
-msgid "Slovenian Support"
-msgstr "斯洛文尼亚语支持"
-
-#: ../comps-f9.xml.in.h:141 ../comps-f10.xml.in.h:151
-#: ../comps-f11.xml.in.h:174 ../comps-f12.xml.in.h:185
-#: ../comps-f13.xml.in.h:185
-msgid "Smallest possible installation"
-msgstr "最小安装"
-
-#: ../comps-f9.xml.in.h:142 ../comps-f10.xml.in.h:152
-#: ../comps-f11.xml.in.h:175 ../comps-f12.xml.in.h:186
-#: ../comps-f13.xml.in.h:186 ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:44
-msgid "Software used for running network servers"
-msgstr "用于运行网络服务器的软件"
-
-#: ../comps-f9.xml.in.h:143 ../comps-f10.xml.in.h:153
-#: ../comps-f11.xml.in.h:176 ../comps-f12.xml.in.h:187
-#: ../comps-f13.xml.in.h:187
-msgid "Somali Support"
-msgstr "索马里语支持"
-
-#: ../comps-f9.xml.in.h:144 ../comps-f10.xml.in.h:154
-#: ../comps-f11.xml.in.h:177 ../comps-f12.xml.in.h:188
-#: ../comps-f13.xml.in.h:188
-msgid ""
-"Sometimes called text editors, these are programs that allow you to create "
-"and edit text files. This includes Emacs and Vi."
-msgstr "有时叫做文本编辑器。它们是允许您创建和编辑文本文件的程序。包括 Emacs 和 Vi。"
-
-#: ../comps-f9.xml.in.h:145 ../comps-f10.xml.in.h:155
-#: ../comps-f11.xml.in.h:178 ../comps-f12.xml.in.h:189
-#: ../comps-f13.xml.in.h:189 ../comps-el4.xml.in.h:45 ../comps-el5.xml.in.h:46
-msgid "Sound and Video"
-msgstr "视频和音频"
-
-#: ../comps-f9.xml.in.h:146 ../comps-f10.xml.in.h:156
-#: ../comps-f11.xml.in.h:179 ../comps-f12.xml.in.h:190
-#: ../comps-f13.xml.in.h:190
-msgid "Southern Ndebele Support"
-msgstr "南 Ndebele 语支持"
-
-#: ../comps-f9.xml.in.h:147 ../comps-f10.xml.in.h:157
-#: ../comps-f11.xml.in.h:180 ../comps-f12.xml.in.h:191
-#: ../comps-f13.xml.in.h:191
-msgid "Southern Sotho Support"
-msgstr "南索托语支持"
-
-#: ../comps-f9.xml.in.h:148 ../comps-f10.xml.in.h:158
-#: ../comps-f11.xml.in.h:181 ../comps-f12.xml.in.h:192
-#: ../comps-f13.xml.in.h:192
-msgid "Spanish Support"
-msgstr "西班牙语支持"
-
-#: ../comps-f9.xml.in.h:149 ../comps-f10.xml.in.h:160
-#: ../comps-f11.xml.in.h:185 ../comps-f12.xml.in.h:196
-#: ../comps-f13.xml.in.h:196 ../comps-el4.xml.in.h:46
-msgid "Support for developing programs in the Java programming language."
-msgstr "对使用 Java 编程语言开发程序的支持。"
-
-#: ../comps-f9.xml.in.h:150 ../comps-f10.xml.in.h:162
-#: ../comps-f11.xml.in.h:188 ../comps-f12.xml.in.h:199
-#: ../comps-f13.xml.in.h:199 ../comps-el4.xml.in.h:47
-msgid "Support for running programs written in the Java programming language."
-msgstr "对运行使用 Java 编程语言编写的程序的支持。"
-
-#: ../comps-f9.xml.in.h:151 ../comps-f10.xml.in.h:163
-#: ../comps-f11.xml.in.h:190 ../comps-f12.xml.in.h:201
-#: ../comps-f13.xml.in.h:201
-msgid "Swati Support"
-msgstr "Swati 语支持"
-
-#: ../comps-f9.xml.in.h:152 ../comps-f10.xml.in.h:164
-#: ../comps-f11.xml.in.h:191 ../comps-f12.xml.in.h:202
-#: ../comps-f13.xml.in.h:202
-msgid "Swedish Support"
-msgstr "瑞典语支持"
-
-#: ../comps-f9.xml.in.h:153 ../comps-f10.xml.in.h:165
-#: ../comps-f11.xml.in.h:192 ../comps-f12.xml.in.h:203
-#: ../comps-f13.xml.in.h:203 ../comps-el4.xml.in.h:48 ../comps-el5.xml.in.h:47
-msgid "System Tools"
-msgstr "系统工具"
-
-#: ../comps-f9.xml.in.h:154 ../comps-f10.xml.in.h:166
-#: ../comps-f11.xml.in.h:193 ../comps-f12.xml.in.h:204
-#: ../comps-f13.xml.in.h:204
-msgid "Tagalog Support"
-msgstr "塔加洛语支持"
-
-#: ../comps-f9.xml.in.h:155 ../comps-f10.xml.in.h:168
-#: ../comps-f11.xml.in.h:195 ../comps-f12.xml.in.h:206
-#: ../comps-f13.xml.in.h:206
-msgid "Tamil Support"
-msgstr "泰米尔语支持"
-
-#: ../comps-f9.xml.in.h:156 ../comps-f10.xml.in.h:169
-#: ../comps-f11.xml.in.h:196 ../comps-f12.xml.in.h:207
-#: ../comps-f13.xml.in.h:207
-msgid "Telugu Support"
-msgstr "泰卢固语支持"
-
-#: ../comps-f9.xml.in.h:157 ../comps-f10.xml.in.h:170
-#: ../comps-f11.xml.in.h:198 ../comps-f12.xml.in.h:209
-#: ../comps-f13.xml.in.h:209 ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:48
-msgid "Text-based Internet"
-msgstr "基于文本的互联网"
-
-#: ../comps-f9.xml.in.h:158 ../comps-f10.xml.in.h:171
-#: ../comps-f11.xml.in.h:199 ../comps-f12.xml.in.h:210
-#: ../comps-f13.xml.in.h:210
-msgid "Thai Support"
-msgstr "泰语支持"
-
-#: ../comps-f9.xml.in.h:159 ../comps-f10.xml.in.h:172
-#: ../comps-f11.xml.in.h:200 ../comps-f12.xml.in.h:211
-#: ../comps-f13.xml.in.h:211 ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:50
-msgid "The applications include office suites, PDF viewers, and more."
-msgstr "包括的应用程序有办公套件、PDF 查看器等等。"
-
-#: ../comps-f9.xml.in.h:160 ../comps-f10.xml.in.h:173
-#: ../comps-f11.xml.in.h:201 ../comps-f12.xml.in.h:212
-#: ../comps-f13.xml.in.h:212
-msgid "The packages in this group are core libraries needed to develop applications."
-msgstr "该组中的软件包是开发应用程序所需的核心库。"
-
-#: ../comps-f9.xml.in.h:161 ../comps-f10.xml.in.h:174
-#: ../comps-f11.xml.in.h:202 ../comps-f12.xml.in.h:213
-#: ../comps-f13.xml.in.h:213 ../comps-el4.xml.in.h:52 ../comps-el5.xml.in.h:51
-msgid "These packages allow you to configure an IMAP or SMTP mail server."
-msgstr "这些软件包允许您配置 IMAP 或 Postfix 邮件服务器。"
-
-#: ../comps-f9.xml.in.h:162 ../comps-f10.xml.in.h:175
-#: ../comps-f11.xml.in.h:203 ../comps-f12.xml.in.h:214
-#: ../comps-f13.xml.in.h:214
-msgid "These packages allow you to develop applications for the X Window System."
-msgstr "这些软件包允许您开发用于 X 窗口系统的应用程序。"
-
-#: ../comps-f9.xml.in.h:163 ../comps-f10.xml.in.h:176
-#: ../comps-f11.xml.in.h:204 ../comps-f12.xml.in.h:215
-#: ../comps-f13.xml.in.h:215 ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:52
-msgid "These packages are helpful when developing web applications or web pages."
-msgstr "这些软件包允许您创建网页和基于网页的应用程序。"
-
-#: ../comps-f9.xml.in.h:164 ../comps-f10.xml.in.h:177
-#: ../comps-f11.xml.in.h:205 ../comps-f12.xml.in.h:216
-#: ../comps-f13.xml.in.h:216
-msgid "These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr "这些软件包包括基于网络的服务器，例如 DHCP、Kerberos 和 NIS。"
-
-#: ../comps-f9.xml.in.h:165 ../comps-f10.xml.in.h:178
-#: ../comps-f11.xml.in.h:206 ../comps-f12.xml.in.h:217
-#: ../comps-f13.xml.in.h:217
-msgid ""
-"These packages include servers for old network protocols such as rsh and "
-"telnet."
-msgstr "这些软件包包括用于老的网络协议的服务器，例如 rsh 和 telnet。"
-
-#: ../comps-f9.xml.in.h:166 ../comps-f10.xml.in.h:179
-#: ../comps-f11.xml.in.h:207 ../comps-f12.xml.in.h:218
-#: ../comps-f13.xml.in.h:218
-msgid "These packages provide a virtualization environment."
-msgstr "这些软件包提供一个虚拟环境。"
-
-#: ../comps-f9.xml.in.h:167 ../comps-f10.xml.in.h:180
-#: ../comps-f11.xml.in.h:208 ../comps-f12.xml.in.h:219
-#: ../comps-f13.xml.in.h:219
-msgid "These packages provide compatibility with previous releases."
-msgstr "这些软件包提供对以前发行版的兼容性支持。"
-
-#: ../comps-f9.xml.in.h:168 ../comps-f10.xml.in.h:181
-#: ../comps-f11.xml.in.h:209 ../comps-f12.xml.in.h:220
-#: ../comps-f13.xml.in.h:220
-msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
-msgstr "这些软件包提供了对不同语言的支持，包括字体和输入法。"
-
-#: ../comps-f9.xml.in.h:169 ../comps-f10.xml.in.h:182
-#: ../comps-f11.xml.in.h:210 ../comps-f12.xml.in.h:221
-#: ../comps-f13.xml.in.h:221
-msgid ""
-"These tools allow you to create documents in the DocBook format and convert "
-"them into HTML, PDF, Postscript, and text."
+"\n"
+"    SELinux prevented $SOURCE from using kerberos for\n"
+"    authentication.  If you have configured the system to use kerberos\n"
+"    this access is expected but is not currently allowed by\n"
+"    SELinux. Otherwise this access may signal an intrusion.\n"
+"    "
 msgstr ""
-"这些软件包允许您创建 DocBook 格式的文档，并将它们转换成 HTML, PDF, "
-"Postscript 和文本格式。"
+"\n"
+"    SELinux 阻止了 $SOURCE 使用 kerberos 进行验证。\n"
+"    如果您已经将系统配置为使用 kerberos 进行验证，那么这是一次正常的访问，\n"
+"    只是目前 SELinux 不允许使用。\n"
+"    如果不是，这次访问就可能是一次入侵尝试。\n"
+"    "
 
-#: ../comps-f9.xml.in.h:170 ../comps-f10.xml.in.h:183
-#: ../comps-f11.xml.in.h:211 ../comps-f12.xml.in.h:222
-#: ../comps-f13.xml.in.h:222 ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:54
-msgid "These tools allow you to run a Web server on the system."
-msgstr "这些工具允许您在系统上运行万维网服务器。"
-
-#: ../comps-f9.xml.in.h:171 ../comps-f10.xml.in.h:184
-#: ../comps-f11.xml.in.h:212 ../comps-f12.xml.in.h:223
-#: ../comps-f13.xml.in.h:223 ../comps-el4.xml.in.h:56 ../comps-el5.xml.in.h:55
-msgid "These tools allow you to run an FTP server on the system."
-msgstr "这些工具允许您在系统上运行 FTP 服务器。"
-
-#: ../comps-f9.xml.in.h:172 ../comps-f10.xml.in.h:185
-#: ../comps-f11.xml.in.h:213 ../comps-f12.xml.in.h:224
-#: ../comps-f13.xml.in.h:224 ../comps-el4.xml.in.h:57 ../comps-el5.xml.in.h:56
+#: ../src/allow_mount_anyfile.py:28
 msgid ""
-"These tools include core development tools such as automake, gcc, perl, "
-"python, and debuggers."
-msgstr "这些工具包括 automake、gcc、perl、python 和调试器之类的核心开发工具。"
-
-#: ../comps-f9.xml.in.h:173 ../comps-f10.xml.in.h:186
-#: ../comps-f11.xml.in.h:214 ../comps-f12.xml.in.h:225
-#: ../comps-f13.xml.in.h:225 ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:57
-msgid "This group allows you to configure the system as a news server."
-msgstr "这组软件包允许您把系统配置成新闻服务器。"
-
-#: ../comps-f9.xml.in.h:174 ../comps-f10.xml.in.h:187
-#: ../comps-f11.xml.in.h:215 ../comps-f12.xml.in.h:226
-#: ../comps-f13.xml.in.h:226
-msgid "This group contains all of Red Hat's custom server configuration tools."
-msgstr "这组软件包包含所有红帽的定制服务器配置工具。"
-
-#: ../comps-f9.xml.in.h:175 ../comps-f10.xml.in.h:188
-#: ../comps-f11.xml.in.h:216 ../comps-f12.xml.in.h:227
-#: ../comps-f13.xml.in.h:227
-msgid ""
-"This group includes a minimal set of packages. Useful for creating small "
-"router/firewall boxes, for example."
-msgstr "该软件包组包括软件包的最小集。对于安装小型路由器或防火墙机器较有用。"
-
-#: ../comps-f9.xml.in.h:176 ../comps-f10.xml.in.h:189
-#: ../comps-f11.xml.in.h:217 ../comps-f12.xml.in.h:228
-#: ../comps-f13.xml.in.h:228 ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:58
-msgid "This group includes graphical email, Web, and chat clients."
-msgstr "这组软件包包含图形化电子邮件、万维网和聊天客户。"
-
-#: ../comps-f9.xml.in.h:177 ../comps-f10.xml.in.h:190
-#: ../comps-f11.xml.in.h:218 ../comps-f12.xml.in.h:229
-#: ../comps-f13.xml.in.h:229 ../comps-el4.xml.in.h:60 ../comps-el5.xml.in.h:59
-msgid ""
-"This group includes packages for performing mathematical and scientific "
-"computations and plotting, as well as unit conversion."
-msgstr "这组软件包包括用来执行数学和科学计算、绘图、以及计量单位转换的软件包。"
-
-#: ../comps-f9.xml.in.h:178 ../comps-f10.xml.in.h:191
-#: ../comps-f11.xml.in.h:219 ../comps-f12.xml.in.h:230
-#: ../comps-f13.xml.in.h:230 ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:60
-msgid "This group includes packages to help you manipulate and scan images."
-msgstr "这组软件包包括用来帮助您操作和扫描图像的软件包。"
-
-#: ../comps-f9.xml.in.h:179 ../comps-f10.xml.in.h:192
-#: ../comps-f11.xml.in.h:220 ../comps-f12.xml.in.h:231
-#: ../comps-f13.xml.in.h:231 ../comps-el4.xml.in.h:62 ../comps-el5.xml.in.h:61
-msgid ""
-"This group includes text-based email, Web, and chat clients. These "
-"applications do not require the X Window System."
+"\n"
+"    SELinux prevented $SOURCE from mounting on the file or directory\n"
+"    \"$TARGET_PATH\".\n"
+"    "
 msgstr ""
-"这组软件包包含基于文本的电子邮件、万维网、和聊天客户的软件包。这些应用程序不"
-"需要 X 窗口系统。"
+"\n"
+"    SELinux 阻止了 $SOURCE 挂载文件或者目录\n"
+"    \"$TARGET_PATH\"。\n"
+"    "
 
-#: ../comps-f9.xml.in.h:180 ../comps-f10.xml.in.h:193
-#: ../comps-f11.xml.in.h:221 ../comps-f12.xml.in.h:232
-#: ../comps-f13.xml.in.h:232 ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:62
+#: ../src/allow_mount_anyfile.py:33
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"\n"
+"    SELinux prevented $SOURCE from mounting a filesystem on the file\n"
+"    or directory \"$TARGET_PATH\" of type \"$TARGET_TYPE\". By default\n"
+"    SELinux limits the mounting of filesystems to only some files or\n"
+"    directories (those with types that have the mountpoint attribute). The\n"
+"    type \"$TARGET_TYPE\" does not have this attribute. You can either\n"
+"    relabel the file or directory or set the boolean \"$BOOLEAN\" to true "
+"to\n"
+"    allow mounting on any file or directory.\n"
+"    "
 msgstr ""
-"这组软件包包括一个系统图形化管理工具的集合，譬如：管理用户帐号和配置系统硬"
-"件。"
+"\n"
+"    SELinux 防止了 $SOURCE 在类型为 \"TARGET_TYPE\" 的\n"
+"    文件或目录 \"TARGET_PATH\" 中挂载文件系统。\n"
+"    SELinux 默认仅对一些文件或目录限制挂载文件系统（那些文件或目录拥有挂接点"
+"属性）。\n"
+"    \"TARGET_TYPE\"类型没有这个属性。您可以重新设置这个文件或目录的标志，\n"
+"    或者将 \"$BOOLEAN\" 布尔值设为 true 来允许挂载任何文件或目录。\n"
+"    "
 
-#: ../comps-f9.xml.in.h:181 ../comps-f10.xml.in.h:194
-#: ../comps-f11.xml.in.h:222 ../comps-f12.xml.in.h:233
-#: ../comps-f13.xml.in.h:233 ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:65
-msgid "This group is a collection of tools and resources of Armenian environments."
-msgstr "这一组是用于亚美尼亚语环境的工具和资源。"
+#: ../src/allow_mount_anyfile.py:59 ../src/allow_nfsd_anon_write.py:55
+#: ../src/nfs_export_all_ro.py:52 ../src/nfs_export_all_rw.py:49
+#: ../src/samba_export_all_ro.py:53 ../src/samba_export_all_rw.py:50
+#: ../src/use_nfs_home_dirs.py:63 ../src/use_nfs_home_dirs.py:69
+msgid "File System"
+msgstr "文件系统"
 
-#: ../comps-f9.xml.in.h:182 ../comps-f10.xml.in.h:195
-#: ../comps-f11.xml.in.h:223 ../comps-f12.xml.in.h:234
-#: ../comps-f13.xml.in.h:234 ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:69
-msgid "This group is a collection of tools for various hardware specific utilities."
-msgstr "这一组是处理硬件方面问题的工具。"
-
-#: ../comps-f9.xml.in.h:183 ../comps-f10.xml.in.h:196
-#: ../comps-f11.xml.in.h:225 ../comps-f12.xml.in.h:236
-#: ../comps-f13.xml.in.h:236 ../comps-el4.xml.in.h:70 ../comps-el5.xml.in.h:70
+#: ../src/allow_mplayer_execstack.py:29
 msgid ""
-"This group is a collection of various tools for the system, such as the "
-"client for connecting to SMB shares and tools to monitor network traffic."
-msgstr "这组软件包是各类系统工具的集合，如：连接 SMB 共享的客户；监控网络交通的工具。"
-
-#: ../comps-f9.xml.in.h:184 ../comps-f10.xml.in.h:197
-#: ../comps-f11.xml.in.h:226 ../comps-f12.xml.in.h:237
-#: ../comps-f13.xml.in.h:237
-msgid "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr "该软件包组允许您在系统上运行 DNS 名称服务器(BIND)。"
-
-#: ../comps-f9.xml.in.h:185 ../comps-f10.xml.in.h:198
-#: ../comps-f11.xml.in.h:227 ../comps-f12.xml.in.h:238
-#: ../comps-f13.xml.in.h:238
-msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
-msgstr "该软件包组允许您在 Linux 和 MS Windows(tm) 系统间共享文件。"
-
-#: ../comps-f9.xml.in.h:186 ../comps-f10.xml.in.h:199
-#: ../comps-f11.xml.in.h:228 ../comps-f12.xml.in.h:239
-#: ../comps-f13.xml.in.h:239
-msgid "This package group contains packages useful for use with MySQL."
-msgstr "这组软件包包括对 MySQL 有用的软件包。"
-
-#: ../comps-f9.xml.in.h:187 ../comps-f10.xml.in.h:200
-#: ../comps-f11.xml.in.h:229 ../comps-f12.xml.in.h:240
-#: ../comps-f13.xml.in.h:240
-msgid "This package group includes packages useful for use with Postgresql."
-msgstr "这组软件包包括对 Postgresql 有用的软件包。"
-
-#: ../comps-f9.xml.in.h:188 ../comps-f10.xml.in.h:201
-#: ../comps-f11.xml.in.h:230 ../comps-f12.xml.in.h:241
-#: ../comps-f13.xml.in.h:241
-msgid "Tibetan Support"
-msgstr "藏语支持"
-
-#: ../comps-f9.xml.in.h:189 ../comps-f10.xml.in.h:202
-#: ../comps-f11.xml.in.h:231 ../comps-f12.xml.in.h:242
-#: ../comps-f13.xml.in.h:242
-msgid "Tonga Support"
-msgstr "汤加语支持"
-
-#: ../comps-f9.xml.in.h:190 ../comps-f10.xml.in.h:203
-#: ../comps-f11.xml.in.h:232 ../comps-f12.xml.in.h:243
-#: ../comps-f13.xml.in.h:243 ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:71
-msgid "Tools and Utilities needed by a Fedora Packager"
-msgstr "Fedora Packager 需要的工具和程序"
-
-#: ../comps-f9.xml.in.h:191 ../comps-f10.xml.in.h:204
-#: ../comps-f11.xml.in.h:233 ../comps-f12.xml.in.h:244
-#: ../comps-f13.xml.in.h:244
-msgid "Tsonga Support"
-msgstr "宗加语支持"
-
-#: ../comps-f9.xml.in.h:192 ../comps-f10.xml.in.h:205
-#: ../comps-f11.xml.in.h:234 ../comps-f12.xml.in.h:245
-#: ../comps-f13.xml.in.h:245
-msgid "Tswana Support"
-msgstr "泰斯文那语支持"
-
-#: ../comps-f9.xml.in.h:193 ../comps-f10.xml.in.h:206
-#: ../comps-f11.xml.in.h:235 ../comps-f12.xml.in.h:246
-#: ../comps-f13.xml.in.h:246
-msgid "Turkish Support"
-msgstr "土耳其语支持"
-
-#: ../comps-f9.xml.in.h:194 ../comps-f10.xml.in.h:207
-#: ../comps-f11.xml.in.h:237 ../comps-f12.xml.in.h:248
-#: ../comps-f13.xml.in.h:248
-msgid "Ukrainian Support"
-msgstr "乌克兰语支持"
-
-#: ../comps-f9.xml.in.h:195 ../comps-f10.xml.in.h:208
-#: ../comps-f11.xml.in.h:239 ../comps-f12.xml.in.h:250
-#: ../comps-f13.xml.in.h:250
-msgid "Urdu Support"
-msgstr "乌尔都语支持"
-
-#: ../comps-f9.xml.in.h:196 ../comps-f10.xml.in.h:210
-#: ../comps-f11.xml.in.h:241 ../comps-f12.xml.in.h:252
-#: ../comps-f13.xml.in.h:252 ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:72
-msgid "Various core pieces of the system."
-msgstr "系统的多个核心组件。"
-
-#: ../comps-f9.xml.in.h:197 ../comps-f10.xml.in.h:211
-#: ../comps-f11.xml.in.h:242 ../comps-f12.xml.in.h:253
-#: ../comps-f13.xml.in.h:253 ../comps-el5.xml.in.h:73
-msgid "Various ways to relax and spend your free time."
-msgstr "放松和打发时间的方式。"
-
-#: ../comps-f9.xml.in.h:198 ../comps-f10.xml.in.h:212
-#: ../comps-f11.xml.in.h:243 ../comps-f12.xml.in.h:254
-#: ../comps-f13.xml.in.h:254
-msgid "Venda Support"
-msgstr "文达语支持"
-
-#: ../comps-f9.xml.in.h:199 ../comps-f10.xml.in.h:213
-#: ../comps-f11.xml.in.h:244 ../comps-f12.xml.in.h:255
-#: ../comps-f13.xml.in.h:255
-msgid "Vietnamese Support"
-msgstr "越南语支持"
-
-#: ../comps-f9.xml.in.h:200 ../comps-f10.xml.in.h:214
-#: ../comps-f11.xml.in.h:245 ../comps-f12.xml.in.h:256
-#: ../comps-f13.xml.in.h:256
-msgid "Virtualization"
-msgstr "虚拟化"
-
-#: ../comps-f9.xml.in.h:201 ../comps-f10.xml.in.h:215
-#: ../comps-f11.xml.in.h:246 ../comps-f12.xml.in.h:257
-#: ../comps-f13.xml.in.h:257
-msgid "Walloon Support"
-msgstr "华隆语支持"
-
-#: ../comps-f9.xml.in.h:202 ../comps-f10.xml.in.h:216
-#: ../comps-f11.xml.in.h:247 ../comps-f12.xml.in.h:258
-#: ../comps-f13.xml.in.h:258 ../comps-el4.xml.in.h:73 ../comps-el5.xml.in.h:74
-msgid "Web Development"
-msgstr "网站架设"
-
-#: ../comps-f9.xml.in.h:203 ../comps-f10.xml.in.h:217
-#: ../comps-f11.xml.in.h:248 ../comps-f12.xml.in.h:259
-#: ../comps-f13.xml.in.h:259 ../comps-el4.xml.in.h:74 ../comps-el5.xml.in.h:75
-msgid "Web Server"
-msgstr "万维网服务器"
-
-#: ../comps-f9.xml.in.h:204 ../comps-f10.xml.in.h:218
-#: ../comps-f11.xml.in.h:249 ../comps-f12.xml.in.h:260
-#: ../comps-f13.xml.in.h:260
-msgid "Welsh Support"
-msgstr "威尔士语支持"
-
-#: ../comps-f9.xml.in.h:205 ../comps-f10.xml.in.h:219
-#: ../comps-f11.xml.in.h:250 ../comps-f12.xml.in.h:261
-#: ../comps-f13.xml.in.h:261 ../comps-el4.xml.in.h:75 ../comps-el5.xml.in.h:76
-msgid "Window Managers"
-msgstr "窗口管理器"
-
-#: ../comps-f9.xml.in.h:206 ../comps-f10.xml.in.h:220
-#: ../comps-f11.xml.in.h:251 ../comps-f12.xml.in.h:262
-#: ../comps-f13.xml.in.h:262
-msgid "Windows File Server"
-msgstr "Windows 文件服务器"
-
-#: ../comps-f9.xml.in.h:207 ../comps-f10.xml.in.h:221
-#: ../comps-f11.xml.in.h:252 ../comps-f12.xml.in.h:263
-#: ../comps-f13.xml.in.h:263
-msgid "X Software Development"
-msgstr "X 软件开发"
-
-#: ../comps-f9.xml.in.h:208 ../comps-f10.xml.in.h:222
-#: ../comps-f11.xml.in.h:253 ../comps-f12.xml.in.h:264
-#: ../comps-f13.xml.in.h:264 ../comps-el4.xml.in.h:76 ../comps-el5.xml.in.h:77
-msgid "X Window System"
-msgstr "X 窗口系统"
-
-#: ../comps-f9.xml.in.h:209 ../comps-f10.xml.in.h:223
-#: ../comps-f11.xml.in.h:254 ../comps-f12.xml.in.h:265
-#: ../comps-f13.xml.in.h:265
-msgid "XFCE"
-msgstr "XFCE"
-
-#: ../comps-f9.xml.in.h:210 ../comps-f10.xml.in.h:224
-#: ../comps-f11.xml.in.h:255 ../comps-f12.xml.in.h:266
-#: ../comps-f13.xml.in.h:266
-msgid "XFCE Software Development"
-msgstr "XFCE 软件开发"
-
-#: ../comps-f9.xml.in.h:211 ../comps-f10.xml.in.h:225
-#: ../comps-f11.xml.in.h:256 ../comps-f12.xml.in.h:267
-#: ../comps-f13.xml.in.h:267
-msgid "Xhosa Support"
-msgstr "科萨语支持"
-
-#: ../comps-f9.xml.in.h:212 ../comps-f10.xml.in.h:226
-#: ../comps-f11.xml.in.h:257 ../comps-f12.xml.in.h:268
-#: ../comps-f13.xml.in.h:268
-msgid "Zulu Support"
-msgstr "祖鲁语支持"
-
-#: ../comps-f10.xml.in.h:2 ../comps-f11.xml.in.h:2 ../comps-f12.xml.in.h:4
-#: ../comps-f13.xml.in.h:4
-msgid "A software playground for learning about learning."
-msgstr "软件学习园地。"
-
-#: ../comps-f10.xml.in.h:71 ../comps-f11.xml.in.h:81
-msgid "Haskell Development"
-msgstr "Haskell 开发"
-
-#: ../comps-f10.xml.in.h:77 ../comps-f11.xml.in.h:88 ../comps-f12.xml.in.h:95
-#: ../comps-f13.xml.in.h:95
-msgid "Input Methods"
-msgstr "输入法"
-
-#: ../comps-f10.xml.in.h:78 ../comps-f11.xml.in.h:89 ../comps-f12.xml.in.h:96
-#: ../comps-f13.xml.in.h:96
-msgid "Input method packages for the input of international text."
-msgstr "用于国际文本的输入法软件包。"
-
-#: ../comps-f10.xml.in.h:95 ../comps-f11.xml.in.h:107
-#: ../comps-f12.xml.in.h:114 ../comps-f13.xml.in.h:114
-msgid "Kashmiri Support"
-msgstr "克什米尔语支持"
-
-#: ../comps-f10.xml.in.h:98 ../comps-f11.xml.in.h:112
-#: ../comps-f12.xml.in.h:119 ../comps-f13.xml.in.h:119
-msgid "Konkani Support"
-msgstr "康干语支持"
-
-#: ../comps-f10.xml.in.h:101 ../comps-f11.xml.in.h:115
-#: ../comps-f12.xml.in.h:122 ../comps-f13.xml.in.h:122
-msgid "LXDE"
-msgstr "LXDE"
-
-#: ../comps-f10.xml.in.h:113 ../comps-f11.xml.in.h:129
-#: ../comps-f12.xml.in.h:138 ../comps-f13.xml.in.h:138
-msgid "Maithili Support"
-msgstr "比哈尔语支持"
-
-#: ../comps-f10.xml.in.h:120 ../comps-f11.xml.in.h:140
-#: ../comps-f12.xml.in.h:151 ../comps-f13.xml.in.h:151
-msgid "Myanmar (Burmese) Support"
-msgstr "缅甸语支持"
-
-#: ../comps-f10.xml.in.h:131 ../comps-f11.xml.in.h:153
-#: ../comps-f12.xml.in.h:164 ../comps-f13.xml.in.h:164
-msgid "Perl Development"
-msgstr "Perl 开发"
-
-#: ../comps-f10.xml.in.h:147 ../comps-f11.xml.in.h:170
-#: ../comps-f12.xml.in.h:181 ../comps-f13.xml.in.h:181
-msgid "Sindhi Support"
-msgstr "信德语支持"
-
-#: ../comps-f10.xml.in.h:159 ../comps-f11.xml.in.h:184
-#: ../comps-f12.xml.in.h:195 ../comps-f13.xml.in.h:195
-msgid "Support for developing programs in the Haskell programming language."
-msgstr "在编程语言中支持开发程序。"
-
-#: ../comps-f10.xml.in.h:161 ../comps-f11.xml.in.h:186
-#: ../comps-f12.xml.in.h:197 ../comps-f13.xml.in.h:197
-msgid "Support for developing programs in the Perl programming language."
-msgstr "在 Perl 编程语言中支持开发程序。"
-
-#: ../comps-f10.xml.in.h:167 ../comps-f11.xml.in.h:194
-#: ../comps-f12.xml.in.h:205 ../comps-f13.xml.in.h:205
-msgid "Tajik Support"
-msgstr "塔吉克语支持"
-
-#: ../comps-f10.xml.in.h:209 ../comps-f11.xml.in.h:240
-#: ../comps-f12.xml.in.h:251 ../comps-f13.xml.in.h:251
-msgid "Uzbek Support"
-msgstr "乌兹别克语支持"
-
-#: ../comps-f11.xml.in.h:6 ../comps-f12.xml.in.h:8 ../comps-f13.xml.in.h:8
-msgid "Amazigh Support"
-msgstr "阿马兹格语支持"
-
-#: ../comps-f11.xml.in.h:13 ../comps-f12.xml.in.h:15 ../comps-f13.xml.in.h:15
-msgid "Azerbaijani Support"
-msgstr "阿塞拜疆语支持"
-
-#: ../comps-f11.xml.in.h:27 ../comps-f12.xml.in.h:31 ../comps-f13.xml.in.h:31
-msgid "Chichewa Support"
-msgstr "马拉维英文支持"
-
-#: ../comps-f11.xml.in.h:31 ../comps-f12.xml.in.h:35 ../comps-f13.xml.in.h:35
-msgid "Coptic Support"
-msgstr "科普特语支持"
-
-#: ../comps-f11.xml.in.h:37 ../comps-f12.xml.in.h:43 ../comps-f13.xml.in.h:43
-msgid "Design and Simulation tools for hardware engineers"
-msgstr "硬件工程师的设计和模拟工具"
-
-#: ../comps-f11.xml.in.h:48 ../comps-f12.xml.in.h:55 ../comps-f13.xml.in.h:55
-msgid "Electronic Lab"
-msgstr "电子实验室"
-
-#: ../comps-f11.xml.in.h:58 ../comps-f12.xml.in.h:65 ../comps-f13.xml.in.h:65
-msgid "Fijian Support"
-msgstr "斐济语支持"
-
-#: ../comps-f11.xml.in.h:61 ../comps-f12.xml.in.h:68 ../comps-f13.xml.in.h:68
-msgid "Font design and packaging"
-msgstr "字体设计和打包"
-
-#: ../comps-f11.xml.in.h:65 ../comps-f12.xml.in.h:72 ../comps-f13.xml.in.h:72
-msgid "Frisian Support"
-msgstr "夫里斯兰语支持"
-
-#: ../comps-f11.xml.in.h:66 ../comps-f12.xml.in.h:73 ../comps-f13.xml.in.h:73
-msgid "Friulian Support"
-msgstr "佛里乌里语支持"
-
-#: ../comps-f11.xml.in.h:83 ../comps-f12.xml.in.h:90 ../comps-f13.xml.in.h:90
-msgid "Hiligaynon Support"
-msgstr "Hiligaynon 语支持"
-
-#: ../comps-f11.xml.in.h:96 ../comps-f12.xml.in.h:103
-#: ../comps-f13.xml.in.h:103
-msgid "Interlingua Support"
-msgstr "国际语支持"
-
-#: ../comps-f11.xml.in.h:109 ../comps-f12.xml.in.h:116
-#: ../comps-f13.xml.in.h:116
-msgid "Kazakh Support"
-msgstr "哈萨克语支持"
-
-#: ../comps-f11.xml.in.h:111 ../comps-f12.xml.in.h:118
-#: ../comps-f13.xml.in.h:118
-msgid "Kinyarwanda Support"
-msgstr "卢旺达语支持"
-
-#: ../comps-f11.xml.in.h:118 ../comps-f12.xml.in.h:126
-#: ../comps-f13.xml.in.h:126
-msgid "Latin Support"
-msgstr "拉丁语支持"
-
-#: ../comps-f11.xml.in.h:126 ../comps-f12.xml.in.h:134
-#: ../comps-f13.xml.in.h:134
-msgid "Luxembourgish Support"
-msgstr "卢森堡语支持"
-
-#: ../comps-f11.xml.in.h:130 ../comps-f12.xml.in.h:139
-#: ../comps-f13.xml.in.h:139
-msgid "Malagasy Support"
-msgstr "马达加斯加语支持"
-
-#: ../comps-f11.xml.in.h:133 ../comps-f12.xml.in.h:142
-#: ../comps-f13.xml.in.h:142
-msgid "Maltese Support"
-msgstr "马尔他语支持"
-
-#: ../comps-f11.xml.in.h:134 ../comps-f12.xml.in.h:143
-#: ../comps-f13.xml.in.h:143
-msgid "Manx Support"
-msgstr "马恩语支持"
-
-#: ../comps-f11.xml.in.h:137 ../comps-f12.xml.in.h:146
-#: ../comps-f13.xml.in.h:146
-msgid "MinGW cross-compiler"
-msgstr "MinGW 跨编译程序"
-
-#: ../comps-f11.xml.in.h:146 ../comps-f12.xml.in.h:157
-#: ../comps-f13.xml.in.h:157
-msgid "OCaml"
-msgstr "OCaml"
-
-#: ../comps-f11.xml.in.h:147 ../comps-f12.xml.in.h:158
-#: ../comps-f13.xml.in.h:158
-msgid "Occitan Support"
-msgstr "奥克西唐语支持"
-
-#: ../comps-f11.xml.in.h:150 ../comps-f12.xml.in.h:161
-#: ../comps-f13.xml.in.h:161
-msgid "Online Help and Documentation"
-msgstr "在线帮助及文档"
-
-#: ../comps-f11.xml.in.h:164 ../comps-f12.xml.in.h:175
-#: ../comps-f13.xml.in.h:175
-msgid "Sanskrit Support"
-msgstr "梵语支持"
-
-#: ../comps-f11.xml.in.h:165 ../comps-f12.xml.in.h:176
-#: ../comps-f13.xml.in.h:176
-msgid "Sardinian Support"
-msgstr "撒丁岛语支持"
-
-#: ../comps-f11.xml.in.h:182 ../comps-f12.xml.in.h:193
-#: ../comps-f13.xml.in.h:193
-msgid "Sugar Desktop Environment"
-msgstr "Sugar 桌面环境"
-
-#: ../comps-f11.xml.in.h:183 ../comps-f12.xml.in.h:194
-#: ../comps-f13.xml.in.h:194
-msgid ""
-"Support for cross-compiling programs to 32 bit Windows targets, testing "
-"them, and building installers, all from within Fedora."
-msgstr "为所有 Fedora 中的 32 位视窗对象支持跨编译程序，测试以及构建安装程序。"
-
-#: ../comps-f11.xml.in.h:187 ../comps-f12.xml.in.h:198
-#: ../comps-f13.xml.in.h:198
-msgid ""
-"Support for developing software using the Objective CAML programming "
-"language and libraries."
-msgstr "支持使用对象 CAML 编程语言和程序库开发软件。"
-
-#: ../comps-f11.xml.in.h:189 ../comps-f12.xml.in.h:200
-#: ../comps-f13.xml.in.h:200
-msgid "Swahili Support"
-msgstr "史瓦希里语支持"
-
-#: ../comps-f11.xml.in.h:197 ../comps-f12.xml.in.h:208
-#: ../comps-f13.xml.in.h:208
-msgid "Tetum Support"
-msgstr "德顿语支持"
-
-#: ../comps-f11.xml.in.h:224 ../comps-f12.xml.in.h:235
-#: ../comps-f13.xml.in.h:235
-msgid ""
-"This group is a collection of tools used in the design, modification, "
-"manipulation, and packaging of fonts."
-msgstr "这是一组用于设计,修改,操作和打包字体的工具集."
-
-#: ../comps-f11.xml.in.h:236 ../comps-f12.xml.in.h:247
-#: ../comps-f13.xml.in.h:247
-msgid "Turkmen Support"
-msgstr "土库曼语支持"
-
-#: ../comps-f11.xml.in.h:238 ../comps-f12.xml.in.h:249
-#: ../comps-f13.xml.in.h:249
-msgid "Upper Sorbian Support"
-msgstr "上索布语支持"
-
-#: ../comps-f12.xml.in.h:2 ../comps-f13.xml.in.h:2
-msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
-msgstr "为 GNOME 桌面提供关键路径功能的一组软件包"
-
-#: ../comps-f12.xml.in.h:3 ../comps-f13.xml.in.h:3
-msgid ""
-"A set of packages that provide the shared platform for Critical Path "
-"functionality on all Fedora spins"
-msgstr "为所有 Fedora spin 中的关键路径功能提供共享平台的一组软件包"
-
-#: ../comps-f12.xml.in.h:23 ../comps-f13.xml.in.h:23
-msgid "Books and Guides"
-msgstr "书籍及指南"
-
-#: ../comps-f12.xml.in.h:24 ../comps-f13.xml.in.h:24
-msgid "Books and Guides for Fedora users and developers"
-msgstr "为 Fedora 用户及开发者提供的书籍及指南"
-
-#: ../comps-f12.xml.in.h:37 ../comps-f13.xml.in.h:37
-msgid "Critical Path (Base)"
-msgstr "关键路径（基本）"
-
-#: ../comps-f12.xml.in.h:38 ../comps-f13.xml.in.h:38
-msgid "Critical Path (GNOME)"
-msgstr "关键路径（GNOME）"
-
-#: ../comps-f12.xml.in.h:50 ../comps-f13.xml.in.h:50
-msgid "Directory Server"
-msgstr "目录服务器"
-
-#: ../comps-f12.xml.in.h:88 ../comps-f13.xml.in.h:88
-msgid "Haskell"
-msgstr "Haskell"
-
-#: ../comps-f12.xml.in.h:123 ../comps-f13.xml.in.h:123
-msgid ""
-"LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-msgstr "LXDE 是一个轻加权 S11 桌面环境，用于低硬件规格的计算机，比如笔记本电脑、移动设备或者老计算机。"
-
-#: ../comps-f12.xml.in.h:136 ../comps-f13.xml.in.h:136
-msgid "Machine and user identity servers."
-msgstr "机器及用户识别服务器"
-
-#: ../comps-f12.xml.in.h:147 ../comps-f13.xml.in.h:147
-msgid "Moblin Desktop Environment"
-msgstr "Moblin 桌面环境"
-
-#: ../comps-f12.xml.in.h:148 ../comps-f13.xml.in.h:148
-msgid "Moblin is a desktop environment for NetBook/NetTop/MID devices."
-msgstr "Moblin 是用于上网本/上网机/移动互联网设备的桌面环境。"
-
-#: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
-msgid "Applications for a variety of tasks"
-msgstr "进行其它不同任务的应用程序"
-
-#: ../comps-el4.xml.in.h:12 ../comps-el5.xml.in.h:14
-msgid "Dialup Networking Support"
-msgstr "拨号联网支持"
-
-#: ../comps-el4.xml.in.h:22 ../comps-el5.xml.in.h:24
-msgid ""
-"GNOME is a powerful, graphical user interface which includes a panel, "
-"desktop, system icons, and a graphical file manager."
+"\n"
+"    SELinux prevented a mplayer plugin ($SOURCE_TYPE) from making the stack "
+"executable.\n"
+"    "
 msgstr ""
-"GNOME 是一个功能强大的图形化用户界面，它包括一个面板、桌面、系统图标、以及图"
-"形化文件管理器。"
+"\n"
+"    SELinux 阻止了一个可使栈变为可执行 mplayer 插件（$SOURCE_TYPE）。\n"
+"    "
 
-#: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:36
+#: ../src/allow_mplayer_execstack.py:33
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"\n"
+"    SELinux prevented the mplayer plugin ($SOURCE_TYPE) from making the "
+"stack\n"
+"    executable.  An executable stack should not be required by any\n"
+"    software (see <a href=\"http://people.redhat.com/drepper/selinux-mem.html"
+"\">SELinux Memory Protection Tests</a>\n"
+"    for more information). However, some versions of the mplayer plugin are "
+"known\n"
+"    to require this access to work properly. You should check for updates\n"
+"    to the software before allowing this access.\n"
+"    "
 msgstr ""
-"KDE 是一个功能强大的图形化用户界面。它包括面板、桌面、系统图标以及图形化文件"
-"管理器。"
+"\n"
+"    SELinux 通过使栈可执行阻止了mplayer 插件（$SOURCE_TYPE）。\n"
+"    任何软件不应该需要一个可执行的栈（阅读<a href=\"http://people.redhat.com/"
+"drepper/selinux-mem.html\">SELinux 内存保护测试</a>\n"
+"    获得更多信息）。尽管如此，mplayer 插件的某些版本需要这个访问才可正常工"
+"作。\n"
+"    您应该在允许这个访问请求前检查这个软件的更新。\n"
+"    "
 
-#: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:45
+#: ../src/allow_mplayer_execstack.py:57
+msgid "Media"
+msgstr "介质"
+
+#: ../src/allow_nfsd_anon_write.py:26
 msgid ""
-"Sometimes called text editors, these are programs that allow you to create "
-"and edit files. These include Emacs and Vi."
-msgstr "有时叫做文本编辑器。它们是允许您创建和编辑文件的程序。包括 Emacs 和 Vi。"
-
-#: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:49
-msgid "The XEmacs text editor."
-msgstr "XEmacs 文本编辑器"
-
-#: ../comps-el4.xml.in.h:54 ../comps-el5.xml.in.h:53
-msgid ""
-"These tools allow you to create documentation in the DocBook format and "
-"convert them to HTML, PDF, Postscript, and text."
+"\n"
+"    SELinux is preventing the nfs daemon from allowing clients to write to "
+"public directories.\n"
+"    "
 msgstr ""
-"这些软件包允许您创建 DocBook 格式的文档，并将它们转换成 HTML、 PDF、"
-"Postscript 和文本格式。"
+"\n"
+"    SELinux 正在阻止 nfs 在后台允许客户写入公共目录。\n"
+"    "
 
-#: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:63
-msgid "This group is a collection of network servers for specific purposes"
-msgstr "这一组是特定用途的网络服务器"
+#: ../src/allow_nfsd_anon_write.py:30
+msgid ""
+"\n"
+"    SELinux has preventing the nfs daemon (nfsd) from writing to\n"
+"    directories marked as public. Usually these directories are\n"
+"    shared between multiple network daemons, like nfs, apache, ftp\n"
+"    etc.  If you have not exported any public file systems for\n"
+"    writing, this could signal an intrusion.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了nfs后台(nfsd)写入被标记为公共的目录。\n"
+"    通常这些目录是被多个网络之间共享的，例如像nfs，apache，ftp\n"
+"    如果您没有设置任何可写的公共文件系统，这会被记为一次入侵。\n"
+"    "
 
-#: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:64
-msgid "This group is a collection of tools and resources of Arabic environments."
-msgstr "这一组是用于阿拉伯语环境的工具和资源。"
+#: ../src/allow_nfsd_anon_write.py:38
+msgid ""
+"\n"
+"    If you want to export a public file systems using nfs you need to\n"
+"    turn on the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\".\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想用 nfs 导出一个公共文件系统，您需要开启\n"
+"    $BOOLEAN 布尔值： \"setsebool -P\n"
+"    $BOOLEAN=1\".\n"
+"    "
 
-#: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:67
-msgid "This group is a collection of tools and resources of Hebrew environments."
-msgstr "这一组是用于希伯来语环境的工具和资源。"
+#: ../src/allow_postfix_local_write_mail_spool.py:28
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from $ACCESS files stored mail spool "
+"directory.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 通过保存在邮件池目录中的 $ACCESS 阻止了 $SOURCE。\n"
+"    "
 
-#: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:68
-msgid "This group is a collection of tools and resources of Japanese environments."
-msgstr "这一组是用于日语环境的工具和资源。"
+#: ../src/allow_postfix_local_write_mail_spool.py:32
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from $ACCESS files stored in the mail spool "
+"directory.\n"
+"    \n"
+"    $SOURCE attempted to write one or more files or directories, postfix\n"
+"    ordinarily does not need this access.  However it can be setup to "
+"allow \n"
+"    this.    \n"
+"\n"
+"    If you have not configured $SOURCE to write to the mail spool\n"
+"    this access attempt could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 通过保存在邮件池目录中的 $ACCESS 阻止了 $SOURCE。\n"
+"    \n"
+"    $SOURCE 试图写入一个或者多个文件或者目录，postfix 一般不需要这个访问。\n"
+"    尽管可将其设置为允许这个访问。\n"
+"    将具有相同的安全上下文。\n"
+"    \n"
+"    如果您没有将 $SOURCE 配置为写入到邮件池，这次访问尝试可能是入侵尝试的信"
+"号。\n"
+"    "
 
-#: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:78
-msgid "XEmacs"
-msgstr "XEmacs"
+#: ../src/allow_postfix_local_write_mail_spool.py:62
+msgid "Mail"
+msgstr "邮件"
 
-#: ../comps-el5.xml.in.h:66
-msgid "This group is a collection of tools and resources of Czech environments."
-msgstr "这一组是用于捷克语环境的工具和资源。"
+#: ../src/allow_rsync_anon_write.py:26
+msgid ""
+"\n"
+"    SELinux policy is preventing the rsync daemon from writing to a public\n"
+"    directory.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 策略正在阻止 rsync 在后台写入一个公共目录。\n"
+"    "
 
+#: ../src/allow_rsync_anon_write.py:31
+msgid ""
+"\n"
+"    SELinux policy is preventing the rsync daemon from writing to a public\n"
+"    directory.  If rsync is not setup to allow anonymous writes, this\n"
+"    could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 策略正在阻止 rsync 守护进程写入一个公共目录。\n"
+"    如果没有将 rsync 设置为允许匿名写入，这可能就是一次入侵尝试信号。\n"
+"    "
+
+#: ../src/allow_rsync_anon_write.py:37
+msgid ""
+"\n"
+"    If ftp should be allowed to write to this directory you need to turn\n"
+"    on the $BOOLEAN boolean and change the file context of\n"
+"    the public directory to public_content_rw_t.  Read the rsync_selinux\n"
+"    man page for further information:\n"
+"    \"setsebool -P $BOOLEAN=1; chcon -t public_content_rw_t <path>\"\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"public_content_rw_t <path>\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果应该允许 ftp 写入这个目录，您需要开启 $BOOLEAN 布尔值，\n"
+"    并且将这个公共目录的文件上下文改为 public_content_rw_t。\n"
+"    阅读 rsync_selinux 的 man page 获得更进一步的信息：\n"
+"    \"setsebool -P $BOOLEAN=1; chcon -t public_content_rw_t <path>\"\n"
+"    您还必须更改系统中文件的默认文件上下文以便在重新标记时仍可保留它们。 "
+"\"semanage fcontext -a -t public_content_rw_t <path>\"\n"
+"    "
+
+#: ../src/allow_rsync_anon_write.py:57
+msgid "RSYNC"
+msgstr "RSYNC"
+
+#: ../src/allow_saslauthd_read_shadow.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the sasl authentication server from reading the /"
+"etc/shadow file.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 sasl 认证服务器读取 /etc/shadow 文件。\n"
+"    "
+
+#: ../src/allow_saslauthd_read_shadow.py:30
+msgid ""
+"\n"
+"    SELinux has denied the sasl authentication daemon from reading the\n"
+"    /etc/shadow file. If the sasl authentication daemon (saslauthd) is\n"
+"    not setup to read the /etc/shadow, this could signal an\n"
+"    intrusion.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 sasl 验证守护进程读取 /etc/shadow 文件。\n"
+"    如果没有将 sasl 验证守护进程（saslauthd）设置为读取 /etc/shadow 文件\n"
+"    这可能是一次入侵信号。\n"
+"    "
+
+#: ../src/allow_saslauthd_read_shadow.py:37
+msgid ""
+"\n"
+"    If you want the sasl authentication daemon to be able to read\n"
+"    the /etc/shadow file change the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\".\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想sasl验证后台能够读取 /etc/shadow 文件，您可以修改 $BOOLEAN布尔"
+"值：\n"
+"    \"setsebool -P $BOOLEAN=1\".\n"
+"    "
+
+#: ../src/allow_smbd_anon_write.py:26
+msgid ""
+"\n"
+"    SELinux policy is preventing the samba daemon from writing to a public\n"
+"    directory.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 策略正在阻止 samba 在后台写入一个公共目录。\n"
+"    "
+
+#: ../src/allow_smbd_anon_write.py:31
+msgid ""
+"\n"
+"    SELinux policy is preventing the samba daemon from writing to a public\n"
+"    directory.  If samba is not setup to allow anonymous writes, this\n"
+"    could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 策略正在阻止 samba 守护进程写入一个公共目录。如果没有将 samba 设"
+"置为允许\n"
+"    匿名写入公共目录，这可能会是一次入侵尝试信号。\n"
+"   "
+
+#: ../src/allow_smbd_anon_write.py:37
+msgid ""
+"\n"
+"    If samba should be allowed to write to this directory you need to turn\n"
+"    on the $BOOLEAN boolean and change the file context of\n"
+"    the public directory to public_content_rw_t.  Read the samba_selinux\n"
+"    man page for further information:\n"
+"    \"setsebool -P $BOOLEAN=1; chcon -t public_content_rw_t <path>\"\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"public_content_rw_t <path>\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果应该允许 ftp 写入该目录，您需要打开 $BOOLEAN 布尔值并将公共\n"
+"    目录的文件上下文更改为 public_content_rw_t。请阅读 samba_selinux\n"
+"    man page 以获取进一步的信息：\n"
+"    \"setsebool -P $BOOLEAN=1; chcon -t public_content_rw_t <path>\"\n"
+"    您还必须更改系统中文件的默认文件上下文以便在重新标记时仍可保留它们。 "
+"\"semanage fcontext -a -t public_content_rw_t <path>\"\n"
+"    "
+
+#: ../src/allow_smbd_anon_write.py:57 ../src/samba_enable_home_dirs.py:54
+#: ../src/samba_share_nfs.py:52 ../src/spamd_enable_home_dirs.py:52
+#: ../src/use_samba_home_dirs.py:62 ../src/use_samba_home_dirs.py:68
+#: ../src/use_samba_home_dirs.py:74
+msgid "SAMBA"
+msgstr "SAMBA"
+
+#: ../src/allow_ypbind.py:28
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from using NIS (yp).\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 使用 NIS（yp）。\n"
+"    "
+
+#: ../src/allow_ypbind.py:32
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from using NIS (yp) for\n"
+"    authentication.  If you have configured the system to use NIS\n"
+"    this access is expected but is not currently allowed by\n"
+"    SELinux. Otherwise this access may signal an intrusion.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 使用 NIS（yp）验证。\n"
+"    如果您已经将该系统配置为使用 NIS，\n"
+"    那么这个访问是正常的，但是SELinux当前不允许这样的访问。\n"
+"    如果不是，这个访问可能就是一个入侵信号。\n"
+"    "
+
+#: ../src/allow_zebra_write_config.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the zebra daemon from writing its configuration "
+"files\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 zebra 守护进程写入它的配置文件\n"
+"    "
+
+#: ../src/allow_zebra_write_config.py:30
+msgid ""
+"\n"
+"    SELinux has denied the zebra daemon from writing out its\n"
+"    configuration files. Ordinarily, zebra is not required to write\n"
+"    its configuration files.  If zebra was not setup to write the\n"
+"    config files, this could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 zebra 守护进程写入它的配置文件。通常 zebra 不需要写入它的"
+"配置文件。\n"
+"    如果没有将 zebra 设置为写入配置文件，这可能会是一次入侵尝试信号。\n"
+"    "
+
+#: ../src/allow_zebra_write_config.py:37
+msgid ""
+"\n"
+"    If you want to allow zebra to overwrite its configuration you must\n"
+"    turn on the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想允许 zebra 覆盖它的配置，您必须开启$BOOLEAN布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/allow_zebra_write_config.py:53
+msgid "Zebra"
+msgstr "Zebra"
+
+#: ../src/automount_exec_config.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the $SOURCE_PATH from executing potentially "
+"mislabeled files $TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE_PATH 执行可能错误标记的文件 $TARGET_PATH 。\n"
+"    "
+
+#: ../src/automount_exec_config.py:30
+msgid ""
+"\n"
+"    SELinux has denied the $SOURCE_PATH from executing potentially\n"
+"    mislabeled files $TARGET_PATH.  Automounter can be setup to execute\n"
+"    configuration files. If $TARGET_PATH is an automount executable\n"
+"    configuration file it needs to have a file label of bin_t.\n"
+"    If automounter is trying to execute something that it is not supposed "
+"to, this could indicate an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"  SELinux 已经拒绝 $SOURCE_PATH 执行可能错\n"
+"  误标记的文件 $TARGET_PATH。可将 automounter 设置为\n"
+"  执行配置文件，如果 $TARGET_PATH 是一个自动挂载可执行\n"
+"  配置文件，则需要有一个 bin_t 文件标记。\n"
+"  如果 automounter 正在试图执行它不应该执行的动作， 则可能是一个入侵攻击提"
+"示。\n"
+" "
+
+#: ../src/automount_exec_config.py:38
+msgid ""
+"\n"
+"    If you want to change the file context of $TARGET_PATH so that the "
+"automounter can execute it you can execute \"chcon -t bin_t $TARGET_PATH\".  "
+"If you want this to survive a relabel, you need to permanently change the "
+"file context: execute  \"semanage fcontext -a -t bin_t $TARGET_PATH\".\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想要更改 $TARGET_PATH 的文件上下文以便 automounter 可对其进行操作，"
+"您可以执行 \"chcon -t bin_t $TARGET_PATH\"。 如果您希望这个操作在重新标记后还"
+"可以保留，您需要永久地更改文件上下文：请执行 \"semanage fcontext -a -t bin_t "
+"'$TARGET_PATH'\"\n"
+" "
+
+#. MATCH
+#: ../src/automount_exec_config.py:52 ../src/cvs_data.py:54
+#: ../src/default.py:61 ../src/execute.py:56 ../src/file.py:51
+#: ../src/filesystem_associate.py:51 ../src/home_tmp_bad_labels.py:53
+#: ../src/httpd_bad_labels.py:60 ../src/prelink_mislabled.py:59
+#: ../src/public_content.py:54 ../src/qemu_blk_image.py:52
+#: ../src/qemu_file_image.py:56 ../src/restorecon.py:90
+#: ../src/rsync_data.py:54 ../src/samba_share.py:56 ../src/swapfile.py:53
+#: ../src/xen_image.py:56
+msgid "File Label"
+msgstr "文件标志"
+
+#: ../src/bind_ports.py:26 ../src/inetd_bind_ports.py:26
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH from binding to port $PORT_NUMBER.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE 绑定到端口 $PORT_NUMBER。\n"
+"    "
+
+#: ../src/bind_ports.py:30
+#, python-format
+msgid ""
+"\n"
+"    SELinux has denied the $SOURCE from binding to a network port "
+"$PORT_NUMBER which does not have an SELinux type associated with it.\n"
+"    If $SOURCE should be allowed to listen on $PORT_NUMBER, use the "
+"<i>semanage</i> command to assign $PORT_NUMBER to a port type that "
+"$SOURCE_TYPE can bind to (%s). \n"
+"    <br><br>If $SOURCE is not supposed\n"
+"    to bind to $PORT_NUMBER, this could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 已经拒绝 $SOURCE 绑定到没有 SELinux 类型与之关联的网络端口 "
+"$PORT_NUMBER。\n"
+"    如果本应允许 $SOURCE_NUMBER 在这个端口侦听，请使用 <i>semanage</i> 命令"
+"为 $PORT_NUMBER 分配一个 $SOURCE_TYPE 可绑定的端口类型（%s）。\n"
+"    如果 $SOURCE_NUMBER 本不应该绑定到这个端口，这可能就是一个入侵尝试信"
+"号。\n"
+"    "
+
+#: ../src/bind_ports.py:37
+#, python-format
+msgid ""
+"\n"
+"    If you want to allow $SOURCE to bind to port $PORT_NUMBER, you can "
+"execute <br>\n"
+"    <b># semanage port -a -t PORT_TYPE -p %s $PORT_NUMBER</b>\n"
+"    <br>where PORT_TYPE is one of the following: %s.\n"
+"\n"
+"    <br><br>If this system is running as an NIS Client, turning on the "
+"allow_ypbind boolean may fix the problem.  setsebool -P allow_ypbind=1.\n"
+"    "
+msgstr ""
+"\n"
+"   如果您想要允许 $SOURCE 绑定到端口 $PORT_NUMBER，您可以执行 <br>\n"
+"    <b># semanage port -a -t PORT_TYPE -p %s $PORT_NUMBER</b>\n"
+"    <br>其中 PORT_TYPE 可为一下之一：%s.\n"
+"\n"
+"    <br><br>如果这个系统正在一作为 NIS 客户端运行，打开 allow_ypbind 布尔值可"
+"能会解决这个问题。setsebool -P allow_ypbind=1。\n"
+" "
+
+#. MATCH
+#: ../src/bind_ports.py:58 ../src/connect_ports.py:57
+#: ../src/inetd_bind_ports.py:54 ../src/user_tcp_server.py:54
+msgid "Network Ports"
+msgstr "网络端口"
+
+#: ../src/catchall_boolean.py:31
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH \"$ACCESS\" access on $TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE \"$ACCESS\" 访问设备 $TARGET_PATH。\n"
+"    "
+
+#: ../src/catchall_boolean.py:35
+msgid ""
+"\n"
+"\n"
+"    SELinux denied access requested by $SOURCE. The current boolean \n"
+"    settings do not allow this access.  If you have not setup $SOURCE to\n"
+"    require this access this may signal an intrusion attempt. If you do "
+"intend \n"
+"    this access you need to change the booleans on this system to allow \n"
+"    the access.\n"
+"    "
+msgstr ""
+"\n"
+"\n"
+"    SELinux 拒绝了 $SOURCE 请求的访问。当前的布尔值\n"
+"    设置并不允许这个访问。如果您没有将 $SOURCE 设置为请求这种访问，它可能是尝"
+"试入侵的一\n"
+"    个信号。如果您确实需要这个访问，您需要修改这个系统的布尔值以便允许这个访"
+"问。\n"
+"    "
+
+#: ../src/catchall_boolean.py:44
+msgid ""
+"\n"
+"    Confined processes can be configured to run requiring different access, "
+"SELinux provides booleans to allow you to turn on/off \n"
+"    access as needed.\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"    受限制的进程可以配置为需要在不同访问权限下运行， SELinux 提供布尔值以便允"
+"许您根据需要打开/关闭 \n"
+"    访问权限。\n"
+"\n"
+"    "
+
+#: ../src/catchall_boolean.py:68
+#, python-format
+msgid "One of the following booleans is set incorrectly: <b>%s</b>"
+msgstr "以下布尔值之一的设置不正确：<b>%s</b>"
+
+#: ../src/catchall_boolean.py:70
+msgid "Choose one of the following to allow access:<br> "
+msgstr "选择以下之一以便允许访问：<br> "
+
+#: ../src/catchall_boolean.py:76
+#, python-format
+msgid "The boolean <b>%s</b> is set incorrectly. "
+msgstr "布尔值 <b>%s</b> 设置不正确。"
+
+#: ../src/catchall_boolean.py:77
+#, python-format
+msgid "<br><br>Boolean Description:<br>%s<br><br>"
+msgstr "<br><br>布尔值描述：<br>%s<br><br>"
+
+#: ../src/catchall.py:28
+msgid "SELinux is preventing $SOURCE_PATH \"$ACCESS\" access"
+msgstr "SELinux 正在阻止 $SOURCE_PATH \"$ACCESS\" access"
+
+#: ../src/catchall.py:30
+msgid ""
+"\n"
+"\n"
+"    SELinux denied access requested by $SOURCE. It is not\n"
+"    expected that this access is required by $SOURCE and this access\n"
+"    may signal an intrusion attempt. It is also possible that the specific\n"
+"    version or configuration of the application is causing it to require\n"
+"    additional access.\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"\n"
+"    SELinux 拒绝了 $SOURCE 的访问请求。\n"
+"    $SOURCE 并不应请求这种访问，它可能是尝试入侵的一\n"
+"    个信号。也可能是应用程序的特别版本或配置导致它请求额外的访问。\n"
+"\n"
+"    "
+
+#: ../src/catchall.py:40
+msgid ""
+"\n"
+"    You can generate a local policy module to allow this\n"
+"    access - see <a href=\"http://fedora.redhat.com/docs/selinux-faq-fc5/"
+"#id2961385\">FAQ</a>\n"
+"    Please file a bug report.\n"
+"    "
+msgstr ""
+"\n"
+"    您可以创建一个本地策略模块来允许这个\n"
+"    访问 - 请查看 <a href=\"http://fedora.redhat.com/docs/selinux-faq-fc5/"
+"#id2961385\">常见问题</a>\n"
+"    请发送一个错误报告。\n"
+"    "
+
+#: ../src/connect_ports.py:26
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH from connecting to port "
+"$PORT_NUMBER.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE_PATH 连接到端口 $PORT_NUMBER。\n"
+"    "
+
+#: ../src/connect_ports.py:30
+#, python-format
+msgid ""
+"\n"
+"    SELinux has denied $SOURCE from connecting to a network port "
+"$PORT_NUMBER which does not have an SELinux type associated with it.\n"
+"    If $SOURCE should be allowed to connect on $PORT_NUMBER, use the "
+"<i>semanage</i> command to assign $PORT_NUMBER to a port type that "
+"$SOURCE_TYPE can connect to (%s). \n"
+"    <br><br>If $SOURCE is not supposed\n"
+"    to connect to $PORT_NUMBER, this could signal a intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 $SOURCE 连接到没有 SELinux 类型与之关联的网络端口 "
+"$PORT_NUMBER。\n"
+"    如果应该允许 $SOURCE 连接到 $PORT_NUMBER，请使用 <i>semanage</i> 命令为这"
+"个端口分配一个 $SOURCE_TYPE 可以连接的端口类型（%s）。   \n"
+"    如果 $SOURCE 不应该与这个\n"
+"    端口连接，这可能就是一个入侵尝试信号。\n"
+"    "
+
+#: ../src/connect_ports.py:38
+#, python-format
+msgid ""
+"\n"
+"    If you want to allow $SOURCE to connect to $PORT_NUMBER, you can execute "
+"<br>\n"
+"    <b>semanage port -a -t PORT_TYPE -p %s $PORT_NUMBER</b>\n"
+"    <br>where PORT_TYPE is one of the following: %s.\n"
+"    "
+msgstr ""
+"\n"
+"    如果您希望允许 $SOURCE 与 $PORT_NUMBER 连接，您可以执行 <br>\n"
+"    <b>semanage port -a -t PORT_TYPE -p %s $PORT_NUMBER</b>\n"
+"    <br>其中 PORT_TYPE 是一下之一：%s。\n"
+" "
+
+#: ../src/cvs_data.py:26
+msgid ""
+"\n"
+"    SELinux is preventing cvs ($SOURCE_PATH) \"$ACCESS\" access to "
+"$TARGET_PATH\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 cvs ($SOURCE_PATH) \"$ACCESS\" 访问设备 $TARGET_PATH\n"
+"    "
+
+#: ../src/cvs_data.py:30
+msgid ""
+"\n"
+"    SELinux denied cvs access to $TARGET_PATH.\n"
+"    If this is a CVS repository it needs to have a file context label of\n"
+"    cvs_data_t. If you did not intend to use $TARGET_PATH as a CVS "
+"repository\n"
+"    it could indicate either a bug or it could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了cvs 访问 $TARGET_PATH。\n"
+"    如果这是一个 CVS 程序库，它应当有一个文件上下文标记 cvs_data_t。\n"
+"    如果您并没有打算将 $TARGET_PATH 作为 CVS 程序库使用，这可能是\n"
+"    一个 Bug 或是入侵尝试的信号。   \n"
+" "
+
+#: ../src/cvs_data.py:37
+msgid ""
+"\n"
+"    You can alter the file context by executing chcon -R -t cvs_data_t "
+"'$TARGET_PATH'\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"cvs_data_t '$TARGET_PATH'\"\n"
+"    \n"
+"    "
+msgstr ""
+"\n"
+"    您可以通过执行 chcon -R -t cvs_data_t '$TARGET_PATH' 修改文件上下文。\n"
+"    您还必须修改系统中的默认文件上下文文件以便在完全重新标记后还可以保留它"
+"们。\"semanage fcontext -a -t vcs_data_t '$TARGET_PATH'\"\n"
+"    \n"
+" "
+
+#: ../src/default.py:27 ../src/prelink_mislabled.py:26
+#: ../src/public_content.py:26 ../src/qemu_blk_image.py:26
+#: ../src/qemu_file_image.py:26 ../src/restorecon.py:31
+#: ../src/rsync_data.py:26
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH \"$ACCESS\" access to $TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE_PATH \"$ACCESS\" 访问设备 $TARGET_PATH。\n"
+"    "
+
+#: ../src/default.py:31
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE \"$ACCESS\" access to files with the "
+"default label, default_t.\n"
+"    The default_t label is the default label for new directories created "
+"under the / directory.  No confined applications are allowed to access files "
+"labeled default_t.  This probably indicates a labeling problem, especially "
+"if the files being referred\n"
+"    to  are not top level directories. Any files/directories under standard "
+"system directories, /usr,\n"
+"    /var. /dev, /tmp, ..., should not be labeled with the default_t. If you "
+"create a new directory in / it will get this label.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE \"$ACCESS\" 访问具有默认标签 default_t 的文"
+"件。\n"
+"    default_t 是在 / 中新生成目录的默认标记 。任何受限制的应用程序口不可以访"
+"问被标为 default_t 的文件。这可能表示有标记问题，特别是参考的文件不\n"
+"在顶极目录中时。所有标准系统目录中的文件/目录，\n"
+"比如 /usr、/var、/dev、/tmp 等等都不应被标记为 default_t。如果您在 / 这生成新"
+"目录，它就会获得这个标记。\n"
+"    "
+
+#: ../src/default.py:38
+#, python-format
+msgid ""
+"\n"
+"    If you created a directory in / and want $SOURCE to use these files you "
+"must tell SELinux about it by changing the labels.  Execute the following "
+"commands: <br>\n"
+"    <b># semanage fcontext -t FILE_TYPE '$TARGET_PATH%s' </b>\n"
+"    <br>where FILE_TYPE is one of the following: %s.\n"
+"    <br><b># restorecon -v $TARGET_PATH</b>\n"
+"    <br><br>If the $TARGET_PATH is not in / you probably need to relabel the "
+"system. Execute: \n"
+"    <br><b>\"touch /.autorelabel; reboot\"</b>\n"
+"    "
+msgstr ""
+"\n"
+"    如果您在 / 中生成一个目录并想要 $SOURCE 使用这些文件，则您必须通过更改标"
+"记告知 SELinux。请执行一下命令：<br>\n"
+"    <b># semanage fcontext -t FILE_TYPE '$TARGET_PATH%s' </b>\n"
+"    <br>其中 FILE_TYPE 是以下之一：%s.\n"
+"    <br><b># restorecon -v $TARGET_PATH</b>\n"
+"    <br><br>如果 $TARGET_PATH 不在 / 中，您可能需要重新标记该系统。请执行：\n"
+"    <br><b>\"touch /.autorelabel; reboot\"</b>\n"
+"    "
+
+#: ../src/device.py:28
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH \"$ACCESS\" access to device "
+"$TARGET_PATH. \n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE_PATH \"$ACCESS\" 访问设备 $TARGET_PATH。\n"
+"    "
+
+#: ../src/device.py:32
+msgid ""
+"\n"
+"\n"
+"    SELinux has denied $SOURCE \"$ACCESS\" access to device $TARGET_PATH.\n"
+"    $TARGET_PATH is mislabeled, this device has the default label of the /"
+"dev directory, which should not\n"
+"    happen.  All Character and/or Block Devices should have a label.\n"
+"\n"
+"    You can attempt to change the label of the file using\n"
+"\n"
+"    restorecon -v '$TARGET_PATH'.\n"
+"\n"
+"    If this device remains labeled device_t, then this is a bug in SELinux "
+"policy.\n"
+"\n"
+"    Please file a bg report.\n"
+"\n"
+"    If you look at the other similar devices labels, ls -lZ /dev/SIMILAR, "
+"and find a type that would work for $TARGET_PATH,\n"
+"    you can use chcon -t SIMILAR_TYPE '$TARGET_PATH', If this fixes the "
+"problem, you can make this permanent by executing\n"
+"    semanage fcontext -a -t SIMILAR_TYPE '$TARGET_PATH'\n"
+"\n"
+"    If the restorecon changes the context, this indicates that the "
+"application that created the device, created it without\n"
+"    using SELinux APIs.  If you can figure out which application created the "
+"device, please file a bug report against this application.\n"
+"    \n"
+"    "
+msgstr ""
+"\n"
+"\n"
+"    SELinux 已经拒绝了 $SOURCE \"$ACCESS\" 访问设备 $TARGET_PATH。\n"
+"    $TARGET_PATH错误标记了，这个设备的默认标签是 /dev 目录的，这本不应该发"
+"生。\n"
+"    所有的字符设备和/或者块设备都应该有一个标签。\n"
+"\n"
+"    您可以使用以下命令来更改文件的标签：\n"
+"\n"
+"    restorecon -v $TARGET_PATH.\n"
+"\n"
+"    如果这个设备的标签仍被标记为 device_t，这可能是 SELinux 策略中的一个 "
+"bug。\n"
+"\n"
+"    请填写一个 <a href=\"http://bugzilla.redhat.com/bugzilla/enter_bug.cgi\">"
+"错误报告</a>\n"
+"    来反映与 selinux-policy 软件包相关的问题。\n"
+"\n"
+"    您可以查看其它相似设备的标签，ls -lZ /dev/SIMILAR，并找到一个对 "
+"$TARGET_PATH 有效的类型，\n"
+"    您可以使用 chcon -t SIMILAR_TYPE $TARGET_PATH。如果这个方法解决了这个问"
+"题，您可以执行以下命令来永久改变它：\n"
+"    semanage fcontext -a -t SIMILAR_TYPE '$TARGET_PATH'\n"
+"\n"
+"    如果 restorecon 改变了上下文，这意味着创建这个设备的应用程序在创建该设备"
+"时没有使用 SELinux API。\n"
+"    如果您可以找出哪个应用程序创建了这个设备，请填写一个 <a href=\"http://"
+"bugzilla.redhat.com/bugzilla/enter_bug.cgi\">错误报告</a>\n"
+"    来反映这个应用程序的问题。\n"
+"    \n"
+"    "
+
+#: ../src/device.py:55
+msgid ""
+"\n"
+"    Attempt restorecon -v '$TARGET_PATH' or chcon -t SIMILAR_TYPE "
+"'$TARGET_PATH'\n"
+"    "
+msgstr ""
+"\n"
+"    尝试 restorecon -v '$TARGET_PATH' 或 chcon -t SIMILAR_TYPE "
+"'$TARGET_PATH'\n"
+"    "
+
+#: ../src/execute.py:24
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH from executing $TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE_PATH 执行 $TARGET_PATH。\n"
+"    "
+
+#: ../src/execute.py:28
+msgid ""
+"\n"
+"    SELinux has denied the $SOURCE from executing $TARGET_PATH.\n"
+"    If $SOURCE is supposed to be able to execute $TARGET_PATH, this could be "
+"a labeling problem.  Most confined domains are allowed to execute files "
+"labeled bin_t.  So you could change the labeling on this file to bin_t and "
+"retry the application.  If this $SOURCE is not supposed to execute "
+"$TARGET_PATH, this could signal an intrusion attempt.   \n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 已经拒绝 $SOURCE 执行 $TARGET_PATH。\n"
+"    如果应该允许 $SOURCE 执行 $TARGET_PATH，那么这就是一个标记问题。大多数受"
+"限制的域是允许执行被标记为 bin_t 的文件。因此，您应该将这个文件的标签改为 "
+"bin_t，并重试应用程序。如果$SOURCE 不应该执行 $TARGET_PATH，那么这应该是一个"
+"入侵尝试信号。\n"
+" "
+
+#: ../src/execute.py:33
+msgid ""
+"\n"
+"    If you want to allow $SOURCE to execute $TARGET_PATH:\n"
+"    \n"
+"    chcon -t bin_t '$TARGET_PATH'\n"
+"\n"
+"    If this fix works, please update the file context on disk, with the "
+"following command:\n"
+"\n"
+"    semanage fcontext -a -t bin_t '$TARGET_PATH'\n"
+"\n"
+"    Please specify the full path to the executable, Please file a bug "
+"report\n"
+"to make sure this becomes the default labeling.      \n"
+"    "
+msgstr ""
+"\n"
+"    如果您想要允许 $SOURCE 执行 $TARGET_PATH：\n"
+"    \n"
+"    chcon -t bin_t '$TARGET_PATH'\n"
+"\n"
+"    如果这样修复有效，请使用以下命令更新磁盘中的文件上下文：\n"
+"\n"
+"    semanage fcontext -a -t bin_t '$TARGET_PATH'\n"
+"\n"
+"    请指定到可执行文件的完整路径。请向 <a\n"
+"    href=\"http://bugzilla.redhat.com/bugzilla/enter_bug.cgi\">bug\n"
+"    report</a> 提交一个错误报告以确保其成为默认标签。      \n"
+"    "
+
+#: ../src/fcron_crond.py:28
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from accessing the cron spool file.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 访问 cron spool 文件。\n"
+"    "
+
+#: ../src/fcron_crond.py:32
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from accessing the cron spool file.\n"
+"    This access is normally needed when using fcron as a cron daemon\n"
+"    (<a href=\"http://fcron.free.fr/\">http://fcron.free.fr</a>). If you are "
+"using fcron you should allow this\n"
+"    access. Otherwise this access attempt may signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 访问 cron 缓冲池文件。当使用 fcron \n"
+"    作为 cron 守护进程时通常会需要这个访问（<a href=\"http://fcron.free.fr/"
+"\">http://fcron.free.fr</a>）。\n"
+"    如果您正在使用 fcron ，您应当允许这个访问。否则这个访问尝试可能是入侵尝试"
+"的信号。\n"
+"   "
+
+#: ../src/fcron_crond.py:56
+msgid "CRON"
+msgstr "CRON"
+
+#: ../src/file.py:26
+msgid ""
+"\n"
+"    SELinux is preventing access to files with the label, file_t.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止访问使用file_t标签的文件。\n"
+"    "
+
+#: ../src/file.py:30
+msgid ""
+"\n"
+"    SELinux permission checks on files labeled file_t are being\n"
+"    denied.  file_t is the context the SELinux kernel gives to files\n"
+"    that do not have a label. This indicates a serious labeling\n"
+"    problem. No files on an SELinux box should ever be labeled file_t.\n"
+"    If you have just added a new disk drive to the system you can\n"
+"    relabel it using the restorecon command.  Otherwise you should\n"
+"    relabel the entire file system.\n"
+"    "
+msgstr ""
+"\n"
+"    对标记为 file_t 的文件的 SELinux 权限检查被拒绝。 file_t 是 \n"
+"    SELinux 内核给没有标记的文件的上下文。这说明有严重的标记\n"
+"    问题。在 SELinux 系统中没有文件会被标记为 file_t 。如果您刚\n"
+"    给系统添加了一个新的磁盘驱动器，您可以使用 restorecon 命\n"
+"    令重新标记它。否则您应当重新标记整个系统的文件。\n"
+"    "
+
+#: ../src/file.py:40
+msgid ""
+"\n"
+"    You can execute the following command as root to relabel your\n"
+"    computer system: \"touch /.autorelabel; reboot\"\n"
+"    "
+msgstr ""
+"\n"
+"    您可以以 root 身份执行以下命令来重新设置您计算机系统的标签：\n"
+"    \"touch /.autorelabel; reboot\"\n"
+"    "
+
+#: ../src/filesystem_associate.py:26
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH from creating a file with a context "
+"of $SOURCE_TYPE on a filesystem.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE_PATH 在文件系统中生成一个上下文为 $SOURCE_TYPE "
+"的文件。\n"
+"    "
+
+#: ../src/filesystem_associate.py:30
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE from creating a file with a context of "
+"$SOURCE_TYPE on a filesystem.\n"
+"    Usually this happens when you ask the cp command to maintain the context "
+"of a file when\n"
+"    copying between file systems, \"cp -a\" for example.  Not all file "
+"contexts should be maintained\n"
+"    between the file systems.  For example, a read-only file type like "
+"iso9660_t should not be placed\n"
+"    on a r/w system.  \"cp -P\" might be a better solution, as this will "
+"adopt the default file context\n"
+"    for the destination.  \n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE 在文件系统中生成一个上下文为 $SOURCE_TYPE 的文"
+"件。\n"
+"    这通常会在您让 cp 命令在两个文件系统间进行复制操作时，比如\"cp -a\"  保留"
+"文件上下文时发生。\n"
+"    不是所有的文件上下文都应该保留在不同的文件系统中。\n"
+"    例如：只读文件 iso9660_t 就不应该放在 r/w 文件系统中。\n"
+"    \"cp -P\" 可能是更好的解决方案，因为这样可以为目的地文件使用默认文件上下"
+"文。"
+
+#: ../src/filesystem_associate.py:39
+msgid ""
+"\n"
+"    Use a command like \"cp -P\" to preserve all permissions except SELinux "
+"context.\n"
+"    "
+msgstr ""
+"\n"
+"    使用类似 \"cp -P\" 的命令保留除 SELinux 上下文外的所有权限。"
+
+#: ../src/firefox.py:26
+msgid ""
+"\n"
+"    SELinux is preventing firefox from making its memory writable and "
+"executable.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE 使其内存可写可执行。\n"
+"    "
+
+#: ../src/firefox.py:30
+msgid ""
+"\n"
+"    The $SOURCE application attempted to change the access protection\n"
+"    of memory (e.g., allocated using malloc).  This is a potential\n"
+"    security problem.  Firefox is probably not the problem here ,but one of "
+"its plugins.  You could remove the plugin and the app would no longer "
+"require the access.  If you figure out which plugin is causing the access "
+"request, please open a bug report on the plugin.\n"
+"    "
+msgstr ""
+"\n"
+"    $SOURCE 应用程序试图修改内存访问保护\n"
+"    (e.g., allocated using malloc)。这是个潜在的\n"
+"    安全问题。问题可能不在于Firefox，而在于它的某个插件。你可以移除该插件，"
+"firefox就不会再请求这样的访问。如果你找出了引起访问请求的插件，请根据该插件提"
+"交一个错误报告。\n"
+"    "
+
+#: ../src/firefox.py:36
+msgid ""
+"\n"
+"There are two ways to fix this problem, you can install the nsspluginwrapper "
+"package, which will cause firefox to run its plugins under a separate "
+"process.  This process will allow the execmem access.  This is the safest "
+"choice.  You could also turn off the allow_unconfined_nsplugin_transition "
+"boolean.  \n"
+"<br>\n"
+"setsebool -P allow_unconfined_nsplugin_transition=0\n"
+"</br>\n"
+"    "
+msgstr ""
+"\n"
+"有2个方法修复这个问题：您可以安装nsspluginwrapper包，它将使firefox在独立进程"
+"中运行插件。该进程将允许可执行内存的访问。这是最安全的选择。您也可以关闭"
+"allow_unconfined_nsplugin_transition逻辑。\n"
+"<br>\n"
+"setsebool -P allow_unconfined_nsplugin_transition=0\n"
+"</br>\n"
+"    "
+
+#: ../src/ftpd_is_daemon.py:28
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from correctly running as a daemon.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 后台作为守护进程正确运行。\n"
+"    "
+
+#: ../src/ftpd_is_daemon.py:32
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from correctly running as a daemon.\n"
+"    FTP servers can be configured to either run through xinetd or as a\n"
+"    stand-alone daemon. Each configuration requires slightly different\n"
+"    access. If you have configured your FTP server to run as a daemon\n"
+"    you should allow this access. Otherwise this may signal an intrusion\n"
+"    attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 正确地作为守护进程运行。可将 FTP 服\n"
+"    务器配置为通过 xinetd 运行或做为独立的守护进程。每种配置需\n"
+"    要的访问稍有不同问。如果您将您的 FTP 服务器配置成作为守护进程运行，\n"
+"    您应当允许这个访问。否则这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/ftp_home_dir.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the ftp daemon from reading users home directories "
+"($TARGET_PATH).\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 ftp 在后台读取用户的主目录 ($TARGET_PATH).\n"
+"    "
+
+#: ../src/ftp_home_dir.py:30
+msgid ""
+"\n"
+"    SELinux has denied the ftp daemon access to users home directories\n"
+"    ($TARGET_PATH). Someone is attempting to login via your ftp daemon\n"
+"    to a user account. If you only setup ftp to allow anonymous ftp,\n"
+"    this could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 ftp 守护进程访问用户主目录 ($TARGET_PATH) 。有\n"
+"    人试图通过您的 ftp 守护进程登录一个用户帐户。如果您只将您的 ftp 设置\n"
+"    成允许匿名访问，这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/ftp_home_dir.py:37
+msgid ""
+"\n"
+"    If you want ftp to allow users access to their home directories\n"
+"    you need to turn on the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 ftp 允许用户访问他们的主目录，您需要开启\n"
+"    $BOOLEAN 布尔值： \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/global_ssp.py:28
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from reading from the urandom device.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 从 urandom 设备读取位器。\n"
+"    "
+
+#: ../src/global_ssp.py:32
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from reading from the urandom device.\n"
+"    This access should be allowed for individual applications, but there\n"
+"    are situations where all applications require the access (for example,\n"
+"    when ProPolice/SSP stack smashing protection is used).  Allowing this\n"
+"    access may allow malicious applications to drain the kernel entropy\n"
+"    pool. This can compromise the ability of some software that is\n"
+"    dependent on high quality random numbers (e.g., ssh-keygen) to operate\n"
+"    effectively. The risk of this type of attack is relatively low.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 读取 urandom 设备。对单独的应用程序，应该允许这\n"
+"    个访问，但也存在所有程序都请求访问的情况（如：当启用 ProPolice/SSP\n"
+"    栈破坏保护（stack smashing protection）时）。允许该访问可能会让\n"
+"    恶意程序耗尽内核的熵池（entropy pool） 。这会危害一些依赖高质量随机数以\n"
+"    有效运行的程序的功能（如：ssh-keygen）。这类入侵的风险相对较低。\n"
+"    "
+
+#: ../src/home_tmp_bad_labels.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the $SOURCE_PATH from using potentially mislabeled "
+"files ($TARGET_PATH).\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE_PATH 使用可能错误标记的文件（$TARGET_PATH）。\n"
+"    "
+
+#: ../src/home_tmp_bad_labels.py:30
+msgid ""
+"\n"
+"    SELinux has denied $SOURCE access to potentially\n"
+"    mislabeled file(s) ($TARGET_PATH).  This means that SELinux will not\n"
+"    allow $SOURCE to use these files.  It is common for users to edit\n"
+"    files in their home directory or tmp directories and then move\n"
+"    (mv) them to system directories.  The problem is that the files \n"
+"    end up with the wrong file context which confined applications are not "
+"allowed to access.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 $SOURCE 访问可能错误标记的文件（$TARGET_PATH）。\n"
+"    这意味着 SELinux 将不允许 $SOURCE 使用这些文件。用户通常会在他们的\n"
+"    主目录或 tmp 目录编辑一个文件然后把它们移动（mv）到系统目录。这样做的问题"
+"是\n"
+"    这些文件将会拥有错误的文件上下文并使得受限的应用程序不被允许访问它们。\n"
+"    "
+
+#: ../src/home_tmp_bad_labels.py:39
+msgid ""
+"\n"
+"    If you want $SOURCE to access this files, you need to\n"
+"    relabel them using restorecon -v '$TARGET_PATH'.  You might want to\n"
+"    relabel the entire directory using restorecon -R -v '$TARGET_DIR'.\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 $SOURCE 访问这个文件，您需要使用 restorecon -v '$TARGET_PATH' "
+"重\n"
+"    新标记它。您或许想要使用 restorecon -R -v '$TARGET_DIR' 重新标记整个目"
+"录。\n"
+"    "
+
+#: ../src/httpd_bad_labels.py:26
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH from using potentially mislabeled "
+"files $TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE_PATH 使用可能错误标记的文件（$TARGET_PATH）。\n"
+"    "
+
+#: ../src/httpd_bad_labels.py:30
+#, python-format
+msgid ""
+"\n"
+"    SELinux has denied the $SOURCE access to potentially\n"
+"    mislabeled files $TARGET_PATH.  This means that SELinux will not\n"
+"    allow httpd to use these files. If httpd should be allowed this access "
+"to these files you should change the file context to one of the following "
+"types, %s.\n"
+"    Many third party apps install html files\n"
+"    in directories that SELinux policy cannot predict.  These directories\n"
+"    have to be labeled with a file context which httpd can access.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 $SOURCE 对可能错误标记文件 $TARGET_PATH  \n"
+"    的访问。这意味着 SELinux 将不允许 httpd 使用这些文件。如果应该允许 "
+"httpd \n"
+"    访问这些文件，那么您应该将该文件的上下文更改为以下类型 %s。\n"
+"    许多第三方应用程\n"
+"    序将 html 文件安装在 SELinux 策略无法预知的目录。这些目录必须以一个 \n"
+"    httpd 能访问的文件上下文被标记。\n"
+"    "
+
+#: ../src/httpd_bad_labels.py:39
+#, python-format
+msgid ""
+"\n"
+"    If you want to change the file context of $TARGET_PATH so that the "
+"httpd\n"
+"    daemon can access it, you need to execute it using\n"
+"    semanage fcontext -a -t FILE_TYPE '$TARGET_PATH'.  \n"
+"    <br><br>where FILE_TYPE is one of the following: %s. \n"
+"\n"
+"You can look at the httpd_selinux man page for additional information.\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想要改变 $TARGET_PATH 的文件上下文以便 httpd 守护进程能访问\n"
+"    它，您需要使用 semanage fcontext -a -t FILE_TYPE '$TARGET_PATH' 执行"
+"它，\n"
+"    <br><br>其中 FILE_TYPE 是以下类型之一：%s 您可以\n"
+"    查看 httpd_selinux man page 来获得更多的信息。\n"
+"    "
+
+#: ../src/httpd_builtin_scripting.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the http daemon from using built-in scripting.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止http后台使用内置的脚本。\n"
+"    "
+
+#: ../src/httpd_builtin_scripting.py:30
+msgid ""
+"\n"
+"    SELinux has denied the http daemon from using built-in scripting.\n"
+"    This means that SELinux will not allow httpd to use loadable\n"
+"    modules to run scripts internally.  If you did not setup httpd to\n"
+"    use built-in scripting, this may signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 http 守护进程使用内置程序。这意味着 SELinux \n"
+"    将不允许 httpd 使用可加载模块在内部运行脚本。如果您没有将 httpd 设置 \n"
+"    为使用内置程序，这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/httpd_builtin_scripting.py:37
+msgid ""
+"\n"
+"    If you want the http daemon to use built in scripting you need to\n"
+"    enable the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让http在后台使用内置的脚本，您需要开启$BOOLEAN布尔值：\n"
+"     \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/httpd_can_network_connect_db.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the http daemon from connecting to a database.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止http在后台连接数据库。\n"
+"    "
+
+#: ../src/httpd_can_network_connect_db.py:30
+msgid ""
+"\n"
+"    SELinux has denied the http daemon from connecting to a database. An\n"
+"    httpd script is trying to connect to a database port. If you did not\n"
+"    setup httpd to allow database connections, this could signal an "
+"intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 http 守护进程连接到数据库。一个 httpd 脚本正试图连接到\n"
+"    一个数据库端口。如果您没有将 httpd 设置为允许数据库连接，这可能是入侵\n"
+"    尝试的信号。\n"
+"    "
+
+#: ../src/httpd_can_network_connect_db.py:36
+msgid ""
+"\n"
+"    If you want httpd to allow database connections you need to turn on the\n"
+"    $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想允许httpd连接数据库，您需要开启$BOOLEAN布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/httpd_can_network_connect.py:29
+msgid ""
+"\n"
+"    SELinux is preventing the http daemon from connecting to network port "
+"$PORT_NUMBER"
+msgstr ""
+"\n"
+"    SELinux 正在阻止 http 守护进程连接到网络端口 $PORT_NUMBER"
+
+#: ../src/httpd_can_network_connect.py:32
+msgid ""
+"\n"
+"    SELinux has denied the http daemon from connecting to $PORT_NUMBER. An\n"
+"    httpd script is trying to make a network connection to a remote port. If "
+"you\n"
+"    did not setup httpd to make network connections, this could signal an "
+"intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 http 守护进程连接到端口 $PORT_NUMBER 。一个 httpd 脚\n"
+"    本正试图进行到一个远程端口的网络连接。如果您\n"
+"    没有将 httpd 设置为使用网络\n"
+"    连接，这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/httpd_can_network_connect.py:38
+msgid ""
+"\n"
+"    If you want httpd to connect to network ports you need to turn on the\n"
+"    httpd_can_network_network_connect boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想允许httpd连接网络端口，您需要\n"
+"    开启httpd_can_network_connect 布尔值：\n"
+"     \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/httpd_can_network_relay.py:28
+msgid ""
+"\n"
+"    SELinux is preventing the http daemon from connecting to itself or the "
+"relay ports\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 http 在后台连接他自己的或者中继端口\n"
+"    "
+
+#: ../src/httpd_can_network_relay.py:32
+msgid ""
+"\n"
+"    SELinux has denied the http daemon from connecting to itself or\n"
+"    the relay ports. An httpd script is trying to make a network "
+"connection \n"
+"    to an http/ftp port. If you did not setup httpd to make network\n"
+"    connections, this could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 http 守护进程连接到自身或中继端口（relay ports）。\n"
+"    一个 httpd 脚本正试图连接到 http/ftp 端口。如果您没有将\n"
+"    httpd 设置为使用网络连接，这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/httpd_can_network_relay.py:39
+msgid ""
+"\n"
+"    If you want httpd to connect to httpd/ftp ports you need to turn\n"
+"    on the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想允许httpd连接 httpd/ftp 端口，您需要开启$BOOLEAN布尔值：\n"
+"     \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/httpd_can_sendmail.py:27
+msgid ""
+"\n"
+"    SELinux is preventing the http daemon from sending mail.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 http 守护进程发送电子邮件。\n"
+"    "
+
+#: ../src/httpd_can_sendmail.py:31
+msgid ""
+"\n"
+"    SELinux has denied the http daemon from sending mail. An\n"
+"    httpd script is trying to connect to a mail port or execute the \n"
+"    sendmail command. If you did not setup httpd to sendmail, this could \n"
+"    signal a intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 http 守护进程发送电子邮件。一个 httpd 脚本正试图连接到\n"
+"    一个电子邮件端口或者执行 sendmail 命令。如果您没有将 httpd 设置发送的足"
+"可，这可能是入侵\n"
+"    尝试的信号。\n"
+"    "
+
+#: ../src/httpd_can_sendmail.py:38
+msgid ""
+"\n"
+"    If you want httpd to send mail you need to turn on the\n"
+"    $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想允许 httpd 发送电子邮件，您需要开启 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/httpd_enable_cgi.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the http daemon from executing cgi scripts.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 http 守护进程执行 cgi 脚本。\n"
+"    "
+
+#: ../src/httpd_enable_cgi.py:30
+msgid ""
+"\n"
+"    SELinux has denied the http daemon from executing a cgi\n"
+"    script. httpd can be setup in a locked down mode where cgi scripts\n"
+"    are not allowed to be executed.  If the httpd server has been setup\n"
+"    to not execute cgi scripts, this could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 http 守护进程执行 cgi 脚本。可将 httpd 设\n"
+"    置为一种不允许执行 cgi 脚本的锁定模式。如果已经将 httpd 服务器设\n"
+"    置为不执行 cgi 脚本，这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/httpd_enable_cgi.py:37
+msgid ""
+"\n"
+"    If you want httpd to be able to run cgi scripts, you need to\n"
+"    turn on the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想使 httpd 可以运行 cgi 脚本，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P  $BOOLEAN=1\"\n"
+"\n"
+"    "
+
+#: ../src/httpd_enable_ftp_server.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the http daemon from acting as a ftp server.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 http 守护进程成为 ftp 服务器。\n"
+"    "
+
+#: ../src/httpd_enable_ftp_server.py:30
+msgid ""
+"\n"
+"    SELinux has denied the http daemon from listening for incoming\n"
+"    connections on the ftp port.  This means that SELinux will not\n"
+"    allow httpd to run as a ftp server.  If you did not setup httpd to\n"
+"    run as a ftp server, this may signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 http 守护进程侦听 ftp 端口进入的连接。这意味\n"
+"    着 SELinux 将不允许 httpd 作为 ftp 服务器运行。如果您没有将 httpd 设置为"
+"做\n"
+"    为 ftp 服务器运行，这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/httpd_enable_ftp_server.py:37
+msgid ""
+"    If you want the http daemon to listen on the ftp port, you need to\n"
+"    enable the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"    如果您想让 http 守护进程监听 ftp 端口，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/httpd_enable_homedirs.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the http daemon from reading users' home "
+"directories.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 http 守护进程读取用户主目录。\n"
+"    "
+
+#: ../src/httpd_enable_homedirs.py:30
+msgid ""
+"\n"
+"    SELinux has denied the http daemon access to users' home\n"
+"    directories. Someone is attempting to access your home directories\n"
+"    via your http daemon. If you have not setup httpd to share home\n"
+"    directories, this probably signals an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 http 守护进程访问用户主目录。有人正试图通过您\n"
+"    的 http 守护进程访问您的主目录。如果您没有设置 httpd 共享主目录，这很\n"
+"    可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/httpd_enable_homedirs.py:37
+msgid ""
+"\n"
+"    If you want the http daemon to share home directories you need to\n"
+"    turn on the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 http 守护进程共享主目录，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/httpd_ssi_exec.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the http daemon from executing a shell script"
+msgstr ""
+"\n"
+"    SELinux 正在阻止 http 守护进程执行 shell 脚本"
+
+#: ../src/httpd_ssi_exec.py:29
+msgid ""
+"\n"
+"    SELinux has denied the http daemon from executing a shell\n"
+"    script. Ordinarily, httpd requires that all scripts (CGIs) be\n"
+"    labeled httpd_sys_script_exec_t.  If httpd should not be running\n"
+"    this shell script, this could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 http 守护进程执行 shell 脚本。通常情况下， http 要\n"
+"    求将所有的脚本 (CGI) 标记为 httpd_sys_script_exec_t 。如果 httpd 不应\n"
+"    当执行这个 shell 脚本，这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/httpd_ssi_exec.py:36
+msgid ""
+"\n"
+"    If you want httpd to be able to run a particular shell script,\n"
+"    you can label it with chcon -t httpd_sys_script_exec_t SCRIPTFILE.  If "
+"you\n"
+"    want httpd to be able execute any shell script you need to turn on\n"
+"    the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 httpd 守护进程能执行某个特定的 shell 脚本，您可以用\n"
+"    chcon -t httpd_sys_script_exec_t SCRIPTFILE 来标记它。如果您想让 httpd "
+"能\n"
+"    执行任意的 shell 脚本，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/httpd_tty_comm.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the http daemon from communicating with the "
+"terminal.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 http 守护进程同终端通信。\n"
+"    "
+
+#: ../src/httpd_tty_comm.py:30
+msgid ""
+"\n"
+"    SELinux is not allowing the http daemon to communicate with the\n"
+"    terminal.  Most daemons do not need to communicate\n"
+"    with the terminal.  httpd can be setup to require information\n"
+"    during the boot process which would require this access.  If you\n"
+"    did not setup httpd to require access to the terminal, this may\n"
+"    signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 不允许 http 守护进程与终端沟通。大多数服务守护进程都\n"
+"    不需要与终端沟通。可将 httpd 设置为在启动过程中需要一些必须访\n"
+"    问终端来得到的信息。如果您没有将 httpd 设置为需要访问终端，这可能是入\n"
+"    侵尝试的信号。\n"
+"    "
+
+#: ../src/httpd_tty_comm.py:39
+msgid ""
+"\n"
+"    If you want the http daemon to be able to access the terminal, you\n"
+"    must set the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 http 守护进程能访问终端，您必须设置 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/httpd_unified.py:28
+msgid ""
+"\n"
+"    SELinux prevented httpd $ACCESS access to http files.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 http $ACCESS 对 http 文件的访问。\n"
+"    "
+
+#: ../src/httpd_unified.py:32
+msgid ""
+"\n"
+"    SELinux prevented httpd $ACCESS access to http files.\n"
+"\n"
+"    Ordinarily httpd is allowed full access to all files labeled with http "
+"file\n"
+"    context.  This machine has a tightened security policy with the "
+"$BOOLEAN\n"
+"    turned off, this requires explicit labeling of all files.  If a file is\n"
+"    a cgi script it needs to be labeled with httpd_TYPE_script_exec_t in "
+"order\n"
+"    to be executed.  If it is read-only content, it needs to be labeled\n"
+"    httpd_TYPE_content_t, it is writable content. it needs to be labeled\n"
+"    httpd_TYPE_content_rw_t or httpd_TYPE_content_ra_t. You can use the\n"
+"    chcon command to change these contexts.  Please refer to the man page\n"
+"    \"man httpd_selinux\" for more information on setting up httpd and "
+"SELinux.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 httpd $ACCESS 对 http 文件的访问。\n"
+"\n"
+"   通常情况下，httpd 允许对所有标记为 http 文件上下文的文件的全部访问权限。这"
+"台机\n"
+"   器关闭了 $BOOLEAN 布尔值，从而具有更严格的安全策略。这要求对所有文件显式"
+"地\n"
+"   作标记。如果文件是一个 cgi 脚本，它必须被标记为 httpd_TYPE_script_exec_t "
+"方\n"
+"   可执行。如果是只读内容，它必须被标记为 httpd_TYPE_content_t 。如果是可写入"
+"内\n"
+"   容，它必须被标记为 httpd_TYPE_script_rw_t 或 httpd_TYPE_script_ra_t 。您可"
+"以\n"
+"   使用 chcon 命令来改变这些上下文。请参考 man 页“man httpd_selinux”来了解更"
+"多\n"
+"   搭建 httpd 和 SELinux 的设置信息。\n"
+"    "
+
+#: ../src/httpd_write_content.py:28
+msgid ""
+"\n"
+"    SELinux prevented httpd ($SOURCE_PATH) $ACCESS access to $TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止httpd ($SOURCE_PATH) \"$ACCESS\" 访问设备 "
+"$TARGET_PATH。\n"
+"    "
+
+#: ../src/httpd_write_content.py:32
+msgid ""
+"\n"
+"    SELinux prevented httpd $ACCESS access to $TARGET_PATH.\n"
+"\n"
+"    httpd scripts are not allowed to write to content without explicit \n"
+"    labeling of all files.  If $TARGET_PATH is writable content. it needs \n"
+"    to be labeled httpd_sys_content_rw_t or if all you need is append you "
+"can label it httpd_sys_content_ra_t.   Please refer to 'man httpd_selinux' "
+"for more information on setting up httpd and selinux.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux阻止了 httpd $ACCESS 访问 $TARGET_PATH。\n"
+"\n"
+"   httpd 脚本不允许对没有被显式标记的所有文件的内容作写操作。如果 "
+"$TARGET_PATH 是可改写内容，它必须被标记为 httpd_sys_content_rw_t，或者如果您"
+"要的只是添加内容，可以把它标记为 httpd_sys_content_ra_t。请参考“man "
+"httpd_selinux” 来了解更多搭建 httpd 和 selinux 的信息。"
+
+#: ../src/httpd_write_content.py:40
+msgid ""
+"\n"
+"    You can alter the file context by executing chcon -R -t "
+"httpd_sys_content_rw_t '$TARGET_PATH'\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"httpd_sys_content_rw_t '$TARGET_PATH'\"\n"
+"    "
+msgstr ""
+"\n"
+"    您可以执行 chcon -R -t httpd_sys_content_rw_t '$TARGET_PATH' 来改变文件上"
+"下文。\n"
+"    您还必须在系统中更改默认文件上下文文件以便在完全重新标记后保留它们，执"
+"行\n"
+"“semanage fcontext -a -t httpd_sys_content_rw_t '$TARGET_PATH'”"
+
+#: ../src/httpd_use_cifs.py:28
+msgid ""
+"\n"
+"    SELinux prevented the http daemon from $ACCESS files stored on a CIFS "
+"filesytem.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 http 守护进程 $ACCESS 保存在 CIFS 文件系统中的文件。\n"
+"    "
+
+#: ../src/httpd_use_cifs.py:32
+msgid ""
+"\n"
+"    SELinux prevented the http daemon from $ACCESS files stored on a CIFS "
+"filesystem.\n"
+"    CIFS (Common Internet File System) is a network filesystem commonly used "
+"on Windows / Linux\n"
+"    systems.\n"
+"    \n"
+"    The http daemon attempted to read one or more files or directories from\n"
+"    a mounted filesystem of this type.  As CIFS filesystems do not support\n"
+"    fine-grained SELinux labeling, all files and directories in the\n"
+"    filesystem will have the same security context.\n"
+"    \n"
+"    If you have not configured the http daemon to read files from a CIFS "
+"filesystem\n"
+"    this access attempt could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了http 守护进程 $ACCESS 保存在 CIFS 文件系统中的文件。\n"
+"    CIFS（通用网络文件系统）是一个通常在 Windows / Linux 系统中使用的网络文件"
+"系统。\n"
+"    \n"
+"    http 守护进程后台试图从已经挂载的这种类型的文件操作系统中读取一个或多个文"
+"件或目录。\n"
+"    由于 CIFS 文件系统不支持精细 SELinux 标记，所以在此文件系统中的所有文件和"
+"目录将拥有相同的安全性上下文。\n"
+"    \n"
+"    如果您没有将 http 守护进程配置为从 CIFS 文件系统中读取文件，这个访问就可"
+"能是一个 侵尝试信号。\n"
+"    "
+
+#: ../src/httpd_use_nfs.py:28
+msgid ""
+"\n"
+"    SELinux prevented the http daemon from $ACCESS files stored on a NFS "
+"filesytem.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 ftp 守护进程 $ACCESS 保存在 NFS 文件系统中的文件。\n"
+"    "
+
+#: ../src/httpd_use_nfs.py:32
+msgid ""
+"\n"
+"    SELinux prevented the http daemon from $ACCESS files stored on a NFS "
+"filesystem.\n"
+"    NFS (Network Filesystem) is a network filesystem commonly used on Unix / "
+"Linux\n"
+"    systems.\n"
+"    \n"
+"    The http daemon attempted to read one or more files or directories from\n"
+"    a mounted filesystem of this type.  As NFS filesystems do not support\n"
+"    fine-grained SELinux labeling, all files and directories in the\n"
+"    filesystem will have the same security context.\n"
+"    \n"
+"    If you have not configured the http daemon to read files from a NFS "
+"filesystem\n"
+"    this access attempt could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 ftp 守护进程 $ACCESS 保存在 NFS 文件系统中的文件。\n"
+"    NFS（网络文件系统）是一个通常在 Unix / Linux 中使用的网络文件系统。\n"
+"    \n"
+"    http 守护进程试图从已经挂接的这种类型的文件操作系统中读取一个或多个文件或"
+"目录。\n"
+"    由于 NFS 文件系统不支持 fine-grained SELinux 标志，所以此文件系统中的所有"
+"文件和目录将拥有相同的安全上下文。\n"
+"    \n"
+"    如果您没有将 http 守护进程配置为从 NFS 文件系统中读取文件，这个访问被记为"
+"一次入侵尝试信号。\n"
+"    "
+
+#: ../src/inetd_bind_ports.py:30
+msgid ""
+"\n"
+"    SELinux has denied the $SOURCE from binding to a network port "
+"$PORT_NUMBER which does not have an SELinux type associated with it.\n"
+"    If $SOURCE is supposed to be allowed to listen on this port, you can use "
+"the semanage command to add this port to a inetd_child_port_t type.   If you "
+"think this is the default please file a bug report against the selinux-"
+"policy package.\n"
+"If $SOURCE is not supposed\n"
+"    to bind to this port, this could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 已经拒绝 $SOURCE 绑定到没有相关 SELinux 类型的网络端口 "
+"$PORT_NUMBER。\n"
+"    如果本应允许 $SOURCE 在这个端口侦听，您可以使用 semanage 命令将这个端口添"
+"加为 inetd_child_port_t 类型。如果您认为这是默认设置，请根据 selinux-policy "
+"软件包在 <a href=\"http://bugzilla.redhat.com/bugzilla/enter_bug.cgi\">bug "
+"report</a> 提交一个文件。\n"
+"    如果 $SOURCE 本不应该绑定到这个端口，这可能意味着有人在试图侵入网络。\n"
+"    "
+
+#: ../src/inetd_bind_ports.py:37
+msgid ""
+"\n"
+"    If you want to allow $SOURCE to bind to this port\n"
+"    semanage port -a -t inetd_child_port_t -p PROTOCOL $PORT_NUMBER\n"
+"    Where PROTOCOL is tcp or udp.\n"
+"    "
+msgstr ""
+"\n"
+"   如果您要允许 $SOURCE 绑定到这个端口，\n"
+"   请使用 semanage port -a -t PROTOCOL $PORT_NUMBER\n"
+"   其中 PROTOCOL 是 tcp 或者 udp。\n"
+"    "
+
+#: ../src/kernel_modules.py:28
+msgid ""
+"\n"
+"    Your system may be seriously compromised! $SOURCE_PATH tried to modify "
+"kernel configuration.\n"
+"    "
+msgstr ""
+"\n"
+"    您的系统可能被严重破坏！ $SOURCE_PATH 试图修改内核配置。\n"
+"    "
+
+#: ../src/kernel_modules.py:32
+msgid ""
+"\n"
+"    SELinux has prevented $SOURCE from modifying $TARGET.  This denial \n"
+"    indicates $SOURCE was trying to modify the way the kernel runs or to \n"
+"    actually insert code into the kernel. All applications that need this \n"
+"    access should have already had policy written for them.  If a "
+"compromised \n"
+"    application tries to modify the kernel this AVC will be generated. This "
+"is a \n"
+"    serious issue. Your system may very well be compromised.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 已不允许 $SOURCE 修改 $TARGET。\n"
+"    这个拒绝意味着 $SOURCE 曾试图修改内核运行的方式\n"
+"    或者在内核这插入编码。所有需要这个访问\n"
+"    的程序都应该在其中写入了策略。如果被破坏的\n"
+"    程序试图修改内核就会生成\n"
+"    这个 AVC。这是一个严重的问题，您的系统可能被严重破坏。\n"
+"    "
+
+#: ../src/leaks.py:26
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH access to a leaked $TARGET_PATH file "
+"descriptor.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE 访问泄漏的文件描述符 $TARGET_PATH。\n"
+"    "
+
+#: ../src/leaks.py:30
+msgid ""
+"\n"
+"    SELinux denied access requested by the $SOURCE command. It looks like "
+"this is either a leaked descriptor or $SOURCE output was redirected to a "
+"file it is not allowed to access.  Leaks usually can be ignored since "
+"SELinux is just closing the leak and reporting the error.  The application "
+"does not use the descriptor, so it will run properly.  If this is a "
+"redirection, you will not get output in the $TARGET_PATH.  You should "
+"generate a bugzilla on selinux-policy, and it will get routed to the "
+"appropriate package.  You can safely ignore this avc.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 $SOURCE 命令的请求。看起来可能是描述符泄露，也可能是将 "
+"$SOURCE 输出重新指向允许访问的文件。泄露一般可忽略，因为 SELinux 关闭泄露并报"
+"告了这个错误。该程序不使用描述符，因此可正常运行。如果这是一个重新指向，您在 "
+"$TARGET_PATH 中就不会看到输出。您应该可以根据 selinux-policy 生成一个 "
+"bugzilla，并被指向适当的软件包。您可以忽略这个 avc。\n"
+"    "
+
+#: ../src/leaks.py:34
+msgid ""
+"\n"
+"    You can generate a local policy module to allow this\n"
+"    access - see <a href=\"http://fedora.redhat.com/docs/selinux-faq-fc5/"
+"#id2961385\">FAQ</a>\n"
+"    "
+msgstr ""
+"\n"
+"    您可以创建一个本地策略模块来允许这个\n"
+"    访问 - 请查看 <a href=\"http://fedora.redhat.com/docs/selinux-faq-fc5/"
+"#id2961385\">常见问题</a>\n"
+"    "
+
+#: ../src/mmap_zero.py:28
+msgid ""
+"\n"
+"    Your system may be seriously compromised! $SOURCE_PATH attempted to mmap "
+"low kernel memory.\n"
+"    "
+msgstr ""
+"\n"
+"    您的系统可能被严重破坏！ $SOURCE_PATH 试图mmap低内核内存。\n"
+"    "
+
+#: ../src/mmap_zero.py:32
+msgid ""
+"\n"
+"    SELinux has denied the $SOURCE the ability to mmap low area of the "
+"kernel \n"
+"    address space.  The ability to mmap a low area of the address space, "
+"as \n"
+"    configured by /proc/sys/kernel/mmap_min_addr.  Preventing such "
+"mappings \n"
+"    helps protect against exploiting null deref bugs in the kernel. All \n"
+"    applications that need this access should have already had policy "
+"written \n"
+"    for them.  If a compromised application tries modify the kernel this "
+"AVC \n"
+"    would be generated. This is a serious issue. Your system may very well "
+"be \n"
+"    compromised.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 不允许 $SOURCE mmap 内核地址的低区域。mmap 地址空间低区域的功能是"
+"由配置 /proc/sys/kernel/mmap_min_addr 提供的。阻止这类映射可帮助保护内核空 "
+"deref bug 的问题。所有需要这个访问的程序都应该已被写入相应的策略。如果破坏的"
+"程序试图修改该内核则会生成这个 AVC。这是一个严重问题，您的系统可能被严重破"
+"坏。\n"
+"    "
+
+#: ../src/mounton.py:28
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from mounting on the file or directory\n"
+"    \"$TARGET_PATH\" (type \"$TARGET_TYPE\").\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 挂载文件或者目录\n"
+"    \"$TARGET_PATH\" (type \"$TARGET_TYPE\")。\n"
+"    "
+
+#: ../src/mounton.py:33
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from mounting a filesystem on the file\n"
+"    or directory \"$TARGET_PATH\" of type \"$TARGET_TYPE\". By default\n"
+"    SELinux limits the mounting of filesystems to only some files or\n"
+"    directories (those with types that have the mountpoint attribute). The\n"
+"    type \"$TARGET_TYPE\" does not have this attribute. You can change the \n"
+"    label of the file or directory.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE 在类型为 \"$TARGET_TYPE\" 的文件\n"
+"    或目录 \"$TARGET_PATH\" 中挂载文件系统。默认情况下 SELinux 限制\n"
+"    文件系统只能挂载在一些文件或目录上（那些具有含挂载点属性类\n"
+"    型的文件）。类型 \"$TARGET_TYPE\" 不具有这个属性。您可以改变该\n"
+"    文件或目录的标签。\n"
+"    "
+
+#: ../src/mounton.py:42
+msgid ""
+"\n"
+"    Changing the file_context to mnt_t will allow mount to mount the file "
+"system:\n"
+"    \"chcon -t mnt_t '$TARGET_PATH'.\"\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"mnt_t '$TARGET_PATH'\"\n"
+"    "
+msgstr ""
+"\n"
+"    将  file_context 改为 mnt_t 可允许您挂载文件系统：\n"
+"    \"chcon -t mnt_t '$TARGET_PATH'.\"\n"
+"    您还必须在系统中更改默认文件上下文文件以便在完全重新标记后保留它们。\n"
+"\"semanage fcontext -a -t mnt_t '$TARGET_PATH'\" "
+
+#: ../src/named_write_master_zones.py:27
+msgid ""
+"\n"
+"    SELinux is preventing the named daemon from writing to the zone directory"
+msgstr ""
+"\n"
+"    SELinux 正在阻止 named 守护进程写入区（zone）目录"
+
+#: ../src/named_write_master_zones.py:30
+msgid ""
+"\n"
+"    SELinux has denied the named daemon from writing zone\n"
+"    files. Ordinarily, named is not required to write to these files.\n"
+"    Only secondary servers should be required to write to these\n"
+"    directories.  If this machine is not a secondary server, this\n"
+"    could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 named 守护进程写入区文件。通常情况下不需要 named \n"
+"    写入这些文件。只要求从服务器写入这些文件。\n"
+"    如果这台机器不是从服务器，这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/named_write_master_zones.py:38
+msgid ""
+"\n"
+"    If you want named to run as a secondary server and accept zone\n"
+"    transfers you need to turn on the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 named 作为从服务器运行并接受区传送，您需要打开 $BOOLEAN 布尔"
+"值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/named_write_master_zones.py:55
+msgid "Domain Name Service"
+msgstr "DNS"
+
+#: ../src/nfs_export_all_ro.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the nfs daemon from serving r/o local files to "
+"remote clients.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 nfs 守护进程为远程客户端提供对本地文件的 r/o 操作。\n"
+"    "
+
+#: ../src/nfs_export_all_ro.py:30
+msgid ""
+"\n"
+"    SELinux has preventing the nfs daemon (nfsd) from read files on\n"
+"    the local system. If you have not exported these file systems, this\n"
+"    could signal an intrusion.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 已经阻止 nfs 守护进程（nfsd）读取本地系统中的文件。如果\n"
+"    您没有导出任何文件系统，这可能是入侵的信号。\n"
+"    "
+
+#: ../src/nfs_export_all_ro.py:36
+msgid ""
+"\n"
+"    If you want to export file systems using nfs you need to turn on\n"
+"    the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\".\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想使用 nfs 输出文件系统，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\".\n"
+"    "
+
+#: ../src/nfs_export_all_rw.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the nfs daemon from allowing remote clients to "
+"write local files.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 nfs 守护进程允许远程客户端写入本地文件。\n"
+"    "
+
+#: ../src/nfs_export_all_rw.py:30
+msgid ""
+"\n"
+"    SELinux has preventing the nfs daemon (nfsd) from writing files on the "
+"local system. If you have not exported any file systems (rw), this could "
+"signal an intrusion. \n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 nfd 守护进程 (nfsd) 写入本地系统上的文件。如果\n"
+"    您没有导出任何文件系统（rw），这可能是入侵的信号。\n"
+"    "
+
+#: ../src/nfs_export_all_rw.py:34
+msgid ""
+"\n"
+"    If you want to export writable file systems using nfs you need to turn "
+"on the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\".\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想使用 nfs 输出可写入的文件系统，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"。\n"
+"    "
+
+#: ../src/pppd_can_insmod.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the ppp daemon from inserting kernel modules.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 ppp 守护进程插入内核模块。\n"
+"    "
+
+#: ../src/pppd_can_insmod.py:30
+msgid ""
+"\n"
+"    SELinux has denied the Point-to-Point Protocol daemon from\n"
+"    inserting a kernel module. If pppd is not setup to insert kernel\n"
+"    modules, this probably signals a intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 PPP 守护进程插入内核模块。如果 pppd 没有被设\n"
+"    置为插入内核模块，这很可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/pppd_can_insmod.py:36
+msgid ""
+"\n"
+"    If you want ppp to be able to insert kernel modules you need to\n"
+"    turn on the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 ppp 能插入内核模块，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/pppd_can_insmod.py:51 ../src/squid_connect_any.py:51
+msgid "Networking"
+msgstr "网络"
+
+#: ../src/prelink_mislabled.py:30
+msgid ""
+"\n"
+"    SELinux denied prelink $ACCESS on $TARGET_PATH.\n"
+"    The prelink program is only allowed to manipulate files that are "
+"identified as\n"
+"    executables or shared libraries by SELinux.  Libraries that get placed "
+"in\n"
+"    lib directories get labeled by default as a shared library.  Similarly,\n"
+"    executables that get placed in a bin or sbin directory get labeled as "
+"executables by SELinux.  However, if these files get installed in other "
+"directories\n"
+"    they might not get the correct label.  If prelink is trying\n"
+"    to manipulate a file that is not a binary or share library this may "
+"indicate an\n"
+"    intrusion attack.  \n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 prelink 到 $TARGET_PATH 的 $ACCESS。\n"
+"    Prelink 只能对由 SELinux 定义为可执行或者共享程序库的文件进行操作。\n"
+"    Lib 目录中的程序库会被默认标记为共享程序库。同样，\n"
+"    Bin 或者 sbin 目录中的可执行文件也会被 SELinux 标记为可执行程序库。但如果"
+"是在其它目录中安装这些文件，则可能会被错误标记。如果 prelink 正身体对一个非二"
+"进制或者共享程序库进行操作，则可能意味着一个入侵尝试信号。"
+
+#: ../src/prelink_mislabled.py:42
+msgid ""
+"\n"
+"    You can alter the file context by executing \"chcon -t bin_t "
+"'$TARGET_PATH'\" or\n"
+"    \"chcon -t lib_t '$TARGET_PATH'\" if it is a shared library.  If you "
+"want to make these changes permanent you must execute the semanage command.\n"
+"    \"semanage fcontext -a -t bin_t '$TARGET_PATH'\" or\n"
+"    \"semanage fcontext -a -t lib_t '$TARGET_PATH'\".\n"
+"    If you feel this executable/shared library is in the wrong location "
+"please file a bug against the package that includes the file.  If you feel "
+"that SELinux should know about this file and label it correctly please file "
+"a bug against SELinux policy.\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"    如果某个文件是共享程序库，您可以执行 \"chcon -t bin_t '$TARGET_PATH'\" 或"
+"者\n"
+"    \"chcon -t lib_t '$TARGET_PATH'\" 更改其文件上下文。如果您要永久保留这个"
+"修改，您必须执行 semanage 命令。\n"
+"    \"semanage fcontext -a -t bin_t '$TARGET_PATH'\" 或者\n"
+"    \"semanage fcontext -a -t shlib_t '$TARGET_PATH'\"。\n"
+"    如果您认为这个可执行/共享程序库的位置有误，请您根据此软件包提交一个 bug "
+"报告，并将该文件包含在内。如果您认为 SELinux 本应了解并正确为该文件进行标记，"
+"那么请根据 <a href=\"http://bugzilla.redhat.com/bugzilla/enter_bug.cgi"
+"\">SELinux policy</a> 提交 bug 报告。\n"
+"\n"
+"    "
+
+#: ../src/public_content.py:30
+msgid ""
+"\n"
+"    SELinux denied access to $TARGET_PATH requested by $SOURCE.\n"
+"    $TARGET_PATH has a context used for sharing by a different program. If "
+"you\n"
+"    would like to share $TARGET_PATH from $SOURCE also, you need to\n"
+"    change its file context to public_content_t.  If you did not intend to\n"
+"    allow this access, this could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 $SOURCE 请求的对 $TARGET_PATH 的访问。\n"
+"    $TARGET_PATH 具有一个用于被不同程序共享的上下文。如果您想\n"
+"    让 $SOURCE 也共享 $TARGET_PATH ，您需要将它的文件上下文改\n"
+"    为 public_content_t。如果您没有打算进行这个访问，这可能是入侵尝试的信"
+"号。\n"
+"    "
+
+#: ../src/public_content.py:38
+msgid ""
+"\n"
+"    You can alter the file context by executing chcon -t public_content_t "
+"'$TARGET_PATH'\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"public_content_t '$TARGET_PATH'\"\n"
+"    "
+msgstr ""
+"\n"
+"    您可以执行 executing chcon -t public_content_t '$TARGET_PATH' 来改变文件"
+"上下文。\n"
+"    您还必须在系统中更改默认文件上下文文件以便在完全重新标记后保留它们。"
+"\"semanage fcontext -a -t public_content_t '$TARGET_PATH'\""
+
+#: ../src/qemu_blk_image.py:30
+msgid ""
+"\n"
+"    SELinux denied qemu access to the block device $TARGET_PATH.\n"
+"    If this is a virtualization image, it needs to be labeled with a "
+"virtualization file context (virt_image_t). You can relabel $TARGET_PATH to "
+"be virt_image_t using chcon.  You also need to execute semanage fcontext -a -"
+"t virt_image_t '$TARGET_PATH' to add this\n"
+"    new path to the system defaults. If you did not intend to use "
+"$TARGET_PATH as a qemu\n"
+"    image it could indicate either a bug or an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 qemu 访问 $TARGET_PATH。\n"
+"    如果这是一个虚拟映像，它应当有一个虚拟文件上下文标签（virt_image_t）。您"
+"可以使用 chcon 将 $TARGET_PATH 重新标记为 virt_image_t。您还需要执行 "
+"semanage fcontext -a -t virt_image_t '$TARGET_PATH' 将这个新路径添加到系统默"
+"认中。\n"
+"   如果您没想要使用 $TARGET_PATH 作为 qemu 映像，那么这可能意味着一个 Bug 或"
+"是入侵尝试的信号。\n"
+"    "
+
+#: ../src/qemu_blk_image.py:37 ../src/qemu_file_image.py:40
+msgid ""
+"\n"
+"    You can alter the file context by executing chcon -t virt_image_t "
+"'$TARGET_PATH'\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"virt_image_t '$TARGET_PATH'\"\n"
+"    "
+msgstr ""
+"\n"
+"    您可以执行 chcon -t virt_image_t '$TARGET_PATH' 来更改文件上下文。\n"
+"    您还必须在系统中更改默认文件上下文文件以便在完全重新标记后保留它们。"
+"\"semanage fcontext -a -t virt_image_t '$TARGET_PATH'\""
+
+#: ../src/qemu_file_image.py:30
+msgid ""
+"\n"
+"    SELinux denied qemu access to $TARGET_PATH.\n"
+"    If this is a virtualization image, it has to have a file context label "
+"of\n"
+"    virt_image_t. The system is setup to label image files in directory./var/"
+"lib/libvirt/images\n"
+"    correctly.  We recommend that you copy your image file to /var/lib/"
+"libvirt/images.\n"
+"    If you really want to have your qemu image files in the current "
+"directory, you can relabel $TARGET_PATH to be virt_image_t using chcon.  You "
+"also need to execute semanage fcontext -a -t virt_image_t '$TARGET_PATH' to "
+"add this\n"
+"    new path to the system defaults. If you did not intend to use "
+"$TARGET_PATH as a qemu\n"
+"    image it could indicate either a bug or an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 qemu 访问 $TARGET_PATH。\n"
+"    如果这是一个虚拟映像，它应当有一个 virt_image_t 文件上下文标签。\n"
+"    已经将该系统设置为将目录 ./var/lib/libvirt/images 中的映像文件标记为 "
+"virt_image_t。\n"
+"    如果您确实希望将 qemu 映像保存在当前目录下，您可以使用 chcon 将 "
+"$TARGET_PATH 重新标记为 virt_image_t。您还需要执行 semanage fcontext -a -t "
+"virt_image_t '$TARGET_PATH' 将这个新路径添加到系统默认中。如果您没想要使用 "
+"$TARGET_PATH 作为 qemu 映像，那么这可能意味着一个 Bug 或是入侵尝试的信号。\n"
+"    "
+
+#: ../src/restorecon.py:35
+msgid ""
+"\n"
+"    SELinux denied access requested by $SOURCE. $TARGET_PATH may\n"
+"    be a mislabeled.  $TARGET_PATH default SELinux type is\n"
+"    <B>$MATCHTYPE</B>, but its current type is <B>$TARGET_TYPE</B>. "
+"Changing\n"
+"    this file back to the default type, may fix your problem.\n"
+"    <p>\n"
+"    File contexts can be assigned to a file in the following ways.\n"
+"    <ul>\n"
+"        <li>Files created in a directory receive the file context of the "
+"parent directory by default.\n"
+"        <li>The SELinux policy might override the default label inherited "
+"from the parent directory by\n"
+"            specifying a process running in context A which creates a file "
+"in a directory labeled B\n"
+"            will instead create the file with label C. An example of this "
+"would be the dhcp client running\n"
+"            with the dhclient_t type and creating a file in the directory /"
+"etc. This file would normally\n"
+"            receive the etc_t type due to parental inheritance but instead "
+"the file\n"
+"            is labeled with the net_conf_t type because the SELinux policy "
+"specifies this.\n"
+"        <li>Users can change the file context on a file using tools such as "
+"chcon, or restorecon.\n"
+"    </ul>\n"
+"    This file could have been mislabeled either by user error, or if an "
+"normally confined application\n"
+"    was run under the wrong domain.\n"
+"    <p> \n"
+"    However, this might also indicate a bug in SELinux because the file "
+"should not have been labeled\n"
+"    with this type.\n"
+"    <p>\n"
+"    If you believe this is a bug, please file a bug report against this "
+"package.\n"
+"    "
+msgstr ""
+"\n"
+"    SELlinux 拒绝 $SOURCE 请求的访问。$TARGET_PATH 可能\n"
+"    被错误标记了。$TARGET_PATH 的默认 SELinux 类型为\n"
+"    <B>$MATCHTYPE</B>，但它目前的类型是 <B>$TARGET_TYPE</B>。将其改回到默认类"
+"型可能会解决您的问题。\n"
+"    <p>\n"
+"    为文件分配文件上下文有以下几种方法：\n"
+"    <ul>\n"
+"        <li>在某个目录中生成的文件会默认继承其父目录的文件上下文。\n"
+"        <li>SELinux 策略可能会覆盖从其父目录继承的标签，方法为指定一个在上下"
+"文 A 中运行的进程在标签为 B 的目录中生成一个文件，那么生成的文件的标签为 C。"
+"例如：以 dhclient_t 类型运行的 dhcp 客户端在目录 /etc 中生成一个文件。由于继"
+"承关系，通常这个文件会获得 etc_t 类型标签，但此时该文件会被标记为 net_conf_t "
+"类型，因为 SELinux 策略是这样指定的。\n"
+"        <li>用户可以使用类似 chcon 或者 restorecon 的工具更改某个文件的文件上"
+"下文。\n"
+"    </ul>\n"
+"    这个文件可能会因为用户错误或者由于限定的应用程序在错误的域中运行而被错误"
+"标记。\n"
+"    <p> \n"
+"    但是这也可能说明是一个 SELinux 中的 bug，因为给文件本不应被标记为这个类"
+"型。\n"
+"    <p>\n"
+"    如果您认为这是一个 bug，那么请根据这个软件包提交一个 <a href=\"http://"
+"bugzilla.redhat.com/bugzilla/enter_bug.cgi\">bug report</a>。\n"
+"    "
+
+#: ../src/restorecon.py:61
+msgid ""
+"\n"
+"    You can restore the default system context to this file by executing "
+"the\n"
+"    restorecon command.  restorecon '$TARGET_PATH', if this file is a "
+"directory,\n"
+"    you can recursively restore using restorecon -R '$TARGET_PATH'.\n"
+"    "
+msgstr ""
+"\n"
+"    您可以执行 restorecon 命令为这个文件保存默认系统上下文。restorecon "
+"'$TARGET_PATH'，如果这个文件是一个目录，\n"
+"    您可以使用 restorecon -R '$TARGET_PATH' 进行递归保存。"
+
+#: ../src/restorecon.py:92
+msgid "Restore Context"
+msgstr "恢复上下文"
+
+#: ../src/rsync_data.py:30
+msgid ""
+"\n"
+"    SELinux denied rsync access to $TARGET_PATH.\n"
+"    If this is a RSYNC repository it has to have a file context label of\n"
+"    rsync_data_t. If you did not intend to use $TARGET_PATH as a rsync "
+"repository\n"
+"    it could indicate either a bug or it could signal a intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 rsync 访问 $TARGET_PATH 。\n"
+"    如果这是一个 RSYNC 仓库，它必须有一个 rsync_data_t 上下文标签。如果\n"
+"    您没有打算将 $TARGET_PATH 作为 rsync 仓库，这可能意味着一个 bug 或\n"
+"    是入侵尝试的信号。\n"
+"    "
+
+#: ../src/rsync_data.py:37
+msgid ""
+"\n"
+"    You can alter the file context by executing chcon -R -t rsync_data_t "
+"'$TARGET_PATH'\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"rsync_data_t '$TARGET_PATH'\"\n"
+"    "
+msgstr ""
+"\n"
+"    您能够通过执行 chcon -R -t rsync_data_t '$TARGET_PATH' 更改文件上下文。\n"
+"    您还必须在系统中更改默认文件上下文文件以便在完全重新标记后保留它们。"
+"\"semanage fcontext -a -t rsync_data_t '$TARGET_PATH'\"\n"
+"    "
+
+#: ../src/samba_enable_home_dirs.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the samba daemon from reading users' home "
+"directories.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 samba 守护进程读取用户主目录。\n"
+"    "
+
+#: ../src/samba_enable_home_dirs.py:30
+msgid ""
+"\n"
+"    SELinux has denied the samba daemon access to users' home\n"
+"    directories. Someone is attempting to access your home directories\n"
+"    via your samba daemon. If you only setup samba to share non-home\n"
+"    directories, this probably signals an intrusion attempt.\n"
+"    For more information on SELinux integration with samba, look at the\n"
+"    samba_selinux man page. (man samba_selinux)\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 samba 守护进程访问用户主目录。有人正试图通过您的 samba 守"
+"护\n"
+"    进程访问您的主目录。如果您将 samba 设置成只共享非主目录，这可能是入侵尝"
+"试\n"
+"    的信号。更多的关于 SELinux 和 samba 集成的信息，请查看 samba_selinux "
+"man \n"
+"    page（man samba_selinux) 。\n"
+"    "
+
+#: ../src/samba_enable_home_dirs.py:39
+msgid ""
+"\n"
+"    If you want samba to share home directories you need to turn on\n"
+"    the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 samba 共享主目录，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/samba_export_all_ro.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the samba daemon from serving r/o local files to "
+"remote clients.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 samba 守护进程允许远程客户端对本地文件进行 r/o 操作。\n"
+"    "
+
+#: ../src/samba_export_all_ro.py:30
+msgid ""
+"\n"
+"    SELinux has preventing the samba daemon (smbd) from reading files on\n"
+"    the local system. If you have not exported these file systems, this\n"
+"    could signal an intrusion.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 samba 守护进程 (smbd) 读取本地系统中的文件。如果\n"
+"    您没有导出任何文件系统，这可能是入侵的信号。\n"
+"    "
+
+#: ../src/samba_export_all_ro.py:36
+msgid ""
+"\n"
+"    If you want to export file systems using samba you need to turn on\n"
+"    the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\".\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想使用 samba 输出文件系统，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"。\n"
+"    "
+
+#: ../src/samba_export_all_rw.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the samba daemon from allowing remote clients to "
+"write local files.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 samba 守护进程允许远程客户端写入本地文件。\n"
+"    "
+
+#: ../src/samba_export_all_rw.py:30
+msgid ""
+"\n"
+"    SELinux has preventing the samba daemon (smbd) from writing files on the "
+"local system. If you have not exported any file systems (rw), this could "
+"signal an intrusion. \n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 samba 守护进程（smbd）写入本地系统中的文件。\n"
+"    如果您没有导出任何文件系统（rw），这可能是入侵的信号。\n"
+"    "
+
+#: ../src/samba_export_all_rw.py:34
+msgid ""
+"\n"
+"    If you want to export writable file systems using samba you need to turn "
+"on the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\".\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想使用 samba 输出可写入的文件系统，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"。\n"
+"    "
+
+#: ../src/samba_share_nfs.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the samba daemon from reading nfs file systems.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 samba 守护进程读取 nfs 文件系统。\n"
+"    "
+
+#: ../src/samba_share_nfs.py:30
+msgid ""
+"\n"
+"    SELinux has denied the samba daemon access to nfs file\n"
+"    systems. Someone is attempting to access an nfs file system via\n"
+"    your samba daemon. If you did not setup samba to share nfs file\n"
+"    systems, this probably signals an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 samba 守护进程访问 nfs 文件系统。有人正试图\n"
+"    通过您的 samba 守护进程访问 nfs 文件系统。如果您没有设\n"
+"    置 samba 共享 nfs 文件系统，这很可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/samba_share_nfs.py:37
+msgid ""
+"\n"
+"    If you want samba to share nfs file systems you need to turn on\n"
+"    the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 samba 共享 nfs 文件系统，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/samba_share.py:26
+msgid ""
+"\n"
+"    SELinux is preventing Samba ($SOURCE_PATH) \"$ACCESS\" access to "
+"$TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 Samba ($SOURCE_PATH) \"$ACCESS\" 访问设备 "
+"$TARGET_PATH。\n"
+"    "
+
+#: ../src/samba_share.py:30
+msgid ""
+"\n"
+"    SELinux denied samba access to $TARGET_PATH.\n"
+"    If you want to share this directory with samba it has to have a file "
+"context label of\n"
+"    samba_share_t. If you did not intend to use $TARGET_PATH as a samba "
+"repository\n"
+"    it could indicate either a bug or it could signal a intrusion attempt.\n"
+"Please refer to 'man samba_selinux' for more information on setting up Samba "
+"and SELinux.    \n"
+msgstr ""
+"\n"
+"    SELinux 拒绝了 samba 访问 $TARGET_PATH 。\n"
+"   如果您想用 samba 共享这个目录，它必须有一个 samba_share_t 上下文标签。\n"
+"如果您没有打算将 $TARGET_PATH 作为 samba 仓库，这意味着一个 Bug 或是入侵\n"
+"尝试的信号。\n"
+"请参考“man samba_selinux”来了解更多搭建 Samba 和 SELinux 的信息。\n"
+
+#: ../src/samba_share.py:38
+msgid ""
+"\n"
+"    You can alter the file context by executing chcon -R -t samba_share_t "
+"'$TARGET_PATH'\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"samba_share_t '$TARGET_PATH'\"\n"
+"    "
+msgstr ""
+"\n"
+"    您可以通过执行 chcon -R -t samba_share_t '$TARGET_PATH' 更改文件上下"
+"文。\n"
+"    您还必须在系统中更改默认文件上下文文件以便在完全重新标记后保留它们。"
+"\"semanage fcontext -a -t samba_share_t '$TARGET_PATH'\""
+
+#: ../src/secure_mode_insmod.py:25
+msgid ""
+"\n"
+"    SELinux is preventing the kernel modules from being loaded.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止加载内核模块。\n"
+"    "
+
+#: ../src/secure_mode_insmod.py:29
+msgid ""
+"\n"
+"    SELinux has denied kernel module utilities from modifying\n"
+"    kernel modules. This machine is hardened to not allow the kernel to\n"
+"    be modified, except in single user mode.  If you did not try to\n"
+"    manage a kernel module, this probably signals an intrusion.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了内核模块实用工具修改内核模块。如果不允许对内核进行修改，\n"
+"    您的计算机将会是是加固 (harden) 的（单用户模式是个例外）。如果您没有试图"
+"管理一个内核模块，\n"
+"这很可能是入侵的信号。\n"
+"   "
+
+#: ../src/secure_mode_insmod.py:36
+msgid ""
+"\n"
+"    If you allow the management of the kernel modules on your machine,\n"
+"    turn off the $BOOLEAN boolean: \"setsebool -P\n"
+"    $BOOLEAN=0\".\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想允许对您的机器上的内核模块进行管理，关闭 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=0\".\n"
+"    "
+
+#: ../src/secure_mode_insmod.py:52
+msgid "Kernel"
+msgstr "内核"
+
+#: ../src/secure_mode_policyload.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the modification of the running policy.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止修改运行中的 SELinux 策略。\n"
+"    "
+
+#: ../src/secure_mode_policyload.py:30
+msgid ""
+"\n"
+"    SELinux has denied the management tools from modifying the way the\n"
+"    SELinux policy runs. This machine is hardened, so if you did not run\n"
+"    any SELinux tools, this probably signals an intrusion.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了管理工具修改 SELinux 策略的运行方式。\n"
+"    您的计算机是有防护的，因此如果您没有运行任何 SELinux 工具，这很可能是入侵"
+"的信号。\n"
+"    "
+
+#: ../src/secure_mode_policyload.py:36
+msgid ""
+"\n"
+"    If you want to modify the way SELinux is running on your machine\n"
+"    you need to bring the machine to single user mode with enforcing\n"
+"    turned off.  The turn off the secure_mode_policyload boolean:\n"
+"    \"setsebool -P secure_mode_policyload=0\".\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想要修改 SELinux 在您的计算机上的运行方式，您需要将机器转入单\n"
+"    用户 (single user) 模式，并关闭强制 (enforcing) 模式。然后关闭 "
+"secure_mode_policyload boolean 布尔值：\n"
+"    \"setsebool -P secure_mode_policyload=0\" 。\n"
+"    "
+
+#: ../src/selinuxpolicy.py:28
+msgid ""
+"\n"
+"    Your system may be seriously compromised!\n"
+"    "
+msgstr ""
+"\n"
+"    您的系统可能被严重破坏！\n"
+"    "
+
+#: ../src/selinuxpolicy.py:32
+msgid ""
+"\n"
+"    SELinux has prevented $SOURCE from modifying $TARGET.  This denial \n"
+"    indicates $SOURCE was trying to modify the selinux policy "
+"configuration. \n"
+"    All applications that need this access should have already had policy \n"
+"    written for them.  If a compromised application tries to modify the "
+"SELinux\n"
+"    policy this AVC will be generated. This is a serious issue. Your "
+"system \n"
+"    may very well be compromised.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 已阻止 $SOURCE 修改 $TARGET。这个拒绝表明 $SOURCE 曾试图修改 "
+"selinux 策略配置。所有需要这个访问的程序都应该已经有写入的策略。如果破坏的程"
+"序试图修改 SELinux 则会生成这个 AVC。这是个严重问题。您的系统可能被严重破"
+"坏。\n"
+"    "
+
+#: ../src/setenforce.py:27
+msgid ""
+"\n"
+"    Your system may be seriously compromised! $SOURCE_PATH tried to modify "
+"SELinux enforcement.\n"
+"    "
+msgstr ""
+"\n"
+"    您的系统可能被严重破坏！ $SOURCE_PATH 试图修改 SELinux enforcement.\n"
+"    "
+
+#: ../src/setenforce.py:31
+msgid ""
+"\n"
+"    SELinux has prevented $SOURCE from writing to a file under /selinux.\n"
+"    Files under /selinux control the way SELinux is configured.\n"
+"    All programs that need to write to files under /selinux should have "
+"already had policy\n"
+"    written for them. If a compromised application tries to turn off "
+"SELinux\n"
+"    this AVC will be generated. This is a serious issue. Your system may "
+"very\n"
+"    well be compromised.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止 $SOURCE 写入 /selinux 中的文件。/selinux 中的文件控制配置 "
+"SELinux 的方法。所有需要在 /selinux 中写入文件的程序都已经被写入了策略。如果"
+"破坏的程序试图关闭 SELiux 则会生成这个 AVC。这是个严重问题。您的系统可能被严"
+"重破坏。\n"
+"    "
+
+#: ../src/spamd_enable_home_dirs.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the spamd daemon from reading users' home "
+"directories.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 spamd 守护进程读取用户主目录。\n"
+"    "
+
+#: ../src/spamd_enable_home_dirs.py:30
+msgid ""
+"\n"
+"    SELinux has denied the spamd daemon access to users' home\n"
+"    directories. Someone is attempting to access your home directories\n"
+"    via your spamd daemon. If you only setup spamd to share non-home\n"
+"    directories, this probably signals an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 spamd 守护进程访问用户主目录。有人正试图通过您的 spamd 守"
+"护\n"
+"    进程访问您的主目录。如果您将 spamd 设置成只共享非主目录，这很可能是入侵尝"
+"试的信号。\n"
+"    "
+
+#: ../src/spamd_enable_home_dirs.py:37
+msgid ""
+"\n"
+"    If you want spamd to share home directories you need to turn on\n"
+"    the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 spamd 共享主目录，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/squid_connect_any.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the squid daemon from connecting to network port "
+"$PORT_NUMBER"
+msgstr ""
+"\n"
+"    SELinux 正在阻止 squid 守护进程连接到网络端口 $PORT_NUMBER"
+
+#: ../src/squid_connect_any.py:29
+msgid ""
+"\n"
+"    SELinux has denied the squid daemon from connecting to\n"
+"    $PORT_NUMBER. By default squid policy is setup to deny squid\n"
+"    connections. If you did not setup squid to network connections,\n"
+"    this could signal a intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 squid 守护进程连接到端口 $PORT_NUMBER。默认的\n"
+"     squid 安全策略被设置来拒绝 squid 连接。如果您没有设置 squid \n"
+"    连接，这可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/squid_connect_any.py:36
+msgid ""
+"\n"
+"    If you want squid to connect to network ports you need to turn on\n"
+"    the $BOOLEAN boolean: \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想让 squid 连接到网络端口，您需要打开 $BOOLEAN 布尔值：\n"
+"    \"setsebool -P $BOOLEAN=1\"\n"
+"    "
+
+#: ../src/swapfile.py:26
+msgid ""
+"\n"
+"    SELinux is preventing $SOURCE_PATH \"$ACCESS\" to $TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 $SOURCE_PATH \"$ACCESS\"  $TARGET_PATH。\n"
+"    "
+
+#: ../src/swapfile.py:30
+msgid ""
+"\n"
+"    SELinux denied $SOURCE access to $TARGET_PATH.\n"
+"    If this is a swapfile it has to have a file context label of\n"
+"    swapfile_t. If you did not intend to use\n"
+"    $TARGET_PATH as a swapfile it probably indicates a bug, however it could "
+"also\n"
+"    signal a intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 $SOURCE 访问 $TARGET_PATH。如果这是一个交换文\n"
+"    件，它应当有一个 swapfile_t 文件上下文标签。如果您没有打算使用 "
+"$TARGET_PATH 做\n"
+"    交换文件，这很可能意味着一个 Bug，但这也可能是入侵尝试的信号。\n"
+"    "
+
+#: ../src/swapfile.py:38
+msgid ""
+"\n"
+"    You can alter the file context by executing chcon -t swapfile_t "
+"'$TARGET_PATH'\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"swapfile_t '$TARGET_PATH'\"\n"
+"    "
+msgstr ""
+"\n"
+"    您可以执行 executing chcon -t swapfile_t '$TARGET_PATH' 来改变文件上下"
+"文。\n"
+"    您还必须在系统中更改默认文件上下文文件以便在完全重新标记后保留它们。"
+"\"semanage fcontext -a -t swapfile_t '$TARGET_PATH'\""
+
+#: ../src/sys_module.py:28
+msgid ""
+"\n"
+"    Your system may be seriously compromised! $SOURCE_PATH tried to load a "
+"kernel module.\n"
+"    "
+msgstr ""
+"\n"
+"    您的系统可能被严重破坏！ $SOURCE_PATH试图装载一个内核模块。\n"
+"    "
+
+#: ../src/sys_module.py:32
+msgid ""
+"\n"
+"    SELinux has prevented $SOURCE from loading a kernel module.\n"
+"    All confined programs that need to load kernel modules should have "
+"already had policy\n"
+"    written for them. If a compromised application \n"
+"    tries to modify the kernel this AVC will be generated. This is a "
+"serious \n"
+"    issue. Your system may very well be compromised.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止 $SOURCE 载入内核模块。所有需要载入内核模块的被限制的程序应该"
+"已经写入了策略。如果破坏的程序要修改内核则会生成这个 AVC。这是个严重问题。您"
+"的系统可能被严重破坏。\n"
+"    "
+
+#: ../src/tftpd_write_content.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the tftp daemon from modify $TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止 tftp 守护进程修改 $TARGET_PATH。\n"
+"    "
+
+#: ../src/tftpd_write_content.py:30
+msgid ""
+"\n"
+"    SELinux prevented the tftp daemon from writing to $TARGET_PATH. "
+"Usually \n"
+"    tftpd is setup only to read content and is not allowed to modify it.  "
+"If\n"
+"    you setup tftpd to modify $TARGET_PATH need to change its label.  If "
+"you  \n"
+"    did not setup tftp to modify $TARGET_PATH, this could signal an "
+"intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 tftp 守护进程写入 $TARGET_PATH。通常是将 tftp 设置为读取内"
+"容，但不允许修改。如果您将 tftpd 设置为修改 $TARGET_PATH，则需要更改其标签。"
+"如果您没有将 tftp 设置为修改 $TARGET_PATH，这可能是一个入侵尝试信号。\n"
+"    "
+
+#: ../src/tftpd_write_content.py:37
+msgid ""
+"\n"
+"    If you want to change the file context of $TARGET_PATH so that the tftp\n"
+"    daemon can modify it, you need to execute it using<br>\n"
+"    <b># semanage fcontext -m tftpdir_rw_t '/tftpboot(/.*)?'</b>\n"
+"    <br><b># restorecon -R -v /tftpboot</b></br>\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想要更改 $TARGET_PATH 的文件上下文以让 tftp 守护进程能修改\n"
+"    它，您需要使用 <br>\n"
+"    <b># semanage fcontext -m tftpdir_rw_t '/tftpboot(/.*)?'</b>\n"
+"    <br><b># restorecon -R -v /tftpboot</b></br> 执行它\n"
+"    "
+
+#. MATCH
+#: ../src/tftpd_write_content.py:54
+msgid "TFTP"
+msgstr "TFTP"
+
+#: ../src/use_nfs_home_dirs.py:28
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from $ACCESS files stored on a NFS filesytem.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE $ACCESS 存放在 NFS 文件系统中的文件。\n"
+"    "
+
+#: ../src/use_nfs_home_dirs.py:32
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from $ACCESS files stored on a NFS "
+"filesystem.\n"
+"    NFS (Network Filesystem) is a network filesystem commonly used on Unix / "
+"Linux\n"
+"    systems.\n"
+"    \n"
+"    $SOURCE attempted to read one or more files or directories from\n"
+"    a mounted filesystem of this type.  As NFS filesystems do not support\n"
+"    fine-grained SELinux labeling, all files and directories in the\n"
+"    filesystem will have the same security context.\n"
+"    \n"
+"    If you have not configured $SOURCE to read files from a NFS filesystem\n"
+"    this access attempt could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE $ACCESS 存放在 NFS 文件系统中的文件。\n"
+"    NFS（网络文件系统）是一个通常在 Unix/Linux 系统中使用的网络文件系统。\n"
+"    \n"
+"    $SOURCE 试图读取一个已挂载的这种类型的文件系统中的一个或多个文件或目录。"
+"由\n"
+"    于 NFS 文件系统不支持细密的 (fine-grained) SELinux 标记，该文件系统中的所"
+"有文件和目录都\n"
+"    将具有相同的安全上下文。\n"
+"    \n"
+"    如果您没有将 $SOURCE 配置为读取 NFS 文件系统中的文件，这次访问尝试可能是"
+"入侵尝试的信号。\n"
+"    "
+
+#: ../src/user_tcp_server.py:26
+msgid ""
+"\n"
+"    SELinux is preventing the users from running TCP servers in the "
+"usedomain.\n"
+"        "
+msgstr ""
+"\n"
+"    SELinux 正在阻止用户在 usedomain 中运行 TCP 服务器。\n"
+"    "
+
+#: ../src/user_tcp_server.py:30
+msgid ""
+"\n"
+"    SELinux has denied the $SOURCE program from binding to a network port "
+"$PORT_NUMBER which does not have an SELinux type associated with it.\n"
+"    $SOURCE does not have an SELinux policy defined for it when run by the "
+"user, so it runs in the users domain.  SELinux is currently setup to\n"
+"    deny TCP servers to run within the user domain. If you do not expect "
+"programs like $SOURCE to bind to a network port, then this could signal\n"
+"    an intrusion attempt. If this system is running as an NIS Client, "
+"turning on the allow_ypbind boolean may fix the problem.\n"
+"    setsebool -P allow_ypbind=1.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 $SOURCE 程序绑定到到没有 SELinux 类型与之关联的网络端口 "
+"$PORT_NUMBER。\n"
+"    如果用户在运行 $SOURCE 时它没有为其定义的 SELinux 策略，那么它会在用户域"
+"中运行。\n"
+"目前是将 SELinux 设定为拒绝在用户域中运行 TCP 服务器。如果类似 $SOURCE 的程序"
+"本不应该绑定到网络端口，那么这可能就是入侵尝试的信号。如果这个系统正作为 NIS "
+"客户端运行，打开 allow_ypbind 布尔值有可能解决这个问题。\n"
+"    setsebool -P allow_ypbind=1。"
+
+#: ../src/user_tcp_server.py:38
+msgid ""
+"\n"
+"    If you want to allow user  programs to run as TCP Servers, you can turn "
+"on the user_tcp_server boolean, by executing:\n"
+"    setsebool -P $BOOLEAN=1\n"
+"    "
+msgstr ""
+"\n"
+"    如果您想允许用户程序作为 TCP 服务器运行，您可以打开 user_tcp_server 布尔"
+"值，操作如下：\n"
+"    setsebool -P $BOOLEAN=1"
+
+#: ../src/use_samba_home_dirs.py:28
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from $ACCESS files stored on a Windows SMB/"
+"CIFS (Samba) filesytem.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE $ACCESS 存放在 Windows SMB/CIFS（Samba）文件系统中"
+"的文件。\n"
+"    "
+
+#: ../src/use_samba_home_dirs.py:32
+msgid ""
+"\n"
+"    SELinux prevented $SOURCE from $ACCESS files stored on a Windows SMB/"
+"CIFS (Samba) filesystem.\n"
+"    CIFS is a network filesystem commonly used on Windows systems.\n"
+"    \n"
+"    $SOURCE attempted to read one or more files or directories from\n"
+"    a mounted filesystem of this type.  As CIFS filesystems do not support\n"
+"    fine-grained SELinux labeling, all files and directories in the\n"
+"    filesystem will have the same security context.\n"
+"    \n"
+"    If you have not configured $SOURCE to read files from a CIFS filesystem\n"
+"    this access attempt could signal an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 $SOURCE $ACCESS 存放在一个 Windows SMB/CIFS（Samba）文件系"
+"统中的文件。\n"
+"    CIFS 是一种在 Windows 系统中通常使用的网络文件系统。\n"
+"    \n"
+"    $SOURCE 试图读取一个已挂载的这种类型的文件系统中的一个或多个文件或目录。"
+"由\n"
+"   于 CIFS 文件系统不支持细粒的 SELinux 标记，它上面的所有文件和目录都\n"
+"   将具有相同的安全上下文。\n"
+"    \n"
+"   如果您没有将 $SOURCE 配置为读取 CIFS 文件系统中的文件，这次访问尝试可能"
+"是\n"
+"   入侵尝试的信号。\n"
+"    "
+
+#: ../src/vbetool.py:29
+msgid ""
+"\n"
+"    SELinux has prevented vbetool from performing an unsafe memory "
+"operation.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 vbetool 执行一项不安全的内存操作。\n"
+"    "
+
+#: ../src/vbetool.py:33
+msgid ""
+"\n"
+"SELinux denied an operation requested by $SOURCE, a program used\n"
+"to alter video hardware state.  This program is known to use\n"
+"an unsafe operation on system memory but so are a number of\n"
+"malware/exploit programs which masquerade as vbetool.  This tool is used "
+"to \n"
+"reset video state when a machine resumes from a suspend.  If your machine \n"
+"is not resuming properly your only choice is to allow this\n"
+"operation and reduce your system security against such malware.\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"SELinux 阻止了由 $SOURCE 请求的一次操作，它是用于改变视频硬件状态的程序。已知"
+"此程序对系统内存采用不安全的操作，但是大量伪装成 vbetool 的恶意／溢出程序也是"
+"如此。此工具用于当机器从挂起状态中恢复工作时重置视频状态。如果您的机器没有很"
+"好地恢复的话，您唯一的选择是允许此操作并降低您系统面对此类恶意软件的安全"
+"度。\n"
+"\n"
+"    "
+
+#: ../src/vbetool.py:44 ../src/wine.py:55
+msgid ""
+"\n"
+"If you decide to continue to run the program in question you will need\n"
+"to allow this operation.  This can be done on the command line by\n"
+"executing:\n"
+"\n"
+"# setsebool -P mmap_low_allowed 1\n"
+msgstr ""
+"\n"
+"如果您想继续运行正在考虑的程序，您必须允许此操作。要允许就在命令行上执行：\n"
+"\n"
+"# setsebool -P mmap_low_allowed 1\n"
+
+#: ../src/vbetool.py:67 ../src/wine.py:78
+msgid "Turn off memory protection"
+msgstr "关闭内存保护"
+
+#: ../src/wine.py:30
+msgid ""
+"\n"
+"    SELinux has prevented wine from performing an unsafe memory operation.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 阻止了 wine 执行一项不安全的内存操作。\n"
+"    "
+
+#: ../src/wine.py:34
+msgid ""
+"\n"
+"SELinux denied an operation requested by wine-preloader, a program used\n"
+"to run Windows applications under Linux.  This program is known to use\n"
+"an unsafe operation on system memory but so are a number of\n"
+"malware/exploit programs which masquerade as wine.  If you were\n"
+"attempting to run a Windows program your only choices are to allow this\n"
+"operation and reduce your system security against such malware or to\n"
+"refrain from running Windows applications under Linux.  If you were not\n"
+"attempting to run a Windows application this indicates you are likely\n"
+"being attacked by some for of malware or program trying to exploit your\n"
+"system for nefarious purposes.\n"
+"\n"
+"Please refer to \n"
+"\n"
+"http://wiki.winehq.org/PreloaderPageZeroProblem\n"
+"\n"
+"Which outlines the other problems wine encounters due to its unsafe use\n"
+"of memory and solutions to those problems.\n"
+"\n"
+"    "
+msgstr ""
+"\n"
+"SELinux阻止了一项由 wine-preloader 请求的操作，它是用来在Linux下运行 "
+"Windows\n"
+"应用程序的程序。已知此程序会对系统内存采用不安全的操作，但大量伪装成 wine 的"
+"恶意／\n"
+"溢出程序也是如此。如果您曾尝试运行 Windows 程序，您只有选择允许此操作并降低您"
+"的\n"
+"系统面对此类恶意软件时的安全度，或避免在Linux下运行 Ｗindows 应用程序。如果您"
+"不曾\n"
+"尝试运行Windows 应用程序，这说明您很可能被一些恶意软件或为了不法目的尝试剥削"
+"您系\n"
+"统的程序的攻击。\n"
+"\n"
+"请参考：\n"
+"\n"
+"http://wiki.winehq.org/PreloaderPageZeroProblem\n"
+"\n"
+"它概述了 wine 因其不安全的内存使用而遇到的其他问题以及解决方案。"
+
+#: ../src/xen_image.py:26
+msgid ""
+"\n"
+"    SELinux is preventing xen ($SOURCE_PATH) \"$ACCESS\" access to "
+"$TARGET_PATH.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 正在阻止xen ($SOURCE_PATH) \"$ACCESS\" 访问设备 $TARGET_PATH。\n"
+"    "
+
+#: ../src/xen_image.py:30
+msgid ""
+"\n"
+"    SELinux denied xen access to $TARGET_PATH.\n"
+"    If this is a XEN image, it has to have a file context label of\n"
+"    xen_image_t. The system is setup to label image files in directory /var/"
+"lib/xen/images\n"
+"    correctly.  We recommend that you copy your image file to /var/lib/xen/"
+"images.\n"
+"    If you really want to have your xen image files in the current "
+"directory, you can relabel $TARGET_PATH to be xen_image_t using chcon.  You "
+"also need to execute semanage fcontext -a -t xen_image_t '$TARGET_PATH' to "
+"add this\n"
+"    new path to the system defaults. If you did not intend to use "
+"$TARGET_PATH as a xen\n"
+"    image it could indicate either a bug or an intrusion attempt.\n"
+"    "
+msgstr ""
+"\n"
+"    SELinux 拒绝了 xen 访问 $TARGET_PATH。\n"
+"    如果这是一个 XEN 映像，它应当有一个 xen_image_t 文件上下文标签。\n"
+"    已经将该系统设置为在目录 /var/lib/xen/images 中标记映像文件\n"
+"    如果您确实希望将 xen 映像保存在当前目录下，您可以使用 chcon 将 "
+"$TARGET_PATH 重新标记为 xen_image_t。您还需要执行 semanage fcontext -a -t "
+"xen_image_t '$TARGET_PATH' 将这个新路径添加到系统默认中。如果您没想要使用 "
+"$TARGET_PATH 作为 xen 映像，那么这可能意味着一个 Bug 或是入侵尝试的信号。\n"
+"    "
+
+#: ../src/xen_image.py:40
+msgid ""
+"\n"
+"    You can alter the file context by executing chcon -t xen_image_t "
+"'$TARGET_PATH'\n"
+"    You must also change the default file context files on the system in "
+"order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+"xen_image_t '$TARGET_PATH'\"\n"
+"    "
+msgstr ""
+"\n"
+"    您可以执行 chcon -t xen_image_t '$TARGET_PATH' 来更改文件上下文。\n"
+"    您还必须在系统中更改默认文件上下文文件以便在完全重新标记后保留它们。"
+"\"semanage fcontext -a -t xen_image_t '$TARGET_PATH'\""
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux prevented $SOURCE from using the terminal $TARGET_PATH.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 阻止了 $SOURCE 使用终端 $TARGET_PATH。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux prevented $SOURCE from using the terminal $TARGET_PATH.\n"
+#~ "    In most cases daemons do not need to interact with the terminal, so "
+#~ "usually\n"
+#~ "    these avc messages can be ignored.  All of the confined daemons "
+#~ "should\n"
+#~ "    have dontaudit rules regarding using the terminal.  Please file a "
+#~ "bug\n"
+#~ "    report against this selinux-policy.  If you would like to allow all\n"
+#~ "    daemons to interact with the terminal, you can turn on the $BOOLEAN "
+#~ "boolean.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 阻止 $SOURCE 使用终端 $TARGET_PATH。\n"
+#~ "    在多数情况下，守护进程不需要和终端进行交互工作，因此通常\n"
+#~ "    这些 avc 信息可以被忽略。所有受限制的守护进程都应该\n"
+#~ "    有关于使用终端的 dontaudit 规则。请填写一个 <a\n"
+#~ "    href=\"http://bugzilla.redhat.com/bugzilla/enter_bug.cgi\">bug \n"
+#~ "    报告</a> 来反映这个 selinux 策略。如果您希望允许所有的\n"
+#~ "    守护进程可以和终端进行交互工作，您可以打开 $BOOLEAN 布尔值。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing $SOURCE from changing a writable memory segment "
+#~ "executable.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 $SOURCE 将内存从 writable 改变为 executable 的操"
+#~ "作。\n"
+#~ "    "
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "    The $SOURCE application attempted to change the access protection\n"
+#~ "    of memory (e.g., allocated using malloc).  This is a potential\n"
+#~ "    security problem.  Applications should not be doing this. "
+#~ "Applications\n"
+#~ "    are sometimes coded incorrectly and request this permission.  The\n"
+#~ "    <a href=\"http://people.redhat.com/drepper/selinux-mem.html\">SELinux "
+#~ "Memory Protection Tests</a>\n"
+#~ "    web page explains how to remove this requirement.  If $SOURCE does "
+#~ "not work and you\n"
+#~ "    need it to work, you can configure SELinux temporarily to allow this\n"
+#~ "    access until the application is fixed. Please file a bug report "
+#~ "against \n"
+#~ "this package.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    $SOURCE 应用程序试图改变受访问保护的内存（例如，使用malloc分配内"
+#~ "存）。\n"
+#~ "    这有潜在的安全问题。应用程序不应该这样做。有时候应用程序编码不正确会有"
+#~ "这样的请求。\n"
+#~ "    <a href=\"http://people.redhat.com/drepper/selinux-mem.html\">SELinux "
+#~ "内存保护测试</a>\n"
+#~ "    页面说明怎样移除这个请求。如果$SOURCE 无法工作而您需要它工作，\n"
+#~ "    您可以配置 SELinux 临时允许这个访问直到修复了应用程序。\n"
+#~ "    请生成一份关于这个软件包的<a\n"
+#~ "    href=\"http://bugzilla.redhat.com/bugzilla/enter_bug.cgi\">错误\n"
+#~ "    报告</a> 。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    If you trust $SOURCE to run correctly, you can change the context\n"
+#~ "    of the executable to execmem_exec_t.\n"
+#~ "    \"chcon -t execmem_exec_t '$SOURCE_PATH'\".\n"
+#~ "    You must also change the default file context files on the system in "
+#~ "order to preserve them even on a full relabel.  \"semanage fcontext -a -t "
+#~ "execmem_exec_t '$SOURCE_PATH'\"\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    如果您确信 $SOURCE 正确运行, 您可以将 executable 的上下文\n"
+#~ "    改为 execmem_exec_t。\n"
+#~ "    \"chcon -t execmem_exec_t '$SOURCE_PATH'\"。\n"
+#~ "    您还必须在系统中修改默认文件上下文文件以便在完全重新标记后保留它"
+#~ "们。     您还必须在系统中更改默认文件上下文文件以便在完全重新标记后保留它"
+#~ "们。\"semanage fcontext -a -t execmem_exec_t '$SOURCE_PATH'\"\n"
+#~ " "
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "    Your system may be seriously compromised! $SOURCE tried to modify "
+#~ "SELinux configuration.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    您的系统可能被严重破坏！\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing the $SOURCE_PATH from executing potentially "
+#~ "mislabeled files $TARGET_PATH ($TARGET_TYPE).\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 $SOURCE_PATH 执行可能错误标记的文件 $TARGET_PATH"
+#~ "（$TARGET_TYPE）。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing $SOURCE ($SOURCE_TYPE) \"$ACCESS\" to "
+#~ "$TARGET_PATH ($TARGET_TYPE).\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 $SOURCE（$SOURCE_TYPE） \"$ACCESS\" $TARGET_PATH"
+#~ "（$TARGET_TYPE）。\n"
+#~ " "
+
+#~ msgid ""
+#~ "\n"
+#~ "    You can generate a local policy module to allow this\n"
+#~ "    access - see <a href=\"http://fedora.redhat.com/docs/selinux-faq-fc5/"
+#~ "#id2961385\">FAQ</a>\n"
+#~ "    Please file a <a href=\"http://bugzilla.redhat.com/bugzilla/enter_bug."
+#~ "cgi\">bug report</a>\n"
+#~ "    against this package.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    您可以创建一个本地策略模块来允许这个\n"
+#~ "    访问 - 参阅 <a href=\"http://fedora.redhat.com/docs/selinux-faq-fc5/"
+#~ "#id2961385\">FAQ</a>\n"
+#~ "    请填写一个 <a href=\"http://bugzilla.redhat.com/bugzilla/enter_bug.cgi"
+#~ "\">错误报告</a>\n"
+#~ "    来反映这个软件包的问题。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing access to files with the default label, "
+#~ "default_t.\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止访问带有默认标签 default_t 的文件。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing the $SOURCE from using potentially mislabeled "
+#~ "files $TARGET_PATH ($TARGET_TYPE).\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 $SOURCE 使用错误标记的文件 $TARGET_PATH"
+#~ "（$TARGET_TYPE）。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing $SOURCE ($SOURCE_TYPE) \"$ACCESS\" $TARGET_PATH "
+#~ "($TARGET_TYPE).\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 $SOURCE（$SOURCE_TYPE） \"$ACCESS\" $TARGET_PATH"
+#~ "（$TARGET_TYPE）。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing $SOURCE ($SOURCE_TYPE) \"$ACCESS\" to "
+#~ "$TARGET_PATH ($TARGET_TYPE).\n"
+#~ "    $TARGET_TYPE is a base type for files/directories and few confined "
+#~ "processes are allowed to modify.  These denials usually indicate "
+#~ "mislabeled files. If this is a standard file/directory that $SOURCE "
+#~ "should be able to modify, then this is probably a bug in policy.  Please "
+#~ "file a bug report.  If $SOURCE should not be modifying $TARGET_PATH, this "
+#~ "might indicate a security violation, you need to contact your security "
+#~ "administrator and report this issue.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 $SOURCE（$SOURCE_TYPE） \"$ACCESS\" $TARGET_PATH"
+#~ "（$TARGET_TYPE）。\n"
+#~ "$TARGET_TYPE 是文件/目录的基础类型，且只有几个进程可对其进行修改。这些拒绝"
+#~ "通常表示有错误标记的文件。如果这是一个 $SOURCE 应该可以修改的标准文件/目"
+#~ "录，那么这可能是在策略中有一个 bug。请提交 bug 报告。如果 $SOURCE 不应该修"
+#~ "改 $TARGET_PATH，这可能就是表示有严重的问题，您需要联络您的安全管理员并报"
+#~ "告这个问题。\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "    If you want allow $SOURCE to use $TARGET_PATH you must tell SELinux "
+#~ "about it by changing the labels. Execute the following commands: <br>\n"
+#~ "    <b># semanage fcontext -t FILE_TYPE '$TARGET_PATH%s' </b>\n"
+#~ "    <br>where FILE_TYPE is one of the following: %s.\n"
+#~ "    <br><b># restorecon -v '$TARGET_PATH%s'</b>\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    如果您想要允许 $SOURCE 使用 $TARGET_PATH，您必须修改标签来告知 "
+#~ "SELinux。请执行以下命令：<br>\n"
+#~ "    <b># semanage fcontext -t FILE_TYPE '$TARGET_PATH%s' </b>\n"
+#~ "    <br>其中 FILE_TYPE 是以下之一：%s。\n"
+#~ "    <br><b># restorecon -v '$TARGET_PATH%s'</b>\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing $SOURCE ($SOURCE_TYPE) \"$ACCESS\" on "
+#~ "$TARGET_PATH ($TARGET_TYPE).\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 $SOURCE（$SOURCE_TYPE） \"$ACCESS\" $TARGET_PATH"
+#~ "（$TARGET_TYPE）。"
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing qemu ($SOURCE) \"$ACCESS\" to $TARGET_PATH "
+#~ "($TARGET_TYPE).\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 qemu（$SOURCE）\"$ACCESS\" $TARGET_PATH"
+#~ "（$TARGET_TYPE）。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing rsync ($SOURCE) \"$ACCESS\" to $TARGET_PATH "
+#~ "($TARGET_TYPE).\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 rsync（$SOURCE） \"$ACCESS\" $TARGET_PATH"
+#~ "（$TARGET_TYPE）。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing samba ($SOURCE) \"$ACCESS\" to $TARGET_PATH "
+#~ "($TARGET_TYPE).\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 samba（$SOURCE）\"$ACCESS\" $TARGET_PATH"
+#~ "（$TARGET_TYPE）。\n"
+#~ "    "
+
+#~ msgid ""
+#~ "\n"
+#~ "    SELinux is preventing xen ($SOURCE) \"$ACCESS\" to $TARGET_PATH "
+#~ "($TARGET_TYPE).\n"
+#~ "    "
+#~ msgstr ""
+#~ "\n"
+#~ "    SELinux 正在阻止 xen（$SOURCE）\"$ACCESS\" $TARGET_PATH"
+#~ "（$TARGET_TYPE）。\n"
+#~ "    "
