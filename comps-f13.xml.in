@@ -353,6 +353,7 @@
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">authconfig-gtk</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
       <packagereq type="default">desktop-backgrounds-basic</packagereq>
@@ -806,6 +807,8 @@
     <packagelist>
       <packagereq type="mandatory">anaconda</packagereq>
       <packagereq type="mandatory">createrepo</packagereq>
+      <packagereq type="mandatory">dash</packagereq>
+      <packagereq type="mandatory">dracut</packagereq>
       <packagereq type="mandatory">firstboot</packagereq>
       <packagereq type="mandatory">gcc-c++</packagereq>
       <!-- 'kernel' is listed because we need to ensure that kernel
@@ -2542,7 +2545,6 @@
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
       <packagereq type="default">at-spi</packagereq>
       <packagereq type="default">brasero-nautilus</packagereq>
-      <packagereq type="default">bug-buddy</packagereq>
       <packagereq type="default">cheese</packagereq>
       <packagereq type="default">compiz-gnome</packagereq>
       <packagereq type="default">dasher</packagereq>
@@ -4677,6 +4679,7 @@
       <packagereq type="optional">dates</packagereq>
       <packagereq type="optional">dayplanner</packagereq>
       <packagereq type="optional">dia</packagereq>
+      <packagereq type="optional">gbirthday</packagereq>
       <packagereq type="optional">gdeskcal</packagereq>
       <packagereq type="optional">gfa</packagereq>
       <packagereq type="optional">glabels</packagereq>
@@ -4993,6 +4996,7 @@
     <packagelist>
       <packagereq type="mandatory">m17n-db-sanskrit</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-sa</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
     </packagelist>
   </group>
   <group>
