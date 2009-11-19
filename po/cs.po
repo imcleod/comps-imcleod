@@ -1,18 +1,17 @@
-# Copyright (C) 2003, 2004 Marcel Telka
 # This file is distributed under the same license as the comp-po package.
 #
 # Marcel Telka <marcel@telka.sk>, 2003, 2004.
 # Pavol Šimo <palo.simo@gmail.com>, 2007.
 # Ondrej Šulek <feonsu@gmail.com>, 2008.
 # Adam Pribyl <pribyl@lowlevel.cz>, 2008.
-# Milan Kerslahger <milan@kerslager.cz>, 2009.
+# Milan Kerslager <milan@kerslager.cz>, 2009.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: comp-po\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-11-18 14:39+0000\n"
-"PO-Revision-Date: 2009-11-18 21:28+0100\n"
+"POT-Creation-Date: 2009-11-19 08:33+0000\n"
+"PO-Revision-Date: 2009-11-19 13:20+0100\n"
 "Last-Translator: Milan Kerslager <milan@kerslager.cz>\n"
 "Language-Team: Czech <fedora-cs-list@redhat.com>\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +30,7 @@ msgstr ""
 #: ../comps-f12.xml.in.h:5 ../comps-f13.xml.in.h:5 ../comps-el4.xml.in.h:1
 #: ../comps-el5.xml.in.h:1
 msgid "Administration Tools"
-msgstr "Nástroje pro administraci"
+msgstr "Administrace systému"
 
 #: ../comps-f9.xml.in.h:3 ../comps-f10.xml.in.h:4 ../comps-f11.xml.in.h:4
 #: ../comps-f12.xml.in.h:6 ../comps-f13.xml.in.h:6
@@ -131,7 +130,7 @@ msgstr "Podpora bretonštiny"
 #: ../comps-f9.xml.in.h:21 ../comps-f10.xml.in.h:22 ../comps-f11.xml.in.h:24
 #: ../comps-f12.xml.in.h:28 ../comps-f13.xml.in.h:28 ../comps-el5.xml.in.h:8
 msgid "Buildsystem building group"
-msgstr "Skupina nástrojů pro tvorbu systému"
+msgstr "Skupina nástrojů pro tvorbu (balíčků) systému"
 
 #: ../comps-f9.xml.in.h:22 ../comps-f10.xml.in.h:23 ../comps-f11.xml.in.h:25
 #: ../comps-f12.xml.in.h:29 ../comps-f13.xml.in.h:29
@@ -161,7 +160,7 @@ msgstr "Podpora clusterů"
 #: ../comps-f9.xml.in.h:27 ../comps-f10.xml.in.h:28 ../comps-f11.xml.in.h:32
 #: ../comps-f12.xml.in.h:36 ../comps-f13.xml.in.h:37
 msgid "Core"
-msgstr "Hlavní část"
+msgstr "Úplný základ"
 
 #: ../comps-f9.xml.in.h:28 ../comps-f10.xml.in.h:29 ../comps-f11.xml.in.h:33
 #: ../comps-f12.xml.in.h:39 ../comps-f13.xml.in.h:40
@@ -280,7 +279,7 @@ msgstr "Podpora faerštiny"
 #: ../comps-f9.xml.in.h:49 ../comps-f10.xml.in.h:50 ../comps-f11.xml.in.h:56
 #: ../comps-f12.xml.in.h:63 ../comps-f13.xml.in.h:64
 msgid "Fedora Eclipse"
-msgstr "Fedora eclipse"
+msgstr "Fedora Eclipse"
 
 #: ../comps-f9.xml.in.h:50 ../comps-f10.xml.in.h:51 ../comps-f11.xml.in.h:57
 #: ../comps-f12.xml.in.h:64 ../comps-f13.xml.in.h:65 ../comps-el4.xml.in.h:18
@@ -327,7 +326,7 @@ msgstr ""
 #: ../comps-f12.xml.in.h:75 ../comps-f13.xml.in.h:76 ../comps-el4.xml.in.h:20
 #: ../comps-el5.xml.in.h:24
 msgid "GNOME Desktop Environment"
-msgstr "GNOME: prostředí desktopu"
+msgstr "GNOME: uživatelské prostředí"
 
 #: ../comps-f9.xml.in.h:58 ../comps-f10.xml.in.h:59 ../comps-f11.xml.in.h:69
 #: ../comps-f12.xml.in.h:76 ../comps-f13.xml.in.h:77 ../comps-el4.xml.in.h:21
@@ -373,7 +372,7 @@ msgstr "Podpora němčiny"
 #: ../comps-f12.xml.in.h:83 ../comps-f13.xml.in.h:84 ../comps-el4.xml.in.h:23
 #: ../comps-el5.xml.in.h:28
 msgid "Graphical Internet"
-msgstr "Grafický internet"
+msgstr "Grafický Internet"
 
 #: ../comps-f9.xml.in.h:66 ../comps-f10.xml.in.h:67 ../comps-f11.xml.in.h:77
 #: ../comps-f12.xml.in.h:84 ../comps-f13.xml.in.h:85 ../comps-el4.xml.in.h:24
@@ -509,7 +508,7 @@ msgstr "Vývoj v Javě"
 #: ../comps-f12.xml.in.h:110 ../comps-f13.xml.in.h:111
 #: ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:36
 msgid "KDE (K Desktop Environment)"
-msgstr "KDE: prostředí desktopu"
+msgstr "KDE: uživatelské prostředí"
 
 #: ../comps-f9.xml.in.h:88 ../comps-f10.xml.in.h:92 ../comps-f11.xml.in.h:104
 #: ../comps-f12.xml.in.h:111 ../comps-f13.xml.in.h:112
@@ -586,7 +585,7 @@ msgstr "Zastaralý vývoj software"
 #: ../comps-f11.xml.in.h:123 ../comps-f12.xml.in.h:131
 #: ../comps-f13.xml.in.h:132
 msgid "Legacy Software Support"
-msgstr "Podpora pro zastaralého software"
+msgstr "Podpora pro zastaralý software"
 
 #: ../comps-f9.xml.in.h:102 ../comps-f10.xml.in.h:109
 #: ../comps-f11.xml.in.h:124 ../comps-f12.xml.in.h:132
@@ -764,7 +763,7 @@ msgstr "Podpora ruštiny"
 
 #: ../comps-f9.xml.in.h:131 ../comps-f10.xml.in.h:141
 msgid "SUGAR Desktop Environment"
-msgstr "SUGAR: prostředí desktopu"
+msgstr "SUGAR: uživatelské prostředí"
 
 #: ../comps-f9.xml.in.h:132
 msgid "SUGAR is the desktop environment developed for the OLPC XO."
@@ -1095,7 +1094,7 @@ msgid ""
 "applications do not require the X Window System."
 msgstr ""
 "Skupina obsahuje textové klienty pro e-mail, WWW a chatovací programy, které "
-"nepotřebují X Window System."
+"nepotřebují grafické prostředí X Window System."
 
 #: ../comps-f9.xml.in.h:180 ../comps-f10.xml.in.h:193
 #: ../comps-f11.xml.in.h:221 ../comps-f12.xml.in.h:232
@@ -1317,7 +1316,7 @@ msgstr "Software pro výuku o vyučování."
 
 #: ../comps-f10.xml.in.h:71 ../comps-f11.xml.in.h:81
 msgid "Haskell Development"
-msgstr "Haskell: vývoj software"
+msgstr "Vývoj software pro Haskell"
 
 #: ../comps-f10.xml.in.h:77 ../comps-f11.xml.in.h:88 ../comps-f12.xml.in.h:95
 #: ../comps-f13.xml.in.h:96
@@ -1505,7 +1504,7 @@ msgstr "Podpora sardinštiny"
 #: ../comps-f11.xml.in.h:182 ../comps-f12.xml.in.h:193
 #: ../comps-f13.xml.in.h:194
 msgid "Sugar Desktop Environment"
-msgstr "Sugar Desktop Environment"
+msgstr "Sugar: uživatelské prostředí"
 
 #: ../comps-f11.xml.in.h:183 ../comps-f12.xml.in.h:194
 #: ../comps-f13.xml.in.h:195
@@ -1521,7 +1520,8 @@ msgstr ""
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
-msgstr "Podpora pro vývoj programů v programovacím jazyku Objective CAML."
+msgstr ""
+"Podpora a knihovny pro vývoj programů v programovacím jazyku Objective CAML."
 
 #: ../comps-f11.xml.in.h:189 ../comps-f12.xml.in.h:200
 #: ../comps-f13.xml.in.h:201
@@ -1695,3 +1695,9 @@ msgstr "XEmacs"
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
 msgstr "Kolekce nástrojů a prostředků pro podporu Češtiny."
+
+#~ msgid "Eclipse"
+#~ msgstr "Eclipse"
+
+#~ msgid "The Eclipse Integrated Development Environment."
+#~ msgstr "Integrované vývojové prostředí založené na Eclipse."
