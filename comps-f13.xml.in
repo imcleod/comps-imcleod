@@ -5163,7 +5163,6 @@
     <packagelist>
       <packagereq type="mandatory">alsa-utils</packagereq>
       <packagereq type="mandatory">vorbis-tools</packagereq>
-      <packagereq type="conditional" requires="xine-lib">xine-lib-pulseaudio</packagereq>
       <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="default">brasero</packagereq>
       <packagereq type="default">cdparanoia</packagereq>
