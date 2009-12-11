@@ -3924,7 +3924,6 @@
       <packagereq type="conditional" requires="man-pages">man-pages-ko</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ko</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ko_KR</packagereq>
-      <packagereq type="conditional" requires="m17n-db">m17n-db-korean</packagereq>
       <packagereq type="conditional" requires="poppler">poppler-data</packagereq>
       <packagereq type="default">un-core-batang-fonts</packagereq>
       <packagereq type="default">un-core-dinaru-fonts</packagereq>
@@ -3938,6 +3937,7 @@
       <packagereq type="optional">baekmuk-ttf-gulim-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-hline-fonts</packagereq>
       <packagereq type="optional">lv</packagereq>
+      <packagereq type="optional">m17n-db-korean</packagereq>
       <packagereq type="optional">nabi</packagereq>
       <packagereq type="optional">un-extra-fonts-bom</packagereq>
       <packagereq type="optional">un-extra-fonts-jamobatang</packagereq>
