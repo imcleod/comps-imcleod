@@ -661,8 +661,6 @@
     <langonly>zh</langonly>
     <packagelist>
       <packagereq type="mandatory">wqy-zenhei-fonts</packagereq>
-      <packagereq type="default">cjkuni-ukai-fonts</packagereq>
-      <packagereq type="default">cjkuni-uming-fonts</packagereq>
       <packagereq type="conditional" requires="autocorr-en">autocorr-zh</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh_TW</packagereq>
@@ -680,6 +678,8 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_CN</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
       <packagereq type="conditional" requires="poppler">poppler-data</packagereq>
+      <packagereq type="default">cjkuni-ukai-fonts</packagereq>
+      <packagereq type="default">cjkuni-uming-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
@@ -1285,8 +1285,8 @@
       <packagereq type="mandatory">eclipse-jdt</packagereq>
       <packagereq type="default">eclipse-callgraph</packagereq>
       <packagereq type="default">eclipse-changelog</packagereq>
-      <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-dtp</packagereq>
+      <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-mylyn</packagereq>
       <packagereq type="default">eclipse-mylyn-java</packagereq>
       <packagereq type="default">eclipse-oprofile</packagereq>
@@ -1405,11 +1405,11 @@
       <packagereq type="default">avra</packagereq>
       <packagereq type="default">avrdude</packagereq>
       <packagereq type="default">covered</packagereq>
+      <packagereq type="default">dfu-programmer</packagereq>
       <packagereq type="default">dia-CMOS</packagereq>
       <packagereq type="default">dia-Digital</packagereq>
       <packagereq type="default">dia-electric2</packagereq>
       <packagereq type="default">dia-electronic</packagereq>
-      <packagereq type="default">dfu-programmer</packagereq>
       <packagereq type="default">dinotrace</packagereq>
       <packagereq type="default">drawtiming</packagereq>
       <packagereq type="default">eclipse-cdt</packagereq>
@@ -3077,10 +3077,8 @@
       <packagereq type="default">cabal2spec</packagereq>
       <packagereq type="default">darcs</packagereq>
       <packagereq type="default">ghc</packagereq>
-      <packagereq type="default">ghc-doc</packagereq>
-      <packagereq type="default">happy</packagereq>
-      <packagereq type="default">haskell-platform</packagereq>
       <packagereq type="default">ghc-cgi-devel</packagereq>
+      <packagereq type="default">ghc-doc</packagereq>
       <packagereq type="default">ghc-editline-devel</packagereq>
       <packagereq type="default">ghc-fgl-devel</packagereq>
       <packagereq type="default">ghc-GLUT-devel</packagereq>
@@ -3091,6 +3089,8 @@
       <packagereq type="default">ghc-time-devel</packagereq>
       <packagereq type="default">ghc-utf8-string-devel</packagereq>
       <packagereq type="default">ghc-zlib-devel</packagereq>
+      <packagereq type="default">happy</packagereq>
+      <packagereq type="default">haskell-platform</packagereq>
       <packagereq type="optional">cpphs</packagereq>
       <packagereq type="optional">ghc-gtk-devel</packagereq>
       <packagereq type="optional">ghc-gtk2hs-doc</packagereq>
@@ -3766,9 +3766,9 @@
       <packagereq type="optional">kbibtex</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
       <packagereq type="optional">kchmviewer</packagereq>
+      <packagereq type="optional">kcm_touchpad</packagereq>
       <packagereq type="optional">kcoloredit</packagereq>
       <packagereq type="optional">kcometen4</packagereq>
-      <packagereq type="optional">kcm_touchpad</packagereq>
       <packagereq type="optional">kde-colorscheme-plastik</packagereq>
       <packagereq type="optional">kde-plasma-ihatethecashew</packagereq>
       <packagereq type="optional">kde-plasma-ktorrent</packagereq>
@@ -5577,9 +5577,9 @@
       <packagereq type="optional">iftop</packagereq>
       <packagereq type="optional">inadyn-mt</packagereq>
       <packagereq type="optional">incron</packagereq>
-      <packagereq type="optional">ipsec-tools</packagereq>
       <packagereq type="optional">iotop</packagereq>
       <packagereq type="optional">ip6sic</packagereq>
+      <packagereq type="optional">ipsec-tools</packagereq>
       <packagereq type="optional">iptraf</packagereq>
       <packagereq type="optional">ircp-tray</packagereq>
       <packagereq type="optional">isic</packagereq>
@@ -5811,10 +5811,10 @@
       <packagereq type="optional">trickle</packagereq>
       <packagereq type="optional">w3m</packagereq>
       <packagereq type="optional">websec</packagereq>
+      <packagereq type="optional">whatmask</packagereq>
       <packagereq type="optional">xprobe2</packagereq>
       <packagereq type="optional">yafc</packagereq>
       <packagereq type="optional">youtube-dl</packagereq>
-      <packagereq type="optional">whatmask</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5978,8 +5978,8 @@
       <packagereq type="mandatory">paktype-naqsh-fonts</packagereq>
       <packagereq type="mandatory">paktype-tehreer-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ur</packagereq>
-      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ur</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">nafees-web-naskh-fonts</packagereq>
