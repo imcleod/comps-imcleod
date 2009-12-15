@@ -5090,6 +5090,7 @@
       <packagereq type="mandatory">lklug-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib-sinhala</packagereq>
       <packagereq type="mandatory">m17n-db-sinhala</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-si</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-sayura</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-si</packagereq>
