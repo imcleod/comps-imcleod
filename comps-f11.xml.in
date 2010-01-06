@@ -4007,6 +4007,7 @@
     <uservisible>true</uservisible>
     <langonly>mai</langonly>
     <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-mai</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Maithili</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mai_IN</packagereq>

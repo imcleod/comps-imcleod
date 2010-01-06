@@ -4265,6 +4265,7 @@
     <packagelist>
       <packagereq type="mandatory">lohit-maithili-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib-maithili</packagereq>
+      <packagereq type="conditional" requires="hunspell">hunspell-mai</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Maithili</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mai_IN</packagereq>
