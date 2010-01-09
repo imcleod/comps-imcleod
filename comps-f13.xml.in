@@ -5371,20 +5371,20 @@
       <packagereq type="mandatory">postgresql</packagereq>
       <packagereq type="default">libdbi-dbd-pgsql</packagereq>
       <packagereq type="default">perl-DBD-Pg</packagereq>
-      <packagereq type="default">postgresql-python</packagereq>
       <packagereq type="default">postgresql-server</packagereq>
+      <packagereq type="default">PyGreSQL</packagereq>
       <packagereq type="default">rhdb-utils</packagereq>
       <packagereq type="default">unixODBC</packagereq>
       <packagereq type="optional">postgresql-contrib</packagereq>
       <packagereq type="optional">postgresql-docs</packagereq>
       <packagereq type="optional">postgresql-jdbc</packagereq>
       <packagereq type="optional">postgresql-odbc</packagereq>
-      <packagereq type="optional">postgresql-tcl</packagereq>
       <packagereq type="optional">postgresql-test</packagereq>
       <packagereq type="optional">qt-odbc</packagereq>
       <packagereq type="optional">qt-postgresql</packagereq>
       <packagereq type="optional">qt3-ODBC</packagereq>
       <packagereq type="optional">qt3-PostgreSQL</packagereq>
+      <packagereq type="optional">tcl-pgtcl</packagereq>
       <packagereq type="optional">unixODBC-kde</packagereq>
     </packagelist>
   </group>
