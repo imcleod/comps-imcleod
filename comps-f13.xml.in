@@ -4931,6 +4931,7 @@
     <uservisible>true</uservisible>
     <langonly>ro</langonly>
     <packagelist>
+      <packagereq type="mandatory">terminus-console-fonts</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ro</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ro</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-ro</packagereq>
@@ -4941,6 +4942,7 @@
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">terminus-fonts</packagereq>
     </packagelist>
   </group>
   <group>
