@@ -5160,6 +5160,7 @@
     <packagelist>
       <packagereq type="mandatory">samba</packagereq>
       <packagereq type="mandatory">samba-client</packagereq>
+      <packagereq type="default">cifs-utils</packagereq>
       <packagereq type="default">system-config-samba</packagereq>
     </packagelist>
   </group>
@@ -5489,6 +5490,7 @@
     <packagelist>
       <packagereq type="default">BackupPC</packagereq>
       <packagereq type="default">bonnie++</packagereq>
+      <packagereq type="default">cifs-utils</packagereq>
       <packagereq type="default">jigdo</packagereq>
       <packagereq type="default">NetworkManager-openconnect</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
