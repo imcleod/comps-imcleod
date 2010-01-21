@@ -2547,7 +2547,7 @@
       <packagereq type="mandatory">gvfs-fuse</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">nautilus</packagereq>
-      <packagereq type="mandatory">PolicyKit-gnome</packagereq>
+      <packagereq type="mandatory">polkit-gnome</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
@@ -6282,7 +6282,7 @@
       <packagereq type="default">gdm</packagereq>
       <packagereq type="default">mousepad</packagereq>
       <packagereq type="default">orage</packagereq>
-      <packagereq type="default">PolicyKit-gnome</packagereq>
+      <packagereq type="default">polkit-gnome</packagereq>
       <packagereq type="default">Terminal</packagereq>
       <packagereq type="default">thunar-archive-plugin</packagereq>
       <packagereq type="default">thunar-volman</packagereq>
