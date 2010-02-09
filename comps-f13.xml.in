@@ -664,7 +664,6 @@
     <uservisible>true</uservisible>
     <langonly>zh</langonly>
     <packagelist>
-      <packagereq type="mandatory">wqy-zenhei-fonts</packagereq>
       <packagereq type="conditional" requires="autocorr-en">autocorr-zh</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh_TW</packagereq>
@@ -683,6 +682,7 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-zh_TW</packagereq>
       <packagereq type="default">cjkuni-ukai-fonts</packagereq>
       <packagereq type="default">cjkuni-uming-fonts</packagereq>
+      <packagereq type="default">wqy-zenhei-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
@@ -708,6 +708,7 @@
       <packagereq type="optional">stardict-dic-zh_TW</packagereq>
       <packagereq type="optional">taipeifonts</packagereq>
       <packagereq type="optional">wqy-bitmap-fonts</packagereq>
+      <packagereq type="optional">wqy-microhei-fonts</packagereq>
       <packagereq type="optional">wqy-unibit-fonts</packagereq>
     </packagelist>
   </group>
@@ -2096,6 +2097,7 @@
       <packagereq type="optional">vollkorn-fonts</packagereq>
       <packagereq type="optional">woodardworks-laconic-fonts</packagereq>
       <packagereq type="optional">woodardworks-laconic-shadow-fonts</packagereq>
+      <packagereq type="optional">wqy-microhei-fonts</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
       <packagereq type="optional">yanone-kaffeesatz-fonts</packagereq>
       <packagereq type="optional">yanone-tagesschrift-fonts</packagereq>
@@ -3281,6 +3283,7 @@
       <packagereq type="optional">ibus-table-wubi</packagereq>
       <packagereq type="optional">ibus-table-xinhua</packagereq>
       <packagereq type="optional">ibus-table-yong</packagereq>
+      <packagereq type="optional">ibus-xkbc</packagereq>
       <packagereq type="optional">iok</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">m17n-contrib-esperanto</packagereq>
