@@ -1289,6 +1289,7 @@
       <packagereq type="mandatory">eclipse-jdt</packagereq>
       <packagereq type="default">eclipse-callgraph</packagereq>
       <packagereq type="default">eclipse-changelog</packagereq>
+      <packagereq type="default">eclipse-collabnet-merge</packagereq>
       <packagereq type="default">eclipse-dtp</packagereq>
       <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-mylyn</packagereq>
@@ -1300,6 +1301,8 @@
       <packagereq type="default">eclipse-subclipse</packagereq>
       <packagereq type="default">eclipse-valgrind</packagereq>
       <packagereq type="optional">eclipse-cmakeed</packagereq>
+      <packagereq type="optional">eclipse-dltk-ruby</packagereq>
+      <packagereq type="optional">eclipse-dltk-tcl</packagereq>
       <packagereq type="optional">eclipse-epic</packagereq>
       <packagereq type="optional">eclipse-findbugs</packagereq>
       <packagereq type="optional">eclipse-moreunit</packagereq>
