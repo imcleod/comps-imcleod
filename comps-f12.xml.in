@@ -1283,8 +1283,8 @@
       <packagereq type="mandatory">eclipse-jdt</packagereq>
       <packagereq type="default">eclipse-callgraph</packagereq>
       <packagereq type="default">eclipse-changelog</packagereq>
-      <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-dtp</packagereq>
+      <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-mylyn</packagereq>
       <packagereq type="default">eclipse-mylyn-java</packagereq>
       <packagereq type="default">eclipse-oprofile</packagereq>
@@ -3074,10 +3074,8 @@
       <packagereq type="default">cabal2spec</packagereq>
       <packagereq type="default">darcs</packagereq>
       <packagereq type="default">ghc</packagereq>
-      <packagereq type="default">ghc-doc</packagereq>
-      <packagereq type="default">happy</packagereq>
-      <packagereq type="default">haskell-platform</packagereq>
       <packagereq type="default">ghc-cgi-devel</packagereq>
+      <packagereq type="default">ghc-doc</packagereq>
       <packagereq type="default">ghc-editline-devel</packagereq>
       <packagereq type="default">ghc-fgl-devel</packagereq>
       <packagereq type="default">ghc-GLUT-devel</packagereq>
@@ -3088,6 +3086,8 @@
       <packagereq type="default">ghc-time-devel</packagereq>
       <packagereq type="default">ghc-utf8-string-devel</packagereq>
       <packagereq type="default">ghc-zlib-devel</packagereq>
+      <packagereq type="default">happy</packagereq>
+      <packagereq type="default">haskell-platform</packagereq>
       <packagereq type="optional">cpphs</packagereq>
       <packagereq type="optional">ghc-gtk-devel</packagereq>
       <packagereq type="optional">ghc-gtk2hs-doc</packagereq>
@@ -3762,9 +3762,9 @@
       <packagereq type="optional">kbibtex</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
       <packagereq type="optional">kchmviewer</packagereq>
+      <packagereq type="optional">kcm_touchpad</packagereq>
       <packagereq type="optional">kcoloredit</packagereq>
       <packagereq type="optional">kcometen4</packagereq>
-      <packagereq type="optional">kcm_touchpad</packagereq>
       <packagereq type="optional">kde-colorscheme-plastik</packagereq>
       <packagereq type="optional">kde-plasma-ihatethecashew</packagereq>
       <packagereq type="optional">kde-plasma-ktorrent</packagereq>
@@ -5812,10 +5812,10 @@
       <packagereq type="optional">trickle</packagereq>
       <packagereq type="optional">w3m</packagereq>
       <packagereq type="optional">websec</packagereq>
+      <packagereq type="optional">whatmask</packagereq>
       <packagereq type="optional">xprobe2</packagereq>
       <packagereq type="optional">yafc</packagereq>
       <packagereq type="optional">youtube-dl</packagereq>
-      <packagereq type="optional">whatmask</packagereq>
     </packagelist>
   </group>
   <group>
