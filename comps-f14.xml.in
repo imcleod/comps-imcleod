@@ -2036,6 +2036,7 @@
       <packagereq type="optional">oflb-smonohand-fonts</packagereq>
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
       <packagereq type="optional">openoffice.org-opensymbol-fonts</packagereq>
+      <packagereq type="optional">paratype-pt-sans-fonts</packagereq>
       <packagereq type="optional">roadstencil-fonts</packagereq>
       <packagereq type="optional">saab-fonts</packagereq>
       <packagereq type="optional">samyak-devanagari-fonts</packagereq>
@@ -5016,6 +5017,7 @@
       <packagereq type="conditional" requires="moodle">moodle-ru</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-ru</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ru</packagereq>
+      <packagereq type="default">paratype-pt-sans-fonts</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
