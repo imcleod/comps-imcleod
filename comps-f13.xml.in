@@ -379,7 +379,10 @@
       <packagereq type="default">xorg-x11-utils</packagereq>
       <packagereq type="optional">alltray</packagereq>
       <packagereq type="optional">aterm</packagereq>
-      <packagereq type="optional">bitmap-fonts</packagereq>
+      <packagereq type="optional">bitmap-console-fonts</packagereq>
+      <packagereq type="optional">bitmap-fangsongti-fonts</packagereq>
+      <packagereq type="optional">bitmap-fixed-fonts</packagereq>
+      <packagereq type="optional">bitmap-lucida-typewriter-fonts</packagereq>
       <packagereq type="optional">devilspie</packagereq>
       <packagereq type="optional">gdm</packagereq>
       <packagereq type="optional">gxmessage</packagereq>
@@ -396,6 +399,7 @@
       <packagereq type="optional">system-switch-displaymanager</packagereq>
       <packagereq type="optional">termit</packagereq>
       <packagereq type="optional">tigervnc-server</packagereq>
+      <packagereq type="optional">ucs-miscfixed-fonts</packagereq>
       <packagereq type="optional">uim-gtk2</packagereq>
       <packagereq type="optional">workrave</packagereq>
       <packagereq type="optional">xclip</packagereq>
@@ -4045,8 +4049,10 @@
       <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
       <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
-      <packagereq type="optional">bitmap-cjk-fonts</packagereq>
-      <packagereq type="optional">bitmap-fonts</packagereq>
+      <packagereq type="optional">bitmap-console-fonts</packagereq>
+      <packagereq type="optional">bitmap-fangsongti-fonts</packagereq>
+      <packagereq type="optional">bitmap-fixed-fonts</packagereq>
+      <packagereq type="optional">bitmap-lucida-typewriter-fonts</packagereq>
       <packagereq type="optional">ctan-musixtex-fonts</packagereq>
       <packagereq type="optional">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="optional">culmus-caladings-clm-fonts</packagereq>
@@ -4089,6 +4095,7 @@
       <packagereq type="optional">taipeifonts</packagereq>
       <packagereq type="optional">terminus-fonts</packagereq>
       <packagereq type="optional">terminus-fonts-console</packagereq>
+      <packagereq type="optional">ucs-miscfixed-fonts</packagereq>
       <packagereq type="optional">urw-fonts</packagereq>
       <packagereq type="optional">wqy-bitmap-fonts</packagereq>
       <packagereq type="optional">wqy-unibit-fonts</packagereq>
