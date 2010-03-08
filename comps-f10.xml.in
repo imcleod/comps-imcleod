@@ -767,10 +767,10 @@
       <packagereq type="default">coolkey-devel</packagereq>
       <packagereq type="default">cyrus-sasl-devel</packagereq>
       <packagereq type="default">db4-devel</packagereq>
-      <packagereq type="default">dbus-devel</packagereq>
       <packagereq type="default">dbus-cxx-devel</packagereq>
       <packagereq type="default">dbus-cxx-doc</packagereq>
       <packagereq type="default">dbus-cxx-tools</packagereq>
+      <packagereq type="default">dbus-devel</packagereq>
       <packagereq type="default">expat-devel</packagereq>
       <packagereq type="default">gdbm-devel</packagereq>
       <packagereq type="default">geoclue-devel</packagereq>
@@ -1372,13 +1372,13 @@
       <packagereq type="mandatory">fedora-packager</packagereq>
       <packagereq type="mandatory">git</packagereq>
       <packagereq type="mandatory">koji</packagereq>
-      <packagereq type="mandatory">mercurial</packagereq>
       <packagereq type="mandatory">make</packagereq>
+      <packagereq type="mandatory">mercurial</packagereq>
       <packagereq type="mandatory">mock</packagereq>
       <packagereq type="mandatory">plague-client</packagereq>
+      <packagereq type="mandatory">redhat-rpm-config</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
       <packagereq type="mandatory">rpmdevtools</packagereq>
-      <packagereq type="mandatory">redhat-rpm-config</packagereq>
       <packagereq type="optional">cpanspec</packagereq>
     </packagelist>
   </group>
@@ -1447,8 +1447,8 @@
       <packagereq type="default">un-core-fonts-dotum</packagereq>
       <packagereq type="default">VLGothic-fonts</packagereq>
       <packagereq type="optional">andika-fonts</packagereq>
-      <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">apa-new-athena-unicode-fonts</packagereq>
+      <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">asana-math-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-batang</packagereq>
       <packagereq type="optional">baekmuk-ttf-fonts-dotum</packagereq>
@@ -1461,8 +1461,8 @@
       <packagereq type="optional">charis-fonts</packagereq>
       <packagereq type="optional">chisholm-letterslaughing-fonts</packagereq>
       <packagereq type="optional">chisholm-to-be-continued-fonts</packagereq>
-      <packagereq type="optional">conakry-fonts</packagereq>
       <packagereq type="optional">cjkunifonts-ukai</packagereq>
+      <packagereq type="optional">conakry-fonts</packagereq>
       <packagereq type="optional">darkgarden-fonts</packagereq>
       <packagereq type="optional">dejavu-lgc-fonts</packagereq>
       <packagereq type="optional">doulos-fonts</packagereq>
@@ -3066,9 +3066,9 @@
       <packagereq type="optional">kbibtex</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
       <packagereq type="optional">kchmviewer</packagereq>
+      <packagereq type="optional">kcm_touchpad</packagereq>
       <packagereq type="optional">kcoloredit</packagereq>
       <packagereq type="optional">kcometen4</packagereq>
-      <packagereq type="optional">kcm_touchpad</packagereq>
       <packagereq type="optional">kde-colorscheme-plastik</packagereq>
       <packagereq type="optional">kde-plasma-ihatethecashew</packagereq>
       <packagereq type="optional">kde-plasma-ktorrent</packagereq>
@@ -3093,8 +3093,8 @@
       <packagereq type="optional">kgrab</packagereq>
       <packagereq type="optional">kiconedit</packagereq>
       <packagereq type="optional">kio-ftps</packagereq>
-      <packagereq type="optional">kio_gopher</packagereq>
       <packagereq type="optional">kiosktool</packagereq>
+      <packagereq type="optional">kio_gopher</packagereq>
       <packagereq type="optional">klamav</packagereq>
       <packagereq type="optional">kleansweep</packagereq>
       <packagereq type="optional">kmenu-gnome</packagereq>
@@ -3783,7 +3783,7 @@
       <packagereq type="optional">dates</packagereq>
       <packagereq type="optional">dayplanner</packagereq>
       <packagereq type="optional">dia</packagereq>
-      <packagereq type="optional">gbirthday</packagereq>      
+      <packagereq type="optional">gbirthday</packagereq>
       <packagereq type="optional">gdeskcal</packagereq>
       <packagereq type="optional">gfa</packagereq>
       <packagereq type="optional">glabels</packagereq>
@@ -3827,8 +3827,8 @@
       <packagereq type="optional">taskcoach</packagereq>
       <packagereq type="optional">taskjuggler</packagereq>
       <packagereq type="optional">tellico</packagereq>
-      <packagereq type="optional">texmaker</packagereq>
       <packagereq type="optional">tetex-IEEEtran</packagereq>
+      <packagereq type="optional">texmaker</packagereq>
       <packagereq type="optional">tinyerp</packagereq>
       <packagereq type="optional">tinyerp-server</packagereq>
       <packagereq type="optional">vym</packagereq>
@@ -3870,9 +3870,9 @@
       <packagereq type="default">cpan-upload</packagereq>
       <packagereq type="default">git-cpan-patch</packagereq>
       <packagereq type="default">perltidy</packagereq>
-      <packagereq type="optional">vim-perl-support</packagereq>
       <packagereq type="optional">eclipse-epic</packagereq>
       <packagereq type="optional">perl-Task-Catalyst</packagereq>
+      <packagereq type="optional">vim-perl-support</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4772,10 +4772,10 @@
       <packagereq type="optional">trickle</packagereq>
       <packagereq type="optional">w3m</packagereq>
       <packagereq type="optional">websec</packagereq>
+      <packagereq type="optional">whatmask</packagereq>
       <packagereq type="optional">xprobe2</packagereq>
       <packagereq type="optional">yafc</packagereq>
       <packagereq type="optional">youtube-dl</packagereq>
-      <packagereq type="optional">whatmask</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5189,6 +5189,7 @@
       <packagereq type="optional">thunar-shares-plugin</packagereq>
       <packagereq type="optional">thunar-vcs-plugin</packagereq>
       <packagereq type="optional">xfbib</packagereq>
+      <packagereq type="optional">xfburn</packagereq>
       <packagereq type="optional">xfce-mcs-plugin-gsynaptics</packagereq>
       <packagereq type="optional">xfce-mcs-plugins-extra</packagereq>
       <packagereq type="optional">xfce4-battery-plugin</packagereq>
@@ -5226,7 +5227,6 @@
       <packagereq type="optional">xfce4-xfswitch-plugin</packagereq>
       <packagereq type="optional">xfce4-xkb-plugin</packagereq>
       <packagereq type="optional">xfce4-xmms-plugin</packagereq>
-      <packagereq type="optional">xfburn</packagereq>
       <packagereq type="optional">xfmpc</packagereq>
       <packagereq type="optional">xfprint</packagereq>
       <packagereq type="optional">xfwm4-themes</packagereq>
