@@ -91,6 +91,11 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional">ccache</packagereq>
+      <packagereq type="optional">clips</packagereq>
+      <packagereq type="optional">clips-devel</packagereq>
+      <packagereq type="optional">clips-doc</packagereq>
+      <packagereq type="optional">clips-emacs</packagereq>
+      <packagereq type="optional">clips-xclips</packagereq>
       <packagereq type="optional">cmake</packagereq>
       <packagereq type="optional">cmucl</packagereq>
       <packagereq type="optional">colordiff</packagereq>
