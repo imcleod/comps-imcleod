@@ -1802,6 +1802,7 @@
     <packagelist>
       <packagereq type="mandatory">fontforge</packagereq>
       <packagereq type="mandatory">xgridfit</packagereq>
+      <packagereq type="default">fontaine</packagereq>
       <packagereq type="default">fontmatrix</packagereq>
       <packagereq type="default">fontpackages-devel</packagereq>
       <packagereq type="default">fonttools</packagereq>
@@ -2582,6 +2583,7 @@
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
       <packagereq type="default">at-spi</packagereq>
       <packagereq type="default">brasero-nautilus</packagereq>
+      <packagereq type="default">caribou</packagereq>
       <packagereq type="default">cheese</packagereq>
       <packagereq type="default">compiz-gnome</packagereq>
       <packagereq type="default">deja-dup</packagereq>
