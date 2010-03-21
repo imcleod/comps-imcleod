@@ -1,23 +1,23 @@
-# This file is distributed under the same license as the comp-po package.
+# Copyright (C) Free Software Foundation
+# This file is distributed under the same license as the comps package.
 #
 # Marcel Telka <marcel@telka.sk>, 2003, 2004.
 # Pavol Šimo <palo.simo@gmail.com>, 2007.
 # Ondrej Šulek <feonsu@gmail.com>, 2008.
 # Adam Pribyl <pribyl@lowlevel.cz>, 2008.
-#
 # Milan Kerslager <milan@kerslager.cz>, 2009, 2010.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: comp-po\n"
+"Project-Id-Version: comps-po 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-02-20 15:15+0000\n"
-"PO-Revision-Date: 2010-02-20 17:37+0100\n"
+"POT-Creation-Date: 2010-03-18 09:27+0000\n"
+"PO-Revision-Date: 2010-03-18 10:45+0100\n"
 "Last-Translator: Milan Kerslager <milan@kerslager.cz>\n"
-"Language-Team: Czech <fedora-cs-list@redhat.com>\n"
+"Language-Team: Czech <diskuse@lists.l10n.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: ../comps-f9.xml.in.h:1 ../comps-f10.xml.in.h:1 ../comps-f11.xml.in.h:1
@@ -214,7 +214,7 @@ msgstr "Vývojářské nástroje"
 #: ../comps-f9.xml.in.h:37 ../comps-f10.xml.in.h:38 ../comps-f11.xml.in.h:43
 #: ../comps-f12.xml.in.h:49 ../comps-f13.xml.in.h:50
 msgid "Dial-up Networking Support"
-msgstr "Podpora telefonického připojení"
+msgstr "Telefonické připojení"
 
 #: ../comps-f9.xml.in.h:38 ../comps-f10.xml.in.h:39 ../comps-f11.xml.in.h:44
 #: ../comps-f12.xml.in.h:51 ../comps-f13.xml.in.h:53
@@ -285,7 +285,7 @@ msgstr "Fedora Eclipse"
 #: ../comps-f12.xml.in.h:64 ../comps-f13.xml.in.h:67 ../comps-el4.xml.in.h:18
 #: ../comps-el5.xml.in.h:22
 msgid "Fedora Packager"
-msgstr "Fedora Packager"
+msgstr "Vývoj balíčků pro Fedoru"
 
 #: ../comps-f9.xml.in.h:51 ../comps-f10.xml.in.h:52 ../comps-f11.xml.in.h:59
 #: ../comps-f12.xml.in.h:66 ../comps-f13.xml.in.h:69
@@ -326,13 +326,13 @@ msgstr ""
 #: ../comps-f12.xml.in.h:75 ../comps-f13.xml.in.h:78 ../comps-el4.xml.in.h:20
 #: ../comps-el5.xml.in.h:24
 msgid "GNOME Desktop Environment"
-msgstr "GNOME: uživatelské prostředí"
+msgstr "Uživatelské prostředí GNOME"
 
 #: ../comps-f9.xml.in.h:58 ../comps-f10.xml.in.h:59 ../comps-f11.xml.in.h:69
 #: ../comps-f12.xml.in.h:76 ../comps-f13.xml.in.h:79 ../comps-el4.xml.in.h:21
 #: ../comps-el5.xml.in.h:25
 msgid "GNOME Software Development"
-msgstr "GNOME: vývoj software"
+msgstr "Vývoj pro GNOME"
 
 #: ../comps-f9.xml.in.h:59 ../comps-f10.xml.in.h:60 ../comps-f11.xml.in.h:70
 #: ../comps-f12.xml.in.h:77 ../comps-f13.xml.in.h:80
@@ -507,13 +507,13 @@ msgstr "Vývoj v Javě"
 #: ../comps-f9.xml.in.h:87 ../comps-f10.xml.in.h:91 ../comps-f11.xml.in.h:103
 #: ../comps-f12.xml.in.h:110 ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:36
 msgid "KDE (K Desktop Environment)"
-msgstr "KDE: uživatelské prostředí"
+msgstr "Uživatelské prostředí KDE"
 
 #: ../comps-f9.xml.in.h:88 ../comps-f10.xml.in.h:92 ../comps-f11.xml.in.h:104
 #: ../comps-f12.xml.in.h:111 ../comps-f13.xml.in.h:114
 #: ../comps-el4.xml.in.h:34 ../comps-el5.xml.in.h:37
 msgid "KDE Software Development"
-msgstr "Vývoj programů pro KDE"
+msgstr "Vývoj pro KDE"
 
 #: ../comps-f9.xml.in.h:89 ../comps-f10.xml.in.h:93 ../comps-f11.xml.in.h:105
 #: ../comps-f12.xml.in.h:112
@@ -762,7 +762,7 @@ msgstr "Podpora ruštiny"
 
 #: ../comps-f9.xml.in.h:131 ../comps-f10.xml.in.h:141
 msgid "SUGAR Desktop Environment"
-msgstr "SUGAR: uživatelské prostředí"
+msgstr "Uživatelské prostředí SUGAR"
 
 #: ../comps-f9.xml.in.h:132
 msgid "SUGAR is the desktop environment developed for the OLPC XO."
@@ -928,7 +928,7 @@ msgstr "Textově orientovaný Internet"
 #: ../comps-f11.xml.in.h:199 ../comps-f12.xml.in.h:210
 #: ../comps-f13.xml.in.h:214
 msgid "Thai Support"
-msgstr "Podpora Thajštiny"
+msgstr "Podpora thajštiny"
 
 #: ../comps-f9.xml.in.h:159 ../comps-f10.xml.in.h:172
 #: ../comps-f11.xml.in.h:200 ../comps-f12.xml.in.h:211
@@ -1276,7 +1276,7 @@ msgstr "Souborový server Windows"
 #: ../comps-f11.xml.in.h:252 ../comps-f12.xml.in.h:263
 #: ../comps-f13.xml.in.h:269
 msgid "X Software Development"
-msgstr "Vývoj X Window System"
+msgstr "Vývoj pro X Window System"
 
 #: ../comps-f9.xml.in.h:208 ../comps-f10.xml.in.h:222
 #: ../comps-f11.xml.in.h:253 ../comps-f12.xml.in.h:264
@@ -1288,13 +1288,13 @@ msgstr "X Window System"
 #: ../comps-f11.xml.in.h:254 ../comps-f12.xml.in.h:265
 #: ../comps-f13.xml.in.h:271
 msgid "XFCE"
-msgstr "XFCE"
+msgstr "Uživatelské prostředí XFCE"
 
 #: ../comps-f9.xml.in.h:210 ../comps-f10.xml.in.h:224
 #: ../comps-f11.xml.in.h:255 ../comps-f12.xml.in.h:266
 #: ../comps-f13.xml.in.h:272
 msgid "XFCE Software Development"
-msgstr "XFCE: vývoj software"
+msgstr "Vývoj pro XFCE"
 
 #: ../comps-f9.xml.in.h:211 ../comps-f10.xml.in.h:225
 #: ../comps-f11.xml.in.h:256 ../comps-f12.xml.in.h:267
@@ -1357,7 +1357,7 @@ msgstr "Podpora barmštiny"
 #: ../comps-f10.xml.in.h:131 ../comps-f11.xml.in.h:153
 #: ../comps-f12.xml.in.h:164 ../comps-f13.xml.in.h:167
 msgid "Perl Development"
-msgstr "Perl: vývoj software"
+msgstr "Vývoj v Perlu"
 
 #: ../comps-f10.xml.in.h:147 ../comps-f11.xml.in.h:170
 #: ../comps-f12.xml.in.h:181 ../comps-f13.xml.in.h:184
@@ -1503,7 +1503,7 @@ msgstr "Podpora sardinštiny"
 #: ../comps-f11.xml.in.h:182 ../comps-f12.xml.in.h:193
 #: ../comps-f13.xml.in.h:196
 msgid "Sugar Desktop Environment"
-msgstr "Sugar: uživatelské prostředí"
+msgstr "Uživatelské prostředí Sugar"
 
 #: ../comps-f11.xml.in.h:183 ../comps-f12.xml.in.h:194
 #: ../comps-f13.xml.in.h:197
@@ -1607,7 +1607,7 @@ msgstr "Servery pro identity počítačů a uživatelů."
 
 #: ../comps-f12.xml.in.h:147 ../comps-f13.xml.in.h:149
 msgid "Moblin Desktop Environment"
-msgstr "Moblin: desktopové prostředí"
+msgstr "Desktopové prostředí Moblin"
 
 #: ../comps-f12.xml.in.h:148 ../comps-f13.xml.in.h:150
 msgid "Moblin is a desktop environment for NetBook/NetTop/MID devices."
@@ -1633,7 +1633,7 @@ msgstr "Kolekce programů KDE"
 
 #: ../comps-f13.xml.in.h:164
 msgid "OpenOffice.org Development"
-msgstr "OpenOffice.org: vývoj software"
+msgstr "Vývoj pro OpenOffice.org"
 
 #: ../comps-f13.xml.in.h:212
 msgid "Text and other Free content."
@@ -1726,9 +1726,3 @@ msgstr "XEmacs"
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
 msgstr "Kolekce nástrojů a prostředků pro podporu Češtiny."
-
-#~ msgid "Eclipse"
-#~ msgstr "Eclipse"
-
-#~ msgid "The Eclipse Integrated Development Environment."
-#~ msgstr "Integrované vývojové prostředí založené na Eclipse."
