@@ -1764,6 +1764,23 @@
     </packagelist>
   </group>
   <group>
+    <id>filesystems</id>
+    <_name>Filesystems</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">btrfs-progs</packagereq>
+      <packagereq type="mandatory">dosfstools</packagereq>
+      <packagereq type="mandatory">e2fsprogs</packagereq>
+      <packagereq type="mandatory">gfs2-utils</packagereq>
+      <packagereq type="mandatory">jfsutils</packagereq>
+      <packagereq type="mandatory">ntfsprogs</packagereq>
+      <packagereq type="mandatory">reiserfs-utils</packagereq>
+      <packagereq type="mandatory">xfsprogs</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>filipino-support</id>
     <_name>Filipino Support</_name>
     <_description/>
