@@ -3903,24 +3903,24 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="mandatory">cmake</packagereq>
       <packagereq type="mandatory">kdelibs-devel</packagereq>
       <packagereq type="mandatory">qt-devel</packagereq>
-      <packagereq type="default">kdbg</packagereq>
       <packagereq type="default">kdebase-workspace-devel</packagereq>
-      <packagereq type="default">kdelibs3-devel</packagereq>
-      <packagereq type="default">kdemultimedia-devel</packagereq>
       <packagereq type="default">kdepimlibs-devel</packagereq>
       <packagereq type="default">kdesdk</packagereq>
       <packagereq type="default">kdevelop</packagereq>
+      <packagereq type="default">PyKDE4-devel</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
-      <packagereq type="default">qt3-designer</packagereq>
-      <packagereq type="default">qt3-devel</packagereq>
       <packagereq type="optional">gambas-runtime</packagereq>
       <packagereq type="optional">kdebase-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
+      <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kdeedu-devel</packagereq>
       <packagereq type="optional">kdegames-devel</packagereq>
       <packagereq type="optional">kdegraphics-devel</packagereq>
+      <packagereq type="optional">kdelibs3-devel</packagereq>
+      <packagereq type="optional">kdemultimedia-devel</packagereq>
       <packagereq type="optional">kdenetwork-devel</packagereq>
       <packagereq type="optional">kdepim-devel</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
@@ -3929,6 +3929,8 @@
       <packagereq type="optional">PyKDE-devel</packagereq>
       <packagereq type="optional">PyQt-devel</packagereq>
       <packagereq type="optional">qt-creator</packagereq>
+      <packagereq type="optional">qt3-designer</packagereq>
+      <packagereq type="optional">qt3-devel</packagereq>
     </packagelist>
   </group>
   <group>
