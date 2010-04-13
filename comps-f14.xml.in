@@ -111,7 +111,6 @@
       <packagereq type="default">kacst-titlel-fonts</packagereq>
       <packagereq type="default">paktype-naqsh-fonts</packagereq>
       <packagereq type="default">paktype-tehreer-fonts</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
       <packagereq type="optional">scim-tables-arabic</packagereq>
       <packagereq type="optional">sil-lateef-fonts</packagereq>
       <packagereq type="optional">sil-scheherazade-fonts</packagereq>
@@ -128,7 +127,6 @@
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-hy</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hy</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -866,7 +864,6 @@
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -877,7 +874,6 @@
     <uservisible>true</uservisible>
     <langonly>cs</langonly>
     <packagelist>
-      <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="aspell">aspell-cs</packagereq>
       <packagereq type="conditional" requires="autocorr-en">autocorr-cs</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-cs</packagereq>
@@ -918,7 +914,6 @@
       <packagereq type="conditional" requires="moodle">moodle-da</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-da</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-da_DK</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1663,7 +1658,6 @@
     <langonly>eo</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-eo</packagereq>
-      <packagereq type="optional">m17n-contrib</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1697,7 +1691,6 @@
     <langonly>am</langonly>
     <packagelist>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
       <packagereq type="optional">scim-tables-amharic</packagereq>
       <packagereq type="optional">senamirmir-washra-fantuwua-fonts</packagereq>
       <packagereq type="optional">senamirmir-washra-fonts</packagereq>
@@ -2180,7 +2173,6 @@
       <packagereq type="conditional" requires="tkgate">tkgate-fr</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
       <packagereq type="optional">ecolier-court-lignes-fonts</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3046,7 +3038,6 @@
       <packagereq type="optional">gfs-pyrsos-fonts</packagereq>
       <packagereq type="optional">gfs-solomos-fonts</packagereq>
       <packagereq type="optional">gfs-theokritos-fonts</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
       <packagereq type="optional">mgopen-canonica-fonts</packagereq>
       <packagereq type="optional">mgopen-cosmetica-fonts</packagereq>
       <packagereq type="optional">mgopen-modata-fonts</packagereq>
@@ -3200,7 +3191,6 @@
       <packagereq type="default">culmus-nachlieli-clm-fonts</packagereq>
       <packagereq type="default">culmus-yehuda-clm-fonts</packagereq>
       <packagereq type="optional">fonts-hebrew-fancy</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3889,7 +3879,6 @@
       <packagereq type="default">khmeros-metal-chrieng-fonts</packagereq>
       <packagereq type="default">khmeros-muol-fonts</packagereq>
       <packagereq type="default">khmeros-siemreap-fonts</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3945,7 +3934,6 @@
       <packagereq type="optional">baekmuk-ttf-gulim-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-hline-fonts</packagereq>
       <packagereq type="optional">lv</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
       <packagereq type="optional">nabi</packagereq>
       <packagereq type="optional">un-extra-fonts-bom</packagereq>
       <packagereq type="optional">un-extra-fonts-jamobatang</packagereq>
@@ -3984,7 +3972,6 @@
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-lo</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4841,7 +4828,6 @@
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-fa</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fa</packagereq>
       <packagereq type="default">sil-scheherazade-fonts</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
       <packagereq type="optional">sil-lateef-fonts</packagereq>
     </packagelist>
   </group>
@@ -5008,8 +4994,6 @@
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">ibus-table-translit</packagereq>
-      <packagereq type="optional">m17n-contrib</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
       <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
       <packagereq type="optional">scim-tables-russian</packagereq>
       <packagereq type="optional">stardict-dic-ru</packagereq>
@@ -5074,7 +5058,6 @@
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5147,7 +5130,6 @@
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5504,7 +5486,6 @@
       <packagereq type="conditional" requires="moodle">moodle-sv</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-sv</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sv</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5865,7 +5846,6 @@
     <uservisible>true</uservisible>
     <langonly>th</langonly>
     <packagelist>
-      <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-th</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Thai</packagereq>
@@ -5895,7 +5875,6 @@
     <uservisible>true</uservisible>
     <langonly>bo</langonly>
     <packagelist>
-      <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="mandatory">tibetan-machine-uni-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
@@ -6076,8 +6055,6 @@
       <packagereq type="conditional" requires="autocorr-en">autocorr-vi</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-vi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-vi</packagereq>
-      <packagereq type="optional">m17n-contrib</packagereq>
-      <packagereq type="optional">m17n-db</packagereq>
       <packagereq type="optional">scim-tables-vietnamese</packagereq>
     </packagelist>
   </group>
