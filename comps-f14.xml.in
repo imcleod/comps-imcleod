@@ -3793,7 +3793,7 @@
       <packagereq type="optional">klamav</packagereq>
       <packagereq type="optional">kmenu-gnome</packagereq>
       <packagereq type="optional">kmid</packagereq>
-      <packagereq type="optional">kmymoney2</packagereq>
+      <packagereq type="optional">kmymoney</packagereq>
       <packagereq type="optional">knemo</packagereq>
       <packagereq type="optional">kobby</packagereq>
       <packagereq type="optional">koffice-suite</packagereq>
@@ -4703,8 +4703,7 @@
       <packagereq type="optional">kdepim</packagereq>
       <packagereq type="optional">keurocalc</packagereq>
       <packagereq type="optional">klatexformula</packagereq>
-      <packagereq type="optional">kmymoney2</packagereq>
-      <packagereq type="optional">kmymoney2-aqbanking</packagereq>
+      <packagereq type="optional">kmymoney</packagereq>
       <packagereq type="optional">koffice-suite</packagereq>
       <packagereq type="optional">krecipes</packagereq>
       <packagereq type="optional">kreetingkard</packagereq>
@@ -6667,7 +6666,7 @@
     <package arch="i386" name="kdesdk"/>
     <package arch="i386" name="kdeutils"/>
     <package arch="i386" name="kdewebdev"/>
-    <package arch="i386" name="kmymoney2"/>
+    <package arch="i386" name="kmymoney"/>
     <package arch="i386" name="mysql"/>
     <package arch="i386" name="nas"/>
     <package arch="i386" name="perl"/>
@@ -6691,7 +6690,7 @@
     <package arch="ppc64" name="kdesdk"/>
     <package arch="ppc64" name="kdeutils"/>
     <package arch="ppc64" name="kdewebdev"/>
-    <package arch="ppc64" name="kmymoney2"/>
+    <package arch="ppc64" name="kmymoney"/>
     <package arch="ppc64" name="mysql"/>
     <package arch="ppc64" name="nas"/>
   </blacklist>
