@@ -1203,6 +1203,7 @@
     <packagelist>
       <packagereq type="mandatory">ppp</packagereq>
       <packagereq type="default">isdn4k-utils</packagereq>
+      <packagereq type="default">linux-atm</packagereq>
       <packagereq type="default">lrzsz</packagereq>
       <packagereq type="default">minicom</packagereq>
       <packagereq type="default">rp-pppoe</packagereq>
@@ -3095,6 +3096,7 @@
       <packagereq type="default">ql2500-firmware</packagereq>
       <packagereq type="default">rt61pci-firmware</packagereq>
       <packagereq type="default">rt73usb-firmware</packagereq>
+      <packagereq type="default">ueagle-atm4-firmware</packagereq>
       <packagereq type="default">zd1211-firmware</packagereq>
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
