@@ -4506,13 +4506,14 @@
   <group>
     <id>moblin-desktop</id>
     <_name>Moblin Desktop Environment</_name>
-    <_description>Moblin is a desktop environment for NetBook/NetTop/MID devices.</_description>
+    <_description>Moblin is a desktop environment for NetBook/NetTop devices.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">bisho</packagereq>
       <packagereq type="mandatory">bognor-regis</packagereq>
       <packagereq type="mandatory">dalston</packagereq>
+      <packagereq type="mandatory">moblin-app-installer</packagereq>
       <packagereq type="mandatory">moblin-cursor-theme</packagereq>
       <packagereq type="mandatory">moblin-gtk-engine</packagereq>
       <packagereq type="mandatory">moblin-icon-theme</packagereq>
@@ -4524,7 +4525,6 @@
       <packagereq type="mandatory">moblin-panel-status</packagereq>
       <packagereq type="mandatory">moblin-session</packagereq>
       <packagereq type="mandatory">moblin-sound-theme</packagereq>
-      <packagereq type="mandatory">mutter</packagereq>
       <packagereq type="mandatory">network-manager-netbook</packagereq>
       <packagereq type="default">anjal</packagereq>
       <packagereq type="default">hornsey</packagereq>
