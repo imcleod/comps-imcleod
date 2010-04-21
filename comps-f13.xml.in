@@ -6456,9 +6456,6 @@
     <_description>Install these packages in order to develop GTK+ and XFCE graphical applications.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
-    <grouplist>
-      <groupreq>x-software-development</groupreq>
-    </grouplist>
     <packagelist>
       <packagereq type="mandatory">libxfce4util-devel</packagereq>
       <packagereq type="mandatory">libxfcegui4-devel</packagereq>
