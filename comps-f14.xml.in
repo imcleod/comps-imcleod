@@ -1755,18 +1755,6 @@
     </packagelist>
   </group>
   <group>
-    <id>filipino-support</id>
-    <_name>Filipino Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>fil</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-tl</packagereq>
-      <packagereq type="conditional" requires="moodle">moodle-fil</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>filesystems</id>
     <_name>Filesystems</_name>
     <_description/>
@@ -1781,6 +1769,18 @@
       <packagereq type="mandatory">ntfsprogs</packagereq>
       <packagereq type="mandatory">reiserfs-utils</packagereq>
       <packagereq type="mandatory">xfsprogs</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>filipino-support</id>
+    <_name>Filipino Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>fil</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-tl</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-fil</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2929,6 +2929,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
       <packagereq type="default">f-spot</packagereq>
       <packagereq type="default">gimp</packagereq>
       <packagereq type="default">gimp-data-extras</packagereq>
@@ -2990,7 +2991,6 @@
       <packagereq type="optional">xfig</packagereq>
       <packagereq type="optional">xpaint</packagereq>
       <packagereq type="optional">xsane</packagereq>
-      <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3848,9 +3848,9 @@
       <packagereq type="default">PyKDE4-devel</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="optional">gambas-runtime</packagereq>
+      <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kdebase-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
-      <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kdeedu-devel</packagereq>
       <packagereq type="optional">kdegames-devel</packagereq>
       <packagereq type="optional">kdegraphics-devel</packagereq>
@@ -6339,8 +6339,8 @@
       <packagereq type="optional">xfce4-places-plugin</packagereq>
       <packagereq type="optional">xfce4-power-manager</packagereq>
       <packagereq type="optional">xfce4-quicklauncher-plugin</packagereq>
-      <packagereq type="optional">xfce4-remmina-plugin</packagereq>
       <packagereq type="optional">xfce4-radio-plugin</packagereq>
+      <packagereq type="optional">xfce4-remmina-plugin</packagereq>
       <packagereq type="optional">xfce4-screenshooter</packagereq>
       <packagereq type="optional">xfce4-screenshooter-plugin</packagereq>
       <packagereq type="optional">xfce4-sensors-plugin</packagereq>
