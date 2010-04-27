@@ -15,8 +15,6 @@
       <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">system-config-keyboard</packagereq>
       <packagereq type="default">system-config-language</packagereq>
-      <packagereq type="default">system-config-lvm</packagereq>
-      <packagereq type="default">system-config-network</packagereq>
       <packagereq type="default">system-config-users</packagereq>
       <packagereq type="optional">cacti</packagereq>
       <packagereq type="optional">dbench</packagereq>
@@ -32,7 +30,9 @@
       <packagereq type="optional">ntop</packagereq>
       <packagereq type="optional">pessulus</packagereq>
       <packagereq type="optional">qtparted</packagereq>
+      <packagereq type="optional">system-config-network</packagereq>
       <packagereq type="optional">system-config-kickstart</packagereq>
+      <packagereq type="optional">system-config-lvm</packagereq>
       <packagereq type="optional">system-config-rootpassword</packagereq>
       <packagereq type="optional">yumex</packagereq>
     </packagelist>
@@ -232,6 +232,7 @@
       <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
       <packagereq type="default">acpid</packagereq>
       <packagereq type="default">ccid</packagereq>
+      <packagereq type="default">cifs-utils</packagereq>
       <packagereq type="default">coolkey</packagereq>
       <packagereq type="default">cpuspeed</packagereq>
       <packagereq type="default">cryptsetup-luks</packagereq>
@@ -268,6 +269,7 @@
       <packagereq type="default">ntfsprogs</packagereq>
       <packagereq type="default">numactl</packagereq>
       <packagereq type="default">openssh-clients</packagereq>
+      <packagereq type="default">PackageKit-yum-plugin</packagereq>
       <packagereq type="default">pam_ccreds</packagereq>
       <packagereq type="default">pam_krb5</packagereq>
       <packagereq type="default">pam_passwdqc</packagereq>
@@ -275,7 +277,6 @@
       <packagereq type="default">pam_smb</packagereq>
       <packagereq type="default">pcmciautils</packagereq>
       <packagereq type="default">perf</packagereq>
-      <packagereq type="default">pinfo</packagereq>
       <packagereq type="default">pm-utils</packagereq>
       <packagereq type="default">prctl</packagereq>
       <packagereq type="default">prelink</packagereq>
@@ -289,7 +290,6 @@
       <packagereq type="default">setuptool</packagereq>
       <packagereq type="default">smartmontools</packagereq>
       <packagereq type="default">sos</packagereq>
-      <packagereq type="default">specspo</packagereq>
       <packagereq type="default">sssd</packagereq>
       <packagereq type="default">stunnel</packagereq>
       <packagereq type="default">sudo</packagereq>
@@ -335,6 +335,7 @@
       <packagereq type="optional">mkbootdisk</packagereq>
       <packagereq type="optional">mtools</packagereq>
       <packagereq type="optional">pax</packagereq>
+      <packagereq type="optional">pinfo</packagereq>      
       <packagereq type="optional">redhat-lsb</packagereq>
       <packagereq type="optional">reiserfs-utils</packagereq>
       <packagereq type="optional">squashfs-tools</packagereq>
@@ -687,6 +688,7 @@
       <packagereq type="default">cjkuni-ukai-fonts</packagereq>
       <packagereq type="default">cjkuni-uming-fonts</packagereq>
       <packagereq type="default">wqy-zenhei-fonts</packagereq>
+      <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
@@ -1211,6 +1213,7 @@
     <packagelist>
       <packagereq type="mandatory">ppp</packagereq>
       <packagereq type="default">isdn4k-utils</packagereq>
+      <packagereq type="default">linux-atm</packagereq>
       <packagereq type="default">lrzsz</packagereq>
       <packagereq type="default">minicom</packagereq>
       <packagereq type="default">rp-pppoe</packagereq>
@@ -1630,7 +1633,6 @@
       <packagereq type="optional">rrdtool</packagereq>
       <packagereq type="optional">scalapack</packagereq>
       <packagereq type="optional">scidavis</packagereq>
-      <packagereq type="optional">scidavis-manual</packagereq>
       <packagereq type="optional">scigraphica</packagereq>
       <packagereq type="optional">scrip</packagereq>
       <packagereq type="optional">seaview</packagereq>
@@ -1764,6 +1766,23 @@
     </packagelist>
   </group>
   <group>
+    <id>filesystems</id>
+    <_name>Filesystems</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">btrfs-progs</packagereq>
+      <packagereq type="mandatory">dosfstools</packagereq>
+      <packagereq type="mandatory">e2fsprogs</packagereq>
+      <packagereq type="mandatory">gfs2-utils</packagereq>
+      <packagereq type="mandatory">jfsutils</packagereq>
+      <packagereq type="mandatory">ntfsprogs</packagereq>
+      <packagereq type="mandatory">reiserfs-utils</packagereq>
+      <packagereq type="mandatory">xfsprogs</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>filipino-support</id>
     <_name>Filipino Support</_name>
     <_description/>
@@ -1806,6 +1825,7 @@
     <packagelist>
       <packagereq type="mandatory">fontforge</packagereq>
       <packagereq type="mandatory">xgridfit</packagereq>
+      <packagereq type="default">fontaine</packagereq>
       <packagereq type="default">fontmatrix</packagereq>
       <packagereq type="default">fontpackages-devel</packagereq>
       <packagereq type="default">fonttools</packagereq>
@@ -1891,6 +1911,7 @@
       <packagereq type="default">paktype-tehreer-fonts</packagereq>
       <packagereq type="default">paratype-pt-sans-fonts</packagereq>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
+      <packagereq type="default">sil-padauk-fonts</packagereq>
       <packagereq type="default">smc-meera-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
@@ -2078,7 +2099,6 @@
       <packagereq type="optional">sil-gentium-basic-fonts</packagereq>
       <packagereq type="optional">sil-gentium-fonts</packagereq>
       <packagereq type="optional">sil-lateef-fonts</packagereq>
-      <packagereq type="optional">sil-padauk-fonts</packagereq>
       <packagereq type="optional">sil-scheherazade-fonts</packagereq>
       <packagereq type="optional">silkscreen-expanded-fonts</packagereq>
       <packagereq type="optional">silkscreen-fonts</packagereq>
@@ -2300,6 +2320,7 @@
       <packagereq type="optional">crystal-stacker</packagereq>
       <packagereq type="optional">crystal-stacker-themes</packagereq>
       <packagereq type="optional">csmash</packagereq>
+      <packagereq type="optional">curblaster</packagereq>
       <packagereq type="optional">cylindrix</packagereq>
       <packagereq type="optional">cyphesis</packagereq>
       <packagereq type="optional">dd2</packagereq>
@@ -2586,11 +2607,13 @@
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
       <packagereq type="default">at-spi</packagereq>
       <packagereq type="default">brasero-nautilus</packagereq>
+      <packagereq type="default">caribou</packagereq>
       <packagereq type="default">cheese</packagereq>
       <packagereq type="default">compiz-gnome</packagereq>
       <packagereq type="default">deja-dup</packagereq>
       <packagereq type="default">eog</packagereq>
       <packagereq type="default">evince</packagereq>
+      <packagereq type="default">evince-nautilus</packagereq>
       <packagereq type="default">file-roller</packagereq>
       <packagereq type="default">gcalctool</packagereq>
       <packagereq type="default">gdm</packagereq>
@@ -2629,8 +2652,11 @@
       <packagereq type="default">NetworkManager-vpnc</packagereq>
       <packagereq type="default">notification-daemon</packagereq>
       <packagereq type="default">orca</packagereq>
+      <packagereq type="default">PackageKit-command-not-found</packagereq>
+      <packagereq type="default">PackageKit-gtk-module</packagereq>
       <packagereq type="default">pulseaudio-module-gconf</packagereq>
       <packagereq type="default">pulseaudio-module-x11</packagereq>
+      <packagereq type="default">preupgrade</packagereq>
       <packagereq type="default">seahorse</packagereq>
       <packagereq type="default">shotwell</packagereq>
       <packagereq type="default">simple-scan</packagereq>
@@ -2816,6 +2842,7 @@
       <packagereq type="default">firefox</packagereq>
       <packagereq type="default">java-1.6.0-openjdk-plugin</packagereq>
       <packagereq type="default">nspluginwrapper</packagereq>
+      <packagereq type="default">pino</packagereq>
       <packagereq type="default">transmission-gtk</packagereq>
       <packagereq type="optional">amsn</packagereq>
       <packagereq type="optional">apollon</packagereq>
@@ -2914,15 +2941,14 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">f-spot</packagereq>
       <packagereq type="default">gimp</packagereq>
       <packagereq type="default">gimp-data-extras</packagereq>
       <packagereq type="default">gimp-help</packagereq>
       <packagereq type="default">gimp-help-browser</packagereq>
       <packagereq type="default">gimpfx-foundry</packagereq>
       <packagereq type="default">libsane-hpaio</packagereq>
-      <packagereq type="default">xsane</packagereq>
-      <packagereq type="default">xsane-gimp</packagereq>
+      <packagereq type="default">shotwell</packagereq>
+      <packagereq type="default">simple-scan</packagereq>
       <packagereq type="optional">agave</packagereq>
       <packagereq type="optional">argyllcms</packagereq>
       <packagereq type="optional">asciio</packagereq>
@@ -2933,6 +2959,7 @@
       <packagereq type="optional">comix</packagereq>
       <packagereq type="optional">dcraw</packagereq>
       <packagereq type="optional">digikam</packagereq>
+      <packagereq type="optional">f-spot</packagereq>
       <packagereq type="optional">fyre</packagereq>
       <packagereq type="optional">gcolor2</packagereq>
       <packagereq type="optional">geeqie</packagereq>
@@ -2976,6 +3003,8 @@
       <packagereq type="optional">wings</packagereq>
       <packagereq type="optional">xfig</packagereq>
       <packagereq type="optional">xpaint</packagereq>
+      <packagereq type="optional">xsane</packagereq>
+      <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3062,6 +3091,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">alsa-firmware</packagereq>
       <packagereq type="default">ar9170-firmware</packagereq>
       <packagereq type="default">atmel-firmware</packagereq>
       <packagereq type="default">b43-fwcutter</packagereq>
@@ -3084,6 +3114,8 @@
       <packagereq type="default">ql2500-firmware</packagereq>
       <packagereq type="default">rt61pci-firmware</packagereq>
       <packagereq type="default">rt73usb-firmware</packagereq>
+      <packagereq type="default">ueagle-atm4-firmware</packagereq>
+      <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="default">zd1211-firmware</packagereq>
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
@@ -3310,6 +3342,7 @@
       <packagereq type="default">m17n-db-sinhala</packagereq>
       <packagereq type="default">m17n-db-thai</packagereq>
       <packagereq type="optional">cellwriter</packagereq>
+      <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">gok</packagereq>
       <packagereq type="optional">ibus-sayura</packagereq>
@@ -3783,7 +3816,6 @@
       <packagereq type="default">kdeutils</packagereq>
       <packagereq type="default">kdeutils-printer-applet</packagereq>
       <packagereq type="default">kdm</packagereq>
-      <packagereq type="default">kftpgrabber</packagereq>
       <packagereq type="default">kipi-plugins</packagereq>
       <packagereq type="default">knetworkmanager</packagereq>
       <packagereq type="default">konq-plugins</packagereq>
@@ -3814,6 +3846,7 @@
       <packagereq type="optional">kde-plasma-ihatethecashew</packagereq>
       <packagereq type="optional">kde-plasma-ktorrent</packagereq>
       <packagereq type="optional">kde-plasma-networkmanagement</packagereq>
+      <packagereq type="optional">kde-plasma-qstardict</packagereq>
       <packagereq type="optional">kde-plasma-quickaccess</packagereq>
       <packagereq type="optional">kde-plasma-runcommand</packagereq>
       <packagereq type="optional">kde-plasma-smooth-tasks</packagereq>
@@ -3856,6 +3889,7 @@
       <packagereq type="optional">metamonitor</packagereq>
       <packagereq type="optional">oooqs2</packagereq>
       <packagereq type="optional">polyester</packagereq>
+      <packagereq type="optional">qstardict</packagereq>
       <packagereq type="optional">qt-recordmydesktop</packagereq>
       <packagereq type="optional">rekall</packagereq>
       <packagereq type="optional">rsibreak</packagereq>
@@ -3876,24 +3910,24 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="mandatory">cmake</packagereq>
       <packagereq type="mandatory">kdelibs-devel</packagereq>
       <packagereq type="mandatory">qt-devel</packagereq>
-      <packagereq type="default">kdbg</packagereq>
       <packagereq type="default">kdebase-workspace-devel</packagereq>
-      <packagereq type="default">kdelibs3-devel</packagereq>
-      <packagereq type="default">kdemultimedia-devel</packagereq>
       <packagereq type="default">kdepimlibs-devel</packagereq>
       <packagereq type="default">kdesdk</packagereq>
       <packagereq type="default">kdevelop</packagereq>
+      <packagereq type="default">PyKDE4-devel</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
-      <packagereq type="default">qt3-designer</packagereq>
-      <packagereq type="default">qt3-devel</packagereq>
       <packagereq type="optional">gambas-runtime</packagereq>
       <packagereq type="optional">kdebase-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
+      <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kdeedu-devel</packagereq>
       <packagereq type="optional">kdegames-devel</packagereq>
       <packagereq type="optional">kdegraphics-devel</packagereq>
+      <packagereq type="optional">kdelibs3-devel</packagereq>
+      <packagereq type="optional">kdemultimedia-devel</packagereq>
       <packagereq type="optional">kdenetwork-devel</packagereq>
       <packagereq type="optional">kdepim-devel</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
@@ -3902,6 +3936,8 @@
       <packagereq type="optional">PyKDE-devel</packagereq>
       <packagereq type="optional">PyQt-devel</packagereq>
       <packagereq type="optional">qt-creator</packagereq>
+      <packagereq type="optional">qt3-designer</packagereq>
+      <packagereq type="optional">qt3-devel</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4472,13 +4508,14 @@
   <group>
     <id>moblin-desktop</id>
     <_name>Moblin Desktop Environment</_name>
-    <_description>Moblin is a desktop environment for NetBook/NetTop/MID devices.</_description>
+    <_description>Moblin is a desktop environment for NetBook/NetTop devices.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">bisho</packagereq>
       <packagereq type="mandatory">bognor-regis</packagereq>
       <packagereq type="mandatory">dalston</packagereq>
+      <packagereq type="mandatory">moblin-app-installer</packagereq>
       <packagereq type="mandatory">moblin-cursor-theme</packagereq>
       <packagereq type="mandatory">moblin-gtk-engine</packagereq>
       <packagereq type="mandatory">moblin-icon-theme</packagereq>
@@ -4490,7 +4527,6 @@
       <packagereq type="mandatory">moblin-panel-status</packagereq>
       <packagereq type="mandatory">moblin-session</packagereq>
       <packagereq type="mandatory">moblin-sound-theme</packagereq>
-      <packagereq type="mandatory">mutter</packagereq>
       <packagereq type="mandatory">network-manager-netbook</packagereq>
       <packagereq type="default">anjal</packagereq>
       <packagereq type="default">hornsey</packagereq>
@@ -4584,6 +4620,7 @@
       <packagereq type="optional">oidentd</packagereq>
       <packagereq type="optional">openldap-servers</packagereq>
       <packagereq type="optional">openswan</packagereq>
+      <packagereq type="optional">polipo</packagereq>
       <packagereq type="optional">privoxy</packagereq>
       <packagereq type="optional">puppet-server</packagereq>
       <packagereq type="optional">quagga</packagereq>
@@ -4943,7 +4980,7 @@
       <packagereq type="mandatory">ghostscript-cups</packagereq>
       <packagereq type="default">bluez-cups</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
-      <packagereq type="default">foomatic-db-ppds</packagereq>
+      <packagereq type="default">foomatic</packagereq>
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-cups</packagereq>
       <packagereq type="default">hpijs</packagereq>
@@ -4975,7 +5012,7 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Punjabi</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Punjabi</packagereq>
-      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pa_IN</packagereq>
+      <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pa</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">saab-fonts</packagereq>
     </packagelist>
@@ -5243,7 +5280,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">alsa-utils</packagereq>
-      <packagereq type="mandatory">vorbis-tools</packagereq>
       <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="default">brasero</packagereq>
       <packagereq type="default">cdparanoia</packagereq>
@@ -5310,6 +5346,7 @@
       <packagereq type="optional">kdemultimedia</packagereq>
       <packagereq type="optional">kid3</packagereq>
       <packagereq type="optional">kover</packagereq>
+      <packagereq type="optional">lingot</packagereq>
       <packagereq type="optional">lxmusic</packagereq>
       <packagereq type="optional">mikmod</packagereq>
       <packagereq type="optional">milkytracker</packagereq>
@@ -5365,6 +5402,7 @@
       <packagereq type="optional">vdr-tvonscreen</packagereq>
       <packagereq type="optional">vdr-wapd</packagereq>
       <packagereq type="optional">vdradmin-am</packagereq>
+      <packagereq type="optional">vorbis-tools</packagereq>
       <packagereq type="optional">whaawmp</packagereq>
       <packagereq type="optional">wmix</packagereq>
       <packagereq type="optional">xcdroast</packagereq>
@@ -5689,6 +5727,7 @@
       <packagereq type="optional">obexfs</packagereq>
       <packagereq type="optional">obexftp</packagereq>
       <packagereq type="optional">oddjob</packagereq>
+      <packagereq type="optional">oddjob-mkhomedir</packagereq>
       <packagereq type="optional">p0f</packagereq>
       <packagereq type="optional">p7zip</packagereq>
       <packagereq type="optional">p7zip-plugins</packagereq>
@@ -6420,9 +6459,6 @@
     <_description>Install these packages in order to develop GTK+ and XFCE graphical applications.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
-    <grouplist>
-      <groupreq>x-software-development</groupreq>
-    </grouplist>
     <packagelist>
       <packagereq type="mandatory">libxfce4util-devel</packagereq>
       <packagereq type="mandatory">libxfcegui4-devel</packagereq>
