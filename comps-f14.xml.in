@@ -880,6 +880,30 @@
     </packagelist>
   </group>
   <group>
+    <id>critical-path-lxde</id>
+    <_name>Critical Path (LXDE)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for the LXDE desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">lxde-common</packagereq>
+      <!-- specify this because otherwise xfce4-notifyd wins -->
+      <packagereq type="default">notification-daemon</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>critical-path-xfce</id>
+    <_name>Critical Path (Xfce)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for the Xfce desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">xfce-utils</packagereq>
+      <packagereq type="mandatory">xfce4-session</packagereq>
+      <packagereq type="mandatory">xfce4-settings</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>croatian-support</id>
     <_name>Croatian Support</_name>
     <_description/>
