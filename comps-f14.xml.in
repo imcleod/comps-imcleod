@@ -2592,6 +2592,7 @@
       <packagereq type="mandatory">polkit-gnome</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-gtk</packagereq>
+      <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
       <packagereq type="default">at-spi</packagereq>
       <packagereq type="default">avahi</packagereq>
@@ -3719,6 +3720,7 @@
       <packagereq type="mandatory">kdelibs</packagereq>
       <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-good</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-qt</packagereq>
+      <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-qt</packagereq>
       <packagereq type="default">amarok</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
@@ -3753,7 +3755,6 @@
       <packagereq type="default">ktorrent</packagereq>
       <packagereq type="default">phonon-backend-gstreamer</packagereq>
       <packagereq type="default">phonon-backend-xine</packagereq>
-      <packagereq type="default">pinentry-qt4</packagereq>
       <packagereq type="default">qtcurve-gtk2</packagereq>
       <packagereq type="default">qtcurve-kde4</packagereq>
       <packagereq type="default">scribus</packagereq>
