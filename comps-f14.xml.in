@@ -4182,6 +4182,7 @@
       <packagereq type="mandatory">lxsession</packagereq>
       <packagereq type="mandatory">openbox</packagereq>
       <packagereq type="mandatory">pcmanfm</packagereq>
+      <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="default">gpicview</packagereq>
       <packagereq type="default">leafpad</packagereq>
       <packagereq type="default">lxappearance</packagereq>
@@ -6299,6 +6300,7 @@
       <packagereq type="mandatory">xfdesktop</packagereq>
       <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-xfce</packagereq>
+      <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="default">gdm</packagereq>
       <packagereq type="default">mousepad</packagereq>
       <packagereq type="default">orage</packagereq>
