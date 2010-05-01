@@ -3792,7 +3792,7 @@
       <packagereq type="mandatory">kdelibs</packagereq>
       <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-good</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-qt</packagereq>
-      <packagereq type="conditional" requires="pinentry">pinentry-qt4</packagereq>
+      <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-qt</packagereq>
       <packagereq type="default">amarok</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
