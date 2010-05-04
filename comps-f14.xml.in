@@ -880,6 +880,17 @@
     </packagelist>
   </group>
   <group>
+    <id>critical-path-kde</id>
+    <_name>Critical Path (KDE)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for the KDE desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">kdelibs</packagereq>
+      <packagereq type="mandatory">kdm</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>critical-path-lxde</id>
     <_name>Critical Path (LXDE)</_name>
     <_description>A set of packages that provide the Critical Path functionality for the LXDE desktop</_description>
@@ -5497,8 +5508,8 @@
       <packagereq type="optional">sugar-help</packagereq>
       <packagereq type="optional">sugar-imageviewer</packagereq>
       <packagereq type="optional">sugar-implode</packagereq>
-      <packagereq type="optional">sugar-jukebox</packagereq>
       <packagereq type="optional">sugar-infoslicer</packagereq>
+      <packagereq type="optional">sugar-jukebox</packagereq>
       <packagereq type="optional">sugar-memorize</packagereq>
       <packagereq type="optional">sugar-moon</packagereq>
       <packagereq type="optional">sugar-pippy</packagereq>
