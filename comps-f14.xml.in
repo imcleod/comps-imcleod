@@ -804,6 +804,20 @@
     @core is also considered part of the Critical Path.
   -->
   <group>
+    <id>critical-path-apps</id>
+    <_name>Critical Path (Applications)</_name>
+    <_description>A set of applications that are considered critical path</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">evolution</packagereq>
+      <packagereq type="default">firefox</packagereq>
+      <packagereq type="default">kdebase</packagereq>
+      <packagereq type="default">kmail</packagereq>
+      <packagereq type="default">thunderbird</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>critical-path-base</id>
     <_name>Critical Path (Base)</_name>
     <_description>A set of packages that provide the shared platform for Critical Path functionality on all Fedora spins</_description>
@@ -839,14 +853,30 @@
     <packagelist>
       <!-- Just the mandatory packages from base-x. Might want to cut this
            down to a small set of specific drivers in the future. -->
+      <packagereq type="mandatory">control-center</packagereq>
       <packagereq type="mandatory">desktop-backgrounds-basic</packagereq>
+      <packagereq type="mandatory">fedora-gnome-theme</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
+      <packagereq type="mandatory">gnome-panel</packagereq>
+      <packagereq type="mandatory">gnome-session</packagereq>
+      <packagereq type="mandatory">gnome-terminal</packagereq>
+      <packagereq type="mandatory">gvfs-fuse</packagereq>
+      <packagereq type="mandatory">metacity</packagereq>
+      <packagereq type="mandatory">nautilus</packagereq>
+      <packagereq type="mandatory">polkit-gnome</packagereq>
       <packagereq type="mandatory">xorg-x11-drivers</packagereq>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
-      <!-- specify this because otherwise xfce4-notifyd wins -->
+      <packagereq type="default">avahi</packagereq>
+      <packagereq type="default">gdm-plugin-fingerprint</packagereq>
+      <packagereq type="default">gdm-user-switch-applet</packagereq>
+      <packagereq type="default">gnome-packagekit</packagereq>
+      <packagereq type="default">libcanberra-gtk2</packagereq>
+      <packagereq type="default">NetworkManager-gnome</packagereq>
       <packagereq type="default">notification-daemon</packagereq>
+      <packagereq type="default">pulseaudio-module-gconf</packagereq>
+      <packagereq type="default">pulseaudio-module-x11</packagereq>
     </packagelist>
   </group>
   <group>
