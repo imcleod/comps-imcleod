@@ -1251,7 +1251,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">dnssec-conf</packagereq>
       <packagereq type="default">bind-chroot</packagereq>
       <packagereq type="optional">bind</packagereq>
       <packagereq type="optional">dnsperf</packagereq>
