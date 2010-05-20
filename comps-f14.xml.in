@@ -669,7 +669,7 @@
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh_TW</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin-open-phrase</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin-db-open-phrase</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese-Big5</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Chinese</packagereq>
@@ -3370,7 +3370,7 @@
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-pinyin</packagereq>
-      <packagereq type="default">ibus-pinyin-open-phrase</packagereq>
+      <packagereq type="default">ibus-pinyin-db-open-phrase</packagereq>
       <packagereq type="default">ibus-rawcode</packagereq>
       <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">imsettings</packagereq>
