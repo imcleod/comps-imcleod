@@ -262,7 +262,7 @@
       <packagereq type="default">nc</packagereq>
       <packagereq type="default">nfs-utils</packagereq>
       <packagereq type="default">nss_db</packagereq>
-      <packagereq type="default">nss_ldap</packagereq>
+      <packagereq type="default">nss-pam-ldapd</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
       <packagereq type="default">numactl</packagereq>
@@ -270,6 +270,7 @@
       <packagereq type="default">PackageKit-yum-plugin</packagereq>
       <packagereq type="default">pam_ccreds</packagereq>
       <packagereq type="default">pam_krb5</packagereq>
+      <packagereq type="default">pam_ldap</packagereq>
       <packagereq type="default">pam_passwdqc</packagereq>
       <packagereq type="default">pam_pkcs11</packagereq>
       <packagereq type="default">pam_smb</packagereq>
@@ -383,7 +384,6 @@
       <packagereq type="optional">gdm</packagereq>
       <packagereq type="optional">gxmessage</packagereq>
       <packagereq type="optional">lilyterm</packagereq>
-      <packagereq type="optional">lxpanel</packagereq>
       <packagereq type="optional">roxterm</packagereq>
       <packagereq type="optional">rss-glx</packagereq>
       <packagereq type="optional">rss-glx-xscreensaver</packagereq>
@@ -668,7 +668,7 @@
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh_TW</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin-open-phrase</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin-db-open-phrase</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese-Big5</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Chinese</packagereq>
@@ -1307,7 +1307,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">dnssec-conf</packagereq>
       <packagereq type="default">bind-chroot</packagereq>
       <packagereq type="optional">bind</packagereq>
       <packagereq type="optional">dnsperf</packagereq>
@@ -1945,7 +1944,6 @@
       <packagereq type="default">lohit-punjabi-fonts</packagereq>
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
-      <packagereq type="default">padauk-fonts</packagereq>
       <packagereq type="default">paktype-naqsh-fonts</packagereq>
       <packagereq type="default">paktype-tehreer-fonts</packagereq>
       <packagereq type="default">paratype-pt-sans-fonts</packagereq>
@@ -2744,6 +2742,7 @@
       <packagereq type="optional">gnome-applet-cpufire</packagereq>
       <packagereq type="optional">gnome-applet-music</packagereq>
       <packagereq type="optional">gnome-applet-netspeed</packagereq>
+      <packagereq type="optional">gnome-applet-remmina</packagereq>
       <packagereq type="optional">gnome-applet-sensors</packagereq>
       <packagereq type="optional">gnome-applet-timer</packagereq>
       <packagereq type="optional">gnome-commander</packagereq>
@@ -2760,6 +2759,7 @@
       <packagereq type="optional">grsync</packagereq>
       <packagereq type="optional">gst-mixer</packagereq>
       <packagereq type="optional">gthumb</packagereq>
+      <packagereq type="optional">gtkhash-nautilus</packagereq>
       <packagereq type="optional">gtrayicon</packagereq>
       <packagereq type="optional">gtweakui</packagereq>
       <packagereq type="optional">gvfs-obexftp</packagereq>
@@ -3369,7 +3369,7 @@
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-pinyin</packagereq>
-      <packagereq type="default">ibus-pinyin-open-phrase</packagereq>
+      <packagereq type="default">ibus-pinyin-db-open-phrase</packagereq>
       <packagereq type="default">ibus-rawcode</packagereq>
       <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">imsettings</packagereq>
@@ -3616,8 +3616,6 @@
       <packagereq type="default">classpathx-jaf-javadoc</packagereq>
       <packagereq type="default">classpathx-mail</packagereq>
       <packagereq type="default">classpathx-mail-javadoc</packagereq>
-      <packagereq type="default">cryptix-asn1-javadoc</packagereq>
-      <packagereq type="default">cryptix-javadoc</packagereq>
       <packagereq type="default">gnu-getopt</packagereq>
       <packagereq type="default">gnu-getopt-javadoc</packagereq>
       <packagereq type="default">jakarta-commons-beanutils</packagereq>
@@ -3677,7 +3675,6 @@
       <packagereq type="default">mx4j</packagereq>
       <packagereq type="default">mx4j-javadoc</packagereq>
       <packagereq type="default">mx4j-manual</packagereq>
-      <packagereq type="default">puretls-javadoc</packagereq>
       <packagereq type="default">regexp</packagereq>
       <packagereq type="default">regexp-javadoc</packagereq>
       <packagereq type="default">xalan-j2</packagereq>
@@ -3697,8 +3694,6 @@
       <packagereq type="default">xml-commons-apis-manual</packagereq>
       <packagereq type="default">xml-commons-resolver</packagereq>
       <packagereq type="default">xml-commons-resolver-javadoc</packagereq>
-      <packagereq type="default">xml-commons-which</packagereq>
-      <packagereq type="default">xml-commons-which-javadoc</packagereq>
       <packagereq type="optional">ant-findbugs</packagereq>
       <packagereq type="optional">findbugs</packagereq>
       <packagereq type="optional">findbugs-javadoc</packagereq>
@@ -5658,6 +5653,7 @@
       <packagereq type="optional">greadelf</packagereq>
       <packagereq type="optional">grepmail</packagereq>
       <packagereq type="optional">gssdp</packagereq>
+      <packagereq type="optional">gtkhash</packagereq>
       <packagereq type="optional">gtklp</packagereq>
       <packagereq type="optional">gtkterm</packagereq>
       <packagereq type="optional">gupnp</packagereq>
@@ -5890,6 +5886,7 @@
       <packagereq type="optional">isync</packagereq>
       <packagereq type="optional">libtranslate</packagereq>
       <packagereq type="optional">lynx</packagereq>
+      <packagereq type="optional">maildirproc</packagereq>
       <packagereq type="optional">naim</packagereq>
       <packagereq type="optional">ncftp</packagereq>
       <packagereq type="optional">netstiff</packagereq>
