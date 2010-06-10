@@ -15,9 +15,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ru\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-05-06 15:55+0000\n"
-"PO-Revision-Date: 2010-05-07 10:59+1000\n"
-"Last-Translator: Yulia <ypoyarko@redhat.com>\n"
+"POT-Creation-Date: 2010-06-09 13:56+0000\n"
+"PO-Revision-Date: 2010-06-10 13:11+1000\n"
+"Last-Translator: \n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=KOI8-R\n"
@@ -29,8 +29,8 @@ msgstr ""
 #: ../comps-f12.xml.in.h:1 ../comps-f13.xml.in.h:1 ../comps-f14.xml.in.h:1
 msgid "A lightweight desktop environment that works well on low end machines."
 msgstr ""
-"Нетребовательный к ресурсам рабочий стол, хорошо работающий на слабых "
-"машинах."
+"Облегчённая версия окружения рабочего стола, подходящая для слабых "
+"машин."
 
 #: ../comps-f9.xml.in.h:2 ../comps-f10.xml.in.h:3 ../comps-f11.xml.in.h:3
 #: ../comps-f12.xml.in.h:5 ../comps-f13.xml.in.h:5 ../comps-f14.xml.in.h:9
@@ -41,7 +41,7 @@ msgstr "Средства администрирования"
 #: ../comps-f9.xml.in.h:3 ../comps-f10.xml.in.h:4 ../comps-f11.xml.in.h:4
 #: ../comps-f12.xml.in.h:6 ../comps-f13.xml.in.h:6 ../comps-f14.xml.in.h:10
 msgid "Afrikaans Support"
-msgstr "Поддержка Африкаанс"
+msgstr "Поддержка африкаанс"
 
 #: ../comps-f9.xml.in.h:4 ../comps-f10.xml.in.h:5 ../comps-f11.xml.in.h:5
 #: ../comps-f12.xml.in.h:7 ../comps-f13.xml.in.h:7 ../comps-f14.xml.in.h:11
@@ -137,7 +137,7 @@ msgstr "Поддержка бретонского языка"
 #: ../comps-f12.xml.in.h:28 ../comps-f13.xml.in.h:28 ../comps-f14.xml.in.h:32
 #: ../comps-el5.xml.in.h:8
 msgid "Buildsystem building group"
-msgstr "группа сборки Buildsystem"
+msgstr "Группа системы сборки"
 
 #: ../comps-f9.xml.in.h:22 ../comps-f10.xml.in.h:23 ../comps-f11.xml.in.h:25
 #: ../comps-f12.xml.in.h:29 ../comps-f13.xml.in.h:29 ../comps-f14.xml.in.h:33
@@ -1621,17 +1621,13 @@ msgstr "Поддержка сорбского языка"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME "
 "desktop"
-msgstr ""
-"Набор пакетов, предоставляющих функциональность Critical Path для "
-"графической среды GNOME"
+msgstr "Набор пакетов, составляющий критический путь для GNOME"
 
 #: ../comps-f12.xml.in.h:3 ../comps-f13.xml.in.h:3 ../comps-f14.xml.in.h:7
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr ""
-"Набор пакетов, предоставляющих общую платформу для функциональности Critical "
-"Path для всех сборок Fedora"
+msgstr "Набор пакетов, составляющих критический путь для всех сборок Fedora"
 
 #: ../comps-f12.xml.in.h:23 ../comps-f13.xml.in.h:23 ../comps-f14.xml.in.h:27
 msgid "Books and Guides"
@@ -1643,11 +1639,11 @@ msgstr "Книги и руководства для разработчиков и пользователей Fedora"
 
 #: ../comps-f12.xml.in.h:37 ../comps-f13.xml.in.h:38 ../comps-f14.xml.in.h:43
 msgid "Critical Path (Base)"
-msgstr "Critical Path (основа)"
+msgstr "Критический путь (основные)"
 
 #: ../comps-f12.xml.in.h:38 ../comps-f13.xml.in.h:39 ../comps-f14.xml.in.h:44
 msgid "Critical Path (GNOME)"
-msgstr "Critical Path (GNOME)"
+msgstr "Критический путь (GNOME)"
 
 #: ../comps-f12.xml.in.h:50 ../comps-f13.xml.in.h:51 ../comps-f14.xml.in.h:59
 msgid "Directory Server"
@@ -1737,54 +1733,41 @@ msgstr ""
 
 #: ../comps-f14.xml.in.h:2
 msgid "A set of applications that are considered critical path"
-msgstr ""
+msgstr "Набор приложений, составляющих критический путь"
 
 #: ../comps-f14.xml.in.h:4
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr ""
-"Набор пакетов, предоставляющих функциональность Critical Path для "
-"графической среды GNOME"
+msgstr "Набор пакетов, составляющих критический путь для KDE"
 
 #: ../comps-f14.xml.in.h:5
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr ""
-"Набор пакетов, предоставляющих функциональность Critical Path для "
-"графической среды GNOME"
+msgstr "Набор пакетов, составляющих критический путь для LXDE"
 
 #: ../comps-f14.xml.in.h:6
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
-msgstr ""
-"Набор пакетов, предоставляющих функциональность Critical Path для "
-"графической среды GNOME"
+msgstr "Набор пакетов, составляющих критический путь для Xfce"
 
 #: ../comps-f14.xml.in.h:42
-#, fuzzy
 msgid "Critical Path (Applications)"
-msgstr "Critical Path (основа)"
+msgstr "Критический путь (приложения)"
 
 #: ../comps-f14.xml.in.h:45
-#, fuzzy
 msgid "Critical Path (KDE)"
-msgstr "Critical Path (GNOME)"
+msgstr "Критический путь (KDE)"
 
 #: ../comps-f14.xml.in.h:46
-#, fuzzy
 msgid "Critical Path (LXDE)"
-msgstr "Critical Path (GNOME)"
+msgstr "Критический путь (GNOME)"
 
 #: ../comps-f14.xml.in.h:47
-#, fuzzy
 msgid "Critical Path (Xfce)"
-msgstr "Critical Path (основа)"
+msgstr "Критический путь (Xfce)"
 
 #: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
 msgid "Applications for a variety of tasks"
