@@ -2657,7 +2657,8 @@
       <packagereq type="mandatory">nautilus</packagereq>
       <packagereq type="mandatory">polkit-gnome</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
-      <packagereq type="conditional" requires="ibus">ibus-gtk</packagereq>
+      <packagereq type="conditional" requires="ibus">ibus-gtk2</packagereq>
+      <packagereq type="conditional" requires="ibus">ibus-gtk3</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
       <packagereq type="default">at-spi</packagereq>
@@ -3364,7 +3365,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="gtk2">gtk2-immodule-xim</packagereq>
-      <packagereq type="conditional" requires="gtk2">ibus-gtk</packagereq>
+      <packagereq type="conditional" requires="gtk2">ibus-gtk2</packagereq>
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
       <packagereq type="conditional" requires="xfce-utils">imsettings-xfce</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
