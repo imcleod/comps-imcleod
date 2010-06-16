@@ -2661,12 +2661,13 @@
       <packagereq type="conditional" requires="ibus">ibus-gtk3</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
-      <packagereq type="default">at-spi</packagereq>
+      <packagereq type="default">at-spi2-atk</packagereq>
+      <packagereq type="default">at-spi2-core</packagereq>
       <packagereq type="default">avahi</packagereq>
       <packagereq type="default">brasero-nautilus</packagereq>
       <packagereq type="default">caribou</packagereq>
       <packagereq type="default">cheese</packagereq>
-      <packagereq type="default">compiz-gnome</packagereq>
+      <packagereq type="default">dconf</packagereq>
       <packagereq type="default">deja-dup</packagereq>
       <packagereq type="default">eog</packagereq>
       <packagereq type="default">evince</packagereq>
@@ -2687,6 +2688,7 @@
       <packagereq type="default">gnome-pilot</packagereq>
       <packagereq type="default">gnome-power-manager</packagereq>
       <packagereq type="default">gnome-screensaver</packagereq>
+      <packagereq type="default">gnome-shell</packagereq>
       <packagereq type="default">gnome-system-monitor</packagereq>
       <packagereq type="default">gnome-themes</packagereq>
       <packagereq type="default">gnome-user-docs</packagereq>
@@ -2695,11 +2697,13 @@
       <packagereq type="default">gnote</packagereq>
       <packagereq type="default">gok</packagereq>
       <packagereq type="default">gtk2-engines</packagereq>
+      <packagereq type="default">gtk3-engines</packagereq>
       <packagereq type="default">gucharmap</packagereq>
       <packagereq type="default">gvfs-archive</packagereq>
       <packagereq type="default">gvfs-gphoto2</packagereq>
       <packagereq type="default">gvfs-smb</packagereq>
       <packagereq type="default">libcanberra-gtk2</packagereq>
+      <packagereq type="default">libcanberra-gtk3</packagereq>
       <packagereq type="default">mousetweaks</packagereq>
       <packagereq type="default">nautilus-sendto</packagereq>
       <packagereq type="default">NetworkManager-gnome</packagereq>
@@ -2713,6 +2717,7 @@
       <packagereq type="default">PackageKit-gtk-module</packagereq>
       <packagereq type="default">pulseaudio-module-gconf</packagereq>
       <packagereq type="default">pulseaudio-module-x11</packagereq>
+      <packagereq type="default">pyatspi</packagereq>
       <packagereq type="default">seahorse</packagereq>
       <packagereq type="default">shotwell</packagereq>
       <packagereq type="default">simple-scan</packagereq>
@@ -2726,7 +2731,7 @@
       <packagereq type="optional">beagle-gnome</packagereq>
       <packagereq type="optional">buoh</packagereq>
       <packagereq type="optional">byzanz</packagereq>
-      <packagereq type="optional">control-center-extra</packagereq>
+      <packagereq type="optional">compiz-gnome</packagereq>
       <packagereq type="optional">dasher</packagereq>
       <packagereq type="optional">deskbar-applet</packagereq>
       <packagereq type="optional">esc</packagereq>
