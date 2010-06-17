@@ -150,6 +150,18 @@
     </packagelist>
   </group>
   <group>
+    <id>asturian-support</id>
+    <_name>Asturian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ast</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-ast</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-ast</packagereq>
+   </packagelist>
+  </group>
+  <group>
     <id>authoring-and-publishing</id>
     <_name>Authoring and Publishing</_name>
     <_description>These tools allow you to create documents in the DocBook format and convert them into HTML, PDF, Postscript, and text.</_description>
