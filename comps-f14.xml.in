@@ -4989,7 +4989,8 @@
       <packagereq type="mandatory">ghostscript-cups</packagereq>
       <packagereq type="default">bluez-cups</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
-      <packagereq type="default">foomatic</packagereq>
+      <packagereq type="default">foomatic-filters</packagereq>
+      <packagereq type="default">foomatic-db-ppds</packagereq>
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-cups</packagereq>
       <packagereq type="default">hpijs</packagereq>
@@ -5002,6 +5003,7 @@
       <packagereq type="optional">a2ps</packagereq>
       <packagereq type="optional">cups-pdf</packagereq>
       <packagereq type="optional">enscript</packagereq>
+      <packagereq type="optional">foomatic</packagereq>
     </packagelist>
   </group>
   <group>
