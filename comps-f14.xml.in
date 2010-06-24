@@ -274,7 +274,6 @@
       <packagereq type="default">nc</packagereq>
       <packagereq type="default">nfs-utils</packagereq>
       <packagereq type="default">nss_db</packagereq>
-      <packagereq type="default">nss-pam-ldapd</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
       <packagereq type="default">numactl</packagereq>
@@ -282,7 +281,6 @@
       <packagereq type="default">PackageKit-yum-plugin</packagereq>
       <packagereq type="default">pam_ccreds</packagereq>
       <packagereq type="default">pam_krb5</packagereq>
-      <packagereq type="default">pam_ldap</packagereq>
       <packagereq type="default">pam_passwdqc</packagereq>
       <packagereq type="default">pam_pkcs11</packagereq>
       <packagereq type="default">pam_smb</packagereq>
@@ -347,6 +345,8 @@
       <packagereq type="optional">mgetty</packagereq>
       <packagereq type="optional">mkbootdisk</packagereq>
       <packagereq type="optional">mtools</packagereq>
+      <packagereq type="optional">nss-pam-ldapd</packagereq>
+      <packagereq type="optional">pam_ldap</packagereq>
       <packagereq type="optional">pax</packagereq>
       <packagereq type="optional">redhat-lsb</packagereq>
       <packagereq type="optional">reiserfs-utils</packagereq>
