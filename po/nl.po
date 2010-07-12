@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: comps.HEAD.nl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-06-18 07:40+0000\n"
-"PO-Revision-Date: 2010-06-18 15:02+0200\n"
+"POT-Creation-Date: 2010-07-12 08:20+0000\n"
+"PO-Revision-Date: 2010-07-12 11:43+0200\n"
 "Last-Translator: Geert Warrink <geert.warrink@onsnet.nu>\n"
 "Language-Team: Fedora\n"
 "Language: nl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.5.2\n"
+"X-Generator: Virtaal 0.6.1\n"
 
 #: ../comps-f9.xml.in.h:1 ../comps-f10.xml.in.h:1 ../comps-f11.xml.in.h:1
 #: ../comps-f12.xml.in.h:1 ../comps-f13.xml.in.h:1 ../comps-f14.xml.in.h:1
@@ -1006,8 +1006,7 @@ msgstr "Met deze pakketten kun je een IMAP of SMTP e-mailserver configureren."
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr ""
-"Met deze pakketten kun je toepassingen voor het X Window systeem "
-"ontwikkelen."
+"Met deze pakketten kun je toepassingen voor het X Window systeem ontwikkelen."
 
 #: ../comps-f9.xml.in.h:163 ../comps-f10.xml.in.h:176
 #: ../comps-f11.xml.in.h:204 ../comps-f12.xml.in.h:215
@@ -1106,7 +1105,8 @@ msgstr "Met deze groep kun je het systeem als nieuws server configureren."
 #: ../comps-f11.xml.in.h:215 ../comps-f12.xml.in.h:226
 #: ../comps-f13.xml.in.h:234 ../comps-f14.xml.in.h:242
 msgid "This group contains all of Red Hat's custom server configuration tools."
-msgstr "Deze groep bevat Red Hat's eigen hulpmiddelen voor server configuratie."
+msgstr ""
+"Deze groep bevat Red Hat's eigen hulpmiddelen voor server configuratie."
 
 #: ../comps-f9.xml.in.h:175 ../comps-f10.xml.in.h:188
 #: ../comps-f11.xml.in.h:216 ../comps-f12.xml.in.h:227
@@ -1577,7 +1577,7 @@ msgid "Manx Support"
 msgstr "Ondersteuning voor Manx"
 
 #: ../comps-f11.xml.in.h:137 ../comps-f12.xml.in.h:146
-#: ../comps-f13.xml.in.h:150 ../comps-f14.xml.in.h:158
+#: ../comps-f13.xml.in.h:150 ../comps-f14.xml.in.h:160
 msgid "MinGW cross-compiler"
 msgstr "MinGW cross-compiler"
 
@@ -1715,7 +1715,6 @@ msgid "Machine and user identity servers."
 msgstr "Machine en gebruiker identiteit servers."
 
 #: ../comps-f12.xml.in.h:147 ../comps-f13.xml.in.h:151
-#: ../comps-f14.xml.in.h:159
 msgid "Moblin Desktop Environment"
 msgstr "Moblin bureaublad omgeving"
 
@@ -1747,7 +1746,7 @@ msgstr "Bestandssystemen"
 msgid "KDE Software Compilation"
 msgstr "KDE software compilatie"
 
-#: ../comps-f13.xml.in.h:152 ../comps-f14.xml.in.h:160
+#: ../comps-f13.xml.in.h:152
 msgid "Moblin is a desktop environment for NetBook/NetTop devices."
 msgstr "Moblin is een bureaublad omgeving voor NetBook/NetTop apparaten."
 
@@ -1820,6 +1819,15 @@ msgstr "Kritieke pad (LXDE)"
 #: ../comps-f14.xml.in.h:48
 msgid "Critical Path (Xfce)"
 msgstr "Kritieke pad (Xfce)"
+
+#: ../comps-f14.xml.in.h:158
+msgid "MeeGo NetBook UX Environment"
+msgstr "MeeGo NetBook UX omgeving"
+
+#: ../comps-f14.xml.in.h:159
+msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
+msgstr ""
+"MeeGo NetBook UX is een bureau blad omgeving voor NetBook/NetTop apparaten."
 
 #: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3 ../comps-el6.xml.in.h:3
 msgid "Applications for a variety of tasks"
