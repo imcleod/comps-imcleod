@@ -1924,6 +1924,10 @@
       <packagereq type="optional">meld</packagereq>
       <packagereq type="optional">mercurial</packagereq>
       <packagereq type="optional">nautilus-bzr</packagereq>
+      <packagereq type="optional">python-robofab</packagereq>
+      <packagereq type="optional">python-fontMath</packagereq>
+      <packagereq type="optional">python-compositor</packagereq>
+      <packagereq type="optional">python-ufo2fdk</packagereq>
       <packagereq type="optional">qgit</packagereq>
       <packagereq type="optional">quilt</packagereq>
       <packagereq type="optional">scribus</packagereq>
@@ -1976,11 +1980,12 @@
       <packagereq type="optional">adf-tribun-fonts</packagereq>
       <packagereq type="optional">allgeyer-musiqwik-fonts</packagereq>
       <packagereq type="optional">allgeyer-musisync-fonts</packagereq>
+      <packagereq type="optional">aldusleaf-crimson-text-fonts</packagereq>
       <packagereq type="optional">apa-new-athena-unicode-fonts</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">aplus-fsf-KAPL-fonts</packagereq>
-      <packagereq type="optional">asana-math-fonts</packagereq>
+      <packagereq type="optional">oflb-asana-math-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-dotum-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-gulim-fonts</packagereq>
@@ -2007,9 +2012,10 @@
       <packagereq type="optional">bpg-sans-regular-fonts</packagereq>
       <packagereq type="optional">bpg-serif-fonts</packagereq>
       <packagereq type="optional">bpg-serif-modern-fonts</packagereq>
-      <packagereq type="optional">brettfont-fonts</packagereq>
+      <packagereq type="optional">oflb-brett-fonts</packagereq>
       <packagereq type="optional">cave9-mutante-fonts</packagereq>
       <packagereq type="optional">cf-bonveno-fonts</packagereq>
+      <packagereq type="optional">cf-sorts-mill-goudy-fonts</packagereq>
       <packagereq type="optional">chisholm-letterslaughing-fonts</packagereq>
       <packagereq type="optional">chisholm-to-be-continued-fonts</packagereq>
       <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
@@ -2078,7 +2084,8 @@
       <packagereq type="optional">hanazono-fonts</packagereq>
       <packagereq type="optional">hartke-aurulent-sans-fonts</packagereq>
       <packagereq type="optional">hartke-aurulent-sans-mono-fonts</packagereq>
-      <packagereq type="optional">icelandic-fonts</packagereq>
+      <packagereq type="optional">oflb-icelandic-fonts</packagereq>
+      <packagereq type="optional">impallari-lobster-fonts</packagereq>
       <packagereq type="optional">inkboy-fonts</packagereq>
       <packagereq type="optional">ipa-ex-gothic-fonts</packagereq>
       <packagereq type="optional">ipa-ex-mincho-fonts</packagereq>
@@ -2124,6 +2131,7 @@
       <packagereq type="optional">mgopen-cosmetica-fonts</packagereq>
       <packagereq type="optional">mgopen-modata-fonts</packagereq>
       <packagereq type="optional">mgopen-moderna-fonts</packagereq>
+      <packagereq type="optional">moyogo-molengo-fonts</packagereq>
       <packagereq type="optional">mscore-fonts</packagereq>
       <packagereq type="optional">msimonson-anonymouspro-fonts</packagereq>
       <packagereq type="optional">myanmar3-unicode-fonts</packagereq>
@@ -2138,7 +2146,7 @@
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
       <packagereq type="optional">openoffice.org-opensymbol-fonts</packagereq>
       <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
-      <packagereq type="optional">roadstencil-fonts</packagereq>
+      <packagereq type="optional">oflb-roadstencil-fonts</packagereq>
       <packagereq type="optional">saab-fonts</packagereq>
       <packagereq type="optional">samyak-devanagari-fonts</packagereq>
       <packagereq type="optional">samyak-gujarati-fonts</packagereq>
@@ -2148,6 +2156,7 @@
       <packagereq type="optional">sarai-fonts</packagereq>
       <packagereq type="optional">sazanami-gothic-fonts</packagereq>
       <packagereq type="optional">sazanami-mincho-fonts</packagereq>
+      <packagereq type="optional">scholarsfonts-cardo-fonts</packagereq>
       <packagereq type="optional">senamirmir-washra-fantuwua-fonts</packagereq>
       <packagereq type="optional">senamirmir-washra-fonts</packagereq>
       <packagereq type="optional">senamirmir-washra-hiwua-fonts</packagereq>
@@ -2179,7 +2188,7 @@
       <packagereq type="optional">smc-rachana-fonts</packagereq>
       <packagereq type="optional">smc-raghumalayalam-fonts</packagereq>
       <packagereq type="optional">smc-suruma-fonts</packagereq>
-      <packagereq type="optional">sportrop-fonts</packagereq>
+      <packagereq type="optional">oflb-sportrop-fonts</packagereq>
       <packagereq type="optional">stix-integrals-fonts</packagereq>
       <packagereq type="optional">stix-pua-fonts</packagereq>
       <packagereq type="optional">stix-sizes-fonts</packagereq>
@@ -2198,6 +2207,7 @@
       <packagereq type="optional">tiresias-sign-fonts</packagereq>
       <packagereq type="optional">tiresias-sign-z-fonts</packagereq>
       <packagereq type="optional">tulrich-tuffy-fonts</packagereq>
+      <packagereq type="optional">typemade-josefinsansstd-light-fonts</packagereq>
       <packagereq type="optional">un-core-batang-fonts</packagereq>
       <packagereq type="optional">un-core-dinaru-fonts</packagereq>
       <packagereq type="optional">un-core-graphic-fonts</packagereq>
