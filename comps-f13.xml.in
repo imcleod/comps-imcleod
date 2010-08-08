@@ -30,9 +30,9 @@
       <packagereq type="optional">ntop</packagereq>
       <packagereq type="optional">pessulus</packagereq>
       <packagereq type="optional">qtparted</packagereq>
-      <packagereq type="optional">system-config-network</packagereq>
       <packagereq type="optional">system-config-kickstart</packagereq>
       <packagereq type="optional">system-config-lvm</packagereq>
+      <packagereq type="optional">system-config-network</packagereq>
       <packagereq type="optional">system-config-rootpassword</packagereq>
       <packagereq type="optional">yumex</packagereq>
     </packagelist>
@@ -159,7 +159,7 @@
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-ast</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ast</packagereq>
-   </packagelist>
+    </packagelist>
   </group>
   <group>
     <id>authoring-and-publishing</id>
@@ -347,7 +347,7 @@
       <packagereq type="optional">mkbootdisk</packagereq>
       <packagereq type="optional">mtools</packagereq>
       <packagereq type="optional">pax</packagereq>
-      <packagereq type="optional">pinfo</packagereq>      
+      <packagereq type="optional">pinfo</packagereq>
       <packagereq type="optional">redhat-lsb</packagereq>
       <packagereq type="optional">reiserfs-utils</packagereq>
       <packagereq type="optional">squashfs-tools</packagereq>
@@ -2672,9 +2672,9 @@
       <packagereq type="default">orca</packagereq>
       <packagereq type="default">PackageKit-command-not-found</packagereq>
       <packagereq type="default">PackageKit-gtk-module</packagereq>
+      <packagereq type="default">preupgrade</packagereq>
       <packagereq type="default">pulseaudio-module-gconf</packagereq>
       <packagereq type="default">pulseaudio-module-x11</packagereq>
-      <packagereq type="default">preupgrade</packagereq>
       <packagereq type="default">seahorse</packagereq>
       <packagereq type="default">shotwell</packagereq>
       <packagereq type="default">simple-scan</packagereq>
@@ -2963,6 +2963,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
       <packagereq type="default">gimp</packagereq>
       <packagereq type="default">gimp-data-extras</packagereq>
       <packagereq type="default">gimp-help</packagereq>
@@ -3026,7 +3027,6 @@
       <packagereq type="optional">xfig</packagereq>
       <packagereq type="optional">xpaint</packagereq>
       <packagereq type="optional">xsane</packagereq>
-      <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3944,9 +3944,9 @@
       <packagereq type="default">PyKDE4-devel</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="optional">gambas-runtime</packagereq>
+      <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kdebase-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
-      <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kdeedu-devel</packagereq>
       <packagereq type="optional">kdegames-devel</packagereq>
       <packagereq type="optional">kdegraphics-devel</packagereq>
@@ -5553,8 +5553,8 @@
       <packagereq type="optional">sugar-help</packagereq>
       <packagereq type="optional">sugar-imageviewer</packagereq>
       <packagereq type="optional">sugar-implode</packagereq>
-      <packagereq type="optional">sugar-jukebox</packagereq>
       <packagereq type="optional">sugar-infoslicer</packagereq>
+      <packagereq type="optional">sugar-jukebox</packagereq>
       <packagereq type="optional">sugar-memorize</packagereq>
       <packagereq type="optional">sugar-moon</packagereq>
       <packagereq type="optional">sugar-pippy</packagereq>

@@ -157,7 +157,7 @@
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-ast</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ast</packagereq>
-   </packagelist>
+    </packagelist>
   </group>
   <group>
     <id>authoring-and-publishing</id>
@@ -805,8 +805,8 @@
       <packagereq type="default">ppc64-utils</packagereq>
       <packagereq type="default">s390utils</packagereq>
       <packagereq type="default">sendmail</packagereq>
-      <packagereq type="default">systemd-sysvinit</packagereq>
       <packagereq type="default">silo</packagereq>
+      <packagereq type="default">systemd-sysvinit</packagereq>
       <packagereq type="default">yaboot</packagereq>
     </packagelist>
   </group>
@@ -1926,9 +1926,9 @@
       <packagereq type="optional">meld</packagereq>
       <packagereq type="optional">mercurial</packagereq>
       <packagereq type="optional">nautilus-bzr</packagereq>
-      <packagereq type="optional">python-robofab</packagereq>
-      <packagereq type="optional">python-fontMath</packagereq>
       <packagereq type="optional">python-compositor</packagereq>
+      <packagereq type="optional">python-fontMath</packagereq>
+      <packagereq type="optional">python-robofab</packagereq>
       <packagereq type="optional">python-ufo2fdk</packagereq>
       <packagereq type="optional">qgit</packagereq>
       <packagereq type="optional">quilt</packagereq>
@@ -1980,14 +1980,13 @@
       <packagereq type="optional">adf-accanthis-3-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-fonts</packagereq>
       <packagereq type="optional">adf-tribun-fonts</packagereq>
+      <packagereq type="optional">aldusleaf-crimson-text-fonts</packagereq>
       <packagereq type="optional">allgeyer-musiqwik-fonts</packagereq>
       <packagereq type="optional">allgeyer-musisync-fonts</packagereq>
-      <packagereq type="optional">aldusleaf-crimson-text-fonts</packagereq>
       <packagereq type="optional">apa-new-athena-unicode-fonts</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">aplus-fsf-KAPL-fonts</packagereq>
-      <packagereq type="optional">oflb-asana-math-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-dotum-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-gulim-fonts</packagereq>
@@ -2014,7 +2013,6 @@
       <packagereq type="optional">bpg-sans-regular-fonts</packagereq>
       <packagereq type="optional">bpg-serif-fonts</packagereq>
       <packagereq type="optional">bpg-serif-modern-fonts</packagereq>
-      <packagereq type="optional">oflb-brett-fonts</packagereq>
       <packagereq type="optional">cave9-mutante-fonts</packagereq>
       <packagereq type="optional">cf-bonveno-fonts</packagereq>
       <packagereq type="optional">cf-sorts-mill-goudy-fonts</packagereq>
@@ -2086,7 +2084,6 @@
       <packagereq type="optional">hanazono-fonts</packagereq>
       <packagereq type="optional">hartke-aurulent-sans-fonts</packagereq>
       <packagereq type="optional">hartke-aurulent-sans-mono-fonts</packagereq>
-      <packagereq type="optional">oflb-icelandic-fonts</packagereq>
       <packagereq type="optional">impallari-lobster-fonts</packagereq>
       <packagereq type="optional">inkboy-fonts</packagereq>
       <packagereq type="optional">ipa-ex-gothic-fonts</packagereq>
@@ -2140,15 +2137,19 @@
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">ns-bola-fonts</packagereq>
       <packagereq type="optional">ns-tiza-chalk-fonts</packagereq>
+      <packagereq type="optional">oflb-asana-math-fonts</packagereq>
+      <packagereq type="optional">oflb-brett-fonts</packagereq>
       <packagereq type="optional">oflb-goudy-bookletter-1911-fonts</packagereq>
+      <packagereq type="optional">oflb-icelandic-fonts</packagereq>
       <packagereq type="optional">oflb-notcouriersans-fonts</packagereq>
       <packagereq type="optional">oflb-prociono-fonts</packagereq>
       <packagereq type="optional">oflb-riordonfancy-fonts</packagereq>
+      <packagereq type="optional">oflb-roadstencil-fonts</packagereq>
       <packagereq type="optional">oflb-smonohand-fonts</packagereq>
+      <packagereq type="optional">oflb-sportrop-fonts</packagereq>
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
       <packagereq type="optional">openoffice.org-opensymbol-fonts</packagereq>
       <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
-      <packagereq type="optional">oflb-roadstencil-fonts</packagereq>
       <packagereq type="optional">saab-fonts</packagereq>
       <packagereq type="optional">samyak-devanagari-fonts</packagereq>
       <packagereq type="optional">samyak-gujarati-fonts</packagereq>
@@ -2190,7 +2191,6 @@
       <packagereq type="optional">smc-rachana-fonts</packagereq>
       <packagereq type="optional">smc-raghumalayalam-fonts</packagereq>
       <packagereq type="optional">smc-suruma-fonts</packagereq>
-      <packagereq type="optional">oflb-sportrop-fonts</packagereq>
       <packagereq type="optional">stix-integrals-fonts</packagereq>
       <packagereq type="optional">stix-pua-fonts</packagereq>
       <packagereq type="optional">stix-sizes-fonts</packagereq>
@@ -2713,6 +2713,9 @@
       <packagereq type="default">gnome-color-manager</packagereq>
       <packagereq type="default">gnome-disk-utility</packagereq>
       <packagereq type="default">gnome-games</packagereq>
+      <packagereq type="default">gnome-icon-theme</packagereq>
+      <packagereq type="default">gnome-icon-theme-extras</packagereq>
+      <packagereq type="default">gnome-icon-theme-symbolic</packagereq>
       <packagereq type="default">gnome-media</packagereq>
       <packagereq type="default">gnome-pilot</packagereq>
       <packagereq type="default">gnome-power-manager</packagereq>
@@ -2720,9 +2723,6 @@
       <packagereq type="default">gnome-shell</packagereq>
       <packagereq type="default">gnome-system-monitor</packagereq>
       <packagereq type="default">gnome-themes</packagereq>
-      <packagereq type="default">gnome-icon-theme</packagereq>
-      <packagereq type="default">gnome-icon-theme-symbolic</packagereq>
-      <packagereq type="default">gnome-icon-theme-extras</packagereq>
       <packagereq type="default">gnome-user-docs</packagereq>
       <packagereq type="default">gnome-user-share</packagereq>
       <packagereq type="default">gnome-utils</packagereq>
@@ -2730,13 +2730,13 @@
       <packagereq type="default">gok</packagereq>
       <packagereq type="default">gtk2-engines</packagereq>
       <packagereq type="default">gtk3-engines</packagereq>
-      <packagereq type="default">librsvg3</packagereq>
       <packagereq type="default">gucharmap</packagereq>
       <packagereq type="default">gvfs-archive</packagereq>
       <packagereq type="default">gvfs-gphoto2</packagereq>
       <packagereq type="default">gvfs-smb</packagereq>
       <packagereq type="default">libcanberra-gtk2</packagereq>
       <packagereq type="default">libcanberra-gtk3</packagereq>
+      <packagereq type="default">librsvg3</packagereq>
       <packagereq type="default">mousetweaks</packagereq>
       <packagereq type="default">nautilus-sendto</packagereq>
       <packagereq type="default">NetworkManager-gnome</packagereq>
@@ -4481,6 +4481,35 @@
     </packagelist>
   </group>
   <group>
+    <id>meego-netbook</id>
+    <_name>MeeGo NetBook UX Environment</_name>
+    <_description>MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">bisho</packagereq>
+      <packagereq type="mandatory">bognor-regis</packagereq>
+      <packagereq type="mandatory">dalston</packagereq>
+      <packagereq type="mandatory">moblin-app-installer</packagereq>
+      <packagereq type="mandatory">moblin-cursor-theme</packagereq>
+      <packagereq type="mandatory">moblin-gtk-engine</packagereq>
+      <packagereq type="mandatory">moblin-icon-theme</packagereq>
+      <packagereq type="mandatory">moblin-panel-applications</packagereq>
+      <packagereq type="mandatory">moblin-panel-media</packagereq>
+      <packagereq type="mandatory">moblin-panel-myzone</packagereq>
+      <packagereq type="mandatory">moblin-panel-pasteboard</packagereq>
+      <packagereq type="mandatory">moblin-panel-people</packagereq>
+      <packagereq type="mandatory">moblin-panel-status</packagereq>
+      <packagereq type="mandatory">moblin-session</packagereq>
+      <packagereq type="mandatory">moblin-sound-theme</packagereq>
+      <packagereq type="mandatory">network-manager-netbook</packagereq>
+      <packagereq type="default">evolution</packagereq>
+      <packagereq type="default">gnome-bluetooth-moblin</packagereq>
+      <packagereq type="default">hornsey</packagereq>
+      <packagereq type="default">syncevolution-moblin</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>mingw32</id>
     <_name>MinGW cross-compiler</_name>
     <_description>
@@ -4523,35 +4552,6 @@
       <packagereq type="optional">mingw32-sqlite</packagereq>
       <packagereq type="optional">mingw32-termcap</packagereq>
       <packagereq type="optional">mingw32-zlib</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>meego-netbook</id>
-    <_name>MeeGo NetBook UX Environment</_name>
-    <_description>MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices.</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="mandatory">bisho</packagereq>
-      <packagereq type="mandatory">bognor-regis</packagereq>
-      <packagereq type="mandatory">dalston</packagereq>
-      <packagereq type="mandatory">moblin-app-installer</packagereq>
-      <packagereq type="mandatory">moblin-cursor-theme</packagereq>
-      <packagereq type="mandatory">moblin-gtk-engine</packagereq>
-      <packagereq type="mandatory">moblin-icon-theme</packagereq>
-      <packagereq type="mandatory">moblin-panel-applications</packagereq>
-      <packagereq type="mandatory">moblin-panel-media</packagereq>
-      <packagereq type="mandatory">moblin-panel-myzone</packagereq>
-      <packagereq type="mandatory">moblin-panel-pasteboard</packagereq>
-      <packagereq type="mandatory">moblin-panel-people</packagereq>
-      <packagereq type="mandatory">moblin-panel-status</packagereq>
-      <packagereq type="mandatory">moblin-session</packagereq>
-      <packagereq type="mandatory">moblin-sound-theme</packagereq>
-      <packagereq type="mandatory">network-manager-netbook</packagereq>
-      <packagereq type="default">evolution</packagereq>
-      <packagereq type="default">gnome-bluetooth-moblin</packagereq>
-      <packagereq type="default">hornsey</packagereq>
-      <packagereq type="default">syncevolution-moblin</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5000,8 +5000,8 @@
       <packagereq type="default">bluez-cups</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
       <packagereq type="default">foomatic</packagereq>
-      <packagereq type="default">foomatic-filters</packagereq>
       <packagereq type="default">foomatic-db-ppds</packagereq>
+      <packagereq type="default">foomatic-filters</packagereq>
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-cups</packagereq>
       <packagereq type="default">hpijs</packagereq>
