@@ -3396,6 +3396,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="gtk2">gtk2-immodule-xim</packagereq>
+      <packagereq type="conditional" requires="gtk3">gtk3-immodule-xim</packagereq>
       <packagereq type="conditional" requires="gtk2">ibus-gtk2</packagereq>
       <packagereq type="conditional" requires="gtk3">ibus-gtk3</packagereq>
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
