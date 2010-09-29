@@ -2210,18 +2210,18 @@
       <packagereq type="optional">un-core-graphic-fonts</packagereq>
       <packagereq type="optional">un-core-gungseo-fonts</packagereq>
       <packagereq type="optional">un-core-pilgi-fonts</packagereq>
-      <packagereq type="optional">un-extra-fonts-bom</packagereq>
-      <packagereq type="optional">un-extra-fonts-jamobatang</packagereq>
-      <packagereq type="optional">un-extra-fonts-jamodotum</packagereq>
-      <packagereq type="optional">un-extra-fonts-jamonovel</packagereq>
-      <packagereq type="optional">un-extra-fonts-jamosora</packagereq>
-      <packagereq type="optional">un-extra-fonts-pen</packagereq>
-      <packagereq type="optional">un-extra-fonts-penheulim</packagereq>
-      <packagereq type="optional">un-extra-fonts-pilgia</packagereq>
-      <packagereq type="optional">un-extra-fonts-shinmun</packagereq>
-      <packagereq type="optional">un-extra-fonts-taza</packagereq>
-      <packagereq type="optional">un-extra-fonts-vada</packagereq>
-      <packagereq type="optional">un-extra-fonts-yetgul</packagereq>
+      <packagereq type="optional">un-extra-bom-fonts</packagereq>
+      <packagereq type="optional">un-extra-jamobatang-fonts</packagereq>
+      <packagereq type="optional">un-extra-jamodotum-fonts</packagereq>
+      <packagereq type="optional">un-extra-jamonovel-fonts</packagereq>
+      <packagereq type="optional">un-extra-jamosora-fonts</packagereq>
+      <packagereq type="optional">un-extra-pen-fonts</packagereq>
+      <packagereq type="optional">un-extra-penheulim-fonts</packagereq>
+      <packagereq type="optional">un-extra-pilgia-fonts</packagereq>
+      <packagereq type="optional">un-extra-shinmun-fonts</packagereq>
+      <packagereq type="optional">un-extra-taza-fonts</packagereq>
+      <packagereq type="optional">un-extra-vada-fonts</packagereq>
+      <packagereq type="optional">un-extra-yetgul-fonts</packagereq>
       <packagereq type="optional">vemana2000-fonts</packagereq>
       <packagereq type="optional">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">vollkorn-fonts</packagereq>
@@ -4051,18 +4051,18 @@
       <packagereq type="optional">baekmuk-ttf-hline-fonts</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">nabi</packagereq>
-      <packagereq type="optional">un-extra-fonts-bom</packagereq>
-      <packagereq type="optional">un-extra-fonts-jamobatang</packagereq>
-      <packagereq type="optional">un-extra-fonts-jamodotum</packagereq>
-      <packagereq type="optional">un-extra-fonts-jamonovel</packagereq>
-      <packagereq type="optional">un-extra-fonts-jamosora</packagereq>
-      <packagereq type="optional">un-extra-fonts-pen</packagereq>
-      <packagereq type="optional">un-extra-fonts-penheulim</packagereq>
-      <packagereq type="optional">un-extra-fonts-pilgia</packagereq>
-      <packagereq type="optional">un-extra-fonts-shinmun</packagereq>
-      <packagereq type="optional">un-extra-fonts-taza</packagereq>
-      <packagereq type="optional">un-extra-fonts-vada</packagereq>
-      <packagereq type="optional">un-extra-fonts-yetgul</packagereq>
+      <packagereq type="optional">un-extra-bom-fonts</packagereq>
+      <packagereq type="optional">un-extra-jamobatang-fonts</packagereq>
+      <packagereq type="optional">un-extra-jamodotum-fonts</packagereq>
+      <packagereq type="optional">un-extra-jamonovel-fonts</packagereq>
+      <packagereq type="optional">un-extra-jamosora-fonts</packagereq>
+      <packagereq type="optional">un-extra-pen-fonts</packagereq>
+      <packagereq type="optional">un-extra-penheulim-fonts</packagereq>
+      <packagereq type="optional">un-extra-pilgia-fonts</packagereq>
+      <packagereq type="optional">un-extra-shinmun-fonts</packagereq>
+      <packagereq type="optional">un-extra-taza-fonts</packagereq>
+      <packagereq type="optional">un-extra-vada-fonts</packagereq>
+      <packagereq type="optional">un-extra-yetgul-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5066,7 +5066,7 @@
     <uservisible>true</uservisible>
     <langonly>ro</langonly>
     <packagelist>
-      <packagereq type="mandatory">terminus-console-fonts</packagereq>
+      <packagereq type="mandatory">terminus-fonts-console</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-ro</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ro</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-ro</packagereq>
