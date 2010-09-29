@@ -4262,6 +4262,18 @@
     </packagelist>
   </group>
   <group>
+    <id>low-german-support</id>
+    <_name>Low German Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>nds</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="hunspell">hunspell-nds</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-nds</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>low-saxon-support</id>
     <_name>Low Saxon Support</_name>
     <_description/>
