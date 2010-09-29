@@ -279,11 +279,9 @@
       <packagereq type="default">numactl</packagereq>
       <packagereq type="default">openssh-clients</packagereq>
       <packagereq type="default">PackageKit-yum-plugin</packagereq>
-      <packagereq type="default">pam_ccreds</packagereq>
       <packagereq type="default">pam_krb5</packagereq>
       <packagereq type="default">pam_passwdqc</packagereq>
       <packagereq type="default">pam_pkcs11</packagereq>
-      <packagereq type="default">pam_smb</packagereq>
       <packagereq type="default">pcmciautils</packagereq>
       <packagereq type="default">perf</packagereq>
       <packagereq type="default">pinfo</packagereq>
@@ -345,7 +343,9 @@
       <packagereq type="optional">mkbootdisk</packagereq>
       <packagereq type="optional">mtools</packagereq>
       <packagereq type="optional">nss-pam-ldapd</packagereq>
+      <packagereq type="optional">pam_ccreds</packagereq>
       <packagereq type="optional">pam_ldap</packagereq>
+      <packagereq type="optional">pam_smb</packagereq>
       <packagereq type="optional">pax</packagereq>
       <packagereq type="optional">redhat-lsb</packagereq>
       <packagereq type="optional">reiserfs-utils</packagereq>
@@ -2691,8 +2691,10 @@
       <packagereq type="mandatory">nautilus</packagereq>
       <packagereq type="mandatory">polkit-gnome</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
+      <packagereq type="conditional" requires="gtk3">gtk3-engines</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-gtk2</packagereq>
       <packagereq type="conditional" requires="gtk3">ibus-gtk3</packagereq>
+      <packagereq type="conditional" requires="gtk3">libcanberra-gtk3</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
       <packagereq type="default">at-spi2-atk</packagereq>
@@ -2733,13 +2735,11 @@
       <packagereq type="default">gnote</packagereq>
       <packagereq type="default">gok</packagereq>
       <packagereq type="default">gtk2-engines</packagereq>
-      <packagereq type="conditional" requires="gtk3">gtk3-engines</packagereq>
       <packagereq type="default">gucharmap</packagereq>
       <packagereq type="default">gvfs-archive</packagereq>
       <packagereq type="default">gvfs-gphoto2</packagereq>
       <packagereq type="default">gvfs-smb</packagereq>
       <packagereq type="default">libcanberra-gtk2</packagereq>
-      <packagereq type="conditional" requires="gtk3">libcanberra-gtk3</packagereq>
       <packagereq type="default">mousetweaks</packagereq>
       <packagereq type="default">nautilus-sendto</packagereq>
       <packagereq type="default">NetworkManager-gnome</packagereq>
@@ -3896,7 +3896,6 @@
       <packagereq type="optional">kde-colorscheme-plastik</packagereq>
       <packagereq type="optional">kde-plasma-ihatethecashew</packagereq>
       <packagereq type="optional">kde-plasma-ktorrent</packagereq>
-      <packagereq type="optional">kde-plasma-networkmanagement</packagereq>
       <packagereq type="optional">kde-plasma-qstardict</packagereq>
       <packagereq type="optional">kde-plasma-quickaccess</packagereq>
       <packagereq type="optional">kde-plasma-runcommand</packagereq>
@@ -4517,8 +4516,8 @@
     <packagelist>
       <packagereq type="mandatory">bisho</packagereq>
       <packagereq type="mandatory">bognor-regis</packagereq>
-      <packagereq type="mandatory">meego-panel-devices</packagereq>
       <packagereq type="mandatory">meego-panel-datetime</packagereq>
+      <packagereq type="mandatory">meego-panel-devices</packagereq>
       <packagereq type="mandatory">meego-panel-zones</packagereq>
       <packagereq type="mandatory">moblin-app-installer</packagereq>
       <packagereq type="mandatory">moblin-cursor-theme</packagereq>
