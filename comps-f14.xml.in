@@ -291,7 +291,7 @@
       <packagereq type="default">rdate</packagereq>
       <packagereq type="default">rdist</packagereq>
       <packagereq type="default">readahead</packagereq>
-      <packagereq type="default">rng-utils</packagereq>
+      <packagereq type="default">rng-tools</packagereq>
       <packagereq type="default">rsh</packagereq>
       <packagereq type="default">rsync</packagereq>
       <packagereq type="default">sendmail</packagereq>
@@ -611,9 +611,9 @@
       <packagereq type="conditional" requires="mythes-en">mythes-bg</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bg_BG</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -932,9 +932,9 @@
       <packagereq type="conditional" requires="hyphen">hyphen-hr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hr_HR</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -958,9 +958,9 @@
       <packagereq type="conditional" requires="mythes-en">mythes-cs</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-cs_CZ</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-cs</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">stardict-dic-cs_CZ</packagereq>
     </packagelist>
   </group>
@@ -1121,6 +1121,7 @@
       <packagereq type="optional">clisp</packagereq>
       <packagereq type="optional">cmake</packagereq>
       <packagereq type="optional">cmucl</packagereq>
+      <packagereq type="optional">coan</packagereq>
       <packagereq type="optional">CodeAnalyst-gui</packagereq>
       <packagereq type="optional">codeblocks</packagereq>
       <packagereq type="optional">cogito</packagereq>
@@ -1169,7 +1170,6 @@
       <packagereq type="optional">gpsim</packagereq>
       <packagereq type="optional">gputils</packagereq>
       <packagereq type="optional">gtranslator</packagereq>
-      <packagereq type="optional">haddock</packagereq>
       <packagereq type="optional">happy</packagereq>
       <packagereq type="optional">highlight</packagereq>
       <packagereq type="optional">hugs98</packagereq>
@@ -1212,7 +1212,7 @@
       <packagereq type="optional">pax-utils</packagereq>
       <packagereq type="optional">perl-perlmenu</packagereq>
       <packagereq type="optional">perltidy</packagereq>
-      <packagereq type="optional">phpcs</packagereq>
+      <packagereq type="optional">php-pear-PHP-CodeSniffer</packagereq>
       <packagereq type="optional">pikdev</packagereq>
       <packagereq type="optional">pl</packagereq>
       <packagereq type="optional">plague</packagereq>
@@ -1241,7 +1241,6 @@
       <packagereq type="optional">srecord</packagereq>
       <packagereq type="optional">subcommander</packagereq>
       <packagereq type="optional">subversion-svn2cl</packagereq>
-      <packagereq type="optional">sunifdef</packagereq>
       <packagereq type="optional">svnmailer</packagereq>
       <packagereq type="optional">sysconftool</packagereq>
       <packagereq type="optional">tailor</packagereq>
@@ -1461,7 +1460,7 @@
       <packagereq type="optional">glglobe</packagereq>
       <packagereq type="optional">gperiodic</packagereq>
       <packagereq type="optional">gtypist</packagereq>
-      <packagereq type="optional">justmoon-gtk</packagereq>
+      <packagereq type="optional">justmoon-qt</packagereq>
       <packagereq type="optional">kdeedu</packagereq>
       <packagereq type="optional">kdeedu-kstars</packagereq>
       <packagereq type="optional">kdeedu-marble</packagereq>
@@ -1553,7 +1552,6 @@
       <packagereq type="default">nesc</packagereq>
       <packagereq type="default">netgen</packagereq>
       <packagereq type="default">ngspice</packagereq>
-      <packagereq type="default">ngspice-doc</packagereq>
       <packagereq type="default">openocd</packagereq>
       <packagereq type="default">pcb</packagereq>
       <packagereq type="default">perl-Hardware-Verilog-Parser</packagereq>
@@ -1651,7 +1649,7 @@
       <packagereq type="optional">grads</packagereq>
       <packagereq type="optional">gridengine</packagereq>
       <packagereq type="optional">gromacs</packagereq>
-      <packagereq type="optional">gromacs-mpi</packagereq>
+      <packagereq type="optional">gromacs-openmpi</packagereq>
       <packagereq type="optional">gts</packagereq>
       <packagereq type="optional">harminv</packagereq>
       <packagereq type="optional">hdf</packagereq>
@@ -1756,9 +1754,9 @@
       <packagereq type="conditional" requires="moodle">moodle-et</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-et_EE</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2445,6 +2443,7 @@
       <packagereq type="optional">greyhounds</packagereq>
       <packagereq type="optional">grhino</packagereq>
       <packagereq type="optional">gweled</packagereq>
+      <packagereq type="optional">haxima</packagereq>
       <packagereq type="optional">hedgewars</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
       <packagereq type="optional">kcheckers</packagereq>
@@ -2486,7 +2485,6 @@
       <packagereq type="optional">nagi</packagereq>
       <packagereq type="optional">naturette</packagereq>
       <packagereq type="optional">nazghul</packagereq>
-      <packagereq type="optional">nazghul-haxima</packagereq>
       <packagereq type="optional">nethack</packagereq>
       <packagereq type="optional">nethack-vultures</packagereq>
       <packagereq type="optional">netpanzer</packagereq>
@@ -2951,7 +2949,6 @@
       <packagereq type="optional">epiphany</packagereq>
       <packagereq type="optional">epiphany-extensions</packagereq>
       <packagereq type="optional">evolution-bogofilter</packagereq>
-      <packagereq type="optional">evolution-conduits</packagereq>
       <packagereq type="optional">evolution-exchange</packagereq>
       <packagereq type="optional">evolution-perl</packagereq>
       <packagereq type="optional">filezilla</packagereq>
@@ -2961,6 +2958,7 @@
       <packagereq type="optional">gftp</packagereq>
       <packagereq type="optional">gg2</packagereq>
       <packagereq type="optional">gnash-plugin</packagereq>
+      <packagereq type="optional">gnome-pilot-eds</packagereq>
       <packagereq type="optional">gnome-translate</packagereq>
       <packagereq type="optional">gnubiff</packagereq>
       <packagereq type="optional">gossip</packagereq>
@@ -3008,7 +3006,7 @@
       <packagereq type="optional">torium</packagereq>
       <packagereq type="optional">transmission-qt</packagereq>
       <packagereq type="optional">twinkle</packagereq>
-      <packagereq type="optional">urlgfe</packagereq>
+      <packagereq type="optional">uget</packagereq>
       <packagereq type="optional">valknut</packagereq>
       <packagereq type="optional">x3270-x11</packagereq>
       <packagereq type="optional">xchat</packagereq>
@@ -3337,9 +3335,9 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Hungarian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hu_HU</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3859,7 +3857,6 @@
       <packagereq type="optional">basket</packagereq>
       <packagereq type="optional">bespin</packagereq>
       <packagereq type="optional">bibletime</packagereq>
-      <packagereq type="optional">bilbo</packagereq>
       <packagereq type="optional">compiz-kde</packagereq>
       <packagereq type="optional">crystal</packagereq>
       <packagereq type="optional">kbibtex</packagereq>
@@ -3893,7 +3890,7 @@
       <packagereq type="optional">kio_gopher</packagereq>
       <packagereq type="optional">klamav</packagereq>
       <packagereq type="optional">kmenu-gnome</packagereq>
-      <packagereq type="optional">kmid</packagereq>
+      <packagereq type="optional">kmid2</packagereq>
       <packagereq type="optional">kmymoney</packagereq>
       <packagereq type="optional">knemo</packagereq>
       <packagereq type="optional">kobby</packagereq>
@@ -4127,13 +4124,13 @@
       <packagereq type="optional">culmus-nachlieli-clm-fonts</packagereq>
       <packagereq type="optional">culmus-yehuda-clm-fonts</packagereq>
       <packagereq type="optional">efont-unicode-bdf</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">ghostscript-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">japanese-bitmap-fonts</packagereq>
       <packagereq type="optional">jisksp16-1990-fonts</packagereq>
       <packagereq type="optional">knm-new-fixed-fonts</packagereq>
@@ -4614,15 +4611,15 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">cyrus-sasl</packagereq>
+      <packagereq type="optional">389-ds-base</packagereq>
       <packagereq type="optional">amanda-server</packagereq>
       <packagereq type="optional">cobbler</packagereq>
       <packagereq type="optional">ctrlproxy</packagereq>
       <packagereq type="optional">dhcp</packagereq>
       <packagereq type="optional">dnsmasq</packagereq>
       <packagereq type="optional">ejabberd</packagereq>
-      <packagereq type="optional">fedora-ds-base</packagereq>
       <packagereq type="optional">flumotion</packagereq>
-      <packagereq type="optional">freenx</packagereq>
+      <packagereq type="optional">freenx-server</packagereq>
       <packagereq type="optional">freeradius</packagereq>
       <packagereq type="optional">fwknop</packagereq>
       <packagereq type="optional">icecast</packagereq>
@@ -4954,9 +4951,9 @@
       <packagereq type="conditional" requires="moodle">moodle-pl</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-pl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pl_PL</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5050,9 +5047,9 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Romanian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ro</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-ro</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">terminus-fonts</packagereq>
     </packagelist>
   </group>
@@ -5065,7 +5062,6 @@
     <packagelist>
       <packagereq type="mandatory">ruby</packagereq>
       <packagereq type="default">ruby-devel</packagereq>
-      <packagereq type="default">ruby-mode</packagereq>
       <packagereq type="optional">eruby</packagereq>
       <packagereq type="optional">ruby-ri</packagereq>
     </packagelist>
@@ -5157,9 +5153,9 @@
       <packagereq type="conditional" requires="moodle">moodle-sr_lt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sr</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5228,9 +5224,9 @@
       <packagereq type="conditional" requires="moodle">moodle-sk</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-sk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sk_SK</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5250,9 +5246,9 @@
       <packagereq type="conditional" requires="moodle">moodle-sl</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-sl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sl_SI</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5538,7 +5534,6 @@
       <packagereq type="optional">sugar-memorize</packagereq>
       <packagereq type="optional">sugar-moon</packagereq>
       <packagereq type="optional">sugar-playgo</packagereq>
-      <packagereq type="optional">sugar-update-control</packagereq>
       <packagereq type="optional">sugar-xomail</packagereq>
     </packagelist>
   </group>
@@ -6228,7 +6223,7 @@
       <packagereq type="optional">awstats</packagereq>
       <packagereq type="optional">boa</packagereq>
       <packagereq type="optional">cherokee</packagereq>
-      <packagereq type="optional">dap-server-cgi</packagereq>
+      <packagereq type="optional">dap-server</packagereq>
       <packagereq type="optional">drupal</packagereq>
       <packagereq type="optional">drupal-calendar</packagereq>
       <packagereq type="optional">drupal-cck</packagereq>
@@ -6331,7 +6326,7 @@
       <packagereq type="default">giflib-devel</packagereq>
       <packagereq type="default">libdmx-devel</packagereq>
       <packagereq type="default">libdrm-devel</packagereq>
-      <packagereq type="default">libjpeg-devel</packagereq>
+      <packagereq type="default">libjpeg-turbo-devel</packagereq>
       <packagereq type="default">libmng-devel</packagereq>
       <packagereq type="default">libpng-devel</packagereq>
       <packagereq type="default">libSM-devel</packagereq>
