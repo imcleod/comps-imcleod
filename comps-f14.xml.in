@@ -388,7 +388,7 @@
       <packagereq type="default">xorg-x11-utils</packagereq>
       <packagereq type="optional">alltray</packagereq>
       <packagereq type="optional">aterm</packagereq>
-      <packagereq type="optional">bitmap-fonts</packagereq>
+      <packagereq type="optional">bitmap-fonts-compat</packagereq>
       <packagereq type="optional">devilspie</packagereq>
       <packagereq type="optional">gdm</packagereq>
       <packagereq type="optional">gxmessage</packagereq>
@@ -611,9 +611,9 @@
       <packagereq type="conditional" requires="mythes-en">mythes-bg</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bg_BG</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -932,9 +932,9 @@
       <packagereq type="conditional" requires="hyphen">hyphen-hr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hr</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hr_HR</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -958,9 +958,9 @@
       <packagereq type="conditional" requires="mythes-en">mythes-cs</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-cs_CZ</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-cs</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
       <packagereq type="optional">stardict-dic-cs_CZ</packagereq>
     </packagelist>
   </group>
@@ -1756,9 +1756,9 @@
       <packagereq type="conditional" requires="moodle">moodle-et</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-et_EE</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3337,9 +3337,9 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Hungarian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hu_HU</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4114,7 +4114,7 @@
       <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
       <packagereq type="optional">bitmap-fangsongti-fonts</packagereq>
-      <packagereq type="optional">bitmap-fonts</packagereq>
+      <packagereq type="optional">bitmap-fonts-compat</packagereq>
       <packagereq type="optional">ctan-musixtex-fonts</packagereq>
       <packagereq type="optional">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="optional">culmus-caladings-clm-fonts</packagereq>
@@ -4127,9 +4127,9 @@
       <packagereq type="optional">culmus-nachlieli-clm-fonts</packagereq>
       <packagereq type="optional">culmus-yehuda-clm-fonts</packagereq>
       <packagereq type="optional">efont-unicode-bdf</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
@@ -4954,9 +4954,9 @@
       <packagereq type="conditional" requires="moodle">moodle-pl</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-pl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pl_PL</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5050,9 +5050,9 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Romanian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ro</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-ro</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
       <packagereq type="optional">terminus-fonts</packagereq>
     </packagelist>
   </group>
@@ -5157,9 +5157,9 @@
       <packagereq type="conditional" requires="moodle">moodle-sr_lt</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sr</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5228,9 +5228,9 @@
       <packagereq type="conditional" requires="moodle">moodle-sk</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-sk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sk_SK</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5250,9 +5250,9 @@
       <packagereq type="conditional" requires="moodle">moodle-sl</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-sl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sl_SI</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
-      <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
+      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
