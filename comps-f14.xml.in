@@ -192,7 +192,7 @@
       <packagereq type="optional">ooo2txt</packagereq>
       <packagereq type="optional">python-docutils</packagereq>
       <packagereq type="optional">scribus</packagereq>
-      <packagereq type="optional">tetex-texmf-latex</packagereq>
+      <packagereq type="optional">texlive-texmf-latex</packagereq>
       <packagereq type="optional">txt2rss</packagereq>
       <packagereq type="optional">w3c-markup-validator</packagereq>
       <packagereq type="optional">xdvik</packagereq>
@@ -495,7 +495,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">diveintopython</packagereq>
-      <packagereq type="default">fedora-security-guide-en-US</packagereq>
       <packagereq type="default">javanotes</packagereq>
       <packagereq type="default">ldd-pdf</packagereq>
     </packagelist>
@@ -1124,7 +1123,6 @@
       <packagereq type="optional">coan</packagereq>
       <packagereq type="optional">CodeAnalyst-gui</packagereq>
       <packagereq type="optional">codeblocks</packagereq>
-      <packagereq type="optional">cogito</packagereq>
       <packagereq type="optional">colordiff</packagereq>
       <packagereq type="optional">coredumper</packagereq>
       <packagereq type="optional">cpan-upload</packagereq>
@@ -1235,7 +1233,6 @@
       <packagereq type="optional">scanmem</packagereq>
       <packagereq type="optional">scons</packagereq>
       <packagereq type="optional">sigscheme</packagereq>
-      <packagereq type="optional">smarteiffel</packagereq>
       <packagereq type="optional">splint</packagereq>
       <packagereq type="optional">Sprog</packagereq>
       <packagereq type="optional">srecord</packagereq>
@@ -1292,7 +1289,6 @@
     <packagelist>
       <packagereq type="optional">389-admin-console</packagereq>
       <packagereq type="optional">389-console</packagereq>
-      <packagereq type="optional">389-ds-admin</packagereq>
       <packagereq type="optional">389-ds-base</packagereq>
       <packagereq type="optional">389-ds-console</packagereq>
       <packagereq type="optional">389-dsgw</packagereq>
@@ -1458,7 +1454,6 @@
       <packagereq type="optional">gcompris</packagereq>
       <packagereq type="optional">genchemlab</packagereq>
       <packagereq type="optional">glglobe</packagereq>
-      <packagereq type="optional">gperiodic</packagereq>
       <packagereq type="optional">gtypist</packagereq>
       <packagereq type="optional">justmoon-qt</packagereq>
       <packagereq type="optional">kdeedu</packagereq>
@@ -1618,7 +1613,6 @@
       <packagereq type="optional">atlas</packagereq>
       <packagereq type="optional">automaton</packagereq>
       <packagereq type="optional">automaton-javadoc</packagereq>
-      <packagereq type="optional">blacs</packagereq>
       <packagereq type="optional">blas</packagereq>
       <packagereq type="optional">cdo</packagereq>
       <packagereq type="optional">cernlib-utils</packagereq>
@@ -1680,7 +1674,6 @@
       <packagereq type="optional">octave-forge</packagereq>
       <packagereq type="optional">openbabel</packagereq>
       <packagereq type="optional">opencv</packagereq>
-      <packagereq type="optional">orpie</packagereq>
       <packagereq type="optional">osiv</packagereq>
       <packagereq type="optional">paraview</packagereq>
       <packagereq type="optional">paw</packagereq>
@@ -1698,9 +1691,7 @@
       <packagereq type="optional">R</packagereq>
       <packagereq type="optional">root</packagereq>
       <packagereq type="optional">rrdtool</packagereq>
-      <packagereq type="optional">scalapack</packagereq>
       <packagereq type="optional">scidavis</packagereq>
-      <packagereq type="optional">scigraphica</packagereq>
       <packagereq type="optional">scrip</packagereq>
       <packagereq type="optional">seaview</packagereq>
       <packagereq type="optional">sextractor</packagereq>
@@ -1893,7 +1884,6 @@
       <packagereq type="default">fontmatrix</packagereq>
       <packagereq type="default">fontpackages-devel</packagereq>
       <packagereq type="default">fonttools</packagereq>
-      <packagereq type="default">fontypython</packagereq>
       <packagereq type="default">ghostscript</packagereq>
       <packagereq type="default">gimp</packagereq>
       <packagereq type="default">gimp-data-extras</packagereq>
@@ -1919,7 +1909,6 @@
       <packagereq type="optional">git</packagereq>
       <packagereq type="optional">meld</packagereq>
       <packagereq type="optional">mercurial</packagereq>
-      <packagereq type="optional">nautilus-bzr</packagereq>
       <packagereq type="optional">python-compositor</packagereq>
       <packagereq type="optional">python-fontMath</packagereq>
       <packagereq type="optional">python-robofab</packagereq>
@@ -2364,7 +2353,6 @@
       <packagereq type="optional">berusky</packagereq>
       <packagereq type="optional">biloba</packagereq>
       <packagereq type="optional">biniax</packagereq>
-      <packagereq type="optional">blobAndConquer</packagereq>
       <packagereq type="optional">blobby</packagereq>
       <packagereq type="optional">blobwars</packagereq>
       <packagereq type="optional">BlockOutII</packagereq>
@@ -2539,7 +2527,6 @@
       <packagereq type="optional">six</packagereq>
       <packagereq type="optional">slashem</packagereq>
       <packagereq type="optional">slingshot</packagereq>
-      <packagereq type="optional">smashteroid</packagereq>
       <packagereq type="optional">solarwolf</packagereq>
       <packagereq type="optional">sopwith</packagereq>
       <packagereq type="optional">spring</packagereq>
@@ -2763,7 +2750,6 @@
       <packagereq type="optional">gconf-editor</packagereq>
       <packagereq type="optional">gdesklets</packagereq>
       <packagereq type="optional">gedit-plugins</packagereq>
-      <packagereq type="optional">glipper</packagereq>
       <packagereq type="optional">glunarclock</packagereq>
       <packagereq type="optional">gmpc</packagereq>
       <packagereq type="optional">gmrun</packagereq>
@@ -2816,12 +2802,10 @@
       <packagereq type="optional">stardict-dic-en</packagereq>
       <packagereq type="optional">tango-icon-theme</packagereq>
       <packagereq type="optional">tango-icon-theme-extras</packagereq>
-      <packagereq type="optional">themes-backgrounds-gnome</packagereq>
       <packagereq type="optional">tomboy</packagereq>
       <packagereq type="optional">tracker-search-tool</packagereq>
       <packagereq type="optional">verbiste-gnome</packagereq>
       <packagereq type="optional">wallpapoz</packagereq>
-      <packagereq type="optional">wp_tray</packagereq>
       <packagereq type="optional">xiphos</packagereq>
       <packagereq type="optional">xscreensaver-extras-gss</packagereq>
       <packagereq type="optional">xscreensaver-gl-extras-gss</packagereq>
@@ -2930,7 +2914,6 @@
       <packagereq type="default">pino</packagereq>
       <packagereq type="default">transmission-gtk</packagereq>
       <packagereq type="optional">amsn</packagereq>
-      <packagereq type="optional">apollon</packagereq>
       <packagereq type="optional">arora</packagereq>
       <packagereq type="optional">azureus</packagereq>
       <packagereq type="optional">balsa</packagereq>
@@ -2956,12 +2939,10 @@
       <packagereq type="optional">gajim</packagereq>
       <packagereq type="optional">galeon</packagereq>
       <packagereq type="optional">gftp</packagereq>
-      <packagereq type="optional">gg2</packagereq>
       <packagereq type="optional">gnash-plugin</packagereq>
       <packagereq type="optional">gnome-pilot-eds</packagereq>
       <packagereq type="optional">gnome-translate</packagereq>
       <packagereq type="optional">gnubiff</packagereq>
-      <packagereq type="optional">gossip</packagereq>
       <packagereq type="optional">gtk-gnutella</packagereq>
       <packagereq type="optional">gtorrentviewer</packagereq>
       <packagereq type="optional">gwget</packagereq>
@@ -3041,7 +3022,6 @@
       <packagereq type="optional">dcraw</packagereq>
       <packagereq type="optional">digikam</packagereq>
       <packagereq type="optional">f-spot</packagereq>
-      <packagereq type="optional">fyre</packagereq>
       <packagereq type="optional">gcolor2</packagereq>
       <packagereq type="optional">geeqie</packagereq>
       <packagereq type="optional">gifsicle</packagereq>
@@ -3073,7 +3053,6 @@
       <packagereq type="optional">rawstudio</packagereq>
       <packagereq type="optional">renrot</packagereq>
       <packagereq type="optional">sane-frontends</packagereq>
-      <packagereq type="optional">showimg</packagereq>
       <packagereq type="optional">tachyon</packagereq>
       <packagereq type="optional">tuxpaint</packagereq>
       <packagereq type="optional">tzclock</packagereq>
@@ -3215,7 +3194,6 @@
       <packagereq type="optional">openct</packagereq>
       <packagereq type="optional">opensc</packagereq>
       <packagereq type="optional">s3switch</packagereq>
-      <packagereq type="optional">tpb</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3433,7 +3411,6 @@
       <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
       <packagereq type="optional">scim-rawcode</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
-      <packagereq type="optional">scim-skk</packagereq>
       <packagereq type="optional">scim-tables-additional</packagereq>
       <packagereq type="optional">scim-tables-chinese</packagereq>
       <packagereq type="optional">scim-tables-chinese-extra</packagereq>
@@ -3542,7 +3519,6 @@
       <packagereq type="default">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">cmigemo</packagereq>
       <packagereq type="optional">ddskk</packagereq>
-      <packagereq type="optional">ddskk-xemacs</packagereq>
       <packagereq type="optional">eblook</packagereq>
       <packagereq type="optional">ebview</packagereq>
       <packagereq type="optional">hanazono-fonts</packagereq>
@@ -3623,7 +3599,6 @@
       <packagereq type="default">ant-scripts</packagereq>
       <packagereq type="default">ant-swing</packagereq>
       <packagereq type="default">ant-trax</packagereq>
-      <packagereq type="default">antlr</packagereq>
       <packagereq type="default">antlr-javadoc</packagereq>
       <packagereq type="default">antlr-manual</packagereq>
       <packagereq type="default">apache-commons-beanutils</packagereq>
@@ -3905,8 +3880,6 @@
       <packagereq type="optional">kvirc</packagereq>
       <packagereq type="optional">leonidas-kde-theme-landscape</packagereq>
       <packagereq type="optional">leonidas-kde-theme-lion</packagereq>
-      <packagereq type="optional">metamonitor</packagereq>
-      <packagereq type="optional">oooqs2</packagereq>
       <packagereq type="optional">polyester</packagereq>
       <packagereq type="optional">qstardict</packagereq>
       <packagereq type="optional">qt-recordmydesktop</packagereq>
@@ -4624,7 +4597,6 @@
       <packagereq type="optional">fwknop</packagereq>
       <packagereq type="optional">icecast</packagereq>
       <packagereq type="optional">ipxripd</packagereq>
-      <packagereq type="optional">ircd-hybrid</packagereq>
       <packagereq type="optional">jabberd</packagereq>
       <packagereq type="optional">kannel</packagereq>
       <packagereq type="optional">koan</packagereq>
@@ -4787,7 +4759,6 @@
       <packagereq type="optional">dia</packagereq>
       <packagereq type="optional">gbirthday</packagereq>
       <packagereq type="optional">gdeskcal</packagereq>
-      <packagereq type="optional">gfa</packagereq>
       <packagereq type="optional">glabels</packagereq>
       <packagereq type="optional">glista</packagereq>
       <packagereq type="optional">glom</packagereq>
@@ -5356,7 +5327,6 @@
       <packagereq type="optional">milkytracker</packagereq>
       <packagereq type="optional">Miro</packagereq>
       <packagereq type="optional">mkvtoolnix-gui</packagereq>
-      <packagereq type="optional">muine</packagereq>
       <packagereq type="optional">multimedia-menus</packagereq>
       <packagereq type="optional">mybashburn</packagereq>
       <packagereq type="optional">nted</packagereq>
@@ -5379,7 +5349,6 @@
       <packagereq type="optional">rakarrack</packagereq>
       <packagereq type="optional">regionset</packagereq>
       <packagereq type="optional">rosegarden4</packagereq>
-      <packagereq type="optional">serpentine</packagereq>
       <packagereq type="optional">soundconverter</packagereq>
       <packagereq type="optional">soundtracker</packagereq>
       <packagereq type="optional">subtitlecomposer</packagereq>
@@ -5412,7 +5381,6 @@
       <packagereq type="optional">xfburn</packagereq>
       <packagereq type="optional">xmms</packagereq>
       <packagereq type="optional">xmms-adplug</packagereq>
-      <packagereq type="optional">xmms-cdread</packagereq>
       <packagereq type="optional">xmms-flac</packagereq>
       <packagereq type="optional">xmp</packagereq>
     </packagelist>
@@ -5736,7 +5704,6 @@
       <packagereq type="optional">p7zip</packagereq>
       <packagereq type="optional">p7zip-plugins</packagereq>
       <packagereq type="optional">PackageKit-command-not-found</packagereq>
-      <packagereq type="optional">pam_keyring</packagereq>
       <packagereq type="optional">par2cmdline</packagereq>
       <packagereq type="optional">pbzip2</packagereq>
       <packagereq type="optional">portecle</packagereq>
