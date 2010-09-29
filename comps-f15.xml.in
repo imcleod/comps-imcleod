@@ -192,7 +192,7 @@
       <packagereq type="optional">ooo2txt</packagereq>
       <packagereq type="optional">python-docutils</packagereq>
       <packagereq type="optional">scribus</packagereq>
-      <packagereq type="optional">tetex-prosper</packagereq>
+      <packagereq type="optional">tetex-texmf-latex</packagereq>
       <packagereq type="optional">txt2rss</packagereq>
       <packagereq type="optional">w3c-markup-validator</packagereq>
       <packagereq type="optional">xdvik</packagereq>
@@ -401,7 +401,6 @@
       <packagereq type="optional">sakura</packagereq>
       <packagereq type="optional">slim</packagereq>
       <packagereq type="optional">switchdesk</packagereq>
-      <packagereq type="optional">system-config-display</packagereq>
       <packagereq type="optional">system-switch-displaymanager</packagereq>
       <packagereq type="optional">termit</packagereq>
       <packagereq type="optional">tigervnc-server</packagereq>
@@ -694,12 +693,9 @@
       <packagereq type="optional">ibus-sunpinyin</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
-      <packagereq type="optional">ibus-table-erbi</packagereq>
       <packagereq type="optional">ibus-table-extraphrase</packagereq>
-      <packagereq type="optional">ibus-table-quick</packagereq>
-      <packagereq type="optional">ibus-table-wubi</packagereq>
-      <packagereq type="optional">ibus-table-xinhua</packagereq>
-      <packagereq type="optional">ibus-table-yong</packagereq>
+      <packagereq type="optional">ibus-table-xingma</packagereq>
+      <packagereq type="optional">ibus-table-yinma</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-extras</packagereq>
       <packagereq type="optional">scim-array</packagereq>
@@ -823,7 +819,7 @@
       <packagereq type="default">evolution</packagereq>
       <packagereq type="default">firefox</packagereq>
       <packagereq type="default">kdebase</packagereq>
-      <packagereq type="default">kmail</packagereq>
+      <packagereq type="default">kdepim</packagereq>
       <packagereq type="default">thunderbird</packagereq>
     </packagelist>
   </group>
@@ -1157,7 +1153,7 @@
       <packagereq type="optional">frysk</packagereq>
       <packagereq type="optional">frysk-gnome</packagereq>
       <packagereq type="optional">ftnchek</packagereq>
-      <packagereq type="optional">gambas-ide</packagereq>
+      <packagereq type="optional">gambas2-ide</packagereq>
       <packagereq type="optional">gauche</packagereq>
       <packagereq basearchonly="true" type="optional">gcc-gnat</packagereq>
       <packagereq basearchonly="true" type="optional">gcc-objc</packagereq>
@@ -2508,8 +2504,6 @@
       <packagereq type="optional">pipenightdreams</packagereq>
       <packagereq type="optional">pipepanic</packagereq>
       <packagereq type="optional">planets</packagereq>
-      <packagereq type="optional">poker2d</packagereq>
-      <packagereq type="optional">poker3d</packagereq>
       <packagereq type="optional">powermanga</packagereq>
       <packagereq type="optional">prboom</packagereq>
       <packagereq type="optional">professor-is-missing</packagereq>
@@ -2793,7 +2787,6 @@
       <packagereq type="optional">gnotime</packagereq>
       <packagereq type="optional">gonvert</packagereq>
       <packagereq type="optional">grsync</packagereq>
-      <packagereq type="optional">gst-mixer</packagereq>
       <packagereq type="optional">gthumb</packagereq>
       <packagereq type="optional">gtkhash-nautilus</packagereq>
       <packagereq type="optional">gtrayicon</packagereq>
@@ -2819,7 +2812,6 @@
       <packagereq type="optional">seahorse-plugins</packagereq>
       <packagereq type="optional">solang</packagereq>
       <packagereq type="optional">stardict-dic-en</packagereq>
-      <packagereq type="optional">swfdec-gnome</packagereq>
       <packagereq type="optional">tango-icon-theme</packagereq>
       <packagereq type="optional">tango-icon-theme-extras</packagereq>
       <packagereq type="optional">themes-backgrounds-gnome</packagereq>
@@ -2975,11 +2967,9 @@
       <packagereq type="optional">jabbim</packagereq>
       <packagereq type="optional">jd</packagereq>
       <packagereq type="optional">kadu</packagereq>
-      <packagereq type="optional">kasablanca</packagereq>
       <packagereq type="optional">kazehakase</packagereq>
       <packagereq type="optional">kdepim</packagereq>
       <packagereq type="optional">kdewebdev</packagereq>
-      <packagereq type="optional">kftpgrabber</packagereq>
       <packagereq type="optional">kita</packagereq>
       <packagereq type="optional">knetstats</packagereq>
       <packagereq type="optional">konversation</packagereq>
@@ -2994,7 +2984,6 @@
       <packagereq type="optional">Miro</packagereq>
       <packagereq type="optional">mitter</packagereq>
       <packagereq type="optional">mtr-gtk</packagereq>
-      <packagereq type="optional">mugshot</packagereq>
       <packagereq type="optional">netactview</packagereq>
       <packagereq type="optional">nntpgrab-gui</packagereq>
       <packagereq type="optional">ochusha</packagereq>
@@ -3009,7 +2998,6 @@
       <packagereq type="optional">rekonq</packagereq>
       <packagereq type="optional">seamonkey</packagereq>
       <packagereq type="optional">streamtuner</packagereq>
-      <packagereq type="optional">swfdec-mozilla</packagereq>
       <packagereq type="optional">sylpheed</packagereq>
       <packagereq type="optional">tangogps</packagereq>
       <packagereq type="optional">thunderbird</packagereq>
@@ -3410,15 +3398,12 @@
       <packagereq type="optional">ibus-mozc</packagereq>
       <packagereq type="optional">ibus-sayura</packagereq>
       <packagereq type="optional">ibus-sunpinyin</packagereq>
-      <packagereq type="optional">ibus-table-additional</packagereq>
+      <packagereq type="optional">ibus-table</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
-      <packagereq type="optional">ibus-table-erbi</packagereq>
-      <packagereq type="optional">ibus-table-quick</packagereq>
-      <packagereq type="optional">ibus-table-translit</packagereq>
-      <packagereq type="optional">ibus-table-wubi</packagereq>
-      <packagereq type="optional">ibus-table-xinhua</packagereq>
-      <packagereq type="optional">ibus-table-yong</packagereq>
+      <packagereq type="optional">ibus-table-cyrillic</packagereq>
+      <packagereq type="optional">ibus-table-xingma</packagereq>
+      <packagereq type="optional">ibus-table-yinma</packagereq>
       <packagereq type="optional">ibus-xkbc</packagereq>
       <packagereq type="optional">iok</packagereq>
       <packagereq type="optional">kinput2</packagereq>
@@ -3432,7 +3417,6 @@
       <packagereq type="optional">scim-fcitx</packagereq>
       <packagereq type="optional">scim-gtk</packagereq>
       <packagereq type="optional">scim-hangul</packagereq>
-      <packagereq type="optional">scim-input-pad</packagereq>
       <packagereq type="optional">scim-m17n</packagereq>
       <packagereq type="optional">scim-mozc</packagereq>
       <packagereq type="optional">scim-pinyin</packagereq>
@@ -3893,7 +3877,6 @@
       <packagereq type="optional">kdeartwork-wallpapers</packagereq>
       <packagereq type="optional">kdebase-workspace-googlegadgets</packagereq>
       <packagereq type="optional">kdebase-workspace-wallpapers</packagereq>
-      <packagereq type="optional">kdeclassic-icon-theme</packagereq>
       <packagereq type="optional">kdeedu</packagereq>
       <packagereq type="optional">kdetoys</packagereq>
       <packagereq type="optional">kdissert</packagereq>
@@ -3901,7 +3884,6 @@
       <packagereq type="optional">kgrab</packagereq>
       <packagereq type="optional">kiconedit</packagereq>
       <packagereq type="optional">kio-ftps</packagereq>
-      <packagereq type="optional">kiosktool</packagereq>
       <packagereq type="optional">kio_gopher</packagereq>
       <packagereq type="optional">klamav</packagereq>
       <packagereq type="optional">kmenu-gnome</packagereq>
@@ -3953,7 +3935,7 @@
       <packagereq type="default">kdevelop</packagereq>
       <packagereq type="default">PyKDE4-devel</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
-      <packagereq type="optional">gambas-runtime</packagereq>
+      <packagereq type="optional">gambas2-runtime</packagereq>
       <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kdebase-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
@@ -4482,7 +4464,6 @@
       <packagereq type="conditional" requires="hunspell">hunspell-mr</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-mr</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Marathi</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mr_IN</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
@@ -5110,7 +5091,7 @@
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
-      <packagereq type="optional">ibus-table-translit</packagereq>
+      <packagereq type="optional">ibus-table-cyrillic</packagereq>
       <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
       <packagereq type="optional">scim-tables-russian</packagereq>
       <packagereq type="optional">stardict-dic-ru</packagereq>
@@ -5425,7 +5406,6 @@
       <packagereq type="optional">vdradmin-am</packagereq>
       <packagereq type="optional">vorbis-tools</packagereq>
       <packagereq type="optional">whaawmp</packagereq>
-      <packagereq type="optional">wmix</packagereq>
       <packagereq type="optional">xcdroast</packagereq>
       <packagereq type="optional">xfburn</packagereq>
       <packagereq type="optional">xmms</packagereq>
