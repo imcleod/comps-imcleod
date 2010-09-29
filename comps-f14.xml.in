@@ -54,17 +54,6 @@
     </packagelist>
   </group>
   <group>
-    <id>akan-support</id>
-    <_name>Akan Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ak</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-ak</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>albanian-support</id>
     <_name>Albanian Support</_name>
     <_description/>
@@ -727,24 +716,6 @@
       <packagereq type="optional">wqy-microhei-fonts</packagereq>
       <packagereq type="optional">wqy-unibit-fonts</packagereq>
       <packagereq type="optional">xsunpinyin</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>chuvash-support</id>
-    <_name>Chuvash Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>cv</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-cv</packagereq>
-      <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">apanov-heuristica-fonts</packagereq>
-      <packagereq type="optional">fonts-KOI8-R</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
-      <packagereq type="optional">ibus-table-cyrillic</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3182,17 +3153,6 @@
     </packagelist>
   </group>
   <group>
-    <id>haitian-creole-support</id>
-    <_name>Haitian Creole Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ht</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-ht</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>hardware-support</id>
     <_name>Hardware Support</_name>
     <_description>This group is a collection of tools for various hardware specific utilities.</_description>
@@ -4092,24 +4052,6 @@
     </packagelist>
   </group>
   <group>
-    <id>kyrgyz-support</id>
-    <_name>Kyrgyz Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ky</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-ky</packagereq>
-      <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">apanov-heuristica-fonts</packagereq>
-      <packagereq type="optional">fonts-KOI8-R</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
-      <packagereq type="optional">ibus-table-cyrillic</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>lao-support</id>
     <_name>Lao Support</_name>
     <_description/>
@@ -4259,17 +4201,6 @@
     </packagelist>
   </group>
   <group>
-    <id>lingala-support</id>
-    <_name>Lingala Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ln</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-ln</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>lithuanian-support</id>
     <_name>Lithuanian Support</_name>
     <_description/>
@@ -4287,18 +4218,6 @@
     </packagelist>
   </group>
   <group>
-    <id>low-german-support</id>
-    <_name>Low German Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>nds</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-nds</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-nds</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>low-saxon-support</id>
     <_name>Low Saxon Support</_name>
     <_description/>
@@ -4309,31 +4228,6 @@
       <packagereq type="conditional" requires="hunspell">hunspell-nds</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-LowSaxon</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-nds</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>lower-sorbian-support</id>
-    <_name>Lower Sorbian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>dsb</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-dsb</packagereq>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>lule-sami-support</id>
-    <_name>Lule Sami Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>smj</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-smj</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4654,17 +4548,6 @@
     </packagelist>
   </group>
   <group>
-    <id>mossi-support</id>
-    <_name>Mossi Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>mos</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-mos</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>mysql</id>
     <_name>MySQL Database</_name>
     <_description>This package group contains packages useful for use with MySQL.</_description>
@@ -4767,17 +4650,6 @@
       <packagereq type="optional">newscache</packagereq>
       <packagereq type="optional">newsx</packagereq>
       <packagereq type="optional">suck</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>northern-sami-support</id>
-    <_name>Northern Sami Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>se</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-se</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5008,17 +4880,6 @@
     </packagelist>
   </group>
   <group>
-    <id>oromo-support</id>
-    <_name>Oromo Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>om</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-om</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>perl</id>
     <_name>Perl Development</_name>
     <_description>Support for developing programs in the Perl programming language.</_description>
@@ -5151,18 +5012,6 @@
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-pa</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">saab-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>quechua-support</id>
-    <_name>Quechua Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>qu</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-qu</packagereq>
-      <packagereq type="conditional" requires="hunspell">hunspell-quh</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5310,17 +5159,6 @@
       <packagereq type="default">system-config-services</packagereq>
       <packagereq type="optional">system-config-bind</packagereq>
       <packagereq type="optional">system-switch-mail-gnome</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>shuswap-support</id>
-    <_name>Shuswap Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>shs</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-shs</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6122,17 +5960,6 @@
     </packagelist>
   </group>
   <group>
-    <id>tigrinya-support</id>
-    <_name>Tigrinya Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ti</langonly>
-    <packagelist>
-      <packagereq type="conditional" requires="hunspell">hunspell-ti</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>tonga-support</id>
     <_name>Tonga Support</_name>
     <_description/>
@@ -6641,29 +6468,6 @@
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-xh</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-xh_ZA</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>yiddish-support</id>
-    <_name>Yiddish Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>yi</langonly>
-    <packagelist>
-      <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
-      <packagereq type="conditional" requires="hunspell">hunspell-yi</packagereq>
-      <packagereq type="conditional" requires="texlive">tex-fonts-hebrew</packagereq>
-      <packagereq type="default">culmus-aharoni-clm-fonts</packagereq>
-      <packagereq type="default">culmus-caladings-clm-fonts</packagereq>
-      <packagereq type="default">culmus-david-clm-fonts</packagereq>
-      <packagereq type="default">culmus-drugulin-clm-fonts</packagereq>
-      <packagereq type="default">culmus-ellinia-clm-fonts</packagereq>
-      <packagereq type="default">culmus-frank-ruehl-clm-fonts</packagereq>
-      <packagereq type="default">culmus-miriam-clm-fonts</packagereq>
-      <packagereq type="default">culmus-miriam-mono-clm-fonts</packagereq>
-      <packagereq type="default">culmus-nachlieli-clm-fonts</packagereq>
-      <packagereq type="default">culmus-yehuda-clm-fonts</packagereq>
     </packagelist>
   </group>
   <group>
