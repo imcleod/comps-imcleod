@@ -2120,7 +2120,6 @@
       <packagereq type="optional">linux-libertine-fonts</packagereq>
       <packagereq type="optional">lohit-malayalam-fonts</packagereq>
       <packagereq type="optional">madan-fonts</packagereq>
-      <packagereq type="optional">mathml-fonts</packagereq>
       <packagereq type="optional">mgopen-canonica-fonts</packagereq>
       <packagereq type="optional">mgopen-cosmetica-fonts</packagereq>
       <packagereq type="optional">mgopen-modata-fonts</packagereq>
@@ -3278,7 +3277,7 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Hebrew</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-he</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-he_IL</packagereq>
-      <packagereq type="conditional" requires="texlive">tetex-fonts-hebrew</packagereq>
+      <packagereq type="conditional" requires="texlive">tex-fonts-hebrew</packagereq>
       <packagereq type="default">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="default">culmus-caladings-clm-fonts</packagereq>
       <packagereq type="default">culmus-david-clm-fonts</packagereq>
@@ -3289,7 +3288,6 @@
       <packagereq type="default">culmus-miriam-mono-clm-fonts</packagereq>
       <packagereq type="default">culmus-nachlieli-clm-fonts</packagereq>
       <packagereq type="default">culmus-yehuda-clm-fonts</packagereq>
-      <packagereq type="optional">fonts-hebrew-fancy</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4127,7 +4125,7 @@
       <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
       <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
-      <packagereq type="optional">bitmap-cjk-fonts</packagereq>
+      <packagereq type="optional">bitmap-fangsongti-fonts</packagereq>
       <packagereq type="optional">bitmap-fonts</packagereq>
       <packagereq type="optional">ctan-musixtex-fonts</packagereq>
       <packagereq type="optional">culmus-aharoni-clm-fonts</packagereq>
@@ -4141,7 +4139,6 @@
       <packagereq type="optional">culmus-nachlieli-clm-fonts</packagereq>
       <packagereq type="optional">culmus-yehuda-clm-fonts</packagereq>
       <packagereq type="optional">efont-unicode-bdf</packagereq>
-      <packagereq type="optional">fonts-hebrew-fancy</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-100dpi</packagereq>
       <packagereq type="optional">fonts-ISO8859-2-75dpi</packagereq>
@@ -4153,15 +4150,7 @@
       <packagereq type="optional">jisksp16-1990-fonts</packagereq>
       <packagereq type="optional">knm-new-fixed-fonts</packagereq>
       <packagereq type="optional">libdockapp-fonts</packagereq>
-      <packagereq type="optional">lyx-cmex10-fonts</packagereq>
-      <packagereq type="optional">lyx-cmmi10-fonts</packagereq>
-      <packagereq type="optional">lyx-cmr10-fonts</packagereq>
-      <packagereq type="optional">lyx-cmsy10-fonts</packagereq>
-      <packagereq type="optional">lyx-esint10-fonts</packagereq>
-      <packagereq type="optional">lyx-eufm10-fonts</packagereq>
-      <packagereq type="optional">lyx-msam10-fonts</packagereq>
-      <packagereq type="optional">lyx-msbm10-fonts</packagereq>
-      <packagereq type="optional">lyx-wasy10-fonts</packagereq>
+      <packagereq type="optional">lyx-fonts</packagereq>
       <packagereq type="optional">mona-bitmap-fonts</packagereq>
       <packagereq type="optional">nethack-bitmap-fonts</packagereq>
       <packagereq type="optional">nted-ntedfont-fonts</packagereq>
