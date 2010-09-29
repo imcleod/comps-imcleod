@@ -438,7 +438,6 @@
       <packagereq type="conditional" requires="gcompris">gcompris-sound-eu</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-eu</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Basque</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-eu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-eu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-eu_ES</packagereq>
     </packagelist>
@@ -472,7 +471,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-bn</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Bengali</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Bengali-India</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-bn</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bn</packagereq>
       <packagereq type="default">iok</packagereq>
@@ -610,7 +608,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-bg</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Bulgarian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Bulgarian</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-bg</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-bg</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-bg</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-bg_BG</packagereq>
@@ -960,7 +957,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-cs</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Czech</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Czech</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-cs</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-cs</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-cs</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-cs</packagereq>
@@ -1882,7 +1878,6 @@
       <packagereq type="conditional" requires="gcompris">gcompris-sound-fi</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Finnish</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Finnish</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-fi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fi</packagereq>
       <packagereq type="conditional" requires="firefox">mozvoikko</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-fi_FI</packagereq>
@@ -3354,7 +3349,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-hu</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Hungarian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Hungarian</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-hu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hu</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-hu_HU</packagereq>
       <packagereq type="optional">fonts-ISO8859-2</packagereq>
@@ -3511,7 +3505,6 @@
       <packagereq type="conditional" requires="hunspell">hunspell-ga</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-ga</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Irish</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ga</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ga</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-ga</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ga_IE</packagereq>
@@ -3814,7 +3807,6 @@
     <langonly>csb</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-csb</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Kashubian</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4002,7 +3994,6 @@
       <packagereq type="mandatory">khmeros-base-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-km</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Khmer</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-km</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-km</packagereq>
       <packagereq type="default">khmeros-battambang-fonts</packagereq>
       <packagereq type="default">khmeros-bokor-fonts</packagereq>
@@ -4089,7 +4080,6 @@
     <langonly>ku</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-ku</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Kurdish</packagereq>
       <packagereq type="default">kurdit-unikurd-web-fonts</packagereq>
     </packagelist>
   </group>
@@ -4127,7 +4117,6 @@
       <packagereq type="conditional" requires="hunspell">hunspell-lv</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-lv</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Latvian</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-lv</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-lv</packagereq>
     </packagelist>
   </group>
@@ -4347,7 +4336,6 @@
     <langonly>mk</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-mk</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Macedonian</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-mk</packagereq>
     </packagelist>
   </group>
@@ -4402,7 +4390,6 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-mai</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Maithili</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-mai_IN</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
@@ -4427,7 +4414,6 @@
     <langonly>ms</langonly>
     <packagelist>
       <packagereq type="conditional" requires="hunspell">hunspell-ms</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ms</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ms</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-ms_MY</packagereq>
     </packagelist>
@@ -4647,7 +4633,6 @@
       <packagereq type="mandatory">madan-fonts</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-ne</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ne</packagereq>
       <packagereq type="optional">scim-tables-nepali</packagereq>
     </packagelist>
   </group>
@@ -4973,7 +4958,6 @@
       <packagereq type="conditional" requires="autocorr-en">autocorr-fa</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-fa</packagereq>
       <packagereq type="conditional" requires="hyphen">hyphen-fa</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-fa</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-fa</packagereq>
       <packagereq type="default">sil-scheherazade-fonts</packagereq>
       <packagereq type="optional">sil-lateef-fonts</packagereq>
@@ -5133,7 +5117,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-ru</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Russian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Russian</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-ru</packagereq>
       <packagereq type="conditional" requires="man-pages">man-pages-ru</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-ru</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-ru</packagereq>
@@ -5199,8 +5182,6 @@
       <packagereq type="conditional" requires="hunspell">hunspell-sr</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Serbian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Serbian</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-sr-Latn</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sr_cr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sr_cr_bo</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sr_lt</packagereq>
@@ -5274,7 +5255,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-sk</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Slovak</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Slovak</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-sk</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sk</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-sk</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sk_SK</packagereq>
@@ -5297,7 +5277,6 @@
       <packagereq type="conditional" requires="hyphen">hyphen-sl</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Slovenian</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Slovenian</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-sl</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-sl</packagereq>
       <packagereq type="conditional" requires="mythes-en">mythes-sl</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-sl_SI</packagereq>
@@ -5875,7 +5854,6 @@
     <langonly>tg</langonly>
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Tajik</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
     </packagelist>
@@ -6336,7 +6314,6 @@
     <packagelist>
       <packagereq type="conditional" requires="aspell">aspell-cy</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-cy</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-cy</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-cy</packagereq>
       <packagereq type="conditional" requires="openoffice.org-core">openoffice.org-langpack-cy_GB</packagereq>
       <packagereq type="conditional" requires="tkgate">tkgate-cy</packagereq>
