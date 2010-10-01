@@ -3223,6 +3223,7 @@
       <packagereq type="default">ghc-editline-devel</packagereq>
       <packagereq type="default">ghc-ghc-devel</packagereq>
       <packagereq type="default">ghc-ghc-paths-devel</packagereq>
+      <packagereq type="default">ghc-gtk-devel</packagereq>
       <packagereq type="default">ghc-haskell-platform-devel</packagereq>
       <packagereq type="default">ghc-hlint-devel</packagereq>
       <packagereq type="default">ghc-tar-devel</packagereq>
@@ -3238,6 +3239,7 @@
       <packagereq type="optional">ghc-prof</packagereq>
       <packagereq type="optional">hugs98</packagereq>
       <packagereq type="optional">hugs98-demos</packagereq>
+      <packagereq type="optional">xmobar</packagereq>
       <packagereq type="optional">xmonad</packagereq>
     </packagelist>
   </group>
@@ -3387,11 +3389,17 @@
       <packagereq type="default">m17n-contrib</packagereq>
       <packagereq type="default">m17n-db</packagereq>
       <packagereq type="optional">cellwriter</packagereq>
+      <packagereq type="optional">eekboard</packagereq>
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">gok</packagereq>
+      <packagereq type="optional">ibus-fbterm</packagereq>
+      <packagereq type="optional">ibus-handwrite</packagereq>
+      <packagereq type="optional">ibus-input-pad</packagereq>
       <packagereq type="optional">ibus-mozc</packagereq>
+      <packagereq type="optional">ibus-pinyin-db-android</packagereq>
       <packagereq type="optional">ibus-sayura</packagereq>
+      <packagereq type="optional">ibus-skk</packagereq>
       <packagereq type="optional">ibus-sunpinyin</packagereq>
       <packagereq type="optional">ibus-table</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
@@ -3400,6 +3408,7 @@
       <packagereq type="optional">ibus-table-xingma</packagereq>
       <packagereq type="optional">ibus-table-yinma</packagereq>
       <packagereq type="optional">ibus-xkbc</packagereq>
+      <packagereq type="optional">input-pad</packagereq>
       <packagereq type="optional">iok</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">nabi</packagereq>
@@ -3427,6 +3436,7 @@
       <packagereq type="optional">scim-tables-additional</packagereq>
       <packagereq type="optional">scim-tables-chinese</packagereq>
       <packagereq type="optional">scim-tables-chinese-extra</packagereq>
+      <packagereq type="optional">scim-thai</packagereq>
       <packagereq type="optional">scim-tomoe</packagereq>
       <packagereq type="optional">uim</packagereq>
       <packagereq type="optional">uim-anthy</packagereq>
@@ -5774,6 +5784,7 @@
       <packagereq type="optional">wlassistant</packagereq>
       <packagereq type="optional">w_scan</packagereq>
       <packagereq type="optional">x3270-x11</packagereq>
+      <packagereq type="optional">xmobar</packagereq>
       <packagereq type="optional">xsel</packagereq>
       <packagereq type="optional">xsupplicant</packagereq>
       <packagereq type="optional">zidrav</packagereq>
