@@ -388,7 +388,6 @@
       <packagereq type="default">xorg-x11-utils</packagereq>
       <packagereq type="optional">alltray</packagereq>
       <packagereq type="optional">aterm</packagereq>
-      <packagereq type="optional">bitmap-fonts-compat</packagereq>
       <packagereq type="optional">devilspie</packagereq>
       <packagereq type="optional">gdm</packagereq>
       <packagereq type="optional">gxmessage</packagereq>
@@ -497,6 +496,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">diveintopython</packagereq>
+      <packagereq type="default">fedora-security-guide-en-US</packagereq>
       <packagereq type="default">javanotes</packagereq>
       <packagereq type="default">ldd-pdf</packagereq>
     </packagelist>
@@ -3421,6 +3421,7 @@
       <packagereq type="optional">scim-fcitx</packagereq>
       <packagereq type="optional">scim-gtk</packagereq>
       <packagereq type="optional">scim-hangul</packagereq>
+      <packagereq type="optional">scim-input-pad</packagereq>
       <packagereq type="optional">scim-m17n</packagereq>
       <packagereq type="optional">scim-mozc</packagereq>
       <packagereq type="optional">scim-pinyin</packagereq>
@@ -3433,6 +3434,7 @@
       <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
       <packagereq type="optional">scim-rawcode</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
+      <packagereq type="optional">scim-skk</packagereq>
       <packagereq type="optional">scim-tables-additional</packagereq>
       <packagereq type="optional">scim-tables-chinese</packagereq>
       <packagereq type="optional">scim-tables-chinese-extra</packagereq>
@@ -4112,8 +4114,10 @@
       <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
       <packagereq type="optional">artwiz-aleczapka-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
+      <packagereq type="optional">bitmap-console-fonts</packagereq>
       <packagereq type="optional">bitmap-fangsongti-fonts</packagereq>
-      <packagereq type="optional">bitmap-fonts-compat</packagereq>
+      <packagereq type="optional">bitmap-fixed-fonts</packagereq>
+      <packagereq type="optional">bitmap-lucida-typewriter-fonts</packagereq>
       <packagereq type="optional">ctan-musixtex-fonts</packagereq>
       <packagereq type="optional">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="optional">culmus-caladings-clm-fonts</packagereq>
@@ -4147,6 +4151,7 @@
       <packagereq type="optional">taipeifonts</packagereq>
       <packagereq type="optional">terminus-fonts</packagereq>
       <packagereq type="optional">terminus-fonts-console</packagereq>
+      <packagereq type="optional">ucs-miscfixed-fonts</packagereq>
       <packagereq type="optional">urw-fonts</packagereq>
       <packagereq type="optional">wqy-bitmap-fonts</packagereq>
       <packagereq type="optional">wqy-unibit-fonts</packagereq>
