@@ -1,52 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
-<comps xmlns="">
+<comps>
   <group>
-    <id>admin-tools</id>
-    <_name>Administration Tools</_name>
-    <_description>This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware.</_description>
-    <default>true</default>
+    <id>additional-devel</id>
+    <_name>Additional Development</_name>
+    <_description>Additional development headers and libraries for developing applications</_description>
+    <default>false</default>
     <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="optional">dbench</packagereq>
-      <packagereq type="optional">yumex</packagereq>
-    </packagelist>
+    <packagelist/>
+  </group>
+  <group>
+    <id>afrikaans-support</id>
+    <_name>Afrikaans Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>af</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>albanian-support</id>
+    <_name>Albanian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>sq</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>amazigh-support</id>
+    <_name>Amazigh Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ber</langonly>
+    <packagelist/>
   </group>
   <group>
     <id>arabic-support</id>
     <_name>Arabic Support</_name>
-    <_description>This group is a collection of tools and resources of Arabic environments.</_description>
+    <_description/>
     <default>false</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
+    <langonly>ar</langonly>
     <packagelist/>
   </group>
   <group>
     <id>armenian-support</id>
     <_name>Armenian Support</_name>
-    <_description>This group is a collection of tools and resources of Armenian environments.</_description>
+    <_description/>
     <default>false</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
+    <langonly>hy</langonly>
     <packagelist/>
   </group>
   <group>
-    <id>authoring-and-publishing</id>
-    <_name>Authoring and Publishing</_name>
-    <_description>These tools allow you to create documentation in the DocBook format and convert them to HTML, PDF, Postscript, and text.</_description>
+    <id>assamese-support</id>
+    <_name>Assamese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>as</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>azerbaijani-support</id>
+    <_name>Azerbaijani Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>az</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>backup-client</id>
+    <_name>Backup Client</_name>
+    <_description>Client tools for connecting to a backup server and doing backups.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">python-docutils</packagereq>
+      <packagereq type="optional">rsnapshot</packagereq>
     </packagelist>
   </group>
   <group>
-    <id>base-x</id>
-    <_name>X Window System</_name>
-    <_description>Install this group of packages to use the base graphical (X) user interface.</_description>
-    <default>true</default>
+    <id>backup-server</id>
+    <_name>Backup Server</_name>
+    <_description>Software to centralize your infrastructure's backups.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>base</id>
+    <_name>Base</_name>
+    <_description>The basic installation of Enterprise Linux.</_description>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">freefont</packagereq>
+      <packagereq type="optional">bash-completion</packagereq>
+      <packagereq type="optional">denyhosts</packagereq>
+      <packagereq type="optional">environment-modules</packagereq>
+      <packagereq type="optional">ghex</packagereq>
+      <packagereq type="optional">p7zip</packagereq>
     </packagelist>
+  </group>
+  <group>
+    <id>basic-desktop</id>
+    <_name>Desktop</_name>
+    <_description>A minimal desktop that can also be used as a thin client.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>basque-support</id>
+    <_name>Basque Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>eu</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>belarusian-support</id>
+    <_name>Belarusian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>be</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>bengali-support</id>
+    <_name>Bengali Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>bn</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>bhutanese-support</id>
+    <_name>Bhutanese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>dz</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>brazilian-support</id>
+    <_name>Brazilian Portuguese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>pt_BR</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>breton-support</id>
+    <_name>Breton Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>br</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>british-support</id>
+    <_name>English (UK) Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>en_GB</langonly>
+    <packagelist/>
   </group>
   <group>
     <id>buildsys-build</id>
@@ -81,21 +208,175 @@
     </packagelist>
   </group>
   <group>
-    <id>czech-support</id>
-    <_name>Czech Support</_name>
-    <_description>This group is a collection of tools and resources of Czech environments.</_description>
+    <id>bulgarian-support</id>
+    <_name>Bulgarian Support</_name>
+    <_description/>
     <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>bg</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>burmese-support</id>
+    <_name>Myanmar (Burmese) Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>my</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>catalan-support</id>
+    <_name>Catalan Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ca</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>chhattisgarhi-support</id>
+    <_name>Chhattisgarhi Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>hne</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>chichewa-support</id>
+    <_name>Chichewa Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ny</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>chinese-support</id>
+    <_name>Chinese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>zh</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>cifs-file-server</id>
+    <_name>CIFS file server</_name>
+    <_description>Share files between Linux and Microsoft Windows systems.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>compat-libraries</id>
+    <_name>Compatibility libraries</_name>
+    <_description>Compatibility libraries for applications built on previous versions of Enterprise Linux.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>console-internet</id>
+    <_name>Console internet tools</_name>
+    <_description>Console internet access tools, often used by administrators.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">alpine</packagereq>
+      <packagereq type="optional">naim</packagereq>
+      <packagereq type="optional">ncftp</packagereq>
+      <packagereq type="optional">pork</packagereq>
+      <packagereq type="optional">rss2email</packagereq>
+      <packagereq type="optional">websec</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>coptic-support</id>
+    <_name>Coptic Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>cop</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>core</id>
+    <_name>Core</_name>
+    <_description>Smallest possible installation.</_description>
+    <default>true</default>
     <uservisible>false</uservisible>
     <packagelist/>
   </group>
   <group>
-    <id>development-tools</id>
-    <_name>Development Tools</_name>
-    <_description>These tools include core development tools such as automake, gcc, perl, python, and debuggers.</_description>
+    <id>croatian-support</id>
+    <_name>Croatian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>hr</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>czech-support</id>
+    <_name>Czech Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>cs</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>danish-support</id>
+    <_name>Danish Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>da</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>debugging</id>
+    <_name>Debugging Tools</_name>
+    <_description>Tools for debugging misbehaving applications and diagnosing performance problems.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>desktop-debugging</id>
+    <_name>Desktop Debugging and Performance Tools</_name>
+    <_description>GUI tools for debugging applications and performance.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>desktop-platform</id>
+    <_name>Desktop Platform</_name>
+    <_description>Supported libraries for the Enterprise Linux Desktop Platform.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>desktop-platform-devel</id>
+    <_name>Desktop Platform Development</_name>
+    <_description>Development headers and libraries for developing applications to run on the Enterprise Linux Desktop Platform.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>development</id>
+    <_name>Development tools</_name>
+    <_description>A basic development environment.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional">ccache</packagereq>
+      <packagereq type="optional">chrpath</packagereq>
       <packagereq type="optional">clips</packagereq>
       <packagereq type="optional">clips-devel</packagereq>
       <packagereq type="optional">clips-doc</packagereq>
@@ -103,7 +384,6 @@
       <packagereq type="optional">clips-xclips</packagereq>
       <packagereq type="optional">clipsmm-devel</packagereq>
       <packagereq type="optional">clipsmm-doc</packagereq>
-      <packagereq type="optional">cmake</packagereq>
       <packagereq type="optional">cmucl</packagereq>
       <packagereq type="optional">colordiff</packagereq>
       <packagereq type="optional">cvsps</packagereq>
@@ -129,28 +409,49 @@
   </group>
   <group>
     <id>dial-up</id>
-    <_name>Dialup Networking Support</_name>
-    <_description/>
-    <default>true</default>
-    <uservisible>false</uservisible>
+    <_name>Dial-up Networking Support</_name>
+    <_description>Tools for connecting via PPP or ISDN.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
     <packagelist/>
   </group>
   <group>
-    <id>editors</id>
-    <_name>Editors</_name>
-    <_description>Sometimes called text editors, these are programs that allow you to create and edit files. These include Emacs and Vi.</_description>
+    <id>directory-client</id>
+    <_name>Directory Client</_name>
+    <_description>Clients for integration into a network managed by a directory service.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
-    <grouplist>
-      <groupreq>base</groupreq>
-      <metapkg type="optional">xemacs</metapkg>
-    </grouplist>
+    <packagelist/>
+  </group>
+  <group>
+    <id>directory-server</id>
+    <_name>Directory Server</_name>
+    <_description>Machine and user identity servers.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>dutch-support</id>
+    <_name>Dutch Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>nl</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>eclipse</id>
+    <_name>Eclipse</_name>
+    <_description>Eclipse-based Integrated Development Environment.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
     <packagelist/>
   </group>
   <group>
     <id>education</id>
     <_name>Educational Software</_name>
-    <_description>Educational software for learning</_description>
+    <_description>Educational software for learning.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -162,28 +463,28 @@
   <group>
     <id>electronic-lab</id>
     <_name>Electronic Lab</_name>
-    <_description>Design and Simulation tools for hardware engineers</_description>
+    <_description>Design and Simulation tools for hardware engineers.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">alliance</packagereq>
-      <packagereq type="default">avra</packagereq>
       <packagereq type="default">avr-binutils</packagereq>
       <packagereq type="default">avr-gcc</packagereq>
       <packagereq type="default">avr-gcc-c++</packagereq>
       <packagereq type="default">avr-gdb</packagereq>
+      <packagereq type="default">avra</packagereq>
       <packagereq type="default">cgnslib</packagereq>
       <packagereq type="default">covered</packagereq>
       <packagereq type="default">dfu-programmer</packagereq>
+      <packagereq type="default">dgc</packagereq>
       <packagereq type="default">dia-CMOS</packagereq>
       <packagereq type="default">dia-Digital</packagereq>
       <packagereq type="default">dia-electric2</packagereq>
       <packagereq type="default">dia-electronic</packagereq>
       <packagereq type="default">dinotrace</packagereq>
-      <packagereq type="default">dgc</packagereq>
       <packagereq type="default">drawtiming</packagereq>
-      <packagereq type="default">eclipse-eclox</packagereq>
       <packagereq type="default">eclipse-cdt</packagereq>
+      <packagereq type="default">eclipse-eclox</packagereq>
       <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-subclipse</packagereq>
       <packagereq type="default">eclipse-texlipse</packagereq>
@@ -206,8 +507,8 @@
       <packagereq type="default">gerbv</packagereq>
       <packagereq type="default">ghdl</packagereq>
       <packagereq type="default">gnucap</packagereq>
-      <packagereq type="default">gplcver</packagereq>
       <packagereq type="default">gnusim8085</packagereq>
+      <packagereq type="default">gplcver</packagereq>
       <packagereq type="default">gpsim</packagereq>
       <packagereq type="default">gputils</packagereq>
       <packagereq type="default">gresistor</packagereq>
@@ -237,8 +538,8 @@
       <packagereq type="default">perl-Perlilog</packagereq>
       <packagereq type="default">perl-SystemC-Vregs</packagereq>
       <packagereq type="default">perl-SystemPerl</packagereq>
-      <packagereq type="default">perl-Verilog-Perl</packagereq>
       <packagereq type="default">perl-Verilog-CodeGen</packagereq>
+      <packagereq type="default">perl-Verilog-Perl</packagereq>
       <packagereq type="default">perl-Verilog-Readmem</packagereq>
       <packagereq type="default">pharosc</packagereq>
       <packagereq type="default">pharosc-alliance</packagereq>
@@ -273,30 +574,53 @@
     </packagelist>
   </group>
   <group>
-    <id>engineering-and-scientific</id>
-    <_name>Engineering and Scientific</_name>
-    <_description>This group includes packages for performing mathematical and scientific computations and plotting, as well as unit conversion.</_description>
+    <id>emacs</id>
+    <_name>Emacs</_name>
+    <_description>The GNU Emacs extensible, customizable, text editor.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="optional">gromacs</packagereq>
-      <packagereq type="optional">gromacs-mpi</packagereq>
-      <packagereq type="optional">hdf</packagereq>
-      <packagereq type="optional">hdf5</packagereq>
-      <packagereq type="optional">jmol</packagereq>
-      <packagereq type="optional">Macaulay2</packagereq>
-      <packagereq type="optional">maxima</packagereq>
-      <packagereq type="optional">ncarg</packagereq>
-      <packagereq type="optional">netcdf</packagereq>
-      <packagereq type="optional">numpy</packagereq>
-      <packagereq type="optional">qucs</packagereq>
-      <packagereq type="optional">rrdtool</packagereq>
-    </packagelist>
+    <packagelist/>
+  </group>
+  <group>
+    <id>esperanto-support</id>
+    <_name>Esperanto Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>eo</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>estonian-support</id>
+    <_name>Estonian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>et</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>ethiopic-support</id>
+    <_name>Ethiopic Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>am</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>faroese-support</id>
+    <_name>Faroese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>fo</langonly>
+    <packagelist/>
   </group>
   <group>
     <id>fedora-packager</id>
     <_name>Fedora Packager</_name>
-    <_description>Tools and Utilities needed by a Fedora Packager</_description>
+    <_description>Tools and utilities needed by a Fedora Packager.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -315,53 +639,140 @@
     </packagelist>
   </group>
   <group>
-    <id>ftp-server</id>
-    <_name>FTP Server</_name>
-    <_description>These tools allow you to run an FTP server on the system.</_description>
+    <id>fijian-support</id>
+    <_name>Fijian Support</_name>
+    <_description/>
     <default>false</default>
     <uservisible>true</uservisible>
+    <langonly>fj</langonly>
     <packagelist/>
   </group>
   <group>
-    <id>games</id>
-    <_name>Games and Entertainment</_name>
-    <_description>Various ways to relax and spend your free time.</_description>
+    <id>filipino-support</id>
+    <_name>Filipino Support</_name>
+    <_description/>
     <default>false</default>
     <uservisible>true</uservisible>
+    <langonly>fil</langonly>
     <packagelist/>
   </group>
   <group>
-    <id>gnome-desktop</id>
-    <_name>GNOME Desktop Environment</_name>
-    <_description>GNOME is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</_description>
-    <default>true</default>
-    <uservisible>true</uservisible>
-    <packagelist/>
-  </group>
-  <group>
-    <id>gnome-software-development</id>
-    <_name>GNOME Software Development</_name>
-    <_description>Install these packages in order to develop GTK+ and GNOME graphical applications.</_description>
+    <id>finnish-support</id>
+    <_name>Finnish Support</_name>
+    <_description/>
     <default>false</default>
     <uservisible>true</uservisible>
+    <langonly>fi</langonly>
     <packagelist/>
   </group>
   <group>
-    <id>graphical-internet</id>
-    <_name>Graphical Internet</_name>
-    <_description>This group includes graphical email, Web, and chat clients.</_description>
-    <default>true</default>
+    <id>fonts</id>
+    <_name>Fonts</_name>
+    <_description>Fonts for rendering text in a variety of languages and scripts.</_description>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">checkgmail</packagereq>
-      <packagereq type="optional">konversation</packagereq>
-      <packagereq type="optional">mail-notification</packagereq>
+      <packagereq type="optional">freefont</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>french-support</id>
+    <_name>French Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>fr</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>frisian-support</id>
+    <_name>Frisian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>fy</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>friulian-support</id>
+    <_name>Friulian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>fur</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>ftp-server</id>
+    <_name>FTP server</_name>
+    <_description>Allows the system to act as an FTP server.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>gaelic-support</id>
+    <_name>Gaelic Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>gd</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>galician-support</id>
+    <_name>Galician Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>gl</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>general-desktop</id>
+    <_name>General Purpose Desktop</_name>
+    <_description>A general purpose desktop.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">gkrellm</packagereq>
+      <packagereq type="optional">ucview</packagereq>
+      <packagereq type="optional">wine</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>georgian-support</id>
+    <_name>Georgian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ka</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>german-support</id>
+    <_name>German Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>de</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>graphical-admin-tools</id>
+    <_name>Graphical Administration Tools</_name>
+    <_description>Graphical system administration tools for managaing many aspects of a system.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">dbench</packagereq>
+      <packagereq type="optional">yumex</packagereq>
     </packagelist>
   </group>
   <group>
     <id>graphics</id>
-    <_name>Graphics</_name>
-    <_description>This group includes packages to help you manipulate and scan images.</_description>
+    <_name>Graphics Creation Tools</_name>
+    <_description>Software for creation and manipulation of still images.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -372,58 +783,371 @@
     </packagelist>
   </group>
   <group>
-    <id>hardware-support</id>
-    <_name>Hardware Support</_name>
-    <_description>This group is a collection of tools for various hardware specific utilities.</_description>
+    <id>greek-support</id>
+    <_name>Greek Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>el</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>gujarati-support</id>
+    <_name>Gujarati Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>gu</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>hardware-monitoring</id>
+    <_name>Hardware monitoring utilities</_name>
+    <_description>A set of tools to monitor server hardware</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">ctapi-cyberjack</packagereq>
-      <packagereq type="optional">ctapi-cyberjack-pcsc</packagereq>
-      <packagereq type="optional">ctapi-cyberjack-tools</packagereq>
+      <packagereq type="optional">apcupsd</packagereq>
       <packagereq type="optional">hddtemp</packagereq>
+      <packagereq type="optional">powerman</packagereq>
     </packagelist>
   </group>
   <group>
     <id>hebrew-support</id>
     <_name>Hebrew Support</_name>
-    <_description>This group is a collection of tools and resources of Hebrew environments.</_description>
+    <_description/>
     <default>false</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
+    <langonly>he</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>hiligaynon-support</id>
+    <_name>Hiligaynon Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>hil</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>hindi-support</id>
+    <_name>Hindi Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>hi</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>hungarian-support</id>
+    <_name>Hungarian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>hu</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>icelandic-support</id>
+    <_name>Icelandic Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>is</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>indonesian-support</id>
+    <_name>Indonesian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>id</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>infiniband</id>
+    <_name>Infiniband Support</_name>
+    <_description>Software designed for supporting clustering and grid connectivity using RDMA-based InfiniBand and iWARP fabrics.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>input-methods</id>
+    <_name>Input Methods</_name>
+    <_description>Software for the input of international text.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>interlingua-support</id>
+    <_name>Interlingua Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ia</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>internet-applications</id>
+    <_name>Internet Applications</_name>
+    <_description>Email, chat, and video conferencing software.</_description>
+    <default>true</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">checkgmail</packagereq>
+      <packagereq type="optional">konversation</packagereq>
+      <packagereq type="optional">mail-notification</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>internet-browser</id>
+    <_name>Internet Browser</_name>
+    <_description>Firefox web browser</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>inuktitut-support</id>
+    <_name>Inuktitut Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>iu</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>irish-support</id>
+    <_name>Irish Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ga</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>italian-support</id>
+    <_name>Italian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>it</langonly>
     <packagelist/>
   </group>
   <group>
     <id>japanese-support</id>
     <_name>Japanese Support</_name>
-    <_description>This group is a collection of tools and resources of Japanese environments.</_description>
+    <_description/>
     <default>false</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
+    <langonly>ja</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>java-platform</id>
+    <_name>Java Platform</_name>
+    <_description>Java support for the Enterprise Linux Server and Desktop Platforms.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>kannada-support</id>
+    <_name>Kannada Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>kn</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>kashmiri-support</id>
+    <_name>Kashmiri Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ks</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>kashubian-support</id>
+    <_name>Kashubian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>csb</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>kazakh-support</id>
+    <_name>Kazakh Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>kk</langonly>
     <packagelist/>
   </group>
   <group>
     <id>kde-desktop</id>
-    <_name>KDE (K Desktop Environment)</_name>
-    <_description>KDE is a powerful, graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</_description>
+    <_name>KDE Desktop</_name>
+    <_description>A KDE desktop.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional">amarok</packagereq>
       <packagereq type="optional">kmymoney2</packagereq>
+      <packagereq type="optional">qmmp</packagereq>
       <packagereq type="optional">xsettings-kde</packagereq>
     </packagelist>
   </group>
   <group>
-    <id>kde-software-development</id>
-    <_name>KDE Software Development</_name>
-    <_description>Install these packages to develop QT and KDE graphical applications.</_description>
+    <id>khmer-support</id>
+    <_name>Khmer Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>km</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>kinyarwanda-support</id>
+    <_name>Kinyarwanda Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>rw</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>konkani-support</id>
+    <_name>Konkani Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>kok</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>korean-support</id>
+    <_name>Korean Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ko</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>kurdish-support</id>
+    <_name>Kurdish Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ku</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>lao-support</id>
+    <_name>Lao Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>lo</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>large-systems</id>
+    <_name>Large Systems Performance</_name>
+    <_description>Performance support tools for large systems</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist/>
   </group>
   <group>
+    <id>latin-support</id>
+    <_name>Latin Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>la</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>latvian-support</id>
+    <_name>Latvian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>lv</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>legacy-unix</id>
+    <_name>Legacy UNIX compatibility</_name>
+    <_description>Compatibility programs for migration from or working with legacy UNIX environments.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>legacy-x</id>
+    <_name>Legacy X Window System compatibility</_name>
+    <_description>Compatibility programs for migration from or working with legacy X Window System environments.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>legacy-x-base</id>
+    <_name>Basic legacy X Window System compatibility</_name>
+    <_description>Minimal set of compatibility programs for migration from or working with legacy X Window System environments.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>lithuanian-support</id>
+    <_name>Lithuanian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>lt</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>low-saxon-support</id>
+    <_name>Low Saxon Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>nds</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>luxembourgish-support</id>
+    <_name>Luxembourgish Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>lb</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>macedonian-support</id>
+    <_name>Macedonian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>mk</langonly>
+    <packagelist/>
+  </group>
+  <group>
     <id>mail-server</id>
-    <_name>Mail Server</_name>
-    <_description>These packages allow you to configure an IMAP or SMTP mail server.</_description>
+    <_name>E-mail server</_name>
+    <_description>Allows the system to act as a SMTP and/or IMAP e-mail server.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -436,34 +1160,195 @@
     </packagelist>
   </group>
   <group>
-    <id>network-server</id>
-    <_name>Network Servers</_name>
-    <_description>This group is a collection of network servers for specific purposes</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="optional">dnsmasq</packagereq>
-      <packagereq type="optional">ircd-hybrid</packagereq>
-      <packagereq type="optional">kannel</packagereq>
-      <packagereq type="optional">openvpn</packagereq>
-      <packagereq type="optional">puppet-server</packagereq>
-      <packagereq type="optional">rbldnsd</packagereq>
-      <packagereq type="optional">ushare</packagereq>
-      <packagereq type="optional">vtun</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>news-server</id>
-    <_name>News Server</_name>
-    <_description>This group allows you to configure the system as a news server.</_description>
+    <id>mainframe-access</id>
+    <_name>Mainframe Access</_name>
+    <_description>Tools for accessing mainframe computing resources.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist/>
   </group>
   <group>
-    <id>office</id>
-    <_name>Office/Productivity</_name>
-    <_description>The applications include office suites, PDF viewers, and more.</_description>
+    <id>maithili-support</id>
+    <_name>Maithili Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>mai</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>malagasy-support</id>
+    <_name>Malagasy Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>mg</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>malay-support</id>
+    <_name>Malay Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ms</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>malayalam-support</id>
+    <_name>Malayalam Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ml</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>maltese-support</id>
+    <_name>Maltese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>mt</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>manx-support</id>
+    <_name>Manx Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>gv</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>maori-support</id>
+    <_name>Maori Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>mi</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>marathi-support</id>
+    <_name>Marathi Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>mr</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>mongolian-support</id>
+    <_name>Mongolian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>mn</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>mysql</id>
+    <_name>MySQL Database server</_name>
+    <_description>The MySQL SQL database server, and associated packages.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>mysql-client</id>
+    <_name>MySQL Database client</_name>
+    <_description>The MySQL SQL database client, and associated packages.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>nepali-support</id>
+    <_name>Nepali Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ne</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>network-file-system-client</id>
+    <_name>Network file system client</_name>
+    <_description>Enables the system to attach to network storage.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>network-server</id>
+    <_name>Network Infrastructure Server</_name>
+    <_description>Servers for core network protocols and services, such as DHCP or DNS.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">ircd-hybrid</packagereq>
+      <packagereq type="optional">kannel</packagereq>
+      <packagereq type="optional">rbldnsd</packagereq>
+      <packagereq type="optional">ushare</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>network-tools</id>
+    <_name>Networking Tools</_name>
+    <_description>Tools for configuring and analyzing computer networks.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">ebtables</packagereq>
+      <packagereq type="optional">ettercap</packagereq>
+      <packagereq type="optional">isic</packagereq>
+      <packagereq type="optional">openvpn</packagereq>
+      <packagereq type="optional">qstat</packagereq>
+      <packagereq type="optional">vtun</packagereq>
+      <packagereq type="optional">xprobe2</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>nfs-file-server</id>
+    <_name>NFS file server</_name>
+    <_description>NFS file server.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>northern-sotho-support</id>
+    <_name>Northern Sotho Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>nso</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>norwegian-support</id>
+    <_name>Norwegian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>nb</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>occitan-support</id>
+    <_name>Occitan Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>oc</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>office-suite</id>
+    <_name>Office Suite and Productivity</_name>
+    <_description>A full-purpose office suite, and other productivity tools.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -475,70 +1360,515 @@
     </packagelist>
   </group>
   <group>
-    <id>sound-and-video</id>
-    <_name>Sound and Video</_name>
-    <_description>From CD recording to playing audio CDs and multimedia files, this package group allows you to work with sound and video on the system.</_description>
-    <default>true</default>
+    <id>oriya-support</id>
+    <_name>Oriya Support</_name>
+    <_description/>
+    <default>false</default>
     <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="optional">akode</packagereq>
-      <packagereq type="optional">amarok</packagereq>
-      <packagereq type="optional">qmmp</packagereq>
-      <packagereq type="optional">ucview</packagereq>
-      <packagereq type="optional">ushare</packagereq>
-    </packagelist>
+    <langonly>or</langonly>
+    <packagelist/>
   </group>
   <group>
-    <id>system-tools</id>
-    <_name>System Tools</_name>
-    <_description>This group is a collection of various tools for the system, such as the client for connecting to SMB shares and tools to monitor network traffic.</_description>
+    <id>performance</id>
+    <_name>Performance Tools</_name>
+    <_description>Tools for diagnosing system and application-level performance problems.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">apcupsd</packagereq>
-      <packagereq type="optional">bash-completion</packagereq>
-      <packagereq type="optional">cfengine</packagereq>
-      <packagereq type="optional">chrpath</packagereq>
-      <packagereq type="optional">denyhosts</packagereq>
-      <packagereq type="optional">ebtables</packagereq>
-      <packagereq type="optional">environment-modules</packagereq>
-      <packagereq type="optional">ettercap</packagereq>
-      <packagereq type="optional">ghex</packagereq>
-      <packagereq type="optional">gkrellm</packagereq>
-      <packagereq type="optional">isic</packagereq>
-      <packagereq type="optional">nagios</packagereq>
-      <packagereq type="optional">p7zip</packagereq>
-      <packagereq type="optional">powerman</packagereq>
-      <packagereq type="optional">puppet</packagereq>
-      <packagereq type="optional">qstat</packagereq>
-      <packagereq type="optional">rear</packagereq>
-      <packagereq type="optional">rsnapshot</packagereq>
-      <packagereq type="optional">sec</packagereq>
       <packagereq type="optional">tiobench</packagereq>
-      <packagereq type="optional">ttywatch</packagereq>
-      <packagereq type="optional">wine</packagereq>
     </packagelist>
   </group>
   <group>
-    <id>text-internet</id>
-    <_name>Text-based Internet</_name>
-    <_description>This group includes text-based email, Web, and chat clients. These applications do not require the X Window System.</_description>
-    <default>true</default>
+    <id>perl-runtime</id>
+    <_name>Perl Support</_name>
+    <_description>Perl interfaces to common libraries and functionality.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>persian-support</id>
+    <_name>Persian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>fa</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>php</id>
+    <_name>PHP Support</_name>
+    <_description>PHP web application framework.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>polish-support</id>
+    <_name>Polish Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>pl</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>portuguese-support</id>
+    <_name>Portuguese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>pt</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>postgresql</id>
+    <_name>PostgreSQL Database server</_name>
+    <_description>The PostgreSQL SQL database server, and associated packages.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>postgresql-client</id>
+    <_name>PostgreSQL Database client</_name>
+    <_description>The PostgreSQL SQL database client, and associated packages.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>print-client</id>
+    <_name>Printing client</_name>
+    <_description>Tools for printing to a local printer or a remote print server.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>print-server</id>
+    <_name>Print Server</_name>
+    <_description>Allows the system to act as a print server.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>punjabi-support</id>
+    <_name>Punjabi Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>pa</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>remote-desktop-clients</id>
+    <_name>Remote Desktop Clients</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>romanian-support</id>
+    <_name>Romanian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ro</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>russian-support</id>
+    <_name>Russian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ru</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>sanskrit-support</id>
+    <_name>Sanskrit Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>sa</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>sardinian-support</id>
+    <_name>Sardinian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>sc</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>scientific</id>
+    <_name>Scientific support</_name>
+    <_description>Tools for mathematical and scientific computations, and parallel computing.</_description>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">alpine</packagereq>
-      <packagereq type="optional">naim</packagereq>
-      <packagereq type="optional">ncftp</packagereq>
-      <packagereq type="optional">pork</packagereq>
-      <packagereq type="optional">rss2email</packagereq>
-      <packagereq type="optional">websec</packagereq>
-      <packagereq type="optional">xprobe2</packagereq>
+      <packagereq type="optional">gromacs</packagereq>
+      <packagereq type="optional">gromacs-mpi</packagereq>
+      <packagereq type="optional">hdf</packagereq>
+      <packagereq type="optional">hdf5</packagereq>
+      <packagereq type="optional">jmol</packagereq>
+      <packagereq type="optional">Macaulay2</packagereq>
+      <packagereq type="optional">maxima</packagereq>
+      <packagereq type="optional">ncarg</packagereq>
+      <packagereq type="optional">netcdf</packagereq>
+      <packagereq type="optional">numpy</packagereq>
+      <packagereq type="optional">qucs</packagereq>
+      <packagereq type="optional">rrdtool</packagereq>
     </packagelist>
   </group>
   <group>
-    <id>web-development</id>
-    <_name>Web Development</_name>
-    <_description>These packages are helpful when developing web applications or web pages.</_description>
+    <id>security-tools</id>
+    <_name>Security Tools</_name>
+    <_description>Security tools for integrity and trust verification.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>serbian-support</id>
+    <_name>Serbian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>sr</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>server-platform</id>
+    <_name>Server Platform</_name>
+    <_description>Supported libraries for the Enterprise Linux Server Platform.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>server-platform-devel</id>
+    <_name>Server Platform Development</_name>
+    <_description>Development headers and libraries for developing applications to run on the Enterprise Linux Server Platform.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>server-policy</id>
+    <_name>Server Policy</_name>
+    <_description>Policy packages for the Server variant.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>sindhi-support</id>
+    <_name>Sindhi Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>sd</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>sinhala-support</id>
+    <_name>Sinhala Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>si</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>slovak-support</id>
+    <_name>Slovak Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>sk</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>slovenian-support</id>
+    <_name>Slovenian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>sl</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>smart-card</id>
+    <_name>Smart card support</_name>
+    <_description>Support for using smart card authentication.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">ctapi-cyberjack</packagereq>
+      <packagereq type="optional">ctapi-cyberjack-pcsc</packagereq>
+      <packagereq type="optional">ctapi-cyberjack-tools</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>somali-support</id>
+    <_name>Somali Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>southern-ndebele-support</id>
+    <_name>Southern Ndebele Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>nr</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>southern-sotho-support</id>
+    <_name>Southern Sotho Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>st</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>spanish-support</id>
+    <_name>Spanish Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>es</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>storage-client-fcoe</id>
+    <_name>FCoE Storage Client</_name>
+    <_description>Fiber Channel over Ethernet support</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>storage-client-iscsi</id>
+    <_name>iSCSI Storage Client</_name>
+    <_description>iSCSI client support</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>storage-client-multipath</id>
+    <_name>Storage Availability Tools</_name>
+    <_description>A set of tools to manage SAN path availability</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>storage-server</id>
+    <_name>Network Storage Server</_name>
+    <_description>iSCSI, iSER, and iSNS network storage server.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>swahili-support</id>
+    <_name>Swahili Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>sw</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>swati-support</id>
+    <_name>Swati Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ss</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>swedish-support</id>
+    <_name>Swedish Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>sv</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>system-admin-tools</id>
+    <_name>System administration tools</_name>
+    <_description>Utilities useful in system administration.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">cfengine</packagereq>
+      <packagereq type="optional">nagios</packagereq>
+      <packagereq type="optional">puppet</packagereq>
+      <packagereq type="optional">puppet-server</packagereq>
+      <packagereq type="optional">rear</packagereq>
+      <packagereq type="optional">sec</packagereq>
+      <packagereq type="optional">ttywatch</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>system-management</id>
+    <_name>System Management</_name>
+    <_description>Various low-level hardware management frameworks.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>system-management-messaging-client</id>
+    <_name>Messaging Client Support</_name>
+    <_description>AMQP messaging client for systems management.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>system-management-messaging-server</id>
+    <_name>Messaging Server Support</_name>
+    <_description>AMQP messaging broker for systems management.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>system-management-snmp</id>
+    <_name>SNMP Support</_name>
+    <_description>SNMP management agent.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>system-management-wbem</id>
+    <_name>Web-Based Enterprise Management</_name>
+    <_description>WBEM interface for Enterprise Linux.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>tagalog-support</id>
+    <_name>Tagalog Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>tl</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>tajik-support</id>
+    <_name>Tajik Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>tg</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>tamil-support</id>
+    <_name>Tamil Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ta</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>technical-writing</id>
+    <_name>Technical Writing</_name>
+    <_description>Tools for writing technical documentation.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">python-docutils</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>telugu-support</id>
+    <_name>Telugu Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>te</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>tetum-support</id>
+    <_name>Tetum Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>tet</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>tex</id>
+    <_name>TeX support</_name>
+    <_description>Support for the TeX document formatting system.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>thai-support</id>
+    <_name>Thai Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>th</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>tibetan-support</id>
+    <_name>Tibetan Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>bo</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>tsonga-support</id>
+    <_name>Tsonga Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ts</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>tswana-support</id>
+    <_name>Tswana Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>tn</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>turbogears</id>
+    <_name>TurboGears application framework</_name>
+    <_description>TurboGears web application framework.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -547,9 +1877,122 @@
     </packagelist>
   </group>
   <group>
+    <id>turkish-support</id>
+    <_name>Turkish Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>tr</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>turkmen-support</id>
+    <_name>Turkmen Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>tk</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>ukrainian-support</id>
+    <_name>Ukrainian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>uk</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>upper-sorbian-support</id>
+    <_name>Upper Sorbian Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>hsb</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>urdu-support</id>
+    <_name>Urdu Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ur</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>uzbek-support</id>
+    <_name>Uzbek Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>uz</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>venda-support</id>
+    <_name>Venda Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>ve</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>vietnamese-support</id>
+    <_name>Vietnamese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>vi</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>virtualization</id>
+    <_name>Virtualization</_name>
+    <_description>Provides an environment for hosting virtualized guests.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>virtualization-client</id>
+    <_name>Virtualization Client</_name>
+    <_description>Clients for installing and managing virtualization instances.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>virtualization-platform</id>
+    <_name>Virtualization Platform</_name>
+    <_description>Provides an interface for accessing and controlling virtualized guests and containers.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>virtualization-tools</id>
+    <_name>Virtualization Tools</_name>
+    <_description>Tools for offline virtual image management.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>walloon-support</id>
+    <_name>Walloon Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>wa</langonly>
+    <packagelist/>
+  </group>
+  <group>
     <id>web-server</id>
     <_name>Web Server</_name>
-    <_description>These tools allow you to run a Web server on the system.</_description>
+    <_description>Allows the system to act as a web server, and run Perl and Python web applications.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -559,74 +2002,89 @@
       <packagereq type="optional">moin</packagereq>
       <packagereq type="optional">plone</packagereq>
       <packagereq type="optional">Pound</packagereq>
-      <packagereq type="optional">tomcat-native</packagereq>
       <packagereq type="optional">zope</packagereq>
     </packagelist>
   </group>
   <group>
-    <id>window-managers</id>
-    <_name>Window Managers</_name>
-    <_description>Simple window managers that aren't part of a larger desktop environment.</_description>
+    <id>web-servlet</id>
+    <_name>Web Servlet Engine</_name>
+    <_description>Allows the system to host Java servlets.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">tomcat-native</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>welsh-support</id>
+    <_name>Welsh Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>cy</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>workstation-policy</id>
+    <_name>Workstation Policy</_name>
+    <_description>Policy packages for the Workstation variant.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>x11</id>
+    <_name>X Window System</_name>
+    <_description>X Window System Support.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist/>
   </group>
   <group>
-    <id>xemacs</id>
-    <_name>XEmacs</_name>
-    <_description>The XEmacs text editor.</_description>
+    <id>xhosa-support</id>
+    <_name>Xhosa Support</_name>
+    <_description/>
     <default>false</default>
-    <uservisible>false</uservisible>
-    <grouplist>
-      <groupreq>base</groupreq>
-    </grouplist>
+    <uservisible>true</uservisible>
+    <langonly>xh</langonly>
+    <packagelist/>
+  </group>
+  <group>
+    <id>zulu-support</id>
+    <_name>Zulu Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>zu</langonly>
     <packagelist/>
   </group>
   <category>
     <id>desktops</id>
-    <_name>Desktop Environments</_name>
-    <_description>Desktop environments</_description>
-    <display_order>10</display_order>
+    <display_order>70</display_order>
+    <_name>Desktops</_name>
+    <_description>Desktops and thin clients.</_description>
     <grouplist>
       <groupid>xfce-desktop</groupid>
     </grouplist>
   </category>
   <category>
     <id>apps</id>
+    <display_order>80</display_order>
     <_name>Applications</_name>
-    <_description>Applications for a variety of tasks</_description>
-    <display_order>20</display_order>
+    <_description>End-user applications.</_description>
     <grouplist>
       <groupid>education</groupid>
+      <groupid>electronics-lab</groupid>
     </grouplist>
   </category>
   <category>
     <id>development</id>
+    <display_order>90</display_order>
     <_name>Development</_name>
-    <_description>Packages which provide functionality for developing and building applications.</_description>
-    <display_order>70</display_order>
+    <_description>Development tools and libraries.</_description>
     <grouplist>
       <groupid>fedora-packager</groupid>
-      <groupid>web-development</groupid>
       <groupid>xfce-software-development</groupid>
-    </grouplist>
-  </category>
-  <category>
-    <id>servers</id>
-    <_name>Servers</_name>
-    <_description>Software used for running network servers</_description>
-    <display_order>90</display_order>
-    <grouplist>
-      <groupid>network-server</groupid>
-    </grouplist>
-  </category>
-  <category>
-    <id>base-system</id>
-    <_name>Base System</_name>
-    <_description>Various core pieces of the system.</_description>
-    <display_order>99</display_order>
-    <grouplist>
-      <groupid>hardware-support</groupid>
     </grouplist>
   </category>
 </comps>
