@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: comps-po\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-10-06 10:53+0000\n"
-"PO-Revision-Date: 2010-10-06 22:30+0300\n"
+"PO-Revision-Date: 2010-10-07 22:31+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1884,6 +1884,8 @@ msgstr ""
 #: ../comps-el6.xml.in.h:14
 msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
 msgstr ""
+"Надає системі змогу працювати у режимі сервера електронної пошти SMTP і/або "
+"IMAP."
 
 #: ../comps-el6.xml.in.h:15
 msgid "Allows the system to act as a print server."
@@ -1894,13 +1896,12 @@ msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
 msgstr ""
+"Надає системі змогу працювати у режимі веб-сервера та запускати веб-програми "
+"мовами Perl і Python."
 
 #: ../comps-el6.xml.in.h:17
-#, fuzzy
 msgid "Allows the system to act as an FTP server."
-msgstr ""
-"Встановіть ці пакети, щоб мати змогу друкувати файли або використовувати "
-"систему як сервер друку."
+msgstr "Надає змогу системі працювати у режимі сервера FTP."
 
 #: ../comps-el6.xml.in.h:18
 msgid "Allows the system to host Java servlets."
@@ -1968,16 +1969,15 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:50
 msgid "Console internet tools"
-msgstr ""
+msgstr "Консольні інтернет-програми"
 
 #: ../comps-el6.xml.in.h:56
 msgid "Debugging Tools"
 msgstr "Інструменти для зневаджування"
 
 #: ../comps-el6.xml.in.h:57
-#, fuzzy
 msgid "Design and Simulation tools for hardware engineers."
-msgstr "Засоби розробки та симуляції для інженерів обладнання"
+msgstr "Засоби розробки та моделювання для розробників апаратури."
 
 #: ../comps-el6.xml.in.h:58
 #, fuzzy
@@ -1990,7 +1990,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:60
 msgid "Desktop Platform"
-msgstr ""
+msgstr "Стільнична платформа"
 
 #: ../comps-el6.xml.in.h:61
 #, fuzzy
@@ -2062,10 +2062,12 @@ msgstr "Редактор Emacs"
 #: ../comps-el6.xml.in.h:80
 msgid "Email, chat, and video conferencing software."
 msgstr ""
+"Програми для обміну електронною поштою, спілкування та проведення "
+"відеоконференцій."
 
 #: ../comps-el6.xml.in.h:81
 msgid "Enables the system to attach to network storage."
-msgstr ""
+msgstr "Надає змогу долучати систему до мережевого сховища даних."
 
 #: ../comps-el6.xml.in.h:82
 #, fuzzy
@@ -2101,26 +2103,26 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:104
 msgid "General Purpose Desktop"
-msgstr ""
+msgstr "Робоче середовище загального призначення"
 
 #: ../comps-el6.xml.in.h:107
-#, fuzzy
 msgid "Graphical Administration Tools"
-msgstr "Засоби адміністрування"
+msgstr "Графічні засоби адміністрування"
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
 "Graphical system administration tools for managaing many aspects of a system."
 msgstr ""
+"Графічні програми для адміністративного керування різними параметрами "
+"системи."
 
 #: ../comps-el6.xml.in.h:109
-#, fuzzy
 msgid "Graphics Creation Tools"
-msgstr "Засоби адміністрування"
+msgstr "Інструменти для створення графіки"
 
 #: ../comps-el6.xml.in.h:112
 msgid "Hardware monitoring utilities"
-msgstr ""
+msgstr "Програми для спостереження за обладнанням"
 
 #: ../comps-el6.xml.in.h:119
 #, fuzzy
@@ -2155,11 +2157,11 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:144
 msgid "Legacy UNIX compatibility"
-msgstr ""
+msgstr "Сумісність з застарілими версіями UNIX"
 
 #: ../comps-el6.xml.in.h:145
 msgid "Legacy X Window System compatibility"
-msgstr ""
+msgstr "Сумісність з застарілими версіями систем X Window"
 
 #: ../comps-el6.xml.in.h:151
 msgid "Mainframe Access"
@@ -2217,7 +2219,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:173
 msgid "Networking Tools"
-msgstr ""
+msgstr "Програми для роботи у мережі"
 
 #: ../comps-el6.xml.in.h:177
 #, fuzzy
@@ -2247,15 +2249,15 @@ msgstr "Підтримка Perl"
 
 #: ../comps-el6.xml.in.h:184
 msgid "Perl interfaces to common libraries and functionality."
-msgstr ""
+msgstr "Інтерфейси Perl до загальних бібліотек та функціональних можливостей."
 
 #: ../comps-el6.xml.in.h:186
 msgid "Policy packages for the Server variant."
-msgstr ""
+msgstr "Пакунки правил для серверного варіанта системи."
 
 #: ../comps-el6.xml.in.h:187
 msgid "Policy packages for the Workstation variant."
-msgstr ""
+msgstr "Пакунки правил для варіанта робочої станції."
 
 #: ../comps-el6.xml.in.h:190
 #, fuzzy
@@ -2298,7 +2300,7 @@ msgstr "Підтримка менської мови"
 
 #: ../comps-el6.xml.in.h:201
 msgid "SNMP management agent."
-msgstr ""
+msgstr "Агент керування SNMP."
 
 #: ../comps-el6.xml.in.h:204
 #, fuzzy
@@ -2306,9 +2308,8 @@ msgid "Scientific support"
 msgstr "Підтримка мови сіндхі"
 
 #: ../comps-el6.xml.in.h:205
-#, fuzzy
 msgid "Security Tools"
-msgstr "Системні засоби"
+msgstr "Засоби захисту"
 
 #: ../comps-el6.xml.in.h:206
 msgid "Security tools for integrity and trust verification."
@@ -2324,9 +2325,8 @@ msgid "Server Platform Development"
 msgstr "Програмування Perl"
 
 #: ../comps-el6.xml.in.h:210
-#, fuzzy
 msgid "Server Policy"
-msgstr "Сервери"
+msgstr "Серверні правила"
 
 #: ../comps-el6.xml.in.h:211
 msgid "Servers for core network protocols and services, such as DHCP or DNS."
@@ -2344,9 +2344,8 @@ msgid "Smallest possible installation."
 msgstr "Мінімально можливе встановлення."
 
 #: ../comps-el6.xml.in.h:218
-#, fuzzy
 msgid "Smart card support"
-msgstr "Підтримка обладнання"
+msgstr "Підтримка смарт-карток"
 
 #: ../comps-el6.xml.in.h:219
 msgid ""
@@ -2356,16 +2355,17 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:220
 msgid "Software for creation and manipulation of still images."
-msgstr ""
+msgstr "Програми для створення і обробки статичних зображень."
 
 #: ../comps-el6.xml.in.h:221
-#, fuzzy
 msgid "Software for the input of international text."
-msgstr "Пакети для вводу тексту різними мовами."
+msgstr "Програми для введення тексту різними мовами."
 
 #: ../comps-el6.xml.in.h:222
 msgid "Software to centralize your infrastructure's backups."
 msgstr ""
+"Програми для централізованого керування вашою інфраструктурою резервних "
+"копій."
 
 #: ../comps-el6.xml.in.h:227
 msgid "Storage Availability Tools"
@@ -2373,11 +2373,11 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:228
 msgid "Support for the TeX document formatting system."
-msgstr ""
+msgstr "Підтримка системи форматування документів TeX."
 
 #: ../comps-el6.xml.in.h:229
 msgid "Support for using smart card authentication."
-msgstr ""
+msgstr "Підтримка використання смарт-карток для розпізнавання."
 
 #: ../comps-el6.xml.in.h:230
 msgid "Supported libraries for the Enterprise Linux Desktop Platform."
@@ -2401,7 +2401,7 @@ msgstr "Підтримка TeX"
 
 #: ../comps-el6.xml.in.h:241
 msgid "Technical Writing"
-msgstr ""
+msgstr "Технічне документування"
 
 #: ../comps-el6.xml.in.h:245
 msgid "The GNU Emacs extensible, customizable, text editor."
@@ -2463,15 +2463,16 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:259
 msgid "Tools for offline virtual image management."
-msgstr ""
+msgstr "Програми для керування образами віртуальних систем."
 
 #: ../comps-el6.xml.in.h:260
 msgid "Tools for printing to a local printer or a remote print server."
 msgstr ""
+"Програми для друку на локальному принтері або на віддаленому сервері друку."
 
 #: ../comps-el6.xml.in.h:261
 msgid "Tools for writing technical documentation."
-msgstr ""
+msgstr "Інструменти для створення технічної документації"
 
 #: ../comps-el6.xml.in.h:264
 msgid "TurboGears application framework"
@@ -2490,14 +2491,12 @@ msgid "Various low-level hardware management frameworks."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:277
-#, fuzzy
 msgid "Virtualization Client"
-msgstr "Віртуалізація"
+msgstr "Клієнт віртуалізації"
 
 #: ../comps-el6.xml.in.h:278
-#, fuzzy
 msgid "Virtualization Platform"
-msgstr "Віртуалізація"
+msgstr "Платформа віртуалізації"
 
 #: ../comps-el6.xml.in.h:279
 #, fuzzy
