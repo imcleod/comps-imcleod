@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: pl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-10-06 10:53+0000\n"
-"PO-Revision-Date: 2010-10-07 01:44+0200\n"
+"PO-Revision-Date: 2010-10-07 17:21+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <trans-pl@lists.fedoraproject.org>\n"
 "MIME-Version: 1.0\n"
@@ -2019,12 +2019,16 @@ msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
 msgstr ""
+"Nagłówki i biblioteki programistyczne do tworzenia aplikacji uruchamianych "
+"na platformie pulpitu systemu Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:66
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
 msgstr ""
+"Nagłówki i biblioteki programistyczne do tworzenia aplikacji uruchamianych "
+"na platformie serwera systemu Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:67
 msgid "Development tools"
@@ -2060,11 +2064,11 @@ msgstr "Emacs"
 
 #: ../comps-el6.xml.in.h:80
 msgid "Email, chat, and video conferencing software."
-msgstr ""
+msgstr "Oprogramowanie do obsługi poczty, komunikatorów i wideokonferencji."
 
 #: ../comps-el6.xml.in.h:81
 msgid "Enables the system to attach to network storage."
-msgstr ""
+msgstr "Umożliwia systemowi podłączanie sieciowych pamięci masowych."
 
 #: ../comps-el6.xml.in.h:82
 msgid "End-user applications."
@@ -2072,7 +2076,7 @@ msgstr "Aplikacje dla użytkowników końcowych."
 
 #: ../comps-el6.xml.in.h:87
 msgid "FCoE Storage Client"
-msgstr ""
+msgstr "Klient pamięci masowej FCoE"
 
 #: ../comps-el6.xml.in.h:88
 msgid "FTP server"
@@ -2080,11 +2084,11 @@ msgstr "Serwer FTP"
 
 #: ../comps-el6.xml.in.h:91
 msgid "Fiber Channel over Ethernet support"
-msgstr ""
+msgstr "Obsługa Fiber Channel przez Ethernet"
 
 #: ../comps-el6.xml.in.h:95
 msgid "Firefox web browser"
-msgstr ""
+msgstr "Przeglądarka WWW Firefox"
 
 #: ../comps-el6.xml.in.h:97
 msgid "Fonts for rendering text in a variety of languages and scripts."
@@ -2092,11 +2096,11 @@ msgstr "Czcionki do wyświetlania tekstu w różnych językach i pismach."
 
 #: ../comps-el6.xml.in.h:101
 msgid "GUI tools for debugging applications and performance."
-msgstr ""
+msgstr "Narzędzia graficzne do debugowania aplikacji i mierzenia wydajności."
 
 #: ../comps-el6.xml.in.h:104
 msgid "General Purpose Desktop"
-msgstr ""
+msgstr "Środowisko graficzne ogólnego przeznaczenia"
 
 #: ../comps-el6.xml.in.h:107
 msgid "Graphical Administration Tools"
@@ -2106,6 +2110,8 @@ msgstr "Graficzne narzędzia administracyjne"
 msgid ""
 "Graphical system administration tools for managaing many aspects of a system."
 msgstr ""
+"Graficzne narzędzia administracji systemem do zarządzania wieloma aspektami "
+"systemu."
 
 #: ../comps-el6.xml.in.h:109
 msgid "Graphics Creation Tools"
@@ -2113,7 +2119,7 @@ msgstr "Narzędzia tworzenia grafiki"
 
 #: ../comps-el6.xml.in.h:112
 msgid "Hardware monitoring utilities"
-msgstr ""
+msgstr "Narzędzia do monitorowania sprzętu"
 
 #: ../comps-el6.xml.in.h:119
 msgid "Infiniband Support"
@@ -2125,35 +2131,35 @@ msgstr "Aplikacje internetowe"
 
 #: ../comps-el6.xml.in.h:123
 msgid "Internet Browser"
-msgstr ""
+msgstr "Przeglądarka internetowa"
 
 #: ../comps-el6.xml.in.h:128
 msgid "Java Platform"
-msgstr ""
+msgstr "Platforma Java"
 
 #: ../comps-el6.xml.in.h:129
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
-msgstr ""
+msgstr "Obsługa Javy dla platform serwera i pulpitu systemu Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:130
 msgid "KDE Desktop"
-msgstr ""
+msgstr "Środowisko KDE"
 
 #: ../comps-el6.xml.in.h:141
 msgid "Large Systems Performance"
-msgstr ""
+msgstr "Wydajność dużych systemów"
 
 #: ../comps-el6.xml.in.h:144
 msgid "Legacy UNIX compatibility"
-msgstr ""
+msgstr "Zgodność z przestarzałym systemem UNIX"
 
 #: ../comps-el6.xml.in.h:145
 msgid "Legacy X Window System compatibility"
-msgstr ""
+msgstr "Zgodność z przestarzałym systemem X Window"
 
 #: ../comps-el6.xml.in.h:151
 msgid "Mainframe Access"
-msgstr ""
+msgstr "Dostęp do systemów typu mainframe"
 
 #: ../comps-el6.xml.in.h:160
 msgid "Messaging Client Support"
@@ -2195,11 +2201,11 @@ msgstr "Serwer sieciowej pamięci masowej"
 
 #: ../comps-el6.xml.in.h:172
 msgid "Network file system client"
-msgstr ""
+msgstr "Klient sieciowego systemu plików"
 
 #: ../comps-el6.xml.in.h:173
 msgid "Networking Tools"
-msgstr ""
+msgstr "Narzędzia sieciowe"
 
 #: ../comps-el6.xml.in.h:177
 msgid "Office Suite and Productivity"
@@ -2211,11 +2217,11 @@ msgstr "Obsługa PHP"
 
 #: ../comps-el6.xml.in.h:180
 msgid "PHP web application framework."
-msgstr ""
+msgstr "Struktura aplikacji WWW PHP."
 
 #: ../comps-el6.xml.in.h:181
 msgid "Performance Tools"
-msgstr ""
+msgstr "Narzędzia wydajności"
 
 #: ../comps-el6.xml.in.h:182
 msgid "Performance support tools for large systems"
@@ -2273,7 +2279,7 @@ msgstr "Obsługa SNMP"
 
 #: ../comps-el6.xml.in.h:201
 msgid "SNMP management agent."
-msgstr ""
+msgstr "Agent zarządzania SNMP."
 
 #: ../comps-el6.xml.in.h:204
 msgid "Scientific support"
@@ -2289,7 +2295,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:208
 msgid "Server Platform"
-msgstr ""
+msgstr "Platforma serwera"
 
 #: ../comps-el6.xml.in.h:209
 msgid "Server Platform Development"
@@ -2355,7 +2361,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:235
 msgid "System Management"
-msgstr ""
+msgstr "Zarządzanie systemem"
 
 #: ../comps-el6.xml.in.h:236
 msgid "System administration tools"
@@ -2407,7 +2413,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:255
 msgid "Tools for connecting via PPP or ISDN."
-msgstr ""
+msgstr "Narzędzia do łączenia przez PPP lub ISDN."
 
 #: ../comps-el6.xml.in.h:256
 msgid ""
@@ -2440,7 +2446,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:264
 msgid "TurboGears application framework"
-msgstr ""
+msgstr "Struktura aplikacji TurboGears"
 
 #: ../comps-el6.xml.in.h:265
 msgid "TurboGears web application framework."
@@ -2448,7 +2454,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:271
 msgid "Utilities useful in system administration."
-msgstr ""
+msgstr "Narzędzia przydatne w administracji systemem."
 
 #: ../comps-el6.xml.in.h:273
 msgid "Various low-level hardware management frameworks."
@@ -2480,7 +2486,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:286
 msgid "Workstation Policy"
-msgstr ""
+msgstr "Polityka stacji roboczej"
 
 #: ../comps-el6.xml.in.h:288
 msgid "X Window System Support."
@@ -2488,7 +2494,7 @@ msgstr "Obsługa systemu X Window."
 
 #: ../comps-el6.xml.in.h:291
 msgid "iSCSI Storage Client"
-msgstr ""
+msgstr "Klient pamięci masowej iSCSI"
 
 #: ../comps-el6.xml.in.h:292
 msgid "iSCSI client support"
@@ -2496,4 +2502,4 @@ msgstr "Obsługa klienta iSCSI"
 
 #: ../comps-el6.xml.in.h:293
 msgid "iSCSI, iSER, and iSNS network storage server."
-msgstr ""
+msgstr "Serwer sieciowych pamięci masowych iSCSI, iSER oraz iSNS."
