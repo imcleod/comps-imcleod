@@ -2141,9 +2141,9 @@
       <packagereq type="optional">mgopen-cosmetica-fonts</packagereq>
       <packagereq type="optional">mgopen-modata-fonts</packagereq>
       <packagereq type="optional">mgopen-moderna-fonts</packagereq>
-      <packagereq type="optional">moyogo-molengo-fonts</packagereq>
       <packagereq type="optional">motoya-lcedar-fonts</packagereq>
       <packagereq type="optional">motoya-lmaru-fonts</packagereq>
+      <packagereq type="optional">moyogo-molengo-fonts</packagereq>
       <packagereq type="optional">mscore-fonts</packagereq>
       <packagereq type="optional">msimonson-anonymouspro-fonts</packagereq>
       <packagereq type="optional">myanmar3-unicode-fonts</packagereq>
@@ -4606,6 +4606,34 @@
     </packagelist>
   </group>
   <group>
+    <id>milkymist</id>
+    <_name>Milkymist</_name>
+    <_description>Toolchain for Milkymist hardware engineers.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">avr-binutils</packagereq>
+      <packagereq type="default">avr-gcc</packagereq>
+      <packagereq type="default">avr-gcc-c++</packagereq>
+      <packagereq type="default">avr-gdb</packagereq>
+      <packagereq type="default">avr-libc</packagereq>
+      <packagereq type="default">avr-libc-docs</packagereq>
+      <packagereq type="default">gplcver</packagereq>
+      <packagereq type="default">gtkwave</packagereq>
+      <packagereq type="default">iverilog</packagereq>
+      <packagereq type="default">lemon</packagereq>
+      <packagereq type="default">libftdi-devel</packagereq>
+      <packagereq type="default">llvm</packagereq>
+      <packagereq type="default">openocd</packagereq>
+      <packagereq type="default">qemu</packagereq>
+      <packagereq type="default">re2c</packagereq>
+      <packagereq type="default">srecord</packagereq>
+      <packagereq type="default">tftp</packagereq>
+      <packagereq type="default">tftp-server</packagereq>
+      <packagereq type="default">vim-common</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>mingw32</id>
     <_name>MinGW cross-compiler</_name>
     <_description>
@@ -4650,34 +4678,6 @@
       <packagereq type="optional">mingw32-zlib</packagereq>
     </packagelist>
   </group>
-  <group>
-    <id>milkymist</id>
-    <_name>Milkymist</_name>
-    <_description>Toolchain for Milkymist hardware engineers.</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-	  <packagereq type="default">avr-libc</packagereq>
-	  <packagereq type="default">avr-libc-docs</packagereq>
-	  <packagereq type="default">avr-binutils</packagereq>
-	  <packagereq type="default">avr-gcc</packagereq>
-	  <packagereq type="default">avr-gcc-c++</packagereq>
-	  <packagereq type="default">avr-gdb</packagereq>
-	  <packagereq type="default">gplcver</packagereq>
-	  <packagereq type="default">gtkwave</packagereq>
-      <packagereq type="default">iverilog</packagereq>
-	  <packagereq type="default">lemon</packagereq>
-	  <packagereq type="default">libftdi-devel</packagereq>
-	  <packagereq type="default">llvm</packagereq>
-      <packagereq type="default">openocd</packagereq>
-      <packagereq type="default">qemu</packagereq>
-      <packagereq type="default">re2c</packagereq>
-	  <packagereq type="default">srecord</packagereq>
-	  <packagereq type="default">tftp</packagereq>
-	  <packagereq type="default">tftp-server</packagereq>
-	  <packagereq type="default">vim-common</packagereq>
-    </packagelist>
-  </group>  
   <group>
     <id>mongolian-support</id>
     <_name>Mongolian Support</_name>
