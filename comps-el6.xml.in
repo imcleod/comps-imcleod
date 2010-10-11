@@ -514,7 +514,7 @@
       <packagereq type="default">gputils</packagereq>
       <packagereq type="default">gresistor</packagereq>
       <packagereq type="default">gsim85</packagereq>
-	  <packagereq type="default">gtkterm</packagereq>
+      <packagereq type="default">gtkterm</packagereq>
       <packagereq type="default">gtkwave</packagereq>
       <packagereq type="default">hct</packagereq>
       <packagereq type="default">irsim</packagereq>
@@ -1248,27 +1248,27 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-	  <packagereq type="default">avr-libc</packagereq>
-	  <packagereq type="default">avr-libc-docs</packagereq>
-	  <packagereq type="default">avr-binutils</packagereq>
-	  <packagereq type="default">avr-gcc</packagereq>
-	  <packagereq type="default">avr-gcc-c++</packagereq>
-	  <packagereq type="default">avr-gdb</packagereq>
-	  <packagereq type="default">gplcver</packagereq>
-	  <packagereq type="default">gtkwave</packagereq>
+      <packagereq type="default">avr-binutils</packagereq>
+      <packagereq type="default">avr-gcc</packagereq>
+      <packagereq type="default">avr-gcc-c++</packagereq>
+      <packagereq type="default">avr-gdb</packagereq>
+      <packagereq type="default">avr-libc</packagereq>
+      <packagereq type="default">avr-libc-docs</packagereq>
+      <packagereq type="default">gplcver</packagereq>
+      <packagereq type="default">gtkwave</packagereq>
       <packagereq type="default">iverilog</packagereq>
-	  <packagereq type="default">lemon</packagereq>
-	  <packagereq type="default">libftdi-devel</packagereq>
-	  <packagereq type="default">llvm</packagereq>
+      <packagereq type="default">lemon</packagereq>
+      <packagereq type="default">libftdi-devel</packagereq>
+      <packagereq type="default">llvm</packagereq>
       <packagereq type="default">openocd</packagereq>
       <packagereq type="default">qemu</packagereq>
       <packagereq type="default">re2c</packagereq>
-	  <packagereq type="default">srecord</packagereq>
-	  <packagereq type="default">tftp</packagereq>
-	  <packagereq type="default">tftp-server</packagereq>
-	  <packagereq type="default">vim-common</packagereq>
-    <packagelist/>
-  </group>  
+      <packagereq type="default">srecord</packagereq>
+      <packagereq type="default">tftp</packagereq>
+      <packagereq type="default">tftp-server</packagereq>
+      <packagereq type="default">vim-common</packagereq>
+    </packagelist>
+  </group>
   <group>
     <id>mongolian-support</id>
     <_name>Mongolian Support</_name>
