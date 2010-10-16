@@ -6367,6 +6367,8 @@
       <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="default">virt-manager</packagereq>
       <packagereq type="default">virt-viewer</packagereq>
+      <packagereq type="optional">guestfish</packagereq>
+      <packagereq type="optional">libguestfs-tools</packagereq>
       <packagereq type="optional">virt-top</packagereq>
     </packagelist>
   </group>
