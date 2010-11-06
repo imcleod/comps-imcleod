@@ -4595,13 +4595,13 @@
       <packagereq type="mandatory">meego-panel-datetime</packagereq>
       <packagereq type="mandatory">meego-panel-devices</packagereq>
       <packagereq type="mandatory">meego-panel-myzone</packagereq>
+      <packagereq type="mandatory">meego-panel-pasteboard</packagereq>
       <packagereq type="mandatory">meego-panel-zones</packagereq>
       <packagereq type="mandatory">moblin-app-installer</packagereq>
       <packagereq type="mandatory">moblin-cursor-theme</packagereq>
       <packagereq type="mandatory">moblin-gtk-engine</packagereq>
       <packagereq type="mandatory">moblin-icon-theme</packagereq>
       <packagereq type="mandatory">moblin-panel-media</packagereq>
-      <packagereq type="mandatory">moblin-panel-pasteboard</packagereq>
       <packagereq type="mandatory">moblin-panel-people</packagereq>
       <packagereq type="mandatory">moblin-panel-status</packagereq>
       <packagereq type="mandatory">moblin-sound-theme</packagereq>
@@ -4609,8 +4609,8 @@
       <packagereq type="mandatory">uxlaunch</packagereq>
       <packagereq type="default">evolution</packagereq>
       <packagereq type="default">gnome-bluetooth-moblin</packagereq>
-      <packagereq type="default">hornsey</packagereq>
       <packagereq type="default">syncevolution-meego</packagereq>
+      <packagereq type="optional">hornsey</packagereq>
     </packagelist>
   </group>
   <group>
