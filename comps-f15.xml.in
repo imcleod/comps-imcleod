@@ -4621,12 +4621,17 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">autoconf</packagereq>
+      <packagereq type="default">automake</packagereq>
       <packagereq type="default">avr-binutils</packagereq>
       <packagereq type="default">avr-gcc</packagereq>
       <packagereq type="default">avr-gcc-c++</packagereq>
       <packagereq type="default">avr-gdb</packagereq>
       <packagereq type="default">avr-libc</packagereq>
       <packagereq type="default">avr-libc-docs</packagereq>
+	  <packagereq type="default">clang</packagereq>
+	  <packagereq type="default">gcc</packagereq>
+	  <packagereq type="default">gd-devel</packagereq>
       <packagereq type="default">gplcver</packagereq>
       <packagereq type="default">gtkwave</packagereq>
       <packagereq type="default">iverilog</packagereq>
