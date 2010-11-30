@@ -4596,26 +4596,26 @@
     <packagelist>
       <packagereq type="mandatory">bisho</packagereq>
       <packagereq type="mandatory">bognor-regis</packagereq>
+      <packagereq type="mandatory">meego-cursor-theme</packagereq>
       <packagereq type="mandatory">meego-panel-applications</packagereq>
       <packagereq type="mandatory">meego-panel-datetime</packagereq>
       <packagereq type="mandatory">meego-panel-devices</packagereq>
       <packagereq type="mandatory">meego-panel-myzone</packagereq>
       <packagereq type="mandatory">meego-panel-pasteboard</packagereq>
+      <packagereq type="mandatory">meego-panel-people</packagereq>
       <packagereq type="mandatory">meego-panel-zones</packagereq>
+      <packagereq type="mandatory">meego-sound-theme</packagereq>
       <packagereq type="mandatory">moblin-app-installer</packagereq>
-      <packagereq type="mandatory">moblin-cursor-theme</packagereq>
       <packagereq type="mandatory">moblin-gtk-engine</packagereq>
       <packagereq type="mandatory">moblin-icon-theme</packagereq>
-      <packagereq type="mandatory">moblin-panel-media</packagereq>
-      <packagereq type="mandatory">moblin-panel-people</packagereq>
       <packagereq type="mandatory">moblin-panel-status</packagereq>
-      <packagereq type="mandatory">moblin-sound-theme</packagereq>
       <packagereq type="mandatory">network-manager-netbook</packagereq>
       <packagereq type="mandatory">uxlaunch</packagereq>
       <packagereq type="default">evolution</packagereq>
       <packagereq type="default">gnome-bluetooth-moblin</packagereq>
-      <packagereq type="default">syncevolution-meego</packagereq>
       <packagereq type="optional">hornsey</packagereq>
+      <packagereq type="optional">moblin-panel-media</packagereq>
+      <packagereq type="optional">syncevolution-meego</packagereq>
     </packagelist>
   </group>
   <group>
