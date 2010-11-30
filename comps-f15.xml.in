@@ -4612,7 +4612,7 @@
       <packagereq type="mandatory">network-manager-netbook</packagereq>
       <packagereq type="mandatory">uxlaunch</packagereq>
       <packagereq type="default">evolution</packagereq>
-      <packagereq type="default">gnome-bluetooth-moblin</packagereq>
+      <packagereq type="optional">gnome-bluetooth-moblin</packagereq>
       <packagereq type="optional">hornsey</packagereq>
       <packagereq type="optional">moblin-panel-media</packagereq>
       <packagereq type="optional">syncevolution-meego</packagereq>
