@@ -3419,6 +3419,8 @@
       <packagereq type="conditional" requires="gtk2">ibus-gtk2</packagereq>
       <packagereq type="conditional" requires="gtk3">ibus-gtk3</packagereq>
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
+      <packagereq type="conditional" requires="control-center">im-chooser-gnome3</packagereq>
+      <packagereq type="conditional" requires="lxde-common">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="xfce-utils">imsettings-xfce</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
       <packagereq type="default">ibus-chewing</packagereq>
@@ -4388,6 +4390,7 @@
       <packagereq type="mandatory">lxsession</packagereq>
       <packagereq type="mandatory">openbox</packagereq>
       <packagereq type="mandatory">pcmanfm</packagereq>
+      <packagereq type="conditional" requires="imsettings">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="default">gpicview</packagereq>
       <packagereq type="default">leafpad</packagereq>
