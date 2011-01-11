@@ -2707,6 +2707,7 @@
       <packagereq type="mandatory">yelp</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-gtk2</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-gtk3</packagereq>
+      <packagereq type="conditional" requires="imsettings">imsettings-gnome</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
       <packagereq type="default">at-spi2-atk</packagereq>
@@ -3424,6 +3425,8 @@
       <packagereq type="conditional" requires="gtk3">ibus-gtk3</packagereq>
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
       <packagereq type="conditional" requires="control-center">im-chooser-gnome3</packagereq>
+      <packagereq type="conditional" requires="gnome-session">imsettings-gnome</packagereq>
+      <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
       <packagereq type="conditional" requires="lxde-common">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="xfce-utils">imsettings-xfce</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
@@ -3866,6 +3869,7 @@
       <packagereq type="mandatory">kdelibs</packagereq>
       <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-good</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-qt</packagereq>
+      <packagereq type="conditional" requires="imsettings">imsettings-qt</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-qt</packagereq>
       <packagereq type="default">amarok</packagereq>
