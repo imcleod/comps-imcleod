@@ -679,35 +679,64 @@
     </packagelist>
   </group>
   <group>
-    <id>chinese-support</id>
-    <_name>Chinese Support</_name>
+    <id>simplified-chinese-support</id>
+    <_name>Simplified Chinese Support</_name>
     <_description/>
     <default>false</default>
     <uservisible>true</uservisible>
-    <langonly>zh</langonly>
+    <langonly>zh-cn</langonly>
     <packagelist>
       <packagereq type="conditional" requires="autocorr-en">autocorr-zh</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh</packagereq>
-      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh_TW</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin-db-open-phrase</packagereq>
       <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese</packagereq>
-      <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese-Big5</packagereq>
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Chinese</packagereq>
-      <packagereq type="conditional" requires="kdelibs">kde-l10n-Chinese-Traditional</packagereq>
       <packagereq type="conditional" requires="koffice-core">koffice-langpack-zh_CN</packagereq>
-      <packagereq type="conditional" requires="koffice-core">koffice-langpack-zh_TW</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-zh_cn</packagereq>
-      <packagereq type="conditional" requires="moodle">moodle-zh_tw</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-langpack-zh-Hans</packagereq>
+      <packagereq type="default">wqy-zenhei-fonts</packagereq>
+      <packagereq type="optional">fcitx</packagereq>
+      <packagereq type="optional">ibus-sunpinyin</packagereq>
+      <packagereq type="optional">ibus-table-extraphrase</packagereq>
+      <packagereq type="optional">ibus-table-xingma</packagereq>
+      <packagereq type="optional">ibus-table-yinma</packagereq>
+      <packagereq type="optional">lv</packagereq>
+      <packagereq type="optional">m17n-db-extras</packagereq>
+      <packagereq type="optional">scim-fcitx</packagereq>
+      <packagereq type="optional">scim-pinyin</packagereq>
+      <packagereq type="optional">scim-python-pinyin</packagereq>
+      <packagereq type="optional">scim-python-xingma-erbi</packagereq>
+      <packagereq type="optional">scim-python-xingma-wubi</packagereq>
+      <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
+      <packagereq type="optional">scim-tables-chinese</packagereq>
+      <packagereq type="optional">scim-tables-chinese-extra</packagereq>
+      <packagereq type="optional">stardict-dic-zh_CN</packagereq>
+      <packagereq type="optional">wqy-bitmap-fonts</packagereq>
+      <packagereq type="optional">wqy-microhei-fonts</packagereq>
+      <packagereq type="optional">wqy-unibit-fonts</packagereq>
+      <packagereq type="optional">xsunpinyin</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>traditional-chinese-support</id>
+    <_name>Traditional Chinese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <langonly>zh-tw</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="autocorr-en">autocorr-zh</packagereq>
+      <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh_TW</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
+      <packagereq type="conditional" requires="kdelibs3">kde-i18n-Chinese-Big5</packagereq>
+      <packagereq type="conditional" requires="kdelibs">kde-l10n-Chinese-Traditional</packagereq>
+      <packagereq type="conditional" requires="koffice-core">koffice-langpack-zh_TW</packagereq>
+      <packagereq type="conditional" requires="moodle">moodle-zh_tw</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-langpack-zh-Hant</packagereq>
       <packagereq type="default">cjkuni-ukai-fonts</packagereq>
       <packagereq type="default">cjkuni-uming-fonts</packagereq>
-      <packagereq type="default">wqy-zenhei-fonts</packagereq>
-      <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">gcin</packagereq>
-      <packagereq type="optional">ibus-sunpinyin</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
       <packagereq type="optional">ibus-table-cangjie</packagereq>
       <packagereq type="optional">ibus-table-extraphrase</packagereq>
@@ -716,22 +745,11 @@
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-extras</packagereq>
       <packagereq type="optional">scim-array</packagereq>
-      <packagereq type="optional">scim-fcitx</packagereq>
-      <packagereq type="optional">scim-pinyin</packagereq>
-      <packagereq type="optional">scim-python-pinyin</packagereq>
       <packagereq type="optional">scim-python-xingma-cangjie</packagereq>
-      <packagereq type="optional">scim-python-xingma-erbi</packagereq>
-      <packagereq type="optional">scim-python-xingma-wubi</packagereq>
-      <packagereq type="optional">scim-python-xingma-zhengma</packagereq>
       <packagereq type="optional">scim-tables-chinese</packagereq>
       <packagereq type="optional">scim-tables-chinese-extra</packagereq>
-      <packagereq type="optional">stardict-dic-zh_CN</packagereq>
       <packagereq type="optional">stardict-dic-zh_TW</packagereq>
       <packagereq type="optional">taipeifonts</packagereq>
-      <packagereq type="optional">wqy-bitmap-fonts</packagereq>
-      <packagereq type="optional">wqy-microhei-fonts</packagereq>
-      <packagereq type="optional">wqy-unibit-fonts</packagereq>
-      <packagereq type="optional">xsunpinyin</packagereq>
     </packagelist>
   </group>
   <group>
