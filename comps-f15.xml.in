@@ -2714,15 +2714,12 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">control-center</packagereq>
-      <packagereq type="mandatory">fedora-gnome-theme</packagereq>
+      <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gnome-panel</packagereq>
       <packagereq type="mandatory">gnome-session</packagereq>
-      <packagereq type="mandatory">gnome-terminal</packagereq>
-      <packagereq type="mandatory">gvfs-fuse</packagereq>
+      <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
-      <packagereq type="mandatory">nautilus</packagereq>
-      <packagereq type="mandatory">polkit-gnome</packagereq>
-      <packagereq type="mandatory">yelp</packagereq>
+      <packagereq type="mandatory">notification-daemon</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-gtk2</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-gtk3</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-gnome</packagereq>
@@ -2734,7 +2731,6 @@
       <packagereq type="default">brasero-nautilus</packagereq>
       <packagereq type="default">caribou</packagereq>
       <packagereq type="default">cheese</packagereq>
-      <packagereq type="default">dconf</packagereq>
       <packagereq type="default">deja-dup</packagereq>
       <packagereq type="default">eog</packagereq>
       <packagereq type="default">evince</packagereq>
@@ -2759,8 +2755,8 @@
       <packagereq type="default">gnome-pilot</packagereq>
       <packagereq type="default">gnome-power-manager</packagereq>
       <packagereq type="default">gnome-screensaver</packagereq>
-      <packagereq type="default">gnome-shell</packagereq>
       <packagereq type="default">gnome-system-monitor</packagereq>
+      <packagereq type="default">gnome-terminal</packagereq>
       <packagereq type="default">gnome-themes-standard</packagereq>
       <packagereq type="default">gnome-user-docs</packagereq>
       <packagereq type="default">gnome-user-share</packagereq>
@@ -2769,6 +2765,7 @@
       <packagereq type="default">gok</packagereq>
       <packagereq type="default">gucharmap</packagereq>
       <packagereq type="default">gvfs-archive</packagereq>
+      <packagereq type="default">gvfs-fuse</packagereq>
       <packagereq type="default">gvfs-gphoto2</packagereq>
       <packagereq type="default">gvfs-smb</packagereq>
       <packagereq type="default">libcanberra-gtk2</packagereq>
@@ -2776,16 +2773,17 @@
       <packagereq type="default">librsvg2</packagereq>
       <packagereq type="default">libsane-hpaio</packagereq>
       <packagereq type="default">mousetweaks</packagereq>
+      <packagereq type="default">nautilus</packagereq>
       <packagereq type="default">nautilus-sendto</packagereq>
       <packagereq type="default">NetworkManager-gnome</packagereq>
       <packagereq type="default">NetworkManager-openconnect</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
       <packagereq type="default">NetworkManager-pptp</packagereq>
       <packagereq type="default">NetworkManager-vpnc</packagereq>
-      <packagereq type="default">notification-daemon</packagereq>
       <packagereq type="default">orca</packagereq>
       <packagereq type="default">PackageKit-command-not-found</packagereq>
       <packagereq type="default">PackageKit-gtk-module</packagereq>
+      <packagereq type="default">polkit-gnome</packagereq>
       <packagereq type="default">pulseaudio-module-gconf</packagereq>
       <packagereq type="default">pulseaudio-module-x11</packagereq>
       <packagereq type="default">pyatspi</packagereq>
@@ -2795,6 +2793,7 @@
       <packagereq type="default">vinagre</packagereq>
       <packagereq type="default">vino</packagereq>
       <packagereq type="default">xdg-user-dirs-gtk</packagereq>
+      <packagereq type="default">yelp</packagereq>
       <packagereq type="default">zenity</packagereq>
       <packagereq type="optional">alacarte</packagereq>
       <packagereq type="optional">avant-window-navigator</packagereq>
