@@ -3886,6 +3886,7 @@
       <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-good</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-qt</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-qt</packagereq>
+      <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-qt</packagereq>
       <packagereq type="default">amarok</packagereq>
