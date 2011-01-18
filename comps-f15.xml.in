@@ -683,7 +683,7 @@
     <_description/>
     <default>false</default>
     <uservisible>true</uservisible>
-    <langonly>zh-cn</langonly>
+    <langonly>zh_CN</langonly>
     <packagelist>
       <packagereq type="conditional" requires="autocorr-en">autocorr-zh</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh</packagereq>
@@ -723,7 +723,7 @@
     <_description/>
     <default>false</default>
     <uservisible>true</uservisible>
-    <langonly>zh-tw</langonly>
+    <langonly>zh_TW</langonly>
     <packagelist>
       <packagereq type="conditional" requires="autocorr-en">autocorr-zh</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-zh_TW</packagereq>
