@@ -6713,13 +6713,16 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="mandatory">libxfce4ui-devel</packagereq>
       <packagereq type="mandatory">libxfce4util-devel</packagereq>
-      <packagereq type="mandatory">libxfcegui4-devel</packagereq>
       <packagereq type="default">exo-devel</packagereq>
-      <packagereq type="default">libxfce4menu-devel</packagereq>
+      <packagereq type="default">garcon-devel</packagereq>
+      <packagereq type="default">libxfcegui4-devel</packagereq>
       <packagereq type="default">Thunar-devel</packagereq>
+      <packagereq type="default">tumbler-devel</packagereq>
       <packagereq type="default">xfce4-panel-devel</packagereq>
       <packagereq type="default">xfconf-devel</packagereq>
+      <packagereq type="optional">libxfce4menu-devel</packagereq>
       <packagereq type="optional">xfce4-dev-tools</packagereq>
       <packagereq type="optional">xfce4-session-devel</packagereq>
     </packagelist>
