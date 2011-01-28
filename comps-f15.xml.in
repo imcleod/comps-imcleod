@@ -379,15 +379,11 @@
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
-      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">authconfig-gtk</packagereq>
       <packagereq type="default">desktop-backgrounds-basic</packagereq>
       <packagereq type="default">firstboot</packagereq>
       <packagereq type="default">glx-utils</packagereq>
-      <packagereq type="default">gnome-packagekit</packagereq>
-      <packagereq type="default">krb5-auth-dialog</packagereq>
       <packagereq type="default">mesa-dri-drivers</packagereq>
-      <packagereq type="default">openssh-askpass</packagereq>
       <packagereq type="default">plymouth-system-theme</packagereq>
       <packagereq type="default">policycoreutils-gui</packagereq>
       <packagereq type="default">policycoreutils-restorecond</packagereq>
@@ -405,6 +401,7 @@
       <packagereq type="optional">devilspie</packagereq>
       <packagereq type="optional">gdm</packagereq>
       <packagereq type="optional">gxmessage</packagereq>
+      <packagereq type="optional">krb5-auth-dialog</packagereq>
       <packagereq type="optional">lilyterm</packagereq>
       <packagereq type="optional">roxterm</packagereq>
       <packagereq type="optional">rss-glx</packagereq>
@@ -2725,6 +2722,7 @@
       <packagereq type="conditional" requires="imsettings">imsettings-gnome</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">at-spi2-atk</packagereq>
       <packagereq type="default">at-spi2-core</packagereq>
       <packagereq type="default">avahi</packagereq>
@@ -2739,6 +2737,7 @@
       <packagereq type="default">file-roller-nautilus</packagereq>
       <packagereq type="default">gcalctool</packagereq>
       <packagereq type="default">gdm</packagereq>
+      <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">gdm-plugin-fingerprint</packagereq>
       <packagereq type="default">gdm-user-switch-applet</packagereq>
       <packagereq type="default">gedit</packagereq>
@@ -3887,6 +3886,7 @@
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-qt</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">amarok</packagereq>
       <packagereq type="default">bluedevil</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
@@ -4416,6 +4416,8 @@
       <packagereq type="mandatory">pcmanfm</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
+      <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">gpicview</packagereq>
       <packagereq type="default">leafpad</packagereq>
       <packagereq type="default">lxappearance</packagereq>
@@ -4428,6 +4430,7 @@
       <packagereq type="default">lxtask</packagereq>
       <packagereq type="default">lxterminal</packagereq>
       <packagereq type="default">obconf</packagereq>
+      <packagereq type="default">openssh-askpass</packagereq>
       <packagereq type="default">xarchiver</packagereq>
       <packagereq type="default">xscreensaver-base</packagereq>
       <packagereq type="optional">lxde-icon-theme</packagereq>
@@ -6707,8 +6710,11 @@
       <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-xfce</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">gdm</packagereq>
+      <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">mousepad</packagereq>
+      <packagereq type="default">openssh-askpass</packagereq>
       <packagereq type="default">orage</packagereq>
       <packagereq type="default">polkit-gnome</packagereq>
       <packagereq type="default">Terminal</packagereq>
