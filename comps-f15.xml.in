@@ -9,14 +9,13 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">authconfig-gtk</packagereq>
+      <packagereq type="default">gnome-disk-utility</packagereq>
       <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">system-config-boot</packagereq>
       <packagereq type="default">system-config-date</packagereq>
       <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">system-config-keyboard</packagereq>
       <packagereq type="default">system-config-language</packagereq>
-      <packagereq type="default">system-config-lvm</packagereq>
-      <packagereq type="default">system-config-network</packagereq>
       <packagereq type="default">system-config-users</packagereq>
       <packagereq type="optional">cacti</packagereq>
       <packagereq type="optional">dbench</packagereq>
@@ -34,6 +33,8 @@
       <packagereq type="optional">pessulus</packagereq>
       <packagereq type="optional">qtparted</packagereq>
       <packagereq type="optional">system-config-kickstart</packagereq>
+      <packagereq type="optional">system-config-lvm</packagereq>
+      <packagereq type="optional">system-config-network</packagereq>
       <packagereq type="optional">system-config-rootpassword</packagereq>
       <packagereq type="optional">yumex</packagereq>
     </packagelist>
@@ -385,16 +386,9 @@
       <packagereq type="default">glx-utils</packagereq>
       <packagereq type="default">mesa-dri-drivers</packagereq>
       <packagereq type="default">plymouth-system-theme</packagereq>
-      <packagereq type="default">policycoreutils-gui</packagereq>
-      <packagereq type="default">policycoreutils-restorecond</packagereq>
       <packagereq type="default">policycoreutils-sandbox</packagereq>
       <packagereq type="default">setroubleshoot</packagereq>
       <packagereq type="default">smolt-firstboot</packagereq>
-      <packagereq type="default">system-config-date</packagereq>
-      <packagereq type="default">system-config-firewall</packagereq>
-      <packagereq type="default">system-config-network</packagereq>
-      <packagereq type="default">system-config-services</packagereq>
-      <packagereq type="default">system-config-users</packagereq>
       <packagereq type="default">xorg-x11-utils</packagereq>
       <packagereq type="optional">alltray</packagereq>
       <packagereq type="optional">aterm</packagereq>
@@ -2787,6 +2781,7 @@
       <packagereq type="default">seahorse</packagereq>
       <packagereq type="default">shotwell</packagereq>
       <packagereq type="default">simple-scan</packagereq>
+      <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">vinagre</packagereq>
       <packagereq type="default">vino</packagereq>
       <packagereq type="default">xdg-user-dirs-gtk</packagereq>
@@ -3925,6 +3920,9 @@
       <packagereq type="default">qtcurve-gtk2</packagereq>
       <packagereq type="default">qtcurve-kde4</packagereq>
       <packagereq type="default">scribus</packagereq>
+      <packagereq type="default">system-config-date</packagereq>
+      <packagereq type="default">system-config-firewall</packagereq>
+      <packagereq type="default">system-config-services</packagereq>
       <packagereq type="default">system-config-printer-kde</packagereq>
       <!-- See http://bugzilla.redhat.com/537609 on why xorg-x11-apps is here -->
       <packagereq type="default">xorg-x11-apps</packagereq>
@@ -4431,6 +4429,10 @@
       <packagereq type="default">lxterminal</packagereq>
       <packagereq type="default">obconf</packagereq>
       <packagereq type="default">openssh-askpass</packagereq>
+      <packagereq type="default">system-config-date</packagereq>
+      <packagereq type="default">system-config-firewall</packagereq>
+      <packagereq type="default">system-config-services</packagereq>
+      <packagereq type="default">system-config-users</packagereq>
       <packagereq type="default">xarchiver</packagereq>
       <packagereq type="default">xscreensaver-base</packagereq>
       <packagereq type="optional">lxde-icon-theme</packagereq>
@@ -6717,6 +6719,10 @@
       <packagereq type="default">openssh-askpass</packagereq>
       <packagereq type="default">orage</packagereq>
       <packagereq type="default">polkit-gnome</packagereq>
+      <packagereq type="default">system-config-date</packagereq>
+      <packagereq type="default">system-config-firewall</packagereq>
+      <packagereq type="default">system-config-services</packagereq>
+      <packagereq type="default">system-config-users</packagereq>
       <packagereq type="default">Terminal</packagereq>
       <packagereq type="default">thunar-archive-plugin</packagereq>
       <packagereq type="default">thunar-volman</packagereq>
