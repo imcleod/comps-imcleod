@@ -5255,6 +5255,73 @@
     </packagelist>
   </group>
   <group>
+    <id>robotics-suite</id>
+    <_name>Robotics</_name>
+    <description>Suite of packages for robotics development</description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">arduino</packagereq>
+      <packagereq type="default">eclipse-cdt</packagereq>
+      <packagereq type="default">eclipse-egit</packagereq>
+      <packagereq type="default">eclipse-subclipse</packagereq>
+      <packagereq type="default">fawkes</packagereq>
+      <packagereq type="default">fawkes-core</packagereq>
+      <packagereq type="default">fawkes-doc</packagereq>
+      <packagereq type="default">fawkes-firevision</packagereq>
+      <packagereq type="default">fawkes-firevision-tools</packagereq>
+      <packagereq type="default">fawkes-guis</packagereq>
+      <packagereq type="default">fawkes-lua</packagereq>
+      <packagereq type="default">fawkes-plugin-bblogger</packagereq>
+      <packagereq type="default">fawkes-plugin-bbsync</packagereq>
+      <packagereq type="default">fawkes-plugin-flite</packagereq>
+      <packagereq type="default">fawkes-plugin-joystick</packagereq>
+      <packagereq type="default">fawkes-plugin-katana</packagereq>
+      <packagereq type="default">fawkes-plugin-laser</packagereq>
+      <packagereq type="default">fawkes-plugin-laserht</packagereq>
+      <packagereq type="default">fawkes-plugin-luaagent</packagereq>
+      <packagereq type="default">fawkes-plugin-pantilt</packagereq>
+      <packagereq type="default">fawkes-plugin-player</packagereq>
+      <packagereq type="default">fawkes-plugin-refboxcomm</packagereq>
+      <packagereq type="default">fawkes-plugin-skiller</packagereq>
+      <packagereq type="default">fawkes-plugin-ttmainloop</packagereq>
+      <packagereq type="default">fawkes-plugin-webview</packagereq>
+      <packagereq type="default">fawkes-plugin-worldmodel</packagereq>
+      <packagereq type="default">fawkes-plugin-xmlrpc</packagereq>
+      <packagereq type="default">gearbox</packagereq>
+      <packagereq type="default">libphidget</packagereq>
+      <packagereq type="default">libkni</packagereq>
+      <packagereq type="default">mrpt</packagereq>
+      <packagereq type="default">opencv</packagereq>
+      <packagereq type="default">player</packagereq>default
+      <packagereq type="default">player-python</packagereq>
+      <packagereq type="default">player-ruby</packagereq>
+      <packagereq type="default">player-examples</packagereq>
+      <packagereq type="default">player-doc</packagereq>
+      <packagereq type="default">rcssbase</packagereq>
+      <packagereq type="default">rcssmonitor</packagereq>
+      <packagereq type="default">rcsslogplayer</packagereq>
+      <packagereq type="default">rcssserver</packagereq>
+      <packagereq type="default">rcssserver-gui</packagereq>
+      <packagereq type="default">rcssserver3d</packagereq>
+      <packagereq type="default">rcssserver3d-doc</packagereq>
+      <packagereq type="default">stage</packagereq>
+      <packagereq type="default">stage-playerplugin</packagereq>
+      <packagereq type="default">urg</packagereq>
+      <packagereq type="optional">fawkes-devel</packagereq>
+      <packagereq type="optional">gearbox-devel</packagereq>
+      <packagereq type="optional">libphidget-devel</packagereq>
+      <packagereq type="optional">mrpt-devel</packagereq>
+      <packagereq type="optional">player-devel</packagereq>
+      <packagereq type="optional">stage-devel</packagereq>
+      <packagereq type="optional">rcssbase-devel</packagereq>
+      <packagereq type="optional">rcsslogplayer-devel</packagereq>
+      <packagereq type="optional">rcssserver-devel</packagereq>
+      <packagereq type="optional">rcssserver3d-devel</packagereq>
+      <packagereq type="optional">urg-devel</packagereq>
+    </packagelist>
+  </group>	
+  <group>
     <id>romanian-support</id>
     <_name>Romanian Support</_name>
     <_description/>
@@ -6960,6 +7027,7 @@
       <groupid>ocaml</groupid>
       <groupid>libreoffice-development</groupid>
       <groupid>perl</groupid>
+      <groupid>robotics-suite</groupid>
       <groupid>ruby</groupid>
       <groupid>web-development</groupid>
       <groupid>x-software-development</groupid>
