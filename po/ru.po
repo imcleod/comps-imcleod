@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: ru\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 02:42+0000\n"
-"PO-Revision-Date: 2011-02-01 23:01+0300\n"
+"PO-Revision-Date: 2011-02-02 22:31+0300\n"
 "Last-Translator: Igor Gorbounov <igor.gorbounov@gmail.com>\n"
 "Language-Team: Russian <trans-ru@lists.fedoraproject.org>\n"
 "MIME-Version: 1.0\n"
@@ -2344,29 +2344,24 @@ msgid "Shuswap Support"
 msgstr "Поддержка языка шусвоп"
 
 #: ../comps-f15.xml.in.h:207
-#, fuzzy
 msgid "Simplified Chinese Support"
-msgstr "Поддержка китайского языка"
+msgstr "Поддержка китайского языка, упрощенное письмо"
 
 #: ../comps-f15.xml.in.h:244
-#, fuzzy
 msgid "These packages are helpful when developing LibreOffice extensions or macros."
-msgstr "Эти пакеты позволяют разрабатывать макросы и дополнительные модули OpenOffice.org."
+msgstr "Эти пакеты позволяют разрабатывать макросы и дополнительные модули LibreOffice."
 
 #: ../comps-f15.xml.in.h:272
-#, fuzzy
 msgid "Tigrinya Support"
-msgstr "Поддержка языка ория"
+msgstr "Поддержка языка тигринья"
 
 #: ../comps-f15.xml.in.h:276
-#, fuzzy
 msgid "Traditional Chinese Support"
-msgstr "Поддержка китайского языка"
+msgstr "Поддержка китайского языка -  традиционное письмо"
 
 #: ../comps-f15.xml.in.h:301
-#, fuzzy
 msgid "Yiddish Support"
-msgstr "Поддержка финского языка"
+msgstr "Поддержка языка идиш"
 
 #: ../comps-el4.xml.in.h:3
 #: ../comps-el5.xml.in.h:3
@@ -2469,9 +2464,8 @@ msgid "AMQP messaging client for systems management."
 msgstr "AMQP-клиент сообщений для управления системами."
 
 #: ../comps-el6.xml.in.h:10
-#, fuzzy
 msgid "Additional Development"
-msgstr "Разработка на Java"
+msgstr "Дополнительная разработка"
 
 #: ../comps-el6.xml.in.h:11
 msgid "Additional development headers and libraries for developing applications"
@@ -2482,18 +2476,16 @@ msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
 msgstr "Дает возможность системе работать в качестве сервера электронной почты SMTP и/или IMAP."
 
 #: ../comps-el6.xml.in.h:15
-#, fuzzy
 msgid "Allows the system to act as a print server."
-msgstr "Установите эти пакеты, чтобы получить возможность печатать файлы или использовать систему как сервер печати."
+msgstr "Дает возможность использовать систему как сервер печати."
 
 #: ../comps-el6.xml.in.h:16
 msgid "Allows the system to act as a web server, and run Perl and Python web applications."
 msgstr "Дает возможность системе работать в качестве веб-сервера и запускать веб-приложения на Perl и Python."
 
 #: ../comps-el6.xml.in.h:17
-#, fuzzy
 msgid "Allows the system to act as an FTP server."
-msgstr "Установите эти пакеты, чтобы получить возможность печатать файлы или использовать систему как сервер печати."
+msgstr "Дает возможность использовать систему как сервер FTP."
 
 #: ../comps-el6.xml.in.h:18
 msgid "Allows the system to host Java servlets."
@@ -2504,9 +2496,8 @@ msgid "Backup Client"
 msgstr "Клиент резервного копирования"
 
 #: ../comps-el6.xml.in.h:26
-#, fuzzy
 msgid "Backup Server"
-msgstr "Сервер электронной почты"
+msgstr "Резервный сервер"
 
 #: ../comps-el6.xml.in.h:28
 msgid "Basic legacy X Window System compatibility"
@@ -2517,9 +2508,8 @@ msgid "CIFS file server"
 msgstr "Файловый сервер CIFS"
 
 #: ../comps-el6.xml.in.h:39
-#, fuzzy
 msgid "Chhattisgarhi Support"
-msgstr "Поддержка хорватского языка"
+msgstr "Поддержка языка чхаттисгархи"
 
 #: ../comps-el6.xml.in.h:42
 msgid "Client tools for connecting to a backup server and doing backups."
@@ -2562,39 +2552,32 @@ msgid "Debugging Tools"
 msgstr "Средства отладки"
 
 #: ../comps-el6.xml.in.h:57
-#, fuzzy
 msgid "Design and Simulation tools for hardware engineers."
-msgstr "Инструменты разработки и симуляции для инженеров оборудования"
+msgstr "Средства проектирования и моделирования для разработчиков аппаратуры"
 
 #: ../comps-el6.xml.in.h:58
-#, fuzzy
 msgid "Desktop"
 msgstr "Настольная система"
 
 #: ../comps-el6.xml.in.h:59
-#, fuzzy
 msgid "Desktop Debugging and Performance Tools"
 msgstr "Средства отладки и настройки производительности для настольных систем"
 
 #: ../comps-el6.xml.in.h:60
-#, fuzzy
 msgid "Desktop Platform"
 msgstr "Настольная система"
 
 #: ../comps-el6.xml.in.h:61
-#, fuzzy
 msgid "Desktop Platform Development"
-msgstr "Программирование Perl"
+msgstr "Разработка для настольных систем"
 
 #: ../comps-el6.xml.in.h:62
-#, fuzzy
 msgid "Desktops"
 msgstr "Настольные системы"
 
 #: ../comps-el6.xml.in.h:63
-#, fuzzy
 msgid "Desktops and thin clients."
-msgstr "Графические среды"
+msgstr "Настольные системы и тонкие клиенты."
 
 #: ../comps-el6.xml.in.h:65
 msgid "Development headers and libraries for developing applications to run on the Enterprise Linux Desktop Platform."
@@ -2605,44 +2588,36 @@ msgid "Development headers and libraries for developing applications to run on t
 msgstr "Заголовочные файлы и библиотеки для разработки приложений, работающих на Enterprise Linux Server Platform."
 
 #: ../comps-el6.xml.in.h:67
-#, fuzzy
 msgid "Development tools"
-msgstr "Средства программирования"
+msgstr "Средства разработки"
 
 #: ../comps-el6.xml.in.h:68
-#, fuzzy
 msgid "Development tools and libraries."
-msgstr "Библиотеки разработки"
+msgstr "Средства и библиотеки разработки."
 
 #: ../comps-el6.xml.in.h:70
-#, fuzzy
 msgid "Directory Client"
-msgstr "Сервер службы каталогов"
+msgstr "Клиент службы каталогов"
 
 #: ../comps-el6.xml.in.h:73
-#, fuzzy
 msgid "E-mail server"
 msgstr "Сервер электронной почты"
 
 #: ../comps-el6.xml.in.h:74
-#, fuzzy
 msgid "Eclipse"
-msgstr "Fedora Eclipse"
+msgstr "Eclipse"
 
 #: ../comps-el6.xml.in.h:75
-#, fuzzy
 msgid "Eclipse-based Integrated Development Environment."
-msgstr "Интегрированные окружения разработки на основе Eclipse."
+msgstr "Интегрированная среда разработки на основе Eclipse."
 
 #: ../comps-el6.xml.in.h:77
-#, fuzzy
 msgid "Educational software for learning."
-msgstr "Развивающие программы для обучения"
+msgstr "Развивающие программы для обучения."
 
 #: ../comps-el6.xml.in.h:79
-#, fuzzy
 msgid "Emacs"
-msgstr "XEmacs"
+msgstr "Emacs"
 
 #: ../comps-el6.xml.in.h:80
 msgid "Email, chat, and video conferencing software."
@@ -2653,16 +2628,14 @@ msgid "Enables the system to attach to network storage."
 msgstr "Дает возможность подключать систему к сетевому хранилищу."
 
 #: ../comps-el6.xml.in.h:82
-#, fuzzy
 msgid "End-user applications."
-msgstr "Приложения"
+msgstr "Приложения для конечных пользователей."
 
 #: ../comps-el6.xml.in.h:87
 msgid "FCoE Storage Client"
 msgstr "Клиент системы хранения с использованием FCoE"
 
 #: ../comps-el6.xml.in.h:88
-#, fuzzy
 msgid "FTP server"
 msgstr "Сервер FTP"
 
@@ -2675,9 +2648,8 @@ msgid "Firefox web browser"
 msgstr "Веб-браузер Firefox"
 
 #: ../comps-el6.xml.in.h:97
-#, fuzzy
 msgid "Fonts for rendering text in a variety of languages and scripts."
-msgstr "Пакеты со шрифтами для отображения текста на рабочем столе."
+msgstr "Шрифты для отображения текста в различных языках и наборах символов."
 
 #: ../comps-el6.xml.in.h:101
 msgid "GUI tools for debugging applications and performance."
@@ -2688,32 +2660,28 @@ msgid "General Purpose Desktop"
 msgstr "Рабочий стол общего назначения"
 
 #: ../comps-el6.xml.in.h:107
-#, fuzzy
 msgid "Graphical Administration Tools"
-msgstr "Средства администрирования"
+msgstr "Графические средства администрирования"
 
 #: ../comps-el6.xml.in.h:108
 msgid "Graphical system administration tools for managing many aspects of a system."
 msgstr "Графические средства системного администрирования для управления многими аспектами системы."
 
 #: ../comps-el6.xml.in.h:109
-#, fuzzy
 msgid "Graphics Creation Tools"
-msgstr "Средства администрирования"
+msgstr "Инструменты для создания графики"
 
 #: ../comps-el6.xml.in.h:112
 msgid "Hardware monitoring utilities"
 msgstr "Утилиты для наблюдения за оборудованием"
 
 #: ../comps-el6.xml.in.h:119
-#, fuzzy
 msgid "Infiniband Support"
-msgstr "Поддержка индонезийского языка"
+msgstr "Поддержка Infiniband"
 
 #: ../comps-el6.xml.in.h:122
-#, fuzzy
 msgid "Internet Applications"
-msgstr "Приложения"
+msgstr "Интернет-приложения"
 
 #: ../comps-el6.xml.in.h:123
 msgid "Internet Browser"
@@ -2748,14 +2716,12 @@ msgid "Mainframe Access"
 msgstr "Доступ к мэйнфрейму"
 
 #: ../comps-el6.xml.in.h:160
-#, fuzzy
 msgid "Messaging Client Support"
-msgstr "Поддержка монгольского языка"
+msgstr "Поддержка клиента обмена сообщениями"
 
 #: ../comps-el6.xml.in.h:161
-#, fuzzy
 msgid "Messaging Server Support"
-msgstr "Поддержка ассамского языка"
+msgstr "Поддержка сервера обмена сообщениями"
 
 #: ../comps-el6.xml.in.h:163
 #, fuzzy
@@ -2806,9 +2772,8 @@ msgid "Office Suite and Productivity"
 msgstr "Офисные приложения"
 
 #: ../comps-el6.xml.in.h:180
-#, fuzzy
 msgid "PHP Support"
-msgstr "Поддержка языка хинди"
+msgstr "Поддержка PHP"
 
 #: ../comps-el6.xml.in.h:181
 msgid "PHP web application framework."
@@ -2823,9 +2788,8 @@ msgid "Performance support tools for large systems"
 msgstr "Средства обеспечения производительности для крупных систем"
 
 #: ../comps-el6.xml.in.h:184
-#, fuzzy
 msgid "Perl Support"
-msgstr "Поддержка персидского языка"
+msgstr "Поддержка Perl"
 
 #: ../comps-el6.xml.in.h:185
 msgid "Perl interfaces to common libraries and functionality."
@@ -2840,24 +2804,20 @@ msgid "Policy packages for the Workstation variant."
 msgstr "Пакеты политик для рабочих станций."
 
 #: ../comps-el6.xml.in.h:191
-#, fuzzy
 msgid "PostgreSQL Database client"
-msgstr "База данных PostgreSQL"
+msgstr "Клиент базы данных PostgreSQL"
 
 #: ../comps-el6.xml.in.h:192
-#, fuzzy
 msgid "PostgreSQL Database server"
-msgstr "База данных PostgreSQL"
+msgstr "Сервер базы данных PostgreSQL"
 
 #: ../comps-el6.xml.in.h:193
-#, fuzzy
 msgid "Print Server"
-msgstr "Сервер FTP"
+msgstr "Сервер печати"
 
 #: ../comps-el6.xml.in.h:194
-#, fuzzy
 msgid "Printing client"
-msgstr "Поддержка печати"
+msgstr "Клиент печати"
 
 #: ../comps-el6.xml.in.h:195
 msgid "Provides an environment for hosting virtualized guests."
@@ -2971,14 +2931,12 @@ msgid "System Management"
 msgstr "Управление системой"
 
 #: ../comps-el6.xml.in.h:236
-#, fuzzy
 msgid "System administration tools"
-msgstr "Средства администрирования"
+msgstr "Средства системного администрирования"
 
 #: ../comps-el6.xml.in.h:240
-#, fuzzy
 msgid "TeX support"
-msgstr "Поддержка языка тетум"
+msgstr "Поддержка TeX"
 
 #: ../comps-el6.xml.in.h:241
 msgid "Technical Writing"
@@ -3077,9 +3035,8 @@ msgid "Virtualization Platform"
 msgstr "Виртуализация"
 
 #: ../comps-el6.xml.in.h:280
-#, fuzzy
 msgid "Virtualization Tools"
-msgstr "Виртуализация"
+msgstr "Средства виртуализации"
 
 #: ../comps-el6.xml.in.h:281
 msgid "WBEM interface for Enterprise Linux."
@@ -3099,18 +3056,16 @@ msgid "Workstation Policy"
 msgstr "Политика для рабочих станций"
 
 #: ../comps-el6.xml.in.h:289
-#, fuzzy
 msgid "X Window System Support."
-msgstr "Система X Window"
+msgstr "Поддержка системы X Window"
 
 #: ../comps-el6.xml.in.h:292
 msgid "iSCSI Storage Client"
 msgstr "Клиент системы хранения с протоколом iSCSI"
 
 #: ../comps-el6.xml.in.h:293
-#, fuzzy
 msgid "iSCSI client support"
-msgstr "Поддержка итальянского языка"
+msgstr "Поддержка клиента iSCSI"
 
 #: ../comps-el6.xml.in.h:294
 msgid "iSCSI, iSER, and iSNS network storage server."
