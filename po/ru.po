@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: ru\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-14 02:42+0000\n"
-"PO-Revision-Date: 2011-02-02 22:31+0300\n"
+"PO-Revision-Date: 2011-02-03 22:14+0300\n"
 "Last-Translator: Igor Gorbounov <igor.gorbounov@gmail.com>\n"
 "Language-Team: Russian <trans-ru@lists.fedoraproject.org>\n"
 "MIME-Version: 1.0\n"
@@ -2724,39 +2724,32 @@ msgid "Messaging Server Support"
 msgstr "Поддержка сервера обмена сообщениями"
 
 #: ../comps-el6.xml.in.h:163
-#, fuzzy
 msgid "Minimal set of compatibility programs for migration from or working with legacy X Window System environments."
 msgstr "Минимальный набор программ совместимости для миграции с систем с устаревшей X Window System или для работы в них."
 
 #: ../comps-el6.xml.in.h:165
-#, fuzzy
 msgid "MySQL Database client"
-msgstr "База данных MySQL"
+msgstr "Клиент базы данных MySQL"
 
 #: ../comps-el6.xml.in.h:166
-#, fuzzy
 msgid "MySQL Database server"
-msgstr "База данных MySQL"
+msgstr "Сервер базы данных MySQL"
 
 #: ../comps-el6.xml.in.h:168
-#, fuzzy
 msgid "NFS file server"
-msgstr "Сервер DNS"
+msgstr "Файловый сервер NFS"
 
 #: ../comps-el6.xml.in.h:169
-#, fuzzy
 msgid "NFS file server."
-msgstr "Сервер DNS"
+msgstr "Файловый сервер NFS."
 
 #: ../comps-el6.xml.in.h:171
-#, fuzzy
 msgid "Network Infrastructure Server"
-msgstr "Сетевые серверы"
+msgstr "Сервер сетевой инфраструктуры"
 
 #: ../comps-el6.xml.in.h:172
-#, fuzzy
 msgid "Network Storage Server"
-msgstr "Сетевые серверы"
+msgstr "Сервер сетевого хранения"
 
 #: ../comps-el6.xml.in.h:173
 msgid "Network file system client"
@@ -2767,7 +2760,6 @@ msgid "Networking Tools"
 msgstr "Сетевые средства"
 
 #: ../comps-el6.xml.in.h:178
-#, fuzzy
 msgid "Office Suite and Productivity"
 msgstr "Офисные приложения"
 
@@ -2828,28 +2820,24 @@ msgid "Provides an interface for accessing and controlling virtualized guests an
 msgstr "Предоставляет интерфейс для получения доступа и управления виртуализированными гостевыми системами и контейнерами."
 
 #: ../comps-el6.xml.in.h:198
-#, fuzzy
 msgid "Remote Desktop Clients"
-msgstr "Графические среды"
+msgstr "Клиенты удаленного рабочего стола"
 
 #: ../comps-el6.xml.in.h:201
-#, fuzzy
 msgid "SNMP Support"
-msgstr "Поддержка мэнского языка"
+msgstr "Поддержка SNMP"
 
 #: ../comps-el6.xml.in.h:202
 msgid "SNMP management agent."
 msgstr "Агент управления SNMP."
 
 #: ../comps-el6.xml.in.h:205
-#, fuzzy
 msgid "Scientific support"
-msgstr "Поддержка языка синдхи"
+msgstr "Поддержка научных приложений"
 
 #: ../comps-el6.xml.in.h:206
-#, fuzzy
 msgid "Security Tools"
-msgstr "Системные средства"
+msgstr "Инструменты безопасности"
 
 #: ../comps-el6.xml.in.h:207
 msgid "Security tools for integrity and trust verification."
@@ -2860,33 +2848,28 @@ msgid "Server Platform"
 msgstr "Серверная платформа"
 
 #: ../comps-el6.xml.in.h:210
-#, fuzzy
 msgid "Server Platform Development"
-msgstr "Программирование Perl"
+msgstr "Разработка для серверной платформы"
 
 #: ../comps-el6.xml.in.h:211
-#, fuzzy
 msgid "Server Policy"
-msgstr "Серверы"
+msgstr "Политика сервера"
 
 #: ../comps-el6.xml.in.h:212
 msgid "Servers for core network protocols and services, such as DHCP or DNS."
 msgstr "Серверы для основных сетевых протоколов и служб, например, DHCP или DNS."
 
 #: ../comps-el6.xml.in.h:213
-#, fuzzy
 msgid "Share files between Linux and Microsoft Windows systems."
-msgstr "Эта группа пакетов делает возможным доступ к файлам между системами Linux и MS Windows(tm)."
+msgstr "Обмен файлами между системами с Linux и Microsoft Windows."
 
 #: ../comps-el6.xml.in.h:218
-#, fuzzy
 msgid "Smallest possible installation."
-msgstr "Минимально возможная установка"
+msgstr "Минимально возможная установка."
 
 #: ../comps-el6.xml.in.h:219
-#, fuzzy
 msgid "Smart card support"
-msgstr "Поддержка оборудования"
+msgstr "Поддержка смарт-карт"
 
 #: ../comps-el6.xml.in.h:220
 msgid "Software designed for supporting clustering and grid connectivity using RDMA-based InfiniBand and iWARP fabrics."
@@ -2897,16 +2880,14 @@ msgid "Software for creation and manipulation of still images."
 msgstr "Программное обеспечение для создания и неподвижных изображений и работы с ними."
 
 #: ../comps-el6.xml.in.h:222
-#, fuzzy
 msgid "Software for the input of international text."
-msgstr "Пакеты для ввода текста на различных языках."
+msgstr "Программное обеспечение для ввода текста на различных языках."
 
 #: ../comps-el6.xml.in.h:223
 msgid "Software to centralize your infrastructure's backups."
 msgstr "Программное обеспечение для централизации резервного копирования вашей инфраструктуры."
 
 #: ../comps-el6.xml.in.h:227
-#, fuzzy
 msgid "Storage Availability Tools"
 msgstr "Инструменты для работы с устройствами хранения"
 
@@ -2967,9 +2948,8 @@ msgid "The basic installation of Enterprise Linux."
 msgstr "Базовая установка Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:253
-#, fuzzy
 msgid "Tools and utilities needed by a Fedora Packager."
-msgstr "Инструменты и утилиты, необходимые упаковщику Fedora"
+msgstr "Инструменты и утилиты, необходимые упаковщику Fedora."
 
 #: ../comps-el6.xml.in.h:254
 msgid "Tools for accessing mainframe computing resources."
@@ -2992,9 +2972,8 @@ msgid "Tools for diagnosing system and application-level performance problems."
 msgstr "Инструменты для диагностирования системных и прикладных проблем с производительностью."
 
 #: ../comps-el6.xml.in.h:259
-#, fuzzy
 msgid "Tools for mathematical and scientific computations, and parallel computing."
-msgstr "Эта группа содержит приложения для математических и прочих научных вычислений и преобразований."
+msgstr "Инструменты для математических и научных вычислений, а также для параллельных вычислений."
 
 #: ../comps-el6.xml.in.h:260
 msgid "Tools for offline virtual image management."
@@ -3025,14 +3004,12 @@ msgid "Various low-level hardware management frameworks."
 msgstr "Различные системы низкоуровневого управления аппаратным обеспечением."
 
 #: ../comps-el6.xml.in.h:278
-#, fuzzy
 msgid "Virtualization Client"
-msgstr "Виртуализация"
+msgstr "Клиент виртуализации"
 
 #: ../comps-el6.xml.in.h:279
-#, fuzzy
 msgid "Virtualization Platform"
-msgstr "Виртуализация"
+msgstr "Платформа виртуализации"
 
 #: ../comps-el6.xml.in.h:280
 msgid "Virtualization Tools"
@@ -3043,9 +3020,8 @@ msgid "WBEM interface for Enterprise Linux."
 msgstr "WBEM-интерфейс для Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:284
-#, fuzzy
 msgid "Web Servlet Engine"
-msgstr "Веб-сервер"
+msgstr "Движок веб-сервлетов"
 
 #: ../comps-el6.xml.in.h:285
 msgid "Web-Based Enterprise Management"
