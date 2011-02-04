@@ -913,11 +913,11 @@
            down to a small set of specific drivers in the future. -->
       <packagereq type="mandatory">control-center</packagereq>
       <packagereq type="mandatory">desktop-backgrounds-basic</packagereq>
-      <packagereq type="mandatory">gnome-themes-standard</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
       <packagereq type="mandatory">gnome-panel</packagereq>
       <packagereq type="mandatory">gnome-session</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
+      <packagereq type="mandatory">gnome-themes-standard</packagereq>
       <packagereq type="mandatory">gvfs-fuse</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">nautilus</packagereq>
@@ -2717,6 +2717,7 @@
       <packagereq type="mandatory">gnome-panel</packagereq>
       <packagereq type="mandatory">gnome-session</packagereq>
       <packagereq type="mandatory">gnome-shell</packagereq>
+      <packagereq type="mandatory">gnome-themes-standard</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">notification-daemon</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-gtk2</packagereq>
@@ -2755,7 +2756,6 @@
       <packagereq type="default">gnome-screensaver</packagereq>
       <packagereq type="default">gnome-system-monitor</packagereq>
       <packagereq type="default">gnome-terminal</packagereq>
-      <packagereq type="default">gnome-themes-standard</packagereq>
       <packagereq type="default">gnome-user-docs</packagereq>
       <packagereq type="default">gnome-user-share</packagereq>
       <packagereq type="default">gnome-utils</packagereq>
