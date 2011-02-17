@@ -574,7 +574,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">bash</packagereq>
-      <packagereq type="mandatory">biosdevname</packagereq>
       <packagereq type="mandatory">bzip2</packagereq>
       <packagereq type="mandatory">coreutils</packagereq>
       <packagereq type="mandatory">cpio</packagereq>
@@ -802,6 +801,7 @@
       <packagereq type="mandatory">authconfig</packagereq>
       <packagereq type="mandatory">basesystem</packagereq>
       <packagereq type="mandatory">bash</packagereq>
+      <packagereq type="mandatory">biosdevname</packagereq>
       <packagereq type="mandatory">coreutils</packagereq>
       <packagereq type="mandatory">cpio</packagereq>
       <packagereq type="mandatory">cronie</packagereq>
