@@ -2635,8 +2635,7 @@
       <packagereq type="mandatory">gnome-themes-standard</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">notification-daemon</packagereq>
-      <packagereq type="conditional" requires="ibus">ibus-gtk2</packagereq>
-      <packagereq type="conditional" requires="ibus">ibus-gtk3</packagereq>
+      <packagereq type="default">ibus</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-gnome</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
