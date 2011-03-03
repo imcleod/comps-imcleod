@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.net
+
+[comps.default]
+file_filter = po/<lang>.po
+source_file = po/comps.pot
+source_lang = en
+
