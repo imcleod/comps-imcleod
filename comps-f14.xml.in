@@ -3874,6 +3874,8 @@
       <!-- See http://bugzilla.redhat.com/537609 on why xorg-x11-apps is here -->
       <packagereq type="default">xorg-x11-apps</packagereq>
       <packagereq type="default">xsettings-kde</packagereq>
+      <!-- kdm failsafe session (#491251) -->
+      <packagereq type="default">xterm</packagereq>
       <packagereq type="optional">basket</packagereq>
       <packagereq type="optional">bespin</packagereq>
       <packagereq type="optional">bibletime</packagereq>
