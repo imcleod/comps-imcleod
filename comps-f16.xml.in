@@ -7106,6 +7106,27 @@
       <groupid>books</groupid>
     </grouplist>
   </category>
+  <langpacks>
+    <match name="aspell" install="aspell-%s"/>
+    <match name="autocorr-en" install="autocorr-%s"/>
+    <match name="childsplay" install="childsplay-alphabet_sounds_%s"/>
+    <match name="eclipse-platform" install="eclipse-nls-%s"/>
+    <match name="gcompris" install="gcompris-sound-%s"/>
+    <match name="hunspell" install="hunspell-%s"/>
+    <match name="hyphen" install="hyphen-%s"/>
+    <match name="kdelibs3" install="kde-i18n-%s"/>
+    <match name="kdelibs" install="kde-l10n-%s"/>
+    <match name="koffice-core" install="koffice-langpack-%s"/>
+    <match name="LabPlot-doc" install="LabPlot-doc-%s"/>
+    <match name="libreoffice-core" install="libreoffice-langpack-%s"/>
+    <match name="man-pages" install="man-pages-%s"/>
+    <match name="moodle" install="moodle-%s"/>
+    <match name="mythes" install="mythes-%s"/>
+    <match name="nqc-doc" install="nqc-doc-%s"/>
+    <match name="openoffice.org-core" install="openoffice.org-langpack-%s"/>
+    <match name="tesseract" install="tesseract-langpack-%s"/>
+    <match name="tkgate" install="tkgate-%s"/>
+  </langpacks>
   <blacklist>
     <package name="dev"/>
     <package name="system-config-mouse"/>
