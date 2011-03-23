@@ -3095,6 +3095,7 @@
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-langpack-gu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-gu</packagereq>
       <packagereq type="default">iok</packagereq>
+      <packagereq type="default">gujarati-typing-booster</packagereq>
       <packagereq type="default">samyak-gujarati-fonts</packagereq>
     </packagelist>
   </group>
@@ -3265,6 +3266,7 @@
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-langpack-hi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
       <packagereq type="default">iok</packagereq>
+      <packagereq type="default">hindi-typing-booster</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
       <packagereq type="default">sarai-fonts</packagereq>
     </packagelist>
@@ -3412,6 +3414,9 @@
       <packagereq type="optional">uim-skk</packagereq>
       <packagereq type="optional">WritRecogn</packagereq>
       <packagereq type="optional">xsunpinyin</packagereq>
+      <packagereq type="optional">marathi-typing-booster</packagereq>
+      <packagereq type="optional">gujarati-typing-booster</packagereq>
+      <packagereq type="optional">hindi-typing-booster</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4523,6 +4528,7 @@
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-langpack-mr</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-mr</packagereq>
       <packagereq type="default">iok</packagereq>
+      <packagereq type="default">marathi-typing-booster</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
   </group>
