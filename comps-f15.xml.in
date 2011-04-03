@@ -958,6 +958,57 @@
     </packagelist>
   </group>
   <group>
+    <id>design-suite</id>
+    <_name>Design Suite</_name>
+    <_description>These packages are targeted towards professional designers, like the Fedora Design Team.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">agave</packagereq>
+      <packagereq type="default">blender</packagereq>
+      <packagereq type="default">cinepaint</packagereq>
+      <packagereq type="default">dia</packagereq>
+      <packagereq type="default">entangle</packagereq>
+      <packagereq type="default">fontforge</packagereq>
+      <packagereq type="default">fontmatrix</packagereq>
+      <packagereq type="default">gimp</packagereq>
+      <packagereq type="default">gimp-data-extras</packagereq>
+      <packagereq type="default">gimp-help</packagereq>
+      <packagereq type="default">gimp-help-browser</packagereq>
+      <packagereq type="default">gimpfx-foundry</packagereq>
+      <packagereq type="default">GREYCstoration</packagereq>
+      <packagereq type="default">ImageMagick</packagereq>
+      <packagereq type="default">inkscape</packagereq>
+      <packagereq type="default">mypaint</packagereq>
+      <packagereq type="default">nautilus-image-converter</packagereq>
+      <packagereq type="default">optipng</packagereq>
+      <packagereq type="default">pinta</packagereq>
+      <packagereq type="default">postr</packagereq>
+      <packagereq type="default">rawtherapee</packagereq>
+      <packagereq type="default">scribus</packagereq>
+      <packagereq type="default">shotwell</packagereq>
+      <packagereq type="default">synfig</packagereq>
+      <packagereq type="default">ufraw</packagereq>
+      <packagereq type="optional">alchemy</packagereq>
+      <packagereq type="optional">audacity</packagereq>
+      <packagereq type="optional">digikam</packagereq>
+      <packagereq type="optional">fyre</packagereq>
+      <packagereq type="optional">jokosher</packagereq>
+      <packagereq type="optional">gthumb</packagereq>
+      <packagereq type="optional">hugin</packagereq>
+      <packagereq type="optional">istanbul</packagereq>
+      <packagereq type="optional">koffice-krita</packagereq>
+      <packagereq type="optional">openclipart</packagereq>
+      <packagereq type="optional">openoffice.org-impress</packagereq>
+      <packagereq type="optional">openoffice.org-extendedPDF</packagereq>
+      <packagereq type="optional">pitivi</packagereq>
+      <packagereq type="optional">pngcrush</packagereq>
+      <packagereq type="optional">tracker-search-tool</packagereq>
+      <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
+      <packagereq type="conditional" requires="digikam">kipi-plugins</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>development-libs</id>
     <_name>Development Libraries</_name>
     <_description>The packages in this group are core libraries needed to develop applications.</_description>
@@ -6996,6 +7047,7 @@
     <display_order>20</display_order>
     <grouplist>
       <groupid>authoring-and-publishing</groupid>
+      <groupid>design-suite</groupid>
       <groupid>editors</groupid>
       <groupid>education</groupid>
       <groupid>engineering-and-scientific</groupid>
