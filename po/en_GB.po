@@ -1,38 +1,36 @@
-# English translations for comps package.
-# Copyright (C) 2005 Red Hat
-# This file is distributed under the same license as the comps package
-# Bruce Cowan <bruce@bcowan.me.uk>, 2010.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: comps-po\n"
+"Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-13 18:17+0000\n"
-"PO-Revision-Date: 2010-08-20 14:10+0100\n"
-"Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
-"Language-Team: British English <en@li.org>\n"
-"Language: en_GB\n"
+"POT-Creation-Date: 2011-04-15 11:11-0400\n"
+"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"Last-Translator: notting <notting@redhat.com>\n"
+"Language-Team: English (United Kingdom) <None>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.6.1\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: ../comps-f12.xml.in.h:1 ../comps-f13.xml.in.h:1 ../comps-f14.xml.in.h:1
-#: ../comps-f15.xml.in.h:1
+#: ../comps-f13.xml.in.h:1 ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1
 msgid "A lightweight desktop environment that works well on low end machines."
-msgstr "A lightweight desktop environment that works well on low end machines."
-
-#: ../comps-f12.xml.in.h:2 ../comps-f13.xml.in.h:2 ../comps-f14.xml.in.h:3
-#: ../comps-f15.xml.in.h:3
-msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
 msgstr ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A lightweight desktop environment that works well on low end machines."
 
-#: ../comps-f12.xml.in.h:3 ../comps-f13.xml.in.h:3 ../comps-f14.xml.in.h:7
-#: ../comps-f15.xml.in.h:7
+#: ../comps-f13.xml.in.h:2 ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3
+msgid ""
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
+msgstr ""
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
+
+#: ../comps-f13.xml.in.h:3 ../comps-f14.xml.in.h:7 ../comps-f15.xml.in.h:7
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
@@ -40,374 +38,362 @@ msgstr ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
 
-#: ../comps-f12.xml.in.h:4 ../comps-f13.xml.in.h:4 ../comps-f14.xml.in.h:8
-#: ../comps-f15.xml.in.h:8
+#: ../comps-f13.xml.in.h:4 ../comps-f14.xml.in.h:8 ../comps-f15.xml.in.h:8
 msgid "A software playground for learning about learning."
 msgstr "A software playground for learning about learning."
 
-#: ../comps-f12.xml.in.h:5 ../comps-f13.xml.in.h:5 ../comps-f14.xml.in.h:9
-#: ../comps-f15.xml.in.h:9 ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
-#: ../comps-el6.xml.in.h:1
+#: ../comps-f13.xml.in.h:5 ../comps-f14.xml.in.h:9 ../comps-f15.xml.in.h:9
+#: ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
 msgid "Administration Tools"
 msgstr "Administration Tools"
 
-#: ../comps-f12.xml.in.h:6 ../comps-f13.xml.in.h:6 ../comps-f14.xml.in.h:10
-#: ../comps-f15.xml.in.h:10
+#: ../comps-f13.xml.in.h:6 ../comps-f14.xml.in.h:10 ../comps-f15.xml.in.h:10
+#: ../comps-el6.xml.in.h:12
 msgid "Afrikaans Support"
 msgstr "Afrikaans Support"
 
-#: ../comps-f12.xml.in.h:7 ../comps-f13.xml.in.h:7 ../comps-f14.xml.in.h:11
-#: ../comps-f15.xml.in.h:11
+#: ../comps-f13.xml.in.h:7 ../comps-f14.xml.in.h:11 ../comps-f15.xml.in.h:12
+#: ../comps-el6.xml.in.h:13
 msgid "Albanian Support"
 msgstr "Albanian Support"
 
-#: ../comps-f12.xml.in.h:8 ../comps-f13.xml.in.h:8 ../comps-f14.xml.in.h:12
-#: ../comps-f15.xml.in.h:12
+#: ../comps-f13.xml.in.h:8 ../comps-f14.xml.in.h:12 ../comps-f15.xml.in.h:13
+#: ../comps-el6.xml.in.h:19
 msgid "Amazigh Support"
 msgstr "Amazigh Support"
 
-#: ../comps-f12.xml.in.h:9 ../comps-f13.xml.in.h:9 ../comps-f14.xml.in.h:13
-#: ../comps-f15.xml.in.h:13 ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
-#: ../comps-el6.xml.in.h:2
+#: ../comps-f13.xml.in.h:9 ../comps-f14.xml.in.h:13 ../comps-f15.xml.in.h:14
+#: ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2 ../comps-el6.xml.in.h:20
 msgid "Applications"
 msgstr "Applications"
 
-#: ../comps-f12.xml.in.h:10 ../comps-f13.xml.in.h:10 ../comps-f14.xml.in.h:14
-#: ../comps-f15.xml.in.h:14
+#: ../comps-f13.xml.in.h:10 ../comps-f14.xml.in.h:14 ../comps-f15.xml.in.h:15
 msgid "Applications to perform a variety of tasks"
 msgstr "Applications to perform a variety of tasks"
 
-#: ../comps-f12.xml.in.h:11 ../comps-f13.xml.in.h:11 ../comps-f14.xml.in.h:15
-#: ../comps-f15.xml.in.h:15 ../comps-el4.xml.in.h:4 ../comps-el5.xml.in.h:4
-#: ../comps-el6.xml.in.h:4
+#: ../comps-f13.xml.in.h:11 ../comps-f14.xml.in.h:15 ../comps-f15.xml.in.h:16
+#: ../comps-el4.xml.in.h:4 ../comps-el5.xml.in.h:4 ../comps-el6.xml.in.h:21
 msgid "Arabic Support"
 msgstr "Arabic Support"
 
-#: ../comps-f12.xml.in.h:12 ../comps-f13.xml.in.h:12 ../comps-f14.xml.in.h:16
-#: ../comps-f15.xml.in.h:16 ../comps-el4.xml.in.h:5 ../comps-el5.xml.in.h:5
-#: ../comps-el6.xml.in.h:5
+#: ../comps-f13.xml.in.h:12 ../comps-f14.xml.in.h:16 ../comps-f15.xml.in.h:17
+#: ../comps-el4.xml.in.h:5 ../comps-el5.xml.in.h:5 ../comps-el6.xml.in.h:22
 msgid "Armenian Support"
 msgstr "Armenian Support"
 
-#: ../comps-f12.xml.in.h:13 ../comps-f13.xml.in.h:13 ../comps-f14.xml.in.h:17
-#: ../comps-f15.xml.in.h:17
+#: ../comps-f13.xml.in.h:13 ../comps-f14.xml.in.h:17 ../comps-f15.xml.in.h:18
+#: ../comps-el6.xml.in.h:23
 msgid "Assamese Support"
 msgstr "Assamese Support"
 
-#: ../comps-f12.xml.in.h:14 ../comps-f13.xml.in.h:15 ../comps-f14.xml.in.h:19
-#: ../comps-f15.xml.in.h:19 ../comps-el4.xml.in.h:6 ../comps-el5.xml.in.h:6
-#: ../comps-el6.xml.in.h:6
+#: ../comps-f13.xml.in.h:14 ../comps-f14.xml.in.h:18 ../comps-f15.xml.in.h:19
+msgid "Asturian Support"
+msgstr "Asturian Support"
+
+#: ../comps-f13.xml.in.h:15 ../comps-f14.xml.in.h:19 ../comps-f15.xml.in.h:20
+#: ../comps-el4.xml.in.h:6 ../comps-el5.xml.in.h:6
 msgid "Authoring and Publishing"
 msgstr "Authoring and Publishing"
 
-#: ../comps-f12.xml.in.h:15 ../comps-f13.xml.in.h:16 ../comps-f14.xml.in.h:20
-#: ../comps-f15.xml.in.h:20
+#: ../comps-f13.xml.in.h:16 ../comps-f14.xml.in.h:20 ../comps-f15.xml.in.h:21
+#: ../comps-el6.xml.in.h:24
 msgid "Azerbaijani Support"
 msgstr "Azerbaijani Support"
 
-#: ../comps-f12.xml.in.h:16 ../comps-f13.xml.in.h:17 ../comps-f14.xml.in.h:21
-#: ../comps-f15.xml.in.h:21
+#: ../comps-f13.xml.in.h:17 ../comps-f14.xml.in.h:21 ../comps-f15.xml.in.h:22
+#: ../comps-el6.xml.in.h:27
 msgid "Base"
 msgstr "Base"
 
-#: ../comps-f12.xml.in.h:17 ../comps-f13.xml.in.h:18 ../comps-f14.xml.in.h:22
-#: ../comps-f15.xml.in.h:22 ../comps-el4.xml.in.h:7 ../comps-el5.xml.in.h:7
-#: ../comps-el6.xml.in.h:7
+#: ../comps-f13.xml.in.h:18 ../comps-f14.xml.in.h:22 ../comps-f15.xml.in.h:23
+#: ../comps-el4.xml.in.h:7 ../comps-el5.xml.in.h:7
 msgid "Base System"
 msgstr "Base System"
 
-#: ../comps-f12.xml.in.h:18 ../comps-f13.xml.in.h:19 ../comps-f14.xml.in.h:23
-#: ../comps-f15.xml.in.h:23
+#: ../comps-f13.xml.in.h:19 ../comps-f14.xml.in.h:23 ../comps-f15.xml.in.h:24
 msgid "Basic support for the Ruby programming language."
 msgstr "Basic support for the Ruby programming language."
 
-#: ../comps-f12.xml.in.h:19 ../comps-f13.xml.in.h:20 ../comps-f14.xml.in.h:24
-#: ../comps-f15.xml.in.h:24
+#: ../comps-f13.xml.in.h:20 ../comps-f14.xml.in.h:24 ../comps-f15.xml.in.h:25
+#: ../comps-el6.xml.in.h:29
 msgid "Basque Support"
 msgstr "Basque Support"
 
-#: ../comps-f12.xml.in.h:20 ../comps-f13.xml.in.h:21 ../comps-f14.xml.in.h:25
-#: ../comps-f15.xml.in.h:25
+#: ../comps-f13.xml.in.h:21 ../comps-f14.xml.in.h:25 ../comps-f15.xml.in.h:26
+#: ../comps-el6.xml.in.h:30
 msgid "Belarusian Support"
 msgstr "Belarusian Support"
 
-#: ../comps-f12.xml.in.h:21 ../comps-f13.xml.in.h:22 ../comps-f14.xml.in.h:26
-#: ../comps-f15.xml.in.h:26
+#: ../comps-f13.xml.in.h:22 ../comps-f14.xml.in.h:26 ../comps-f15.xml.in.h:27
+#: ../comps-el6.xml.in.h:31
 msgid "Bengali Support"
 msgstr "Bengali Support"
 
-#: ../comps-f12.xml.in.h:22 ../comps-f13.xml.in.h:23 ../comps-f14.xml.in.h:27
-#: ../comps-f15.xml.in.h:27
+#: ../comps-f13.xml.in.h:23 ../comps-f14.xml.in.h:27 ../comps-f15.xml.in.h:28
+#: ../comps-el6.xml.in.h:32
 msgid "Bhutanese Support"
 msgstr "Bhutanese Support"
 
-#: ../comps-f12.xml.in.h:23 ../comps-f13.xml.in.h:24 ../comps-f14.xml.in.h:28
-#: ../comps-f15.xml.in.h:28
+#: ../comps-f13.xml.in.h:24 ../comps-f14.xml.in.h:28 ../comps-f15.xml.in.h:29
 msgid "Books and Guides"
 msgstr "Books and Guides"
 
-#: ../comps-f12.xml.in.h:24 ../comps-f13.xml.in.h:25 ../comps-f14.xml.in.h:29
-#: ../comps-f15.xml.in.h:29
+#: ../comps-f13.xml.in.h:25 ../comps-f14.xml.in.h:29 ../comps-f15.xml.in.h:30
 msgid "Books and Guides for Fedora users and developers"
 msgstr "Books and Guides for Fedora users and developers"
 
-#: ../comps-f12.xml.in.h:25 ../comps-f13.xml.in.h:26 ../comps-f14.xml.in.h:30
-#: ../comps-f15.xml.in.h:30
+#: ../comps-f13.xml.in.h:26 ../comps-f14.xml.in.h:30 ../comps-f15.xml.in.h:31
 msgid "Bosnian Support"
 msgstr "Bosnian Support"
 
-#: ../comps-f12.xml.in.h:26 ../comps-f13.xml.in.h:27 ../comps-f14.xml.in.h:31
-#: ../comps-f15.xml.in.h:31
+#: ../comps-f13.xml.in.h:27 ../comps-f14.xml.in.h:31 ../comps-f15.xml.in.h:32
+#: ../comps-el6.xml.in.h:33
 msgid "Brazilian Portuguese Support"
 msgstr "Brazilian Portuguese Support"
 
-#: ../comps-f12.xml.in.h:27 ../comps-f13.xml.in.h:28 ../comps-f14.xml.in.h:32
-#: ../comps-f15.xml.in.h:32
+#: ../comps-f13.xml.in.h:28 ../comps-f14.xml.in.h:32 ../comps-f15.xml.in.h:33
+#: ../comps-el6.xml.in.h:34
 msgid "Breton Support"
 msgstr "Breton Support"
 
-#: ../comps-f12.xml.in.h:28 ../comps-f13.xml.in.h:29 ../comps-f14.xml.in.h:33
-#: ../comps-f15.xml.in.h:33 ../comps-el5.xml.in.h:8 ../comps-el6.xml.in.h:8
+#: ../comps-f13.xml.in.h:29 ../comps-f14.xml.in.h:33 ../comps-f15.xml.in.h:34
+#: ../comps-el5.xml.in.h:8 ../comps-el6.xml.in.h:35
 msgid "Buildsystem building group"
 msgstr "Buildsystem building group"
 
-#: ../comps-f12.xml.in.h:29 ../comps-f13.xml.in.h:30 ../comps-f14.xml.in.h:34
-#: ../comps-f15.xml.in.h:34
+#: ../comps-f13.xml.in.h:30 ../comps-f14.xml.in.h:34 ../comps-f15.xml.in.h:35
+#: ../comps-el6.xml.in.h:36
 msgid "Bulgarian Support"
 msgstr "Bulgarian Support"
 
-#: ../comps-f12.xml.in.h:30 ../comps-f13.xml.in.h:31 ../comps-f14.xml.in.h:35
-#: ../comps-f15.xml.in.h:35
+#: ../comps-f13.xml.in.h:31 ../comps-f14.xml.in.h:35 ../comps-f15.xml.in.h:36
+#: ../comps-el6.xml.in.h:38
 msgid "Catalan Support"
 msgstr "Catalan Support"
 
-#: ../comps-f12.xml.in.h:31 ../comps-f13.xml.in.h:32 ../comps-f14.xml.in.h:36
-#: ../comps-f15.xml.in.h:36
+#: ../comps-f13.xml.in.h:32 ../comps-f14.xml.in.h:36 ../comps-f15.xml.in.h:37
+#: ../comps-el6.xml.in.h:40
 msgid "Chichewa Support"
 msgstr "Chichewa Support"
 
-#: ../comps-f12.xml.in.h:32 ../comps-f13.xml.in.h:33 ../comps-f14.xml.in.h:37
-#: ../comps-f15.xml.in.h:37
+#: ../comps-f13.xml.in.h:33 ../comps-f14.xml.in.h:37 ../comps-el6.xml.in.h:41
 msgid "Chinese Support"
 msgstr "Chinese Support"
 
-#: ../comps-f12.xml.in.h:33 ../comps-f13.xml.in.h:34 ../comps-f14.xml.in.h:38
-#: ../comps-f15.xml.in.h:38
+#: ../comps-f13.xml.in.h:34 ../comps-f14.xml.in.h:38 ../comps-f15.xml.in.h:39
 msgid "Clustering"
 msgstr "Clustering"
 
-#: ../comps-f12.xml.in.h:34 ../comps-f13.xml.in.h:35 ../comps-f14.xml.in.h:39
-#: ../comps-f15.xml.in.h:39
+#: ../comps-f13.xml.in.h:35 ../comps-f14.xml.in.h:39 ../comps-f15.xml.in.h:40
 msgid "Clustering Support"
 msgstr "Clustering Support"
 
-#: ../comps-f12.xml.in.h:35 ../comps-f13.xml.in.h:37 ../comps-f14.xml.in.h:41
-#: ../comps-f15.xml.in.h:41
+#: ../comps-f13.xml.in.h:36 ../comps-f14.xml.in.h:40 ../comps-f15.xml.in.h:41
+msgid "Content"
+msgstr "Content"
+
+#: ../comps-f13.xml.in.h:37 ../comps-f14.xml.in.h:41 ../comps-f15.xml.in.h:42
+#: ../comps-el6.xml.in.h:51
 msgid "Coptic Support"
 msgstr "Coptic Support"
 
-#: ../comps-f12.xml.in.h:36 ../comps-f13.xml.in.h:38 ../comps-f14.xml.in.h:42
-#: ../comps-f15.xml.in.h:42
+#: ../comps-f13.xml.in.h:38 ../comps-f14.xml.in.h:42 ../comps-f15.xml.in.h:43
+#: ../comps-el6.xml.in.h:52
 msgid "Core"
 msgstr "Core"
 
-#: ../comps-f12.xml.in.h:37 ../comps-f13.xml.in.h:39 ../comps-f14.xml.in.h:44
-#: ../comps-f15.xml.in.h:44
+#: ../comps-f13.xml.in.h:39 ../comps-f14.xml.in.h:44 ../comps-f15.xml.in.h:45
 msgid "Critical Path (Base)"
 msgstr "Critical Path (Base)"
 
-#: ../comps-f12.xml.in.h:38 ../comps-f13.xml.in.h:40 ../comps-f14.xml.in.h:45
-#: ../comps-f15.xml.in.h:45
+#: ../comps-f13.xml.in.h:40 ../comps-f14.xml.in.h:45 ../comps-f15.xml.in.h:46
 msgid "Critical Path (GNOME)"
 msgstr "Critical Path (GNOME)"
 
-#: ../comps-f12.xml.in.h:39 ../comps-f13.xml.in.h:41 ../comps-f14.xml.in.h:49
-#: ../comps-f15.xml.in.h:49
+#: ../comps-f13.xml.in.h:41 ../comps-f14.xml.in.h:49 ../comps-f15.xml.in.h:50
+#: ../comps-el6.xml.in.h:53
 msgid "Croatian Support"
 msgstr "Croatian Support"
 
-#: ../comps-f12.xml.in.h:40 ../comps-f13.xml.in.h:42 ../comps-f14.xml.in.h:50
-#: ../comps-f15.xml.in.h:50 ../comps-el5.xml.in.h:9 ../comps-el6.xml.in.h:9
+#: ../comps-f13.xml.in.h:42 ../comps-f14.xml.in.h:50 ../comps-f15.xml.in.h:51
+#: ../comps-el5.xml.in.h:9 ../comps-el6.xml.in.h:54
 msgid "Czech Support"
 msgstr "Czech Support"
 
-#: ../comps-f12.xml.in.h:41 ../comps-f13.xml.in.h:43 ../comps-f14.xml.in.h:51
-#: ../comps-f15.xml.in.h:51
+#: ../comps-f13.xml.in.h:43 ../comps-f14.xml.in.h:51 ../comps-f15.xml.in.h:52
 msgid "DNS Name Server"
 msgstr "DNS Name Server"
 
-#: ../comps-f12.xml.in.h:42 ../comps-f13.xml.in.h:44 ../comps-f14.xml.in.h:52
-#: ../comps-f15.xml.in.h:52
+#: ../comps-f13.xml.in.h:44 ../comps-f14.xml.in.h:52 ../comps-f15.xml.in.h:53
+#: ../comps-el6.xml.in.h:55
 msgid "Danish Support"
 msgstr "Danish Support"
 
-#: ../comps-f12.xml.in.h:43 ../comps-f13.xml.in.h:45 ../comps-f14.xml.in.h:53
-#: ../comps-f15.xml.in.h:53 ../comps-el5.xml.in.h:10 ../comps-el6.xml.in.h:10
+#: ../comps-f13.xml.in.h:45 ../comps-f14.xml.in.h:53 ../comps-f15.xml.in.h:55
+#: ../comps-el5.xml.in.h:10
 msgid "Design and Simulation tools for hardware engineers"
 msgstr "Design and Simulation tools for hardware engineers"
 
-#: ../comps-f12.xml.in.h:44 ../comps-f13.xml.in.h:46 ../comps-f14.xml.in.h:54
-#: ../comps-f15.xml.in.h:54 ../comps-el4.xml.in.h:8 ../comps-el5.xml.in.h:11
-#: ../comps-el6.xml.in.h:11
+#: ../comps-f13.xml.in.h:46 ../comps-f14.xml.in.h:54 ../comps-f15.xml.in.h:56
+#: ../comps-el4.xml.in.h:8 ../comps-el5.xml.in.h:11
 msgid "Desktop Environments"
 msgstr "Desktop Environments"
 
-#: ../comps-f12.xml.in.h:45 ../comps-f13.xml.in.h:47 ../comps-f14.xml.in.h:55
-#: ../comps-f15.xml.in.h:55 ../comps-el4.xml.in.h:9 ../comps-el5.xml.in.h:12
-#: ../comps-el6.xml.in.h:12
+#: ../comps-f13.xml.in.h:47 ../comps-f14.xml.in.h:55 ../comps-f15.xml.in.h:57
+#: ../comps-el4.xml.in.h:9 ../comps-el5.xml.in.h:12
 msgid "Desktop environments"
 msgstr "Desktop environments"
 
-#: ../comps-f12.xml.in.h:46 ../comps-f13.xml.in.h:48 ../comps-f14.xml.in.h:56
-#: ../comps-f15.xml.in.h:56 ../comps-el4.xml.in.h:10 ../comps-el5.xml.in.h:13
-#: ../comps-el6.xml.in.h:13
+#: ../comps-f13.xml.in.h:48 ../comps-f14.xml.in.h:56 ../comps-f15.xml.in.h:58
+#: ../comps-el4.xml.in.h:10 ../comps-el5.xml.in.h:13 ../comps-el6.xml.in.h:64
 msgid "Development"
 msgstr "Development"
 
-#: ../comps-f12.xml.in.h:47 ../comps-f13.xml.in.h:49 ../comps-f14.xml.in.h:57
-#: ../comps-f15.xml.in.h:57
+#: ../comps-f13.xml.in.h:49 ../comps-f14.xml.in.h:57 ../comps-f15.xml.in.h:59
 msgid "Development Libraries"
 msgstr "Development Libraries"
 
-#: ../comps-f12.xml.in.h:48 ../comps-f13.xml.in.h:50 ../comps-f14.xml.in.h:58
-#: ../comps-f15.xml.in.h:58 ../comps-el4.xml.in.h:11 ../comps-el5.xml.in.h:14
-#: ../comps-el6.xml.in.h:14
+#: ../comps-f13.xml.in.h:50 ../comps-f14.xml.in.h:58 ../comps-f15.xml.in.h:60
+#: ../comps-el4.xml.in.h:11 ../comps-el5.xml.in.h:14
 msgid "Development Tools"
 msgstr "Development Tools"
 
-#: ../comps-f12.xml.in.h:49 ../comps-f13.xml.in.h:51 ../comps-f14.xml.in.h:59
-#: ../comps-f15.xml.in.h:59
+#: ../comps-f13.xml.in.h:51 ../comps-f14.xml.in.h:59 ../comps-f15.xml.in.h:61
+#: ../comps-el6.xml.in.h:69
 msgid "Dial-up Networking Support"
 msgstr "Dial-up Networking Support"
 
-#: ../comps-f12.xml.in.h:50 ../comps-f13.xml.in.h:52 ../comps-f14.xml.in.h:60
-#: ../comps-f15.xml.in.h:60
+#: ../comps-f13.xml.in.h:52 ../comps-f14.xml.in.h:60 ../comps-f15.xml.in.h:62
+#: ../comps-el6.xml.in.h:71
 msgid "Directory Server"
 msgstr "Directory Server"
 
-#: ../comps-f12.xml.in.h:51 ../comps-f13.xml.in.h:54 ../comps-f14.xml.in.h:62
-#: ../comps-f15.xml.in.h:62
+#: ../comps-f13.xml.in.h:53 ../comps-f14.xml.in.h:61 ../comps-f15.xml.in.h:63
+msgid "Dogtag Certificate System"
+msgstr "Dogtag Certificate System"
+
+#: ../comps-f13.xml.in.h:54 ../comps-f14.xml.in.h:62 ../comps-f15.xml.in.h:64
+#: ../comps-el6.xml.in.h:72
 msgid "Dutch Support"
 msgstr "Dutch Support"
 
-#: ../comps-f12.xml.in.h:52 ../comps-f13.xml.in.h:55 ../comps-f14.xml.in.h:63
-#: ../comps-f15.xml.in.h:63 ../comps-el4.xml.in.h:13 ../comps-el5.xml.in.h:16
-#: ../comps-el6.xml.in.h:16
+#: ../comps-f13.xml.in.h:55 ../comps-f14.xml.in.h:63 ../comps-f15.xml.in.h:65
+#: ../comps-el4.xml.in.h:13 ../comps-el5.xml.in.h:16
 msgid "Editors"
 msgstr "Editors"
 
-#: ../comps-f12.xml.in.h:53 ../comps-f13.xml.in.h:56 ../comps-f14.xml.in.h:64
-#: ../comps-f15.xml.in.h:64 ../comps-el4.xml.in.h:14 ../comps-el5.xml.in.h:17
-#: ../comps-el6.xml.in.h:17
+#: ../comps-f13.xml.in.h:56 ../comps-f14.xml.in.h:64 ../comps-f15.xml.in.h:66
+#: ../comps-el4.xml.in.h:14 ../comps-el5.xml.in.h:17 ../comps-el6.xml.in.h:76
 msgid "Educational Software"
 msgstr "Educational Software"
 
-#: ../comps-f12.xml.in.h:54 ../comps-f13.xml.in.h:57 ../comps-f14.xml.in.h:65
-#: ../comps-f15.xml.in.h:65 ../comps-el4.xml.in.h:15 ../comps-el5.xml.in.h:18
-#: ../comps-el6.xml.in.h:18
+#: ../comps-f13.xml.in.h:57 ../comps-f14.xml.in.h:65 ../comps-f15.xml.in.h:67
+#: ../comps-el4.xml.in.h:15 ../comps-el5.xml.in.h:18
 msgid "Educational software for learning"
 msgstr "Educational software for learning"
 
-#: ../comps-f12.xml.in.h:55 ../comps-f13.xml.in.h:58 ../comps-f14.xml.in.h:66
-#: ../comps-f15.xml.in.h:66 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:19
+#: ../comps-f13.xml.in.h:58 ../comps-f14.xml.in.h:66 ../comps-f15.xml.in.h:68
+#: ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:78
 msgid "Electronic Lab"
 msgstr "Electronic Lab"
 
-#: ../comps-f12.xml.in.h:56 ../comps-f13.xml.in.h:59 ../comps-f14.xml.in.h:67
-#: ../comps-f15.xml.in.h:67 ../comps-el4.xml.in.h:16 ../comps-el5.xml.in.h:20
-#: ../comps-el6.xml.in.h:20
+#: ../comps-f13.xml.in.h:59 ../comps-f14.xml.in.h:67 ../comps-f15.xml.in.h:69
+#: ../comps-el4.xml.in.h:16 ../comps-el5.xml.in.h:20
 msgid "Engineering and Scientific"
 msgstr "Engineering and Scientific"
 
-#: ../comps-f12.xml.in.h:57 ../comps-f13.xml.in.h:60 ../comps-f14.xml.in.h:68
-#: ../comps-f15.xml.in.h:68
+#: ../comps-f13.xml.in.h:60 ../comps-f14.xml.in.h:68 ../comps-f15.xml.in.h:70
+#: ../comps-el6.xml.in.h:83
 msgid "English (UK) Support"
 msgstr "English (UK) Support"
 
-#: ../comps-f12.xml.in.h:58 ../comps-f13.xml.in.h:62 ../comps-f14.xml.in.h:70
-#: ../comps-f15.xml.in.h:70
+#: ../comps-f13.xml.in.h:61 ../comps-f14.xml.in.h:69 ../comps-f15.xml.in.h:71
+msgid "Enterprise-class open source Certificate Authority"
+msgstr "Enterprise-class open source Certificate Authority"
+
+#: ../comps-f13.xml.in.h:62 ../comps-f14.xml.in.h:70 ../comps-f15.xml.in.h:72
+#: ../comps-el6.xml.in.h:84
 msgid "Esperanto Support"
 msgstr "Esperanto Support"
 
-#: ../comps-f12.xml.in.h:59 ../comps-f13.xml.in.h:63 ../comps-f14.xml.in.h:71
-#: ../comps-f15.xml.in.h:71
+#: ../comps-f13.xml.in.h:63 ../comps-f14.xml.in.h:71 ../comps-f15.xml.in.h:73
+#: ../comps-el6.xml.in.h:85
 msgid "Estonian Support"
 msgstr "Estonian Support"
 
-#: ../comps-f12.xml.in.h:60 ../comps-f13.xml.in.h:64 ../comps-f14.xml.in.h:72
-#: ../comps-f15.xml.in.h:72
+#: ../comps-f13.xml.in.h:64 ../comps-f14.xml.in.h:72 ../comps-f15.xml.in.h:74
+#: ../comps-el6.xml.in.h:86
 msgid "Ethiopic Support"
 msgstr "Ethiopic Support"
 
-#: ../comps-f12.xml.in.h:61 ../comps-f13.xml.in.h:65 ../comps-f14.xml.in.h:73
-#: ../comps-f15.xml.in.h:73 ../comps-el4.xml.in.h:17 ../comps-el5.xml.in.h:21
-#: ../comps-el6.xml.in.h:21
+#: ../comps-f13.xml.in.h:65 ../comps-f14.xml.in.h:73 ../comps-f15.xml.in.h:75
+#: ../comps-el4.xml.in.h:17 ../comps-el5.xml.in.h:21
 msgid "FTP Server"
 msgstr "FTP Server"
 
-#: ../comps-f12.xml.in.h:62
-msgid "Faeroese Support"
-msgstr "Faeroese Support"
+#: ../comps-f13.xml.in.h:66 ../comps-f14.xml.in.h:74 ../comps-f15.xml.in.h:76
+#: ../comps-el6.xml.in.h:89
+msgid "Faroese Support"
+msgstr "Faroese Support"
 
-#: ../comps-f12.xml.in.h:63 ../comps-f13.xml.in.h:67 ../comps-f14.xml.in.h:75
-#: ../comps-f15.xml.in.h:75
+#: ../comps-f13.xml.in.h:67 ../comps-f14.xml.in.h:75 ../comps-f15.xml.in.h:77
 msgid "Fedora Eclipse"
 msgstr "Fedora Eclipse"
 
-#: ../comps-f12.xml.in.h:64 ../comps-f13.xml.in.h:68 ../comps-f14.xml.in.h:76
-#: ../comps-f15.xml.in.h:76 ../comps-el4.xml.in.h:18 ../comps-el5.xml.in.h:22
-#: ../comps-el6.xml.in.h:22
+#: ../comps-f13.xml.in.h:68 ../comps-f14.xml.in.h:76 ../comps-f15.xml.in.h:78
+#: ../comps-el4.xml.in.h:18 ../comps-el5.xml.in.h:22 ../comps-el6.xml.in.h:90
 msgid "Fedora Packager"
 msgstr "Fedora Packager"
 
-#: ../comps-f12.xml.in.h:65 ../comps-f13.xml.in.h:69 ../comps-f14.xml.in.h:77
-#: ../comps-f15.xml.in.h:77
+#: ../comps-f13.xml.in.h:69 ../comps-f14.xml.in.h:77 ../comps-f15.xml.in.h:79
+#: ../comps-el6.xml.in.h:92
 msgid "Fijian Support"
 msgstr "Fijian Support"
 
-#: ../comps-f12.xml.in.h:66 ../comps-f13.xml.in.h:71 ../comps-f14.xml.in.h:79
-#: ../comps-f15.xml.in.h:79
+#: ../comps-f13.xml.in.h:70 ../comps-f14.xml.in.h:78 ../comps-f15.xml.in.h:80
+msgid "Filesystems"
+msgstr "Filesystems"
+
+#: ../comps-f13.xml.in.h:71 ../comps-f14.xml.in.h:79 ../comps-f15.xml.in.h:81
+#: ../comps-el6.xml.in.h:93
 msgid "Filipino Support"
 msgstr "Filipino Support"
 
-#: ../comps-f12.xml.in.h:67 ../comps-f13.xml.in.h:72 ../comps-f14.xml.in.h:80
-#: ../comps-f15.xml.in.h:80
+#: ../comps-f13.xml.in.h:72 ../comps-f14.xml.in.h:80 ../comps-f15.xml.in.h:82
+#: ../comps-el6.xml.in.h:94
 msgid "Finnish Support"
 msgstr "Finnish Support"
 
-#: ../comps-f12.xml.in.h:68 ../comps-f13.xml.in.h:73 ../comps-f14.xml.in.h:81
-#: ../comps-f15.xml.in.h:81
+#: ../comps-f13.xml.in.h:73 ../comps-f14.xml.in.h:81 ../comps-f15.xml.in.h:83
 msgid "Font design and packaging"
 msgstr "Font design and packaging"
 
-#: ../comps-f12.xml.in.h:69 ../comps-f13.xml.in.h:74 ../comps-f14.xml.in.h:82
-#: ../comps-f15.xml.in.h:82
+#: ../comps-f13.xml.in.h:74 ../comps-f14.xml.in.h:82 ../comps-f15.xml.in.h:84
+#: ../comps-el6.xml.in.h:96
 msgid "Fonts"
 msgstr "Fonts"
 
-#: ../comps-f12.xml.in.h:70 ../comps-f13.xml.in.h:75 ../comps-f14.xml.in.h:83
-#: ../comps-f15.xml.in.h:83
+#: ../comps-f13.xml.in.h:75 ../comps-f14.xml.in.h:83 ../comps-f15.xml.in.h:85
 msgid "Fonts packages for rendering text on the desktop."
 msgstr "Fonts packages for rendering text on the desktop."
 
-#: ../comps-f12.xml.in.h:71 ../comps-f13.xml.in.h:76 ../comps-f14.xml.in.h:84
-#: ../comps-f15.xml.in.h:84
+#: ../comps-f13.xml.in.h:76 ../comps-f14.xml.in.h:84 ../comps-f15.xml.in.h:86
+#: ../comps-el6.xml.in.h:98
 msgid "French Support"
 msgstr "French Support"
 
-#: ../comps-f12.xml.in.h:72 ../comps-f13.xml.in.h:77 ../comps-f14.xml.in.h:85
-#: ../comps-f15.xml.in.h:85
+#: ../comps-f13.xml.in.h:77 ../comps-f14.xml.in.h:85 ../comps-f15.xml.in.h:87
+#: ../comps-el6.xml.in.h:99
 msgid "Frisian Support"
 msgstr "Frisian Support"
 
-#: ../comps-f12.xml.in.h:73 ../comps-f13.xml.in.h:78 ../comps-f14.xml.in.h:86
-#: ../comps-f15.xml.in.h:86
+#: ../comps-f13.xml.in.h:78 ../comps-f14.xml.in.h:86 ../comps-f15.xml.in.h:88
+#: ../comps-el6.xml.in.h:100
 msgid "Friulian Support"
 msgstr "Friulian Support"
 
-#: ../comps-f12.xml.in.h:74 ../comps-f13.xml.in.h:79 ../comps-f14.xml.in.h:87
-#: ../comps-f15.xml.in.h:87 ../comps-el4.xml.in.h:19 ../comps-el5.xml.in.h:23
-#: ../comps-el6.xml.in.h:23
+#: ../comps-f13.xml.in.h:79 ../comps-f14.xml.in.h:87 ../comps-f15.xml.in.h:89
+#: ../comps-el4.xml.in.h:19 ../comps-el5.xml.in.h:23
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
@@ -415,20 +401,17 @@ msgstr ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 
-#: ../comps-f12.xml.in.h:75 ../comps-f13.xml.in.h:80 ../comps-f14.xml.in.h:88
-#: ../comps-f15.xml.in.h:88 ../comps-el4.xml.in.h:20 ../comps-el5.xml.in.h:24
-#: ../comps-el6.xml.in.h:24
+#: ../comps-f13.xml.in.h:80 ../comps-f14.xml.in.h:88 ../comps-f15.xml.in.h:90
+#: ../comps-el4.xml.in.h:20 ../comps-el5.xml.in.h:24
 msgid "GNOME Desktop Environment"
 msgstr "GNOME Desktop Environment"
 
-#: ../comps-f12.xml.in.h:76 ../comps-f13.xml.in.h:81 ../comps-f14.xml.in.h:89
-#: ../comps-f15.xml.in.h:89 ../comps-el4.xml.in.h:21 ../comps-el5.xml.in.h:25
-#: ../comps-el6.xml.in.h:25
+#: ../comps-f13.xml.in.h:81 ../comps-f14.xml.in.h:89 ../comps-f15.xml.in.h:91
+#: ../comps-el4.xml.in.h:21 ../comps-el5.xml.in.h:25
 msgid "GNOME Software Development"
 msgstr "GNOME Software Development"
 
-#: ../comps-f12.xml.in.h:77 ../comps-f13.xml.in.h:82 ../comps-f14.xml.in.h:90
-#: ../comps-f15.xml.in.h:90
+#: ../comps-f13.xml.in.h:82 ../comps-f14.xml.in.h:90 ../comps-f15.xml.in.h:92
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
@@ -436,108 +419,104 @@ msgstr ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons and a graphical file manager."
 
-#: ../comps-f12.xml.in.h:78 ../comps-f13.xml.in.h:83 ../comps-f14.xml.in.h:91
-#: ../comps-f15.xml.in.h:91
+#: ../comps-f13.xml.in.h:83 ../comps-f14.xml.in.h:91 ../comps-f15.xml.in.h:93
+#: ../comps-el6.xml.in.h:102
 msgid "Gaelic Support"
 msgstr "Gaelic Support"
 
-#: ../comps-f12.xml.in.h:79 ../comps-f13.xml.in.h:84 ../comps-f14.xml.in.h:92
-#: ../comps-f15.xml.in.h:92
+#: ../comps-f13.xml.in.h:84 ../comps-f14.xml.in.h:92 ../comps-f15.xml.in.h:94
+#: ../comps-el6.xml.in.h:103
 msgid "Galician Support"
 msgstr "Galician Support"
 
-#: ../comps-f12.xml.in.h:80 ../comps-f13.xml.in.h:85 ../comps-f14.xml.in.h:93
-#: ../comps-f15.xml.in.h:93 ../comps-el5.xml.in.h:27 ../comps-el6.xml.in.h:27
+#: ../comps-f13.xml.in.h:85 ../comps-f14.xml.in.h:93 ../comps-f15.xml.in.h:95
+#: ../comps-el5.xml.in.h:27
 msgid "Games and Entertainment"
 msgstr "Games and Entertainment"
 
-#: ../comps-f12.xml.in.h:81 ../comps-f13.xml.in.h:86 ../comps-f14.xml.in.h:94
-#: ../comps-f15.xml.in.h:94
+#: ../comps-f13.xml.in.h:86 ../comps-f14.xml.in.h:94 ../comps-f15.xml.in.h:96
+#: ../comps-el6.xml.in.h:105
 msgid "Georgian Support"
 msgstr "Georgian Support"
 
-#: ../comps-f12.xml.in.h:82 ../comps-f13.xml.in.h:87 ../comps-f14.xml.in.h:95
-#: ../comps-f15.xml.in.h:95
+#: ../comps-f13.xml.in.h:87 ../comps-f14.xml.in.h:95 ../comps-f15.xml.in.h:97
+#: ../comps-el6.xml.in.h:106
 msgid "German Support"
 msgstr "German Support"
 
-#: ../comps-f12.xml.in.h:83 ../comps-f13.xml.in.h:88 ../comps-f14.xml.in.h:96
-#: ../comps-f15.xml.in.h:96 ../comps-el4.xml.in.h:23 ../comps-el5.xml.in.h:28
-#: ../comps-el6.xml.in.h:28
+#: ../comps-f13.xml.in.h:88 ../comps-f14.xml.in.h:96 ../comps-f15.xml.in.h:98
+#: ../comps-el4.xml.in.h:23 ../comps-el5.xml.in.h:28
 msgid "Graphical Internet"
 msgstr "Graphical Internet"
 
-#: ../comps-f12.xml.in.h:84 ../comps-f13.xml.in.h:89 ../comps-f14.xml.in.h:97
-#: ../comps-f15.xml.in.h:97 ../comps-el4.xml.in.h:24 ../comps-el5.xml.in.h:29
-#: ../comps-el6.xml.in.h:29
+#: ../comps-f13.xml.in.h:89 ../comps-f14.xml.in.h:97 ../comps-f15.xml.in.h:99
+#: ../comps-el4.xml.in.h:24 ../comps-el5.xml.in.h:29
 msgid "Graphics"
 msgstr "Graphics"
 
-#: ../comps-f12.xml.in.h:85 ../comps-f13.xml.in.h:90 ../comps-f14.xml.in.h:98
-#: ../comps-f15.xml.in.h:98
+#: ../comps-f13.xml.in.h:90 ../comps-f14.xml.in.h:98 ../comps-f15.xml.in.h:100
+#: ../comps-el6.xml.in.h:110
 msgid "Greek Support"
 msgstr "Greek Support"
 
-#: ../comps-f12.xml.in.h:86 ../comps-f13.xml.in.h:91 ../comps-f14.xml.in.h:99
-#: ../comps-f15.xml.in.h:99
+#: ../comps-f13.xml.in.h:91 ../comps-f14.xml.in.h:99 ../comps-f15.xml.in.h:101
+#: ../comps-el6.xml.in.h:111
 msgid "Gujarati Support"
 msgstr "Gujarati Support"
 
-#: ../comps-f12.xml.in.h:87 ../comps-f13.xml.in.h:92 ../comps-f14.xml.in.h:100
-#: ../comps-f15.xml.in.h:100 ../comps-el4.xml.in.h:25 ../comps-el5.xml.in.h:30
-#: ../comps-el6.xml.in.h:30
+#: ../comps-f13.xml.in.h:92 ../comps-f14.xml.in.h:100
+#: ../comps-f15.xml.in.h:103 ../comps-el4.xml.in.h:25 ../comps-el5.xml.in.h:30
 msgid "Hardware Support"
 msgstr "Hardware Support"
 
-#: ../comps-f12.xml.in.h:88 ../comps-f13.xml.in.h:93 ../comps-f14.xml.in.h:101
-#: ../comps-f15.xml.in.h:101
+#: ../comps-f13.xml.in.h:93 ../comps-f14.xml.in.h:101
+#: ../comps-f15.xml.in.h:104
 msgid "Haskell"
 msgstr "Haskell"
 
-#: ../comps-f12.xml.in.h:89 ../comps-f13.xml.in.h:94 ../comps-f14.xml.in.h:102
-#: ../comps-f15.xml.in.h:102 ../comps-el4.xml.in.h:26 ../comps-el5.xml.in.h:31
-#: ../comps-el6.xml.in.h:31
+#: ../comps-f13.xml.in.h:94 ../comps-f14.xml.in.h:102
+#: ../comps-f15.xml.in.h:105 ../comps-el4.xml.in.h:26 ../comps-el5.xml.in.h:31
+#: ../comps-el6.xml.in.h:113
 msgid "Hebrew Support"
 msgstr "Hebrew Support"
 
-#: ../comps-f12.xml.in.h:90 ../comps-f13.xml.in.h:95 ../comps-f14.xml.in.h:103
-#: ../comps-f15.xml.in.h:103
+#: ../comps-f13.xml.in.h:95 ../comps-f14.xml.in.h:103
+#: ../comps-f15.xml.in.h:106 ../comps-el6.xml.in.h:114
 msgid "Hiligaynon Support"
 msgstr "Hiligaynon Support"
 
-#: ../comps-f12.xml.in.h:91 ../comps-f13.xml.in.h:96 ../comps-f14.xml.in.h:104
-#: ../comps-f15.xml.in.h:104
+#: ../comps-f13.xml.in.h:96 ../comps-f14.xml.in.h:104
+#: ../comps-f15.xml.in.h:107 ../comps-el6.xml.in.h:115
 msgid "Hindi Support"
 msgstr "Hindi Support"
 
-#: ../comps-f12.xml.in.h:92 ../comps-f13.xml.in.h:97 ../comps-f14.xml.in.h:105
-#: ../comps-f15.xml.in.h:105
+#: ../comps-f13.xml.in.h:97 ../comps-f14.xml.in.h:105
+#: ../comps-f15.xml.in.h:108 ../comps-el6.xml.in.h:116
 msgid "Hungarian Support"
 msgstr "Hungarian Support"
 
-#: ../comps-f12.xml.in.h:93 ../comps-f13.xml.in.h:98 ../comps-f14.xml.in.h:106
-#: ../comps-f15.xml.in.h:106
+#: ../comps-f13.xml.in.h:98 ../comps-f14.xml.in.h:106
+#: ../comps-f15.xml.in.h:109 ../comps-el6.xml.in.h:117
 msgid "Icelandic Support"
 msgstr "Icelandic Support"
 
-#: ../comps-f12.xml.in.h:94 ../comps-f13.xml.in.h:99 ../comps-f14.xml.in.h:107
-#: ../comps-f15.xml.in.h:107
+#: ../comps-f13.xml.in.h:99 ../comps-f14.xml.in.h:107
+#: ../comps-f15.xml.in.h:110 ../comps-el6.xml.in.h:118
 msgid "Indonesian Support"
 msgstr "Indonesian Support"
 
-#: ../comps-f12.xml.in.h:95 ../comps-f13.xml.in.h:100
-#: ../comps-f14.xml.in.h:108 ../comps-f15.xml.in.h:108
+#: ../comps-f13.xml.in.h:100 ../comps-f14.xml.in.h:108
+#: ../comps-f15.xml.in.h:111 ../comps-el6.xml.in.h:120
 msgid "Input Methods"
 msgstr "Input Methods"
 
-#: ../comps-f12.xml.in.h:96 ../comps-f13.xml.in.h:101
-#: ../comps-f14.xml.in.h:109 ../comps-f15.xml.in.h:109
+#: ../comps-f13.xml.in.h:101 ../comps-f14.xml.in.h:109
+#: ../comps-f15.xml.in.h:112
 msgid "Input method packages for the input of international text."
 msgstr "Input method packages for the input of international text."
 
-#: ../comps-f12.xml.in.h:97 ../comps-f13.xml.in.h:102
-#: ../comps-f14.xml.in.h:110 ../comps-f15.xml.in.h:110
-#: ../comps-el4.xml.in.h:27 ../comps-el5.xml.in.h:32 ../comps-el6.xml.in.h:32
+#: ../comps-f13.xml.in.h:102 ../comps-f14.xml.in.h:110
+#: ../comps-f15.xml.in.h:113 ../comps-el4.xml.in.h:27 ../comps-el5.xml.in.h:32
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
@@ -545,8 +524,8 @@ msgstr ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
 
-#: ../comps-f12.xml.in.h:98 ../comps-f13.xml.in.h:103
-#: ../comps-f14.xml.in.h:111 ../comps-f15.xml.in.h:111
+#: ../comps-f13.xml.in.h:103 ../comps-f14.xml.in.h:111
+#: ../comps-f15.xml.in.h:114
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
@@ -554,349 +533,336 @@ msgstr ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
 
-#: ../comps-f12.xml.in.h:99 ../comps-f13.xml.in.h:104
-#: ../comps-f14.xml.in.h:112 ../comps-f15.xml.in.h:112
-#: ../comps-el4.xml.in.h:28 ../comps-el5.xml.in.h:33 ../comps-el6.xml.in.h:33
+#: ../comps-f13.xml.in.h:104 ../comps-f14.xml.in.h:112
+#: ../comps-f15.xml.in.h:115 ../comps-el4.xml.in.h:28 ../comps-el5.xml.in.h:33
 msgid "Install these packages to develop QT and KDE graphical applications."
 msgstr "Install these packages to develop QT and KDE graphical applications."
 
-#: ../comps-f12.xml.in.h:100 ../comps-f13.xml.in.h:105
-#: ../comps-f14.xml.in.h:113 ../comps-f15.xml.in.h:113
+#: ../comps-f13.xml.in.h:105 ../comps-f14.xml.in.h:113
+#: ../comps-f15.xml.in.h:116
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
 msgstr ""
 "Install these tools to enable the system to print or act as a print server."
 
-#: ../comps-f12.xml.in.h:101 ../comps-f13.xml.in.h:106
-#: ../comps-f14.xml.in.h:114 ../comps-f15.xml.in.h:114
-#: ../comps-el4.xml.in.h:29 ../comps-el5.xml.in.h:34 ../comps-el6.xml.in.h:34
+#: ../comps-f13.xml.in.h:106 ../comps-f14.xml.in.h:114
+#: ../comps-f15.xml.in.h:117 ../comps-el4.xml.in.h:29 ../comps-el5.xml.in.h:34
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
 msgstr ""
 "Install this group of packages to use the base graphical (X) user interface."
 
-#: ../comps-f12.xml.in.h:102 ../comps-f13.xml.in.h:107
-#: ../comps-f14.xml.in.h:115 ../comps-f15.xml.in.h:115
+#: ../comps-f13.xml.in.h:107 ../comps-f14.xml.in.h:115
+#: ../comps-f15.xml.in.h:118
 msgid "Integrated Development Environments based on Eclipse."
 msgstr "Integrated Development Environments based on Eclipse."
 
-#: ../comps-f12.xml.in.h:103 ../comps-f13.xml.in.h:108
-#: ../comps-f14.xml.in.h:116 ../comps-f15.xml.in.h:116
+#: ../comps-f13.xml.in.h:108 ../comps-f14.xml.in.h:116
+#: ../comps-f15.xml.in.h:119 ../comps-el6.xml.in.h:121
 msgid "Interlingua Support"
 msgstr "Interlingua Support"
 
-#: ../comps-f12.xml.in.h:104 ../comps-f13.xml.in.h:109
-#: ../comps-f14.xml.in.h:117 ../comps-f15.xml.in.h:117
+#: ../comps-f13.xml.in.h:109 ../comps-f14.xml.in.h:117
+#: ../comps-f15.xml.in.h:120 ../comps-el6.xml.in.h:124
 msgid "Inuktitut Support"
 msgstr "Inuktitut Support"
 
-#: ../comps-f12.xml.in.h:105 ../comps-f13.xml.in.h:110
-#: ../comps-f14.xml.in.h:118 ../comps-f15.xml.in.h:118
+#: ../comps-f13.xml.in.h:110 ../comps-f14.xml.in.h:118
+#: ../comps-f15.xml.in.h:121 ../comps-el6.xml.in.h:125
 msgid "Irish Support"
 msgstr "Irish Support"
 
-#: ../comps-f12.xml.in.h:106 ../comps-f13.xml.in.h:111
-#: ../comps-f14.xml.in.h:119 ../comps-f15.xml.in.h:119
+#: ../comps-f13.xml.in.h:111 ../comps-f14.xml.in.h:119
+#: ../comps-f15.xml.in.h:122 ../comps-el6.xml.in.h:126
 msgid "Italian Support"
 msgstr "Italian Support"
 
-#: ../comps-f12.xml.in.h:107 ../comps-f13.xml.in.h:112
-#: ../comps-f14.xml.in.h:120 ../comps-f15.xml.in.h:120
-#: ../comps-el4.xml.in.h:30 ../comps-el5.xml.in.h:35 ../comps-el6.xml.in.h:35
+#: ../comps-f13.xml.in.h:112 ../comps-f14.xml.in.h:120
+#: ../comps-f15.xml.in.h:123 ../comps-el4.xml.in.h:30 ../comps-el5.xml.in.h:35
+#: ../comps-el6.xml.in.h:127
 msgid "Japanese Support"
 msgstr "Japanese Support"
 
-#: ../comps-f12.xml.in.h:108 ../comps-f13.xml.in.h:113
-#: ../comps-f14.xml.in.h:121 ../comps-f15.xml.in.h:121
-#: ../comps-el4.xml.in.h:31
+#: ../comps-f13.xml.in.h:113 ../comps-f14.xml.in.h:121
+#: ../comps-f15.xml.in.h:124 ../comps-el4.xml.in.h:31
 msgid "Java"
 msgstr "Java"
 
-#: ../comps-f12.xml.in.h:109 ../comps-f13.xml.in.h:114
-#: ../comps-f14.xml.in.h:122 ../comps-f15.xml.in.h:122
-#: ../comps-el4.xml.in.h:32
+#: ../comps-f13.xml.in.h:114 ../comps-f14.xml.in.h:122
+#: ../comps-f15.xml.in.h:125 ../comps-el4.xml.in.h:32
 msgid "Java Development"
 msgstr "Java Development"
 
-#: ../comps-f12.xml.in.h:110 ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:36
-#: ../comps-el6.xml.in.h:36
-msgid "KDE (K Desktop Environment)"
-msgstr "KDE (K Desktop Environment)"
+#: ../comps-f13.xml.in.h:115 ../comps-f14.xml.in.h:123
+#: ../comps-f15.xml.in.h:126
+msgid "KDE Software Compilation"
+msgstr "KDE Software Compilation"
 
-#: ../comps-f12.xml.in.h:111 ../comps-f13.xml.in.h:116
-#: ../comps-f14.xml.in.h:124 ../comps-f15.xml.in.h:124
-#: ../comps-el4.xml.in.h:34 ../comps-el5.xml.in.h:37 ../comps-el6.xml.in.h:37
+#: ../comps-f13.xml.in.h:116 ../comps-f14.xml.in.h:124
+#: ../comps-f15.xml.in.h:127 ../comps-el4.xml.in.h:34 ../comps-el5.xml.in.h:37
 msgid "KDE Software Development"
 msgstr "KDE Software Development"
 
-#: ../comps-f12.xml.in.h:112
-msgid ""
-"KDE is a powerful graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDE is a powerful graphical user interface which includes a panel, desktop, "
-"system icons and a graphical file manager."
-
-#: ../comps-f12.xml.in.h:113 ../comps-f13.xml.in.h:117
-#: ../comps-f14.xml.in.h:125 ../comps-f15.xml.in.h:125
+#: ../comps-f13.xml.in.h:117 ../comps-f14.xml.in.h:125
+#: ../comps-f15.xml.in.h:128 ../comps-el6.xml.in.h:131
 msgid "Kannada Support"
 msgstr "Kannada Support"
 
-#: ../comps-f12.xml.in.h:114 ../comps-f13.xml.in.h:118
-#: ../comps-f14.xml.in.h:126 ../comps-f15.xml.in.h:126
+#: ../comps-f13.xml.in.h:118 ../comps-f14.xml.in.h:126
+#: ../comps-f15.xml.in.h:129 ../comps-el6.xml.in.h:132
 msgid "Kashmiri Support"
 msgstr "Kashmiri Support"
 
-#: ../comps-f12.xml.in.h:115 ../comps-f13.xml.in.h:119
-#: ../comps-f14.xml.in.h:127 ../comps-f15.xml.in.h:127
+#: ../comps-f13.xml.in.h:119 ../comps-f14.xml.in.h:127
+#: ../comps-f15.xml.in.h:130 ../comps-el6.xml.in.h:133
 msgid "Kashubian Support"
 msgstr "Kashubian Support"
 
-#: ../comps-f12.xml.in.h:116 ../comps-f13.xml.in.h:120
-#: ../comps-f14.xml.in.h:128 ../comps-f15.xml.in.h:128
+#: ../comps-f13.xml.in.h:120 ../comps-f14.xml.in.h:128
+#: ../comps-f15.xml.in.h:131 ../comps-el6.xml.in.h:134
 msgid "Kazakh Support"
 msgstr "Kazakh Support"
 
-#: ../comps-f12.xml.in.h:117 ../comps-f13.xml.in.h:121
-#: ../comps-f14.xml.in.h:129 ../comps-f15.xml.in.h:129
+#: ../comps-f13.xml.in.h:121 ../comps-f14.xml.in.h:129
+#: ../comps-f15.xml.in.h:132 ../comps-el6.xml.in.h:135
 msgid "Khmer Support"
 msgstr "Khmer Support"
 
-#: ../comps-f12.xml.in.h:118 ../comps-f13.xml.in.h:122
-#: ../comps-f14.xml.in.h:130 ../comps-f15.xml.in.h:130
+#: ../comps-f13.xml.in.h:122 ../comps-f14.xml.in.h:130
+#: ../comps-f15.xml.in.h:133 ../comps-el6.xml.in.h:136
 msgid "Kinyarwanda Support"
 msgstr "Kinyarwanda Support"
 
-#: ../comps-f12.xml.in.h:119 ../comps-f13.xml.in.h:123
-#: ../comps-f14.xml.in.h:131 ../comps-f15.xml.in.h:131
+#: ../comps-f13.xml.in.h:123 ../comps-f14.xml.in.h:131
+#: ../comps-f15.xml.in.h:134 ../comps-el6.xml.in.h:137
 msgid "Konkani Support"
 msgstr "Konkani Support"
 
-#: ../comps-f12.xml.in.h:120 ../comps-f13.xml.in.h:124
-#: ../comps-f14.xml.in.h:132 ../comps-f15.xml.in.h:132
+#: ../comps-f13.xml.in.h:124 ../comps-f14.xml.in.h:132
+#: ../comps-f15.xml.in.h:135 ../comps-el6.xml.in.h:138
 msgid "Korean Support"
 msgstr "Korean Support"
 
-#: ../comps-f12.xml.in.h:121 ../comps-f13.xml.in.h:125
-#: ../comps-f14.xml.in.h:133 ../comps-f15.xml.in.h:133
+#: ../comps-f13.xml.in.h:125 ../comps-f14.xml.in.h:133
+#: ../comps-f15.xml.in.h:136 ../comps-el6.xml.in.h:139
 msgid "Kurdish Support"
 msgstr "Kurdish Support"
 
-#: ../comps-f12.xml.in.h:122 ../comps-f13.xml.in.h:126
-#: ../comps-f14.xml.in.h:134 ../comps-f15.xml.in.h:134
+#: ../comps-f13.xml.in.h:126 ../comps-f14.xml.in.h:134
+#: ../comps-f15.xml.in.h:138
 msgid "LXDE"
 msgstr "LXDE"
 
-#: ../comps-f12.xml.in.h:123 ../comps-f13.xml.in.h:127
-#: ../comps-f14.xml.in.h:135 ../comps-f15.xml.in.h:135
+#: ../comps-f13.xml.in.h:127 ../comps-f14.xml.in.h:135
+#: ../comps-f15.xml.in.h:139
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older "
 "computers."
 
-#: ../comps-f12.xml.in.h:124 ../comps-f13.xml.in.h:128
-#: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:136
+#: ../comps-f13.xml.in.h:128 ../comps-f14.xml.in.h:136
+#: ../comps-f15.xml.in.h:140
 msgid "Languages"
 msgstr "Languages"
 
-#: ../comps-f12.xml.in.h:125 ../comps-f13.xml.in.h:129
-#: ../comps-f14.xml.in.h:137 ../comps-f15.xml.in.h:137
+#: ../comps-f13.xml.in.h:129 ../comps-f14.xml.in.h:137
+#: ../comps-f15.xml.in.h:141 ../comps-el6.xml.in.h:140
 msgid "Lao Support"
 msgstr "Lao Support"
 
-#: ../comps-f12.xml.in.h:126 ../comps-f13.xml.in.h:130
-#: ../comps-f14.xml.in.h:138 ../comps-f15.xml.in.h:138
+#: ../comps-f13.xml.in.h:130 ../comps-f14.xml.in.h:138
+#: ../comps-f15.xml.in.h:142 ../comps-el6.xml.in.h:142
 msgid "Latin Support"
 msgstr "Latin Support"
 
-#: ../comps-f12.xml.in.h:127 ../comps-f13.xml.in.h:131
-#: ../comps-f14.xml.in.h:139 ../comps-f15.xml.in.h:139
+#: ../comps-f13.xml.in.h:131 ../comps-f14.xml.in.h:139
+#: ../comps-f15.xml.in.h:143 ../comps-el6.xml.in.h:143
 msgid "Latvian Support"
 msgstr "Latvian Support"
 
-#: ../comps-f12.xml.in.h:128 ../comps-f13.xml.in.h:132
-#: ../comps-f14.xml.in.h:140 ../comps-f15.xml.in.h:140
+#: ../comps-f13.xml.in.h:132 ../comps-f14.xml.in.h:140
+#: ../comps-f15.xml.in.h:144
 msgid "Legacy Fonts"
 msgstr "Legacy Fonts"
 
-#: ../comps-f12.xml.in.h:129 ../comps-f13.xml.in.h:133
-#: ../comps-f14.xml.in.h:141 ../comps-f15.xml.in.h:141
+#: ../comps-f13.xml.in.h:133 ../comps-f14.xml.in.h:141
+#: ../comps-f15.xml.in.h:145
 msgid "Legacy Network Server"
 msgstr "Legacy Network Server"
 
-#: ../comps-f12.xml.in.h:130 ../comps-f13.xml.in.h:134
-#: ../comps-f14.xml.in.h:142 ../comps-f15.xml.in.h:142
+#: ../comps-f13.xml.in.h:134 ../comps-f14.xml.in.h:142
+#: ../comps-f15.xml.in.h:146
 msgid "Legacy Software Development"
 msgstr "Legacy Software Development"
 
-#: ../comps-f12.xml.in.h:131 ../comps-f13.xml.in.h:135
-#: ../comps-f14.xml.in.h:143 ../comps-f15.xml.in.h:143
+#: ../comps-f13.xml.in.h:135 ../comps-f14.xml.in.h:143
+#: ../comps-f15.xml.in.h:147
 msgid "Legacy Software Support"
 msgstr "Legacy Software Support"
 
-#: ../comps-f12.xml.in.h:132 ../comps-f13.xml.in.h:136
-#: ../comps-f14.xml.in.h:144 ../comps-f15.xml.in.h:144
+#: ../comps-f13.xml.in.h:136 ../comps-f14.xml.in.h:144
+#: ../comps-f15.xml.in.h:150 ../comps-el6.xml.in.h:146
 msgid "Lithuanian Support"
 msgstr "Lithuanian Support"
 
-#: ../comps-f12.xml.in.h:133 ../comps-f13.xml.in.h:137
-#: ../comps-f14.xml.in.h:145 ../comps-f15.xml.in.h:145
+#: ../comps-f13.xml.in.h:137 ../comps-f14.xml.in.h:145
+#: ../comps-f15.xml.in.h:152 ../comps-el6.xml.in.h:147
 msgid "Low Saxon Support"
 msgstr "Low Saxon Support"
 
-#: ../comps-f12.xml.in.h:134 ../comps-f13.xml.in.h:138
-#: ../comps-f14.xml.in.h:146 ../comps-f15.xml.in.h:146
+#: ../comps-f13.xml.in.h:138 ../comps-f14.xml.in.h:146
+#: ../comps-f15.xml.in.h:155 ../comps-el6.xml.in.h:148
 msgid "Luxembourgish Support"
 msgstr "Luxembourgish Support"
 
-#: ../comps-f12.xml.in.h:135 ../comps-f13.xml.in.h:139
-#: ../comps-f14.xml.in.h:147 ../comps-f15.xml.in.h:147
+#: ../comps-f13.xml.in.h:139 ../comps-f14.xml.in.h:147
+#: ../comps-f15.xml.in.h:156 ../comps-el6.xml.in.h:149
 msgid "Macedonian Support"
 msgstr "Macedonian Support"
 
-#: ../comps-f12.xml.in.h:136 ../comps-f13.xml.in.h:140
-#: ../comps-f14.xml.in.h:148 ../comps-f15.xml.in.h:148
+#: ../comps-f13.xml.in.h:140 ../comps-f14.xml.in.h:148
+#: ../comps-f15.xml.in.h:157 ../comps-el6.xml.in.h:150
 msgid "Machine and user identity servers."
 msgstr "Machine and user identity servers."
 
-#: ../comps-f12.xml.in.h:137 ../comps-f13.xml.in.h:141
-#: ../comps-f14.xml.in.h:149 ../comps-f15.xml.in.h:149
-#: ../comps-el4.xml.in.h:36 ../comps-el5.xml.in.h:39 ../comps-el6.xml.in.h:39
+#: ../comps-f13.xml.in.h:141 ../comps-f14.xml.in.h:149
+#: ../comps-f15.xml.in.h:158 ../comps-el4.xml.in.h:36 ../comps-el5.xml.in.h:39
 msgid "Mail Server"
 msgstr "Mail Server"
 
-#: ../comps-f12.xml.in.h:138 ../comps-f13.xml.in.h:142
-#: ../comps-f14.xml.in.h:150 ../comps-f15.xml.in.h:150
+#: ../comps-f13.xml.in.h:142 ../comps-f14.xml.in.h:150
+#: ../comps-f15.xml.in.h:159 ../comps-el6.xml.in.h:152
 msgid "Maithili Support"
 msgstr "Maithili Support"
 
-#: ../comps-f12.xml.in.h:139 ../comps-f13.xml.in.h:143
-#: ../comps-f14.xml.in.h:151 ../comps-f15.xml.in.h:151
+#: ../comps-f13.xml.in.h:143 ../comps-f14.xml.in.h:151
+#: ../comps-f15.xml.in.h:160 ../comps-el6.xml.in.h:153
 msgid "Malagasy Support"
 msgstr "Malagasy Support"
 
-#: ../comps-f12.xml.in.h:140 ../comps-f13.xml.in.h:144
-#: ../comps-f14.xml.in.h:152 ../comps-f15.xml.in.h:152
+#: ../comps-f13.xml.in.h:144 ../comps-f14.xml.in.h:152
+#: ../comps-f15.xml.in.h:161 ../comps-el6.xml.in.h:154
 msgid "Malay Support"
 msgstr "Malay Support"
 
-#: ../comps-f12.xml.in.h:141 ../comps-f13.xml.in.h:145
-#: ../comps-f14.xml.in.h:153 ../comps-f15.xml.in.h:153
+#: ../comps-f13.xml.in.h:145 ../comps-f14.xml.in.h:153
+#: ../comps-f15.xml.in.h:162 ../comps-el6.xml.in.h:155
 msgid "Malayalam Support"
 msgstr "Malayam Support"
 
-#: ../comps-f12.xml.in.h:142 ../comps-f13.xml.in.h:146
-#: ../comps-f14.xml.in.h:154 ../comps-f15.xml.in.h:154
+#: ../comps-f13.xml.in.h:146 ../comps-f14.xml.in.h:154
+#: ../comps-f15.xml.in.h:163 ../comps-el6.xml.in.h:156
 msgid "Maltese Support"
 msgstr "Maltese Support"
 
-#: ../comps-f12.xml.in.h:143 ../comps-f13.xml.in.h:147
-#: ../comps-f14.xml.in.h:155 ../comps-f15.xml.in.h:155
+#: ../comps-f13.xml.in.h:147 ../comps-f14.xml.in.h:155
+#: ../comps-f15.xml.in.h:164 ../comps-el6.xml.in.h:157
 msgid "Manx Support"
 msgstr "Manx Support"
 
-#: ../comps-f12.xml.in.h:144 ../comps-f13.xml.in.h:148
-#: ../comps-f14.xml.in.h:156 ../comps-f15.xml.in.h:156
+#: ../comps-f13.xml.in.h:148 ../comps-f14.xml.in.h:156
+#: ../comps-f15.xml.in.h:165 ../comps-el6.xml.in.h:158
 msgid "Maori Support"
 msgstr "Maori Support"
 
-#: ../comps-f12.xml.in.h:145 ../comps-f13.xml.in.h:149
-#: ../comps-f14.xml.in.h:157 ../comps-f15.xml.in.h:157
+#: ../comps-f13.xml.in.h:149 ../comps-f14.xml.in.h:157
+#: ../comps-f15.xml.in.h:166 ../comps-el6.xml.in.h:159
 msgid "Marathi Support"
 msgstr "Marathi Support"
 
-#: ../comps-f12.xml.in.h:146 ../comps-f13.xml.in.h:150
-#: ../comps-f14.xml.in.h:160 ../comps-f15.xml.in.h:160
+#: ../comps-f13.xml.in.h:150 ../comps-f14.xml.in.h:161
+#: ../comps-f15.xml.in.h:170
 msgid "MinGW cross-compiler"
 msgstr "MinGW cross-compiler"
 
-#: ../comps-f12.xml.in.h:147 ../comps-f13.xml.in.h:151
+#: ../comps-f13.xml.in.h:151
 msgid "Moblin Desktop Environment"
 msgstr "Moblin Desktop Environment"
 
-#: ../comps-f12.xml.in.h:148
-msgid "Moblin is a desktop environment for NetBook/NetTop/MID devices."
-msgstr "Moblin is a desktop environment for NetBook/NetTop/MID devices."
+#: ../comps-f13.xml.in.h:152
+msgid "Moblin is a desktop environment for NetBook/NetTop devices."
+msgstr "Moblin is a desktop environment for NetBook/NetTop devices."
 
-#: ../comps-f12.xml.in.h:149 ../comps-f13.xml.in.h:153
-#: ../comps-f14.xml.in.h:161 ../comps-f15.xml.in.h:161
+#: ../comps-f13.xml.in.h:153 ../comps-f14.xml.in.h:162
+#: ../comps-f15.xml.in.h:171 ../comps-el6.xml.in.h:164
 msgid "Mongolian Support"
 msgstr "Mongolian Support"
 
-#: ../comps-f12.xml.in.h:150 ../comps-f13.xml.in.h:154
-#: ../comps-f14.xml.in.h:162 ../comps-f15.xml.in.h:162
+#: ../comps-f13.xml.in.h:154 ../comps-f14.xml.in.h:163
+#: ../comps-f15.xml.in.h:173
 msgid "MySQL Database"
 msgstr "MySQL Database"
 
-#: ../comps-f12.xml.in.h:151 ../comps-f13.xml.in.h:155
-#: ../comps-f14.xml.in.h:163 ../comps-f15.xml.in.h:163
+#: ../comps-f13.xml.in.h:155 ../comps-f14.xml.in.h:164
+#: ../comps-f15.xml.in.h:174 ../comps-el6.xml.in.h:167
 msgid "Myanmar (Burmese) Support"
 msgstr "Myanmar (Burmese) Support"
 
-#: ../comps-f12.xml.in.h:152 ../comps-f13.xml.in.h:156
-#: ../comps-f14.xml.in.h:164 ../comps-f15.xml.in.h:164
+#: ../comps-f13.xml.in.h:156 ../comps-f14.xml.in.h:165
+#: ../comps-f15.xml.in.h:175 ../comps-el6.xml.in.h:170
 msgid "Nepali Support"
 msgstr "Nepali Support"
 
-#: ../comps-f12.xml.in.h:153 ../comps-f13.xml.in.h:157
-#: ../comps-f14.xml.in.h:165 ../comps-f15.xml.in.h:165
-#: ../comps-el4.xml.in.h:37 ../comps-el5.xml.in.h:40 ../comps-el6.xml.in.h:40
+#: ../comps-f13.xml.in.h:157 ../comps-f14.xml.in.h:166
+#: ../comps-f15.xml.in.h:176 ../comps-el4.xml.in.h:37 ../comps-el5.xml.in.h:40
 msgid "Network Servers"
 msgstr "Network Servers"
 
-#: ../comps-f12.xml.in.h:154 ../comps-f13.xml.in.h:158
-#: ../comps-f14.xml.in.h:166 ../comps-f15.xml.in.h:166
-#: ../comps-el4.xml.in.h:38 ../comps-el5.xml.in.h:41 ../comps-el6.xml.in.h:41
+#: ../comps-f13.xml.in.h:158 ../comps-f14.xml.in.h:167
+#: ../comps-f15.xml.in.h:177 ../comps-el4.xml.in.h:38 ../comps-el5.xml.in.h:41
 msgid "News Server"
 msgstr "News Server"
 
-#: ../comps-f12.xml.in.h:155 ../comps-f13.xml.in.h:159
-#: ../comps-f14.xml.in.h:167 ../comps-f15.xml.in.h:167
+#: ../comps-f13.xml.in.h:159 ../comps-f14.xml.in.h:168
+#: ../comps-f15.xml.in.h:179 ../comps-el6.xml.in.h:175
 msgid "Northern Sotho Support"
 msgstr "Northern Sotho Support"
 
-#: ../comps-f12.xml.in.h:156 ../comps-f13.xml.in.h:160
-#: ../comps-f14.xml.in.h:168 ../comps-f15.xml.in.h:168
+#: ../comps-f13.xml.in.h:160 ../comps-f14.xml.in.h:169
+#: ../comps-f15.xml.in.h:180 ../comps-el6.xml.in.h:176
 msgid "Norwegian Support"
 msgstr "Norwegian Support"
 
-#: ../comps-f12.xml.in.h:157 ../comps-f13.xml.in.h:161
-#: ../comps-f14.xml.in.h:169 ../comps-f15.xml.in.h:169
+#: ../comps-f13.xml.in.h:161 ../comps-f14.xml.in.h:170
+#: ../comps-f15.xml.in.h:181
 msgid "OCaml"
 msgstr "OCaml"
 
-#: ../comps-f12.xml.in.h:158 ../comps-f13.xml.in.h:162
-#: ../comps-f14.xml.in.h:170 ../comps-f15.xml.in.h:170
+#: ../comps-f13.xml.in.h:162 ../comps-f14.xml.in.h:171
+#: ../comps-f15.xml.in.h:182 ../comps-el6.xml.in.h:177
 msgid "Occitan Support"
 msgstr "Occitan Support"
 
-#: ../comps-f12.xml.in.h:159 ../comps-f13.xml.in.h:163
-#: ../comps-f14.xml.in.h:171 ../comps-f15.xml.in.h:171
-#: ../comps-el4.xml.in.h:39 ../comps-el5.xml.in.h:42 ../comps-el6.xml.in.h:42
+#: ../comps-f13.xml.in.h:163 ../comps-f14.xml.in.h:172
+#: ../comps-f15.xml.in.h:183 ../comps-el4.xml.in.h:39 ../comps-el5.xml.in.h:42
 msgid "Office/Productivity"
 msgstr "Office/Productivity"
 
-#: ../comps-f12.xml.in.h:160 ../comps-f13.xml.in.h:164
-#: ../comps-f14.xml.in.h:172 ../comps-f15.xml.in.h:172
+#: ../comps-f13.xml.in.h:164 ../comps-f14.xml.in.h:173
+#: ../comps-f15.xml.in.h:184
 msgid "Older bitmap and vector fonts packages"
 msgstr "Older bitmap and vector fonts packages"
 
-#: ../comps-f12.xml.in.h:161 ../comps-f13.xml.in.h:165
-#: ../comps-f14.xml.in.h:173 ../comps-f15.xml.in.h:173
+#: ../comps-f13.xml.in.h:165 ../comps-f14.xml.in.h:174
+#: ../comps-f15.xml.in.h:185
 msgid "Online Help and Documentation"
 msgstr "Online Help and Documentation"
 
-#: ../comps-f12.xml.in.h:162 ../comps-f13.xml.in.h:167
-#: ../comps-f14.xml.in.h:175 ../comps-f15.xml.in.h:175
+#: ../comps-f13.xml.in.h:166 ../comps-f14.xml.in.h:175
+msgid "OpenOffice.org Development"
+msgstr "OpenOffice.org Development"
+
+#: ../comps-f13.xml.in.h:167 ../comps-f14.xml.in.h:176
+#: ../comps-f15.xml.in.h:186 ../comps-el6.xml.in.h:179
 msgid "Oriya Support"
 msgstr "Oriya Support"
 
-#: ../comps-f12.xml.in.h:163 ../comps-f13.xml.in.h:168
-#: ../comps-f14.xml.in.h:176 ../comps-f15.xml.in.h:176
-#: ../comps-el4.xml.in.h:40 ../comps-el5.xml.in.h:43 ../comps-el6.xml.in.h:43
+#: ../comps-f13.xml.in.h:168 ../comps-f14.xml.in.h:177
+#: ../comps-f15.xml.in.h:188 ../comps-el4.xml.in.h:40 ../comps-el5.xml.in.h:43
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
@@ -904,133 +870,130 @@ msgstr ""
 "Packages which provide functionality for developing and building "
 "applications."
 
-#: ../comps-f12.xml.in.h:164 ../comps-f13.xml.in.h:169
-#: ../comps-f14.xml.in.h:177 ../comps-f15.xml.in.h:177
+#: ../comps-f13.xml.in.h:169 ../comps-f14.xml.in.h:178
+#: ../comps-f15.xml.in.h:189
 msgid "Perl Development"
 msgstr "Perl Development"
 
-#: ../comps-f12.xml.in.h:165 ../comps-f13.xml.in.h:170
-#: ../comps-f14.xml.in.h:178 ../comps-f15.xml.in.h:178
+#: ../comps-f13.xml.in.h:170 ../comps-f14.xml.in.h:179
+#: ../comps-f15.xml.in.h:190 ../comps-el6.xml.in.h:186
 msgid "Persian Support"
 msgstr "Persian Support"
 
-#: ../comps-f12.xml.in.h:166 ../comps-f13.xml.in.h:171
-#: ../comps-f14.xml.in.h:179 ../comps-f15.xml.in.h:179
+#: ../comps-f13.xml.in.h:171 ../comps-f14.xml.in.h:180
+#: ../comps-f15.xml.in.h:191 ../comps-el6.xml.in.h:189
 msgid "Polish Support"
 msgstr "Polish Support"
 
-#: ../comps-f12.xml.in.h:167 ../comps-f13.xml.in.h:172
-#: ../comps-f14.xml.in.h:180 ../comps-f15.xml.in.h:180
+#: ../comps-f13.xml.in.h:172 ../comps-f14.xml.in.h:181
+#: ../comps-f15.xml.in.h:192 ../comps-el6.xml.in.h:190
 msgid "Portuguese Support"
 msgstr "Portuguese Support"
 
-#: ../comps-f12.xml.in.h:168 ../comps-f13.xml.in.h:173
-#: ../comps-f14.xml.in.h:181 ../comps-f15.xml.in.h:181
+#: ../comps-f13.xml.in.h:173 ../comps-f14.xml.in.h:182
+#: ../comps-f15.xml.in.h:193
 msgid "PostgreSQL Database"
 msgstr "PostgreSQL Database"
 
-#: ../comps-f12.xml.in.h:169 ../comps-f13.xml.in.h:174
-#: ../comps-f14.xml.in.h:182 ../comps-f15.xml.in.h:182
+#: ../comps-f13.xml.in.h:174 ../comps-f14.xml.in.h:183
+#: ../comps-f15.xml.in.h:194
 msgid "Printing Support"
 msgstr "Printing Support"
 
-#: ../comps-f12.xml.in.h:170 ../comps-f13.xml.in.h:175
-#: ../comps-f14.xml.in.h:183 ../comps-f15.xml.in.h:183
+#: ../comps-f13.xml.in.h:175 ../comps-f14.xml.in.h:184
+#: ../comps-f15.xml.in.h:195 ../comps-el6.xml.in.h:197
 msgid "Punjabi Support"
 msgstr "Punjabi Support"
 
-#: ../comps-f12.xml.in.h:171 ../comps-f13.xml.in.h:176
-#: ../comps-f14.xml.in.h:184 ../comps-f15.xml.in.h:184
+#: ../comps-f13.xml.in.h:176 ../comps-f14.xml.in.h:185
+#: ../comps-f15.xml.in.h:198 ../comps-el6.xml.in.h:199
 msgid "Romanian Support"
 msgstr "Romanian Support"
 
-#: ../comps-f12.xml.in.h:172 ../comps-f13.xml.in.h:177
-#: ../comps-f14.xml.in.h:185 ../comps-f15.xml.in.h:185
+#: ../comps-f13.xml.in.h:177 ../comps-f14.xml.in.h:186
+#: ../comps-f15.xml.in.h:199
 msgid "Ruby"
 msgstr "Ruby"
 
-#: ../comps-f12.xml.in.h:173 ../comps-f13.xml.in.h:178
-#: ../comps-f14.xml.in.h:186 ../comps-f15.xml.in.h:186
+#: ../comps-f13.xml.in.h:178 ../comps-f14.xml.in.h:187
+#: ../comps-f15.xml.in.h:200 ../comps-el6.xml.in.h:200
 msgid "Russian Support"
 msgstr "Russian Support"
 
-#: ../comps-f12.xml.in.h:174 ../comps-f13.xml.in.h:179
-#: ../comps-f14.xml.in.h:187 ../comps-f15.xml.in.h:187
+#: ../comps-f13.xml.in.h:179 ../comps-f14.xml.in.h:188
+#: ../comps-f15.xml.in.h:201
 msgid "Samoan Support"
 msgstr "Samoan Support"
 
-#: ../comps-f12.xml.in.h:175 ../comps-f13.xml.in.h:180
-#: ../comps-f14.xml.in.h:188 ../comps-f15.xml.in.h:188
+#: ../comps-f13.xml.in.h:180 ../comps-f14.xml.in.h:189
+#: ../comps-f15.xml.in.h:202 ../comps-el6.xml.in.h:203
 msgid "Sanskrit Support"
 msgstr "Sanskrit Support"
 
-#: ../comps-f12.xml.in.h:176 ../comps-f13.xml.in.h:181
-#: ../comps-f14.xml.in.h:189 ../comps-f15.xml.in.h:189
+#: ../comps-f13.xml.in.h:181 ../comps-f14.xml.in.h:190
+#: ../comps-f15.xml.in.h:203 ../comps-el6.xml.in.h:204
 msgid "Sardinian Support"
 msgstr "Sardinian Support"
 
-#: ../comps-f12.xml.in.h:177 ../comps-f13.xml.in.h:182
-#: ../comps-f14.xml.in.h:190 ../comps-f15.xml.in.h:190
+#: ../comps-f13.xml.in.h:182 ../comps-f14.xml.in.h:191
+#: ../comps-f15.xml.in.h:204 ../comps-el6.xml.in.h:208
 msgid "Serbian Support"
 msgstr "Serbian Support"
 
-#: ../comps-f12.xml.in.h:178 ../comps-f13.xml.in.h:183
-#: ../comps-f14.xml.in.h:191 ../comps-f15.xml.in.h:191
+#: ../comps-f13.xml.in.h:183 ../comps-f14.xml.in.h:192
+#: ../comps-f15.xml.in.h:205
 msgid "Server Configuration Tools"
 msgstr "Server Configuration Tools"
 
-#: ../comps-f12.xml.in.h:179 ../comps-f13.xml.in.h:184
-#: ../comps-f14.xml.in.h:192 ../comps-f15.xml.in.h:192
-#: ../comps-el4.xml.in.h:41 ../comps-el5.xml.in.h:44 ../comps-el6.xml.in.h:44
+#: ../comps-f13.xml.in.h:184 ../comps-f14.xml.in.h:193
+#: ../comps-f15.xml.in.h:206 ../comps-el4.xml.in.h:41 ../comps-el5.xml.in.h:44
 msgid "Servers"
 msgstr "Servers"
 
-#: ../comps-f12.xml.in.h:180 ../comps-f13.xml.in.h:185
-#: ../comps-f14.xml.in.h:193 ../comps-f15.xml.in.h:193
-#: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:45 ../comps-el6.xml.in.h:45
+#: ../comps-f13.xml.in.h:185 ../comps-f14.xml.in.h:194
+#: ../comps-f15.xml.in.h:208 ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:45
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
 "Simple window managers that aren't part of a larger desktop environment."
 
-#: ../comps-f12.xml.in.h:181 ../comps-f13.xml.in.h:186
-#: ../comps-f14.xml.in.h:194 ../comps-f15.xml.in.h:194
+#: ../comps-f13.xml.in.h:186 ../comps-f14.xml.in.h:195
+#: ../comps-f15.xml.in.h:210 ../comps-el6.xml.in.h:214
 msgid "Sindhi Support"
 msgstr "Sindhi Support"
 
-#: ../comps-f12.xml.in.h:182 ../comps-f13.xml.in.h:187
-#: ../comps-f14.xml.in.h:195 ../comps-f15.xml.in.h:195
+#: ../comps-f13.xml.in.h:187 ../comps-f14.xml.in.h:196
+#: ../comps-f15.xml.in.h:211 ../comps-el6.xml.in.h:215
 msgid "Sinhala Support"
 msgstr "Sinhala Support"
 
-#: ../comps-f12.xml.in.h:183 ../comps-f13.xml.in.h:188
-#: ../comps-f14.xml.in.h:196 ../comps-f15.xml.in.h:196
+#: ../comps-f13.xml.in.h:188 ../comps-f14.xml.in.h:197
+#: ../comps-f15.xml.in.h:212 ../comps-el6.xml.in.h:216
 msgid "Slovak Support"
 msgstr "Slovak Support"
 
-#: ../comps-f12.xml.in.h:184 ../comps-f13.xml.in.h:189
-#: ../comps-f14.xml.in.h:197 ../comps-f15.xml.in.h:197
+#: ../comps-f13.xml.in.h:189 ../comps-f14.xml.in.h:198
+#: ../comps-f15.xml.in.h:213 ../comps-el6.xml.in.h:217
 msgid "Slovenian Support"
 msgstr "Slovenian Support"
 
-#: ../comps-f12.xml.in.h:185 ../comps-f13.xml.in.h:190
-#: ../comps-f14.xml.in.h:198 ../comps-f15.xml.in.h:198
+#: ../comps-f13.xml.in.h:190 ../comps-f14.xml.in.h:199
+#: ../comps-f15.xml.in.h:214
 msgid "Smallest possible installation"
 msgstr "Smallest possible installation"
 
-#: ../comps-f12.xml.in.h:186 ../comps-f13.xml.in.h:191
-#: ../comps-f14.xml.in.h:199 ../comps-f15.xml.in.h:199
-#: ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:46 ../comps-el6.xml.in.h:46
+#: ../comps-f13.xml.in.h:191 ../comps-f14.xml.in.h:200
+#: ../comps-f15.xml.in.h:215 ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:46
 msgid "Software used for running network servers"
 msgstr "Software used for running network servers"
 
-#: ../comps-f12.xml.in.h:187 ../comps-f13.xml.in.h:192
-#: ../comps-f14.xml.in.h:200 ../comps-f15.xml.in.h:200
+#: ../comps-f13.xml.in.h:192 ../comps-f14.xml.in.h:201
+#: ../comps-f15.xml.in.h:216
 msgid "Somali Support"
 msgstr "Somali Support"
 
-#: ../comps-f12.xml.in.h:188 ../comps-f13.xml.in.h:193
-#: ../comps-f14.xml.in.h:201 ../comps-f15.xml.in.h:201
+#: ../comps-f13.xml.in.h:193 ../comps-f14.xml.in.h:202
+#: ../comps-f15.xml.in.h:217
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
@@ -1038,34 +1001,33 @@ msgstr ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
 
-#: ../comps-f12.xml.in.h:189 ../comps-f13.xml.in.h:194
-#: ../comps-f14.xml.in.h:202 ../comps-f15.xml.in.h:202
-#: ../comps-el4.xml.in.h:45 ../comps-el5.xml.in.h:48 ../comps-el6.xml.in.h:48
+#: ../comps-f13.xml.in.h:194 ../comps-f14.xml.in.h:203
+#: ../comps-f15.xml.in.h:218 ../comps-el4.xml.in.h:45 ../comps-el5.xml.in.h:48
 msgid "Sound and Video"
 msgstr "Sound and Video"
 
-#: ../comps-f12.xml.in.h:190 ../comps-f13.xml.in.h:195
-#: ../comps-f14.xml.in.h:203 ../comps-f15.xml.in.h:203
+#: ../comps-f13.xml.in.h:195 ../comps-f14.xml.in.h:204
+#: ../comps-f15.xml.in.h:219 ../comps-el6.xml.in.h:224
 msgid "Southern Ndebele Support"
 msgstr "Southern Ndebele Support"
 
-#: ../comps-f12.xml.in.h:191 ../comps-f13.xml.in.h:196
-#: ../comps-f14.xml.in.h:204 ../comps-f15.xml.in.h:204
+#: ../comps-f13.xml.in.h:196 ../comps-f14.xml.in.h:205
+#: ../comps-f15.xml.in.h:220 ../comps-el6.xml.in.h:225
 msgid "Southern Sotho Support"
 msgstr "Southern Sotho Support"
 
-#: ../comps-f12.xml.in.h:192 ../comps-f13.xml.in.h:197
-#: ../comps-f14.xml.in.h:205 ../comps-f15.xml.in.h:205
+#: ../comps-f13.xml.in.h:197 ../comps-f14.xml.in.h:206
+#: ../comps-f15.xml.in.h:221 ../comps-el6.xml.in.h:226
 msgid "Spanish Support"
 msgstr "Spanish Support"
 
-#: ../comps-f12.xml.in.h:193 ../comps-f13.xml.in.h:198
-#: ../comps-f14.xml.in.h:206 ../comps-f15.xml.in.h:206
+#: ../comps-f13.xml.in.h:198 ../comps-f14.xml.in.h:207
+#: ../comps-f15.xml.in.h:222
 msgid "Sugar Desktop Environment"
 msgstr "Sugar Desktop Environment"
 
-#: ../comps-f12.xml.in.h:194 ../comps-f13.xml.in.h:199
-#: ../comps-f14.xml.in.h:207 ../comps-f15.xml.in.h:207
+#: ../comps-f13.xml.in.h:199 ../comps-f14.xml.in.h:208
+#: ../comps-f15.xml.in.h:223
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
@@ -1073,24 +1035,23 @@ msgstr ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 
-#: ../comps-f12.xml.in.h:195 ../comps-f13.xml.in.h:200
-#: ../comps-f14.xml.in.h:208 ../comps-f15.xml.in.h:208
+#: ../comps-f13.xml.in.h:200 ../comps-f14.xml.in.h:209
+#: ../comps-f15.xml.in.h:224
 msgid "Support for developing programs in the Haskell programming language."
 msgstr "Support for developing programs in the Haskell programming language."
 
-#: ../comps-f12.xml.in.h:196 ../comps-f13.xml.in.h:201
-#: ../comps-f14.xml.in.h:209 ../comps-f15.xml.in.h:209
-#: ../comps-el4.xml.in.h:46
+#: ../comps-f13.xml.in.h:201 ../comps-f14.xml.in.h:210
+#: ../comps-f15.xml.in.h:225 ../comps-el4.xml.in.h:46
 msgid "Support for developing programs in the Java programming language."
 msgstr "Support for developing programs in the Java programming language."
 
-#: ../comps-f12.xml.in.h:197 ../comps-f13.xml.in.h:202
-#: ../comps-f14.xml.in.h:210 ../comps-f15.xml.in.h:210
+#: ../comps-f13.xml.in.h:202 ../comps-f14.xml.in.h:211
+#: ../comps-f15.xml.in.h:226
 msgid "Support for developing programs in the Perl programming language."
 msgstr "Support for developing programs in the Perl programming language."
 
-#: ../comps-f12.xml.in.h:198 ../comps-f13.xml.in.h:203
-#: ../comps-f14.xml.in.h:211 ../comps-f15.xml.in.h:211
+#: ../comps-f13.xml.in.h:203 ../comps-f14.xml.in.h:212
+#: ../comps-f15.xml.in.h:227
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
@@ -1098,112 +1059,133 @@ msgstr ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
 
-#: ../comps-f12.xml.in.h:199 ../comps-f13.xml.in.h:204
-#: ../comps-f14.xml.in.h:212 ../comps-f15.xml.in.h:212
-#: ../comps-el4.xml.in.h:47
+#: ../comps-f13.xml.in.h:204 ../comps-f14.xml.in.h:213
+#: ../comps-f15.xml.in.h:228 ../comps-el4.xml.in.h:47
 msgid "Support for running programs written in the Java programming language."
-msgstr "Support for running programs written in the Java programming language."
+msgstr ""
+"Support for running programs written in the Java programming language."
 
-#: ../comps-f12.xml.in.h:200 ../comps-f13.xml.in.h:205
-#: ../comps-f14.xml.in.h:213 ../comps-f15.xml.in.h:213
+#: ../comps-f13.xml.in.h:205 ../comps-f14.xml.in.h:214
+#: ../comps-f15.xml.in.h:229 ../comps-el6.xml.in.h:232
 msgid "Swahili Support"
 msgstr "Swahili Support"
 
-#: ../comps-f12.xml.in.h:201 ../comps-f13.xml.in.h:206
-#: ../comps-f14.xml.in.h:214 ../comps-f15.xml.in.h:214
+#: ../comps-f13.xml.in.h:206 ../comps-f14.xml.in.h:215
+#: ../comps-f15.xml.in.h:230 ../comps-el6.xml.in.h:233
 msgid "Swati Support"
 msgstr "Swati Support"
 
-#: ../comps-f12.xml.in.h:202 ../comps-f13.xml.in.h:207
-#: ../comps-f14.xml.in.h:215 ../comps-f15.xml.in.h:215
+#: ../comps-f13.xml.in.h:207 ../comps-f14.xml.in.h:216
+#: ../comps-f15.xml.in.h:231 ../comps-el6.xml.in.h:234
 msgid "Swedish Support"
 msgstr "Swedish Support"
 
-#: ../comps-f12.xml.in.h:203 ../comps-f13.xml.in.h:208
-#: ../comps-f14.xml.in.h:216 ../comps-f15.xml.in.h:216
-#: ../comps-el4.xml.in.h:48 ../comps-el5.xml.in.h:49 ../comps-el6.xml.in.h:49
+#: ../comps-f13.xml.in.h:208 ../comps-f14.xml.in.h:217
+#: ../comps-f15.xml.in.h:232 ../comps-el4.xml.in.h:48 ../comps-el5.xml.in.h:49
 msgid "System Tools"
 msgstr "System Tools"
 
-#: ../comps-f12.xml.in.h:204 ../comps-f13.xml.in.h:209
-#: ../comps-f14.xml.in.h:217 ../comps-f15.xml.in.h:217
+#: ../comps-f13.xml.in.h:209 ../comps-f14.xml.in.h:218
+#: ../comps-f15.xml.in.h:233 ../comps-el6.xml.in.h:237
 msgid "Tagalog Support"
 msgstr "Tagalog Support"
 
-#: ../comps-f12.xml.in.h:205 ../comps-f13.xml.in.h:210
-#: ../comps-f14.xml.in.h:218 ../comps-f15.xml.in.h:218
+#: ../comps-f13.xml.in.h:210 ../comps-f14.xml.in.h:219
+#: ../comps-f15.xml.in.h:234 ../comps-el6.xml.in.h:238
 msgid "Tajik Support"
 msgstr "Tajik Support"
 
-#: ../comps-f12.xml.in.h:206 ../comps-f13.xml.in.h:211
-#: ../comps-f14.xml.in.h:219 ../comps-f15.xml.in.h:219
+#: ../comps-f13.xml.in.h:211 ../comps-f14.xml.in.h:220
+#: ../comps-f15.xml.in.h:235 ../comps-el6.xml.in.h:239
 msgid "Tamil Support"
 msgstr "Tamil Support"
 
-#: ../comps-f12.xml.in.h:207 ../comps-f13.xml.in.h:212
-#: ../comps-f14.xml.in.h:220 ../comps-f15.xml.in.h:220
+#: ../comps-f13.xml.in.h:212 ../comps-f14.xml.in.h:221
+#: ../comps-f15.xml.in.h:236 ../comps-el6.xml.in.h:242
 msgid "Telugu Support"
 msgstr "Telugu Support"
 
-#: ../comps-f12.xml.in.h:208 ../comps-f13.xml.in.h:213
-#: ../comps-f14.xml.in.h:221 ../comps-f15.xml.in.h:221
+#: ../comps-f13.xml.in.h:213 ../comps-f14.xml.in.h:222
+#: ../comps-f15.xml.in.h:237 ../comps-el6.xml.in.h:243
 msgid "Tetum Support"
 msgstr "Tetum Support"
 
-#: ../comps-f12.xml.in.h:209 ../comps-f13.xml.in.h:215
-#: ../comps-f14.xml.in.h:223 ../comps-f15.xml.in.h:223
-#: ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:50 ../comps-el6.xml.in.h:50
+#: ../comps-f13.xml.in.h:214 ../comps-f14.xml.in.h:223
+#: ../comps-f15.xml.in.h:238
+msgid "Text and other Free content."
+msgstr "Text and other Free content."
+
+#: ../comps-f13.xml.in.h:215 ../comps-f14.xml.in.h:224
+#: ../comps-f15.xml.in.h:239 ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:50
 msgid "Text-based Internet"
 msgstr "Text-based Internet"
 
-#: ../comps-f12.xml.in.h:210 ../comps-f13.xml.in.h:216
-#: ../comps-f14.xml.in.h:224 ../comps-f15.xml.in.h:224
+#: ../comps-f13.xml.in.h:216 ../comps-f14.xml.in.h:225
+#: ../comps-f15.xml.in.h:240 ../comps-el6.xml.in.h:244
 msgid "Thai Support"
 msgstr "Thai Support"
 
-#: ../comps-f12.xml.in.h:211 ../comps-f13.xml.in.h:218
-#: ../comps-f14.xml.in.h:226 ../comps-f15.xml.in.h:226
-#: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:52 ../comps-el6.xml.in.h:52
+#: ../comps-f13.xml.in.h:217 ../comps-f14.xml.in.h:226
+#: ../comps-f15.xml.in.h:241
+msgid ""
+"The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
+"user interface which includes a panel, desktop, system icons and desktop "
+"widgets, and many powerful KDE applications."
+msgstr ""
+"The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
+"user interface which includes a panel, desktop, system icons and desktop "
+"widgets, and many powerful KDE applications."
+
+#: ../comps-f13.xml.in.h:218 ../comps-f14.xml.in.h:227
+#: ../comps-f15.xml.in.h:242 ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:52
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr "These applications include office suites, PDF viewers, and more."
 
-#: ../comps-f12.xml.in.h:212 ../comps-f13.xml.in.h:219
-#: ../comps-f14.xml.in.h:227 ../comps-f15.xml.in.h:227
+#: ../comps-f13.xml.in.h:219 ../comps-f14.xml.in.h:228
+#: ../comps-f15.xml.in.h:243
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 
-#: ../comps-f12.xml.in.h:213 ../comps-f13.xml.in.h:220
-#: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:228
-#: ../comps-el4.xml.in.h:52 ../comps-el5.xml.in.h:53 ../comps-el6.xml.in.h:53
+#: ../comps-f13.xml.in.h:220 ../comps-f14.xml.in.h:229
+#: ../comps-f15.xml.in.h:244 ../comps-el4.xml.in.h:52 ../comps-el5.xml.in.h:53
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr "These packages allow you to configure an IMAP or SMTP mail server."
 
-#: ../comps-f12.xml.in.h:214 ../comps-f13.xml.in.h:221
-#: ../comps-f14.xml.in.h:229 ../comps-f15.xml.in.h:229
+#: ../comps-f13.xml.in.h:221 ../comps-f14.xml.in.h:230
+#: ../comps-f15.xml.in.h:245
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr ""
 "These packages allow you to develop applications for the X Window System."
 
-#: ../comps-f12.xml.in.h:215 ../comps-f13.xml.in.h:223
-#: ../comps-f14.xml.in.h:231 ../comps-f15.xml.in.h:231
-#: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:54 ../comps-el6.xml.in.h:54
+#: ../comps-f13.xml.in.h:222 ../comps-f14.xml.in.h:231
+msgid ""
+"These packages are helpful when developing OpenOffice.org extensions or "
+"macros."
+msgstr ""
+"These packages are helpful when developing OpenOffice.org extensions or "
+"macros."
+
+#: ../comps-f13.xml.in.h:223 ../comps-f14.xml.in.h:232
+#: ../comps-f15.xml.in.h:247 ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:54
 msgid ""
 "These packages are helpful when developing web applications or web pages."
 msgstr ""
 "These packages are helpful when developing web applications or web pages."
 
-#: ../comps-f12.xml.in.h:216 ../comps-f13.xml.in.h:224
-#: ../comps-f14.xml.in.h:232 ../comps-f15.xml.in.h:232
+#: ../comps-f13.xml.in.h:224 ../comps-f14.xml.in.h:233
+#: ../comps-f15.xml.in.h:249
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 
-#: ../comps-f12.xml.in.h:217 ../comps-f13.xml.in.h:225
-#: ../comps-f14.xml.in.h:233 ../comps-f15.xml.in.h:233
+#: ../comps-f13.xml.in.h:225 ../comps-f14.xml.in.h:234
+#: ../comps-f15.xml.in.h:250
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
@@ -1211,27 +1193,27 @@ msgstr ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 
-#: ../comps-f12.xml.in.h:218 ../comps-f13.xml.in.h:226
-#: ../comps-f14.xml.in.h:234 ../comps-f15.xml.in.h:234
+#: ../comps-f13.xml.in.h:226 ../comps-f14.xml.in.h:235
+#: ../comps-f15.xml.in.h:251
 msgid "These packages provide a virtualization environment."
 msgstr "These packages provide a virtualisation environment."
 
-#: ../comps-f12.xml.in.h:219 ../comps-f13.xml.in.h:227
-#: ../comps-f14.xml.in.h:235 ../comps-f15.xml.in.h:235
+#: ../comps-f13.xml.in.h:227 ../comps-f14.xml.in.h:236
+#: ../comps-f15.xml.in.h:252
 msgid "These packages provide compatibility with previous releases."
 msgstr "These packages provide compatibility with previous releases."
 
-#: ../comps-f12.xml.in.h:220 ../comps-f13.xml.in.h:228
-#: ../comps-f14.xml.in.h:236 ../comps-f15.xml.in.h:236
+#: ../comps-f13.xml.in.h:228 ../comps-f14.xml.in.h:237
+#: ../comps-f15.xml.in.h:253
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 
-#: ../comps-f12.xml.in.h:221 ../comps-f13.xml.in.h:229
-#: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:237
+#: ../comps-f13.xml.in.h:229 ../comps-f14.xml.in.h:238
+#: ../comps-f15.xml.in.h:254
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
@@ -1239,21 +1221,18 @@ msgstr ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
 
-#: ../comps-f12.xml.in.h:222 ../comps-f13.xml.in.h:230
-#: ../comps-f14.xml.in.h:238 ../comps-f15.xml.in.h:238
-#: ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:56 ../comps-el6.xml.in.h:56
+#: ../comps-f13.xml.in.h:230 ../comps-f14.xml.in.h:239
+#: ../comps-f15.xml.in.h:255 ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:56
 msgid "These tools allow you to run a Web server on the system."
 msgstr "These tools allow you to run a web server on the system."
 
-#: ../comps-f12.xml.in.h:223 ../comps-f13.xml.in.h:231
-#: ../comps-f14.xml.in.h:239 ../comps-f15.xml.in.h:239
-#: ../comps-el4.xml.in.h:56 ../comps-el5.xml.in.h:57 ../comps-el6.xml.in.h:57
+#: ../comps-f13.xml.in.h:231 ../comps-f14.xml.in.h:240
+#: ../comps-f15.xml.in.h:256 ../comps-el4.xml.in.h:56 ../comps-el5.xml.in.h:57
 msgid "These tools allow you to run an FTP server on the system."
 msgstr "These tools allow you to run an FTP server on the system."
 
-#: ../comps-f12.xml.in.h:224 ../comps-f13.xml.in.h:232
-#: ../comps-f14.xml.in.h:240 ../comps-f15.xml.in.h:240
-#: ../comps-el4.xml.in.h:57 ../comps-el5.xml.in.h:58 ../comps-el6.xml.in.h:58
+#: ../comps-f13.xml.in.h:232 ../comps-f14.xml.in.h:241
+#: ../comps-f15.xml.in.h:257 ../comps-el4.xml.in.h:57 ../comps-el5.xml.in.h:58
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
@@ -1261,20 +1240,20 @@ msgstr ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python and debuggers."
 
-#: ../comps-f12.xml.in.h:225 ../comps-f13.xml.in.h:233
-#: ../comps-f14.xml.in.h:241 ../comps-f15.xml.in.h:241
-#: ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:59 ../comps-el6.xml.in.h:59
+#: ../comps-f13.xml.in.h:233 ../comps-f14.xml.in.h:242
+#: ../comps-f15.xml.in.h:258 ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:59
 msgid "This group allows you to configure the system as a news server."
 msgstr "This group allows you to configure the system as a news server."
 
-#: ../comps-f12.xml.in.h:226 ../comps-f13.xml.in.h:234
-#: ../comps-f14.xml.in.h:242 ../comps-f15.xml.in.h:242
-msgid "This group contains all of Red Hat's custom server configuration tools."
+#: ../comps-f13.xml.in.h:234 ../comps-f14.xml.in.h:243
+#: ../comps-f15.xml.in.h:259
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "This group contains all of Red Hat's custom server configuration tools."
 
-#: ../comps-f12.xml.in.h:227 ../comps-f13.xml.in.h:235
-#: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:243
+#: ../comps-f13.xml.in.h:235 ../comps-f14.xml.in.h:244
+#: ../comps-f15.xml.in.h:260
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
@@ -1282,15 +1261,13 @@ msgstr ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
 
-#: ../comps-f12.xml.in.h:228 ../comps-f13.xml.in.h:236
-#: ../comps-f14.xml.in.h:244 ../comps-f15.xml.in.h:244
-#: ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:60 ../comps-el6.xml.in.h:60
+#: ../comps-f13.xml.in.h:236 ../comps-f14.xml.in.h:245
+#: ../comps-f15.xml.in.h:261 ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:60
 msgid "This group includes graphical email, Web, and chat clients."
 msgstr "This group includes graphical email, web, and chat clients."
 
-#: ../comps-f12.xml.in.h:229 ../comps-f13.xml.in.h:237
-#: ../comps-f14.xml.in.h:245 ../comps-f15.xml.in.h:245
-#: ../comps-el4.xml.in.h:60 ../comps-el5.xml.in.h:61 ../comps-el6.xml.in.h:61
+#: ../comps-f13.xml.in.h:237 ../comps-f14.xml.in.h:246
+#: ../comps-f15.xml.in.h:262 ../comps-el4.xml.in.h:60 ../comps-el5.xml.in.h:61
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
@@ -1298,15 +1275,13 @@ msgstr ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
 
-#: ../comps-f12.xml.in.h:230 ../comps-f13.xml.in.h:238
-#: ../comps-f14.xml.in.h:246 ../comps-f15.xml.in.h:246
-#: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:62 ../comps-el6.xml.in.h:62
+#: ../comps-f13.xml.in.h:238 ../comps-f14.xml.in.h:247
+#: ../comps-f15.xml.in.h:263 ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:62
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr "This group includes packages to help you manipulate and scan images."
 
-#: ../comps-f12.xml.in.h:231 ../comps-f13.xml.in.h:239
-#: ../comps-f14.xml.in.h:247 ../comps-f15.xml.in.h:247
-#: ../comps-el4.xml.in.h:62 ../comps-el5.xml.in.h:63 ../comps-el6.xml.in.h:63
+#: ../comps-f13.xml.in.h:239 ../comps-f14.xml.in.h:248
+#: ../comps-f15.xml.in.h:264 ../comps-el4.xml.in.h:62 ../comps-el5.xml.in.h:63
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
@@ -1314,34 +1289,31 @@ msgstr ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 
-#: ../comps-f12.xml.in.h:232 ../comps-f13.xml.in.h:240
-#: ../comps-f14.xml.in.h:248 ../comps-f15.xml.in.h:248
-#: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64 ../comps-el6.xml.in.h:64
+#: ../comps-f13.xml.in.h:240 ../comps-f14.xml.in.h:249
+#: ../comps-f15.xml.in.h:265 ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 
-#: ../comps-f12.xml.in.h:233 ../comps-f13.xml.in.h:241
-#: ../comps-f14.xml.in.h:249 ../comps-f15.xml.in.h:249
-#: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:67 ../comps-el6.xml.in.h:67
+#: ../comps-f13.xml.in.h:241 ../comps-f14.xml.in.h:250
+#: ../comps-f15.xml.in.h:266 ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:67
 msgid ""
 "This group is a collection of tools and resources of Armenian environments."
 msgstr ""
 "This group is a collection of tools and resources of Armenian environments."
 
-#: ../comps-f12.xml.in.h:234 ../comps-f13.xml.in.h:242
-#: ../comps-f14.xml.in.h:250 ../comps-f15.xml.in.h:250
-#: ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:71 ../comps-el6.xml.in.h:71
+#: ../comps-f13.xml.in.h:242 ../comps-f14.xml.in.h:251
+#: ../comps-f15.xml.in.h:267 ../comps-el4.xml.in.h:69 ../comps-el5.xml.in.h:71
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr ""
 "This group is a collection of tools for various hardware specific utilities."
 
-#: ../comps-f12.xml.in.h:235 ../comps-f13.xml.in.h:243
-#: ../comps-f14.xml.in.h:251 ../comps-f15.xml.in.h:251
+#: ../comps-f13.xml.in.h:243 ../comps-f14.xml.in.h:252
+#: ../comps-f15.xml.in.h:268
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
@@ -1349,9 +1321,8 @@ msgstr ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
 
-#: ../comps-f12.xml.in.h:236 ../comps-f13.xml.in.h:244
-#: ../comps-f14.xml.in.h:252 ../comps-f15.xml.in.h:252
-#: ../comps-el4.xml.in.h:70 ../comps-el5.xml.in.h:72 ../comps-el6.xml.in.h:72
+#: ../comps-f13.xml.in.h:244 ../comps-f14.xml.in.h:253
+#: ../comps-f15.xml.in.h:269 ../comps-el4.xml.in.h:70 ../comps-el5.xml.in.h:72
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
@@ -1359,241 +1330,172 @@ msgstr ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 
-#: ../comps-f12.xml.in.h:237 ../comps-f13.xml.in.h:245
-#: ../comps-f14.xml.in.h:253 ../comps-f15.xml.in.h:253
+#: ../comps-f13.xml.in.h:245 ../comps-f14.xml.in.h:254
+#: ../comps-f15.xml.in.h:270
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr ""
 "This package group allows you to run a DNS name server (BIND) on the system."
 
-#: ../comps-f12.xml.in.h:238 ../comps-f13.xml.in.h:246
-#: ../comps-f14.xml.in.h:254 ../comps-f15.xml.in.h:254
+#: ../comps-f13.xml.in.h:246 ../comps-f14.xml.in.h:255
+#: ../comps-f15.xml.in.h:271
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 
-#: ../comps-f12.xml.in.h:239 ../comps-f13.xml.in.h:247
-#: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:255
+#: ../comps-f13.xml.in.h:247 ../comps-f14.xml.in.h:256
+#: ../comps-f15.xml.in.h:272
 msgid "This package group contains packages useful for use with MySQL."
 msgstr "This package group contains packages useful for use with MySQL."
 
-#: ../comps-f12.xml.in.h:240 ../comps-f13.xml.in.h:248
-#: ../comps-f14.xml.in.h:256 ../comps-f15.xml.in.h:256
+#: ../comps-f13.xml.in.h:248 ../comps-f14.xml.in.h:257
+#: ../comps-f15.xml.in.h:273
 msgid "This package group includes packages useful for use with Postgresql."
 msgstr "This package group includes packages useful for use with Postgresql."
 
-#: ../comps-f12.xml.in.h:241 ../comps-f13.xml.in.h:249
-#: ../comps-f14.xml.in.h:257 ../comps-f15.xml.in.h:257
+#: ../comps-f13.xml.in.h:249 ../comps-f14.xml.in.h:258
+#: ../comps-f15.xml.in.h:274 ../comps-el6.xml.in.h:251
 msgid "Tibetan Support"
 msgstr "Tibetan Support"
 
-#: ../comps-f12.xml.in.h:242 ../comps-f13.xml.in.h:250
-#: ../comps-f14.xml.in.h:258 ../comps-f15.xml.in.h:258
+#: ../comps-f13.xml.in.h:250 ../comps-f14.xml.in.h:259
+#: ../comps-f15.xml.in.h:276
 msgid "Tonga Support"
 msgstr "Tonga Support"
 
-#: ../comps-f12.xml.in.h:243 ../comps-f13.xml.in.h:251
-#: ../comps-f14.xml.in.h:259 ../comps-f15.xml.in.h:259
-#: ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:73 ../comps-el6.xml.in.h:73
+#: ../comps-f13.xml.in.h:251 ../comps-f14.xml.in.h:261
+#: ../comps-f15.xml.in.h:278 ../comps-el4.xml.in.h:71 ../comps-el5.xml.in.h:73
 msgid "Tools and Utilities needed by a Fedora Packager"
 msgstr "Tools and Utilities needed by a Fedora Packager"
 
-#: ../comps-f12.xml.in.h:244 ../comps-f13.xml.in.h:252
-#: ../comps-f14.xml.in.h:260 ../comps-f15.xml.in.h:260
+#: ../comps-f13.xml.in.h:252 ../comps-f14.xml.in.h:262
+#: ../comps-f15.xml.in.h:280 ../comps-el6.xml.in.h:263
 msgid "Tsonga Support"
 msgstr "Tsonga Support"
 
-#: ../comps-f12.xml.in.h:245 ../comps-f13.xml.in.h:253
-#: ../comps-f14.xml.in.h:261 ../comps-f15.xml.in.h:261
+#: ../comps-f13.xml.in.h:253 ../comps-f14.xml.in.h:263
+#: ../comps-f15.xml.in.h:281 ../comps-el6.xml.in.h:264
 msgid "Tswana Support"
 msgstr "Tswana Support"
 
-#: ../comps-f12.xml.in.h:246 ../comps-f13.xml.in.h:254
-#: ../comps-f14.xml.in.h:262 ../comps-f15.xml.in.h:262
+#: ../comps-f13.xml.in.h:254 ../comps-f14.xml.in.h:264
+#: ../comps-f15.xml.in.h:282 ../comps-el6.xml.in.h:267
 msgid "Turkish Support"
 msgstr "Turkish Support"
 
-#: ../comps-f12.xml.in.h:247 ../comps-f13.xml.in.h:255
-#: ../comps-f14.xml.in.h:263 ../comps-f15.xml.in.h:263
+#: ../comps-f13.xml.in.h:255 ../comps-f14.xml.in.h:265
+#: ../comps-f15.xml.in.h:283 ../comps-el6.xml.in.h:268
 msgid "Turkmen Support"
 msgstr "Turkmen Support"
 
-#: ../comps-f12.xml.in.h:248 ../comps-f13.xml.in.h:256
-#: ../comps-f14.xml.in.h:264 ../comps-f15.xml.in.h:264
+#: ../comps-f13.xml.in.h:256 ../comps-f14.xml.in.h:266
+#: ../comps-f15.xml.in.h:284 ../comps-el6.xml.in.h:269
 msgid "Ukrainian Support"
 msgstr "Ukrainian Support"
 
-#: ../comps-f12.xml.in.h:249 ../comps-f13.xml.in.h:257
-#: ../comps-f14.xml.in.h:265 ../comps-f15.xml.in.h:265
+#: ../comps-f13.xml.in.h:257 ../comps-f14.xml.in.h:267
+#: ../comps-f15.xml.in.h:285 ../comps-el6.xml.in.h:270
 msgid "Upper Sorbian Support"
 msgstr "Upper Sorbian Support"
 
-#: ../comps-f12.xml.in.h:250 ../comps-f13.xml.in.h:258
-#: ../comps-f14.xml.in.h:266 ../comps-f15.xml.in.h:266
+#: ../comps-f13.xml.in.h:258 ../comps-f14.xml.in.h:268
+#: ../comps-f15.xml.in.h:286 ../comps-el6.xml.in.h:271
 msgid "Urdu Support"
 msgstr "Urdu Support"
 
-#: ../comps-f12.xml.in.h:251 ../comps-f13.xml.in.h:259
-#: ../comps-f14.xml.in.h:267 ../comps-f15.xml.in.h:267
+#: ../comps-f13.xml.in.h:259 ../comps-f14.xml.in.h:269
+#: ../comps-f15.xml.in.h:287 ../comps-el6.xml.in.h:273
 msgid "Uzbek Support"
 msgstr "Uzbek Support"
 
-#: ../comps-f12.xml.in.h:252 ../comps-f13.xml.in.h:260
-#: ../comps-f14.xml.in.h:268 ../comps-f15.xml.in.h:268
-#: ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:74 ../comps-el6.xml.in.h:74
+#: ../comps-f13.xml.in.h:260 ../comps-f14.xml.in.h:270
+#: ../comps-f15.xml.in.h:288 ../comps-el4.xml.in.h:72 ../comps-el5.xml.in.h:74
 msgid "Various core pieces of the system."
 msgstr "Various core pieces of the system."
 
-#: ../comps-f12.xml.in.h:253 ../comps-f13.xml.in.h:261
-#: ../comps-f14.xml.in.h:269 ../comps-f15.xml.in.h:269
-#: ../comps-el5.xml.in.h:75 ../comps-el6.xml.in.h:75
+#: ../comps-f13.xml.in.h:261 ../comps-f14.xml.in.h:271
+#: ../comps-f15.xml.in.h:289 ../comps-el5.xml.in.h:75
 msgid "Various ways to relax and spend your free time."
 msgstr "Various ways to relax and spend your free time."
 
-#: ../comps-f12.xml.in.h:254 ../comps-f13.xml.in.h:262
-#: ../comps-f14.xml.in.h:270 ../comps-f15.xml.in.h:270
+#: ../comps-f13.xml.in.h:262 ../comps-f14.xml.in.h:272
+#: ../comps-f15.xml.in.h:290 ../comps-el6.xml.in.h:275
 msgid "Venda Support"
 msgstr "Venda Support"
 
-#: ../comps-f12.xml.in.h:255 ../comps-f13.xml.in.h:263
-#: ../comps-f14.xml.in.h:271 ../comps-f15.xml.in.h:271
+#: ../comps-f13.xml.in.h:263 ../comps-f14.xml.in.h:273
+#: ../comps-f15.xml.in.h:291 ../comps-el6.xml.in.h:276
 msgid "Vietnamese Support"
 msgstr "Vietnamese Support"
 
-#: ../comps-f12.xml.in.h:256 ../comps-f13.xml.in.h:264
-#: ../comps-f14.xml.in.h:272 ../comps-f15.xml.in.h:272
+#: ../comps-f13.xml.in.h:264 ../comps-f14.xml.in.h:274
+#: ../comps-f15.xml.in.h:292 ../comps-el6.xml.in.h:277
 msgid "Virtualization"
 msgstr "Virtualisation"
 
-#: ../comps-f12.xml.in.h:257 ../comps-f13.xml.in.h:265
-#: ../comps-f14.xml.in.h:273 ../comps-f15.xml.in.h:273
+#: ../comps-f13.xml.in.h:265 ../comps-f14.xml.in.h:275
+#: ../comps-f15.xml.in.h:293 ../comps-el6.xml.in.h:282
 msgid "Walloon Support"
 msgstr "Walloon Support"
 
-#: ../comps-f12.xml.in.h:258 ../comps-f13.xml.in.h:266
-#: ../comps-f14.xml.in.h:274 ../comps-f15.xml.in.h:274
-#: ../comps-el4.xml.in.h:73 ../comps-el5.xml.in.h:76 ../comps-el6.xml.in.h:76
+#: ../comps-f13.xml.in.h:266 ../comps-f14.xml.in.h:276
+#: ../comps-f15.xml.in.h:294 ../comps-el4.xml.in.h:73 ../comps-el5.xml.in.h:76
 msgid "Web Development"
 msgstr "Web Development"
 
-#: ../comps-f12.xml.in.h:259 ../comps-f13.xml.in.h:267
-#: ../comps-f14.xml.in.h:275 ../comps-f15.xml.in.h:275
-#: ../comps-el4.xml.in.h:74 ../comps-el5.xml.in.h:77 ../comps-el6.xml.in.h:77
+#: ../comps-f13.xml.in.h:267 ../comps-f14.xml.in.h:277
+#: ../comps-f15.xml.in.h:295 ../comps-el4.xml.in.h:74 ../comps-el5.xml.in.h:77
+#: ../comps-el6.xml.in.h:283
 msgid "Web Server"
 msgstr "Web Server"
 
-#: ../comps-f12.xml.in.h:260 ../comps-f13.xml.in.h:268
-#: ../comps-f14.xml.in.h:276 ../comps-f15.xml.in.h:276
+#: ../comps-f13.xml.in.h:268 ../comps-f14.xml.in.h:278
+#: ../comps-f15.xml.in.h:296 ../comps-el6.xml.in.h:286
 msgid "Welsh Support"
 msgstr "Welsh Support"
 
-#: ../comps-f12.xml.in.h:261 ../comps-f13.xml.in.h:269
-#: ../comps-f14.xml.in.h:277 ../comps-f15.xml.in.h:277
-#: ../comps-el4.xml.in.h:75 ../comps-el5.xml.in.h:78 ../comps-el6.xml.in.h:78
+#: ../comps-f13.xml.in.h:269 ../comps-f14.xml.in.h:279
+#: ../comps-f15.xml.in.h:297 ../comps-el4.xml.in.h:75 ../comps-el5.xml.in.h:78
 msgid "Window Managers"
 msgstr "Window Managers"
 
-#: ../comps-f12.xml.in.h:262 ../comps-f13.xml.in.h:270
-#: ../comps-f14.xml.in.h:278 ../comps-f15.xml.in.h:278
+#: ../comps-f13.xml.in.h:270 ../comps-f14.xml.in.h:280
+#: ../comps-f15.xml.in.h:298
 msgid "Windows File Server"
 msgstr "Windows File Server"
 
-#: ../comps-f12.xml.in.h:263 ../comps-f13.xml.in.h:271
-#: ../comps-f14.xml.in.h:279 ../comps-f15.xml.in.h:279
+#: ../comps-f13.xml.in.h:271 ../comps-f14.xml.in.h:281
+#: ../comps-f15.xml.in.h:299
 msgid "X Software Development"
 msgstr "X Software Development"
 
-#: ../comps-f12.xml.in.h:264 ../comps-f13.xml.in.h:272
-#: ../comps-f14.xml.in.h:280 ../comps-f15.xml.in.h:280
-#: ../comps-el4.xml.in.h:76 ../comps-el5.xml.in.h:79 ../comps-el6.xml.in.h:79
+#: ../comps-f13.xml.in.h:272 ../comps-f14.xml.in.h:282
+#: ../comps-f15.xml.in.h:300 ../comps-el4.xml.in.h:76 ../comps-el5.xml.in.h:79
+#: ../comps-el6.xml.in.h:288
 msgid "X Window System"
 msgstr "X Window System"
 
-#: ../comps-f12.xml.in.h:265 ../comps-f13.xml.in.h:273
-#: ../comps-f14.xml.in.h:281 ../comps-f15.xml.in.h:281
+#: ../comps-f13.xml.in.h:273 ../comps-f14.xml.in.h:283
 msgid "XFCE"
 msgstr "XFCE"
 
-#: ../comps-f12.xml.in.h:266 ../comps-f13.xml.in.h:274
-#: ../comps-f14.xml.in.h:282 ../comps-f15.xml.in.h:282
+#: ../comps-f13.xml.in.h:274 ../comps-f14.xml.in.h:284
+#: ../comps-f15.xml.in.h:301
 msgid "XFCE Software Development"
 msgstr "XFCE Software Development"
 
-#: ../comps-f12.xml.in.h:267 ../comps-f13.xml.in.h:275
-#: ../comps-f14.xml.in.h:283 ../comps-f15.xml.in.h:283
+#: ../comps-f13.xml.in.h:275 ../comps-f14.xml.in.h:285
+#: ../comps-f15.xml.in.h:303 ../comps-el6.xml.in.h:290
 msgid "Xhosa Support"
 msgstr "Xhosa Support"
 
-#: ../comps-f12.xml.in.h:268 ../comps-f13.xml.in.h:276
-#: ../comps-f14.xml.in.h:284 ../comps-f15.xml.in.h:284
+#: ../comps-f13.xml.in.h:276 ../comps-f14.xml.in.h:286
+#: ../comps-f15.xml.in.h:305 ../comps-el6.xml.in.h:291
 msgid "Zulu Support"
 msgstr "Zulu Support"
-
-#: ../comps-f13.xml.in.h:14 ../comps-f14.xml.in.h:18 ../comps-f15.xml.in.h:18
-msgid "Asturian Support"
-msgstr "Asturian Support"
-
-#: ../comps-f13.xml.in.h:36 ../comps-f14.xml.in.h:40 ../comps-f15.xml.in.h:40
-msgid "Content"
-msgstr "Content"
-
-#: ../comps-f13.xml.in.h:53 ../comps-f14.xml.in.h:61 ../comps-f15.xml.in.h:61
-msgid "Dogtag Certificate System"
-msgstr "Dogtag Certificate System"
-
-#: ../comps-f13.xml.in.h:61 ../comps-f14.xml.in.h:69 ../comps-f15.xml.in.h:69
-msgid "Enterprise-class open source Certificate Authority"
-msgstr "Enterprise-class open source Certificate Authority"
-
-#: ../comps-f13.xml.in.h:66 ../comps-f14.xml.in.h:74 ../comps-f15.xml.in.h:74
-msgid "Faroese Support"
-msgstr "Faroese Support"
-
-#: ../comps-f13.xml.in.h:70 ../comps-f14.xml.in.h:78 ../comps-f15.xml.in.h:78
-msgid "Filesystems"
-msgstr "Filesystems"
-
-#: ../comps-f13.xml.in.h:115 ../comps-f14.xml.in.h:123
-#: ../comps-f15.xml.in.h:123
-msgid "KDE Software Compilation"
-msgstr "KDE Software Compilation"
-
-#: ../comps-f13.xml.in.h:152
-msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-msgstr "Moblin is a desktop environment for NetBook/NetTop devices."
-
-#: ../comps-f13.xml.in.h:166 ../comps-f14.xml.in.h:174
-#: ../comps-f15.xml.in.h:174
-msgid "OpenOffice.org Development"
-msgstr "OpenOffice.org Development"
-
-#: ../comps-f13.xml.in.h:214 ../comps-f14.xml.in.h:222
-#: ../comps-f15.xml.in.h:222
-msgid "Text and other Free content."
-msgstr "Text and other Free content."
-
-#: ../comps-f13.xml.in.h:217 ../comps-f14.xml.in.h:225
-#: ../comps-f15.xml.in.h:225
-msgid ""
-"The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
-"user interface which includes a panel, desktop, system icons and desktop "
-"widgets, and many powerful KDE applications."
-msgstr ""
-"The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
-"user interface which includes a panel, desktop, system icons and desktop "
-"widgets, and many powerful KDE applications."
-
-#: ../comps-f13.xml.in.h:222 ../comps-f14.xml.in.h:230
-#: ../comps-f15.xml.in.h:230
-msgid ""
-"These packages are helpful when developing OpenOffice.org extensions or "
-"macros."
-msgstr ""
-"These packages are helpful when developing OpenOffice.org extensions or "
-"macros."
 
 #: ../comps-f14.xml.in.h:2 ../comps-f15.xml.in.h:2
 msgid "A set of applications that are considered critical path"
@@ -1623,39 +1525,146 @@ msgstr ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
 
-#: ../comps-f14.xml.in.h:43 ../comps-f15.xml.in.h:43
+#: ../comps-f14.xml.in.h:43 ../comps-f15.xml.in.h:44
 msgid "Critical Path (Applications)"
 msgstr "Critical Path (Applications)"
 
-#: ../comps-f14.xml.in.h:46 ../comps-f15.xml.in.h:46
+#: ../comps-f14.xml.in.h:46 ../comps-f15.xml.in.h:47
 msgid "Critical Path (KDE)"
 msgstr "Critical Path (KDE)"
 
-#: ../comps-f14.xml.in.h:47 ../comps-f15.xml.in.h:47
+#: ../comps-f14.xml.in.h:47 ../comps-f15.xml.in.h:48
 msgid "Critical Path (LXDE)"
 msgstr "Critical Path (LXDE)"
 
-#: ../comps-f14.xml.in.h:48 ../comps-f15.xml.in.h:48
+#: ../comps-f14.xml.in.h:48 ../comps-f15.xml.in.h:49
 msgid "Critical Path (Xfce)"
 msgstr "Critical Path (Xfce)"
 
-#: ../comps-f14.xml.in.h:158 ../comps-f15.xml.in.h:158
+#: ../comps-f14.xml.in.h:158 ../comps-f15.xml.in.h:167
 msgid "MeeGo NetBook UX Environment"
 msgstr "MeeGo NetBook UX Environment"
 
-#: ../comps-f14.xml.in.h:159 ../comps-f15.xml.in.h:159
+#: ../comps-f14.xml.in.h:159 ../comps-f15.xml.in.h:168
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
-msgstr "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
+msgstr ""
+"MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
 
-#: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3 ../comps-el6.xml.in.h:3
+#: ../comps-f14.xml.in.h:160 ../comps-f15.xml.in.h:169
+#: ../comps-el6.xml.in.h:162
+msgid "Milkymist"
+msgstr "Milkymist"
+
+#: ../comps-f14.xml.in.h:260 ../comps-f15.xml.in.h:277
+#: ../comps-el6.xml.in.h:252
+msgid "Toolchain for Milkymist hardware engineers."
+msgstr "Toolchain for Milkymist hardware engineers."
+
+#: ../comps-f15.xml.in.h:11
+msgid "Akan Support"
+msgstr "Akan Support"
+
+#: ../comps-f15.xml.in.h:38
+msgid "Chuvash Support"
+msgstr "Chuvash Support"
+
+#: ../comps-f15.xml.in.h:54
+msgid "Design Suite"
+msgstr ""
+
+#: ../comps-f15.xml.in.h:102
+msgid "Haitian Creole Support"
+msgstr "Haitian Creole Support"
+
+#: ../comps-f15.xml.in.h:137
+msgid "Kyrgyz Support"
+msgstr "Kyrgyz Support"
+
+#: ../comps-f15.xml.in.h:148
+msgid "LibreOffice Development"
+msgstr "LibreOffice Development"
+
+#: ../comps-f15.xml.in.h:149
+msgid "Lingala Support"
+msgstr "Lingala Support"
+
+#: ../comps-f15.xml.in.h:151
+msgid "Low German Support"
+msgstr "Low German Support"
+
+#: ../comps-f15.xml.in.h:153
+msgid "Lower Sorbian Support"
+msgstr "Lower Sorbian Support"
+
+#: ../comps-f15.xml.in.h:154
+msgid "Lule Sami Support"
+msgstr "Lule Sami Support"
+
+#: ../comps-f15.xml.in.h:172
+msgid "Mossi Support"
+msgstr "Mossi Support"
+
+#: ../comps-f15.xml.in.h:178
+msgid "Northern Sami Support"
+msgstr "Northern Sami Support"
+
+#: ../comps-f15.xml.in.h:187
+msgid "Oromo Support"
+msgstr "Oromo Support"
+
+#: ../comps-f15.xml.in.h:196
+msgid "Quechua Support"
+msgstr "Quechua Support"
+
+#: ../comps-f15.xml.in.h:197
+msgid "Robotics"
+msgstr "Robotics"
+
+#: ../comps-f15.xml.in.h:207
+msgid "Shuswap Support"
+msgstr "Shuswap Support"
+
+#: ../comps-f15.xml.in.h:209
+msgid "Simplified Chinese Support"
+msgstr "Simplified Chinese Support"
+
+#: ../comps-f15.xml.in.h:246
+msgid ""
+"These packages are helpful when developing LibreOffice extensions or macros."
+msgstr ""
+"These packages are helpful when developing LibreOffice extensions or macros."
+
+#: ../comps-f15.xml.in.h:248
+msgid ""
+"These packages are targeted towards professional designers, like the Fedora "
+"Design Team."
+msgstr ""
+
+#: ../comps-f15.xml.in.h:275
+msgid "Tigrinya Support"
+msgstr "Tigrinya Support"
+
+#: ../comps-f15.xml.in.h:279
+msgid "Traditional Chinese Support"
+msgstr "Traditional Chinese Support"
+
+#: ../comps-f15.xml.in.h:302
+msgid "Xfce"
+msgstr "Xfce"
+
+#: ../comps-f15.xml.in.h:304
+msgid "Yiddish Support"
+msgstr "Yiddish Support"
+
+#: ../comps-el4.xml.in.h:3 ../comps-el5.xml.in.h:3
 msgid "Applications for a variety of tasks"
 msgstr "Applications to perform a variety of tasks"
 
-#: ../comps-el4.xml.in.h:12 ../comps-el5.xml.in.h:15 ../comps-el6.xml.in.h:15
+#: ../comps-el4.xml.in.h:12 ../comps-el5.xml.in.h:15
 msgid "Dialup Networking Support"
 msgstr "Dial-up Networking Support"
 
-#: ../comps-el4.xml.in.h:22 ../comps-el5.xml.in.h:26 ../comps-el6.xml.in.h:26
+#: ../comps-el4.xml.in.h:22 ../comps-el5.xml.in.h:26
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
@@ -1663,15 +1672,19 @@ msgstr ""
 "GNOME is a powerful graphical, user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
 
-#: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38 ../comps-el6.xml.in.h:38
-msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDE is a powerful graphical, user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+#: ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:36
+msgid "KDE (K Desktop Environment)"
+msgstr "KDE (K Desktop Environment)"
 
-#: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:47 ../comps-el6.xml.in.h:47
+#: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
+msgid ""
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
+msgstr ""
+"KDE is a powerful graphical, user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
+
+#: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:47
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
@@ -1679,11 +1692,11 @@ msgstr ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
 
-#: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:51 ../comps-el6.xml.in.h:51
+#: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:51
 msgid "The XEmacs text editor."
 msgstr "The XEmacs text editor."
 
-#: ../comps-el4.xml.in.h:54 ../comps-el5.xml.in.h:55 ../comps-el6.xml.in.h:55
+#: ../comps-el4.xml.in.h:54 ../comps-el5.xml.in.h:55
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
@@ -1691,398 +1704,703 @@ msgstr ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert it into HTML, PDF, Postscript, and text."
 
-#: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:65
+#: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:65
 msgid "This group is a collection of network servers for specific purposes"
 msgstr "This group is a collection of network servers for specific purposes"
 
-#: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:66 ../comps-el6.xml.in.h:66
+#: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:66
 msgid ""
 "This group is a collection of tools and resources of Arabic environments."
 msgstr ""
 "This group is a collection of tools and resources of Arabic environments."
 
-#: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:69 ../comps-el6.xml.in.h:69
+#: ../comps-el4.xml.in.h:67 ../comps-el5.xml.in.h:69
 msgid ""
 "This group is a collection of tools and resources of Hebrew environments."
 msgstr ""
 "This group is a collection of tools and resources of Hebrew environments."
 
-#: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:70 ../comps-el6.xml.in.h:70
+#: ../comps-el4.xml.in.h:68 ../comps-el5.xml.in.h:70
 msgid ""
 "This group is a collection of tools and resources of Japanese environments."
 msgstr ""
 "This group is a collection of tools and resources of Japanese environments."
 
-#: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:80 ../comps-el6.xml.in.h:80
+#: ../comps-el4.xml.in.h:77 ../comps-el5.xml.in.h:80
 msgid "XEmacs"
 msgstr "XEmacs"
 
-#: ../comps-el5.xml.in.h:68 ../comps-el6.xml.in.h:68
+#: ../comps-el5.xml.in.h:68
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
 msgstr ""
 "This group is a collection of tools and resources of Czech environments."
 
-#, fuzzy
-#~ msgid "Northern Sami Support"
-#~ msgstr "Northern Sotho Support"
-
-#, fuzzy
-#~ msgid "SUGAR Desktop Environment"
-#~ msgstr "Desktop Environments"
-
-#, fuzzy
-#~ msgid "Haskell Development"
-#~ msgstr "Development"
-
-#~ msgid "Eclipse"
-#~ msgstr "Eclipse"
-
-#~ msgid "The Eclipse Integrated Development Environment."
-#~ msgstr "The Eclipse Integrated Development Environment."
-
-#~ msgid "British Support"
-#~ msgstr "British Support"
-
-#~ msgid "Cluster Storage"
-#~ msgstr "Cluster Storage"
-
-#, fuzzy
-#~ msgid "Clustering Support."
-#~ msgstr "Clustering Support"
-
-#~ msgid "Miscellaneous Included Packages"
-#~ msgstr "Miscellaneous Included Packages"
-
-#~ msgid "Packages which provide support for cluster storage."
-#~ msgstr "Packages which provide support for cluster storage."
-
-#~ msgid "Packages which provide support for single-node GFS."
-#~ msgstr "Packages which provide support for single-node GFS."
-
-#~ msgid "Single Node GFS Support"
-#~ msgstr "Single Node GFS Support"
-
-#~ msgid "These packages provide compatibility support with previous releases."
-#~ msgstr "These packages provide compatibility support for previous releases."
-
-#~ msgid "Java Runtime Environments and Development Kits"
-#~ msgstr "Java Runtime Environments and Development Kits"
-
-#~ msgid "Misc"
-#~ msgstr "Misc"
-
-#~ msgid "Misc packages"
-#~ msgstr "Misc packages"
-
-#~ msgid "Multimedia"
-#~ msgstr "Multimedia"
-
-#~ msgid ""
-#~ "Packages which provide additional functionality for Red Hat Enterprise "
-#~ "Linux"
-#~ msgstr ""
-#~ "Packages which provide additional functionality for Red Hat Enterprise "
-#~ "Linux"
-
-#, fuzzy
-#~ msgid "Red Hat Enterprise Linux Supplementary"
-#~ msgstr "Red Hat Enterprise Linux 3 Documentation"
-
-#~ msgid "Virtualization Support."
-#~ msgstr "Virtualisation Support"
-
-#, fuzzy
-#~ msgid "Somail Support"
-#~ msgstr "Thai Support"
-
-#~ msgid "Emacs"
-#~ msgstr "Emacs"
-
-#~ msgid "The GNU Emacs text editor."
-#~ msgstr "The GNU Emacs text editor."
-
-#~ msgid "Canadian Support"
-#~ msgstr "Canadian Support"
-
-#~ msgid "Compatibility Arch Development Support"
-#~ msgstr "Compatibility Arch Development Support"
-
-#~ msgid "Compatibility Arch Mozilla Support"
-#~ msgstr "Compatibility Arch Mozilla Support"
-
-#~ msgid "Compatibility Arch Support"
-#~ msgstr "Compatibility Arch Support"
-
-#~ msgid "Cyrillic Support"
-#~ msgstr "Cyrillic Support"
-
-#~ msgid "Desktops"
-#~ msgstr "Desktops"
-
-#~ msgid "GNOME"
-#~ msgstr "GNOME"
-
-#~ msgid "ISO8859-14 Support"
-#~ msgstr "ISO8859-14 Support"
-
-#~ msgid "ISO8859-15 Support"
-#~ msgstr "ISO8859-15 Support"
-
-#~ msgid "ISO8859-2 Support"
-#~ msgstr "ISO8859-2 Support"
-
-#~ msgid "ISO8859-9 Support"
-#~ msgstr "ISO8859-9 Support"
-
-#~ msgid "Install these packages to recompile the kernel."
-#~ msgstr "Install these packages to recompile the kernel."
-
-#~ msgid "KDE"
-#~ msgstr "KDE"
-
-#~ msgid "KDE Desktop Environment"
-#~ msgstr "KDE Desktop Environment"
-
-#~ msgid "Mozilla packages for the x86 platform"
-#~ msgstr "Mozilla packages for the x86 platform"
-
-#~ msgid "Multilib support packages"
-#~ msgstr "Multi-lib support packages"
-
-#~ msgid "SQL Database"
-#~ msgstr "SQL Database"
-
-#~ msgid "Server"
-#~ msgstr "Server"
-
-#~ msgid "Support for developing packages for the non-primary architecture"
-#~ msgstr "Support for developing packages for the non-primary architecture"
-
-#~ msgid "Syriac Support"
-#~ msgstr "Syriac Support"
-
-#~ msgid "System"
-#~ msgstr "System"
-
-#~ msgid ""
-#~ "These packages allow you to configure an IMAP or Postfix mail server."
-#~ msgstr ""
-#~ "These packages allow you to configure an IMAP or Postfix mail server."
-
-#~ msgid ""
-#~ "These packages provide compatibility support for previous releases of Red "
-#~ "Hat Enterprise Linux."
-#~ msgstr ""
-#~ "These packages provide compatibility support for previous releases of Red "
-#~ "Hat Enterprise Linux."
-
-#~ msgid "Unsupported Development Libraries"
-#~ msgstr "Unsupported Development Libraries"
-
-#~ msgid "Workstation Common"
-#~ msgstr "Workstation Common"
-
-#~ msgid "ppc64 Compatibility Arch Support"
-#~ msgstr "ppc64 Compatibility Arch Support"
-
-#~ msgid "x86 Compatibility Arch Development Support"
-#~ msgstr "x86 Compatibility Arch Development Support"
-
-#~ msgid "x86 Compatibility Arch Support"
-#~ msgstr "x86 Compatibility Arch Support"
-
-#~ msgid "Brazilian Portuguese"
-#~ msgstr "Brazilian Portuguese"
-
-#~ msgid "English"
-#~ msgstr "English"
-
-#~ msgid "French"
-#~ msgstr "French"
-
-#~ msgid "German"
-#~ msgstr "German"
-
-#~ msgid "Italian"
-#~ msgstr "Italian"
-
-#~ msgid "Spanish"
-#~ msgstr "Spanish"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Brazilian Portuguese language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Brazilian Portuguese language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "English language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "English language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "French language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "French language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "German language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "German language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Italian language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Italian language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Spanish language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Spanish language."
-
-#~ msgid "Japanese"
-#~ msgstr "Japanese"
-
-#~ msgid "Korean"
-#~ msgstr "Korean"
-
-#~ msgid "Simplified Chinese"
-#~ msgstr "Simplified Chinese"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Japanese language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Japanese language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Korean language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Korean language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Simplified Chinese language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Simplified Chinese language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Traditional Chinese language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Traditional Chinese language."
-
-#~ msgid "Traditional Chinese"
-#~ msgstr "Traditional Chinese"
-
-#~ msgid "ppc64 Compatibility Arch Development Support"
-#~ msgstr "ppc64 Compatibility Arch Development Support"
-
-#~ msgid "Bengali"
-#~ msgstr "Bengali"
-
-#~ msgid "Gujarati"
-#~ msgstr "Gujarati"
-
-#~ msgid "Hindi"
-#~ msgstr "Hindi"
-
-#~ msgid "Punjabi"
-#~ msgstr "Punjabi"
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Bengali language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Bengali language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Gujarati language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Gujarati language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Hindi language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Hindi language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Punjabi language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Punjabi language."
-
-#~ msgid ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Tamil language."
-#~ msgstr ""
-#~ "This group contains the Red Hat Enterprise Linux documentation in the "
-#~ "Tamil language."
-
-#~ msgid "Red Hat Enterprise Linux Extras"
-#~ msgstr "Red Hat Enterprise Linux Extras"
-
-#~ msgid "Workstation"
-#~ msgstr "Workstation"
-
-#~ msgid "Workstation applications and utilities."
-#~ msgstr "Workstation applications and utilities."
-
-#~ msgid "Compatibility Arch"
-#~ msgstr "Compatibility Arch"
-
-#~ msgid "Compatibility Arch Libraries"
-#~ msgstr "Compatibility Arch Libraries"
-
-#~ msgid "Multilib library packages"
-#~ msgstr "Multi-lib library packages"
-
-#~ msgid ""
-#~ "Packages which provide functionality for the compatibility architecture."
-#~ msgstr ""
-#~ "Packages which provide functionality for the compatibility architecture."
-
-#~ msgid "IBM eServer iSeries/pSeries Provided Software"
-#~ msgstr "IBM eServer iSeries/pSeries Provided Software"
-
-#~ msgid "Software provided by IBM for eServer iSeries and pSeries machines"
-#~ msgstr "Software provided by IBM for eServer iSeries and pSeries machines"
-
-#~ msgid "HPC"
-#~ msgstr "HPC"
-
-#~ msgid "High Performance Computing Support"
-#~ msgstr "High Performance Computing Support"
-
-#~ msgid ""
-#~ "These packages provide the kernel and userspace tools needed for using "
-#~ "the Xen virtual machine monitor"
-#~ msgstr ""
-#~ "These packages provide the kernel and userspace tools needed for using "
-#~ "the Xen virtual machine monitor"
-
-#~ msgid "Xen"
-#~ msgstr "Xen"
+#: ../comps-el6.xml.in.h:1
+msgid "A KDE desktop."
+msgstr "A KDE desktop."
+
+#: ../comps-el6.xml.in.h:2
+msgid "A basic development environment."
+msgstr "A basic development environment."
+
+#: ../comps-el6.xml.in.h:3
+msgid "A full-purpose office suite, and other productivity tools."
+msgstr "A full-purpose office suite, and other productivity tools."
+
+#: ../comps-el6.xml.in.h:4
+msgid "A general purpose desktop."
+msgstr "A general purpose desktop."
+
+#: ../comps-el6.xml.in.h:5
+msgid "A minimal desktop that can also be used as a thin client."
+msgstr "A minimal desktop that can also be used as a thin client."
+
+#: ../comps-el6.xml.in.h:6
+msgid "A set of tools to manage SAN path availability"
+msgstr "A set of tools to manage SAN path availability"
+
+#: ../comps-el6.xml.in.h:7
+msgid "A set of tools to monitor server hardware"
+msgstr "A set of tools to monitor server hardware"
+
+#: ../comps-el6.xml.in.h:8
+msgid "AMQP messaging broker for systems management."
+msgstr "AMQP messaging broker for systems management."
+
+#: ../comps-el6.xml.in.h:9
+msgid "AMQP messaging client for systems management."
+msgstr "AMQP messaging client for systems management."
+
+#: ../comps-el6.xml.in.h:10
+msgid "Additional Development"
+msgstr "Additional Development"
+
+#: ../comps-el6.xml.in.h:11
+msgid ""
+"Additional development headers and libraries for developing applications"
+msgstr ""
+"Additional development headers and libraries for developing applications"
+
+#: ../comps-el6.xml.in.h:14
+msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
+msgstr "Allows the system to act as a SMTP and/or IMAP e-mail server."
+
+#: ../comps-el6.xml.in.h:15
+msgid "Allows the system to act as a print server."
+msgstr "Allows the system to act as a print server."
+
+#: ../comps-el6.xml.in.h:16
+msgid ""
+"Allows the system to act as a web server, and run Perl and Python web "
+"applications."
+msgstr ""
+"Allows the system to act as a web server, and run Perl and Python web "
+"applications."
+
+#: ../comps-el6.xml.in.h:17
+msgid "Allows the system to act as an FTP server."
+msgstr "Allows the system to act as an FTP server."
+
+#: ../comps-el6.xml.in.h:18
+msgid "Allows the system to host Java servlets."
+msgstr "Allows the system to host Java servlets."
+
+#: ../comps-el6.xml.in.h:25
+msgid "Backup Client"
+msgstr "Backup Client"
+
+#: ../comps-el6.xml.in.h:26
+msgid "Backup Server"
+msgstr "Backup Server"
+
+#: ../comps-el6.xml.in.h:28
+msgid "Basic legacy X Window System compatibility"
+msgstr "Basic legacy X Window System compatibility"
+
+#: ../comps-el6.xml.in.h:37
+msgid "CIFS file server"
+msgstr "CIFS file server"
+
+#: ../comps-el6.xml.in.h:39
+msgid "Chhattisgarhi Support"
+msgstr "Chhattisgarhi Support"
+
+#: ../comps-el6.xml.in.h:42
+msgid "Client tools for connecting to a backup server and doing backups."
+msgstr "Client tools for connecting to a backup server and doing backups."
+
+#: ../comps-el6.xml.in.h:43
+msgid "Clients for installing and managing virtualization instances."
+msgstr "Clients for installing and managing virtualisation instances."
+
+#: ../comps-el6.xml.in.h:44
+msgid "Clients for integration into a network managed by a directory service."
+msgstr ""
+"Clients for integration into a network managed by a directory service."
+
+#: ../comps-el6.xml.in.h:45
+msgid "Compatibility libraries"
+msgstr "Compatibility libraries"
+
+#: ../comps-el6.xml.in.h:46
+msgid ""
+"Compatibility libraries for applications built on previous versions of "
+"Enterprise Linux."
+msgstr ""
+"Compatibility libraries for applications built on previous versions of "
+"Enterprise Linux."
+
+#: ../comps-el6.xml.in.h:47
+msgid ""
+"Compatibility programs for migration from or working with legacy UNIX "
+"environments."
+msgstr ""
+"Compatibility programs for migration from or working with legacy UNIX "
+"environments."
+
+#: ../comps-el6.xml.in.h:48
+msgid ""
+"Compatibility programs for migration from or working with legacy X Window "
+"System environments."
+msgstr ""
+"Compatibility programs for migration from or working with legacy X Window "
+"System environments."
+
+#: ../comps-el6.xml.in.h:49
+msgid "Console internet access tools, often used by administrators."
+msgstr "Console internet access tools, often used by administrators."
+
+#: ../comps-el6.xml.in.h:50
+msgid "Console internet tools"
+msgstr "Console internet tools"
+
+#: ../comps-el6.xml.in.h:56
+msgid "Debugging Tools"
+msgstr "Debugging Tools"
+
+#: ../comps-el6.xml.in.h:57
+msgid "Design and Simulation tools for hardware engineers."
+msgstr "Design and Simulation tools for hardware engineers."
+
+#: ../comps-el6.xml.in.h:58
+msgid "Desktop"
+msgstr "Desktop"
+
+#: ../comps-el6.xml.in.h:59
+msgid "Desktop Debugging and Performance Tools"
+msgstr "Desktop Debugging and Performance Tools"
+
+#: ../comps-el6.xml.in.h:60
+msgid "Desktop Platform"
+msgstr "Desktop Platform"
+
+#: ../comps-el6.xml.in.h:61
+msgid "Desktop Platform Development"
+msgstr "Desktop Platform Development"
+
+#: ../comps-el6.xml.in.h:62
+msgid "Desktops"
+msgstr "Desktops"
+
+#: ../comps-el6.xml.in.h:63
+msgid "Desktops and thin clients."
+msgstr "Desktops and thin clients."
+
+#: ../comps-el6.xml.in.h:65
+msgid ""
+"Development headers and libraries for developing applications to run on the "
+"Enterprise Linux Desktop Platform."
+msgstr ""
+"Development headers and libraries for developing applications to run on the "
+"Enterprise Linux Desktop Platform."
+
+#: ../comps-el6.xml.in.h:66
+msgid ""
+"Development headers and libraries for developing applications to run on the "
+"Enterprise Linux Server Platform."
+msgstr ""
+"Development headers and libraries for developing applications to run on the "
+"Enterprise Linux Server Platform."
+
+#: ../comps-el6.xml.in.h:67
+msgid "Development tools"
+msgstr "Development tools"
+
+#: ../comps-el6.xml.in.h:68
+msgid "Development tools and libraries."
+msgstr "Development tools and libraries."
+
+#: ../comps-el6.xml.in.h:70
+msgid "Directory Client"
+msgstr "Directory Client"
+
+#: ../comps-el6.xml.in.h:73
+msgid "E-mail server"
+msgstr "E-mail server"
+
+#: ../comps-el6.xml.in.h:74
+msgid "Eclipse"
+msgstr "Eclipse"
+
+#: ../comps-el6.xml.in.h:75
+msgid "Eclipse-based Integrated Development Environment."
+msgstr "Eclipse-based Integrated Development Environment."
+
+#: ../comps-el6.xml.in.h:77
+msgid "Educational software for learning."
+msgstr "Educational software for learning."
+
+#: ../comps-el6.xml.in.h:79
+msgid "Emacs"
+msgstr "Emacs"
+
+#: ../comps-el6.xml.in.h:80
+msgid "Email, chat, and video conferencing software."
+msgstr "E-mail, chat, and video conferencing software."
+
+#: ../comps-el6.xml.in.h:81
+msgid "Enables the system to attach to network storage."
+msgstr "Enables the system to attach to network storage."
+
+#: ../comps-el6.xml.in.h:82
+msgid "End-user applications."
+msgstr "End-user applications."
+
+#: ../comps-el6.xml.in.h:87
+msgid "FCoE Storage Client"
+msgstr "FCoE Storage Client"
+
+#: ../comps-el6.xml.in.h:88
+msgid "FTP server"
+msgstr "FTP server"
+
+#: ../comps-el6.xml.in.h:91
+msgid "Fiber Channel over Ethernet support"
+msgstr "Fibre Channel over Ethernet support"
+
+#: ../comps-el6.xml.in.h:95
+msgid "Firefox web browser"
+msgstr "Firefox web browser"
+
+#: ../comps-el6.xml.in.h:97
+msgid "Fonts for rendering text in a variety of languages and scripts."
+msgstr "Fonts for rendering text in a variety of languages and scripts."
+
+#: ../comps-el6.xml.in.h:101
+msgid "GUI tools for debugging applications and performance."
+msgstr "GUI tools for debugging applications and performance."
+
+#: ../comps-el6.xml.in.h:104
+msgid "General Purpose Desktop"
+msgstr "General Purpose Desktop"
+
+#: ../comps-el6.xml.in.h:107
+msgid "Graphical Administration Tools"
+msgstr "Graphical Administration Tools"
+
+#: ../comps-el6.xml.in.h:108
+msgid ""
+"Graphical system administration tools for managing many aspects of a system."
+msgstr ""
+"Graphical system administration tools for managing many aspects of a system."
+
+#: ../comps-el6.xml.in.h:109
+msgid "Graphics Creation Tools"
+msgstr "Graphics Creation Tools"
+
+#: ../comps-el6.xml.in.h:112
+msgid "Hardware monitoring utilities"
+msgstr "Hardware monitoring utilities"
+
+#: ../comps-el6.xml.in.h:119
+msgid "Infiniband Support"
+msgstr "Infiniband Support"
+
+#: ../comps-el6.xml.in.h:122
+msgid "Internet Applications"
+msgstr "Internet Applications"
+
+#: ../comps-el6.xml.in.h:123
+msgid "Internet Browser"
+msgstr "Internet Browser"
+
+#: ../comps-el6.xml.in.h:128
+msgid "Java Platform"
+msgstr "Java Platform"
+
+#: ../comps-el6.xml.in.h:129
+msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
+msgstr "Java support for the Enterprise Linux Server and Desktop Platforms."
+
+#: ../comps-el6.xml.in.h:130
+msgid "KDE Desktop"
+msgstr "KDE Desktop"
+
+#: ../comps-el6.xml.in.h:141
+msgid "Large Systems Performance"
+msgstr "Large Systems Performance"
+
+#: ../comps-el6.xml.in.h:144
+msgid "Legacy UNIX compatibility"
+msgstr "Legacy UNIX compatibility"
+
+#: ../comps-el6.xml.in.h:145
+msgid "Legacy X Window System compatibility"
+msgstr "Legacy X Window System compatibility"
+
+#: ../comps-el6.xml.in.h:151
+msgid "Mainframe Access"
+msgstr "Mainframe Access"
+
+#: ../comps-el6.xml.in.h:160
+msgid "Messaging Client Support"
+msgstr "Messaging Client Support"
+
+#: ../comps-el6.xml.in.h:161
+msgid "Messaging Server Support"
+msgstr "Messaging Server Support"
+
+#: ../comps-el6.xml.in.h:163
+msgid ""
+"Minimal set of compatibility programs for migration from or working with "
+"legacy X Window System environments."
+msgstr ""
+"Minimal set of compatibility programs for migration from or working with "
+"legacy X Window System environments."
+
+#: ../comps-el6.xml.in.h:165
+msgid "MySQL Database client"
+msgstr "MySQL Database client"
+
+#: ../comps-el6.xml.in.h:166
+msgid "MySQL Database server"
+msgstr "MySQL Database server"
+
+#: ../comps-el6.xml.in.h:168
+msgid "NFS file server"
+msgstr "NFS file server"
+
+#: ../comps-el6.xml.in.h:169
+msgid "NFS file server."
+msgstr "NFS file server."
+
+#: ../comps-el6.xml.in.h:171
+msgid "Network Infrastructure Server"
+msgstr "Network Infrastructure Server"
+
+#: ../comps-el6.xml.in.h:172
+msgid "Network Storage Server"
+msgstr "Network Storage Server"
+
+#: ../comps-el6.xml.in.h:173
+msgid "Network file system client"
+msgstr "Network file system client"
+
+#: ../comps-el6.xml.in.h:174
+msgid "Networking Tools"
+msgstr "Networking Tools"
+
+#: ../comps-el6.xml.in.h:178
+msgid "Office Suite and Productivity"
+msgstr "Office Suite and Productivity"
+
+#: ../comps-el6.xml.in.h:180
+msgid "PHP Support"
+msgstr "PHP Support"
+
+#: ../comps-el6.xml.in.h:181
+msgid "PHP web application framework."
+msgstr "PHP web application framework."
+
+#: ../comps-el6.xml.in.h:182
+msgid "Performance Tools"
+msgstr "Performance Tools"
+
+#: ../comps-el6.xml.in.h:183
+msgid "Performance support tools for large systems"
+msgstr "Performance support tools for large systems"
+
+#: ../comps-el6.xml.in.h:184
+msgid "Perl Support"
+msgstr "Perl Support"
+
+#: ../comps-el6.xml.in.h:185
+msgid "Perl interfaces to common libraries and functionality."
+msgstr "Perl interfaces to common libraries and functionality."
+
+#: ../comps-el6.xml.in.h:187
+msgid "Policy packages for the Server variant."
+msgstr "Policy packages for the Server variant."
+
+#: ../comps-el6.xml.in.h:188
+msgid "Policy packages for the Workstation variant."
+msgstr "Policy packages for the Workstation variant."
+
+#: ../comps-el6.xml.in.h:191
+msgid "PostgreSQL Database client"
+msgstr "PostgreSQL Database client"
+
+#: ../comps-el6.xml.in.h:192
+msgid "PostgreSQL Database server"
+msgstr "PostgreSQL Database server"
+
+#: ../comps-el6.xml.in.h:193
+msgid "Print Server"
+msgstr "Print Server"
+
+#: ../comps-el6.xml.in.h:194
+msgid "Printing client"
+msgstr "Printing client"
+
+#: ../comps-el6.xml.in.h:195
+msgid "Provides an environment for hosting virtualized guests."
+msgstr "Provides an environment for hosting virtualised guests."
+
+#: ../comps-el6.xml.in.h:196
+msgid ""
+"Provides an interface for accessing and controlling virtualized guests and "
+"containers."
+msgstr ""
+"Provides an interface for accessing and controlling virtualised guests and "
+"containers."
+
+#: ../comps-el6.xml.in.h:198
+msgid "Remote Desktop Clients"
+msgstr "Remote Desktop Clients"
+
+#: ../comps-el6.xml.in.h:201
+msgid "SNMP Support"
+msgstr "SNMP Support"
+
+#: ../comps-el6.xml.in.h:202
+msgid "SNMP management agent."
+msgstr "SNMP management agent."
+
+#: ../comps-el6.xml.in.h:205
+msgid "Scientific support"
+msgstr "Scientific support"
+
+#: ../comps-el6.xml.in.h:206
+msgid "Security Tools"
+msgstr "Security Tools"
+
+#: ../comps-el6.xml.in.h:207
+msgid "Security tools for integrity and trust verification."
+msgstr "Security tools for integrity and trust verification."
+
+#: ../comps-el6.xml.in.h:209
+msgid "Server Platform"
+msgstr "Server Platform"
+
+#: ../comps-el6.xml.in.h:210
+msgid "Server Platform Development"
+msgstr "Server Platform Development"
+
+#: ../comps-el6.xml.in.h:211
+msgid "Server Policy"
+msgstr "Server Policy"
+
+#: ../comps-el6.xml.in.h:212
+msgid "Servers for core network protocols and services, such as DHCP or DNS."
+msgstr "Servers for core network protocols and services, such as DHCP or DNS."
+
+#: ../comps-el6.xml.in.h:213
+msgid "Share files between Linux and Microsoft Windows systems."
+msgstr "Share files between Linux and Microsoft Windows systems."
+
+#: ../comps-el6.xml.in.h:218
+msgid "Smallest possible installation."
+msgstr "Smallest possible installation."
+
+#: ../comps-el6.xml.in.h:219
+msgid "Smart card support"
+msgstr "Smart card support"
+
+#: ../comps-el6.xml.in.h:220
+msgid ""
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
+msgstr ""
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
+
+#: ../comps-el6.xml.in.h:221
+msgid "Software for creation and manipulation of still images."
+msgstr "Software for creation and manipulation of still images."
+
+#: ../comps-el6.xml.in.h:222
+msgid "Software for the input of international text."
+msgstr "Software for the input of international text."
+
+#: ../comps-el6.xml.in.h:223
+msgid "Software to centralize your infrastructure's backups."
+msgstr "Software to centralise your infrastructure's backups."
+
+#: ../comps-el6.xml.in.h:227
+msgid "Storage Availability Tools"
+msgstr "Storage Availability Tools"
+
+#: ../comps-el6.xml.in.h:228
+msgid "Support for the TeX document formatting system."
+msgstr "Support for the TeX document formatting system."
+
+#: ../comps-el6.xml.in.h:229
+msgid "Support for using smart card authentication."
+msgstr "Support for using smart card authentication."
+
+#: ../comps-el6.xml.in.h:230
+msgid "Supported libraries for the Enterprise Linux Desktop Platform."
+msgstr "Supported libraries for the Enterprise Linux Desktop Platform."
+
+#: ../comps-el6.xml.in.h:231
+msgid "Supported libraries for the Enterprise Linux Server Platform."
+msgstr "Supported libraries for the Enterprise Linux Server Platform."
+
+#: ../comps-el6.xml.in.h:235
+msgid "System Management"
+msgstr "System Management"
+
+#: ../comps-el6.xml.in.h:236
+msgid "System administration tools"
+msgstr "System administration tools"
+
+#: ../comps-el6.xml.in.h:240
+msgid "TeX support"
+msgstr "TeX support"
+
+#: ../comps-el6.xml.in.h:241
+msgid "Technical Writing"
+msgstr "Technical Writing"
+
+#: ../comps-el6.xml.in.h:245
+msgid "The GNU Emacs extensible, customizable, text editor."
+msgstr "The GNU Emacs extensible, customisable, text editor."
+
+#: ../comps-el6.xml.in.h:246
+msgid "The MySQL SQL database client, and associated packages."
+msgstr "The MySQL SQL database client, and associated packages."
+
+#: ../comps-el6.xml.in.h:247
+msgid "The MySQL SQL database server, and associated packages."
+msgstr "The MySQL SQL database server, and associated packages."
+
+#: ../comps-el6.xml.in.h:248
+msgid "The PostgreSQL SQL database client, and associated packages."
+msgstr "The PostgreSQL SQL database client, and associated packages."
+
+#: ../comps-el6.xml.in.h:249
+msgid "The PostgreSQL SQL database server, and associated packages."
+msgstr "The PostgreSQL SQL database server, and associated packages."
+
+#: ../comps-el6.xml.in.h:250
+msgid "The basic installation of Enterprise Linux."
+msgstr "The basic installation of Enterprise Linux."
+
+#: ../comps-el6.xml.in.h:253
+msgid "Tools and utilities needed by a Fedora Packager."
+msgstr "Tools and utilities needed by a Fedora Packager."
+
+#: ../comps-el6.xml.in.h:254
+msgid "Tools for accessing mainframe computing resources."
+msgstr "Tools for accessing mainframe computing resources."
+
+#: ../comps-el6.xml.in.h:255
+msgid "Tools for configuring and analyzing computer networks."
+msgstr "Tools for configuring and analyzing computer networks."
+
+#: ../comps-el6.xml.in.h:256
+msgid "Tools for connecting via PPP or ISDN."
+msgstr "Tools for connecting via PPP or ISDN."
+
+#: ../comps-el6.xml.in.h:257
+msgid ""
+"Tools for debugging misbehaving applications and diagnosing performance "
+"problems."
+msgstr ""
+"Tools for debugging misbehaving applications and diagnosing performance "
+"problems."
+
+#: ../comps-el6.xml.in.h:258
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
+msgstr ""
+"Tools for diagnosing system and application-level performance problems."
+
+#: ../comps-el6.xml.in.h:259
+msgid ""
+"Tools for mathematical and scientific computations, and parallel computing."
+msgstr ""
+"Tools for mathematical and scientific computations, and parallel computing."
+
+#: ../comps-el6.xml.in.h:260
+msgid "Tools for offline virtual image management."
+msgstr "Tools for offline virtual image management."
+
+#: ../comps-el6.xml.in.h:261
+msgid "Tools for printing to a local printer or a remote print server."
+msgstr "Tools for printing to a local printer or a remote print server."
+
+#: ../comps-el6.xml.in.h:262
+msgid "Tools for writing technical documentation."
+msgstr "Tools for writing technical documentation."
+
+#: ../comps-el6.xml.in.h:265
+msgid "TurboGears application framework"
+msgstr "TurboGears application framework"
+
+#: ../comps-el6.xml.in.h:266
+msgid "TurboGears web application framework."
+msgstr "TurboGears web application framework."
+
+#: ../comps-el6.xml.in.h:272
+msgid "Utilities useful in system administration."
+msgstr "Utilities useful in system administration."
+
+#: ../comps-el6.xml.in.h:274
+msgid "Various low-level hardware management frameworks."
+msgstr "Various low-level hardware management frameworks."
+
+#: ../comps-el6.xml.in.h:278
+msgid "Virtualization Client"
+msgstr "Virtualisation Client"
+
+#: ../comps-el6.xml.in.h:279
+msgid "Virtualization Platform"
+msgstr "Virtualisation Platform"
+
+#: ../comps-el6.xml.in.h:280
+msgid "Virtualization Tools"
+msgstr "Virtualisation Tools"
+
+#: ../comps-el6.xml.in.h:281
+msgid "WBEM interface for Enterprise Linux."
+msgstr "WBEM interface for Enterprise Linux."
+
+#: ../comps-el6.xml.in.h:284
+msgid "Web Servlet Engine"
+msgstr "Web Servlet Engine"
+
+#: ../comps-el6.xml.in.h:285
+msgid "Web-Based Enterprise Management"
+msgstr "Web-Based Enterprise Management"
+
+#: ../comps-el6.xml.in.h:287
+msgid "Workstation Policy"
+msgstr "Workstation Policy"
+
+#: ../comps-el6.xml.in.h:289
+msgid "X Window System Support."
+msgstr "X Window System Support."
+
+#: ../comps-el6.xml.in.h:292
+msgid "iSCSI Storage Client"
+msgstr "iSCSI Storage Client"
+
+#: ../comps-el6.xml.in.h:293
+msgid "iSCSI client support"
+msgstr "iSCSI client support"
+
+#: ../comps-el6.xml.in.h:294
+msgid "iSCSI, iSER, and iSNS network storage server."
+msgstr "iSCSI, iSER, and iSNS network storage server."
