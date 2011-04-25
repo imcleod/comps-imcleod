@@ -3626,10 +3626,10 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">java-1.5.0-gcj</packagereq>
-      <packagereq type="mandatory">libgcj</packagereq>
-      <packagereq type="default">java-1.6.0-openjdk</packagereq>
+      <packagereq type="mandatory">java-1.6.0-openjdk</packagereq>
       <packagereq type="default">icedtea-web</packagereq>
+      <packagereq type="optional">java-1.5.0-gcj</packagereq>
+      <packagereq type="optional">libgcj</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3642,8 +3642,7 @@
       <packagereq type="mandatory">ant</packagereq>
       <packagereq type="mandatory">ecj</packagereq>
       <packagereq basearchonly="true" type="mandatory">gcc-java</packagereq>
-      <packagereq type="mandatory">java-1.5.0-gcj-devel</packagereq>
-      <packagereq type="mandatory">libgcj-devel</packagereq>
+      <packagereq type="mandatory">java-1.6.0-openjdk-devel</packagereq>
       <packagereq type="mandatory">sinjdoc</packagereq>
       <packagereq type="default">ant-antlr</packagereq>
       <packagereq type="default">ant-apache-bcel</packagereq>
@@ -3720,7 +3719,6 @@
       <packagereq type="default">jakarta-taglibs-standard-javadoc</packagereq>
       <packagereq type="default">java-1.5.0-gcj-src</packagereq>
       <packagereq type="default">java-1.6.0-openjdk-demo</packagereq>
-      <packagereq type="default">java-1.6.0-openjdk-devel</packagereq>
       <packagereq type="default">java-1.6.0-openjdk-javadoc</packagereq>
       <packagereq type="default">java-1.6.0-openjdk-src</packagereq>
       <packagereq type="default">java_cup</packagereq>
@@ -3768,11 +3766,13 @@
       <packagereq type="optional">findbugs</packagereq>
       <packagereq type="optional">findbugs-javadoc</packagereq>
       <packagereq type="optional">findbugs-tools</packagereq>
+      <packagereq type="optional">java-1.5.0-gcj-devel</packagereq>
       <packagereq type="optional">java-1.5.0-gcj-javadoc</packagereq>
       <packagereq type="optional">jcip-annotations</packagereq>
       <packagereq type="optional">jcip-annotations-javadoc</packagereq>
       <packagereq type="optional">jsr-305</packagereq>
       <packagereq type="optional">jsr-305-javadoc</packagereq>
+      <packagereq type="optional">libgcj-devel</packagereq>
       <packagereq type="optional">pmd</packagereq>
     </packagelist>
   </group>
