@@ -525,7 +525,7 @@
     <uservisible>true</uservisible>
     <langonly>pt_BR</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="aspell">aspell-pt</packagereq>
+      <packagereq type="conditional" requires="aspell">aspell-pt_BR</packagereq>
       <packagereq type="conditional" requires="autocorr-en">autocorr-pt</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-pt_BR</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-pt</packagereq>
@@ -5143,7 +5143,7 @@
     <uservisible>true</uservisible>
     <langonly>pt</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="aspell">aspell-pt</packagereq>
+      <packagereq type="conditional" requires="aspell">aspell-pt_PT</packagereq>
       <packagereq type="conditional" requires="autocorr-en">autocorr-pt</packagereq>
       <packagereq type="conditional" requires="eclipse-platform">eclipse-nls-pt</packagereq>
       <packagereq type="conditional" requires="gcompris">gcompris-sound-pt</packagereq>
