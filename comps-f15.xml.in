@@ -3409,7 +3409,6 @@
       <packagereq type="conditional" requires="gtk2">ibus-gtk2</packagereq>
       <packagereq type="conditional" requires="gtk3">ibus-gtk3</packagereq>
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
-      <packagereq type="conditional" requires="control-center">im-chooser-gnome3</packagereq>
       <packagereq type="conditional" requires="gnome-session">imsettings-gnome</packagereq>
       <packagereq type="conditional" requires="lxde-common">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
