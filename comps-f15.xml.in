@@ -2939,7 +2939,6 @@
       <packagereq type="default">firefox</packagereq>
       <packagereq type="default">icedtea-web</packagereq>
       <packagereq type="default">nspluginwrapper</packagereq>
-      <packagereq type="default">pino</packagereq>
       <packagereq type="default">transmission-gtk</packagereq>
       <packagereq type="optional">amsn</packagereq>
       <packagereq type="optional">arora</packagereq>
@@ -2999,6 +2998,7 @@
       <packagereq type="optional">pan</packagereq>
       <packagereq type="optional">pidgin</packagereq>
       <packagereq type="optional">pidgin-libnotify</packagereq>
+      <packagereq type="optional">pino</packagereq>
       <packagereq type="optional">prozilla</packagereq>
       <packagereq type="optional">psi</packagereq>
       <packagereq type="optional">psimedia</packagereq>
@@ -3188,6 +3188,7 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">aic94xx-firmware</packagereq>
       <packagereq type="default">alsa-firmware</packagereq>
       <packagereq type="default">ar9170-firmware</packagereq>
       <packagereq type="default">atmel-firmware</packagereq>
@@ -3409,7 +3410,6 @@
       <packagereq type="conditional" requires="gtk2">ibus-gtk2</packagereq>
       <packagereq type="conditional" requires="gtk3">ibus-gtk3</packagereq>
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
-      <packagereq type="conditional" requires="control-center">im-chooser-gnome3</packagereq>
       <packagereq type="conditional" requires="gnome-session">imsettings-gnome</packagereq>
       <packagereq type="conditional" requires="lxde-common">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
@@ -5810,17 +5810,16 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">sugar</packagereq>
+      <packagereq type="default">csound-python</packagereq>
       <packagereq type="default">etoys-sugar</packagereq>
       <packagereq type="default">gdm</packagereq>
       <packagereq type="default">sugar-abacus</packagereq>
-      <packagereq type="default">sugar-browse</packagereq>
       <packagereq type="default">sugar-calculator</packagereq>
       <packagereq type="default">sugar-chat</packagereq>
       <packagereq type="default">sugar-log</packagereq>
       <packagereq type="default">sugar-memorize</packagereq>
       <packagereq type="default">sugar-physics</packagereq>
       <packagereq type="default">sugar-pippy</packagereq>
-      <packagereq type="default">sugar-read</packagereq>
       <packagereq type="default">sugar-record</packagereq>
       <packagereq type="default">sugar-speak</packagereq>
       <packagereq type="default">sugar-surf</packagereq>
@@ -5829,6 +5828,7 @@
       <packagereq type="default">sugar-write</packagereq>
       <packagereq type="default">sugar-xoirc</packagereq>
       <packagereq type="optional">sugar-analyze</packagereq>
+      <packagereq type="optional">sugar-browse</packagereq>
       <packagereq type="optional">sugar-clock</packagereq>
       <packagereq type="optional">sugar-connect</packagereq>
       <packagereq type="optional">sugar-distance</packagereq>
@@ -5842,6 +5842,7 @@
       <packagereq type="optional">sugar-jukebox</packagereq>
       <packagereq type="optional">sugar-moon</packagereq>
       <packagereq type="optional">sugar-playgo</packagereq>
+      <packagereq type="optional">sugar-read</packagereq>
       <packagereq type="optional">sugar-xomail</packagereq>
     </packagelist>
   </group>
@@ -6651,6 +6652,7 @@
     <packagelist>
       <packagereq type="optional">bbkeys</packagereq>
       <packagereq type="optional">blackbox</packagereq>
+      <packagereq type="optional">bluetile</packagereq>
       <packagereq type="optional">fluxbox</packagereq>
       <packagereq type="optional">fvwm</packagereq>
       <packagereq type="optional">hackedbox</packagereq>
