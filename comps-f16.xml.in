@@ -962,6 +962,8 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="digikam">kipi-plugins</packagereq>
+      <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
       <packagereq type="default">agave</packagereq>
       <packagereq type="default">blender</packagereq>
       <packagereq type="default">cinepaint</packagereq>
@@ -991,19 +993,17 @@
       <packagereq type="optional">audacity</packagereq>
       <packagereq type="optional">digikam</packagereq>
       <packagereq type="optional">fyre</packagereq>
-      <packagereq type="optional">jokosher</packagereq>
       <packagereq type="optional">gthumb</packagereq>
       <packagereq type="optional">hugin</packagereq>
       <packagereq type="optional">istanbul</packagereq>
+      <packagereq type="optional">jokosher</packagereq>
       <packagereq type="optional">koffice-krita</packagereq>
       <packagereq type="optional">openclipart</packagereq>
-      <packagereq type="optional">openoffice.org-impress</packagereq>
       <packagereq type="optional">openoffice.org-extendedPDF</packagereq>
+      <packagereq type="optional">openoffice.org-impress</packagereq>
       <packagereq type="optional">pitivi</packagereq>
       <packagereq type="optional">pngcrush</packagereq>
       <packagereq type="optional">tracker-search-tool</packagereq>
-      <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
-      <packagereq type="conditional" requires="digikam">kipi-plugins</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1622,8 +1622,20 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">gnuplot</packagereq>
-      <packagereq type="default">units</packagereq>
+      <packagereq type="mandatory">gnuplot</packagereq>
+      <packagereq type="mandatory">gsl</packagereq>
+      <packagereq type="mandatory">gsl-devel</packagereq>
+      <packagereq type="mandatory">maxima</packagereq>
+      <packagereq type="mandatory">octave</packagereq>
+      <packagereq type="mandatory">python-matplotlib</packagereq>
+      <packagereq type="mandatory">R</packagereq>
+      <packagereq type="mandatory">scipy</packagereq>
+      <packagereq type="mandatory">speedcrunch</packagereq>
+      <packagereq type="mandatory">texmaker</packagereq>
+      <packagereq type="mandatory">transfig</packagereq>
+      <packagereq type="mandatory">units</packagereq>
+      <packagereq type="mandatory">wxMaxima</packagereq>
+      <packagereq type="mandatory">xfig</packagereq>
       <packagereq type="optional">atlas</packagereq>
       <packagereq type="optional">automaton</packagereq>
       <packagereq type="optional">automaton-javadoc</packagereq>
@@ -1682,7 +1694,6 @@
       <packagereq type="optional">libtcd</packagereq>
       <packagereq type="optional">Macaulay2</packagereq>
       <packagereq type="optional">malaga</packagereq>
-      <packagereq type="optional">maxima</packagereq>
       <packagereq type="optional">maxima-gui</packagereq>
       <packagereq type="optional">mona</packagereq>
       <packagereq type="optional">mona-devel</packagereq>
@@ -1693,8 +1704,6 @@
       <packagereq type="optional">nco</packagereq>
       <packagereq type="optional">ncview</packagereq>
       <packagereq type="optional">netcdf</packagereq>
-      <packagereq type="optional">numpy</packagereq>
-      <packagereq type="optional">octave</packagereq>
       <packagereq type="optional">openbabel</packagereq>
       <packagereq type="optional">opencv</packagereq>
       <packagereq type="optional">osiv</packagereq>
@@ -1713,7 +1722,6 @@
       <packagereq type="optional">qcad</packagereq>
       <packagereq type="optional">qtiplot</packagereq>
       <packagereq type="optional">qtoctave</packagereq>
-      <packagereq type="optional">R</packagereq>
       <packagereq type="optional">root</packagereq>
       <packagereq type="optional">routino</packagereq>
       <packagereq type="optional">rrdtool</packagereq>
@@ -1722,7 +1730,6 @@
       <packagereq type="optional">seaview</packagereq>
       <packagereq type="optional">sextractor</packagereq>
       <packagereq type="optional">SIBsim4</packagereq>
-      <packagereq type="optional">speedcrunch</packagereq>
       <packagereq type="optional">stix-integrals-fonts</packagereq>
       <packagereq type="optional">stix-pua-fonts</packagereq>
       <packagereq type="optional">stix-sizes-fonts</packagereq>
@@ -1738,7 +1745,6 @@
       <packagereq type="optional">wgrib2</packagereq>
       <packagereq type="optional">wise2</packagereq>
       <packagereq type="optional">wvs-data</packagereq>
-      <packagereq type="optional">wxMaxima</packagereq>
       <packagereq type="optional">xdrawchem</packagereq>
       <packagereq type="optional">xtide</packagereq>
     </packagelist>
@@ -2694,7 +2700,6 @@
       <packagereq type="mandatory">gnome-themes-standard</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">notification-daemon</packagereq>
-      <packagereq type="default">ibus</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-gnome</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="conditional" requires="scim">scim-bridge-gtk</packagereq>
@@ -2740,6 +2745,7 @@
       <packagereq type="default">gvfs-fuse</packagereq>
       <packagereq type="default">gvfs-gphoto2</packagereq>
       <packagereq type="default">gvfs-smb</packagereq>
+      <packagereq type="default">ibus</packagereq>
       <packagereq type="default">libcanberra-gtk2</packagereq>
       <packagereq type="default">libcanberra-gtk3</packagereq>
       <packagereq type="default">librsvg2</packagereq>
@@ -3181,8 +3187,8 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Gujarati</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-langpack-gu</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-gu</packagereq>
-      <packagereq type="default">iok</packagereq>
       <packagereq type="default">gujarati-typing-booster</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-gujarati-fonts</packagereq>
     </packagelist>
   </group>
@@ -3353,8 +3359,8 @@
       <packagereq type="conditional" requires="kdelibs">kde-l10n-Hindi</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-langpack-hi</packagereq>
       <packagereq type="conditional" requires="moodle">moodle-hi</packagereq>
-      <packagereq type="default">iok</packagereq>
       <packagereq type="default">hindi-typing-booster</packagereq>
+      <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
       <packagereq type="default">sarai-fonts</packagereq>
     </packagelist>
@@ -3446,6 +3452,8 @@
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">gok</packagereq>
+      <packagereq type="optional">gujarati-typing-booster</packagereq>
+      <packagereq type="optional">hindi-typing-booster</packagereq>
       <packagereq type="optional">ibus-fbterm</packagereq>
       <packagereq type="optional">ibus-handwrite</packagereq>
       <packagereq type="optional">ibus-input-pad</packagereq>
@@ -3464,6 +3472,7 @@
       <packagereq type="optional">input-pad</packagereq>
       <packagereq type="optional">iok</packagereq>
       <packagereq type="optional">kinput2</packagereq>
+      <packagereq type="optional">marathi-typing-booster</packagereq>
       <packagereq type="optional">nabi</packagereq>
       <packagereq type="optional">scim-anthy</packagereq>
       <packagereq type="optional">scim-array</packagereq>
@@ -3501,9 +3510,6 @@
       <packagereq type="optional">uim-skk</packagereq>
       <packagereq type="optional">WritRecogn</packagereq>
       <packagereq type="optional">xsunpinyin</packagereq>
-      <packagereq type="optional">marathi-typing-booster</packagereq>
-      <packagereq type="optional">gujarati-typing-booster</packagereq>
-      <packagereq type="optional">hindi-typing-booster</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3598,9 +3604,9 @@
       <packagereq type="default">vlgothic-fonts</packagereq>
       <packagereq type="default">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">cmigemo</packagereq>
-      <packagereq type="optional">emacs-common-ddskk</packagereq>
       <packagereq type="optional">eblook</packagereq>
       <packagereq type="optional">ebview</packagereq>
+      <packagereq type="optional">emacs-common-ddskk</packagereq>
       <packagereq type="optional">hanazono-fonts</packagereq>
       <packagereq type="optional">ibus-mozc</packagereq>
       <packagereq type="optional">ipa-ex-gothic-fonts</packagereq>
@@ -6602,14 +6608,14 @@
       <packagereq type="optional">boa</packagereq>
       <packagereq type="optional">cherokee</packagereq>
       <packagereq type="optional">dap-server</packagereq>
+      <packagereq type="optional">drupal-service_links</packagereq>
+      <packagereq type="optional">drupal-workspace</packagereq>
       <packagereq type="optional">drupal6</packagereq>
-      <packagereq type="optional">drupal7</packagereq>
       <packagereq type="optional">drupal6-calendar</packagereq>
       <packagereq type="optional">drupal6-cck</packagereq>
       <packagereq type="optional">drupal6-date</packagereq>
-      <packagereq type="optional">drupal-service_links</packagereq>
       <packagereq type="optional">drupal6-views</packagereq>
-      <packagereq type="optional">drupal-workspace</packagereq>
+      <packagereq type="optional">drupal7</packagereq>
       <packagereq type="optional">lighttpd</packagereq>
       <packagereq type="optional">lighttpd-fastcgi</packagereq>
       <packagereq type="optional">mediawiki</packagereq>
@@ -7172,25 +7178,25 @@
     </grouplist>
   </category>
   <langpacks>
-    <match name="aspell" install="aspell-%s"/>
-    <match name="autocorr-en" install="autocorr-%s"/>
-    <match name="childsplay" install="childsplay-alphabet_sounds_%s"/>
-    <match name="eclipse-platform" install="eclipse-nls-%s"/>
-    <match name="gcompris" install="gcompris-sound-%s"/>
-    <match name="hunspell" install="hunspell-%s"/>
-    <match name="hyphen" install="hyphen-%s"/>
-    <match name="kdelibs3" install="kde-i18n-%s"/>
-    <match name="kdelibs" install="kde-l10n-%s"/>
-    <match name="koffice-core" install="koffice-langpack-%s"/>
-    <match name="LabPlot-doc" install="LabPlot-doc-%s"/>
-    <match name="libreoffice-core" install="libreoffice-langpack-%s"/>
-    <match name="man-pages" install="man-pages-%s"/>
-    <match name="moodle" install="moodle-%s"/>
-    <match name="mythes" install="mythes-%s"/>
-    <match name="nqc-doc" install="nqc-doc-%s"/>
-    <match name="openoffice.org-core" install="openoffice.org-langpack-%s"/>
-    <match name="tesseract" install="tesseract-langpack-%s"/>
-    <match name="tkgate" install="tkgate-%s"/>
+    <match install="LabPlot-doc-%s" name="LabPlot-doc"/>
+    <match install="aspell-%s" name="aspell"/>
+    <match install="autocorr-%s" name="autocorr-en"/>
+    <match install="childsplay-alphabet_sounds_%s" name="childsplay"/>
+    <match install="eclipse-nls-%s" name="eclipse-platform"/>
+    <match install="gcompris-sound-%s" name="gcompris"/>
+    <match install="hunspell-%s" name="hunspell"/>
+    <match install="hyphen-%s" name="hyphen"/>
+    <match install="kde-l10n-%s" name="kdelibs"/>
+    <match install="kde-i18n-%s" name="kdelibs3"/>
+    <match install="koffice-langpack-%s" name="koffice-core"/>
+    <match install="libreoffice-langpack-%s" name="libreoffice-core"/>
+    <match install="man-pages-%s" name="man-pages"/>
+    <match install="moodle-%s" name="moodle"/>
+    <match install="mythes-%s" name="mythes"/>
+    <match install="nqc-doc-%s" name="nqc-doc"/>
+    <match install="openoffice.org-langpack-%s" name="openoffice.org-core"/>
+    <match install="tesseract-langpack-%s" name="tesseract"/>
+    <match install="tkgate-%s" name="tkgate"/>
   </langpacks>
   <blacklist>
     <package name="dev"/>
