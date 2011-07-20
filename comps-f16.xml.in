@@ -255,6 +255,7 @@
       <packagereq type="conditional" requires="aspell">aspell-en</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
       <packagereq type="default">acpid</packagereq>
+      <packagereq type="default">btrfs-progs</packagereq>
       <packagereq type="default">cifs-utils</packagereq>
       <packagereq type="default">coolkey</packagereq>
       <packagereq type="default">cryptsetup-luks</packagereq>
@@ -337,7 +338,6 @@
       <packagereq type="optional">authd</packagereq>
       <packagereq type="optional">bridge-utils</packagereq>
       <packagereq type="optional">brltty</packagereq>
-      <packagereq type="optional">btrfs-progs</packagereq>
       <packagereq type="optional">fbset</packagereq>
       <packagereq type="optional">gnupg2-smime</packagereq>
       <packagereq type="optional">gpart</packagereq>
