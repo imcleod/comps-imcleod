@@ -255,6 +255,7 @@
       <packagereq type="conditional" requires="aspell">aspell-en</packagereq>
       <packagereq type="conditional" requires="hunspell">hunspell-en</packagereq>
       <packagereq type="default">acpid</packagereq>
+      <packagereq type="default">bash-completion</packagereq>
       <packagereq type="default">btrfs-progs</packagereq>
       <packagereq type="default">cifs-utils</packagereq>
       <packagereq type="default">coolkey</packagereq>
@@ -5933,7 +5934,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">BackupPC</packagereq>
-      <packagereq type="default">bash-completion</packagereq>
       <packagereq type="default">bonnie++</packagereq>
       <packagereq type="default">chrony</packagereq>
       <packagereq type="default">cifs-utils</packagereq>
