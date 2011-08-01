@@ -1825,20 +1825,18 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">bodhi-client</packagereq>
-      <packagereq type="mandatory">bzr</packagereq>
       <packagereq type="mandatory">curl</packagereq>
-      <packagereq type="mandatory">cvs</packagereq>
       <packagereq type="mandatory">fedora-easy-karma</packagereq>
       <packagereq type="mandatory">fedora-packager</packagereq>
       <packagereq type="mandatory">git</packagereq>
       <packagereq type="mandatory">koji</packagereq>
       <packagereq type="mandatory">make</packagereq>
-      <packagereq type="mandatory">mercurial</packagereq>
       <packagereq type="mandatory">mock</packagereq>
-      <packagereq type="mandatory">plague-client</packagereq>
       <packagereq type="mandatory">redhat-rpm-config</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
       <packagereq type="mandatory">rpmdevtools</packagereq>
+      <packagereq type="default">bzr</packagereq>
+      <packagereq type="default">mercurial</packagereq>
       <packagereq type="optional">cpanspec</packagereq>
     </packagelist>
   </group>
