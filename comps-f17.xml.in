@@ -4434,6 +4434,7 @@
       <packagereq type="mandatory">pcmanfm</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">gpicview</packagereq>
       <packagereq type="default">leafpad</packagereq>
       <packagereq type="default">lxappearance</packagereq>
@@ -6790,6 +6791,7 @@
       <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-xfce</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">gdm</packagereq>
       <packagereq type="default">gtk-xfce-engine</packagereq>
       <packagereq type="default">leafpad</packagereq>
