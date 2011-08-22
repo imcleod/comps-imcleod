@@ -4639,6 +4639,18 @@
     </packagelist>
   </group>
   <group>
+    <id>medical</id>
+    <_name>Medical Applications</_name>
+    <_description>This is a group of applications related to health care.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">aeskulap</packagereq>
+      <packagereq type="default">gnumed-server</packagereq>
+      <packagereq type="default">gnumed</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>meego-netbook</id>
     <_name>MeeGo NetBook UX Environment</_name>
     <_description>MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices.</_description>
@@ -7110,6 +7122,7 @@
       <groupid>games</groupid>
       <groupid>graphical-internet</groupid>
       <groupid>graphics</groupid>
+      <groupid>medical</groupid>
       <groupid>office</groupid>
       <groupid>sound-and-video</groupid>
       <groupid>text-internet</groupid>
