@@ -2151,6 +2151,11 @@
       <packagereq type="optional">mscore-fonts</packagereq>
       <packagereq type="optional">msimonson-anonymouspro-fonts</packagereq>
       <packagereq type="optional">myanmar3-unicode-fonts</packagereq>
+      <packagereq type="optional">nafees-naskh-fonts</packagereq>
+      <packagereq type="optional">nafees-nastaleeq-fonts</packagereq>
+      <packagereq type="optional">nafees-pakistani-naskh-fonts</packagereq>
+      <packagereq type="optional">nafees-riqa-fonts</packagereq>
+      <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">ns-bola-fonts</packagereq>
       <packagereq type="optional">ns-tiza-chalk-fonts</packagereq>
@@ -3508,6 +3513,7 @@
       <packagereq type="optional">scim-tables-chinese-extra</packagereq>
       <packagereq type="optional">scim-thai</packagereq>
       <packagereq type="optional">scim-tomoe</packagereq>
+      <packagereq type="optional">tamil-typing-booster</packagereq>
       <packagereq type="optional">uim</packagereq>
       <packagereq type="optional">uim-anthy</packagereq>
       <packagereq type="optional">uim-canna</packagereq>
@@ -6195,6 +6201,7 @@
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-tamil-fonts</packagereq>
       <packagereq type="default">serafettin-cartoon-fonts</packagereq>
+      <packagereq type="default">tamil-typing-booster</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6494,6 +6501,11 @@
       <packagereq type="conditional" requires="moodle">moodle-ur</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
+      <packagereq type="optional">nafees-naskh-fonts</packagereq>
+      <packagereq type="default">nafees-nastaleeq-fonts</packagereq>
+      <packagereq type="optional">nafees-pakistani-naskh-fonts</packagereq>
+      <packagereq type="optional">nafees-riqa-fonts</packagereq>
+      <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
       <packagereq type="default">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">kacst-art-fonts</packagereq>
       <packagereq type="optional">kacst-book-fonts</packagereq>
