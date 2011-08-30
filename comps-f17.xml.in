@@ -856,8 +856,8 @@
       <packagereq type="mandatory">gnome-panel</packagereq>
       <packagereq type="mandatory">gnome-session</packagereq>
       <packagereq type="mandatory">gnome-shell</packagereq>
-      <packagereq type="mandatory">gnome-themes-standard</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
+      <packagereq type="mandatory">gnome-themes-standard</packagereq>
       <packagereq type="mandatory">gvfs-fuse</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">notification-daemon</packagereq>
@@ -2781,9 +2781,9 @@
       <packagereq type="default">ibus</packagereq>
       <packagereq type="default">libcanberra-gtk2</packagereq>
       <packagereq type="default">libcanberra-gtk3</packagereq>
+      <packagereq type="default">libproxy-mozjs</packagereq>
       <packagereq type="default">librsvg2</packagereq>
       <packagereq type="default">libsane-hpaio</packagereq>
-      <packagereq type="default">libproxy-mozjs</packagereq>
       <packagereq type="default">mousetweaks</packagereq>
       <packagereq type="default">nautilus</packagereq>
       <packagereq type="default">nautilus-sendto</packagereq>
@@ -4679,8 +4679,8 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">aeskulap</packagereq>
-      <packagereq type="default">gnumed-server</packagereq>
       <packagereq type="default">gnumed</packagereq>
+      <packagereq type="default">gnumed-server</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5546,8 +5546,8 @@
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">ibus-sunpinyin</packagereq>
       <packagereq type="optional">ibus-table-chinese-erbi</packagereq>
-      <packagereq type="optional">ibus-table-chinese-wubi-jidian</packagereq>
       <packagereq type="optional">ibus-table-chinese-wubi-haifeng</packagereq>
+      <packagereq type="optional">ibus-table-chinese-wubi-jidian</packagereq>
       <packagereq type="optional">ibus-table-chinese-yong</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">m17n-db-extras</packagereq>
@@ -6538,11 +6538,7 @@
       <packagereq type="conditional" requires="moodle">moodle-ur</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
-      <packagereq type="optional">nafees-naskh-fonts</packagereq>
       <packagereq type="default">nafees-nastaleeq-fonts</packagereq>
-      <packagereq type="optional">nafees-pakistani-naskh-fonts</packagereq>
-      <packagereq type="optional">nafees-riqa-fonts</packagereq>
-      <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
       <packagereq type="default">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">kacst-art-fonts</packagereq>
       <packagereq type="optional">kacst-book-fonts</packagereq>
@@ -6559,6 +6555,10 @@
       <packagereq type="optional">kacst-screen-fonts</packagereq>
       <packagereq type="optional">kacst-title-fonts</packagereq>
       <packagereq type="optional">kacst-titlel-fonts</packagereq>
+      <packagereq type="optional">nafees-naskh-fonts</packagereq>
+      <packagereq type="optional">nafees-pakistani-naskh-fonts</packagereq>
+      <packagereq type="optional">nafees-riqa-fonts</packagereq>
+      <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
     </packagelist>
   </group>
   <group>
