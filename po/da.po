@@ -1,20 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Kris Thomsen <lakristho@gmail.com>, 2009, 2010, 2011.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
-"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
@@ -30,8 +31,8 @@ msgstr "Et sæt af programmer som er bestemt som kritisk sti"
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 "Et sæt af pakker som udbyder funktionaliteten Kritisk Sti til GNOME-"
 "skrivebordet"
@@ -69,8 +70,8 @@ msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
 msgstr ""
-"Et sæt af pakker som udbyder den delte platform til funktionaliteten Kritisk "
-"Sti til alle Fedora Spins"
+"Et sæt af pakker som udbyder den delte platform til funktionaliteten Kritisk"
+" Sti til alle Fedora Spins"
 
 #: ../comps-f14.xml.in.h:8 ../comps-f15.xml.in.h:8 ../comps-f16.xml.in.h:8
 #: ../comps-f17.xml.in.h:8
@@ -770,7 +771,8 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXDE er et letvægts X11-skrivebordsmiljø designet til computere med lave "
 "hardwarespecifikationer, som for eksempel netbooks, mobile enheder eller "
@@ -1200,7 +1202,8 @@ msgid ""
 "them, and building installers, all from within Fedora."
 msgstr ""
 "Understøttelse af krydsfortolkning af programmer til 32-bit Windows mål, "
-"testning af dem og bygning af installationsprogrammer, alt sammen med Fedora."
+"testning af dem og bygning af installationsprogrammer, alt sammen med "
+"Fedora."
 
 #: ../comps-f14.xml.in.h:209 ../comps-f15.xml.in.h:224
 #: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:227
@@ -1327,7 +1330,8 @@ msgstr "Programmerne inkluderer kontorpakker, PDF-visere med mere."
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Pakkerne i denne gruppe er hovedbiblioteker til udvikling af programmer."
 
@@ -1343,7 +1347,8 @@ msgstr ""
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr ""
-"Disse pakker gør dig i stand til at udvikle programmer til X-vinduessystemet."
+"Disse pakker gør dig i stand til at udvikle programmer til "
+"X-vinduessystemet."
 
 #: ../comps-f14.xml.in.h:231
 msgid ""
@@ -1391,8 +1396,8 @@ msgstr "Disse pakker giver kombatibilitet med tidligere udgivelser."
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 "Disse pakker giver understøttelse af forskellige lokaliteter inklusiv "
 "skrifttyper og inddata-metoder."
@@ -1403,8 +1408,8 @@ msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
-"Disse værktøjer gør dig i stand til at lave dokumenter i DocBook-formatet og "
-"konvertere dem til HTML, PDF, Postscript og tekst."
+"Disse værktøjer gør dig i stand til at lave dokumenter i DocBook-formatet og"
+" konvertere dem til HTML, PDF, Postscript og tekst."
 
 #: ../comps-f14.xml.in.h:239 ../comps-f15.xml.in.h:255
 #: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:258
@@ -1416,7 +1421,8 @@ msgstr "Disse værktøjer gør dig i stand til at køre en webserver på systeme
 #: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:259
 #: ../comps-el4.xml.in.h:56 ../comps-el5.xml.in.h:57
 msgid "These tools allow you to run an FTP server on the system."
-msgstr "Disse værktøjer gør dig i stand til at køre en FTP-server på systemet."
+msgstr ""
+"Disse værktøjer gør dig i stand til at køre en FTP-server på systemet."
 
 #: ../comps-f14.xml.in.h:241 ../comps-f15.xml.in.h:257
 #: ../comps-f16.xml.in.h:257 ../comps-f17.xml.in.h:260
@@ -1433,11 +1439,13 @@ msgstr ""
 #: ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:59
 msgid "This group allows you to configure the system as a news server."
 msgstr ""
-"Denne gruppe gør dig i stand til at konfigurere systemet som en nyhedsserver."
+"Denne gruppe gør dig i stand til at konfigurere systemet som en "
+"nyhedsserver."
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr "Denne gruppe indeholder alle Red Hats serverkonfigurationsværktøjer."
 
 #: ../comps-f14.xml.in.h:244 ../comps-f15.xml.in.h:260
@@ -1446,8 +1454,8 @@ msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
 msgstr ""
-"Denne gruppe inkluderer et minimalt sæt af pakker. God til, for eksempel, at "
-"lave små router/firewall bokse."
+"Denne gruppe inkluderer et minimalt sæt af pakker. God til, for eksempel, at"
+" lave små router/firewall bokse."
 
 #: ../comps-f14.xml.in.h:245 ../comps-f15.xml.in.h:261
 #: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:264
@@ -1485,8 +1493,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Denne gruppe er en samling af grafiske administrationsværktøjer til "
 "systemet, for eksempel til at administrere brugerkonti eller systemhardware."
@@ -1539,8 +1547,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "Denne gruppe gør dig i stand til at dele filer mellem Linux og Microsoft "
 "Windows(tm) systemer."
@@ -1734,7 +1742,7 @@ msgstr "Understøttelse for chuvash"
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
-msgstr ""
+msgstr "Design-suite"
 
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
@@ -1820,6 +1828,7 @@ msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
 msgstr ""
+"Disse pakker er rettet mod professionelle designere, som Fedoras designhold."
 
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
@@ -1842,18 +1851,16 @@ msgid "Yiddish Support"
 msgstr "Understøttelse for Yiddish"
 
 #: ../comps-f17.xml.in.h:39
-#, fuzzy
 msgid "Cloud Infrastructure"
-msgstr "Infrastrukturserver for netværk"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:112
 msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Programmer"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1881,8 +1888,8 @@ msgstr "KDE (K Desktop Environment)"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE er en funktionsdygtig, grafisk brugerflade som inkluderer et panel, "
 "skrivebord, systemikoner og et grafisk filhåndteringsprogram."
@@ -1904,8 +1911,8 @@ msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
 msgstr ""
-"Disse værktøjer gør dig i stand til at lave dokumentation i DocBook-formatet "
-"og konvertere dem til HTML, PDF, Postscript og tekst."
+"Disse værktøjer gør dig i stand til at lave dokumentation i DocBook-formatet"
+" og konvertere dem til HTML, PDF, Postscript og tekst."
 
 #: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:65
 msgid "This group is a collection of network servers for specific purposes"
@@ -2032,8 +2039,8 @@ msgstr "Understøttelse for chhattisgarhi"
 #: ../comps-el6.xml.in.h:43
 msgid "Client tools for connecting to a backup server and doing backups."
 msgstr ""
-"Klientværktøjer til forbindelse til en sikkerhedskopiserver og oprettelse af "
-"sikkerhedskopier."
+"Klientværktøjer til forbindelse til en sikkerhedskopiserver og oprettelse af"
+" sikkerhedskopier."
 
 #: ../comps-el6.xml.in.h:44
 msgid "Clients for installing and managing virtualization instances."
@@ -2068,8 +2075,8 @@ msgid ""
 "Compatibility programs for migration from or working with legacy X Window "
 "System environments."
 msgstr ""
-"Kompatibilitetsprogrammer til migrering fra eller arbejde med ældre X-"
-"vinduessystemmiljøer."
+"Kompatibilitetsprogrammer til migrering fra eller arbejde med ældre "
+"X-vinduessystemmiljøer."
 
 #: ../comps-el6.xml.in.h:50
 msgid "Console internet access tools, often used by administrators."
@@ -2428,8 +2435,8 @@ msgstr "Understøttelse for smartcard"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 "Software designet til understøttelse af klynger og gitterforbindelse, ved "
 "brug af RDMA-baserede InfiniBand og iWARP-stoffer."
@@ -2531,7 +2538,8 @@ msgstr ""
 "diagnostisering af performanceproblemer."
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 "Værktøjer til diagnostisering af systemer og programniveau performance-"
 "problemer."
@@ -2540,7 +2548,8 @@ msgstr ""
 msgid ""
 "Tools for mathematical and scientific computations, and parallel computing."
 msgstr ""
-"Værktøjer til matematiske og videnskabelige udregninger og paralleludregning."
+"Værktøjer til matematiske og videnskabelige udregninger og "
+"paralleludregning."
 
 #: ../comps-el6.xml.in.h:261
 msgid "Tools for offline virtual image management."
@@ -2548,7 +2557,8 @@ msgstr "Værktøjer til håndtering af offline virtuelle aftryk."
 
 #: ../comps-el6.xml.in.h:262
 msgid "Tools for printing to a local printer or a remote print server."
-msgstr "Værktøjer til udskrift til en lokal printer eller en fjernprintserver."
+msgstr ""
+"Værktøjer til udskrift til en lokal printer eller en fjernprintserver."
 
 #: ../comps-el6.xml.in.h:263
 msgid "Tools for writing technical documentation."
@@ -2614,8 +2624,4 @@ msgstr "Understøttelse for iSCSI-klient"
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr "Netværkslagringsserver for iSCSI, iSER og iSNS."
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Skrivebordsmiljøet Moblin"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr "Moblin er et skrivebordsmiljø til Netbook-/Nettop-enheder."

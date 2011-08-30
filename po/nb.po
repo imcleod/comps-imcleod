@@ -1,27 +1,30 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Espen Stefansen <espenas@gmail.com>, 2007.
+# kmaraas <kmaraas@gnome.org>, 2011.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
-"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: nb\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
 #: ../comps-f17.xml.in.h:1 ../comps-el6.xml.in.h:5
 msgid "A lightweight desktop environment that works well on low end machines."
 msgstr ""
-"Et lettvektig skrivebordsmiljø som fungerer bra på eldre og tregere maskiner."
+"Et lettvektig skrivebordsmiljø som fungerer bra på eldre og tregere "
+"maskiner."
 
 #: ../comps-f14.xml.in.h:2 ../comps-f15.xml.in.h:2 ../comps-f16.xml.in.h:2
 #: ../comps-f17.xml.in.h:2
@@ -31,8 +34,8 @@ msgstr "Et sett med programmer som ses på som essensielle for systemet"
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 "Et sett med pakker som gir grunnleggende funksjonalitet for GNOME "
 "skrivebordet."
@@ -382,7 +385,7 @@ msgstr "Støtte for engelsk (UK)"
 #: ../comps-f14.xml.in.h:69 ../comps-f15.xml.in.h:71 ../comps-f16.xml.in.h:71
 #: ../comps-f17.xml.in.h:72
 msgid "Enterprise-class open source Certificate Authority"
-msgstr ""
+msgstr "Enterprise-klasse open source sertifikatautoritet"
 
 #: ../comps-f14.xml.in.h:70 ../comps-f15.xml.in.h:72 ../comps-f16.xml.in.h:72
 #: ../comps-f17.xml.in.h:73 ../comps-el6.xml.in.h:85
@@ -760,7 +763,8 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXDE er et lett skrivebordsmiljø for X11 som er utformet for datamaskiner "
 "med beskjeden maskinvarespesifikasjon som netbooks, bærbare enheter eller "
@@ -1211,14 +1215,15 @@ msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
 msgstr ""
-"Støtte for utvikling av programmer i programmeringsspråket Objective CAML og "
-"dets biblioteker."
+"Støtte for utvikling av programmer i programmeringsspråket Objective CAML og"
+" dets biblioteker."
 
 #: ../comps-f14.xml.in.h:213 ../comps-f15.xml.in.h:228
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:231
 #: ../comps-el4.xml.in.h:47
 msgid "Support for running programs written in the Java programming language."
-msgstr "Støtte for kjøring av programmer skrevet i programmeringsspråket Java."
+msgstr ""
+"Støtte for kjøring av programmer skrevet i programmeringsspråket Java."
 
 #: ../comps-f14.xml.in.h:214 ../comps-f15.xml.in.h:229
 #: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:232
@@ -1308,7 +1313,8 @@ msgstr "Applikasjonene innerholder kontorstøtteprogrammer, PDV-lesere og mer."
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Pakkene i denne gruppen er basis-biblioteker for bruk ved programutvikling."
 
@@ -1346,7 +1352,8 @@ msgstr ""
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr ""
-"Disse pakkene inkluderer nettverks-baserte tjenere som DHCP, Kerberos og NIS."
+"Disse pakkene inkluderer nettverks-baserte tjenere som DHCP, Kerberos og "
+"NIS."
 
 #: ../comps-f14.xml.in.h:234 ../comps-f15.xml.in.h:250
 #: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:253
@@ -1370,8 +1377,8 @@ msgstr "Disse pakkene gir kompatibilitet med tidligere versjoner."
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 "Disse pakkene inneholder støttefunksjoner for ulike localer. Dette "
 "inkluderer skrifter og inndatametoder."
@@ -1382,8 +1389,8 @@ msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
-"Med disse verktøyene kan du lage dokumenter i DocBook-formatet og konvertere "
-"dem til HTML, PDF, Postscript og tekst."
+"Med disse verktøyene kan du lage dokumenter i DocBook-formatet og konvertere"
+" dem til HTML, PDF, Postscript og tekst."
 
 #: ../comps-f14.xml.in.h:239 ../comps-f15.xml.in.h:255
 #: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:258
@@ -1415,7 +1422,8 @@ msgstr "Disse verktøyene lar deg kjøre en news-tjener på systemet."
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr "Denne gruppen inneholder Red Hats konfigurasjonsverktøy."
 
 #: ../comps-f14.xml.in.h:244 ../comps-f15.xml.in.h:260
@@ -1424,8 +1432,8 @@ msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
 msgstr ""
-"Denne gruppen inneholder et minimalt sett med pakker. Nyttig for å sette opp "
-"små rutere/brannvegger for eksempel."
+"Denne gruppen inneholder et minimalt sett med pakker. Nyttig for å sette opp"
+" små rutere/brannvegger for eksempel."
 
 #: ../comps-f14.xml.in.h:245 ../comps-f15.xml.in.h:261
 #: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:264
@@ -1464,11 +1472,11 @@ msgstr ""
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
-"Denne gruppen er en samling av grafiske administrasjonsverktøy for systemet, "
-"inkludert brukeradministrasjon og hardwarekonfigurering."
+"Denne gruppen er en samling av grafiske administrasjonsverktøy for systemet,"
+" inkludert brukeradministrasjon og hardwarekonfigurering."
 
 #: ../comps-f14.xml.in.h:250 ../comps-f15.xml.in.h:266
 #: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:269
@@ -1515,11 +1523,11 @@ msgstr "Denne pakkegruppen lar deg kjøre en DNS-tjener (BIND) på systemet."
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
-"Denne pakkegruppen lar deg dele filer mellom Linux og MS Windows(tm)-"
-"systemer."
+"Denne pakkegruppen lar deg dele filer mellom Linux og MS "
+"Windows(tm)-systemer."
 
 #: ../comps-f14.xml.in.h:256 ../comps-f15.xml.in.h:272
 #: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:276
@@ -1548,7 +1556,7 @@ msgstr "Støtte for tongesisk"
 #: ../comps-f16.xml.in.h:277 ../comps-f17.xml.in.h:281
 #: ../comps-el6.xml.in.h:253
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr ""
+msgstr "Verktøy for Milkymist-maskinvareutformere."
 
 #: ../comps-f14.xml.in.h:261 ../comps-f15.xml.in.h:278
 #: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:282
@@ -1771,7 +1779,7 @@ msgstr "Støtte for quechua"
 #: ../comps-f15.xml.in.h:197 ../comps-f16.xml.in.h:197
 #: ../comps-f17.xml.in.h:200
 msgid "Robotics"
-msgstr ""
+msgstr "Robotikk"
 
 #: ../comps-f15.xml.in.h:207 ../comps-f16.xml.in.h:207
 #: ../comps-f17.xml.in.h:210
@@ -1788,6 +1796,8 @@ msgstr "Støtte for forenklet kinesisk"
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr ""
+"Disse pakkene er nyttige når man utvikler utvidelser eller makroer for "
+"LibreOffice."
 
 #: ../comps-f15.xml.in.h:248 ../comps-f16.xml.in.h:248
 #: ../comps-f17.xml.in.h:251
@@ -1795,6 +1805,8 @@ msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
 msgstr ""
+"Disse pakkene er myntet på profesjonelle designere, f.eks. Fedora "
+"designlaget."
 
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
@@ -1804,7 +1816,7 @@ msgstr "Støtte for tigrinya"
 #: ../comps-f15.xml.in.h:279 ../comps-f16.xml.in.h:279
 #: ../comps-f17.xml.in.h:283
 msgid "Traditional Chinese Support"
-msgstr ""
+msgstr "Støtte for tradisjonell kinesisk"
 
 #: ../comps-f15.xml.in.h:302 ../comps-f16.xml.in.h:302
 #: ../comps-f17.xml.in.h:306 ../comps-el6.xml.in.h:291
@@ -1825,9 +1837,8 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Programmer"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1855,8 +1866,8 @@ msgstr "KDE (K Desktop Environment)"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE er et kraftig, grafisk brukergrensesnitt som inkluderer et panel, "
 "skrivebord, systemikoner og en grafisk filhåndterer."
@@ -1878,8 +1889,8 @@ msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
 msgstr ""
-"Disse verktøyene lar deg lage dokumentasjon i DocBook-formatet og konvertere "
-"dem til HTML, PDF, Postscript og tekst."
+"Disse verktøyene lar deg lage dokumentasjon i DocBook-formatet og konvertere"
+" dem til HTML, PDF, Postscript og tekst."
 
 #: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:65
 msgid "This group is a collection of network servers for specific purposes"
@@ -1923,7 +1934,7 @@ msgstr "Et grunnleggende utviklingsmiljø."
 
 #: ../comps-el6.xml.in.h:3
 msgid "A full-purpose office suite, and other productivity tools."
-msgstr ""
+msgstr "En komplett kontorstøttepakke og andre produktivitetsverktøy."
 
 #: ../comps-el6.xml.in.h:4
 msgid "A general purpose desktop."
@@ -1943,7 +1954,7 @@ msgstr "Et sett med verktøy for å overvåke maskinvare på tjenere"
 
 #: ../comps-el6.xml.in.h:9
 msgid "AMQP messaging broker for systems management."
-msgstr ""
+msgstr "AMQP-meldingsutveksler for systemhåndtering."
 
 #: ../comps-el6.xml.in.h:10
 msgid "AMQP messaging client for systems management."
@@ -2154,7 +2165,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:102
 msgid "GUI tools for debugging applications and performance."
-msgstr ""
+msgstr "GUI-verktøy for feilsøking av programmer og ytelse."
 
 #: ../comps-el6.xml.in.h:105
 msgid "General Purpose Desktop"
@@ -2175,7 +2186,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:113
 msgid "Hardware monitoring utilities"
-msgstr ""
+msgstr "Verktøy for overvåking av maskinvare"
 
 #: ../comps-el6.xml.in.h:120
 msgid "Infiniband Support"
@@ -2195,7 +2206,7 @@ msgstr "Java-plattform"
 
 #: ../comps-el6.xml.in.h:130
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
-msgstr ""
+msgstr "Java-støtte for Enterprise Linux-tjenere og skrivebordsplattformer."
 
 #: ../comps-el6.xml.in.h:131
 msgid "KDE Desktop"
@@ -2207,7 +2218,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:145
 msgid "Legacy UNIX compatibility"
-msgstr ""
+msgstr "Tradisjonell UNIX-kompatibilitet"
 
 #: ../comps-el6.xml.in.h:146
 msgid "Legacy X Window System compatibility"
@@ -2219,11 +2230,11 @@ msgstr "Tilgang til stormaskiner"
 
 #: ../comps-el6.xml.in.h:161
 msgid "Messaging Client Support"
-msgstr ""
+msgstr "Støtte for meldingsklienter"
 
 #: ../comps-el6.xml.in.h:162
 msgid "Messaging Server Support"
-msgstr ""
+msgstr "Støtte for meldingstjenere"
 
 #: ../comps-el6.xml.in.h:164
 msgid ""
@@ -2249,15 +2260,15 @@ msgstr "NFS filtjener."
 
 #: ../comps-el6.xml.in.h:172
 msgid "Network Infrastructure Server"
-msgstr ""
+msgstr "Tjener for nettverksinfrastruktur"
 
 #: ../comps-el6.xml.in.h:173
 msgid "Network Storage Server"
-msgstr ""
+msgstr "Tjener for nettverkslagring"
 
 #: ../comps-el6.xml.in.h:174
 msgid "Network file system client"
-msgstr ""
+msgstr "Klient for nettverksfilsystemer"
 
 #: ../comps-el6.xml.in.h:175
 msgid "Networking Tools"
@@ -2273,7 +2284,7 @@ msgstr "Støtte for PHP"
 
 #: ../comps-el6.xml.in.h:182
 msgid "PHP web application framework."
-msgstr ""
+msgstr "Rammeverk for PHP-programmer på nettet."
 
 #: ../comps-el6.xml.in.h:183
 msgid "Performance Tools"
@@ -2379,8 +2390,8 @@ msgstr "Støtte for smartkort"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:222
@@ -2478,7 +2489,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:260
@@ -2544,19 +2556,18 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:290
 msgid "X Window System Support."
-msgstr ""
+msgstr "Støtte for X Window systemet."
 
 #: ../comps-el6.xml.in.h:294
 msgid "iSCSI Storage Client"
-msgstr ""
+msgstr "Støtte for iSCSI-lagringsklienter"
 
 #: ../comps-el6.xml.in.h:295
 msgid "iSCSI client support"
-msgstr ""
+msgstr "Støtte for iSCSI-klienter"
 
 #: ../comps-el6.xml.in.h:296
 msgid "iSCSI, iSER, and iSNS network storage server."
-msgstr ""
+msgstr "iSCSI, iSER og iSNS nettverkslagringstjener."
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Moblin skrivebordsmiljø"
+

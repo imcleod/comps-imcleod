@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: af\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: af\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
@@ -30,8 +30,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
@@ -759,7 +759,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 
 #: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:140
@@ -1299,7 +1300,8 @@ msgstr "Die toepassings sluit kantoorsuites, PDF-lesers en nog meer in."
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Die pakkette in hierdie groep is kernprogrammateke wat benodig word om "
 "toepassings te ontwikkel."
@@ -1361,8 +1363,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 
 #: ../comps-f14.xml.in.h:238 ../comps-f15.xml.in.h:254
@@ -1377,8 +1379,8 @@ msgstr ""
 #: ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:56
 msgid "These tools allow you to run a Web server on the system."
 msgstr ""
-"Hierdie nutsgoed stel jou in staat om 'n webbediener op die rekenaar te laat "
-"loop."
+"Hierdie nutsgoed stel jou in staat om 'n webbediener op die rekenaar te laat"
+" loop."
 
 #: ../comps-f14.xml.in.h:240 ../comps-f15.xml.in.h:256
 #: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:259
@@ -1408,7 +1410,8 @@ msgstr ""
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Hierdie groep bevat al die doelgemaakte bedienerinstelling-nutsgoed vir Red "
 "Hat."
@@ -1419,8 +1422,8 @@ msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
 msgstr ""
-"Hierdie groep sluit die minimum stel pakkette in. Nuttig vir byvoorbeeld die "
-"skep van klein roeteerder- en brandmuurrekenaars."
+"Hierdie groep sluit die minimum stel pakkette in. Nuttig vir byvoorbeeld die"
+" skep van klein roeteerder- en brandmuurrekenaars."
 
 #: ../comps-f14.xml.in.h:245 ../comps-f15.xml.in.h:261
 #: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:264
@@ -1460,8 +1463,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Hierdie groep is 'n versameling grafiese administrasienutsgoed vir die "
 "rekenaar, byvoorbeeld vir die bestuur van gebruikersrekeninge en die "
@@ -1510,8 +1513,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "Hierdie pakketgroep stel jou in staat om lêers tussen Linux- en MS Windows-"
 "rekenaars te deel."
@@ -1822,9 +1825,8 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Toepassings"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1852,8 +1854,8 @@ msgstr "KDE (K Desktop Environment)"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE is 'n kragtige, grafiese gebruikerskoppelvlak met 'n paneel, werkskerm, "
 "rekenaarikone en 'n grafiese lêerreëler."
@@ -2370,8 +2372,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:222
@@ -2469,7 +2471,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:260
@@ -2548,3 +2551,5 @@ msgstr ""
 #: ../comps-el6.xml.in.h:296
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr ""
+
+

@@ -1,27 +1,33 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Milan Kerslager <milan@kerslager.cz>, 2009, 2010.
+# Marcel Telka <marcel@telka.sk>, 2003, 2004.
+# Adam Pribyl <pribyl@lowlevel.cz>, 2008.
+# Jan Varta <jan.varta@atlas.cz>, 2011.
+# Milan Kerslager <milan.kerslager@pslib.cz>, 2011.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Czech <None>\n"
-"Language: cs\n"
+"Language-Team: Czech (http://www.transifex.net/projects/p/fedora/team/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
 #: ../comps-f17.xml.in.h:1 ../comps-el6.xml.in.h:5
 msgid "A lightweight desktop environment that works well on low end machines."
 msgstr ""
-"Odlehčené prostředí desktopu, které dobře funguje na pomalejších počítačích."
+"Odlehčené uživatelské prostředí, které dobře funguje na pomalejších "
+"počítačích."
 
 #: ../comps-f14.xml.in.h:2 ../comps-f15.xml.in.h:2 ../comps-f16.xml.in.h:2
 #: ../comps-f17.xml.in.h:2
@@ -31,10 +37,10 @@ msgstr "Sada aplikací, které jsou považovány za kritické."
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
-"Sada balíčků kritické cesty (sady), která poskytuje funkčnost desktopového "
+"Sada balíčků kritické cesty (sady), která poskytuje funkčnost uživatelského "
 "prostředí GNOME."
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
@@ -43,8 +49,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
 msgstr ""
-"Sada balíčků kritické sady, která poskytuje funkčnost desktopového prostředí "
-"KDE."
+"Sada balíčků kritické sady, která poskytuje funkčnost uživatelského "
+"prostředí KDE."
 
 #: ../comps-f14.xml.in.h:5 ../comps-f15.xml.in.h:5 ../comps-f16.xml.in.h:5
 #: ../comps-f17.xml.in.h:5
@@ -52,8 +58,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
 msgstr ""
-"Sada balíčků kritické sady, která poskytuje funkčnost desktopového prostředí "
-"LXDE."
+"Sada balíčků kritické sady, která poskytuje funkčnost uživatelského "
+"prostředí LXDE."
 
 #: ../comps-f14.xml.in.h:6 ../comps-f15.xml.in.h:6 ../comps-f16.xml.in.h:6
 #: ../comps-f17.xml.in.h:6
@@ -61,7 +67,7 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
 msgstr ""
-"Sada balíčků kritické cesty (sady), která poskytuje funkčnost desktopového "
+"Sada balíčků kritické cesty, která poskytuje funkčnost uživatelského "
 "prostředí Xfce."
 
 #: ../comps-f14.xml.in.h:7 ../comps-f15.xml.in.h:7 ../comps-f16.xml.in.h:7
@@ -309,12 +315,12 @@ msgstr "Nástroje pro návrhy a simulace hardwarových inženýrů."
 #: ../comps-f14.xml.in.h:54 ../comps-f15.xml.in.h:56 ../comps-f16.xml.in.h:56
 #: ../comps-f17.xml.in.h:57 ../comps-el4.xml.in.h:8 ../comps-el5.xml.in.h:11
 msgid "Desktop Environments"
-msgstr "Prostředí desktopu"
+msgstr "Uživatelská prostředí"
 
 #: ../comps-f14.xml.in.h:55 ../comps-f15.xml.in.h:57 ../comps-f16.xml.in.h:57
 #: ../comps-f17.xml.in.h:58 ../comps-el4.xml.in.h:9 ../comps-el5.xml.in.h:12
 msgid "Desktop environments"
-msgstr "Prostředí desktopu"
+msgstr "Uživatelská prostředí"
 
 #: ../comps-f14.xml.in.h:56 ../comps-f15.xml.in.h:58 ../comps-f16.xml.in.h:58
 #: ../comps-f17.xml.in.h:59 ../comps-el4.xml.in.h:10 ../comps-el5.xml.in.h:13
@@ -480,13 +486,13 @@ msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr ""
-"Skupina programů pro přehrávání a práci s multimediálními soubory, vytváření "
-"a přehrávání audio disků (CD)."
+"Skupina programů pro přehrávání a práci s multimediálními soubory, vytváření"
+" a přehrávání audio disků (CD)."
 
 #: ../comps-f14.xml.in.h:88 ../comps-f15.xml.in.h:90 ../comps-f16.xml.in.h:90
 #: ../comps-f17.xml.in.h:91 ../comps-el4.xml.in.h:20 ../comps-el5.xml.in.h:24
 msgid "GNOME Desktop Environment"
-msgstr "Uživatelské prostředí GNOME"
+msgstr "Prostředí GNOME"
 
 #: ../comps-f14.xml.in.h:89 ../comps-f15.xml.in.h:91 ../comps-f16.xml.in.h:91
 #: ../comps-f17.xml.in.h:92 ../comps-el4.xml.in.h:21 ../comps-el5.xml.in.h:25
@@ -499,7 +505,7 @@ msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
 msgstr ""
-"GNOME je výkonné grafické uživatelské rozhraní, které obsahuje panel, "
+"GNOME je výkonné grafické uživatelské prostředí, které obsahuje panel, "
 "pracovní plochu, systémové ikony a grafického správce souborů."
 
 #: ../comps-f14.xml.in.h:91 ../comps-f15.xml.in.h:93 ../comps-f16.xml.in.h:93
@@ -768,16 +774,17 @@ msgstr "Podpora kurdštiny"
 #: ../comps-f14.xml.in.h:134 ../comps-f15.xml.in.h:138
 #: ../comps-f16.xml.in.h:138 ../comps-f17.xml.in.h:140
 msgid "LXDE"
-msgstr "LXDE"
+msgstr "Prostředí LXDE"
 
 #: ../comps-f14.xml.in.h:135 ../comps-f15.xml.in.h:139
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
-"LXDE je odlehčené prostředí pro desktop, které je určeno pro X Window System "
-"na počítačích se málo výkonným hardware, jako jsou NetBooky, mobilní "
+"LXDE je odlehčené uživatelské prostředí, které je určeno pro X Window System"
+" na počítačích s málo výkonným hardware, jako jsou NetBooky, mobilní "
 "zařízení nebo starší počítače."
 
 #: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:140
@@ -916,13 +923,13 @@ msgstr "Prostředí MeeGo NetBook UX"
 #: ../comps-f16.xml.in.h:168 ../comps-f17.xml.in.h:171
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
 msgstr ""
-"Prostředí MeeGo NetBook UX je desktopové prostředí pro NetBooky a NetTopy."
+"Prostředí MeeGo NetBook UX je uživatelské prostředí pro NetBooky a NetTopy."
 
 #: ../comps-f14.xml.in.h:160 ../comps-f15.xml.in.h:169
 #: ../comps-f16.xml.in.h:169 ../comps-f17.xml.in.h:172
 #: ../comps-el6.xml.in.h:163
 msgid "Milkymist"
-msgstr ""
+msgstr "Milkymist"
 
 #: ../comps-f14.xml.in.h:161 ../comps-f15.xml.in.h:170
 #: ../comps-f16.xml.in.h:170 ../comps-f17.xml.in.h:173
@@ -1165,8 +1172,8 @@ msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
 msgstr ""
-"Textové editory (například Emacs a Vi) umožňují vytvářet a upravovat textové "
-"soubory."
+"Textové editory (například Emacs a Vi) umožňují vytvářet a upravovat textové"
+" soubory."
 
 #: ../comps-f14.xml.in.h:203 ../comps-f15.xml.in.h:218
 #: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:221
@@ -1195,7 +1202,7 @@ msgstr "Podpora španělštiny"
 #: ../comps-f14.xml.in.h:207 ../comps-f15.xml.in.h:222
 #: ../comps-f16.xml.in.h:222 ../comps-f17.xml.in.h:225
 msgid "Sugar Desktop Environment"
-msgstr "Uživatelské prostředí Sugar"
+msgstr "Prostředí Sugar"
 
 #: ../comps-f14.xml.in.h:208 ../comps-f15.xml.in.h:223
 #: ../comps-f16.xml.in.h:223 ../comps-f17.xml.in.h:226
@@ -1323,12 +1330,14 @@ msgstr ""
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:52
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr ""
-"Skupina obsahuje kancelářské balíky, PDF prohlížeče a další podobné nástroje."
+"Skupina obsahuje kancelářské balíky, PDF prohlížeče a další podobné "
+"nástroje."
 
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr "Základní knihovny potřebné pro vývoj aplikací."
 
 #: ../comps-f14.xml.in.h:229 ../comps-f15.xml.in.h:244
@@ -1380,14 +1389,14 @@ msgstr "Balíčky poskytující prostředí pro virtualizaci."
 #: ../comps-f16.xml.in.h:252 ../comps-f17.xml.in.h:255
 msgid "These packages provide compatibility with previous releases."
 msgstr ""
-"Balíčky pro podporu kompatibility s předchozími vydáními distribuce (zejména "
-"starší verze knihoven)."
+"Balíčky pro podporu kompatibility s předchozími vydáními distribuce (zejména"
+" starší verze knihoven)."
 
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 "Balíčky poskytující podporu pro různé jazykové mutace včetně písem a "
 "vstupních metod (jazyky s obrázkovými znaky jako čínština, japonština, "
@@ -1428,12 +1437,13 @@ msgstr ""
 #: ../comps-el4.xml.in.h:58 ../comps-el5.xml.in.h:59
 msgid "This group allows you to configure the system as a news server."
 msgstr ""
-"Skupina s balíčky pro podporu běhu serveru diskusních skupin (NetNews, resp. "
-"NNTP protokol)."
+"Skupina s balíčky pro podporu běhu serveru diskusních skupin (NetNews, resp."
+" NNTP protokol)."
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr "Všechny konfigurační nástroje od firmy Red Hat."
 
 #: ../comps-f14.xml.in.h:244 ../comps-f15.xml.in.h:260
@@ -1476,18 +1486,18 @@ msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Skupina obsahuje textové klienty pro e-mail, WWW a chatovací programy, které "
-"nepotřebují grafické prostředí X Window System."
+"Skupina obsahuje textové klienty pro e-mail, WWW a chatovací programy, které"
+" nepotřebují grafické prostředí X Window System."
 
 #: ../comps-f14.xml.in.h:249 ../comps-f15.xml.in.h:265
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
-"Skupina s grafickými administrátorskými nástroji, např. správu uživatelských "
-"účtů a konfiguraci hardware."
+"Skupina s grafickými administrátorskými nástroji, např. správu uživatelských"
+" účtů a konfiguraci hardware."
 
 #: ../comps-f14.xml.in.h:250 ../comps-f15.xml.in.h:266
 #: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:269
@@ -1531,8 +1541,8 @@ msgstr "Skupina balíčků pro podporu běhu a provozu DNS serveru (BIND)."
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "Skupina balíčků pro podporu sdílení souborů mezi systémy Linux a MS Windows "
 "(TM)."
@@ -1562,7 +1572,7 @@ msgstr "Podpora tonžštiny"
 #: ../comps-f16.xml.in.h:277 ../comps-f17.xml.in.h:281
 #: ../comps-el6.xml.in.h:253
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr ""
+msgstr "Nástroje pro hardwarové inženýry Milkymist."
 
 #: ../comps-f14.xml.in.h:261 ../comps-f15.xml.in.h:278
 #: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:282
@@ -1717,55 +1727,55 @@ msgstr "Podpora zulštiny"
 
 #: ../comps-f15.xml.in.h:11 ../comps-f16.xml.in.h:11 ../comps-f17.xml.in.h:11
 msgid "Akan Support"
-msgstr ""
+msgstr "Podpora akanštiny"
 
 #: ../comps-f15.xml.in.h:38 ../comps-f16.xml.in.h:38 ../comps-f17.xml.in.h:38
 msgid "Chuvash Support"
-msgstr ""
+msgstr "Podpora Čuvašštiny"
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
-msgstr ""
+msgstr "Design nástroje"
 
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
 msgid "Haitian Creole Support"
-msgstr ""
+msgstr "Podpora haitské kreolštiny"
 
 #: ../comps-f15.xml.in.h:137 ../comps-f16.xml.in.h:137
 #: ../comps-f17.xml.in.h:139
 msgid "Kyrgyz Support"
-msgstr ""
+msgstr "Podpora kyrgyzštiny"
 
 #: ../comps-f15.xml.in.h:148 ../comps-f16.xml.in.h:148
 #: ../comps-f17.xml.in.h:150
 msgid "LibreOffice Development"
-msgstr ""
+msgstr "Vývoj LibreOffice"
 
 #: ../comps-f15.xml.in.h:149 ../comps-f16.xml.in.h:149
 #: ../comps-f17.xml.in.h:151
 msgid "Lingala Support"
-msgstr ""
+msgstr "Podpora lingaly"
 
 #: ../comps-f15.xml.in.h:151 ../comps-f16.xml.in.h:151
 #: ../comps-f17.xml.in.h:153
 msgid "Low German Support"
-msgstr ""
+msgstr "Podpora dolnoněmčiny"
 
 #: ../comps-f15.xml.in.h:153 ../comps-f16.xml.in.h:153
 #: ../comps-f17.xml.in.h:155
 msgid "Lower Sorbian Support"
-msgstr ""
+msgstr "Podpora dolnolužické srbštiny"
 
 #: ../comps-f15.xml.in.h:154 ../comps-f16.xml.in.h:154
 #: ../comps-f17.xml.in.h:156
 msgid "Lule Sami Support"
-msgstr ""
+msgstr "Podpora lule sámštiny"
 
 #: ../comps-f15.xml.in.h:172 ../comps-f16.xml.in.h:172
 #: ../comps-f17.xml.in.h:175
 msgid "Mossi Support"
-msgstr ""
+msgstr "Podpora mossštiny"
 
 #: ../comps-f15.xml.in.h:178 ../comps-f16.xml.in.h:178
 #: ../comps-f17.xml.in.h:181
@@ -1775,60 +1785,61 @@ msgstr "Podpora severní sámštiny"
 #: ../comps-f15.xml.in.h:187 ../comps-f16.xml.in.h:187
 #: ../comps-f17.xml.in.h:190
 msgid "Oromo Support"
-msgstr ""
+msgstr "Podpora oromštiny"
 
 #: ../comps-f15.xml.in.h:196 ../comps-f16.xml.in.h:196
 #: ../comps-f17.xml.in.h:199
 msgid "Quechua Support"
-msgstr ""
+msgstr "Podpora kečuánštiny"
 
 #: ../comps-f15.xml.in.h:197 ../comps-f16.xml.in.h:197
 #: ../comps-f17.xml.in.h:200
 msgid "Robotics"
-msgstr ""
+msgstr "Robotika"
 
 #: ../comps-f15.xml.in.h:207 ../comps-f16.xml.in.h:207
 #: ../comps-f17.xml.in.h:210
 msgid "Shuswap Support"
-msgstr ""
+msgstr "Podpora shuswapštiny"
 
 #: ../comps-f15.xml.in.h:209 ../comps-f16.xml.in.h:209
 #: ../comps-f17.xml.in.h:212
 msgid "Simplified Chinese Support"
-msgstr ""
+msgstr "Podpora zjednodušené čínštiny"
 
 #: ../comps-f15.xml.in.h:246 ../comps-f16.xml.in.h:246
 #: ../comps-f17.xml.in.h:249
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr ""
+"Tyto balíčky jsou vhodné, pro vývoj rozšíření a maker pro LibreOffice."
 
 #: ../comps-f15.xml.in.h:248 ../comps-f16.xml.in.h:248
 #: ../comps-f17.xml.in.h:251
 msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
-msgstr ""
+msgstr "Nástroje pro profesionální design, jako například Fedora Design Team."
 
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
 msgid "Tigrinya Support"
-msgstr ""
+msgstr "Podpora tigrinštiny"
 
 #: ../comps-f15.xml.in.h:279 ../comps-f16.xml.in.h:279
 #: ../comps-f17.xml.in.h:283
 msgid "Traditional Chinese Support"
-msgstr ""
+msgstr "Podpora tradiční čínštiny"
 
 #: ../comps-f15.xml.in.h:302 ../comps-f16.xml.in.h:302
 #: ../comps-f17.xml.in.h:306 ../comps-el6.xml.in.h:291
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 #: ../comps-f15.xml.in.h:304 ../comps-f16.xml.in.h:304
 #: ../comps-f17.xml.in.h:308
 msgid "Yiddish Support"
-msgstr ""
+msgstr "Podpora jidiš"
 
 #: ../comps-f17.xml.in.h:39
 msgid "Cloud Infrastructure"
@@ -1839,9 +1850,8 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Aplikace"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1860,28 +1870,28 @@ msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
 msgstr ""
-"GNOME je výkonné grafické uživatelské rozhraní, které obsahuje panel, "
+"GNOME je výkonné grafické uživatelské prostředí, které obsahuje panel, "
 "pracovní plochu, systémové ikony a grafického správce souborů."
 
 #: ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:36
 msgid "KDE (K Desktop Environment)"
-msgstr "Uživatelské prostředí KDE"
+msgstr "Prostředí KDE"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
-"KDE je výkonné grafické uživatelské rozhraní, které obsahuje panel, pracovní "
-"plochu, systémové ikony a grafického správce souborů."
+"KDE je výkonné grafické uživatelské prostředí, které obsahuje panel, "
+"pracovní plochu, systémové ikony a grafického správce souborů."
 
 #: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:47
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
 msgstr ""
-"Textové editory (například Emacs a Vi) umožňují vytvářet a upravovat textové "
-"soubory."
+"Textové editory (například Emacs a Vi) umožňují vytvářet a upravovat textové"
+" soubory."
 
 #: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:51
 msgid "The XEmacs text editor."
@@ -1925,649 +1935,662 @@ msgstr "Kolekce nástrojů a prostředků pro podporu Češtiny."
 
 #: ../comps-el6.xml.in.h:1
 msgid "A KDE desktop."
-msgstr ""
+msgstr "KDE desktop."
 
 #: ../comps-el6.xml.in.h:2
 msgid "A basic development environment."
-msgstr ""
+msgstr "Základní vývojářské prostředí."
 
 #: ../comps-el6.xml.in.h:3
 msgid "A full-purpose office suite, and other productivity tools."
-msgstr ""
+msgstr "Víceúčelové kancelářské prostředí a další nástroje produktivity."
 
 #: ../comps-el6.xml.in.h:4
 msgid "A general purpose desktop."
-msgstr ""
+msgstr "Všeobecně použitelný desktop."
 
 #: ../comps-el6.xml.in.h:6
 msgid "A minimal desktop that can also be used as a thin client."
-msgstr ""
+msgstr "Minimální desktop použitelný též jako tenký klient."
 
 #: ../comps-el6.xml.in.h:7
 msgid "A set of tools to manage SAN path availability"
-msgstr ""
+msgstr "Sada nástrojů pro správu SAN úložišť"
 
 #: ../comps-el6.xml.in.h:8
 msgid "A set of tools to monitor server hardware"
-msgstr ""
+msgstr "Sada monitorovacích nástrojů pro hardware serverů"
 
 #: ../comps-el6.xml.in.h:9
 msgid "AMQP messaging broker for systems management."
-msgstr ""
+msgstr "AMPQ makléř zpráv pro správu systému."
 
 #: ../comps-el6.xml.in.h:10
 msgid "AMQP messaging client for systems management."
-msgstr ""
+msgstr "ASMP klient zpráv pro správu systému."
 
 #: ../comps-el6.xml.in.h:11
 msgid "Additional Development"
-msgstr ""
+msgstr "Rozšířený vývoj"
 
 #: ../comps-el6.xml.in.h:12
 msgid ""
 "Additional development headers and libraries for developing applications"
-msgstr ""
+msgstr "Další vývojářské hlavičky a knihovny pro vývojové aplikace"
 
 #: ../comps-el6.xml.in.h:15
 msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
-msgstr ""
+msgstr "Podpora pro SMTP a/nebo IMAP server."
 
 #: ../comps-el6.xml.in.h:16
 msgid "Allows the system to act as a print server."
-msgstr ""
+msgstr "Podpora pro tiskový server."
 
 #: ../comps-el6.xml.in.h:17
 msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
 msgstr ""
+"Podpora pro webový server, který umožňuje spouštět aplikace v Perlu nebo "
+"Pythonu."
 
 #: ../comps-el6.xml.in.h:18
 msgid "Allows the system to act as an FTP server."
-msgstr ""
+msgstr "Podpora pro FTP server."
 
 #: ../comps-el6.xml.in.h:19
 msgid "Allows the system to host Java servlets."
-msgstr ""
+msgstr "Podpora pro spouštění Java serverletů."
 
 #: ../comps-el6.xml.in.h:26
 msgid "Backup Client"
-msgstr ""
+msgstr "Zálohovací klient"
 
 #: ../comps-el6.xml.in.h:27
 msgid "Backup Server"
-msgstr ""
+msgstr "Zálohovací server"
 
 #: ../comps-el6.xml.in.h:29
 msgid "Basic legacy X Window System compatibility"
-msgstr ""
+msgstr "Základní podpora pro zastaralé funkce X Window System"
 
 #: ../comps-el6.xml.in.h:38
 msgid "CIFS file server"
-msgstr ""
+msgstr "CIFS server"
 
 #: ../comps-el6.xml.in.h:40
 msgid "Chhattisgarhi Support"
-msgstr ""
+msgstr "Podpora čhattísgarhštiny"
 
 #: ../comps-el6.xml.in.h:43
 msgid "Client tools for connecting to a backup server and doing backups."
 msgstr ""
+"Klientské nástroje pro připojení k zálohovacímu serveru a vytváření záloh."
 
 #: ../comps-el6.xml.in.h:44
 msgid "Clients for installing and managing virtualization instances."
-msgstr ""
+msgstr "Klientské nástroje pro instalaci a správu virtuálních strojů."
 
 #: ../comps-el6.xml.in.h:45
 msgid "Clients for integration into a network managed by a directory service."
 msgstr ""
+"Klienské nástroje pro integraci do sítě spravované adresářovou službou."
 
 #: ../comps-el6.xml.in.h:46
 msgid "Compatibility libraries"
-msgstr ""
+msgstr "Knihovny zpětné kompatibility"
 
 #: ../comps-el6.xml.in.h:47
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
 msgstr ""
+"Knihovny zpětné kompatibility pro aplikace určené pro předchozí verze "
+"systému."
 
 #: ../comps-el6.xml.in.h:48
 msgid ""
 "Compatibility programs for migration from or working with legacy UNIX "
 "environments."
-msgstr ""
+msgstr "Nástroje pro kompatibilitu a migraci ze zastaralých UNIX systémů."
 
 #: ../comps-el6.xml.in.h:49
 msgid ""
 "Compatibility programs for migration from or working with legacy X Window "
 "System environments."
 msgstr ""
+"Nástroje pro kompatibilitu nebo migraci ze zastaralých prostředí X Window "
+"System."
 
 #: ../comps-el6.xml.in.h:50
 msgid "Console internet access tools, often used by administrators."
 msgstr ""
+"Nástroje pro přístup k Internetu z konzole, které někdy používají správci "
+"systému."
 
 #: ../comps-el6.xml.in.h:51
 msgid "Console internet tools"
-msgstr ""
+msgstr "Internetové nástroje pro konzoli"
 
 #: ../comps-el6.xml.in.h:57
 msgid "Debugging Tools"
-msgstr ""
+msgstr "Ladící nástroje"
 
 #: ../comps-el6.xml.in.h:58
 msgid "Design and Simulation tools for hardware engineers."
-msgstr ""
+msgstr "Nástroje pro design a simulaci pro hardwarové inženýry."
 
 #: ../comps-el6.xml.in.h:59
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 #: ../comps-el6.xml.in.h:60
 msgid "Desktop Debugging and Performance Tools"
-msgstr ""
+msgstr "Ladění pro desktop"
 
 #: ../comps-el6.xml.in.h:61
 msgid "Desktop Platform"
-msgstr ""
+msgstr "Desktop platforma"
 
 #: ../comps-el6.xml.in.h:62
 msgid "Desktop Platform Development"
-msgstr ""
+msgstr "Vývoj pro desktop"
 
 #: ../comps-el6.xml.in.h:63
 msgid "Desktops"
-msgstr ""
+msgstr "Desktopy"
 
 #: ../comps-el6.xml.in.h:64
 msgid "Desktops and thin clients."
-msgstr ""
+msgstr "Desktop a tencí klienti."
 
 #: ../comps-el6.xml.in.h:66
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
 msgstr ""
+"Hlavičkové soubory a knihovny pro vývoj aplikací běžících na desktopové "
+"platformě systému."
 
 #: ../comps-el6.xml.in.h:67
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
 msgstr ""
+"Hlavičkové soubory a knihovny pro vývoj aplikací běžících na serverové "
+"platformě systému."
 
 #: ../comps-el6.xml.in.h:68
 msgid "Development tools"
-msgstr ""
+msgstr "Vývojové nástroje"
 
 #: ../comps-el6.xml.in.h:69
 msgid "Development tools and libraries."
-msgstr ""
+msgstr "Vývojové nástroje a knihovny."
 
 #: ../comps-el6.xml.in.h:71
 msgid "Directory Client"
-msgstr ""
+msgstr "Adresářový klient"
 
 #: ../comps-el6.xml.in.h:74
 msgid "E-mail server"
-msgstr ""
+msgstr "E-mail server"
 
 #: ../comps-el6.xml.in.h:75
 msgid "Eclipse"
-msgstr ""
+msgstr "Eclipse"
 
 #: ../comps-el6.xml.in.h:76
 msgid "Eclipse-based Integrated Development Environment."
-msgstr ""
+msgstr "Vývojové prostředí založené na Eclipse."
 
 #: ../comps-el6.xml.in.h:78
 msgid "Educational software for learning."
-msgstr ""
+msgstr "Výukový software."
 
 #: ../comps-el6.xml.in.h:80
 msgid "Emacs"
-msgstr ""
+msgstr "Emacs"
 
 #: ../comps-el6.xml.in.h:81
 msgid "Email, chat, and video conferencing software."
-msgstr ""
+msgstr "Nástroje pro e-mail, chat a videokonference."
 
 #: ../comps-el6.xml.in.h:82
 msgid "Enables the system to attach to network storage."
-msgstr ""
+msgstr "Nástroje pro připojení k síťovému úložnému prostoru."
 
 #: ../comps-el6.xml.in.h:83
 msgid "End-user applications."
-msgstr ""
+msgstr "Aplikace pro koncového uživatele."
 
 #: ../comps-el6.xml.in.h:88
 msgid "FCoE Storage Client"
-msgstr ""
+msgstr "FCoE úložný klient"
 
 #: ../comps-el6.xml.in.h:89
 msgid "FTP server"
-msgstr ""
+msgstr "FTP server"
 
 #: ../comps-el6.xml.in.h:92
 msgid "Fiber Channel over Ethernet support"
-msgstr ""
+msgstr "Podpora FCoE"
 
 #: ../comps-el6.xml.in.h:96
 msgid "Firefox web browser"
-msgstr ""
+msgstr "Firefox webový prohlížeč"
 
 #: ../comps-el6.xml.in.h:98
 msgid "Fonts for rendering text in a variety of languages and scripts."
-msgstr ""
+msgstr "Fonty pro renderování textu v různých jazycích a skriptech."
 
 #: ../comps-el6.xml.in.h:102
 msgid "GUI tools for debugging applications and performance."
-msgstr ""
+msgstr "Grafické nástroje pro ladění aplikací."
 
 #: ../comps-el6.xml.in.h:105
 msgid "General Purpose Desktop"
-msgstr ""
+msgstr "Všeobecně použitelný desktop"
 
 #: ../comps-el6.xml.in.h:108
 msgid "Graphical Administration Tools"
-msgstr ""
+msgstr "Grafické administrační nástroje"
 
 #: ../comps-el6.xml.in.h:109
 msgid ""
 "Graphical system administration tools for managing many aspects of a system."
-msgstr ""
+msgstr "Grafické nástroje pro správu systému."
 
 #: ../comps-el6.xml.in.h:110
 msgid "Graphics Creation Tools"
-msgstr ""
+msgstr "Grafické tvůrčí nástroje"
 
 #: ../comps-el6.xml.in.h:113
 msgid "Hardware monitoring utilities"
-msgstr ""
+msgstr "Monitorovací nástroje hardware"
 
 #: ../comps-el6.xml.in.h:120
 msgid "Infiniband Support"
-msgstr ""
+msgstr "Podpora Infiniband"
 
 #: ../comps-el6.xml.in.h:123
 msgid "Internet Applications"
-msgstr ""
+msgstr "Internetové aplikace"
 
 #: ../comps-el6.xml.in.h:124
 msgid "Internet Browser"
-msgstr ""
+msgstr "Internetový prohlížeč"
 
 #: ../comps-el6.xml.in.h:129
 msgid "Java Platform"
-msgstr ""
+msgstr "Java platforma"
 
 #: ../comps-el6.xml.in.h:130
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
-msgstr ""
+msgstr "Podpora Java pro platformy Enterprise Linux Server a Desktop"
 
 #: ../comps-el6.xml.in.h:131
 msgid "KDE Desktop"
-msgstr ""
+msgstr "KDE Desktop"
 
 #: ../comps-el6.xml.in.h:142
 msgid "Large Systems Performance"
-msgstr ""
+msgstr "Podpora velkých systémů"
 
 #: ../comps-el6.xml.in.h:145
 msgid "Legacy UNIX compatibility"
-msgstr ""
+msgstr "Kompatibilita se starými UNIXy"
 
 #: ../comps-el6.xml.in.h:146
 msgid "Legacy X Window System compatibility"
-msgstr ""
+msgstr "Kompatibilita se starým X Window System"
 
 #: ../comps-el6.xml.in.h:152
 msgid "Mainframe Access"
-msgstr ""
+msgstr "Přístup k mainframu"
 
 #: ../comps-el6.xml.in.h:161
 msgid "Messaging Client Support"
-msgstr ""
+msgstr "Podpora Messaging Client"
 
 #: ../comps-el6.xml.in.h:162
 msgid "Messaging Server Support"
-msgstr ""
+msgstr "Podpora Messaging Server"
 
 #: ../comps-el6.xml.in.h:164
 msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
 msgstr ""
+"Minimální sada nástrojů pro kompatibilitu se zastaralými prostředími X "
+"Window System."
 
 #: ../comps-el6.xml.in.h:166
 msgid "MySQL Database client"
-msgstr ""
+msgstr "MySQL databáze klient"
 
 #: ../comps-el6.xml.in.h:167
 msgid "MySQL Database server"
-msgstr ""
+msgstr "MySQL databáze server"
 
 #: ../comps-el6.xml.in.h:169
 msgid "NFS file server"
-msgstr ""
+msgstr "NFS file server"
 
 #: ../comps-el6.xml.in.h:170
 msgid "NFS file server."
-msgstr ""
+msgstr "NFS server pro sdílení souborů."
 
 #: ../comps-el6.xml.in.h:172
 msgid "Network Infrastructure Server"
-msgstr ""
+msgstr "Server síťové infrastruktury"
 
 #: ../comps-el6.xml.in.h:173
 msgid "Network Storage Server"
-msgstr ""
+msgstr "Server úložného prostoru"
 
 #: ../comps-el6.xml.in.h:174
 msgid "Network file system client"
-msgstr ""
+msgstr "Klient síťových souborových systémů"
 
 #: ../comps-el6.xml.in.h:175
 msgid "Networking Tools"
-msgstr ""
+msgstr "Síťové nástroje"
 
 #: ../comps-el6.xml.in.h:179
 msgid "Office Suite and Productivity"
-msgstr ""
+msgstr "Office prostředí"
 
 #: ../comps-el6.xml.in.h:181
 msgid "PHP Support"
-msgstr ""
+msgstr "Podpora PHP"
 
 #: ../comps-el6.xml.in.h:182
 msgid "PHP web application framework."
-msgstr ""
+msgstr "PHP aplikační framework."
 
 #: ../comps-el6.xml.in.h:183
 msgid "Performance Tools"
-msgstr ""
+msgstr "Výkonové nástroje"
 
 #: ../comps-el6.xml.in.h:184
 msgid "Performance support tools for large systems"
-msgstr ""
+msgstr "Výkonnostní podpůrné nástroje pro velké systémy."
 
 #: ../comps-el6.xml.in.h:185
 msgid "Perl Support"
-msgstr ""
+msgstr "Podpora Perl"
 
 #: ../comps-el6.xml.in.h:186
 msgid "Perl interfaces to common libraries and functionality."
-msgstr ""
+msgstr "Rozhraní pro Perl a běžné knihovny a funkce."
 
 #: ../comps-el6.xml.in.h:188
 msgid "Policy packages for the Server variant."
-msgstr ""
+msgstr "Balíčky politik pro server."
 
 #: ../comps-el6.xml.in.h:189
 msgid "Policy packages for the Workstation variant."
-msgstr ""
+msgstr "Balíčky politik pro workstation."
 
 #: ../comps-el6.xml.in.h:192
 msgid "PostgreSQL Database client"
-msgstr ""
+msgstr "PostgreSQL klient"
 
 #: ../comps-el6.xml.in.h:193
 msgid "PostgreSQL Database server"
-msgstr ""
+msgstr "PostgreSQL server"
 
 #: ../comps-el6.xml.in.h:194
 msgid "Print Server"
-msgstr ""
+msgstr "Tiskový server"
 
 #: ../comps-el6.xml.in.h:195
 msgid "Printing client"
-msgstr ""
+msgstr "Tiskový klient"
 
 #: ../comps-el6.xml.in.h:196
 msgid "Provides an environment for hosting virtualized guests."
-msgstr ""
+msgstr "Prostředí pro provoz virtualizovaných systémů."
 
 #: ../comps-el6.xml.in.h:197
 msgid ""
 "Provides an interface for accessing and controlling virtualized guests and "
 "containers."
-msgstr ""
+msgstr "Rozhraní pro přístup a řízení virtualizovaných systémů a kontejnerů."
 
 #: ../comps-el6.xml.in.h:199
 msgid "Remote Desktop Clients"
-msgstr ""
+msgstr "Klient vzdáleného desktopu"
 
 #: ../comps-el6.xml.in.h:202
 msgid "SNMP Support"
-msgstr ""
+msgstr "Podpora SNMP"
 
 #: ../comps-el6.xml.in.h:203
 msgid "SNMP management agent."
-msgstr ""
+msgstr "Agent SNMP"
 
 #: ../comps-el6.xml.in.h:206
 msgid "Scientific support"
-msgstr ""
+msgstr "Vědecká podpora"
 
 #: ../comps-el6.xml.in.h:207
 msgid "Security Tools"
-msgstr ""
+msgstr "Bezpečnostní nástroje"
 
 #: ../comps-el6.xml.in.h:208
 msgid "Security tools for integrity and trust verification."
-msgstr ""
+msgstr "Nástroje pro zajištění integrity a ověření důvěryhodnosti."
 
 #: ../comps-el6.xml.in.h:210
 msgid "Server Platform"
-msgstr ""
+msgstr "Serverová platforma"
 
 #: ../comps-el6.xml.in.h:211
 msgid "Server Platform Development"
-msgstr ""
+msgstr "Vývoj serverové platformy"
 
 #: ../comps-el6.xml.in.h:212
 msgid "Server Policy"
-msgstr ""
+msgstr "Politiky serveru"
 
 #: ../comps-el6.xml.in.h:213
 msgid "Servers for core network protocols and services, such as DHCP or DNS."
-msgstr ""
+msgstr "Serverové služby pro síťové protokoly jako je DHCP nebo DNS."
 
 #: ../comps-el6.xml.in.h:214
 msgid "Share files between Linux and Microsoft Windows systems."
-msgstr ""
+msgstr "Sdílení souborů mezi Linuxem a systémy Microsoft Windows."
 
 #: ../comps-el6.xml.in.h:219
 msgid "Smallest possible installation."
-msgstr ""
+msgstr "Nejmenší možná instalace."
 
 #: ../comps-el6.xml.in.h:220
 msgid "Smart card support"
-msgstr ""
+msgstr "Podpora Smart  card"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
-msgstr ""
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
+msgstr "Podpora clusterů a gridů za použití RDMA, InfiniBand a iWARP."
 
 #: ../comps-el6.xml.in.h:222
 msgid "Software for creation and manipulation of still images."
-msgstr ""
+msgstr "Nástroje pro vytváření a manipulaci s obrázky."
 
 #: ../comps-el6.xml.in.h:223
 msgid "Software for the input of international text."
-msgstr ""
+msgstr "Nástroje pro podporu vstupu mezinárodního textu."
 
 #: ../comps-el6.xml.in.h:224
 msgid "Software to centralize your infrastructure's backups."
-msgstr ""
+msgstr "Nástroje pro centralizaci zálohování."
 
 #: ../comps-el6.xml.in.h:228
 msgid "Storage Availability Tools"
-msgstr ""
+msgstr "Klient úložných kapacit"
 
 #: ../comps-el6.xml.in.h:229
 msgid "Support for the TeX document formatting system."
-msgstr ""
+msgstr "Podpora formátu TeX dokumentů."
 
 #: ../comps-el6.xml.in.h:230
 msgid "Support for using smart card authentication."
-msgstr ""
+msgstr "Podpora pro autentifikaci smart card"
 
 #: ../comps-el6.xml.in.h:231
 msgid "Supported libraries for the Enterprise Linux Desktop Platform."
-msgstr ""
+msgstr "Podporované knihovny platformy Enterprise Linux Desktop."
 
 #: ../comps-el6.xml.in.h:232
 msgid "Supported libraries for the Enterprise Linux Server Platform."
-msgstr ""
+msgstr "Podporované knihovny platformy Enterprise Linux Server."
 
 #: ../comps-el6.xml.in.h:236
 msgid "System Management"
-msgstr ""
+msgstr "Správa systému"
 
 #: ../comps-el6.xml.in.h:237
 msgid "System administration tools"
-msgstr ""
+msgstr "Nástroje správy systému"
 
 #: ../comps-el6.xml.in.h:241
 msgid "TeX support"
-msgstr ""
+msgstr "Podpora TeX"
 
 #: ../comps-el6.xml.in.h:242
 msgid "Technical Writing"
-msgstr ""
+msgstr "Technické psaní"
 
 #: ../comps-el6.xml.in.h:246
 msgid "The GNU Emacs extensible, customizable, text editor."
-msgstr ""
+msgstr "Rozšiřitelný a přizpůsobitelný textový editor Emacs."
 
 #: ../comps-el6.xml.in.h:247
 msgid "The MySQL SQL database client, and associated packages."
-msgstr ""
+msgstr "Databázový klient pro MySQL server."
 
 #: ../comps-el6.xml.in.h:248
 msgid "The MySQL SQL database server, and associated packages."
-msgstr ""
+msgstr "Databázový server MySQL."
 
 #: ../comps-el6.xml.in.h:249
 msgid "The PostgreSQL SQL database client, and associated packages."
-msgstr ""
+msgstr "Databázový klient pro PostgreSQL."
 
 #: ../comps-el6.xml.in.h:250
 msgid "The PostgreSQL SQL database server, and associated packages."
-msgstr ""
+msgstr "Databázový server pro PostgreSQL."
 
 #: ../comps-el6.xml.in.h:251
 msgid "The basic installation of Enterprise Linux."
-msgstr ""
+msgstr "Základní instalace systému."
 
 #: ../comps-el6.xml.in.h:254
 msgid "Tools and utilities needed by a Fedora Packager."
-msgstr ""
+msgstr "Nástroje potřebné pro Fedora Packager."
 
 #: ../comps-el6.xml.in.h:255
 msgid "Tools for accessing mainframe computing resources."
-msgstr ""
+msgstr "Nástroje pro přístup ke zdrojům mainframe."
 
 #: ../comps-el6.xml.in.h:256
 msgid "Tools for configuring and analyzing computer networks."
-msgstr ""
+msgstr "Nástroje pro správu a analýzu počítačových sítí."
 
 #: ../comps-el6.xml.in.h:257
 msgid "Tools for connecting via PPP or ISDN."
-msgstr ""
+msgstr "Nástroje pro připojení pomocí PPP nebo ISDN."
 
 #: ../comps-el6.xml.in.h:258
 msgid ""
 "Tools for debugging misbehaving applications and diagnosing performance "
 "problems."
-msgstr ""
+msgstr "Nástroje pro ladění, diagnostiku a výkon aplikací."
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
-msgstr ""
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
+msgstr "Nástroje pro zjišťování výkonnostních problémů aplikací."
 
 #: ../comps-el6.xml.in.h:260
 msgid ""
 "Tools for mathematical and scientific computations, and parallel computing."
-msgstr ""
+msgstr "Nástroje pro matematické, vědecké a paralelní výpočty."
 
 #: ../comps-el6.xml.in.h:261
 msgid "Tools for offline virtual image management."
-msgstr ""
+msgstr "Nástroje pro online správu virtualizovaných systémů."
 
 #: ../comps-el6.xml.in.h:262
 msgid "Tools for printing to a local printer or a remote print server."
-msgstr ""
+msgstr "Nástroje pro tisk na lokální nebo vzdálenou tiskárnu."
 
 #: ../comps-el6.xml.in.h:263
 msgid "Tools for writing technical documentation."
-msgstr ""
+msgstr "Nástroje pro vytváření technické dokumentace."
 
 #: ../comps-el6.xml.in.h:266
 msgid "TurboGears application framework"
-msgstr ""
+msgstr "Aplikační framework TurboGears"
 
 #: ../comps-el6.xml.in.h:267
 msgid "TurboGears web application framework."
-msgstr ""
+msgstr "Webový aplikační framework TurboGears."
 
 #: ../comps-el6.xml.in.h:273
 msgid "Utilities useful in system administration."
-msgstr ""
+msgstr "Nástroje pro správu systému."
 
 #: ../comps-el6.xml.in.h:275
 msgid "Various low-level hardware management frameworks."
-msgstr ""
+msgstr "Různé nástroje pro nízkoúrovňovou správu."
 
 #: ../comps-el6.xml.in.h:279
 msgid "Virtualization Client"
-msgstr ""
+msgstr "Virtualizační klient"
 
 #: ../comps-el6.xml.in.h:280
 msgid "Virtualization Platform"
-msgstr ""
+msgstr "Virtualizační platforma"
 
 #: ../comps-el6.xml.in.h:281
 msgid "Virtualization Tools"
-msgstr ""
+msgstr "Virtualizační nástroje"
 
 #: ../comps-el6.xml.in.h:282
 msgid "WBEM interface for Enterprise Linux."
-msgstr ""
+msgstr "WBEM rozhraní pro Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:285
 msgid "Web Servlet Engine"
-msgstr ""
+msgstr "Web Servlet Engine"
 
 #: ../comps-el6.xml.in.h:286
 msgid "Web-Based Enterprise Management"
-msgstr ""
+msgstr "Správa pomocí webových nástrojů"
 
 #: ../comps-el6.xml.in.h:288
 msgid "Workstation Policy"
-msgstr ""
+msgstr "Politiky workstation"
 
 #: ../comps-el6.xml.in.h:290
 msgid "X Window System Support."
-msgstr ""
+msgstr "Podpora X Window"
 
 #: ../comps-el6.xml.in.h:294
 msgid "iSCSI Storage Client"
-msgstr ""
+msgstr "Klient iSCSI"
 
 #: ../comps-el6.xml.in.h:295
 msgid "iSCSI client support"
-msgstr ""
+msgstr "Podpora iSCSI klienta"
 
 #: ../comps-el6.xml.in.h:296
 msgid "iSCSI, iSER, and iSNS network storage server."
-msgstr ""
+msgstr "Server úložného prostoru iSCSI, iSER a iSNS."
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Desktopové prostředí Moblin"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr "Moblin je desktopové prostředí pro NetBooky a NetTopy."

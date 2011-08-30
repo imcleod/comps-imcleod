@@ -1,26 +1,33 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Tamas Szanto <tszanto@mol.hu>, 2004.
+# Arpad Biro <biro_arpad@yahoo.com>, 2004, 2005, 2006, 2007.
+# Peter Borsa <peter.borsa@gmail.com>, 2011.
+# Máté Gelei <gelei.mate1@gmail.com>, 2011.
+# Nikolas Slivka <snicore@gmail.com>, 2010.
+# Zoltan Hoppár <hopparz@gmail.com>, 2011.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: Hungarian <trans-hu@lists.fedoraproject.org>\n"
-"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
 #: ../comps-f17.xml.in.h:1 ../comps-el6.xml.in.h:5
 msgid "A lightweight desktop environment that works well on low end machines."
-msgstr "Pehelysúlyú asztal környezet, ami gyengébb gépeken is jól használható."
+msgstr ""
+"Pehelysúlyú asztal környezet, ami gyengébb gépeken is jól használható."
 
 #: ../comps-f14.xml.in.h:2 ../comps-f15.xml.in.h:2 ../comps-f16.xml.in.h:2
 #: ../comps-f17.xml.in.h:2
@@ -30,11 +37,11 @@ msgstr "Egy sor alkalmazás, amelyek kritikus út"
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
-"Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást biztosítják "
-"a GNOME asztal számára"
+"Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást biztosítják"
+" a GNOME asztal számára"
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
 #: ../comps-f17.xml.in.h:4
@@ -42,8 +49,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
 msgstr ""
-"Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást biztosítják "
-"a KDE asztal számára"
+"Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást "
+"biztosítják a KDE asztal számára"
 
 #: ../comps-f14.xml.in.h:5 ../comps-f15.xml.in.h:5 ../comps-f16.xml.in.h:5
 #: ../comps-f17.xml.in.h:5
@@ -51,8 +58,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
 msgstr ""
-"Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást biztosítják "
-"az LXDE asztal számára"
+"Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást "
+"biztosítják az LXDE asztal számára"
 
 #: ../comps-f14.xml.in.h:6 ../comps-f15.xml.in.h:6 ../comps-f16.xml.in.h:6
 #: ../comps-f17.xml.in.h:6
@@ -60,8 +67,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
 msgstr ""
-"Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást biztosítják "
-"az XFCE asztal számára"
+"Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást "
+"biztosítják az XFCE asztal számára"
 
 #: ../comps-f14.xml.in.h:7 ../comps-f15.xml.in.h:7 ../comps-f16.xml.in.h:7
 #: ../comps-f17.xml.in.h:7
@@ -626,7 +633,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:115 ../comps-f17.xml.in.h:117
 #: ../comps-el4.xml.in.h:28 ../comps-el5.xml.in.h:33
 msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr "Telepítse e csomagokat QT és KDE grafikus alkalmazások fejlesztéséhez!"
+msgstr ""
+"Telepítse e csomagokat QT és KDE grafikus alkalmazások fejlesztéséhez!"
 
 #: ../comps-f14.xml.in.h:113 ../comps-f15.xml.in.h:116
 #: ../comps-f16.xml.in.h:116 ../comps-f17.xml.in.h:118
@@ -764,10 +772,11 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
-"Az LXDE egy pehelykönnyű X11 asztal környezet alacsony hardverspecifikációjú "
-"számítógépek számára mint például netbookok, mobil eszközök vagy régebbi "
+"Az LXDE egy pehelykönnyű X11 asztal környezet alacsony hardverspecifikációjú"
+" számítógépek számára mint például netbookok, mobil eszközök vagy régebbi "
 "számítógépek."
 
 #: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:140
@@ -1200,7 +1209,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:209 ../comps-f15.xml.in.h:224
 #: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:227
 msgid "Support for developing programs in the Haskell programming language."
-msgstr "Támogatás a haskell programozási nyelven történő programfejlesztéshez."
+msgstr ""
+"Támogatás a haskell programozási nyelven történő programfejlesztéshez."
 
 #: ../comps-f14.xml.in.h:210 ../comps-f15.xml.in.h:225
 #: ../comps-f16.xml.in.h:225 ../comps-f17.xml.in.h:228
@@ -1219,8 +1229,8 @@ msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
 msgstr ""
-"Támogatás Objective CAML programnyelven illetve programkönyvtárakkal történő "
-"fejlesztéshez."
+"Támogatás Objective CAML programnyelven illetve programkönyvtárakkal történő"
+" fejlesztéshez."
 
 #: ../comps-f14.xml.in.h:213 ../comps-f15.xml.in.h:228
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:231
@@ -1321,7 +1331,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Ezek a csomagok alkalmazásfejlesztéshez szükséges mag programkönyvtárakat "
 "tartalmaznak."
@@ -1352,7 +1363,8 @@ msgstr ""
 #: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:54
 msgid ""
 "These packages are helpful when developing web applications or web pages."
-msgstr "E csomagok webes alkalmazások és weblapok fejlesztéséhez használhatók."
+msgstr ""
+"E csomagok webes alkalmazások és weblapok fejlesztéséhez használhatók."
 
 #: ../comps-f14.xml.in.h:233 ../comps-f15.xml.in.h:249
 #: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:252
@@ -1385,11 +1397,11 @@ msgstr ""
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
-"E csomagok különféle helyeknek nyújtanak támogatást, például betűkészleteket "
-"és beviteli módszereket."
+"E csomagok különféle helyeknek nyújtanak támogatást, például betűkészleteket"
+" és beviteli módszereket."
 
 #: ../comps-f14.xml.in.h:238 ../comps-f15.xml.in.h:254
 #: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:257
@@ -1398,7 +1410,8 @@ msgid ""
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
 "E programok DocBook formátumú dokumentumok készítéséhez, továbbá azok HTML, "
-"PDF, PostScript illetve szöveges formátumra való konvertálásához szükségesek."
+"PDF, PostScript illetve szöveges formátumra való konvertálásához "
+"szükségesek."
 
 #: ../comps-f14.xml.in.h:239 ../comps-f15.xml.in.h:255
 #: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:258
@@ -1430,7 +1443,8 @@ msgstr "Ez a csoport hírkiszolgáló üzemeltetésére való."
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Ez a csoport a Red Hat saját kiszolgálóbeállítási programjait tartalmazza."
 
@@ -1448,8 +1462,8 @@ msgstr ""
 #: ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:60
 msgid "This group includes graphical email, Web, and chat clients."
 msgstr ""
-"E csoport grafikus levelezőprogramokat, webböngészőket és csevegőprogramokat "
-"tartalmaz."
+"E csoport grafikus levelezőprogramokat, webböngészőket és csevegőprogramokat"
+" tartalmaz."
 
 #: ../comps-f14.xml.in.h:246 ../comps-f15.xml.in.h:262
 #: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:265
@@ -1467,7 +1481,8 @@ msgstr ""
 #: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:62
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr ""
-"E csoport képek beolvasására és feldolgozására alkalmas csomagokat tartalmaz."
+"E csoport képek beolvasására és feldolgozására alkalmas csomagokat "
+"tartalmaz."
 
 #: ../comps-f14.xml.in.h:248 ../comps-f15.xml.in.h:264
 #: ../comps-f16.xml.in.h:264 ../comps-f17.xml.in.h:267
@@ -1476,15 +1491,15 @@ msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Ebbe a csoportba szöveges levelezők, webböngészők és csevegők kerültek. Ezek "
-"az X Window System grafikus rendszer nélkül is használhatók."
+"Ebbe a csoportba szöveges levelezők, webböngészők és csevegők kerültek. Ezek"
+" az X Window System grafikus rendszer nélkül is használhatók."
 
 #: ../comps-f14.xml.in.h:249 ../comps-f15.xml.in.h:265
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "E csoportba grafikus felületű adminisztratív eszközök, például felhasználó "
 "számlákat igazgató és hardverbeállító programok kerültek."
@@ -1537,11 +1552,11 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
-"E csomagcsoportban olyan programok találhatók, amelyek Linux és MS Windows"
-"(tm) rendszerek közötti fájlmegosztásra alkalmasak."
+"E csomagcsoportban olyan programok találhatók, amelyek Linux és MS "
+"Windows(tm) rendszerek közötti fájlmegosztásra alkalmasak."
 
 #: ../comps-f14.xml.in.h:256 ../comps-f15.xml.in.h:272
 #: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:276
@@ -1551,7 +1566,8 @@ msgstr "E csomagcsoport MySQL használatához tartalmaz hasznos csomagokat."
 #: ../comps-f14.xml.in.h:257 ../comps-f15.xml.in.h:273
 #: ../comps-f16.xml.in.h:273 ../comps-f17.xml.in.h:277
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr "E csomagcsoport PostgreSQL használatához tartalmaz hasznos csomagokat."
+msgstr ""
+"E csomagcsoport PostgreSQL használatához tartalmaz hasznos csomagokat."
 
 #: ../comps-f14.xml.in.h:258 ../comps-f15.xml.in.h:274
 #: ../comps-f16.xml.in.h:274 ../comps-f17.xml.in.h:278
@@ -1731,7 +1747,7 @@ msgstr "Chuvash támogatás"
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
-msgstr ""
+msgstr "Dizájn készlet"
 
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
@@ -1817,6 +1833,8 @@ msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
 msgstr ""
+"Ezek a csomagok a professzionális dizájnereket célozzák meg, mint a Fedora "
+"Design csapat."
 
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
@@ -1839,18 +1857,16 @@ msgid "Yiddish Support"
 msgstr "Jiddis támogatás"
 
 #: ../comps-f17.xml.in.h:39
-#, fuzzy
 msgid "Cloud Infrastructure"
-msgstr "Hálózati infrastruktúra szerver NIS"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:112
 msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Alkalmazások"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1878,8 +1894,8 @@ msgstr "KDE (K asztal környezet)"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE hatalmas grafikus felhasználói környezet panellel, munkaasztallal, "
 "rendszerikonokkal és grafikus fájlkezelővel."
@@ -1981,7 +1997,8 @@ msgstr "További fejlesztési eszközök"
 #: ../comps-el6.xml.in.h:12
 msgid ""
 "Additional development headers and libraries for developing applications"
-msgstr "További fejlesztési fejlécek és könyvtárak alkalmazások fejlesztéséhez"
+msgstr ""
+"További fejlesztési fejlécek és könyvtárak alkalmazások fejlesztéséhez"
 
 #: ../comps-el6.xml.in.h:15
 msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
@@ -1997,8 +2014,8 @@ msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
 msgstr ""
-"Engedélyezi a rendszernek, hogy webszerverként üzemeljen és Perl vagy Python "
-"alkalmazásokat futtasson."
+"Engedélyezi a rendszernek, hogy webszerverként üzemeljen és Perl vagy Python"
+" alkalmazásokat futtasson."
 
 #: ../comps-el6.xml.in.h:18
 msgid "Allows the system to act as an FTP server."
@@ -2427,8 +2444,8 @@ msgstr "Intelligens kártyák támogatása"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 "Olyan céllal tervezett szoftverek, amely klaszterek és mátrix kapcsolatok "
 "támogatását célozzák RDMA-alapú InfiniBand és iWARP összeállítások "
@@ -2531,7 +2548,8 @@ msgstr ""
 "problémák diagnosztizálására."
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 "Eszközök rendszerdiagnosztikához és alkalmazás-szintű teljesítmény "
 "problémákhoz."
@@ -2549,7 +2567,8 @@ msgstr "Eszközök offline virtuális image kezeléshez."
 
 #: ../comps-el6.xml.in.h:262
 msgid "Tools for printing to a local printer or a remote print server."
-msgstr "Eszközök a nyomtatáshoz helyi nyomtatóra, vagy egy távoli nyomtatónak."
+msgstr ""
+"Eszközök a nyomtatáshoz helyi nyomtatóra, vagy egy távoli nyomtatónak."
 
 #: ../comps-el6.xml.in.h:263
 msgid "Tools for writing technical documentation."
@@ -2615,8 +2634,4 @@ msgstr "iSCSI kliens támogatás"
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr "iSCSI, Iser, és iSNS hálózati tároló szerver."
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Moblin asztal környezet"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr "A Moblin egy asztali környezet netbook és nettop számítógépekre."

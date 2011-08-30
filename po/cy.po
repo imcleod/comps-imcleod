@@ -1,22 +1,23 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translation by Owain Green <owaing@oceanfree.net>, 2004.
+# Updated by Rhys Jones <rhys@sucs.org>, 2005.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
-"11) ? 2 : 3\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
 #: ../comps-f17.xml.in.h:1 ../comps-el6.xml.in.h:5
@@ -31,8 +32,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
@@ -755,7 +756,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 
 #: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:140
@@ -1290,12 +1292,14 @@ msgstr ""
 #: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:245
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:52
 msgid "The applications include office suites, PDF viewers, and more."
-msgstr "Mae'r cymwysiadau’n cynnwys casgliadau swyddfa, gwelyddion PDF, a mwy."
+msgstr ""
+"Mae'r cymwysiadau’n cynnwys casgliadau swyddfa, gwelyddion PDF, a mwy."
 
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Mae'r pecynnau yn y grŵp yma'n llyfrgelloedd craidd sydd eu hangen i "
 "ddatblygu cymwysiadau."
@@ -1357,8 +1361,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 
 #: ../comps-f14.xml.in.h:238 ../comps-f15.xml.in.h:254
@@ -1399,7 +1403,8 @@ msgstr ""
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Mae'r grŵp yma'n cynnwys erfynnau cyflunio gweinyddion addasedig Red Hat i "
 "gyd."
@@ -1417,7 +1422,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:264
 #: ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:60
 msgid "This group includes graphical email, Web, and chat clients."
-msgstr "Mae'r grŵp yma'n cynnwys dibynyddion e-bost, Gwe, a sgwrsio graffigol."
+msgstr ""
+"Mae'r grŵp yma'n cynnwys dibynyddion e-bost, Gwe, a sgwrsio graffigol."
 
 #: ../comps-f14.xml.in.h:246 ../comps-f15.xml.in.h:262
 #: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:265
@@ -1443,15 +1449,15 @@ msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Mae'r grŵp yma'n cynnwys dibynyddion e-bost, Gwe, a sgwrsio sail testun. Nid "
-"oes angen y System Ffenestri X ar y cymwysiadau hyn."
+"Mae'r grŵp yma'n cynnwys dibynyddion e-bost, Gwe, a sgwrsio sail testun. Nid"
+" oes angen y System Ffenestri X ar y cymwysiadau hyn."
 
 #: ../comps-f14.xml.in.h:249 ../comps-f15.xml.in.h:265
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Mae'r grŵp yma'n gasgliad o erfynnau cyflunio graffigol ar gyfer y system, "
 "megis ar gyfer trefnu cyfrifon defnyddwyr a chyflunio caledwedd system."
@@ -1499,11 +1505,11 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
-"Mae'r grŵp pecynnau yma'n caniatáu i chi rannu ffeiliau rhwng systemau Linux "
-"ac MS Windows(tm)."
+"Mae'r grŵp pecynnau yma'n caniatáu i chi rannu ffeiliau rhwng systemau Linux"
+" ac MS Windows(tm)."
 
 #: ../comps-f14.xml.in.h:256 ../comps-f15.xml.in.h:272
 #: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:276
@@ -1809,9 +1815,8 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Cymwysiadau"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1839,11 +1844,11 @@ msgstr "KDE (Amgylchedd Penbwrdd K)"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
-"Rhyngwyneb defnyddiwr graffigol grymus yw KDE, sy'n cynnwys panel, penbwrdd, "
-"eiconau system, a threfnydd ffeiliau graffigol."
+"Rhyngwyneb defnyddiwr graffigol grymus yw KDE, sy'n cynnwys panel, penbwrdd,"
+" eiconau system, a threfnydd ffeiliau graffigol."
 
 #: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:47
 msgid ""
@@ -2357,8 +2362,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:222
@@ -2456,7 +2461,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:260
@@ -2535,3 +2541,5 @@ msgstr ""
 #: ../comps-el6.xml.in.h:296
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr ""
+
+

@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Marcel Telka <marcel@telka.sk>, 2003, 2004.
+# feonsu <feonsu@gmail.com>, 2011.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Slovak <None>\n"
-"Language: sk\n"
+"Language-Team: Slovak (http://www.transifex.net/projects/p/fedora/team/sk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
@@ -31,11 +33,11 @@ msgstr "Súbor aplikácií považovaných za kritickú cestu"
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
-"Súbor balíčkov, ktoré poskytujú funkcionalitu kritickej cesty pre prostredie "
-"GNOME"
+"Súbor balíčkov, ktoré poskytujú funkcionalitu kritickej cesty pre prostredie"
+" GNOME"
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
 #: ../comps-f17.xml.in.h:4
@@ -43,8 +45,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
 msgstr ""
-"Súbor balíčkov, ktoré poskytujú funkcionalitu kritickej cesty pre prostredie "
-"KDE"
+"Súbor balíčkov, ktoré poskytujú funkcionalitu kritickej cesty pre prostredie"
+" KDE"
 
 #: ../comps-f14.xml.in.h:5 ../comps-f15.xml.in.h:5 ../comps-f16.xml.in.h:5
 #: ../comps-f17.xml.in.h:5
@@ -52,8 +54,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
 msgstr ""
-"Súbor balíčkov, ktoré poskytujú funkcionalitu kritickej cesty pre prostredie "
-"LXDE"
+"Súbor balíčkov, ktoré poskytujú funkcionalitu kritickej cesty pre prostredie"
+" LXDE"
 
 #: ../comps-f14.xml.in.h:6 ../comps-f15.xml.in.h:6 ../comps-f16.xml.in.h:6
 #: ../comps-f17.xml.in.h:6
@@ -61,8 +63,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
 msgstr ""
-"Súbor balíčkov, ktoré poskytujú funkcionalitu kritickej cesty pre prostredie "
-"Xfce"
+"Súbor balíčkov, ktoré poskytujú funkcionalitu kritickej cesty pre prostredie"
+" Xfce"
 
 #: ../comps-f14.xml.in.h:7 ../comps-f15.xml.in.h:7 ../comps-f16.xml.in.h:7
 #: ../comps-f17.xml.in.h:7
@@ -613,8 +615,8 @@ msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
 msgstr ""
-"Nainštalujte si tieto balíčky, ak potrebujete vyvíjať grafické aplikácie GTK"
-"+ a GNOME."
+"Nainštalujte si tieto balíčky, ak potrebujete vyvíjať grafické aplikácie "
+"GTK+ a GNOME."
 
 #: ../comps-f14.xml.in.h:111 ../comps-f15.xml.in.h:114
 #: ../comps-f16.xml.in.h:114 ../comps-f17.xml.in.h:116
@@ -622,8 +624,8 @@ msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
 msgstr ""
-"Nainštalujte si tieto balíčky, ak potrebujete vyvíjať grafické aplikácie GTK"
-"+ a XFCE."
+"Nainštalujte si tieto balíčky, ak potrebujete vyvíjať grafické aplikácie "
+"GTK+ a XFCE."
 
 #: ../comps-f14.xml.in.h:112 ../comps-f15.xml.in.h:115
 #: ../comps-f16.xml.in.h:115 ../comps-f17.xml.in.h:117
@@ -770,7 +772,8 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXDE je jednoduché pracovné prostredie X11 navrhnuté pre slabšie počítače "
 "ako netbooky, mobilné zariadenia a staršie počítače."
@@ -1199,8 +1202,8 @@ msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 msgstr ""
-"Podpora pre krížovú kompiláciu 32 bitových Windows programov, ich testovanie "
-"a vytváranie inštalátorov. A to všetko pomocou Fedory."
+"Podpora pre krížovú kompiláciu 32 bitových Windows programov, ich testovanie"
+" a vytváranie inštalátorov. A to všetko pomocou Fedory."
 
 #: ../comps-f14.xml.in.h:209 ../comps-f15.xml.in.h:224
 #: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:227
@@ -1319,12 +1322,14 @@ msgstr ""
 #: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:245
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:52
 msgid "The applications include office suites, PDF viewers, and more."
-msgstr "Tieto aplikácie obsahujú aj kancelárske balíky, PDF prehliadače a iné."
+msgstr ""
+"Tieto aplikácie obsahujú aj kancelárske balíky, PDF prehliadače a iné."
 
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Balíčky v tejto skupine sú základné knižnice potrebné pre vývoj aplikácií."
 
@@ -1367,8 +1372,8 @@ msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 msgstr ""
-"Tieto balíčky obsahujú servery pre zastaralé sieťové protokoly, ako sú rsh a "
-"telnet."
+"Tieto balíčky obsahujú servery pre zastaralé sieťové protokoly, ako sú rsh a"
+" telnet."
 
 #: ../comps-f14.xml.in.h:235 ../comps-f15.xml.in.h:251
 #: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:254
@@ -1384,11 +1389,11 @@ msgstr ""
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
-"Tieto balíčky poskytujú podporu pre rôzne jazykové mutácie, vrátane písiem a "
-"metód vstupu."
+"Tieto balíčky poskytujú podporu pre rôzne jazykové mutácie, vrátane písiem a"
+" metód vstupu."
 
 #: ../comps-f14.xml.in.h:238 ../comps-f15.xml.in.h:254
 #: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:257
@@ -1430,10 +1435,11 @@ msgstr ""
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
-"Táto skupina obsahuje všetky vlastné konfiguračné nástroje servera firmy Red "
-"Hat."
+"Táto skupina obsahuje všetky vlastné konfiguračné nástroje servera firmy Red"
+" Hat."
 
 #: ../comps-f14.xml.in.h:244 ../comps-f15.xml.in.h:260
 #: ../comps-f16.xml.in.h:260 ../comps-f17.xml.in.h:263
@@ -1458,16 +1464,16 @@ msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
 msgstr ""
-"Táto skupina obsahuje balíčky pre matematické a vedecké výpočty a kreslenie, "
-"spolu s konverziou jednotiek."
+"Táto skupina obsahuje balíčky pre matematické a vedecké výpočty a kreslenie,"
+" spolu s konverziou jednotiek."
 
 #: ../comps-f14.xml.in.h:247 ../comps-f15.xml.in.h:263
 #: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:266
 #: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:62
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr ""
-"Táto skupina obsahuje balíčky, ktoré vám pomôžu pri skenovaní obrázkov a pri "
-"práci s nimi."
+"Táto skupina obsahuje balíčky, ktoré vám pomôžu pri skenovaní obrázkov a pri"
+" práci s nimi."
 
 #: ../comps-f14.xml.in.h:248 ../comps-f15.xml.in.h:264
 #: ../comps-f16.xml.in.h:264 ../comps-f17.xml.in.h:267
@@ -1476,15 +1482,15 @@ msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Táto skupina obsahuje textových klientov pre e-mail, WWW a rozhovory (chat). "
-"Tieto aplikácie nepotrebujú systém X Window."
+"Táto skupina obsahuje textových klientov pre e-mail, WWW a rozhovory (chat)."
+" Tieto aplikácie nepotrebujú systém X Window."
 
 #: ../comps-f14.xml.in.h:249 ../comps-f15.xml.in.h:265
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Táto skupina je kolekciou grafických administrátorských nástrojov pre "
 "počítač, napr. správa používateľských účtov a konfigurácia hardvéru."
@@ -1511,8 +1517,8 @@ msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
 msgstr ""
-"Táto skupina zahŕňa nástroje používane k návrhu, vytváraniu a úprave písem a "
-"balíčkov s písmami."
+"Táto skupina zahŕňa nástroje používane k návrhu, vytváraniu a úprave písem a"
+" balíčkov s písmami."
 
 #: ../comps-f14.xml.in.h:253 ../comps-f15.xml.in.h:269
 #: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:272
@@ -1521,22 +1527,23 @@ msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr ""
-"Táto skupina je kolekciou rôznych nástrojov pre počítač, ako je napr. klient "
-"pre pripojenie k zdieľaným položkám SMB a nástroje na monitorovanie sieťovej "
-"prevádzky."
+"Táto skupina je kolekciou rôznych nástrojov pre počítač, ako je napr. klient"
+" pre pripojenie k zdieľaným položkám SMB a nástroje na monitorovanie "
+"sieťovej prevádzky."
 
 #: ../comps-f14.xml.in.h:254 ../comps-f15.xml.in.h:270
 #: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:274
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr ""
-"Táto skupina balíčkov vám umožní spustiť DNS menný server (BIND) na počítači."
+"Táto skupina balíčkov vám umožní spustiť DNS menný server (BIND) na "
+"počítači."
 
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "Táto skupina balíčkov vám umožní zdieľať súbory medzi systémami Linux a MS "
 "Windows (tm)."
@@ -1848,9 +1855,8 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Aplikácie"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1878,8 +1884,8 @@ msgstr "KDE (pracovné prostredie K)"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE je výkonné grafické používateľské rozhranie, ktoré obsahuje panel, "
 "pracovnú plochu, systémové ikony a grafického správcu súborov."
@@ -2396,8 +2402,8 @@ msgstr "Podpora Smart card"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:222
@@ -2495,7 +2501,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:260
@@ -2575,8 +2582,4 @@ msgstr ""
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr ""
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Pracovné prostredie Moblin"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr "Moblin je pracovné prostredie pre NetBook  a NetTop zariadenia."

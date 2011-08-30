@@ -1,20 +1,27 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# David Barzilay <barzilay@redhat.com>, 2003, 2004.
+# Pedro Macedo <webmaster@margo.bijoux.nom.br>, 2005.
+# Rodrigo Padula de Oliveira <rodrigopadula@gmail.com>, 2005.
+# Igor Pires Soares <igor@projetofedora.org>, 2006, 2007, 2008, 2009.
+# Elder Marco <eldermarco@gmail.com>, 2011.
+# cleitonlima <cleitoncfl@gmail.com>, 2011.
+# Taylon Silmer <taylon@taylon.eti.br>, 2011.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: Portuguese (Brazilian) <trans-pt_br@lists.fedoraproject.org>\n"
-"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
@@ -31,8 +38,8 @@ msgstr "Um conjunto de aplicações que são consideradas critical path"
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 "Um conjunto de pacotes que fornece as funcionalidades do Critical Path para "
 "o ambiente de trabalho GNOME"
@@ -43,8 +50,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
 msgstr ""
-"Um conjunto de pacotes que fornecem as funcionalidades do Critical Path para "
-"o ambiente de trabalho KDE"
+"Um conjunto de pacotes que fornecem as funcionalidades do Critical Path para"
+" o ambiente de trabalho KDE"
 
 #: ../comps-f14.xml.in.h:5 ../comps-f15.xml.in.h:5 ../comps-f16.xml.in.h:5
 #: ../comps-f17.xml.in.h:5
@@ -52,8 +59,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
 msgstr ""
-"Um conjunto de pacotes que fornecem as funcionalidades do Critical Path para "
-"o ambiente de trabalho LXDE"
+"Um conjunto de pacotes que fornecem as funcionalidades do Critical Path para"
+" o ambiente de trabalho LXDE"
 
 #: ../comps-f14.xml.in.h:6 ../comps-f15.xml.in.h:6 ../comps-f16.xml.in.h:6
 #: ../comps-f17.xml.in.h:6
@@ -61,8 +68,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
 msgstr ""
-"Um conjunto de pacotes que fornecem as funcionalidades do Critical Path para "
-"o ambiente de trabalho Xfce"
+"Um conjunto de pacotes que fornecem as funcionalidades do Critical Path para"
+" o ambiente de trabalho Xfce"
 
 #: ../comps-f14.xml.in.h:7 ../comps-f15.xml.in.h:7 ../comps-f16.xml.in.h:7
 #: ../comps-f17.xml.in.h:7
@@ -614,8 +621,8 @@ msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
 msgstr ""
-"Instale estes pacotes para desenvolver aplicações gráficas do GNOME e em GTK"
-"+."
+"Instale estes pacotes para desenvolver aplicações gráficas do GNOME e em "
+"GTK+."
 
 #: ../comps-f14.xml.in.h:111 ../comps-f15.xml.in.h:114
 #: ../comps-f16.xml.in.h:114 ../comps-f17.xml.in.h:116
@@ -623,7 +630,8 @@ msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
 msgstr ""
-"Instale estes pacotes para desenvolver aplicações gráficas do XFCE e em GTK+."
+"Instale estes pacotes para desenvolver aplicações gráficas do XFCE e em "
+"GTK+."
 
 #: ../comps-f14.xml.in.h:112 ../comps-f15.xml.in.h:115
 #: ../comps-f16.xml.in.h:115 ../comps-f17.xml.in.h:117
@@ -770,10 +778,11 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
-"O LXDE é um ambiente de trabalho leve para o X11 projetado para computadores "
-"com especificações de hardware mais modestas como netbooks, dispositivos "
+"O LXDE é um ambiente de trabalho leve para o X11 projetado para computadores"
+" com especificações de hardware mais modestas como netbooks, dispositivos "
 "móveis e computadores mais antigos."
 
 #: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:140
@@ -912,8 +921,8 @@ msgstr "Ambiente MeeGo NetBook UX"
 #: ../comps-f16.xml.in.h:168 ../comps-f17.xml.in.h:171
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
 msgstr ""
-"O MeeGo NetBook UX é um ambiente de trabalho para dispositivos NetBook/"
-"NetTop."
+"O MeeGo NetBook UX é um ambiente de trabalho para dispositivos "
+"NetBook/NetTop."
 
 #: ../comps-f14.xml.in.h:160 ../comps-f15.xml.in.h:169
 #: ../comps-f16.xml.in.h:169 ../comps-f17.xml.in.h:172
@@ -1321,20 +1330,22 @@ msgid ""
 "widgets, and many powerful KDE applications."
 msgstr ""
 "O KDE SC inclui o KDE Plasma Desktop, uma interface gráfica de usuário "
-"altamente configurável que inclui um painel, uma área de trabalho, ícones de "
-"sistema, widgets para a área de trabalho e muitos aplicativos poderosos do "
+"altamente configurável que inclui um painel, uma área de trabalho, ícones de"
+" sistema, widgets para a área de trabalho e muitos aplicativos poderosos do "
 "KDE."
 
 #: ../comps-f14.xml.in.h:227 ../comps-f15.xml.in.h:242
 #: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:245
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:52
 msgid "The applications include office suites, PDF viewers, and more."
-msgstr "As aplicações incluem suítes de escritório, visualizadores PDF e mais."
+msgstr ""
+"As aplicações incluem suítes de escritório, visualizadores PDF e mais."
 
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Os pacotes deste grupo são bibliotecas de base necessárias para desenvolver "
 "aplicações."
@@ -1356,8 +1367,8 @@ msgid ""
 "These packages are helpful when developing OpenOffice.org extensions or "
 "macros."
 msgstr ""
-"Estes pacotes são úteis no desenvolvimento de extensões e macros do BrOffice."
-"org."
+"Estes pacotes são úteis no desenvolvimento de extensões e macros do "
+"BrOffice.org."
 
 #: ../comps-f14.xml.in.h:232 ../comps-f15.xml.in.h:247
 #: ../comps-f16.xml.in.h:247 ../comps-f17.xml.in.h:250
@@ -1397,8 +1408,8 @@ msgstr "Estes pacotes oferecem compatibilidade com as versões anteriores."
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 "Estes pacotes oferecem suporte para várias localidades, incluindo fontes e "
 "métodos de entrada."
@@ -1442,7 +1453,8 @@ msgstr "Este grupo permite configurar o sistema como um servidor de notícias."
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Este grupo contém todas as ferramentas personalizadas de configuração de "
 "servidores da Red Hat."
@@ -1493,8 +1505,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Este grupo é uma coleção de ferramentas gráficas de administração para o "
 "sistema, como a gestão de contas dos usuários e a configuração do hardware "
@@ -1514,8 +1526,8 @@ msgstr ""
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr ""
-"Este grupo é uma coleção de ferramentas para vários utilitários de hardwares "
-"específicos."
+"Este grupo é uma coleção de ferramentas para vários utilitários de hardwares"
+" específicos."
 
 #: ../comps-f14.xml.in.h:252 ../comps-f15.xml.in.h:268
 #: ../comps-f16.xml.in.h:268 ../comps-f17.xml.in.h:271
@@ -1534,8 +1546,8 @@ msgid ""
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr ""
 "Este grupo é uma coleção de várias ferramentas para o sistema, como o "
-"cliente para conectar a compartilhamentos SMB e ferramentas para monitorar o "
-"tráfego de rede."
+"cliente para conectar a compartilhamentos SMB e ferramentas para monitorar o"
+" tráfego de rede."
 
 #: ../comps-f14.xml.in.h:254 ../comps-f15.xml.in.h:270
 #: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:274
@@ -1548,8 +1560,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "Este grupo de pacotes permite compartilhar arquivos entre os sistemas "
 "operacionais Linux e MS Windows(tm)."
@@ -1742,7 +1754,7 @@ msgstr "Suporte à Chuvash"
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
-msgstr ""
+msgstr "Suite Design"
 
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
@@ -1828,6 +1840,8 @@ msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
 msgstr ""
+"Estes pacotes são direcionados para designers profissionais, como o Projeto "
+"Fedora Team."
 
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
@@ -1850,18 +1864,16 @@ msgid "Yiddish Support"
 msgstr "Suporte à Yiddish"
 
 #: ../comps-f17.xml.in.h:39
-#, fuzzy
 msgid "Cloud Infrastructure"
-msgstr "Servidor de infraestrutura de rede"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:112
 msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Aplicações"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1889,8 +1901,8 @@ msgstr "Ambiente de trabalho KDE"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "O KDE é uma poderosa interface gráfica que inclui um painel, uma área de "
 "trabalho, ícones de sistema e um gerenciador de arquivos gráfico."
@@ -2087,8 +2099,8 @@ msgstr ""
 #: ../comps-el6.xml.in.h:50
 msgid "Console internet access tools, often used by administrators."
 msgstr ""
-"Ferramentas de acesso a internet em modo texto, frequentemente utilizado por "
-"administradores."
+"Ferramentas de acesso a internet em modo texto, frequentemente utilizado por"
+" administradores."
 
 #: ../comps-el6.xml.in.h:51
 msgid "Console internet tools"
@@ -2251,7 +2263,8 @@ msgstr "Plataforma Java"
 
 #: ../comps-el6.xml.in.h:130
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
-msgstr "Suporte ao Java para as plataformas Enterprise Linux Server e Desktop."
+msgstr ""
+"Suporte ao Java para as plataformas Enterprise Linux Server e Desktop."
 
 #: ../comps-el6.xml.in.h:131
 msgid "KDE Desktop"
@@ -2440,8 +2453,8 @@ msgstr "Suporte à Smart card"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 "Software desenvolvido para suportar conectividade de cluster e grid usando "
 "Infiniband baseada em RDMA e fabricas iWARP."
@@ -2543,7 +2556,8 @@ msgstr ""
 "de performance."
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 "Ferramentas para diagnosticar sistemas e problemas de performance em nível "
 "de aplicação."
@@ -2629,9 +2643,4 @@ msgstr "Suporte ao cliente iSCSI"
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr "Servidor de armazenamento de rede iSCSI, iSER e iSNS."
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Ambiente de trabalho Moblin"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr ""
-#~ "O Moblin é um ambiente de trabalho para dispositivos NetBook/NetTop."

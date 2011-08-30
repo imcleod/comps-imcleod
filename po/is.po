@@ -1,20 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Richard Allen <ra@ra.is>, 2002.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Icelandic <None>\n"
-"Language: is\n"
+"Language-Team: Icelandic (http://www.transifex.net/projects/p/fedora/team/is/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
@@ -30,8 +31,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
@@ -468,8 +469,8 @@ msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr ""
-"Allt frá brennslu geisladiska til að spila geisladiska og margmiðlunarskrár. "
-"Þessi pakkahópur gerir þér kleyft að vinna með hljóð og mynd."
+"Allt frá brennslu geisladiska til að spila geisladiska og margmiðlunarskrár."
+" Þessi pakkahópur gerir þér kleyft að vinna með hljóð og mynd."
 
 #: ../comps-f14.xml.in.h:88 ../comps-f15.xml.in.h:90 ../comps-f16.xml.in.h:90
 #: ../comps-f17.xml.in.h:91 ../comps-el4.xml.in.h:20 ../comps-el5.xml.in.h:24
@@ -751,7 +752,8 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 
 #: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:140
@@ -1137,8 +1139,8 @@ msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
 msgstr ""
-"Forrit sem kallast ritlar. Þetta eru tólin sem gera þér kleyft að búa til og "
-"breyta textaskrám. Þetta inniheldur meðal annars Emacs og Vi."
+"Forrit sem kallast ritlar. Þetta eru tólin sem gera þér kleyft að búa til og"
+" breyta textaskrám. Þetta inniheldur meðal annars Emacs og Vi."
 
 #: ../comps-f14.xml.in.h:203 ../comps-f15.xml.in.h:218
 #: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:221
@@ -1299,7 +1301,8 @@ msgstr "Forritin innihalda meðal annars skrifstofutól, PDF sjár og fleira."
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Pakkarnir í þessum hóp eru grunnaðgerðasöfnin sem þarf til að þróa hugbúnað."
 
@@ -1355,8 +1358,8 @@ msgstr "Þessir pakkar veita stuðning við fyrri útgáfur."
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 "Þessir pakkar veita stuðning við ýmis tungumál ásamt letri og "
 "innsláttargerðum."
@@ -1399,7 +1402,8 @@ msgstr "Þessi tól gera þér kleyft að stilla vélina sem news þjón."
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr "Þessi hópur inniheldur öll Red Hat stillingatólin."
 
 #: ../comps-f14.xml.in.h:244 ../comps-f15.xml.in.h:260
@@ -1448,11 +1452,11 @@ msgstr ""
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
-"Þessi hópur inniheldur safn myndrænna kerfisstjórnunartóla fyrir vélina eins "
-"og til dæmis tól til að vinna með notendur og stilla vélbúnað."
+"Þessi hópur inniheldur safn myndrænna kerfisstjórnunartóla fyrir vélina eins"
+" og til dæmis tól til að vinna með notendur og stilla vélbúnað."
 
 #: ../comps-f14.xml.in.h:250 ../comps-f15.xml.in.h:266
 #: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:269
@@ -1474,8 +1478,8 @@ msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
 msgstr ""
-"Þessi pakkahópur inniheldur ýmis tól fyrir hönnun, breytingar, meðhöndlun og "
-"pökkun á letri."
+"Þessi pakkahópur inniheldur ýmis tól fyrir hönnun, breytingar, meðhöndlun og"
+" pökkun á letri."
 
 #: ../comps-f14.xml.in.h:253 ../comps-f15.xml.in.h:269
 #: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:272
@@ -1484,8 +1488,8 @@ msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr ""
-"Þessi hópur inniheldur safn kerfistóla eins og til dæmis tól til að tengjast "
-"SMB netdrifum og tól til að fylgjast með umferð á neti."
+"Þessi hópur inniheldur safn kerfistóla eins og til dæmis tól til að tengjast"
+" SMB netdrifum og tól til að fylgjast með umferð á neti."
 
 #: ../comps-f14.xml.in.h:254 ../comps-f15.xml.in.h:270
 #: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:274
@@ -1498,8 +1502,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "Þessi pakkahópur gerir þér kleyft að skiptast á skrám milli Linux og MS "
 "Windows véla."
@@ -1807,9 +1811,8 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Forrit"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1837,8 +1840,8 @@ msgstr "KDE (K skjáborðið)"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE er öflugt myndrænt vinnuumhverfi sem inniheldur spjald, skjáborð, "
 "kerfissmámyndir og myndrænann skráarstjóra."
@@ -1848,8 +1851,8 @@ msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
 msgstr ""
-"Forrit sem kallast ritlar. Þetta eru tólin sem gera þér kleyft að búa til og "
-"breyta skrám. Þetta inniheldur meðal annars Emacs og Vi."
+"Forrit sem kallast ritlar. Þetta eru tólin sem gera þér kleyft að búa til og"
+" breyta skrám. Þetta inniheldur meðal annars Emacs og Vi."
 
 #: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:51
 msgid "The XEmacs text editor."
@@ -2355,8 +2358,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:222
@@ -2454,7 +2457,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:260
@@ -2534,5 +2538,4 @@ msgstr ""
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr ""
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Moblin skjáborðsumhverfi"
+

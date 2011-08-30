@@ -1,22 +1,25 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Abd el rahman Ghareeb <king_abdo@yahoo.com>, 2004.
+# Ali Ghareb <ali.gareb@gmail.com>, 2007.
+# Muayyad Saleh Alsadi <alsadi@ojuba.org>, 2008.
+# Munzir Taha <munzirtaha@gmail.com>, 2011.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: Arabic <trans-ar@lists.fedoraproject.org>\n"
-"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
 #: ../comps-f17.xml.in.h:1 ../comps-el6.xml.in.h:5
@@ -31,8 +34,8 @@ msgstr "مجموعة من التطبيقات التي تعتبر مسارا حر
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr "هناك مجموعة من الحزم التي توفر وظائف المسار الحرج لسطح مكتب GNOME"
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
@@ -624,7 +627,8 @@ msgstr "قم بتثبيت هذه الحزم لكي تتمكن من تطوير ب
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
 msgstr ""
-"قم بتثبيت هذه الأدوات لكي يتمكن النظام من الطباعة أو ليقوم بوظيفة خادم طباعة."
+"قم بتثبيت هذه الأدوات لكي يتمكن النظام من الطباعة أو ليقوم بوظيفة خادم "
+"طباعة."
 
 #: ../comps-f14.xml.in.h:114 ../comps-f15.xml.in.h:117
 #: ../comps-f16.xml.in.h:117 ../comps-f17.xml.in.h:119
@@ -754,7 +758,8 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXDE هي بيئة سطح مكتب X11 خفيفة الوزن مصممة لأجهزة الحاسب مع مواصفات أجهزة "
 "منخفضة مثل netbooks، والأجهزة النقالة أو أجهزة الحاسب القديمة."
@@ -1304,7 +1309,8 @@ msgstr "التطبيقات تحتوي على أدوات المكتب و عارض
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr "الحزم في هذه المجموعة هي مكتبات اللب و هي محتاجه لتطوير التطبيقات."
 
 #: ../comps-f14.xml.in.h:229 ../comps-f15.xml.in.h:244
@@ -1359,8 +1365,8 @@ msgstr "هذه الحزم تقدم التوافقية مع اصدارات ساب
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr "هذه الحزم تقدم دعما للغات المحلية بما في ذلك الخطوط وطرق الإدخال."
 
 #: ../comps-f14.xml.in.h:238 ../comps-f15.xml.in.h:254
@@ -1402,7 +1408,8 @@ msgstr "تتيح لك هذه المجموعة تهيئة النظام ليعمل
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr "تحتوي هذه المجموعة على كل أدوات ردهات لتهيئة خادم مُخصّص."
 
 #: ../comps-f14.xml.in.h:244 ../comps-f15.xml.in.h:260
@@ -1442,18 +1449,18 @@ msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"تحتوي هذه المجموعة على عملاء للبريد و الويب و الدردشة بدون واجهة رسومية. هذه "
-"التطبيقات لا تحتاج لنظام نواذف X."
+"تحتوي هذه المجموعة على عملاء للبريد و الويب و الدردشة بدون واجهة رسومية. هذه"
+" التطبيقات لا تحتاج لنظام نواذف X."
 
 #: ../comps-f14.xml.in.h:249 ../comps-f15.xml.in.h:265
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
-"تحتوي هذه المجموعة على أدوات ذات واجهة رسومية لإدارة النظام مثل إدارة حسابات "
-"المستخدمين و تهيئة عتاد النّظام."
+"تحتوي هذه المجموعة على أدوات ذات واجهة رسومية لإدارة النظام مثل إدارة حسابات"
+" المستخدمين و تهيئة عتاد النّظام."
 
 #: ../comps-f14.xml.in.h:250 ../comps-f15.xml.in.h:266
 #: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:269
@@ -1484,8 +1491,8 @@ msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr ""
-"تحتوي هذه المجموعة على أدوات مختلفه للنظام، مثل برنامج للإتصال بمُشاركات كتلة "
-"رسائل النّظام (SMB) و أدوات لمراقبة نقل البيانات على الشبكة."
+"تحتوي هذه المجموعة على أدوات مختلفه للنظام، مثل برنامج للإتصال بمُشاركات "
+"كتلة رسائل النّظام (SMB) و أدوات لمراقبة نقل البيانات على الشبكة."
 
 #: ../comps-f14.xml.in.h:254 ../comps-f15.xml.in.h:270
 #: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:274
@@ -1497,8 +1504,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "تتيح لك هذه المجموعة من الحزم مشاركة الملفات بين لينوكس و نظام نوافذ "
 "ميكروسوفت."
@@ -1691,7 +1698,7 @@ msgstr ""
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
-msgstr ""
+msgstr "برامج التصميم"
 
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
@@ -1805,9 +1812,8 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "تطبيقات"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1835,8 +1841,8 @@ msgstr "كيدي (بيئة سطح المكتب K)"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "كيدي عبارة عن واجهة رسومية للمستخدم تحتوي على لوحة للتحكم و سطح مكتب و "
 "أيقونات النظام و منظم رسومي للملفات."
@@ -1846,8 +1852,8 @@ msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
 msgstr ""
-"تسمى في بعض الأحيان محررات النصوص، هذه البرامج تسمح لك بإنشاء و تعديل ملفات. "
-"من ضمنها إيماكس وVi."
+"تسمى في بعض الأحيان محررات النصوص، هذه البرامج تسمح لك بإنشاء و تعديل ملفات."
+" من ضمنها إيماكس وVi."
 
 #: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:51
 msgid "The XEmacs text editor."
@@ -2353,8 +2359,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:222
@@ -2452,7 +2458,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:260
@@ -2532,8 +2539,4 @@ msgstr ""
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr ""
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "بيئة سطح مكتب Moblin"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr "Moblin هي بيئة سطح المكتب لأجهزة NetBook/NetTop."

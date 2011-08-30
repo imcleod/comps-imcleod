@@ -1,22 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Romanian <None>\n"
-"Language: ro\n"
+"Language-Team: Romanian (http://www.transifex.net/projects/p/fedora/team/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
-"2:1))\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1))\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
 #: ../comps-f17.xml.in.h:1 ../comps-el6.xml.in.h:5
@@ -32,8 +31,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
@@ -762,7 +761,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 
 #: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:140
@@ -1309,7 +1309,8 @@ msgstr "Aplicațiile includ suite de birou, vizualizatoare PDF și altele."
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Pachetele din acest grup sunt librării de bază necesare pentru a dezvolta "
 "aplicații."
@@ -1326,8 +1327,8 @@ msgstr ""
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr ""
-"Aceste pachete vă permit să dezvoltați aplicații pentru sistemul de ferestre "
-"X."
+"Aceste pachete vă permit să dezvoltați aplicații pentru sistemul de ferestre"
+" X."
 
 #: ../comps-f14.xml.in.h:231
 msgid ""
@@ -1357,8 +1358,8 @@ msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 msgstr ""
-"Aceste pachete includ servere pentru protocoale vechi de rețea cum ar fi rsh "
-"și telnet."
+"Aceste pachete includ servere pentru protocoale vechi de rețea cum ar fi rsh"
+" și telnet."
 
 #: ../comps-f14.xml.in.h:235 ../comps-f15.xml.in.h:251
 #: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:254
@@ -1373,8 +1374,8 @@ msgstr "Aceste pachete oferă compatibilitate cu lansările anterioare."
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 "Aceste pachete oferă suport pentru diverse localizări, acesta incluzând "
 "fonturi și metode de introducere."
@@ -1418,7 +1419,8 @@ msgstr "Acest grup vă permite să configurați sistemul ca un server de știri.
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Acest grup conține toate uneltele personalizate de configurare a serverelor "
 "de la Red Hat."
@@ -1429,8 +1431,8 @@ msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
 msgstr ""
-"Acest grup include un set minimal de pachete. Util pentru a crea mici mașini "
-"router/firewall, de exemplu."
+"Acest grup include un set minimal de pachete. Util pentru a crea mici mașini"
+" router/firewall, de exemplu."
 
 #: ../comps-f14.xml.in.h:245 ../comps-f15.xml.in.h:261
 #: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:264
@@ -1445,8 +1447,8 @@ msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
 msgstr ""
-"Acest grup include pachete pentru a efectua calcule și grafice matematice și "
-"științifice precum și conversie între unități de măsură."
+"Acest grup include pachete pentru a efectua calcule și grafice matematice și"
+" științifice precum și conversie între unități de măsură."
 
 #: ../comps-f14.xml.in.h:247 ../comps-f15.xml.in.h:263
 #: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:266
@@ -1469,8 +1471,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Acest grup este o colecție de unelte grafice de administrare pentru sistem, "
 "cum ar fi administrarea conturilor de utilizator și configurarea hardware."
@@ -1480,7 +1482,8 @@ msgstr ""
 #: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:67
 msgid ""
 "This group is a collection of tools and resources of Armenian environments."
-msgstr "Acest grup este o colecție de unelte și resurse ale mediilor Armenian."
+msgstr ""
+"Acest grup este o colecție de unelte și resurse ale mediilor Armenian."
 
 #: ../comps-f14.xml.in.h:251 ../comps-f15.xml.in.h:267
 #: ../comps-f16.xml.in.h:267 ../comps-f17.xml.in.h:270
@@ -1520,11 +1523,11 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
-"Acest grup de pachete vă permite să partajați fișiere între sisteme Linux și "
-"MS Windows(tm)."
+"Acest grup de pachete vă permite să partajați fișiere între sisteme Linux și"
+" MS Windows(tm)."
 
 #: ../comps-f14.xml.in.h:256 ../comps-f15.xml.in.h:272
 #: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:276
@@ -1829,9 +1832,8 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Aplicații"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1860,11 +1862,12 @@ msgstr "KDE (Mediul de lucru K)"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE este o puternică interfață grafică cu utilizatorul care include un "
-"panou, spațiu de lucru, icoane pentru sistem și un manager grafic de fișiere."
+"panou, spațiu de lucru, icoane pentru sistem și un manager grafic de "
+"fișiere."
 
 #: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:47
 msgid ""
@@ -2378,8 +2381,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:222
@@ -2477,7 +2480,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:260
@@ -2556,3 +2560,5 @@ msgstr ""
 #: ../comps-el6.xml.in.h:296
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr ""
+
+

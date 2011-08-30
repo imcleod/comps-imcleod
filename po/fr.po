@@ -1,20 +1,30 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Decroux Fabien <fdecroux@redhat.com>, 2006.
+# Gauthier Ancelin <gauthier.ancelin@laposte.net>, 2008.
+# Audrey Simons <asimons@redhat.com>, 2003, 2004.
+# Damien Durand <splinux@fedoraproject.org>, 2006.
+# Sam Friedmann <sam.friedmann@redhat.com>, 2009.
+# Dominique Bribanick <chepioq@gmail.com>, 2011.
+# Corina Roe <croe@redhat.com>, 2008, 2009.
+# Kévin Raymond <shaiton@fedoraproject.org>, 2011.
+# Corentin Perard <corentin.perard@gmail.com>, 2009.
+# Thomas Canniot <mrtom@fedoraproject.org>, 2006, 2007, 2008, 2009.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: French <trans-fr@lists.fedoraproject.org>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
@@ -30,8 +40,8 @@ msgstr "Un jeu d'instructions qui sont considérées critical path"
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 "Un ensemble de paquets qui apporte la fonctionnalité Critical Path pour le "
 "bureau GNOME"
@@ -456,7 +466,8 @@ msgstr "Polices de caractères"
 #: ../comps-f14.xml.in.h:83 ../comps-f15.xml.in.h:85 ../comps-f16.xml.in.h:85
 #: ../comps-f17.xml.in.h:86
 msgid "Fonts packages for rendering text on the desktop."
-msgstr "Paquets de polices de caractères pour afficher du texte sur le bureau."
+msgstr ""
+"Paquets de polices de caractères pour afficher du texte sur le bureau."
 
 #: ../comps-f14.xml.in.h:84 ../comps-f15.xml.in.h:86 ../comps-f16.xml.in.h:86
 #: ../comps-f17.xml.in.h:87 ../comps-el6.xml.in.h:99
@@ -479,9 +490,9 @@ msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr ""
-"Ce groupe de paquets vous permet de travailler sur votre système avec du son "
-"et des vidéos, de l'enregistrement de CD-ROM à la lecture de CD audio et de "
-"fichiers multimédia."
+"Ce groupe de paquets vous permet de travailler sur votre système avec du son"
+" et des vidéos, de l'enregistrement de CD-ROM à la lecture de CD audio et de"
+" fichiers multimédia."
 
 #: ../comps-f14.xml.in.h:88 ../comps-f15.xml.in.h:90 ../comps-f16.xml.in.h:90
 #: ../comps-f17.xml.in.h:91 ../comps-el4.xml.in.h:20 ../comps-el5.xml.in.h:24
@@ -772,11 +783,12 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
-"LXDE est un environnement de bureau X11 léger, conçu pour des ordinateurs de "
-"faible puissance, tels que les netbooks, les appareils mobiles, ou d'anciens "
-"ordinateurs."
+"LXDE est un environnement de bureau X11 léger, conçu pour des ordinateurs de"
+" faible puissance, tels que les netbooks, les appareils mobiles, ou "
+"d'anciens ordinateurs."
 
 #: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:140
 #: ../comps-f16.xml.in.h:140 ../comps-f17.xml.in.h:142
@@ -1205,8 +1217,8 @@ msgid ""
 "them, and building installers, all from within Fedora."
 msgstr ""
 "Prise en charge de la compilation croisée des programmes 32 bits pour "
-"Windows, des phases de tests et de création des programmesd'installation, le "
-"tout dans Fedora."
+"Windows, des phases de tests et de création des programmesd'installation, le"
+" tout dans Fedora."
 
 #: ../comps-f14.xml.in.h:209 ../comps-f15.xml.in.h:224
 #: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:227
@@ -1333,13 +1345,14 @@ msgstr ""
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:52
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr ""
-"Les applications comprennent des suites bureautiques, des visionneurs PDF et "
-"bien plus encore."
+"Les applications comprennent des suites bureautiques, des visionneurs PDF et"
+" bien plus encore."
 
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Les paquets de ce groupe sont des bibliothèques centrales nécessaires au "
 "développement d'applications."
@@ -1357,8 +1370,8 @@ msgstr ""
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr ""
-"Ces paquets vous permettent de développer des applications pour le système X "
-"Window."
+"Ces paquets vous permettent de développer des applications pour le système X"
+" Window."
 
 #: ../comps-f14.xml.in.h:231
 msgid ""
@@ -1409,8 +1422,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 "Ces paquets fournissent la prise en charge de la compatibilité pour "
 "différentes localisations y compris des polices de caractères et des "
@@ -1422,8 +1435,8 @@ msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
-"Ces outils vous permettent de créer de la documentation au format DocBook et "
-"de la convertir en format HTML, PDF, Postscript et texte."
+"Ces outils vous permettent de créer de la documentation au format DocBook et"
+" de la convertir en format HTML, PDF, Postscript et texte."
 
 #: ../comps-f14.xml.in.h:239 ../comps-f15.xml.in.h:255
 #: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:258
@@ -1456,7 +1469,8 @@ msgstr ""
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Ce groupe contient tous les outils de configuration du serveur personnalisé "
 "de Red Hat."
@@ -1467,8 +1481,8 @@ msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
 msgstr ""
-"Ce groupe inclut un ensemble minimum de paquets. Utile pour créer de petites "
-"machines dédiées au routage et/ou pare-feu, par exemple."
+"Ce groupe inclut un ensemble minimum de paquets. Utile pour créer de petites"
+" machines dédiées au routage et/ou pare-feu, par exemple."
 
 #: ../comps-f14.xml.in.h:245 ../comps-f15.xml.in.h:261
 #: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:264
@@ -1510,8 +1524,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Ce groupe est un ensemble d'outils graphiques d'administration pour le "
 "système, comme pour la gestion des comptes utilisateurs et la configuration "
@@ -1564,11 +1578,11 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
-"Ce groupe de paquets vous permet de partager des fichiers entre les systèmes "
-"Linux et Microsoft Windows (tm)."
+"Ce groupe de paquets vous permet de partager des fichiers entre les systèmes"
+" Linux et Microsoft Windows (tm)."
 
 #: ../comps-f14.xml.in.h:256 ../comps-f15.xml.in.h:272
 #: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:276
@@ -1758,7 +1772,7 @@ msgstr "Prise en charge du tchouvache"
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
-msgstr ""
+msgstr "Design suite"
 
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
@@ -1844,6 +1858,8 @@ msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
 msgstr ""
+"Ces paquets ciblent les designers professionnels tel que la « Fedora Design "
+"Team »."
 
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
@@ -1866,18 +1882,16 @@ msgid "Yiddish Support"
 msgstr "Prise en charge du yiddish"
 
 #: ../comps-f17.xml.in.h:39
-#, fuzzy
 msgid "Cloud Infrastructure"
-msgstr "Serveur d'infrastructure réseau"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:112
 msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Applications"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1906,8 +1920,8 @@ msgstr "Environnement de bureau KDE"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE est une interface utilisateur graphique puissante comprenant un tableau "
 "de bord, un bureau, des icônes système et un gestionnaire de fichiers "
@@ -2469,8 +2483,8 @@ msgstr "Prise en charge des cartes à puce"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 "Logiciel conçu pour prendre en charge des connexions en grappe et en grille "
 "par RDMA en utilisant InfiniBand et iWARP."
@@ -2531,7 +2545,8 @@ msgstr "L'éditeur de texte GNU Emacs, extensible et personnalisable."
 
 #: ../comps-el6.xml.in.h:247
 msgid "The MySQL SQL database client, and associated packages."
-msgstr "Le client de base de données SQL MySQL ainsi que des paquets associés."
+msgstr ""
+"Le client de base de données SQL MySQL ainsi que des paquets associés."
 
 #: ../comps-el6.xml.in.h:248
 msgid "The MySQL SQL database server, and associated packages."
@@ -2577,7 +2592,8 @@ msgstr ""
 "problèmes de performance."
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 "Outils permettant de diagnostiquer les problèmes de performance du système "
 "et des applications."
@@ -2662,8 +2678,4 @@ msgstr "Prise en charge du client iSCSI"
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr "Serveurs de stockage par réseau iSCSI, iSER et iSNS."
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Environnement de bureau Moblin"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr "Moblin est un environnement de bureau pour netbooks/nettops/MID."

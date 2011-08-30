@@ -1,20 +1,24 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Christian Rose <menthos@menthos.com>, 2002, 2003, 2004, 2005.
+# Magnus Larsson <fedoratrans@gmail.com>, 2007, 2008.
+# Chester Cheng <ccheng@redhat.com>, 2007.
+# Göran Uddeborg <goeran@uddeborg.se>, 2011.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Swedish <None>\n"
-"Language: sv\n"
+"Language-Team: Swedish (http://www.transifex.net/projects/p/fedora/team/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
@@ -31,10 +35,11 @@ msgstr "Ett antal program som anses ligga på den kritiska linjen"
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
-"Ett antal paket som ger kritiska linjens funktionalitet för GNOME-skrivbordet"
+"Ett antal paket som ger kritiska linjens funktionalitet för GNOME-"
+"skrivbordet"
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
 #: ../comps-f17.xml.in.h:4
@@ -478,8 +483,8 @@ msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr ""
-"Denna paketgrupp låter dig arbeta med ljud och video, vare sig det gäller cd-"
-"inspelning eller att lyssna på musikskivor och multimedia-filer."
+"Denna paketgrupp låter dig arbeta med ljud och video, vare sig det gäller "
+"cd-inspelning eller att lyssna på musikskivor och multimedia-filer."
 
 #: ../comps-f14.xml.in.h:88 ../comps-f15.xml.in.h:90 ../comps-f16.xml.in.h:90
 #: ../comps-f17.xml.in.h:91 ../comps-el4.xml.in.h:20 ../comps-el5.xml.in.h:24
@@ -769,7 +774,8 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXDE är en lättviktig X11 skrivbordsmiljö gjord för datorer med låga "
 "hårdvaruspecifikationer som nätböcker, mobila enheter eller äldre datorer."
@@ -1311,9 +1317,9 @@ msgid ""
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
 msgstr ""
-"KDE SC innehåller skrivbordet KDE Plasma, ett mycket konfigurerbart grafiskt "
-"användargränssnitt som innehåller en panel, ett skrivbord, systemikoner och "
-"skrivbordsprogram, och många kraftfulla KDE-program."
+"KDE SC innehåller skrivbordet KDE Plasma, ett mycket konfigurerbart grafiskt"
+" användargränssnitt som innehåller en panel, ett skrivbord, systemikoner och"
+" skrivbordsprogram, och många kraftfulla KDE-program."
 
 #: ../comps-f14.xml.in.h:227 ../comps-f15.xml.in.h:242
 #: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:245
@@ -1325,7 +1331,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Paketen i denna grupp är grundläggande bibliotek som behövs för utveckling "
 "av program."
@@ -1356,7 +1363,8 @@ msgstr ""
 msgid ""
 "These packages are helpful when developing web applications or web pages."
 msgstr ""
-"Dessa paket är till hjälp när du utvecklar webbapplikationer eller webbsidor."
+"Dessa paket är till hjälp när du utvecklar webbapplikationer eller "
+"webbsidor."
 
 #: ../comps-f14.xml.in.h:233 ../comps-f15.xml.in.h:249
 #: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:252
@@ -1388,11 +1396,11 @@ msgstr "Dessa paket ger kompatibilitet med tidigare utgåvor."
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
-"Dessa paket tillhandahåller stöd för diverse lokaler, inklusive typsnitt och "
-"inmatningsmetoder."
+"Dessa paket tillhandahåller stöd för diverse lokaler, inklusive typsnitt och"
+" inmatningsmetoder."
 
 #: ../comps-f14.xml.in.h:238 ../comps-f15.xml.in.h:254
 #: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:257
@@ -1434,7 +1442,8 @@ msgstr ""
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Denna grupp innehåller alla Red Hats specialanpassade verktyg för "
 "konfiguration av server."
@@ -1486,8 +1495,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Denna grupp är en samling grafiska administrationsverktyg för systemet, som "
 "exempelvis hantering av användarkonton och konfiguration av systemhårdvara."
@@ -1537,11 +1546,11 @@ msgstr "Denna paketgrupp låter dig köra en DNS-namnserver (BIND) på systemet.
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
-"Denna paketgrupp låter dig dela filer mellan Linux och system med MS Windows"
-"(tm)."
+"Denna paketgrupp låter dig dela filer mellan Linux och system med MS "
+"Windows(tm)."
 
 #: ../comps-f14.xml.in.h:256 ../comps-f15.xml.in.h:272
 #: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:276
@@ -1734,7 +1743,7 @@ msgstr "Stöd för tjuvasjiska"
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
-msgstr ""
+msgstr "Designsvit"
 
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
@@ -1820,6 +1829,7 @@ msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
 msgstr ""
+"Dessa paket är avsedda för professionella designer, som Fedora Design Team."
 
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
@@ -1842,18 +1852,16 @@ msgid "Yiddish Support"
 msgstr "Stöd för jiddisch"
 
 #: ../comps-f17.xml.in.h:39
-#, fuzzy
 msgid "Cloud Infrastructure"
-msgstr "Nätverksinfrastrukturserver"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:112
 msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Program"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1881,8 +1889,8 @@ msgstr "Skrivbordsmiljön KDE"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE är ett kraftfullt, grafiskt användargränssnitt som innehåller en panel, "
 "ett skrivbord, systemikoner och en grafisk filhanterare."
@@ -1982,7 +1990,8 @@ msgstr "Ytterligare utveckling"
 #: ../comps-el6.xml.in.h:12
 msgid ""
 "Additional development headers and libraries for developing applications"
-msgstr "Ytterligare utvecklingshuvuden och -bibliotek för att utveckla program"
+msgstr ""
+"Ytterligare utvecklingshuvuden och -bibliotek för att utveckla program"
 
 #: ../comps-el6.xml.in.h:15
 msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
@@ -2031,8 +2040,8 @@ msgstr "Stöd för tsjhattisgarhi"
 #: ../comps-el6.xml.in.h:43
 msgid "Client tools for connecting to a backup server and doing backups."
 msgstr ""
-"Klientverktyg för att ansluta till en server för säkerhetskopiering och göra "
-"säkerhetskopior."
+"Klientverktyg för att ansluta till en server för säkerhetskopiering och göra"
+" säkerhetskopior."
 
 #: ../comps-el6.xml.in.h:44
 msgid "Clients for installing and managing virtualization instances."
@@ -2425,8 +2434,8 @@ msgstr "Stöd för smarta kort"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 "Program gjorda för att stödja klustring och nätskonnektivitet med RDMA-"
 "baserade InfiniBand- och iWARP-konstruktioner."
@@ -2528,7 +2537,8 @@ msgstr ""
 "prestandaproblem."
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 "Verktyg för att diagnostisera prestandaproblem på system- och programnivå."
 
@@ -2611,8 +2621,4 @@ msgstr "iSCSI-klientstöd"
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr "iSCSI-, iSER- och iSNS-nätverkslagringsserver."
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Moblins skrivbordsmiljö"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr "Moblin är en skrivbordsmiljö för NetBook-/NetTop-enheter."

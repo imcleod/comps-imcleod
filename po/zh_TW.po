@@ -1,20 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Terry Chuang <tchuang@redhat.com>, 2008, 2009.
+# Cheng-Chia Tseng <pswo10680@gmail.com>, 2011.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Chinese (Taiwan) <None>\n"
-"Language: zh_TW\n"
+"Language-Team: Chinese (Taiwan) <trans-zh_TW@lists.fedoraproject.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
@@ -30,8 +32,8 @@ msgstr "認為具有關鍵路徑的一組應用程式"
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr "提供 GNOME 桌面環境的關鍵路徑功能的一組套件"
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
@@ -410,7 +412,7 @@ msgstr "Fedora Eclipse"
 #: ../comps-f17.xml.in.h:79 ../comps-el4.xml.in.h:18 ../comps-el5.xml.in.h:22
 #: ../comps-el6.xml.in.h:91
 msgid "Fedora Packager"
-msgstr "Fedora 套件管理器"
+msgstr "Fedora 套件管理員"
 
 #: ../comps-f14.xml.in.h:77 ../comps-f15.xml.in.h:79 ../comps-f16.xml.in.h:79
 #: ../comps-f17.xml.in.h:80 ../comps-el6.xml.in.h:93
@@ -435,7 +437,7 @@ msgstr "芬蘭文支援"
 #: ../comps-f14.xml.in.h:81 ../comps-f15.xml.in.h:83 ../comps-f16.xml.in.h:83
 #: ../comps-f17.xml.in.h:84
 msgid "Font design and packaging"
-msgstr "字型設計與封裝"
+msgstr "字型設計與打包"
 
 #: ../comps-f14.xml.in.h:82 ../comps-f15.xml.in.h:84 ../comps-f16.xml.in.h:84
 #: ../comps-f17.xml.in.h:85 ../comps-el6.xml.in.h:97
@@ -467,9 +469,7 @@ msgstr "弗留利文支援"
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr ""
-"從燒錄 CD 到播放音效 CD 與多媒體檔案，這個套件群組讓您可以在系統上使用音效與"
-"視訊的功能。"
+msgstr "從燒錄 CD 到播放音效 CD 與多媒體檔案，這個套件群組讓您可以在系統上使用音效與視訊的功能。"
 
 #: ../comps-f14.xml.in.h:88 ../comps-f15.xml.in.h:90 ../comps-f16.xml.in.h:90
 #: ../comps-f17.xml.in.h:91 ../comps-el4.xml.in.h:20 ../comps-el5.xml.in.h:24
@@ -486,9 +486,7 @@ msgstr "GNOME 軟體開發"
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME 是個功能強大的圖形使用者介面，它含有面板、桌面、系統圖示以及圖形化的檔"
-"案管理員。"
+msgstr "GNOME 是個功能強大的圖形使用者介面，它含有面板、桌面、系統圖示以及圖形化的檔案管理員。"
 
 #: ../comps-f14.xml.in.h:91 ../comps-f15.xml.in.h:93 ../comps-f16.xml.in.h:93
 #: ../comps-f17.xml.in.h:94 ../comps-el6.xml.in.h:103
@@ -627,7 +625,7 @@ msgstr "安裝這些工具以啟用系統的列印功能或當作列印伺服器
 #: ../comps-el4.xml.in.h:29 ../comps-el5.xml.in.h:34
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr "安裝這個套件群組以使用基礎的圖形(X)使用者介面。"
+msgstr "安裝這個套件群組以使用基礎的圖形 (X) 使用者介面。"
 
 #: ../comps-f14.xml.in.h:115 ../comps-f15.xml.in.h:118
 #: ../comps-f16.xml.in.h:118 ../comps-f17.xml.in.h:120
@@ -750,10 +748,9 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-msgstr ""
-"LXDE 是個為低階規格的電腦 (如手提電腦、行動裝置或較舊的電腦) 所設計的輕型 "
-"X11 桌面環境。"
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
+msgstr "LXDE 是個為低階規格的電腦 (如手提電腦、行動裝置或較舊的電腦) 所設計的輕型 X11 桌面環境。"
 
 #: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:140
 #: ../comps-f16.xml.in.h:140 ../comps-f17.xml.in.h:142
@@ -970,7 +967,7 @@ msgstr "辦公軟體/生產力軟體"
 #: ../comps-f14.xml.in.h:173 ../comps-f15.xml.in.h:184
 #: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:187
 msgid "Older bitmap and vector fonts packages"
-msgstr "較舊的 bitmap 與向量字型套件"
+msgstr "較舊的點陣與向量字型套件"
 
 #: ../comps-f14.xml.in.h:174 ../comps-f15.xml.in.h:185
 #: ../comps-f16.xml.in.h:185 ../comps-f17.xml.in.h:188
@@ -993,7 +990,7 @@ msgstr "奧利亞文支援"
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
-msgstr "提供開發及建立應用程式功能的套件"
+msgstr "提供開發及建立應用程式功能的套件。"
 
 #: ../comps-f14.xml.in.h:178 ../comps-f15.xml.in.h:189
 #: ../comps-f16.xml.in.h:189 ../comps-f17.xml.in.h:192
@@ -1137,9 +1134,7 @@ msgstr "索馬利文支援"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr ""
-"這些程式可讓您可以建立、編輯文字檔案，有時候稱為文字編輯器。這包括了 Emacs "
-"與 Vi。"
+msgstr "這些程式可讓您可以建立、編輯文字檔案，有時候稱為文字編輯器。這包括了 Emacs 與 Vi。"
 
 #: ../comps-f14.xml.in.h:203 ../comps-f15.xml.in.h:218
 #: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:221
@@ -1175,8 +1170,7 @@ msgstr "Sugar 桌面環境"
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
-msgstr ""
-"為所有 Feodra 中的 32 位元 Windows 目標支援跨編譯程式，測試以及建置安裝程式。"
+msgstr "為所有 Feodra 中的 32 位元 Windows 目標支援跨編譯程式，測試以及建置安裝程式。"
 
 #: ../comps-f14.xml.in.h:209 ../comps-f15.xml.in.h:224
 #: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:227
@@ -1264,7 +1258,7 @@ msgstr "德頓文支援"
 #: ../comps-f14.xml.in.h:223 ../comps-f15.xml.in.h:238
 #: ../comps-f16.xml.in.h:238 ../comps-f17.xml.in.h:241
 msgid "Text and other Free content."
-msgstr "文書以及其它免費內容。"
+msgstr "文字以及其他自由內容。"
 
 #: ../comps-f14.xml.in.h:224 ../comps-f15.xml.in.h:239
 #: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:242
@@ -1285,8 +1279,7 @@ msgid ""
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
 msgstr ""
-"KDE SC 所包含的 KDE Plasma 桌面是個功能強大的圖形使用者介面，它含有面板、桌"
-"面、系統圖示與桌面元件，以及許多強大的 KDE 應用軟體。"
+"KDE SC 所包含的 KDE Plasma 桌面是個功能強大的圖形使用者介面，它含有面板、桌面、系統圖示與桌面元件，以及許多強大的 KDE 應用軟體。"
 
 #: ../comps-f14.xml.in.h:227 ../comps-f15.xml.in.h:242
 #: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:245
@@ -1297,7 +1290,8 @@ msgstr "應用程式包括了辦公室套裝軟體、PDF 檢視器等等。"
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr "這個群組中的套件是用來開發應用程式所需的主要函式庫。"
 
 #: ../comps-f14.xml.in.h:229 ../comps-f15.xml.in.h:244
@@ -1351,8 +1345,8 @@ msgstr "這些套件提供了較早版本的相容性支援。"
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr "這些套件提供了多種不同的區域設定，包括字型與輸入法。"
 
 #: ../comps-f14.xml.in.h:238 ../comps-f15.xml.in.h:254
@@ -1360,9 +1354,7 @@ msgstr "這些套件提供了多種不同的區域設定，包括字型與輸入
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
-msgstr ""
-"這些工具讓您以 DocBook 的格式建立文件，並且將它轉換為 HTML, PDF, Postscript "
-"和純文字。"
+msgstr "這些工具讓您以 DocBook 的格式建立文件，並且將它轉換為 HTML、PDF、Postscript 和純文字。"
 
 #: ../comps-f14.xml.in.h:239 ../comps-f15.xml.in.h:255
 #: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:258
@@ -1382,8 +1374,7 @@ msgstr "這些工具讓您可以在系統上執行 FTP 伺服器。"
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr ""
-"這些工具包括主要的開發工具，例如 automake, gcc, perl, python 以及 debuggers。"
+msgstr "這些工具包括主要的開發工具，例如 automake, gcc, perl, python 以及 debuggers。"
 
 #: ../comps-f14.xml.in.h:242 ../comps-f15.xml.in.h:258
 #: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:261
@@ -1393,7 +1384,8 @@ msgstr "這個群組讓您可以設定系統為新聞伺服器。"
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr "這個群組包括所有 Red Hat 自訂的伺服器設定工具。"
 
 #: ../comps-f14.xml.in.h:244 ../comps-f15.xml.in.h:260
@@ -1401,7 +1393,7 @@ msgstr "這個群組包括所有 Red Hat 自訂的伺服器設定工具。"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr "這群組包括了最少的套件。這對建立小型路由器 / 防火牆電腦特別有用。"
+msgstr "這群組包括了最少的套件。這對建立小型路由器/防火牆電腦特別有用。"
 
 #: ../comps-f14.xml.in.h:245 ../comps-f15.xml.in.h:261
 #: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:264
@@ -1429,18 +1421,15 @@ msgstr "這個群組包括了幫助您處理與掃描影像的套件。"
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr ""
-"這個群組包括文字介面的電子郵件、網頁與聊天使用者端。這些應用程式 並不需要 X "
-"視窗系統。"
+msgstr "這個群組包括文字介面的電子郵件、網頁與聊天使用者端。這些應用程式 並不需要 X 視窗系統。"
 
 #: ../comps-f14.xml.in.h:249 ../comps-f15.xml.in.h:265
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
-msgstr ""
-"這個群組是系統中圖形管理工具的收集，例如用來管理使用者帳號與設定系統硬體。"
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
+msgstr "這個群組是系統中圖形管理工具的收集，例如用來管理使用者帳號與設定系統硬體。"
 
 #: ../comps-f14.xml.in.h:250 ../comps-f15.xml.in.h:266
 #: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:269
@@ -1469,9 +1458,7 @@ msgstr "此群組含有一組用來設計、修改、操作，以及封裝字型
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr ""
-"這個群組是系統上許多種工具的收集，例如用來連線到網路芳鄰 (SAMBA) 共享的使用者"
-"端，以及用來監視網路流量的工具等等。"
+msgstr "這個群組是系統上許多種工具的收集，例如用來連線到網路芳鄰 (SAMBA) 共享的使用者端，以及用來監視網路流量的工具等等。"
 
 #: ../comps-f14.xml.in.h:254 ../comps-f15.xml.in.h:270
 #: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:274
@@ -1482,8 +1469,8 @@ msgstr "這個套件群組讓您可以在系統上執行 DNS 名稱伺服器 (BI
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr "這個套件群組使您可以在 Linux 與 MS Windows(tm) 系統間共享檔案。"
 
 #: ../comps-f14.xml.in.h:256 ../comps-f15.xml.in.h:272
@@ -1674,7 +1661,7 @@ msgstr "楚瓦什文支援"
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
-msgstr ""
+msgstr "設計套組"
 
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
@@ -1757,7 +1744,7 @@ msgstr "這些套件能夠幫助您開發 LibreOffice 擴充功能或巨集程�
 msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
-msgstr ""
+msgstr "這些套件是針對專業設計師打造的，例如 Fedora 設計團隊。"
 
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
@@ -1780,18 +1767,16 @@ msgid "Yiddish Support"
 msgstr "意第緒文支援"
 
 #: ../comps-f17.xml.in.h:39
-#, fuzzy
 msgid "Cloud Infrastructure"
-msgstr "網路基礎架構伺服器"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:112
 msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "應用程式"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1809,9 +1794,7 @@ msgstr "撥號網路作業支援"
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME 是個功能強大的圖形化使用者介面，它含有面板、桌面、系統圖示，以及圖形化"
-"的檔案管理員。"
+msgstr "GNOME 是個功能強大的圖形化使用者介面，它含有面板、桌面、系統圖示，以及圖形化的檔案管理員。"
 
 #: ../comps-el4.xml.in.h:33 ../comps-el5.xml.in.h:36
 msgid "KDE (K Desktop Environment)"
@@ -1819,19 +1802,15 @@ msgstr "KDE 桌面環境"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDE 是個功能強大的圖形化使用者介面，它含有面板、桌面、系統圖示，以及圖形化檔"
-"案管理員。"
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
+msgstr "KDE 是個功能強大的圖形化使用者介面，它含有面板、桌面、系統圖示，以及圖形化檔案管理員。"
 
 #: ../comps-el4.xml.in.h:44 ../comps-el5.xml.in.h:47
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr ""
-"這些是讓您可以建立與編輯檔案的程式，有時候稱為文字編輯器。這些包括了 Emacs "
-"與 Vi。"
+msgstr "這些是讓您可以建立與編輯檔案的程式，有時候稱為文字編輯器。這些包括了 Emacs 與 Vi。"
 
 #: ../comps-el4.xml.in.h:50 ../comps-el5.xml.in.h:51
 msgid "The XEmacs text editor."
@@ -1841,9 +1820,7 @@ msgstr "XEmacs 文字編輯器。"
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr ""
-"這些工具可讓您建立 DocBook 格式的說明文件，並將它們轉換為 HTML、PDF、"
-"Postscript 與文字。"
+msgstr "這些工具可讓您建立 DocBook 格式的說明文件，並將它們轉換為 HTML、PDF、Postscript 與文字。"
 
 #: ../comps-el4.xml.in.h:64 ../comps-el5.xml.in.h:65
 msgid "This group is a collection of network servers for specific purposes"
@@ -2008,7 +1985,7 @@ msgstr "除錯工具"
 
 #: ../comps-el6.xml.in.h:58
 msgid "Design and Simulation tools for hardware engineers."
-msgstr "硬體工程師的設計和模擬工具"
+msgstr "硬體工程師的設計和模擬工具。"
 
 #: ../comps-el6.xml.in.h:59
 msgid "Desktop"
@@ -2337,10 +2314,9 @@ msgstr "智慧卡支援"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
-msgstr ""
-"設計來支援使用基於 RDMA 的 InfiniBand 和 iWARP 機轉的叢集和網格連接的軟體。"
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
+msgstr "設計來支援使用基於 RDMA 的 InfiniBand 和 iWARP 機轉的叢集和網格連接的軟體。"
 
 #: ../comps-el6.xml.in.h:222
 msgid "Software for creation and manipulation of still images."
@@ -2437,7 +2413,8 @@ msgid ""
 msgstr "偵錯不正常應用程式和診斷效能問題的工具。"
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr "診斷系統和應用軟體層級效能問題的工具。"
 
 #: ../comps-el6.xml.in.h:260
@@ -2517,8 +2494,4 @@ msgstr "iSCSI 客戶端支援"
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr "iSCSI、iSER 與 iSNS 網路儲存體伺服器。"
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Moblin 桌面環境"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr "Moblin 是個為 NetBook/NetTop 裝置所設計的桌面環境。"

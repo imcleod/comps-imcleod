@@ -1,22 +1,28 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Leonid Kanter <leon@geon.donetsk.ua>, 2003.
+# Leonid Kanter <leon@asplinux.ru>, 2004, 2006.
+# Dmitri Alenitchev <alenitchev@nm.ru>, 2005.
+# Yulia <ypoyarko@redhat.com>, 2006, 2008, 2009, 2010.
+# Anatoliy Guskov <anatoliy.guskov@gmail.com>, 2009.
+# Misha Shnurapet <shnurapet@fedoraproject.org>, 2011.
+# Andrew Martynov <andrewm@inventa.ru>, 2004, 2005, 2006.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: Russian <trans-ru@lists.fedoraproject.org>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
 #: ../comps-f17.xml.in.h:1 ../comps-el6.xml.in.h:5
@@ -32,8 +38,8 @@ msgstr "Набор приложений, составляющих критиче
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr "Набор пакетов, составляющий критический путь для GNOME"
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
@@ -437,7 +443,7 @@ msgstr "Поддержка финского языка"
 #: ../comps-f14.xml.in.h:81 ../comps-f15.xml.in.h:83 ../comps-f16.xml.in.h:83
 #: ../comps-f17.xml.in.h:84
 msgid "Font design and packaging"
-msgstr "Дизайн шрифтов и их сборка"
+msgstr "Создание и сборка шрифтов"
 
 #: ../comps-f14.xml.in.h:82 ../comps-f15.xml.in.h:84 ../comps-f16.xml.in.h:84
 #: ../comps-f17.xml.in.h:85 ../comps-el6.xml.in.h:97
@@ -489,9 +495,8 @@ msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
 msgstr ""
-"GNOME &mdash; это мощный графический интерфейс пользователя, который "
-"включает панель, рабочий стол, системные пиктограммы и графический менеджер "
-"файлов."
+"GNOME — мощный графический интерфейс пользователя, который включает в себя "
+"панель, рабочий стол, системные пиктограммы и графический менеджер файлов."
 
 #: ../comps-f14.xml.in.h:91 ../comps-f15.xml.in.h:93 ../comps-f16.xml.in.h:93
 #: ../comps-f17.xml.in.h:94 ../comps-el6.xml.in.h:103
@@ -759,7 +764,8 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXDE представляет собой облегчённый вариант графической среды X11, который "
 "оптимально подходит для компьютеров с низкой спецификацией оборудования: "
@@ -1219,7 +1225,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:231
 #: ../comps-el4.xml.in.h:47
 msgid "Support for running programs written in the Java programming language."
-msgstr "Поддержка запуска программ, написанных на языке программирования Java."
+msgstr ""
+"Поддержка запуска программ, написанных на языке программирования Java."
 
 #: ../comps-f14.xml.in.h:214 ../comps-f15.xml.in.h:229
 #: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:232
@@ -1314,7 +1321,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr "Эта группа содержит библиотеки необходимые для разработки приложений."
 
 #: ../comps-f14.xml.in.h:229 ../comps-f15.xml.in.h:244
@@ -1372,8 +1380,8 @@ msgstr "Эти пакеты обеспечивают совместимость 
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 "Эти пакеты обеспечивают поддержку различных региональных настроек, включая "
 "шрифты и метод ввода."
@@ -1406,8 +1414,8 @@ msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
 msgstr ""
-"Эти средства включают основные средства разработки, такие как automake, gcc, "
-"perl, python и отладчики."
+"Эти средства включают основные средства разработки, такие как automake, gcc,"
+" perl, python и отладчики."
 
 #: ../comps-f14.xml.in.h:242 ../comps-f15.xml.in.h:258
 #: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:261
@@ -1417,10 +1425,11 @@ msgstr "Эта группа позволяет использовать сист
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
-"Эта группа включает в себя все средства администрирования сервера, созданные "
-"Red Hat."
+"Эта группа включает в себя все средства администрирования сервера, созданные"
+" Red Hat."
 
 #: ../comps-f14.xml.in.h:244 ../comps-f15.xml.in.h:260
 #: ../comps-f16.xml.in.h:260 ../comps-f17.xml.in.h:263
@@ -1435,7 +1444,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:264
 #: ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:60
 msgid "This group includes graphical email, Web, and chat clients."
-msgstr "Эта группа включает графические клиенты электронной почты, веб и чата."
+msgstr ""
+"Эта группа включает графические клиенты электронной почты, веб и чата."
 
 #: ../comps-f14.xml.in.h:246 ../comps-f15.xml.in.h:262
 #: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:265
@@ -1470,8 +1480,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Эта группа содержит графические приложения для настройки системы. С помощью "
 "этих приложений можно добавить новых пользователей, настроить звук, "
@@ -1482,7 +1492,8 @@ msgstr ""
 #: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:67
 msgid ""
 "This group is a collection of tools and resources of Armenian environments."
-msgstr "Эта группа содержит набор утилит и ресурсов для армянской локализации."
+msgstr ""
+"Эта группа содержит набор утилит и ресурсов для армянской локализации."
 
 #: ../comps-f14.xml.in.h:251 ../comps-f15.xml.in.h:267
 #: ../comps-f16.xml.in.h:267 ../comps-f17.xml.in.h:270
@@ -1521,8 +1532,8 @@ msgstr "Пакеты в этой группе позволят установи�
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "Эта группа пакетов делает возможным доступ к файлам между системами Linux и "
 "MS Windows(tm)."
@@ -1715,7 +1726,7 @@ msgstr "Поддержка чувашского языка"
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
-msgstr ""
+msgstr "Комплект программ дизайнера"
 
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
@@ -1801,6 +1812,8 @@ msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
 msgstr ""
+"Пакеты, предназначенные для профессиональных дизайнеров, таких, как команда "
+"дизайнеров Fedora."
 
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
@@ -1823,18 +1836,16 @@ msgid "Yiddish Support"
 msgstr "Поддержка языка идиш"
 
 #: ../comps-f17.xml.in.h:39
-#, fuzzy
 msgid "Cloud Infrastructure"
-msgstr "Сервер сетевой инфраструктуры"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:112
 msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Приложения"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1863,8 +1874,8 @@ msgstr "Графическая среда KDE"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE &mdash; это мощный графический интерфейс, включающий в себя панель "
 "приложений, рабочий стол, системные значки и графический менеджер файлов."
@@ -2046,8 +2057,8 @@ msgid ""
 "Compatibility programs for migration from or working with legacy UNIX "
 "environments."
 msgstr ""
-"Программы совместимости для миграции с устаревших UNIX-сред или для работы в "
-"них."
+"Программы совместимости для миграции с устаревших UNIX-сред или для работы в"
+" них."
 
 #: ../comps-el6.xml.in.h:49
 msgid ""
@@ -2060,7 +2071,8 @@ msgstr ""
 #: ../comps-el6.xml.in.h:50
 msgid "Console internet access tools, often used by administrators."
 msgstr ""
-"Консольные средства доступа к интернету, часто используемые администраторами."
+"Консольные средства доступа к интернету, часто используемые "
+"администраторами."
 
 #: ../comps-el6.xml.in.h:51
 msgid "Console internet tools"
@@ -2349,7 +2361,8 @@ msgstr "Клиент печати"
 
 #: ../comps-el6.xml.in.h:196
 msgid "Provides an environment for hosting virtualized guests."
-msgstr "Предоставляет среду для размещения виртуализированных гостевых систем."
+msgstr ""
+"Предоставляет среду для размещения виртуализированных гостевых систем."
 
 #: ../comps-el6.xml.in.h:197
 msgid ""
@@ -2414,8 +2427,8 @@ msgstr "Поддержка смарт-карт"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 "Программное обеспечение, предназначенное для поддержки кластеризации и "
 "подключения к сети с помощью InfiniBand и iWARP на основе RDMA."
@@ -2517,11 +2530,12 @@ msgid ""
 "Tools for debugging misbehaving applications and diagnosing performance "
 "problems."
 msgstr ""
-"Инструменты для отладки неправильно работающих приложений и диагностирования "
-"проблем с производительностью."
+"Инструменты для отладки неправильно работающих приложений и диагностирования"
+" проблем с производительностью."
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 "Инструменты для диагностирования системных и прикладных проблем с "
 "производительностью."
@@ -2606,10 +2620,4 @@ msgstr "Поддержка клиента iSCSI"
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr "Сервер сетевого хранилища с использованием iSCSI, iSER и iSNS."
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Графическая среда Moblin"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr ""
-#~ "Moblin представляет собой окружение рабочего стола для устройств NetBook/"
-#~ "NetTop."

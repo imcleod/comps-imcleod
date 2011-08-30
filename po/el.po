@@ -1,20 +1,24 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Dimitris Michelinakis <dimitris@michelinakis.gr>, 2006.
+# Dimitris Glezos <dimitris@glezos.com>, 2006, 2007.
+# jiannis  <jbonatakis@gmail.com>, 2011.
+# Nikos Charonitakis <nikosx@gmail.com>, 2002, 2007.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: Greek <trans-el@lists.fedoraproject.org>\n"
-"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
@@ -27,13 +31,13 @@ msgstr ""
 #: ../comps-f14.xml.in.h:2 ../comps-f15.xml.in.h:2 ../comps-f16.xml.in.h:2
 #: ../comps-f17.xml.in.h:2
 msgid "A set of applications that are considered critical path"
-msgstr ""
+msgstr "Ένα σύνολο εφαρμογών που θεώρείτε critical path"
 
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr "Μια ομάδα πακέτων που παρέχει τη λειτουργίες Critical Path στο GNOME"
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
@@ -42,6 +46,7 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
 msgstr ""
+"Ένα σύνολο πακέτων που παρέχει τo Critical Path λειτουργειάς για το KDE"
 
 #: ../comps-f14.xml.in.h:5 ../comps-f15.xml.in.h:5 ../comps-f16.xml.in.h:5
 #: ../comps-f17.xml.in.h:5
@@ -49,6 +54,7 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
 msgstr ""
+"Ένα σύνολο πακέτων που παρέχει τo Critical Path λειτουργειάς για το LXDE"
 
 #: ../comps-f14.xml.in.h:6 ../comps-f15.xml.in.h:6 ../comps-f16.xml.in.h:6
 #: ../comps-f17.xml.in.h:6
@@ -56,6 +62,7 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
 msgstr ""
+"Ένα σύνολο πακέτων που παρέχει τo Critical Path λειτουργειάς για το Xfce"
 
 #: ../comps-f14.xml.in.h:7 ../comps-f15.xml.in.h:7 ../comps-f16.xml.in.h:7
 #: ../comps-f17.xml.in.h:7
@@ -231,7 +238,7 @@ msgstr "Υποστήριξη συστοίχισης"
 #: ../comps-f14.xml.in.h:40 ../comps-f15.xml.in.h:41 ../comps-f16.xml.in.h:41
 #: ../comps-f17.xml.in.h:42
 msgid "Content"
-msgstr ""
+msgstr "Περιεχόμενο"
 
 #: ../comps-f14.xml.in.h:41 ../comps-f15.xml.in.h:42 ../comps-f16.xml.in.h:42
 #: ../comps-f17.xml.in.h:43 ../comps-el6.xml.in.h:52
@@ -246,7 +253,7 @@ msgstr "Πυρήνας"
 #: ../comps-f14.xml.in.h:43 ../comps-f15.xml.in.h:44 ../comps-f16.xml.in.h:44
 #: ../comps-f17.xml.in.h:45
 msgid "Critical Path (Applications)"
-msgstr ""
+msgstr "Critical Path (Εφαρμογές)"
 
 #: ../comps-f14.xml.in.h:44 ../comps-f15.xml.in.h:45 ../comps-f16.xml.in.h:45
 #: ../comps-f17.xml.in.h:46
@@ -261,17 +268,17 @@ msgstr "Critical Path (GNOME)"
 #: ../comps-f14.xml.in.h:46 ../comps-f15.xml.in.h:47 ../comps-f16.xml.in.h:47
 #: ../comps-f17.xml.in.h:48
 msgid "Critical Path (KDE)"
-msgstr ""
+msgstr "Critical Path (KDE)"
 
 #: ../comps-f14.xml.in.h:47 ../comps-f15.xml.in.h:48 ../comps-f16.xml.in.h:48
 #: ../comps-f17.xml.in.h:49
 msgid "Critical Path (LXDE)"
-msgstr ""
+msgstr "Critical Path (LXDE)"
 
 #: ../comps-f14.xml.in.h:48 ../comps-f15.xml.in.h:49 ../comps-f16.xml.in.h:49
 #: ../comps-f17.xml.in.h:50
 msgid "Critical Path (Xfce)"
-msgstr ""
+msgstr "Critical Path (Xfce)"
 
 #: ../comps-f14.xml.in.h:49 ../comps-f15.xml.in.h:50 ../comps-f16.xml.in.h:50
 #: ../comps-f17.xml.in.h:51 ../comps-el6.xml.in.h:54
@@ -424,7 +431,7 @@ msgstr "Υποστήριξη Fijian"
 #: ../comps-f14.xml.in.h:78 ../comps-f15.xml.in.h:80 ../comps-f16.xml.in.h:80
 #: ../comps-f17.xml.in.h:81
 msgid "Filesystems"
-msgstr ""
+msgstr "Συστήματα Αρχείων"
 
 #: ../comps-f14.xml.in.h:79 ../comps-f15.xml.in.h:81 ../comps-f16.xml.in.h:81
 #: ../comps-f17.xml.in.h:82 ../comps-el6.xml.in.h:94
@@ -472,8 +479,8 @@ msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr ""
-"Αυτή η ομάδα πακέτων επιτρέπει στο σύστημα την επεξεργασία ήχου και εικόνας, "
-"από εγγραφή CD μέχρι αναπαραγωγή μουσικών CD και αρχείων πολυμέσων."
+"Αυτή η ομάδα πακέτων επιτρέπει στο σύστημα την επεξεργασία ήχου και εικόνας,"
+" από εγγραφή CD μέχρι αναπαραγωγή μουσικών CD και αρχείων πολυμέσων."
 
 #: ../comps-f14.xml.in.h:88 ../comps-f15.xml.in.h:90 ../comps-f16.xml.in.h:90
 #: ../comps-f17.xml.in.h:91 ../comps-el4.xml.in.h:20 ../comps-el5.xml.in.h:24
@@ -765,7 +772,8 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "Το LXDE είναι μια ελαφριά επιφάνεια εργασίας X11 που αποδίδει πολύ καλά σε "
 "συσκευές όπως netbooks και φορητές συσκευές όπως και σε παλαιότερα "
@@ -901,18 +909,20 @@ msgstr "Υποστήριξη Marathi"
 #: ../comps-f14.xml.in.h:158 ../comps-f15.xml.in.h:167
 #: ../comps-f16.xml.in.h:167 ../comps-f17.xml.in.h:170
 msgid "MeeGo NetBook UX Environment"
-msgstr ""
+msgstr "Περιβάλλον MeeGo NetBook UX"
 
 #: ../comps-f14.xml.in.h:159 ../comps-f15.xml.in.h:168
 #: ../comps-f16.xml.in.h:168 ../comps-f17.xml.in.h:171
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
 msgstr ""
+"Το MeeGo NetBook UX είναι ένα περιβάλλον εργασίας για συσκευές "
+"NetBook/NetTop."
 
 #: ../comps-f14.xml.in.h:160 ../comps-f15.xml.in.h:169
 #: ../comps-f16.xml.in.h:169 ../comps-f17.xml.in.h:172
 #: ../comps-el6.xml.in.h:163
 msgid "Milkymist"
-msgstr ""
+msgstr "Milkymist"
 
 #: ../comps-f14.xml.in.h:161 ../comps-f15.xml.in.h:170
 #: ../comps-f16.xml.in.h:170 ../comps-f17.xml.in.h:173
@@ -995,7 +1005,7 @@ msgstr "Διαδυκτιακή  βοήθεια και τεκμηρίωση"
 
 #: ../comps-f14.xml.in.h:175
 msgid "OpenOffice.org Development"
-msgstr ""
+msgstr "Ανάπτυξη OpenOffice.org"
 
 #: ../comps-f14.xml.in.h:176 ../comps-f15.xml.in.h:186
 #: ../comps-f16.xml.in.h:186 ../comps-f17.xml.in.h:189
@@ -1287,7 +1297,7 @@ msgstr "Υποστήριξη Tetum"
 #: ../comps-f14.xml.in.h:223 ../comps-f15.xml.in.h:238
 #: ../comps-f16.xml.in.h:238 ../comps-f17.xml.in.h:241
 msgid "Text and other Free content."
-msgstr ""
+msgstr "Κείμενο και επιπλέον Ελεύθερo περιεχόμενο."
 
 #: ../comps-f14.xml.in.h:224 ../comps-f15.xml.in.h:239
 #: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:242
@@ -1308,19 +1318,23 @@ msgid ""
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
 msgstr ""
+"Το KDE είναι ένα ισχυρό, γραφικό περιβάλλον που περιέχει, μεταξύ άλλων, "
+"πίνακα εφαρμογών, επιφάνεια εργασίας, εικονίδια συστήματος και γραφικό "
+"διαχειριστή αρχείων."
 
 #: ../comps-f14.xml.in.h:227 ../comps-f15.xml.in.h:242
 #: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:245
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:52
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr ""
-"Αυτές οι εφαρμογές περιλαμβάνουν σουίτες γραφείου, προβολείς αρχείων PDF και "
-"πολλά άλλα."
+"Αυτές οι εφαρμογές περιλαμβάνουν σουίτες γραφείου, προβολείς αρχείων PDF και"
+" πολλά άλλα."
 
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Αυτή η ομάδα περιλαμβάνει πακέτα με κεντρικές βιβλιοθήκες που χρειάζονται "
 "στην ανάπτυξη λογισμικού."
@@ -1346,6 +1360,8 @@ msgid ""
 "These packages are helpful when developing OpenOffice.org extensions or "
 "macros."
 msgstr ""
+"Τα πακέτα αυτά σας βοηθάνε να αναπτύξετε επεκτάσεις και macros για το "
+"OpenOffice.org."
 
 #: ../comps-f14.xml.in.h:232 ../comps-f15.xml.in.h:247
 #: ../comps-f16.xml.in.h:247 ../comps-f17.xml.in.h:250
@@ -1387,11 +1403,11 @@ msgstr ""
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
-"Τα πακέτα αυτά παρέχουν υποστήριξη τοποθεσίας με γραμματοσειρές και μεθόδους "
-"εισαγωγής κειμένου."
+"Τα πακέτα αυτά παρέχουν υποστήριξη τοποθεσίας με γραμματοσειρές και μεθόδους"
+" εισαγωγής κειμένου."
 
 #: ../comps-f14.xml.in.h:238 ../comps-f15.xml.in.h:254
 #: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:257
@@ -1407,7 +1423,8 @@ msgstr ""
 #: ../comps-el4.xml.in.h:55 ../comps-el5.xml.in.h:56
 msgid "These tools allow you to run a Web server on the system."
 msgstr ""
-"Αυτά τα εργαλεία επιτρέπουν τη λειτουργία διακομιστή Ιστού (Web) στο σύστημα."
+"Αυτά τα εργαλεία επιτρέπουν τη λειτουργία διακομιστή Ιστού (Web) στο "
+"σύστημα."
 
 #: ../comps-f14.xml.in.h:240 ../comps-f15.xml.in.h:256
 #: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:259
@@ -1434,7 +1451,8 @@ msgstr ""
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Αυτή η ομάδα περιλαμβάνει εργαλεία ρύθμισης εξυπηρετητών που αναπτύχθηκαν "
 "από την Red Hat."
@@ -1479,15 +1497,16 @@ msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Αυτή η ομάδα περιλαμβάνει πελάτες email, Ιστού και συνομιλίας βασισμένους σε "
-"κείμενο κονσόλας. Αυτές οι εφαρμογές δε χρειάζονται το Παραθυρικό σύστημα Χ."
+"Αυτή η ομάδα περιλαμβάνει πελάτες email, Ιστού και συνομιλίας βασισμένους σε"
+" κείμενο κονσόλας. Αυτές οι εφαρμογές δε χρειάζονται το Παραθυρικό σύστημα "
+"Χ."
 
 #: ../comps-f14.xml.in.h:249 ../comps-f15.xml.in.h:265
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Αυτή η ομάδα είναι μια συλλογή από γραφικά εργαλεία διαχείρισης συστήματος, "
 "όπως είναι διαχείριση λογαριασμών χρηστών και ρύθμιση υλικού."
@@ -1497,7 +1516,8 @@ msgstr ""
 #: ../comps-el4.xml.in.h:66 ../comps-el5.xml.in.h:67
 msgid ""
 "This group is a collection of tools and resources of Armenian environments."
-msgstr "Αυτή η ομάδα είναι μια συλλογή από εργαλεία για Αρμενικά περιβάλλοντα."
+msgstr ""
+"Αυτή η ομάδα είναι μια συλλογή από εργαλεία για Αρμενικά περιβάλλοντα."
 
 #: ../comps-f14.xml.in.h:251 ../comps-f15.xml.in.h:267
 #: ../comps-f16.xml.in.h:267 ../comps-f17.xml.in.h:270
@@ -1539,8 +1559,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "Αυτή η ομάδα πακέτων σας επιτρέπει να μοιράζεστε αρχεία μεταξύ συστημάτων "
 "Linux και MS Windows(tm)."
@@ -1571,7 +1591,7 @@ msgstr "Υποστήριξη Tonga"
 #: ../comps-f16.xml.in.h:277 ../comps-f17.xml.in.h:281
 #: ../comps-el6.xml.in.h:253
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr ""
+msgstr "Το Toolchain για τις μηχανές Milkymist."
 
 #: ../comps-f14.xml.in.h:261 ../comps-f15.xml.in.h:278
 #: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:282
@@ -1727,11 +1747,11 @@ msgstr "Υποστήριξη Ζουλού"
 
 #: ../comps-f15.xml.in.h:11 ../comps-f16.xml.in.h:11 ../comps-f17.xml.in.h:11
 msgid "Akan Support"
-msgstr ""
+msgstr "Υποστήριξη Akan"
 
 #: ../comps-f15.xml.in.h:38 ../comps-f16.xml.in.h:38 ../comps-f17.xml.in.h:38
 msgid "Chuvash Support"
-msgstr ""
+msgstr "Υποστήριξη Chuvash"
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
@@ -1740,42 +1760,42 @@ msgstr ""
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
 msgid "Haitian Creole Support"
-msgstr ""
+msgstr "Υποστήριξη Haitian Creole"
 
 #: ../comps-f15.xml.in.h:137 ../comps-f16.xml.in.h:137
 #: ../comps-f17.xml.in.h:139
 msgid "Kyrgyz Support"
-msgstr ""
+msgstr "Υποστήριξη Kyrgyz"
 
 #: ../comps-f15.xml.in.h:148 ../comps-f16.xml.in.h:148
 #: ../comps-f17.xml.in.h:150
 msgid "LibreOffice Development"
-msgstr ""
+msgstr "Ανάπτυξη LibreOffice"
 
 #: ../comps-f15.xml.in.h:149 ../comps-f16.xml.in.h:149
 #: ../comps-f17.xml.in.h:151
 msgid "Lingala Support"
-msgstr ""
+msgstr "Υποστήριξη Lingala"
 
 #: ../comps-f15.xml.in.h:151 ../comps-f16.xml.in.h:151
 #: ../comps-f17.xml.in.h:153
 msgid "Low German Support"
-msgstr ""
+msgstr "Υποστήριξη Low German"
 
 #: ../comps-f15.xml.in.h:153 ../comps-f16.xml.in.h:153
 #: ../comps-f17.xml.in.h:155
 msgid "Lower Sorbian Support"
-msgstr ""
+msgstr "Υποστήριξη Lower Sorbian"
 
 #: ../comps-f15.xml.in.h:154 ../comps-f16.xml.in.h:154
 #: ../comps-f17.xml.in.h:156
 msgid "Lule Sami Support"
-msgstr ""
+msgstr "Υποστήριξη Lule Sami"
 
 #: ../comps-f15.xml.in.h:172 ../comps-f16.xml.in.h:172
 #: ../comps-f17.xml.in.h:175
 msgid "Mossi Support"
-msgstr ""
+msgstr "Υποστήριξη Mossi"
 
 #: ../comps-f15.xml.in.h:178 ../comps-f16.xml.in.h:178
 #: ../comps-f17.xml.in.h:181
@@ -1785,33 +1805,35 @@ msgstr "Υποστήριξη Βόρειων Sami"
 #: ../comps-f15.xml.in.h:187 ../comps-f16.xml.in.h:187
 #: ../comps-f17.xml.in.h:190
 msgid "Oromo Support"
-msgstr ""
+msgstr "Υποστήριξη Oromo"
 
 #: ../comps-f15.xml.in.h:196 ../comps-f16.xml.in.h:196
 #: ../comps-f17.xml.in.h:199
 msgid "Quechua Support"
-msgstr ""
+msgstr "Υποστήριξη Quechua"
 
 #: ../comps-f15.xml.in.h:197 ../comps-f16.xml.in.h:197
 #: ../comps-f17.xml.in.h:200
 msgid "Robotics"
-msgstr ""
+msgstr " Ρομποτική"
 
 #: ../comps-f15.xml.in.h:207 ../comps-f16.xml.in.h:207
 #: ../comps-f17.xml.in.h:210
 msgid "Shuswap Support"
-msgstr ""
+msgstr "Υποστήριξη Shuswap"
 
 #: ../comps-f15.xml.in.h:209 ../comps-f16.xml.in.h:209
 #: ../comps-f17.xml.in.h:212
 msgid "Simplified Chinese Support"
-msgstr ""
+msgstr "Υποστήριξη Simplified Chinese"
 
 #: ../comps-f15.xml.in.h:246 ../comps-f16.xml.in.h:246
 #: ../comps-f17.xml.in.h:249
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr ""
+"Τα πακέτα αυτά σας βοηθάνε να αναπτύξετε επεκτάσεις και macros για το "
+"LibreOffice."
 
 #: ../comps-f15.xml.in.h:248 ../comps-f16.xml.in.h:248
 #: ../comps-f17.xml.in.h:251
@@ -1823,22 +1845,22 @@ msgstr ""
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
 msgid "Tigrinya Support"
-msgstr ""
+msgstr "Υποστήριξη Tigrinya"
 
 #: ../comps-f15.xml.in.h:279 ../comps-f16.xml.in.h:279
 #: ../comps-f17.xml.in.h:283
 msgid "Traditional Chinese Support"
-msgstr ""
+msgstr "Υποστήριξη Traditional Chinese"
 
 #: ../comps-f15.xml.in.h:302 ../comps-f16.xml.in.h:302
 #: ../comps-f17.xml.in.h:306 ../comps-el6.xml.in.h:291
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 #: ../comps-f15.xml.in.h:304 ../comps-f16.xml.in.h:304
 #: ../comps-f17.xml.in.h:308
 msgid "Yiddish Support"
-msgstr ""
+msgstr "Υποστήριξη Yiddish"
 
 #: ../comps-f17.xml.in.h:39
 msgid "Cloud Infrastructure"
@@ -1849,9 +1871,8 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Εφαρμογές"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1880,8 +1901,8 @@ msgstr "Επιφάνεια εργασίας KDE"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "Το KDE είναι ένα ισχυρό, γραφικό περιβάλλον που περιέχει ένα πίνακα "
 "εφαρμογών, επιφάνεια εργασίας, εικονίδια συστήματος και γραφικό διαχειριστή "
@@ -1946,19 +1967,19 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:1
 msgid "A KDE desktop."
-msgstr ""
+msgstr "To περιβάλλον KDE."
 
 #: ../comps-el6.xml.in.h:2
 msgid "A basic development environment."
-msgstr ""
+msgstr "Βασικό περιβάλλον ανάπτυξης."
 
 #: ../comps-el6.xml.in.h:3
 msgid "A full-purpose office suite, and other productivity tools."
-msgstr ""
+msgstr "Μία πλήρης σουΐτα γραφείου, και άλλα εργαλεία παραγωγικότητας."
 
 #: ../comps-el6.xml.in.h:4
 msgid "A general purpose desktop."
-msgstr ""
+msgstr "Ένα περιβάλλον γενικού σκοπού."
 
 #: ../comps-el6.xml.in.h:6
 msgid "A minimal desktop that can also be used as a thin client."
@@ -1970,7 +1991,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:8
 msgid "A set of tools to monitor server hardware"
-msgstr ""
+msgstr "Ένα ύνολο εργαλείων για την παρακολούθηση του υλικου των server"
 
 #: ../comps-el6.xml.in.h:9
 msgid "AMQP messaging broker for systems management."
@@ -2408,8 +2429,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:222
@@ -2507,7 +2528,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:260
@@ -2587,5 +2609,4 @@ msgstr ""
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr ""
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Επιφάνεια εργασίας Moblin"
+

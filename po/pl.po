@@ -1,22 +1,26 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Grzegorz Rajda <marius@w9.pl>, 2004.
+# Tom Berner <tom@man.lodz.pl>, 2004.
+# Rajmund Paczkowski <rajmund.paczkowski@gmail.com>, 2004.
+# Tom Berner <tom@lodz.pl>, 2005.
+# Piotr Drąg <piotrdrag@gmail.com>, 2011.
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Polish <None>\n"
-"Language: pl\n"
+"Language-Team: Polish (http://www.transifex.net/projects/p/fedora/team/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2)\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
 #: ../comps-f17.xml.in.h:1 ../comps-el6.xml.in.h:5
@@ -32,10 +36,11 @@ msgstr "Zestaw aplikacji uważanych za krytyczne"
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
-"Zestaw pakietów dostarczających funkcjonalność krytyczną dla środowiska GNOME"
+"Zestaw pakietów dostarczających funkcjonalność krytyczną dla środowiska "
+"GNOME"
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
 #: ../comps-f17.xml.in.h:4
@@ -610,7 +615,8 @@ msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
 msgstr ""
-"Należy zainstalować te pakiety, aby tworzyć graficzne aplikacje GTK+ i GNOME."
+"Należy zainstalować te pakiety, aby tworzyć graficzne aplikacje GTK+ i "
+"GNOME."
 
 #: ../comps-f14.xml.in.h:111 ../comps-f15.xml.in.h:114
 #: ../comps-f16.xml.in.h:114 ../comps-f17.xml.in.h:116
@@ -765,7 +771,8 @@ msgstr "LXDE"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXDE jest lekkim środowiskiem graficznym X11 zaprojektowanym dla komputerów "
 "ze słabym sprzętem, takich jak netbooki, urządzenia mobilne lub starsze "
@@ -907,8 +914,8 @@ msgstr "Środowisko graficzne MeeGo NetBook UX"
 #: ../comps-f16.xml.in.h:168 ../comps-f17.xml.in.h:171
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
 msgstr ""
-"MeeGo NetBook UX jest środowiskiem graficznym dla urządzeń typu netbook/"
-"nettop."
+"MeeGo NetBook UX jest środowiskiem graficznym dla urządzeń typu "
+"netbook/nettop."
 
 #: ../comps-f14.xml.in.h:160 ../comps-f15.xml.in.h:169
 #: ../comps-f16.xml.in.h:169 ../comps-f17.xml.in.h:172
@@ -1220,14 +1227,15 @@ msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
 msgstr ""
-"Obsługa tworzenia oprogramowania używając obiektowego języka programowania i "
-"bibliotek Caml."
+"Obsługa tworzenia oprogramowania używając obiektowego języka programowania i"
+" bibliotek Caml."
 
 #: ../comps-f14.xml.in.h:213 ../comps-f15.xml.in.h:228
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:231
 #: ../comps-el4.xml.in.h:47
 msgid "Support for running programs written in the Java programming language."
-msgstr "Obsługa uruchamiania programów napisanych w języku programowania Java."
+msgstr ""
+"Obsługa uruchamiania programów napisanych w języku programowania Java."
 
 #: ../comps-f14.xml.in.h:214 ../comps-f15.xml.in.h:229
 #: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:232
@@ -1321,7 +1329,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Pakiety z tej grupy są podstawowymi bibliotekami wymaganymi do tworzenia "
 "aplikacji."
@@ -1357,7 +1366,8 @@ msgstr "Te pakiety umożliwiają tworzenie aplikacji WWW lub stron WWW."
 #: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:252
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr "Te pakiety zawierają serwery sieciowe, takie jak DHCP, Kerberos i NIS."
+msgstr ""
+"Te pakiety zawierają serwery sieciowe, takie jak DHCP, Kerberos i NIS."
 
 #: ../comps-f14.xml.in.h:234 ../comps-f15.xml.in.h:250
 #: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:253
@@ -1365,8 +1375,8 @@ msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 msgstr ""
-"Te pakiety zawierają serwery starych protokołów sieciowych, takich jak rsh i "
-"telnet."
+"Te pakiety zawierają serwery starych protokołów sieciowych, takich jak rsh i"
+" telnet."
 
 #: ../comps-f14.xml.in.h:235 ../comps-f15.xml.in.h:251
 #: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:254
@@ -1381,8 +1391,8 @@ msgstr "Te pakiety dostarczają zgodność z poprzednimi wydaniami."
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 "Te pakiety dostarczają obsługę różnych lokalizacji, w tym czcionki i metody "
 "wprowadzania."
@@ -1427,7 +1437,8 @@ msgstr ""
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Ta grupa zawiera wszystkie narzędzia konfiguracji serwerów stworzone przez "
 "Red Hata."
@@ -1446,7 +1457,8 @@ msgstr ""
 #: ../comps-el4.xml.in.h:59 ../comps-el5.xml.in.h:60
 msgid "This group includes graphical email, Web, and chat clients."
 msgstr ""
-"Ta grupa zawiera graficzne klienty poczty elektronicznej, WWW i komunikatory."
+"Ta grupa zawiera graficzne klienty poczty elektronicznej, WWW i "
+"komunikatory."
 
 #: ../comps-f14.xml.in.h:246 ../comps-f15.xml.in.h:262
 #: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:265
@@ -1455,8 +1467,8 @@ msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
 msgstr ""
-"Ta grupa zawiera pakiety do wykonywania obliczeń matematycznych i naukowych, "
-"rysowania wykresów i konwersji jednostek."
+"Ta grupa zawiera pakiety do wykonywania obliczeń matematycznych i naukowych,"
+" rysowania wykresów i konwersji jednostek."
 
 #: ../comps-f14.xml.in.h:247 ../comps-f15.xml.in.h:263
 #: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:266
@@ -1471,15 +1483,15 @@ msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Ta grupa zawiera tekstowe klienty poczty elektronicznej, WWW i komunikatory. "
-"Te aplikacje nie wymagają systemu X Window."
+"Ta grupa zawiera tekstowe klienty poczty elektronicznej, WWW i komunikatory."
+" Te aplikacje nie wymagają systemu X Window."
 
 #: ../comps-f14.xml.in.h:249 ../comps-f15.xml.in.h:265
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Ta grupa zawiera zbiór graficznych narzędzi administracyjnych, takich jak "
 "zarządzanie kontami użytkowników i konfigurowanie sprzętu systemu."
@@ -1526,8 +1538,8 @@ msgstr "Ta grupa pakietów umożliwia uruchomienie serwera nazw DNS (BIND)."
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "Ta grupa pakietów umożliwia współdzielenie plików między systemami Linux a "
 "Microsoft Windows(tm)."
@@ -1721,7 +1733,7 @@ msgstr "Obsługa czuwaskiego"
 
 #: ../comps-f15.xml.in.h:54 ../comps-f16.xml.in.h:54 ../comps-f17.xml.in.h:55
 msgid "Design Suite"
-msgstr ""
+msgstr "Zestaw projektowania"
 
 #: ../comps-f15.xml.in.h:102 ../comps-f16.xml.in.h:102
 #: ../comps-f17.xml.in.h:103
@@ -1806,6 +1818,8 @@ msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
 msgstr ""
+"Te pakiety są przeznaczone dla zawodowych projektantów, takich jak Zespół "
+"projektantów Fedory."
 
 #: ../comps-f15.xml.in.h:275 ../comps-f16.xml.in.h:275
 #: ../comps-f17.xml.in.h:279
@@ -1828,18 +1842,16 @@ msgid "Yiddish Support"
 msgstr "Obsługa jidysz"
 
 #: ../comps-f17.xml.in.h:39
-#, fuzzy
 msgid "Cloud Infrastructure"
-msgstr "Serwer infrastruktury sieciowej"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:112
 msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Aplikacje"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1867,8 +1879,8 @@ msgstr "Środowisko graficzne KDE"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE jest graficznym interfejsem użytkownika o dużych możliwościach, "
 "zawierającym panel, pulpit, ikony systemowe oraz graficzny menedżer plików."
@@ -1939,7 +1951,8 @@ msgstr "Środowisko ogólnego przeznaczenia."
 
 #: ../comps-el6.xml.in.h:6
 msgid "A minimal desktop that can also be used as a thin client."
-msgstr "Minimalne środowisko, które może być używane także jako cienki klient."
+msgstr ""
+"Minimalne środowisko, które może być używane także jako cienki klient."
 
 #: ../comps-el6.xml.in.h:7
 msgid "A set of tools to manage SAN path availability"
@@ -1979,8 +1992,8 @@ msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
 msgstr ""
-"Umożliwia systemowi działanie jako serwer WWW oraz wykonywanie aplikacji WWW "
-"w językach Perl i Python"
+"Umożliwia systemowi działanie jako serwer WWW oraz wykonywanie aplikacji WWW"
+" w językach Perl i Python"
 
 #: ../comps-el6.xml.in.h:18
 msgid "Allows the system to act as an FTP server."
@@ -2409,8 +2422,8 @@ msgstr "Obsługa smart card"
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 "Oprogramowanie zaprojektowane do obsługiwania łączności klastrowej i "
 "gridów?? używając urządzeń InfiniBand oraz iWARP opartych na RDMA."
@@ -2509,11 +2522,12 @@ msgid ""
 "Tools for debugging misbehaving applications and diagnosing performance "
 "problems."
 msgstr ""
-"Narzędzia do debugowania błędnie zachowujących się aplikacji i diagnozowania "
-"problemów z wydajnością."
+"Narzędzia do debugowania błędnie zachowujących się aplikacji i diagnozowania"
+" problemów z wydajnością."
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 "Narzędzia do diagnozowania problemów z wydajnością na poziomie systemu i "
 "aplikacji."
@@ -2599,9 +2613,4 @@ msgstr "Obsługa klienta iSCSI"
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr "Serwer sieciowych pamięci masowych iSCSI, iSER oraz iSNS."
 
-#~ msgid "Moblin Desktop Environment"
-#~ msgstr "Środowisko graficzne Moblin"
 
-#~ msgid "Moblin is a desktop environment for NetBook/NetTop devices."
-#~ msgstr ""
-#~ "Moblin jest środowiskiem graficznym dla urządzeń typu netbook/nettop."

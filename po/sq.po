@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-08-30 14:49-0400\n"
-"PO-Revision-Date: 2011-04-15 15:12+0000\n"
+"PO-Revision-Date: 2011-08-30 18:52+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: sq\n"
+"Language-Team: Albanian (http://www.transifex.net/projects/p/fedora/team/sq/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: sq\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../comps-f14.xml.in.h:1 ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1
@@ -32,8 +32,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:3 ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3
 #: ../comps-f17.xml.in.h:3
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 
 #: ../comps-f14.xml.in.h:4 ../comps-f15.xml.in.h:4 ../comps-f16.xml.in.h:4
@@ -635,8 +635,8 @@ msgstr ""
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
 msgstr ""
-"Instalojeni këtë grup paketash për të përdorur ndërfaqen bazë grafike (X) të "
-"përdoruesit."
+"Instalojeni këtë grup paketash për të përdorur ndërfaqen bazë grafike (X) të"
+" përdoruesit."
 
 #: ../comps-f14.xml.in.h:115 ../comps-f15.xml.in.h:118
 #: ../comps-f16.xml.in.h:118 ../comps-f17.xml.in.h:120
@@ -759,7 +759,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:141
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 
 #: ../comps-f14.xml.in.h:136 ../comps-f15.xml.in.h:140
@@ -1148,7 +1149,8 @@ msgid ""
 "and edit text files. This includes Emacs and Vi."
 msgstr ""
 "Ngadonjëherë të quajtur edhe përpunuesa teksti, këto janë programe që ju "
-"lejojnë të krijoni dhe përpunoni kartela tekst. Këtu përfshihen Emacs dhe Vi."
+"lejojnë të krijoni dhe përpunoni kartela tekst. Këtu përfshihen Emacs dhe "
+"Vi."
 
 #: ../comps-f14.xml.in.h:203 ../comps-f15.xml.in.h:218
 #: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:221
@@ -1304,9 +1306,11 @@ msgstr "Zbatime përfshijnë suita zyre, parësa PDF-sh, dhe të tjera."
 #: ../comps-f14.xml.in.h:228 ../comps-f15.xml.in.h:243
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:246
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
-"Paketat në këtë gruo janë librari bazë të domosdoshme për zhvillim zbatimesh."
+"Paketat në këtë gruo janë librari bazë të domosdoshme për zhvillim "
+"zbatimesh."
 
 #: ../comps-f14.xml.in.h:229 ../comps-f15.xml.in.h:244
 #: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:247
@@ -1363,8 +1367,8 @@ msgstr "Këto paketa ofrojnë përputhshmëri me versione të mëparshme."
 #: ../comps-f14.xml.in.h:237 ../comps-f15.xml.in.h:253
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:256
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 "Këto paketa ofrjnë asistencë për vendore të ndryshme, përfshi gërma dhe "
 "metoda dhëniesh teksti."
@@ -1410,7 +1414,8 @@ msgstr "Ky grup ju lejon ta formësoni sistemin si shërbyes lajmesh."
 
 #: ../comps-f14.xml.in.h:243 ../comps-f15.xml.in.h:259
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:262
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 "Ky grup përmban tërë mjetet Red Hat për formësim të përshtatur të një "
 "shërbyesi."
@@ -1421,8 +1426,8 @@ msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
 msgstr ""
-"Ky grup përfshin një minimum paketash. I dobishëm për krijimin router-ash/"
-"firewall-esh të vegjël, fjala vjen."
+"Ky grup përfshin një minimum paketash. I dobishëm për krijimin router-ash"
+"/firewall-esh të vegjël, fjala vjen."
 
 #: ../comps-f14.xml.in.h:245 ../comps-f15.xml.in.h:261
 #: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:264
@@ -1461,8 +1466,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:268
 #: ../comps-el4.xml.in.h:63 ../comps-el5.xml.in.h:64
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Ky grup është një koleksion mjetesh grafike administrimi të sistemit, të "
 "tillë si ata për administrimin e llogarive të përdoruesve dhe formësimin e "
@@ -1496,8 +1501,8 @@ msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr ""
-"Ky grup është një koleksion mjetesh të ndryshme për sistemin, si klienti për "
-"t'u lidhur me ndarje SMB dhe mjete për mbikqyrje trafiku rrjetesh."
+"Ky grup është një koleksion mjetesh të ndryshme për sistemin, si klienti për"
+" t'u lidhur me ndarje SMB dhe mjete për mbikqyrje trafiku rrjetesh."
 
 #: ../comps-f14.xml.in.h:254 ../comps-f15.xml.in.h:270
 #: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:274
@@ -1510,8 +1515,8 @@ msgstr ""
 #: ../comps-f14.xml.in.h:255 ../comps-f15.xml.in.h:271
 #: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:275
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 "Ky grup paketash ju lejon të shkëmbeni kartela ndërmjet sistemesh Linux dhe "
 "MS Windows(tm)."
@@ -1819,9 +1824,8 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:169
-#, fuzzy
 msgid "Medical Applications"
-msgstr "Zbatime"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:273
 msgid "This is a group of applications related to health care."
@@ -1849,8 +1853,8 @@ msgstr "KDE (Mjedisi Desktop K)"
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:38
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE është një ndërfaqe përdoruesi grafike e fuqishme që përfshin panel, "
 "desktop, ikona sistemi, dhe përgjegjës kartelash grafik."
@@ -2367,8 +2371,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:221
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:222
@@ -2466,7 +2470,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-el6.xml.in.h:259
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:260
@@ -2545,3 +2550,5 @@ msgstr ""
 #: ../comps-el6.xml.in.h:296
 msgid "iSCSI, iSER, and iSNS network storage server."
 msgstr ""
+
+
