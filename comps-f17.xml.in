@@ -702,8 +702,10 @@
       <packagereq type="optional">imagefactory</packagereq>
       <packagereq type="optional">iwhd</packagereq>
       <packagereq type="optional">openstack-glance</packagereq>
+      <packagereq type="optional">openstack-nova</packagereq>
       <packagereq type="optional">openstack-swift</packagereq>
       <packagereq type="optional">pacemaker-cloud</packagereq>
+      <packagereq type="optional">python-novaclient</packagereq>
       <packagereq type="optional">sheepdog</packagereq>
       <packagereq type="optional">tabled</packagereq>
     </packagelist>
