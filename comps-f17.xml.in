@@ -2777,13 +2777,15 @@
       <packagereq type="default">gnome-user-docs</packagereq>
       <packagereq type="default">gnome-utils</packagereq>
       <packagereq type="default">gnote</packagereq>
-      <packagereq type="default">gok</packagereq>
       <packagereq type="default">gucharmap</packagereq>
       <packagereq type="default">gvfs-archive</packagereq>
       <packagereq type="default">gvfs-fuse</packagereq>
       <packagereq type="default">gvfs-gphoto2</packagereq>
       <packagereq type="default">gvfs-smb</packagereq>
       <packagereq type="default">ibus</packagereq>
+      <!-- these library packages are explicitly listed here
+           because they provide modules that are not otherwise
+           pulled in via dependencies -->
       <packagereq type="default">libcanberra-gtk2</packagereq>
       <packagereq type="default">libcanberra-gtk3</packagereq>
       <packagereq type="default">libproxy-mozjs</packagereq>
@@ -2849,6 +2851,7 @@
       <packagereq type="optional">gnome-schedule</packagereq>
       <packagereq type="optional">gnome-system-log</packagereq>
       <packagereq type="optional">gnome-theme-curvylooks</packagereq>
+      <packagereq type="optional">gok</packagereq>
       <packagereq type="optional">gonvert</packagereq>
       <packagereq type="optional">grsync</packagereq>
       <packagereq type="optional">gthumb</packagereq>
