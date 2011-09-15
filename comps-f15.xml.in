@@ -827,8 +827,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <!-- Just the mandatory packages from base-x. Might want to cut this
-           down to a small set of specific drivers in the future. -->
       <packagereq type="mandatory">control-center</packagereq>
       <packagereq type="mandatory">desktop-backgrounds-basic</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
@@ -840,7 +838,13 @@
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">nautilus</packagereq>
       <packagereq type="mandatory">polkit-gnome</packagereq>
-      <packagereq type="mandatory">xorg-x11-drivers</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-ati</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-evdev</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-fbdev</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-intel</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-nouveau</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-synaptics</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-vesa</packagereq>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
