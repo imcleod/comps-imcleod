@@ -1058,6 +1058,7 @@
       <packagereq type="default">pcsc-lite-devel</packagereq>
       <packagereq type="default">perl-devel</packagereq>
       <packagereq type="default">python-devel</packagereq>
+      <packagereq type="default">python-ldap</packagereq>
       <packagereq type="default">rpm-devel</packagereq>
       <packagereq type="default">slang-devel</packagereq>
       <packagereq type="optional">check-devel</packagereq>
@@ -1111,7 +1112,6 @@
       <packagereq basearchonly="true" type="default">oprofile</packagereq>
       <packagereq basearchonly="true" type="default">oprofile-gui</packagereq>
       <packagereq type="default">patchutils</packagereq>
-      <packagereq type="default">python-ldap</packagereq>
       <packagereq type="default">rcs</packagereq>
       <packagereq type="default">subversion</packagereq>
       <packagereq type="default">swig</packagereq>
