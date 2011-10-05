@@ -965,6 +965,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="digikam">kipi-plugins</packagereq>
+      <packagereq type="conditional" requires="gimp">sane-backends-drivers-scanners</packagereq>
       <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
       <packagereq type="default">agave</packagereq>
       <packagereq type="default">blender</packagereq>
@@ -2781,6 +2782,7 @@
       <packagereq type="default">pulseaudio-module-gconf</packagereq>
       <packagereq type="default">pulseaudio-module-x11</packagereq>
       <packagereq type="default">pyatspi</packagereq>
+      <packagereq type="default">sane-backends-drivers-scanners</packagereq>
       <packagereq type="default">seahorse</packagereq>
       <packagereq type="default">shotwell</packagereq>
       <packagereq type="default">simple-scan</packagereq>
@@ -2848,6 +2850,7 @@
       <packagereq type="optional">qtcurve-gtk2</packagereq>
       <packagereq type="optional">rss-glx-gnome-screensaver</packagereq>
       <packagereq type="optional">sabayon</packagereq>
+      <packagereq type="optional">sane-backends-drivers-cameras</packagereq>
       <packagereq type="optional">scim-gtk</packagereq>
       <packagereq type="optional">screenruler</packagereq>
       <packagereq type="optional">seahorse-plugins</packagereq>
@@ -3075,6 +3078,7 @@
       <packagereq type="default">gimp-help</packagereq>
       <packagereq type="default">gimp-help-browser</packagereq>
       <packagereq type="default">libsane-hpaio</packagereq>
+      <packagereq type="default">sane-backends-drivers-scanners</packagereq>
       <packagereq type="default">shotwell</packagereq>
       <packagereq type="default">simple-scan</packagereq>
       <packagereq type="optional">agave</packagereq>
@@ -3118,6 +3122,7 @@
       <packagereq type="optional">qiv</packagereq>
       <packagereq type="optional">rawstudio</packagereq>
       <packagereq type="optional">renrot</packagereq>
+      <packagereq type="optional">sane-backends-drivers-cameras</packagereq>
       <packagereq type="optional">sane-frontends</packagereq>
       <packagereq type="optional">tachyon</packagereq>
       <packagereq type="optional">tuxpaint</packagereq>
