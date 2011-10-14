@@ -3255,6 +3255,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="emacs">emacs-haskell-mode</packagereq>
       <packagereq type="default">alex</packagereq>
       <packagereq type="default">cabal-install</packagereq>
       <packagereq type="default">cabal2spec</packagereq>
@@ -3265,10 +3266,12 @@
       <packagereq type="default">ghc-editline-devel</packagereq>
       <packagereq type="default">ghc-ghc-devel</packagereq>
       <packagereq type="default">ghc-ghc-paths-devel</packagereq>
-      <packagereq type="default">ghc-gtksourceview2-devel</packagereq>
       <packagereq type="default">ghc-haskell-platform-devel</packagereq>
+      <packagereq type="default">ghc-hamlet-devel</packagereq>
       <packagereq type="default">ghc-hlint-devel</packagereq>
-      <packagereq type="default">ghc-tar-devel</packagereq>
+      <packagereq type="default">ghc-leksah-devel</packagereq>
+      <packagereq type="default">ghc-pandoc-devel</packagereq>
+      <packagereq type="default">ghc-regexpr-devel</packagereq>
       <packagereq type="default">ghc-xmonad-contrib-devel</packagereq>
       <packagereq type="default">gtk2hs-buildtools</packagereq>
       <packagereq type="default">happy</packagereq>
@@ -3277,8 +3280,6 @@
       <packagereq type="default">hscolour</packagereq>
       <packagereq type="optional">cpphs</packagereq>
       <packagereq type="optional">ghc-chalmers-lava2000-devel</packagereq>
-      <packagereq type="optional">ghc-haskell-platform-prof</packagereq>
-      <packagereq type="optional">ghc-prof</packagereq>
       <packagereq type="optional">hugs98</packagereq>
       <packagereq type="optional">hugs98-demos</packagereq>
       <packagereq type="optional">xmobar</packagereq>
