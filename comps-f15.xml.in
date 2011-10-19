@@ -206,7 +206,9 @@
       <packagereq type="optional">ooo2txt</packagereq>
       <packagereq type="optional">pandoc</packagereq>
       <packagereq type="optional">python-docutils</packagereq>
+      <packagereq type="optional">python-manuel</packagereq>
       <packagereq type="optional">scribus</packagereq>
+      <packagereq type="optional">tex-zfuzz</packagereq>
       <packagereq type="optional">texlive-texmf-latex</packagereq>
       <packagereq type="optional">txt2rss</packagereq>
       <packagereq type="optional">w3c-markup-validator</packagereq>
@@ -1065,12 +1067,20 @@
       <packagereq type="default">rpm-devel</packagereq>
       <packagereq type="default">slang-devel</packagereq>
       <packagereq type="optional">check-devel</packagereq>
+      <packagereq type="optional">DSDP-devel</packagereq>
       <packagereq type="optional">expatmm-devel</packagereq>
+      <packagereq type="optional">ffcall</packagereq>
+      <packagereq type="optional">givaro-devel</packagereq>
+      <packagereq type="optional">gmp-ecm-devel</packagereq>
+      <packagereq type="optional">iml-devel</packagereq>
       <packagereq type="optional">libdwarf-devel</packagereq>
       <packagereq type="optional">libedit-devel</packagereq>
       <packagereq type="optional">libusb-devel</packagereq>
+      <packagereq type="optional">linbox-devel</packagereq>
+      <packagereq type="optional">m4ri-devel</packagereq>
       <packagereq type="optional">poco-devel</packagereq>
       <packagereq type="optional">poco-doc</packagereq>
+      <packagereq type="optional">python-ZODB3-devel</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1176,10 +1186,12 @@
       <packagereq type="optional">expect</packagereq>
       <packagereq type="optional">flasm</packagereq>
       <packagereq type="optional">fpc</packagereq>
+      <packagereq type="optional">frama-c</packagereq>
       <packagereq type="optional">frysk</packagereq>
       <packagereq type="optional">frysk-gnome</packagereq>
       <packagereq type="optional">ftnchek</packagereq>
       <packagereq type="optional">gambas2-ide</packagereq>
+      <packagereq type="optional">gappa</packagereq>
       <packagereq type="optional">gauche</packagereq>
       <packagereq basearchonly="true" type="optional">gcc-gnat</packagereq>
       <packagereq basearchonly="true" type="optional">gcc-objc</packagereq>
@@ -1280,6 +1292,7 @@
       <packagereq type="optional">ucblogo</packagereq>
       <packagereq type="optional">utrac</packagereq>
       <packagereq type="optional">virtaal</packagereq>
+      <packagereq type="optional">why</packagereq>
       <packagereq type="optional">wxGlade</packagereq>
       <packagereq type="optional">xbsql</packagereq>
       <packagereq type="optional">xfce4-dev-tools</packagereq>
@@ -1630,10 +1643,13 @@
     <packagelist>
       <packagereq type="default">gnuplot</packagereq>
       <packagereq type="default">units</packagereq>
+      <packagereq type="optional">alt-ergo</packagereq>
+      <packagereq type="optional">alt-ergo-gui</packagereq>
       <packagereq type="optional">atlas</packagereq>
       <packagereq type="optional">automaton</packagereq>
       <packagereq type="optional">automaton-javadoc</packagereq>
       <packagereq type="optional">blas</packagereq>
+      <packagereq type="optional">cddlib</packagereq>
       <packagereq type="optional">cdo</packagereq>
       <packagereq type="optional">cernlib-utils</packagereq>
       <packagereq type="optional">chemtool</packagereq>
@@ -1642,6 +1658,8 @@
       <packagereq type="optional">coq-doc</packagereq>
       <packagereq type="optional">coq-emacs</packagereq>
       <packagereq type="optional">coq-xemacs</packagereq>
+      <packagereq type="optional">csdp</packagereq>
+      <packagereq type="optional">csdp-tools</packagereq>
       <packagereq type="optional">csisat</packagereq>
       <packagereq type="optional">cudd</packagereq>
       <packagereq type="optional">cudd-devel</packagereq>
@@ -1652,6 +1670,10 @@
       <packagereq type="optional">cvc3-xemacs</packagereq>
       <packagereq type="optional">dx</packagereq>
       <packagereq type="optional">dx-samples</packagereq>
+      <packagereq type="optional">E</packagereq>
+      <packagereq type="optional">eclib</packagereq>
+      <packagereq type="optional">fflas-ffpack-devel</packagereq>
+      <packagereq type="optional">flint</packagereq>
       <packagereq type="optional">freefem++</packagereq>
       <packagereq type="optional">funtools</packagereq>
       <packagereq type="optional">gabedit</packagereq>
@@ -1660,6 +1682,7 @@
       <packagereq type="optional">geant321</packagereq>
       <packagereq type="optional">genius</packagereq>
       <packagereq type="optional">geomview</packagereq>
+      <packagereq type="optional">gfan</packagereq>
       <packagereq type="optional">ginac</packagereq>
       <packagereq type="optional">GMT</packagereq>
       <packagereq type="optional">GMT-coastlines-all</packagereq>
@@ -1686,15 +1709,18 @@
       <packagereq type="optional">libctl</packagereq>
       <packagereq type="optional">libmatheval</packagereq>
       <packagereq type="optional">libtcd</packagereq>
+      <packagereq type="optional">ltl2ba</packagereq>
       <packagereq type="optional">Macaulay2</packagereq>
       <packagereq type="optional">malaga</packagereq>
       <packagereq type="optional">maxima</packagereq>
       <packagereq type="optional">maxima-gui</packagereq>
+      <packagereq type="optional">minisat2</packagereq>
       <packagereq type="optional">mona</packagereq>
       <packagereq type="optional">mona-devel</packagereq>
       <packagereq type="optional">mona-emacs</packagereq>
       <packagereq type="optional">mona-examples</packagereq>
       <packagereq type="optional">mona-xemacs</packagereq>
+      <packagereq type="optional">mpfi</packagereq>
       <packagereq type="optional">ncl</packagereq>
       <packagereq type="optional">nco</packagereq>
       <packagereq type="optional">ncview</packagereq>
@@ -1714,6 +1740,8 @@
       <packagereq type="optional">pvs-sbcl</packagereq>
       <packagereq type="optional">pypop</packagereq>
       <packagereq type="optional">python-biopython</packagereq>
+      <packagereq type="optional">python-cvxopt</packagereq>
+      <packagereq type="optional">python-networkx</packagereq>
       <packagereq type="optional">qalculate-gtk</packagereq>
       <packagereq type="optional">qalculate-kde</packagereq>
       <packagereq type="optional">qcad</packagereq>
@@ -1733,6 +1761,7 @@
       <packagereq type="optional">stix-pua-fonts</packagereq>
       <packagereq type="optional">stix-sizes-fonts</packagereq>
       <packagereq type="optional">stix-variants-fonts</packagereq>
+      <packagereq type="optional">stp</packagereq>
       <packagereq type="optional">tcd-utils</packagereq>
       <packagereq type="optional">TeXmacs</packagereq>
       <packagereq type="optional">tgif</packagereq>
@@ -1747,6 +1776,7 @@
       <packagereq type="optional">wxMaxima</packagereq>
       <packagereq type="optional">xdrawchem</packagereq>
       <packagereq type="optional">xtide</packagereq>
+      <packagereq type="optional">zenon</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1841,6 +1871,7 @@
       <packagereq type="mandatory">redhat-rpm-config</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
       <packagereq type="mandatory">rpmdevtools</packagereq>
+      <packagereq type="optional">auto-destdir</packagereq>
       <packagereq type="optional">cpanspec</packagereq>
     </packagelist>
   </group>
@@ -4935,6 +4966,7 @@
       <packagereq type="optional">ocaml-lablgl-devel</packagereq>
       <packagereq type="optional">ocaml-lablgtk-devel</packagereq>
       <packagereq type="optional">ocaml-labltk-devel</packagereq>
+      <packagereq type="optional">ocaml-ocamlgraph-devel</packagereq>
       <packagereq type="optional">ocaml-ocamlnet-devel</packagereq>
       <packagereq type="optional">ocaml-pcre-devel</packagereq>
       <packagereq type="optional">ocaml-pxp-devel</packagereq>
@@ -5683,6 +5715,7 @@
       <packagereq type="optional">mybashburn</packagereq>
       <packagereq type="optional">nted</packagereq>
       <packagereq type="optional">nyquist</packagereq>
+      <packagereq type="optional">openfst-tools</packagereq>
       <packagereq type="optional">padevchooser</packagereq>
       <packagereq type="optional">paman</packagereq>
       <packagereq type="optional">paprefs</packagereq>
