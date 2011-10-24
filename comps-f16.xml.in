@@ -18,6 +18,7 @@
       <packagereq type="default">system-config-keyboard</packagereq>
       <packagereq type="default">system-config-language</packagereq>
       <packagereq type="default">system-config-users</packagereq>
+      <packagereq type="optional">apper</packagereq>
       <packagereq type="optional">cacti</packagereq>
       <packagereq type="optional">dbench</packagereq>
       <packagereq type="optional">etherape</packagereq>
@@ -26,7 +27,6 @@
       <packagereq type="optional">gparted</packagereq>
       <packagereq type="optional">gpointing-device-settings</packagereq>
       <packagereq type="optional">kde-partitionmanager</packagereq>
-      <packagereq type="optional">kpackagekit</packagereq>
       <packagereq type="optional">lshw-gui</packagereq>
       <packagereq type="optional">luma</packagereq>
       <packagereq type="optional">ntop</packagereq>
@@ -3936,6 +3936,7 @@
       <packagereq type="conditional" requires="scim">scim-bridge-qt</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">amarok</packagereq>
+      <packagereq type="default">apper</packagereq>
       <packagereq type="default">bluedevil</packagereq>
       <packagereq type="default">cagibi</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
@@ -3970,7 +3971,6 @@
       <packagereq type="default">kipi-plugins</packagereq>
       <packagereq type="default">konq-plugins</packagereq>
       <packagereq type="default">konversation</packagereq>
-      <packagereq type="default">kpackagekit</packagereq>
       <packagereq type="default">krusader</packagereq>
       <packagereq type="default">ksshaskpass</packagereq>
       <packagereq type="default">ktorrent</packagereq>
