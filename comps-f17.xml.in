@@ -1799,7 +1799,7 @@
     <langonly>fi</langonly>
     <packagelist>
       <packagereq type="conditional" requires="firefox">mozvoikko</packagereq>
-      <packagereq type="conditional" requires="libreoffice-core">openoffice.org-voikko</packagereq>
+      <packagereq type="conditional" requires="libreoffice-core">libreoffice-voikko</packagereq>
       <packagereq type="default">enchant-voikko</packagereq>
       <packagereq type="optional">tmispell-voikko</packagereq>
     </packagelist>
@@ -4724,7 +4724,7 @@
       <packagereq type="optional">MagicPoint</packagereq>
       <packagereq type="optional">notecase</packagereq>
       <packagereq type="optional">openoffice.org-ooolatex</packagereq>
-      <packagereq type="optional">openoffice.org-voikko</packagereq>
+      <packagereq type="optional">libreoffice-voikko</packagereq>
       <packagereq type="optional">pybliographer</packagereq>
       <packagereq type="optional">qcad</packagereq>
       <packagereq type="optional">rednotebook</packagereq>
