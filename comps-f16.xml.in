@@ -844,7 +844,7 @@
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
       <packagereq type="default">avahi</packagereq>
-      <packagereq type="default">gdm-plugin-fingerprint</packagereq>
+      <packagereq type="default">fprintd-pam</packagereq>
       <packagereq type="default">gnome-bluetooth</packagereq>
       <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">libcanberra-gtk3</packagereq>
@@ -2758,9 +2758,9 @@
       <packagereq type="default">evince-nautilus</packagereq>
       <packagereq type="default">file-roller</packagereq>
       <packagereq type="default">file-roller-nautilus</packagereq>
+      <packagereq type="default">fprintd-pam</packagereq>
       <packagereq type="default">gcalctool</packagereq>
       <packagereq type="default">gdm</packagereq>
-      <packagereq type="default">gdm-plugin-fingerprint</packagereq>
       <packagereq type="default">gedit</packagereq>
       <packagereq type="default">glib-networking</packagereq>
       <packagereq type="default">gnome-backgrounds</packagereq>
