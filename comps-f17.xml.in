@@ -347,7 +347,6 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">xorg-x11-drivers</packagereq>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
@@ -359,6 +358,24 @@
       <packagereq type="default">plymouth-system-theme</packagereq>
       <packagereq type="default">policycoreutils-sandbox</packagereq>
       <packagereq type="default">smolt-firstboot</packagereq>
+      <packagereq type="default">xorg-x11-drv-ast</packagereq>
+      <packagereq type="default">xorg-x11-drv-ati</packagereq>
+      <packagereq type="default">xorg-x11-drv-cirrus</packagereq>
+      <packagereq type="default">xorg-x11-drv-dummy</packagereq>
+      <packagereq type="default">xorg-x11-drv-evdev</packagereq>
+      <packagereq type="default">xorg-x11-drv-fbdev</packagereq>
+      <packagereq type="default">xorg-x11-drv-geode</packagereq>
+      <packagereq type="default">xorg-x11-drv-intel</packagereq>
+      <packagereq type="default">xorg-x11-drv-mga</packagereq>
+      <packagereq type="default">xorg-x11-drv-nouveau</packagereq>
+      <packagereq type="default">xorg-x11-drv-openchrome</packagereq>
+      <packagereq type="default">xorg-x11-drv-qxl</packagereq>
+      <packagereq type="default">xorg-x11-drv-synaptics</packagereq>
+      <packagereq type="default">xorg-x11-drv-vesa</packagereq>
+      <packagereq type="default">xorg-x11-drv-vmware</packagereq>
+      <packagereq type="default">xorg-x11-drv-wacom</packagereq>
+      <packagereq type="default">xorg-x11-drv-vmmouse</packagereq>
+      <packagereq type="default">xorg-x11-drv-void</packagereq>
       <packagereq type="default">xorg-x11-utils</packagereq>
       <packagereq type="optional">alltray</packagereq>
       <packagereq type="optional">aterm</packagereq>
@@ -385,6 +402,7 @@
       <packagereq type="optional">xkeycaps</packagereq>
       <packagereq type="optional">xlockmore</packagereq>
       <packagereq type="optional">xorg-x11-apps</packagereq>
+      <packagereq type="optional">xorg-x11-drivers</packagereq>
       <packagereq type="optional">xorg-x11-resutils</packagereq>
       <packagereq type="optional">xorg-x11-server-Xnest</packagereq>
       <packagereq type="optional">xorg-x11-server-Xvfb</packagereq>
