@@ -6294,7 +6294,7 @@
       <packagereq type="mandatory">xfconf</packagereq>
       <packagereq type="mandatory">xfdesktop</packagereq>
       <packagereq type="mandatory">xfwm4</packagereq>
-      <packagereq type="conditional" requires="xfce-utils">im-chooser-xfce</packagereq>
+      <packagereq type="conditional" requires="imsettings">im-chooser-xfce</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-xfce</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
