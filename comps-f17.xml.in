@@ -5428,6 +5428,11 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="mandatory">csound-python</packagereq>
+      <packagereq type="mandatory">gnome-power-manager</packagereq>
+      <packagereq type="mandatory">gvfs</packagereq>
+      <packagereq type="mandatory">metacity</packagereq>
+      <packagereq type="mandatory">pygame</packagereq>
       <packagereq type="mandatory">sugar</packagereq>
       <packagereq type="default">csound-python</packagereq>
       <packagereq type="default">etoys-sugar</packagereq>
