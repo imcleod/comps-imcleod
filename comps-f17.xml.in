@@ -5440,10 +5440,12 @@
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">pygame</packagereq>
       <packagereq type="mandatory">sugar</packagereq>
+      <packagereq type="mandatory">sugar-toolkit-gtk3</packagereq>
       <packagereq type="default">csound-python</packagereq>
       <packagereq type="default">etoys-sugar</packagereq>
       <packagereq type="default">gdm</packagereq>
       <packagereq type="default">sugar-abacus</packagereq>
+      <packagereq type="default">sugar-browse</packagereq>
       <packagereq type="default">sugar-calculator</packagereq>
       <packagereq type="default">sugar-chat</packagereq>
       <packagereq type="default">sugar-clock</packagereq>
@@ -5456,6 +5458,7 @@
       <packagereq type="default">sugar-physics</packagereq>
       <packagereq type="default">sugar-pippy</packagereq>
       <packagereq type="default">sugar-portfolio</packagereq>
+      <packagereq type="default">sugar-read</packagereq>
       <packagereq type="default">sugar-record</packagereq>
       <packagereq type="default">sugar-ruler</packagereq>
       <packagereq type="default">sugar-speak</packagereq>
@@ -5467,7 +5470,6 @@
       <packagereq type="default">sugar-write</packagereq>
       <packagereq type="default">sugar-xoirc</packagereq>
       <packagereq type="optional">sugar-analyze</packagereq>
-      <packagereq type="optional">sugar-browse</packagereq>
       <packagereq type="optional">sugar-connect</packagereq>
       <packagereq type="optional">sugar-distance</packagereq>
       <packagereq type="optional">sugar-emulator</packagereq>
@@ -5477,7 +5479,6 @@
       <packagereq type="optional">sugar-implode</packagereq>
       <packagereq type="optional">sugar-infoslicer</packagereq>
       <packagereq type="optional">sugar-playgo</packagereq>
-      <packagereq type="optional">sugar-read</packagereq>
       <packagereq type="optional">sugar-xomail</packagereq>
     </packagelist>
   </group>
