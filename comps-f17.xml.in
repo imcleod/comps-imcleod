@@ -739,7 +739,7 @@
     <packagelist>
       <packagereq type="default">evolution</packagereq>
       <packagereq type="default">firefox</packagereq>
-      <packagereq type="default">kdebase</packagereq>
+      <packagereq type="default">kde-baseapps</packagereq>
       <packagereq type="default">kdepim</packagereq>
       <packagereq type="default">thunderbird</packagereq>
     </packagelist>
@@ -3696,8 +3696,8 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">kdebase-runtime</packagereq>
-      <packagereq type="mandatory">kdebase-workspace</packagereq>
+      <packagereq type="mandatory">kde-runtime</packagereq>
+      <packagereq type="mandatory">kde-workspace</packagereq>
       <packagereq type="mandatory">kdelibs</packagereq>
       <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-good</packagereq>
       <packagereq type="conditional" requires="ibus">ibus-qt</packagereq>
@@ -3726,7 +3726,7 @@
       <packagereq type="default">kde-settings-pulseaudio</packagereq>
       <packagereq type="default">kdeaccessibility</packagereq>
       <packagereq type="default">kdeartwork-screensavers</packagereq>
-      <packagereq type="default">kdebase</packagereq>
+      <packagereq type="default">kde-baseapps</packagereq>
       <packagereq type="default">kdegames</packagereq>
       <packagereq type="default">kdegraphics</packagereq>
       <packagereq type="default">kdemultimedia-dragonplayer</packagereq>
@@ -3841,7 +3841,7 @@
       <packagereq type="mandatory">cmake</packagereq>
       <packagereq type="mandatory">kdelibs-devel</packagereq>
       <packagereq type="mandatory">qt-devel</packagereq>
-      <packagereq type="default">kdebase-workspace-devel</packagereq>
+      <packagereq type="default">kde-workspace-devel</packagereq>
       <packagereq type="default">kdepimlibs-devel</packagereq>
       <packagereq type="default">kdesdk</packagereq>
       <packagereq type="default">kdevelop</packagereq>
@@ -3849,7 +3849,7 @@
       <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="optional">gambas2-runtime</packagereq>
       <packagereq type="optional">kdbg</packagereq>
-      <packagereq type="optional">kdebase-devel</packagereq>
+      <packagereq type="optional">kde-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
       <packagereq type="optional">kdeedu-devel</packagereq>
       <packagereq type="optional">kdegames-devel</packagereq>
