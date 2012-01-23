@@ -6071,7 +6071,7 @@
   </group>
   <group>
     <id>virtualization</id>
-    <_name>Virtualization</_name>
+    <_name>Virtualization Client</_name>
     <_description>These packages provide a virtualization environment.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
@@ -6086,6 +6086,17 @@
       <packagereq type="optional">libguestfs-tools</packagereq>
       <packagereq type="optional">python-libguestfs</packagereq>
       <packagereq type="optional">virt-top</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>virtualization-hypervisor</id>
+    <_name>Virtualization Hypervisor</_name>
+    <_description>Smallest possible virtualization host installation</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">libvirt</packagereq>
+      <packagereq type="mandatory">qemu-kvm</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6690,6 +6701,7 @@
       <groupid>legacy-software-support</groupid>
       <groupid>system-tools</groupid>
       <groupid>virtualization</groupid>
+      <groupid>virtualization-hypervisor</groupid>
     </grouplist>
   </category>
   <category>
