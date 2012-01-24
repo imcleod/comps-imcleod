@@ -3512,7 +3512,7 @@
     <packagelist>
       <packagereq type="mandatory">ant</packagereq>
       <packagereq type="mandatory">ecj</packagereq>
-      <packagereq type="mandatory">java-1.6.0-openjdk-devel</packagereq>
+      <packagereq type="mandatory">java-1.7.0-openjdk-devel</packagereq>
       <packagereq type="default">ant-antlr</packagereq>
       <packagereq type="default">ant-apache-bcel</packagereq>
       <packagereq type="default">ant-apache-log4j</packagereq>
@@ -3553,9 +3553,9 @@
       <packagereq type="default">gnu-getopt</packagereq>
       <packagereq type="default">jakarta-oro</packagereq>
       <packagereq type="default">jakarta-taglibs-standard</packagereq>
-      <packagereq type="default">java-1.6.0-openjdk-demo</packagereq>
-      <packagereq type="default">java-1.6.0-openjdk-javadoc</packagereq>
-      <packagereq type="default">java-1.6.0-openjdk-src</packagereq>
+      <packagereq type="default">java-1.7.0-openjdk-demo</packagereq>
+      <packagereq type="default">java-1.7.0-openjdk-javadoc</packagereq>
+      <packagereq type="default">java-1.7.0-openjdk-src</packagereq>
       <packagereq type="default">java_cup</packagereq>
       <packagereq type="default">jdepend</packagereq>
       <packagereq type="default">jlex</packagereq>
@@ -3574,6 +3574,10 @@
       <packagereq type="optional">ant-findbugs</packagereq>
       <packagereq type="optional">findbugs</packagereq>
       <packagereq type="optional">findbugs-tools</packagereq>
+      <packagereq type="optional">java-1.6.0-openjdk-demo</packagereq>
+      <packagereq type="optional">java-1.6.0-openjdk-devel</packagereq>
+      <packagereq type="optional">java-1.6.0-openjdk-javadoc</packagereq>
+      <packagereq type="optional">java-1.6.0-openjdk-src</packagereq>
       <packagereq type="optional">jcip-annotations</packagereq>
       <packagereq type="optional">jsr-305</packagereq>
       <packagereq type="optional">pmd</packagereq>
