@@ -1935,6 +1935,7 @@
       <packagereq type="default">lohit-punjabi-fonts</packagereq>
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
+      <packagereq type="default">nhn-nanum-gothic-fonts</packagereq>
       <packagereq type="default">paktype-naqsh-fonts</packagereq>
       <packagereq type="default">paktype-tehreer-fonts</packagereq>
       <packagereq type="default">paratype-pt-sans-fonts</packagereq>
@@ -1943,7 +1944,6 @@
       <packagereq type="default">smc-meera-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
-      <packagereq type="default">un-core-dotum-fonts</packagereq>
       <packagereq type="default">vlgothic-fonts</packagereq>
       <packagereq type="default">wqy-zenhei-fonts</packagereq>
       <packagereq type="optional">aajohan-comfortaa-fonts</packagereq>
@@ -2112,6 +2112,10 @@
       <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">navilu-fonts</packagereq>
+      <packagereq type="optional">nhn-nanum-brush-fonts</packagereq>
+      <packagereq type="optional">nhn-nanum-gothic-coding-fonts</packagereq>
+      <packagereq type="optional">nhn-nanum-myeongjo-fonts</packagereq>
+      <packagereq type="optional">nhn-nanum-pen-fonts</packagereq>
       <packagereq type="optional">ns-bola-fonts</packagereq>
       <packagereq type="optional">ns-tiza-chalk-fonts</packagereq>
       <packagereq type="optional">oflb-asana-math-fonts</packagereq>
@@ -3869,12 +3873,10 @@
     <langonly>ko</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-hangul</packagereq>
-      <packagereq type="default">un-core-batang-fonts</packagereq>
-      <packagereq type="default">un-core-dinaru-fonts</packagereq>
-      <packagereq type="default">un-core-dotum-fonts</packagereq>
-      <packagereq type="default">un-core-graphic-fonts</packagereq>
-      <packagereq type="default">un-core-gungseo-fonts</packagereq>
-      <packagereq type="default">un-core-pilgi-fonts</packagereq>
+      <packagereq type="default">nhn-nanum-brush-fonts</packagereq>
+      <packagereq type="default">nhn-nanum-gothic-fonts</packagereq>
+      <packagereq type="default">nhn-nanum-myeongjo-fonts</packagereq>
+      <packagereq type="default">nhn-nanum-pen-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-dotum-fonts</packagereq>
@@ -3882,10 +3884,13 @@
       <packagereq type="optional">baekmuk-ttf-hline-fonts</packagereq>
       <packagereq type="optional">lv</packagereq>
       <packagereq type="optional">nabi</packagereq>
-      <packagereq type="optional">nhn-nanum-brush-fonts</packagereq>
-      <packagereq type="optional">nhn-nanum-gothic-fonts</packagereq>
-      <packagereq type="optional">nhn-nanum-myeongjo-fonts</packagereq>
-      <packagereq type="optional">nhn-nanum-pen-fonts</packagereq>
+      <packagereq type="optional">nhn-nanum-gothic-coding-fonts</packagereq>
+      <packagereq type="optional">un-core-batang-fonts</packagereq>
+      <packagereq type="optional">un-core-dinaru-fonts</packagereq>
+      <packagereq type="optional">un-core-dotum-fonts</packagereq>
+      <packagereq type="optional">un-core-graphic-fonts</packagereq>
+      <packagereq type="optional">un-core-gungseo-fonts</packagereq>
+      <packagereq type="optional">un-core-pilgi-fonts</packagereq>
       <packagereq type="optional">un-extra-bom-fonts</packagereq>
       <packagereq type="optional">un-extra-jamobatang-fonts</packagereq>
       <packagereq type="optional">un-extra-jamodotum-fonts</packagereq>
