@@ -649,12 +649,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">cluster-cim</packagereq>
-      <packagereq type="default">cluster-snmp</packagereq>
       <packagereq type="default">ipvsadm</packagereq>
-      <packagereq type="default">modcluster</packagereq>
-      <packagereq type="default">rgmanager</packagereq>
-      <packagereq type="default">ricci</packagereq>
       <packagereq type="optional">pacemaker</packagereq>
     </packagelist>
   </group>
