@@ -3333,7 +3333,7 @@
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-pinyin</packagereq>
-      <packagereq type="default">ibus-pinyin-db-android</packagereq>
+      <packagereq type="default">libpinyin-data</packagereq>
       <packagereq type="default">ibus-rawcode</packagereq>
       <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">imsettings</packagereq>
@@ -3358,6 +3358,7 @@
       <packagereq type="optional">ibus-input-pad</packagereq>
       <packagereq type="optional">ibus-indic-table</packagereq>
       <packagereq type="optional">ibus-mozc</packagereq>
+      <packagereq type="optional">ibus-pinyin-db-android</packagereq>
       <packagereq type="optional">ibus-pinyin-db-open-phrase</packagereq>
       <packagereq type="optional">ibus-sayura</packagereq>
       <packagereq type="optional">ibus-skk</packagereq>
@@ -5126,7 +5127,7 @@
     <langonly>zh_CN</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin-db-android</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">libpinyin-data</packagereq>
       <packagereq type="default">wqy-zenhei-fonts</packagereq>
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">ibus-sunpinyin</packagereq>
