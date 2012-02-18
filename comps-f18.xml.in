@@ -1397,6 +1397,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional">anki</packagereq>
+      <packagereq type="optional">cantor</packagereq>
       <packagereq type="optional">childsplay</packagereq>
       <packagereq type="optional">corrida</packagereq>
       <packagereq type="optional">drgeo</packagereq>
@@ -1407,13 +1408,16 @@
       <packagereq type="optional">glglobe</packagereq>
       <packagereq type="optional">gtypist</packagereq>
       <packagereq type="optional">justmoon-qt</packagereq>
-      <packagereq type="optional">kdeedu</packagereq>
-      <packagereq type="optional">kdeedu-kstars</packagereq>
-      <packagereq type="optional">kdeedu-marble</packagereq>
-      <packagereq type="optional">kdeedu-math</packagereq>
+      <packagereq type="optional">kalgebra</packagereq>
+      <packagereq type="optional">kbruch</packagereq>
+      <packagereq type="optional">kig</packagereq>
+      <packagereq type="optional">kmplot</packagereq>
+      <packagereq type="optional">kstars</packagereq>
+      <packagereq type="optional">marble</packagereq>
       <packagereq type="optional">mnemosyne</packagereq>
       <packagereq type="optional">moodle</packagereq>
       <packagereq type="optional">nightview</packagereq>
+      <packagereq type="optional">rocs</packagereq>
       <packagereq type="optional">saoimage</packagereq>
       <packagereq type="optional">skychart</packagereq>
       <packagereq type="optional">starlab</packagereq>
@@ -3769,7 +3773,6 @@
       <packagereq type="optional">kdenetwork-fileshare-samba</packagereq>
       <packagereq type="optional">kdenetwork-kopete</packagereq>
       <packagereq type="optional">kdenetwork-kppp</packagereq>
-      <packagereq type="optional">kdeedu</packagereq>
       <packagereq type="optional">kdetoys</packagereq>
       <packagereq type="optional">kdissert</packagereq>
       <packagereq type="optional">kfloppy</packagereq>
@@ -3837,7 +3840,6 @@
       <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kde-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
-      <packagereq type="optional">kdeedu-devel</packagereq>
       <packagereq type="optional">kdegames-devel</packagereq>
       <packagereq type="optional">kdegraphics-devel</packagereq>
       <packagereq type="optional">kdelibs3-devel</packagereq>
@@ -3848,6 +3850,7 @@
       <packagereq type="optional">kdewebdev-devel</packagereq>
       <packagereq type="optional">krazy2</packagereq>
       <packagereq type="optional">ktp-common-internals-devel</packagereq>
+      <packagereq type="optional">marble-devel</packagereq>
       <packagereq type="optional">PyKDE-devel</packagereq>
       <packagereq type="optional">PyQt-devel</packagereq>
       <packagereq type="optional">qt-creator</packagereq>
