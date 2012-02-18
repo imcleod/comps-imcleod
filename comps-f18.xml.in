@@ -3705,6 +3705,16 @@
       <packagereq type="default">ksnapshot</packagereq>
       <packagereq type="default">ksshaskpass</packagereq>
       <packagereq type="default">ktorrent</packagereq>
+      <packagereq type="default">ktp-accounts-kcm</packagereq>
+      <packagereq type="default">ktp-approver</packagereq>
+      <packagereq type="default">ktp-auth-handler</packagereq>
+      <packagereq type="default">ktp-contact-applet</packagereq>
+      <packagereq type="default">ktp-contact-list</packagereq>
+      <packagereq type="default">ktp-filetransfer-handler</packagereq>
+      <packagereq type="default">ktp-kded-integration-module</packagereq>
+      <packagereq type="default">ktp-presence-applet</packagereq>
+      <packagereq type="default">ktp-send-file</packagereq>
+      <packagereq type="default">ktp-text-ui</packagereq>
       <packagereq type="default">kwallet</packagereq>
       <packagereq type="default">kwebkitpart</packagereq>
       <packagereq type="default">okular</packagereq>
@@ -3837,12 +3847,14 @@
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">kdewebdev-devel</packagereq>
       <packagereq type="optional">krazy2</packagereq>
+      <packagereq type="optional">ktp-common-internals-devel</packagereq>
       <packagereq type="optional">PyKDE-devel</packagereq>
       <packagereq type="optional">PyQt-devel</packagereq>
       <packagereq type="optional">qt-creator</packagereq>
       <packagereq type="optional">qt-mobility-devel</packagereq>
       <packagereq type="optional">qt3-designer</packagereq>
       <packagereq type="optional">qt3-devel</packagereq>
+      <packagereq type="optional">telepathy-qt4-devel</packagereq>
     </packagelist>
   </group>
   <group>
