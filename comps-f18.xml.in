@@ -1935,7 +1935,6 @@
       <packagereq type="default">lohit-telugu-fonts</packagereq>
       <packagereq type="default">nhn-nanum-gothic-fonts</packagereq>
       <packagereq type="default">paktype-naqsh-fonts</packagereq>
-      <packagereq type="default">paktype-tehreer-fonts</packagereq>
       <packagereq type="default">paratype-pt-sans-fonts</packagereq>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
       <packagereq type="default">sil-padauk-fonts</packagereq>
@@ -2087,6 +2086,7 @@
       <packagereq type="optional">khmeros-siemreap-fonts</packagereq>
       <packagereq type="optional">kurdit-unikurd-web-fonts</packagereq>
       <packagereq type="optional">levien-inconsolata-fonts</packagereq>
+      <packagereq type="optional">liberation-narrow-fonts</packagereq>
       <packagereq type="optional">libreoffice-opensymbol-fonts</packagereq>
       <packagereq type="optional">lilypond-century-schoolbook-l-fonts</packagereq>
       <packagereq type="optional">lilypond-emmentaler-fonts</packagereq>
@@ -2128,6 +2128,14 @@
       <packagereq type="optional">oflb-sportrop-fonts</packagereq>
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
       <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
+      <packagereq type="optional">paktype-ajrak-fonts</packagereq>
+      <packagereq type="optional">paktype-naskh-basic-farsi-fonts</packagereq>
+      <packagereq type="optional">paktype-naskh-basic-fonts</packagereq>
+      <packagereq type="optional">paktype-naskh-basic-sa-fonts</packagereq>
+      <packagereq type="optional">paktype-naskh-basic-sindhi-fonts</packagereq>
+      <packagereq type="optional">paktype-naskh-basic-urdu-fonts</packagereq>
+      <packagereq type="optional">paktype-tehreer-fonts</packagereq>
+      <packagereq type="optional">pothana2000-fonts</packagereq>
       <packagereq type="optional">saab-fonts</packagereq>
       <packagereq type="optional">samyak-devanagari-fonts</packagereq>
       <packagereq type="optional">samyak-gujarati-fonts</packagereq>
@@ -3232,9 +3240,14 @@
       <packagereq type="default">culmus-drugulin-clm-fonts</packagereq>
       <packagereq type="default">culmus-ellinia-clm-fonts</packagereq>
       <packagereq type="default">culmus-frank-ruehl-clm-fonts</packagereq>
+      <packagereq type="default">culmus-hadasim-clm-fonts</packagereq>
+      <packagereq type="default">culmus-keteryg-fonts</packagereq>
       <packagereq type="default">culmus-miriam-clm-fonts</packagereq>
       <packagereq type="default">culmus-miriam-mono-clm-fonts</packagereq>
       <packagereq type="default">culmus-nachlieli-clm-fonts</packagereq>
+      <packagereq type="default">culmus-simple-clm-fonts</packagereq>
+      <packagereq type="default">culmus-stamsefarad-clm-fonts</packagereq>
+      <packagereq type="default">culmus-stamashkenaz-clm-fonts</packagereq>
       <packagereq type="default">culmus-yehuda-clm-fonts</packagereq>
     </packagelist>
   </group>
@@ -4025,9 +4038,14 @@
       <packagereq type="optional">culmus-drugulin-clm-fonts</packagereq>
       <packagereq type="optional">culmus-ellinia-clm-fonts</packagereq>
       <packagereq type="optional">culmus-frank-ruehl-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-hadasim-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-keteryg-fonts</packagereq>
       <packagereq type="optional">culmus-miriam-clm-fonts</packagereq>
       <packagereq type="optional">culmus-miriam-mono-clm-fonts</packagereq>
       <packagereq type="optional">culmus-nachlieli-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-simple-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-stamsefarad-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-stamashkenaz-clm-fonts</packagereq>
       <packagereq type="optional">culmus-yehuda-clm-fonts</packagereq>
       <packagereq type="optional">efont-unicode-bdf</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
@@ -5190,6 +5208,7 @@
     <langonly>sd</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
+      <packagereq type="mandatory">paktype-naskh-basic-sindhi-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
@@ -6073,6 +6092,12 @@
       <packagereq type="optional">nafees-pakistani-naskh-fonts</packagereq>
       <packagereq type="optional">nafees-riqa-fonts</packagereq>
       <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
+      <packagereq type="optional">paktype-ajrak-fonts</packagereq>
+      <packagereq type="optional">paktype-naskh-basic-farsi-fonts</packagereq>
+      <packagereq type="optional">paktype-naskh-basic-fonts</packagereq>
+      <packagereq type="optional">paktype-naskh-basic-sa-fonts</packagereq>
+      <packagereq type="optional">paktype-naskh-basic-sindhi-fonts</packagereq>
+      <packagereq type="optional">paktype-naskh-basic-urdu-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6458,9 +6483,14 @@
       <packagereq type="default">culmus-drugulin-clm-fonts</packagereq>
       <packagereq type="default">culmus-ellinia-clm-fonts</packagereq>
       <packagereq type="default">culmus-frank-ruehl-clm-fonts</packagereq>
+      <packagereq type="default">culmus-hadasim-clm-fonts</packagereq>
+      <packagereq type="default">culmus-keteryg-fonts</packagereq>
       <packagereq type="default">culmus-miriam-clm-fonts</packagereq>
       <packagereq type="default">culmus-miriam-mono-clm-fonts</packagereq>
       <packagereq type="default">culmus-nachlieli-clm-fonts</packagereq>
+      <packagereq type="default">culmus-simple-clm-fonts</packagereq>
+      <packagereq type="default">culmus-stamsefarad-clm-fonts</packagereq>
+      <packagereq type="default">culmus-stamashkenaz-clm-fonts</packagereq>
       <packagereq type="default">culmus-yehuda-clm-fonts</packagereq>
     </packagelist>
   </group>
