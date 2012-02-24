@@ -39,46 +39,6 @@
     </packagelist>
   </group>
   <group>
-    <id>afrikaans-support</id>
-    <_name>Afrikaans Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>af</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>akan-support</id>
-    <_name>Akan Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ak</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>albanian-support</id>
-    <_name>Albanian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>sq</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>amazigh-support</id>
-    <_name>Amazigh Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ber</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>arabic-support</id>
     <_name>Arabic Support</_name>
     <_description/>
@@ -111,17 +71,6 @@
     </packagelist>
   </group>
   <group>
-    <id>armenian-support</id>
-    <_name>Armenian Support</_name>
-    <_description>This group is a collection of tools and resources of Armenian environments.</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>hy</langonly>
-    <packagelist>
-      <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>assamese-support</id>
     <_name>Assamese Support</_name>
     <_description/>
@@ -134,16 +83,6 @@
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>asturian-support</id>
-    <_name>Asturian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ast</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -187,16 +126,6 @@
       <packagereq type="optional">w3c-markup-validator</packagereq>
       <packagereq type="optional">xdvik</packagereq>
       <packagereq type="optional">xmlcopyeditor</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>azerbaijani-support</id>
-    <_name>Azerbaijani Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>az</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -418,16 +347,6 @@
     </packagelist>
   </group>
   <group>
-    <id>basque-support</id>
-    <_name>Basque Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>eu</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>belarusian-support</id>
     <_name>Belarusian Support</_name>
     <_description/>
@@ -477,46 +396,6 @@
       <packagereq type="default">diveintopython</packagereq>
       <packagereq type="default">javanotes</packagereq>
       <packagereq type="default">ldd-pdf</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>bosnian-support</id>
-    <_name>Bosnian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>bs</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>brazilian-support</id>
-    <_name>Brazilian Portuguese Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>pt_BR</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>breton-support</id>
-    <_name>Breton Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>br</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>british-support</id>
-    <_name>English (UK) Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>en_GB</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -579,26 +458,6 @@
     </packagelist>
   </group>
   <group>
-    <id>catalan-support</id>
-    <_name>Catalan Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ca</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>chichewa-support</id>
-    <_name>Chichewa Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ny</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>chuvash-support</id>
     <_name>Chuvash Support</_name>
     <_description/>
@@ -650,16 +509,6 @@
     <packagelist>
       <packagereq type="default">ipvsadm</packagereq>
       <packagereq type="optional">pacemaker</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>coptic-support</id>
-    <_name>Coptic Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>cop</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -866,16 +715,6 @@
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
       <packagereq type="optional">stardict-dic-cs_CZ</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>danish-support</id>
-    <_name>Danish Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>da</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -1295,16 +1134,6 @@
     </packagelist>
   </group>
   <group>
-    <id>dutch-support</id>
-    <_name>Dutch Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>nl</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>eclipse</id>
     <_name>Fedora Eclipse</_name>
     <_description>Integrated Development Environments based on Eclipse.</_description>
@@ -1720,16 +1549,6 @@
     </packagelist>
   </group>
   <group>
-    <id>esperanto-support</id>
-    <_name>Esperanto Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>eo</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>estonian-support</id>
     <_name>Estonian Support</_name>
     <_description/>
@@ -1767,16 +1586,6 @@
     </packagelist>
   </group>
   <group>
-    <id>faroese-support</id>
-    <_name>Faroese Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>fo</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>fedora-packager</id>
     <_name>Fedora Packager</_name>
     <_description>Tools and Utilities needed by a Fedora Packager</_description>
@@ -1803,16 +1612,6 @@
     </packagelist>
   </group>
   <group>
-    <id>fijian-support</id>
-    <_name>Fijian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>fj</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>filesystems</id>
     <_name>Filesystems</_name>
     <_description/>
@@ -1827,16 +1626,6 @@
       <packagereq type="mandatory">ntfsprogs</packagereq>
       <packagereq type="mandatory">reiserfs-utils</packagereq>
       <packagereq type="mandatory">xfsprogs</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>filipino-support</id>
-    <_name>Filipino Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>fil</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -2238,26 +2027,6 @@
     </packagelist>
   </group>
   <group>
-    <id>frisian-support</id>
-    <_name>Frisian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>fy</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>friulian-support</id>
-    <_name>Friulian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>fur</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>ftp-server</id>
     <_name>FTP Server</_name>
     <_description>These tools allow you to run an FTP server on the system.</_description>
@@ -2268,26 +2037,6 @@
       <packagereq type="optional">proftpd</packagereq>
       <packagereq type="optional">pure-ftpd</packagereq>
       <packagereq type="optional">xferstats</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>gaelic-support</id>
-    <_name>Gaelic Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>gd</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>galician-support</id>
-    <_name>Galician Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>gl</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -2596,16 +2345,6 @@
       <packagereq type="optional">bpg-sans-regular-fonts</packagereq>
       <packagereq type="optional">bpg-serif-fonts</packagereq>
       <packagereq type="optional">bpg-serif-modern-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>german-support</id>
-    <_name>German Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>de</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -3116,16 +2855,6 @@
     </packagelist>
   </group>
   <group>
-    <id>haitian-creole-support</id>
-    <_name>Haitian Creole Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ht</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>hardware-support</id>
     <_name>Hardware Support</_name>
     <_description>This group is a collection of tools for various hardware specific utilities.</_description>
@@ -3251,16 +2980,6 @@
     </packagelist>
   </group>
   <group>
-    <id>hiligaynon-support</id>
-    <_name>Hiligaynon Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>hil</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>hindi-support</id>
     <_name>Hindi Support</_name>
     <_description/>
@@ -3290,26 +3009,6 @@
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>icelandic-support</id>
-    <_name>Icelandic Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>is</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>indonesian-support</id>
-    <_name>Indonesian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>id</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -3415,47 +3114,6 @@
       <packagereq type="optional">uim-skk</packagereq>
       <packagereq type="optional">WritRecogn</packagereq>
       <packagereq type="optional">xsunpinyin</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>interlingua-support</id>
-    <_name>Interlingua Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ia</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>inuktitut-support</id>
-    <_name>Inuktitut Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>iu</langonly>
-    <packagelist>
-      <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>irish-support</id>
-    <_name>Irish Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ga</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>italian-support</id>
-    <_name>Italian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>it</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -3634,26 +3292,6 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>kashubian-support</id>
-    <_name>Kashubian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>csb</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>kazakh-support</id>
-    <_name>Kazakh Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>kk</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -3891,16 +3529,6 @@
     </packagelist>
   </group>
   <group>
-    <id>kinyarwanda-support</id>
-    <_name>Kinyarwanda Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>rw</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>konkani-support</id>
     <_name>Konkani Support</_name>
     <_description/>
@@ -3980,37 +3608,6 @@
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">ibus-table-cyrillic</packagereq>
       <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>lao-support</id>
-    <_name>Lao Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>lo</langonly>
-    <packagelist>
-      <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>latin-support</id>
-    <_name>Latin Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>la</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>latvian-support</id>
-    <_name>Latvian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>lv</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -4148,46 +3745,6 @@
     </packagelist>
   </group>
   <group>
-    <id>lingala-support</id>
-    <_name>Lingala Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ln</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>lithuanian-support</id>
-    <_name>Lithuanian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>lt</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>low-german-support</id>
-    <_name>Low German Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>nds</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>low-saxon-support</id>
-    <_name>Low Saxon Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>nds</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>lower-sorbian-support</id>
     <_name>Lower Sorbian Support</_name>
     <_description/>
@@ -4198,26 +3755,6 @@
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>lule-sami-support</id>
-    <_name>Lule Sami Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>smj</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>luxembourgish-support</id>
-    <_name>Luxembourgish Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>lb</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -4257,16 +3794,6 @@
       <packagereq type="optional">lxmusic</packagereq>
       <packagereq type="optional">obmenu</packagereq>
       <packagereq type="optional">parcellite</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>macedonian-support</id>
-    <_name>Macedonian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>mk</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -4324,26 +3851,6 @@
     </packagelist>
   </group>
   <group>
-    <id>malagasy-support</id>
-    <_name>Malagasy Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>mg</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>malay-support</id>
-    <_name>Malay Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ms</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>malayalam-support</id>
     <_name>Malayalam Support</_name>
     <_description/>
@@ -4364,36 +3871,6 @@
       <packagereq type="default">smc-rachana-fonts</packagereq>
       <packagereq type="default">smc-raghumalayalam-fonts</packagereq>
       <packagereq type="default">smc-suruma-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>maltese-support</id>
-    <_name>Maltese Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>mt</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>manx-support</id>
-    <_name>Manx Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>gv</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>maori-support</id>
-    <_name>Maori Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>mi</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -4532,26 +4009,6 @@
     </packagelist>
   </group>
   <group>
-    <id>mongolian-support</id>
-    <_name>Mongolian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>mn</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>mossi-support</id>
-    <_name>Mossi Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>mos</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>mysql</id>
     <_name>MySQL Database</_name>
     <_description>This package group contains packages useful for use with MySQL.</_description>
@@ -4655,36 +4112,6 @@
     </packagelist>
   </group>
   <group>
-    <id>northern-sami-support</id>
-    <_name>Northern Sami Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>se</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>northern-sotho-support</id>
-    <_name>Northern Sotho Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>nso</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>norwegian-support</id>
-    <_name>Norwegian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>nb</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>ocaml</id>
     <_name>OCaml</_name>
     <_description>
@@ -4721,16 +4148,6 @@
       <packagereq type="optional">ocaml-xml-light-devel</packagereq>
       <packagereq type="optional">ocaml-xmlrpc-light-devel</packagereq>
       <packagereq type="optional">xemacs-tuareg</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>occitan-support</id>
-    <_name>Occitan Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>oc</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -4853,16 +4270,6 @@
     </packagelist>
   </group>
   <group>
-    <id>oromo-support</id>
-    <_name>Oromo Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>om</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>perl</id>
     <_name>Perl Development</_name>
     <_description>Support for developing programs in the Perl programming language.</_description>
@@ -4903,16 +4310,6 @@
       <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
       <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>portuguese-support</id>
-    <_name>Portuguese Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>pt</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -4961,16 +4358,6 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">saab-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>quechua-support</id>
-    <_name>Quechua Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>qu</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -5092,16 +4479,6 @@
     </packagelist>
   </group>
   <group>
-    <id>samoan-support</id>
-    <_name>Samoan Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>sm</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>sanskrit-support</id>
     <_name>Sanskrit Support</_name>
     <_description/>
@@ -5111,16 +4488,6 @@
     <packagelist>
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>sardinian-support</id>
-    <_name>Sardinian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>sc</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -5152,16 +4519,6 @@
       <packagereq type="default">system-config-services</packagereq>
       <packagereq type="optional">system-config-bind</packagereq>
       <packagereq type="optional">system-switch-mail-gnome</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>shuswap-support</id>
-    <_name>Shuswap Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>shs</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -5266,15 +4623,6 @@
       <packagereq type="mandatory">samba-client</packagereq>
       <packagereq type="default">cifs-utils</packagereq>
       <packagereq type="default">system-config-samba</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>somali-support</id>
-    <_name>Somali Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -5418,26 +4766,6 @@
     </packagelist>
   </group>
   <group>
-    <id>southern-ndebele-support</id>
-    <_name>Southern Ndebele Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>nr</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>southern-sotho-support</id>
-    <_name>Southern Sotho Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>st</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>spanish-support</id>
     <_name>Spanish Support</_name>
     <_description/>
@@ -5530,36 +4858,6 @@
       <packagereq type="optional">sugar-pukllanapac</packagereq>
       <packagereq type="optional">sugar-ruler</packagereq>
       <packagereq type="optional">sugar-xomail</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>swahili-support</id>
-    <_name>Swahili Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>sw</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>swati-support</id>
-    <_name>Swati Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ss</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>swedish-support</id>
-    <_name>Swedish Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>sv</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -5779,29 +5077,6 @@
     </packagelist>
   </group>
   <group>
-    <id>tagalog-support</id>
-    <_name>Tagalog Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>tl</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>tajik-support</id>
-    <_name>Tajik Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>tg</langonly>
-    <packagelist>
-      <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
-      <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
-      <packagereq type="default">dejavu-serif-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>tamil-support</id>
     <_name>Tamil Support</_name>
     <_description/>
@@ -5835,16 +5110,6 @@
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">pothana2000-fonts</packagereq>
       <packagereq type="default">vemana2000-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>tetum-support</id>
-    <_name>Tetum Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>tet</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -5941,26 +5206,6 @@
     </packagelist>
   </group>
   <group>
-    <id>tigrinya-support</id>
-    <_name>Tigrinya Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ti</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>tonga-support</id>
-    <_name>Tonga Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>to</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>traditional-chinese-support</id>
     <_name>Traditional Chinese Support</_name>
     <_description/>
@@ -5990,26 +5235,6 @@
     </packagelist>
   </group>
   <group>
-    <id>tsonga-support</id>
-    <_name>Tsonga Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ts</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>tswana-support</id>
-    <_name>Tswana Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>tn</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>turkish-support</id>
     <_name>Turkish Support</_name>
     <_description/>
@@ -6019,16 +5244,6 @@
     <packagelist>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>turkmen-support</id>
-    <_name>Turkmen Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>tk</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -6044,16 +5259,6 @@
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>upper-sorbian-support</id>
-    <_name>Upper Sorbian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>hsb</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -6101,29 +5306,6 @@
     </packagelist>
   </group>
   <group>
-    <id>uzbek-support</id>
-    <_name>Uzbek Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>uz</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
-    <id>venda-support</id>
-    <_name>Venda Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ve</langonly>
-    <packagelist>
-      <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
-      <packagereq type="mandatory">dejavu-sans-mono-fonts</packagereq>
-      <packagereq type="mandatory">dejavu-serif-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>vietnamese-support</id>
     <_name>Vietnamese Support</_name>
     <_description/>
@@ -6151,16 +5333,6 @@
       <packagereq type="optional">libguestfs-tools</packagereq>
       <packagereq type="optional">python-libguestfs</packagereq>
       <packagereq type="optional">virt-top</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>walloon-support</id>
-    <_name>Walloon Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>wa</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -6248,16 +5420,6 @@
       <packagereq type="optional">vdr-wapd</packagereq>
       <packagereq type="optional">vdradmin-am</packagereq>
       <packagereq type="optional">wordpress</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>welsh-support</id>
-    <_name>Welsh Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>cy</langonly>
-    <packagelist>
     </packagelist>
   </group>
   <group>
@@ -6458,16 +5620,6 @@
     </packagelist>
   </group>
   <group>
-    <id>xhosa-support</id>
-    <_name>Xhosa Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>xh</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
-  <group>
     <id>yiddish-support</id>
     <_name>Yiddish Support</_name>
     <_description/>
@@ -6494,164 +5646,68 @@
       <packagereq type="default">culmus-yehuda-clm-fonts</packagereq>
     </packagelist>
   </group>
-  <group>
-    <id>zulu-support</id>
-    <_name>Zulu Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>zu</langonly>
-    <packagelist>
-    </packagelist>
-  </group>
   <category>
     <id>language-support</id>
     <_name>Languages</_name>
     <_description>These packages provide support for various locales including fonts and input methods.</_description>
     <grouplist>
-      <groupid>afrikaans-support</groupid>
-      <groupid>akan-support</groupid>
-      <groupid>albanian-support</groupid>
-      <groupid>amazigh-support</groupid>
       <groupid>arabic-support</groupid>
-      <groupid>armenian-support</groupid>
       <groupid>assamese-support</groupid>
-      <groupid>asturian-support</groupid>
-      <groupid>azerbaijani-support</groupid>
-      <groupid>basque-support</groupid>
       <groupid>belarusian-support</groupid>
       <groupid>bengali-support</groupid>
       <groupid>bhutanese-support</groupid>
-      <groupid>bosnian-support</groupid>
-      <groupid>brazilian-support</groupid>
-      <groupid>breton-support</groupid>
-      <groupid>british-support</groupid>
       <groupid>bulgarian-support</groupid>
       <groupid>burmese-support</groupid>
-      <groupid>catalan-support</groupid>
-      <groupid>chichewa-support</groupid>
-      <groupid>chinese-support</groupid>
       <groupid>chuvash-support</groupid>
-      <groupid>coptic-support</groupid>
       <groupid>croatian-support</groupid>
       <groupid>czech-support</groupid>
-      <groupid>danish-support</groupid>
-      <groupid>dutch-support</groupid>
-      <groupid>esperanto-support</groupid>
       <groupid>estonian-support</groupid>
       <groupid>ethiopic-support</groupid>
-      <groupid>faroese-support</groupid>
-      <groupid>fijian-support</groupid>
-      <groupid>filipino-support</groupid>
       <groupid>finnish-support</groupid>
       <groupid>french-support</groupid>
-      <groupid>frisian-support</groupid>
-      <groupid>friulian-support</groupid>
-      <groupid>gaelic-support</groupid>
-      <groupid>galician-support</groupid>
       <groupid>georgian-support</groupid>
-      <groupid>german-support</groupid>
       <groupid>greek-support</groupid>
       <groupid>gujarati-support</groupid>
-      <groupid>haitian-creole-support</groupid>
       <groupid>hebrew-support</groupid>
-      <groupid>hiligaynon-support</groupid>
       <groupid>hindi-support</groupid>
       <groupid>hungarian-support</groupid>
-      <groupid>icelandic-support</groupid>
-      <groupid>indonesian-support</groupid>
-      <groupid>interlingua-support</groupid>
-      <groupid>inuktitut-support</groupid>
-      <groupid>irish-support</groupid>
-      <groupid>italian-support</groupid>
       <groupid>japanese-support</groupid>
       <groupid>kannada-support</groupid>
       <groupid>kashmiri-support</groupid>
-      <groupid>kashubian-support</groupid>
-      <groupid>kazakh-support</groupid>
       <groupid>khmer-support</groupid>
-      <groupid>kinyarwanda-support</groupid>
       <groupid>konkani-support</groupid>
       <groupid>korean-support</groupid>
       <groupid>kurdish-support</groupid>
       <groupid>kyrgyz-support</groupid>
-      <groupid>lao-support</groupid>
-      <groupid>latin-support</groupid>
-      <groupid>latvian-support</groupid>
-      <groupid>lingala-support</groupid>
-      <groupid>lithuanian-support</groupid>
-      <groupid>low-german-support</groupid>
-      <groupid>low-saxon-support</groupid>
       <groupid>lower-sorbian-support</groupid>
-      <groupid>lule-sami-support</groupid>
-      <groupid>luxembourgish-support</groupid>
-      <groupid>macedonian-support</groupid>
       <groupid>maithili-support</groupid>
-      <groupid>malagasy-support</groupid>
-      <groupid>malay-support</groupid>
       <groupid>malayalam-support</groupid>
-      <groupid>maltese-support</groupid>
-      <groupid>manx-support</groupid>
-      <groupid>maori-support</groupid>
       <groupid>marathi-support</groupid>
-      <groupid>mongolian-support</groupid>
-      <groupid>mossi-support</groupid>
       <groupid>nepali-support</groupid>
-      <groupid>northern-sami-support</groupid>
-      <groupid>northern-sotho-support</groupid>
-      <groupid>norwegian-support</groupid>
-      <groupid>occitan-support</groupid>
       <groupid>oriya-support</groupid>
-      <groupid>oromo-support</groupid>
       <groupid>persian-support</groupid>
       <groupid>polish-support</groupid>
-      <groupid>portuguese-support</groupid>
       <groupid>punjabi-support</groupid>
-      <groupid>quechua-support</groupid>
       <groupid>romanian-support</groupid>
       <groupid>russian-support</groupid>
-      <groupid>samoan-support</groupid>
       <groupid>sanskrit-support</groupid>
-      <groupid>sardinian-support</groupid>
       <groupid>serbian-support</groupid>
-      <groupid>shuswap-support</groupid>
       <groupid>simplified-chinese-support</groupid>
       <groupid>sindhi-support</groupid>
       <groupid>sinhala-support</groupid>
       <groupid>slovak-support</groupid>
       <groupid>slovenian-support</groupid>
-      <groupid>somali-support</groupid>
-      <groupid>southern-ndebele-support</groupid>
-      <groupid>southern-sotho-support</groupid>
       <groupid>spanish-support</groupid>
-      <groupid>swahili-support</groupid>
-      <groupid>swati-support</groupid>
-      <groupid>swedish-support</groupid>
-      <groupid>tagalog-support</groupid>
-      <groupid>tajik-support</groupid>
       <groupid>tamil-support</groupid>
       <groupid>telugu-support</groupid>
-      <groupid>tetum-support</groupid>
       <groupid>thai-support</groupid>
       <groupid>tibetan-support</groupid>
-      <groupid>tigrinya-support</groupid>
-      <groupid>tonga-support</groupid>
       <groupid>traditional-chinese-support</groupid>
-      <groupid>tsonga-support</groupid>
-      <groupid>tswana-support</groupid>
       <groupid>turkish-support</groupid>
-      <groupid>turkmen-support</groupid>
       <groupid>ukrainian-support</groupid>
-      <groupid>upper-sorbian-support</groupid>
       <groupid>urdu-support</groupid>
-      <groupid>uzbek-support</groupid>
-      <groupid>venda-support</groupid>
       <groupid>vietnamese-support</groupid>
-      <groupid>walloon-support</groupid>
-      <groupid>welsh-support</groupid>
-      <groupid>xhosa-support</groupid>
       <groupid>yiddish-support</groupid>
-      <groupid>zulu-support</groupid>
     </grouplist>
   </category>
   <category>
