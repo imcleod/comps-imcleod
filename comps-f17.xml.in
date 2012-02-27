@@ -3688,6 +3688,7 @@
       <packagereq type="conditional" requires="scim">scim-bridge-qt</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">amarok</packagereq>
+      <packagereq type="default">ark</packagereq>
       <packagereq type="default">apper</packagereq>
       <packagereq type="default">bluedevil</packagereq>
       <packagereq type="default">cagibi</packagereq>
@@ -3698,12 +3699,15 @@
       <packagereq type="default">digikam</packagereq>
       <packagereq type="default">k3b</packagereq>
       <packagereq type="default">kamoso</packagereq>
+      <packagereq type="default">kcalc</packagereq>
+      <packagereq type="default">kcharselect</packagereq>
       <packagereq type="default">kcm-gtk</packagereq>
       <packagereq type="default">kcm_touchpad</packagereq>
       <packagereq type="default">kde-plasma-networkmanagement</packagereq>
       <packagereq type="default">kde-plasma-networkmanagement-openvpn</packagereq>
       <packagereq type="default">kde-plasma-networkmanagement-pptp</packagereq>
       <packagereq type="default">kde-plasma-networkmanagement-vpnc</packagereq>
+      <packagereq type="default">kde-printer-applet</packagereq>
       <packagereq type="default">kde-settings-pulseaudio</packagereq>
       <packagereq type="default">kdeaccessibility</packagereq>
       <packagereq type="default">kdeartwork-screensavers</packagereq>
@@ -3718,15 +3722,15 @@
       <packagereq type="default">kdenetwork-krfb</packagereq>
       <packagereq type="default">kdepim</packagereq>
       <packagereq type="default">kdeplasma-addons</packagereq>
-      <packagereq type="default">kdeutils</packagereq>
-      <packagereq type="default">kdeutils-printer-applet</packagereq>
       <packagereq type="default">kdm</packagereq>
+      <packagereq type="default">kgpg</packagereq>
       <packagereq type="default">kipi-plugins</packagereq>
       <packagereq type="default">konq-plugins</packagereq>
       <packagereq type="default">konversation</packagereq>
       <packagereq type="default">krusader</packagereq>
       <packagereq type="default">ksshaskpass</packagereq>
       <packagereq type="default">ktorrent</packagereq>
+      <packagereq type="default">kwallet</packagereq>
       <packagereq type="default">kwebkitpart</packagereq>
       <packagereq type="default">oxygen-gtk</packagereq>
       <packagereq type="default">PackageKit-gstreamer-plugin</packagereq>
@@ -3748,6 +3752,7 @@
       <packagereq type="optional">bibletime</packagereq>
       <packagereq type="optional">compiz-kde</packagereq>
       <packagereq type="optional">crystal</packagereq>
+      <packagereq type="optional">filelight</packagereq>
       <packagereq type="optional">kaffeine</packagereq>
       <packagereq type="optional">kbibtex</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
@@ -3755,6 +3760,7 @@
       <packagereq type="optional">kcm-qt-graphicssystem</packagereq>
       <packagereq type="optional">kcoloredit</packagereq>
       <packagereq type="optional">kcometen4</packagereq>
+      <packagereq type="optional">kremotecontrol</packagereq>
       <packagereq type="optional">kde-colorscheme-plastik</packagereq>
       <packagereq type="optional">kde-partitionmanager</packagereq>
       <packagereq type="optional">kde-plasma-ihatethecashew</packagereq>
@@ -3779,6 +3785,7 @@
       <packagereq type="optional">kdeedu</packagereq>
       <packagereq type="optional">kdetoys</packagereq>
       <packagereq type="optional">kdissert</packagereq>
+      <packagereq type="optional">kfloppy</packagereq>
       <packagereq type="optional">kgrab</packagereq>
       <packagereq type="optional">kiconedit</packagereq>
       <packagereq type="optional">kio-ftps</packagereq>
@@ -3814,6 +3821,8 @@
       <packagereq type="optional">skanlite</packagereq>
       <packagereq type="optional">smb4k</packagereq>
       <packagereq type="optional">speedcrunch</packagereq>
+      <packagereq type="optional">superkaramba</packagereq>
+      <packagereq type="optional">sweeper</packagereq>
       <packagereq type="optional">transmission-qt</packagereq>
       <packagereq type="optional">uim-qt3</packagereq>
       <packagereq type="optional">yakuake</packagereq>
