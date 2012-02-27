@@ -3714,7 +3714,10 @@
       <packagereq type="default">kdemultimedia-juk</packagereq>
       <packagereq type="default">kdemultimedia-kmix</packagereq>
       <packagereq type="default">kdemultimedia-kscd</packagereq>
-      <packagereq type="default">kdenetwork</packagereq>
+      <packagereq type="default">kdenetwork-kdnssd</packagereq>
+      <packagereq type="default">kdenetwork-kget</packagereq>
+      <packagereq type="default">kdenetwork-krdc</packagereq>
+      <packagereq type="default">kdenetwork-krfb</packagereq>
       <packagereq type="default">kdepim</packagereq>
       <packagereq type="default">kdeplasma-addons</packagereq>
       <packagereq type="default">kdeutils</packagereq>
@@ -3770,6 +3773,9 @@
       <packagereq type="optional">kdeartwork</packagereq>
       <packagereq type="optional">kdeartwork-sounds</packagereq>
       <packagereq type="optional">kdeartwork-wallpapers</packagereq>
+      <packagereq type="optional">kdenetwork-fileshare-samba</packagereq>
+      <packagereq type="optional">kdenetwork-kopete</packagereq>
+      <packagereq type="optional">kdenetwork-kppp</packagereq>
       <packagereq type="optional">kdeedu</packagereq>
       <packagereq type="optional">kdetoys</packagereq>
       <packagereq type="optional">kdissert</packagereq>
