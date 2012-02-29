@@ -923,7 +923,7 @@
       <packagereq type="optional">hugin</packagereq>
       <packagereq type="optional">istanbul</packagereq>
       <packagereq type="optional">jokosher</packagereq>
-      <packagereq type="optional">koffice-krita</packagereq>
+      <packagereq type="optional">calligra-krita</packagereq>
       <packagereq type="optional">openclipart</packagereq>
       <packagereq type="optional">openoffice.org-extendedPDF</packagereq>
       <packagereq type="optional">openoffice.org-impress</packagereq>
@@ -3056,7 +3056,7 @@
       <packagereq type="optional">ipe</packagereq>
       <packagereq type="optional">k3d</packagereq>
       <packagereq type="optional">kipi-plugins</packagereq>
-      <packagereq type="optional">koffice-krita</packagereq>
+      <packagereq type="optional">calligra-krita</packagereq>
       <packagereq type="optional">kolourpaint</packagereq>
       <packagereq type="optional">kphotoalbum</packagereq>
       <packagereq type="optional">ksnapshot</packagereq>
@@ -3835,7 +3835,7 @@
       <packagereq type="optional">kmid2</packagereq>
       <packagereq type="optional">kmymoney</packagereq>
       <packagereq type="optional">knemo</packagereq>
-      <packagereq type="optional">koffice-suite</packagereq>
+      <packagereq type="optional">calligra-suite</packagereq>
       <packagereq type="optional">koverartist</packagereq>
       <packagereq type="optional">krecipes</packagereq>
       <packagereq type="optional">krename</packagereq>
@@ -4814,7 +4814,7 @@
       <packagereq type="optional">klatexformula</packagereq>
       <packagereq type="optional">klatexformula-ktexteditor-plugin</packagereq>
       <packagereq type="optional">kmymoney</packagereq>
-      <packagereq type="optional">koffice-suite</packagereq>
+      <packagereq type="optional">calligra-suite</packagereq>
       <packagereq type="optional">krecipes</packagereq>
       <packagereq type="optional">kreetingkard</packagereq>
       <packagereq type="optional">kreetingkard_templates</packagereq>
@@ -6821,6 +6821,7 @@
     <match install="LabPlot-doc-%s" name="LabPlot-doc"/>
     <match install="aspell-%s" name="aspell"/>
     <match install="autocorr-%s" name="autocorr-en"/>
+    <match install="calligra-l10n-%s" name="calligra-core"/>
     <match install="childsplay-alphabet_sounds_%s" name="childsplay"/>
     <match install="eclipse-nls-%s" name="eclipse-platform"/>
     <match install="gcompris-sound-%s" name="gcompris"/>
@@ -6828,7 +6829,6 @@
     <match install="hyphen-%s" name="hyphen"/>
     <match install="kde-l10n-%s" name="kdelibs"/>
     <match install="kde-i18n-%s" name="kdelibs3"/>
-    <match install="koffice-langpack-%s" name="koffice-core"/>
     <match install="libreoffice-langpack-%s" name="libreoffice-core"/>
     <match install="man-pages-%s" name="man-pages"/>
     <match install="moodle-%s" name="moodle"/>
