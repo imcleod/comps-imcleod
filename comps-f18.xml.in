@@ -3988,10 +3988,10 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">mingw32-binutils</packagereq>
+      <packagereq type="mandatory">mingw32-crt</packagereq>
       <packagereq type="mandatory">mingw32-filesystem</packagereq>
       <packagereq type="mandatory">mingw32-gcc</packagereq>
-      <packagereq type="mandatory">mingw32-runtime</packagereq>
-      <packagereq type="mandatory">mingw32-w32api</packagereq>
+      <packagereq type="mandatory">mingw32-headers</packagereq>
       <packagereq type="conditional" requires="mingw32-nsis">mingw32-nsiswrapper</packagereq>
       <packagereq type="default">mingw32-crossreport</packagereq>
       <packagereq type="default">mingw32-nsis</packagereq>
