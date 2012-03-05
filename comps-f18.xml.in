@@ -159,6 +159,7 @@
       <packagereq type="conditional" requires="system-config-date">chrony</packagereq>
       <packagereq type="default">acpid</packagereq>
       <packagereq type="default">bash-completion</packagereq>
+      <packagereq type="default">bridge-utils</packagereq>
       <packagereq type="default">btrfs-progs</packagereq>
       <packagereq type="default">cifs-utils</packagereq>
       <packagereq type="default">coolkey</packagereq>
@@ -237,7 +238,6 @@
       <packagereq type="default">zip</packagereq>
       <packagereq type="optional">apmd</packagereq>
       <packagereq type="optional">authd</packagereq>
-      <packagereq type="optional">bridge-utils</packagereq>
       <packagereq type="optional">brltty</packagereq>
       <packagereq type="optional">fbset</packagereq>
       <packagereq type="optional">gnupg2-smime</packagereq>
