@@ -470,6 +470,21 @@
     </packagelist>
   </group>
   <group>
+     <id>bodo-support</id>
+     <_name>Bodo Support</_name>
+     <_description/>
+     <default>false</default>
+     <uservisible>true</uservisible>
+     <langonly>brx</langonly>
+     <packagelist>
+       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
+       <packagereq type="mandatory">m17n-contrib</packagereq>
+       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+       <packagereq type="default">iok</packagereq>
+       <packagereq type="default">samyak-devanagari-fonts</packagereq>
+     </packagelist>
+   </group>
+  <group>
     <id>books</id>
     <_name>Books and Guides</_name>
     <_description>Books and Guides for Fedora users and developers</_description>
@@ -1278,6 +1293,21 @@
       <packagereq type="optional">unbound</packagereq>
     </packagelist>
   </group>
+  <group>
+     <id>dogri-support</id>
+     <_name>Dogri Support</_name>
+     <_description/>
+     <default>false</default>
+     <uservisible>true</uservisible>
+     <langonly>doi</langonly>
+     <packagelist>
+       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
+       <packagereq type="mandatory">m17n-contrib</packagereq>
+       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+       <packagereq type="default">iok</packagereq>
+       <packagereq type="default">samyak-devanagari-fonts</packagereq>
+     </packagelist>
+   </group>
   <group>
     <id>dogtag</id>
     <_name>Dogtag Certificate System</_name>
@@ -4414,6 +4444,20 @@
     </packagelist>
   </group>
   <group>
+     <id>manipuri-support</id>
+     <_name>Manipuri Support</_name>
+     <_description/>
+     <default>false</default>
+     <uservisible>true</uservisible>
+     <langonly>mni</langonly>
+     <packagelist>
+       <packagereq type="mandatory">lohit-bengali-fonts</packagereq>
+       <packagereq type="mandatory">m17n-contrib</packagereq>
+       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+       <packagereq type="default">iok</packagereq>
+     </packagelist>
+   </group>
+  <group>
     <id>manx-support</id>
     <_name>Manx Support</_name>
     <_description/>
@@ -5150,6 +5194,21 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
     </packagelist>
   </group>
+  <group>
+     <id>santali-support</id>
+     <_name>Santali Support</_name>
+     <_description/>
+     <default>false</default>
+     <uservisible>true</uservisible>
+     <langonly>sat</langonly>
+     <packagelist>
+       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
+       <packagereq type="mandatory">m17n-contrib</packagereq>
+       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+       <packagereq type="default">iok</packagereq>
+       <packagereq type="default">samyak-devanagari-fonts</packagereq>
+     </packagelist>
+   </group>
   <group>
     <id>sardinian-support</id>
     <_name>Sardinian Support</_name>
@@ -6570,6 +6629,7 @@
       <groupid>belarusian-support</groupid>
       <groupid>bengali-support</groupid>
       <groupid>bhutanese-support</groupid>
+      <groupid>bodo-support</groupid>
       <groupid>bosnian-support</groupid>
       <groupid>brazilian-support</groupid>
       <groupid>breton-support</groupid>
@@ -6584,6 +6644,7 @@
       <groupid>croatian-support</groupid>
       <groupid>czech-support</groupid>
       <groupid>danish-support</groupid>
+      <groupid>dogri-support</groupid>
       <groupid>dutch-support</groupid>
       <groupid>esperanto-support</groupid>
       <groupid>estonian-support</groupid>
@@ -6639,6 +6700,7 @@
       <groupid>malay-support</groupid>
       <groupid>malayalam-support</groupid>
       <groupid>maltese-support</groupid>
+      <groupid>manipuri-support</groupid>
       <groupid>manx-support</groupid>
       <groupid>maori-support</groupid>
       <groupid>marathi-support</groupid>
@@ -6660,6 +6722,7 @@
       <groupid>russian-support</groupid>
       <groupid>samoan-support</groupid>
       <groupid>sanskrit-support</groupid>
+      <groupid>santali-support</groupid>
       <groupid>sardinian-support</groupid>
       <groupid>serbian-support</groupid>
       <groupid>shuswap-support</groupid>
