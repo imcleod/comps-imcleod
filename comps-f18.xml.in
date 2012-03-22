@@ -575,6 +575,7 @@
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="mandatory">yum</packagereq>
+      <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">ppc64-utils</packagereq>
       <packagereq type="default">s390utils</packagereq>
       <packagereq type="default">sendmail</packagereq>
