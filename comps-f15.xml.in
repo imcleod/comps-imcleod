@@ -6813,6 +6813,7 @@
       <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-xfce</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
+      <packagereq type="default">fedora-icon-theme</packagereq>
       <packagereq type="default">gdm</packagereq>
       <packagereq type="default">gtk-xfce-engine</packagereq>
       <packagereq type="default">mousepad</packagereq>
