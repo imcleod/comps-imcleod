@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Dimitris Glezos <glezos@indifex.com>, 2011.
 # Translation by Owain Green <owaing@oceanfree.net>, 2004.
@@ -14,11 +14,12 @@ msgstr ""
 "PO-Revision-Date: 2012-04-10 18:22+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cy\n"
-"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
+"11) ? 2 : 3\n"
 
 #: ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1
 #: ../comps-f18.xml.in.h:1 ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
@@ -28,9 +29,11 @@ msgstr "Arfau Gweinyddol"
 #: ../comps-f15.xml.in.h:2 ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2
 #: ../comps-f18.xml.in.h:2 ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system,"
-" such as for managing user accounts and configuring system hardware."
-msgstr "Mae'r grŵp yma'n gasgliad o erfynnau cyflunio graffigol ar gyfer y system, megis ar gyfer trefnu cyfrifon defnyddwyr a chyflunio caledwedd system."
+"This group is a collection of graphical administration tools for the system, "
+"such as for managing user accounts and configuring system hardware."
+msgstr ""
+"Mae'r grŵp yma'n gasgliad o erfynnau cyflunio graffigol ar gyfer y system, "
+"megis ar gyfer trefnu cyfrifon defnyddwyr a chyflunio caledwedd system."
 
 #: ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3
 #: ../comps-el6.xml.in.h:3
@@ -104,7 +107,9 @@ msgstr "Sail"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr "Mae'r grŵp yma'n cynnwys y set leia posib o becynnau. Yn ddefnyddiol ar gyfer creu peiriannau bach ar gyfer llwybro/muriau cadarn, er enghraifft."
+msgstr ""
+"Mae'r grŵp yma'n cynnwys y set leia posib o becynnau. Yn ddefnyddiol ar "
+"gyfer creu peiriannau bach ar gyfer llwybro/muriau cadarn, er enghraifft."
 
 #: ../comps-f15.xml.in.h:17 ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:17
 #: ../comps-f18.xml.in.h:9 ../comps-el4.xml.in.h:9 ../comps-el5.xml.in.h:9
@@ -116,7 +121,9 @@ msgstr "System Ffenestri X"
 #: ../comps-f18.xml.in.h:10 ../comps-el4.xml.in.h:10 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr "Arsefydlwch y grŵp yma o becynnau i ddefnyddio'r rhyngwyneb defnyddiwr graffigol sail (X)."
+msgstr ""
+"Arsefydlwch y grŵp yma o becynnau i ddefnyddio'r rhyngwyneb defnyddiwr "
+"graffigol sail (X)."
 
 #: ../comps-f15.xml.in.h:19 ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:19
 #: ../comps-el6.xml.in.h:18
@@ -252,8 +259,8 @@ msgstr ""
 #: ../comps-f15.xml.in.h:45 ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:48
 #: ../comps-f18.xml.in.h:32
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME"
-" desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME "
+"desktop"
 msgstr ""
 
 #: ../comps-f15.xml.in.h:46 ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:49
@@ -327,9 +334,10 @@ msgstr "Llyfrgelloedd Datblygu"
 #: ../comps-f15.xml.in.h:58 ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:61
 #: ../comps-f18.xml.in.h:44
 msgid ""
-"The packages in this group are core libraries needed to develop "
-"applications."
-msgstr "Mae'r pecynnau yn y grŵp yma'n llyfrgelloedd craidd sydd eu hangen i ddatblygu cymwysiadau."
+"The packages in this group are core libraries needed to develop applications."
+msgstr ""
+"Mae'r pecynnau yn y grŵp yma'n llyfrgelloedd craidd sydd eu hangen i "
+"ddatblygu cymwysiadau."
 
 #: ../comps-f15.xml.in.h:59 ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:62
 #: ../comps-f18.xml.in.h:45 ../comps-el4.xml.in.h:11 ../comps-el5.xml.in.h:14
@@ -341,7 +349,9 @@ msgstr "Arfau Datblygu"
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr "Mae'r erfynnau yma'n cynnwys erfynnau datblygu craidd megis automake, gcc, perl, python, a dadnamyddion."
+msgstr ""
+"Mae'r erfynnau yma'n cynnwys erfynnau datblygu craidd megis automake, gcc, "
+"perl, python, a dadnamyddion."
 
 #: ../comps-f15.xml.in.h:61 ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:64
 #: ../comps-f18.xml.in.h:47 ../comps-el6.xml.in.h:54
@@ -367,7 +377,9 @@ msgstr "Gweinydd Enwau DNS"
 #: ../comps-f18.xml.in.h:51
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr "Mae'r grŵp pecynnau yma'n caniatáu i chi redeg gweinydd enwau DNS (BIND) ar y system."
+msgstr ""
+"Mae'r grŵp pecynnau yma'n caniatáu i chi redeg gweinydd enwau DNS (BIND) ar "
+"y system."
 
 #: ../comps-f15.xml.in.h:66 ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:70
 #: ../comps-f18.xml.in.h:53
@@ -437,7 +449,9 @@ msgstr "Peirianegol a Gwyddonol"
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
-msgstr "Mae'r grŵp yma'n cynnwys pecynnau ar gyfer gweithredu cyfrifiadau mathemategol a gwyddonol, a phlotio, ynghyd â throsi unedau."
+msgstr ""
+"Mae'r grŵp yma'n cynnwys pecynnau ar gyfer gweithredu cyfrifiadau "
+"mathemategol a gwyddonol, a phlotio, ynghyd â throsi unedau."
 
 #: ../comps-f15.xml.in.h:79 ../comps-f16.xml.in.h:79 ../comps-f17.xml.in.h:83
 #: ../comps-el6.xml.in.h:69
@@ -592,7 +606,9 @@ msgstr "Datblygu Meddalwedd GNOME"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr "Arsefydlwch y pecynnau yma yn eu trefn i ddatblygu rhaglenni graffigol GTK+ a GNOME."
+msgstr ""
+"Arsefydlwch y pecynnau yma yn eu trefn i ddatblygu rhaglenni graffigol GTK+ "
+"a GNOME."
 
 #: ../comps-f15.xml.in.h:108 ../comps-f16.xml.in.h:108
 #: ../comps-f17.xml.in.h:112 ../comps-f18.xml.in.h:85 ../comps-el4.xml.in.h:28
@@ -616,7 +632,8 @@ msgstr "Graffeg"
 #: ../comps-f17.xml.in.h:115 ../comps-f18.xml.in.h:88 ../comps-el4.xml.in.h:31
 #: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr "Mae'r grŵp yma'n cynnwys pecynnau i'ch cynorthwyo i drin a sganio delweddau."
+msgstr ""
+"Mae'r grŵp yma'n cynnwys pecynnau i'ch cynorthwyo i drin a sganio delweddau."
 
 #: ../comps-f15.xml.in.h:112 ../comps-f16.xml.in.h:112
 #: ../comps-f17.xml.in.h:116 ../comps-f18.xml.in.h:89 ../comps-el6.xml.in.h:95
@@ -868,7 +885,9 @@ msgstr "Gweinydd Rhwydwaith Etifeddol"
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr "Mae'r pecynnau yma'n cynnwys gweinyddion ar gyfer hen brotocolau rhwydwaith megis rsh a telnet."
+msgstr ""
+"Mae'r pecynnau yma'n cynnwys gweinyddion ar gyfer hen brotocolau rhwydwaith "
+"megis rsh a telnet."
 
 #: ../comps-f15.xml.in.h:157 ../comps-f16.xml.in.h:157
 #: ../comps-f17.xml.in.h:161 ../comps-f18.xml.in.h:120
@@ -940,8 +959,7 @@ msgstr ""
 #: ../comps-f17.xml.in.h:174 ../comps-f18.xml.in.h:127
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older "
-"computers."
+"low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
 
 #: ../comps-f15.xml.in.h:171 ../comps-f16.xml.in.h:171
@@ -1056,7 +1074,8 @@ msgstr "Cronfa Ddata MySQL"
 #: ../comps-f15.xml.in.h:191 ../comps-f16.xml.in.h:191
 #: ../comps-f17.xml.in.h:198 ../comps-f18.xml.in.h:143
 msgid "This package group contains packages useful for use with MySQL."
-msgstr "Mae'r grŵp pecynnau yma'n cynnwys pecynnau sy'n ddefnyddiol gyda MySQL."
+msgstr ""
+"Mae'r grŵp pecynnau yma'n cynnwys pecynnau sy'n ddefnyddiol gyda MySQL."
 
 #: ../comps-f15.xml.in.h:192 ../comps-f16.xml.in.h:192
 #: ../comps-f17.xml.in.h:199 ../comps-f18.xml.in.h:144
@@ -1074,7 +1093,9 @@ msgstr "Gweinyddion Rhwydwaith"
 #: ../comps-f17.xml.in.h:201 ../comps-f18.xml.in.h:146
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr "Mae'r pecynnau yma'n cynnwys gweinyddion sail rhwydwaith megis DHCP, Kerberos ac NIS."
+msgstr ""
+"Mae'r pecynnau yma'n cynnwys gweinyddion sail rhwydwaith megis DHCP, "
+"Kerberos ac NIS."
 
 #: ../comps-f15.xml.in.h:195 ../comps-f16.xml.in.h:195
 #: ../comps-f17.xml.in.h:202 ../comps-f18.xml.in.h:147
@@ -1086,7 +1107,8 @@ msgstr "Gweinydd Newyddion"
 #: ../comps-f17.xml.in.h:203 ../comps-f18.xml.in.h:148
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
-msgstr "Mae'r grŵp yma'n caniatáu i chi gyflunio'r system fel gweinydd newyddion."
+msgstr ""
+"Mae'r grŵp yma'n caniatáu i chi gyflunio'r system fel gweinydd newyddion."
 
 #: ../comps-f15.xml.in.h:197 ../comps-f16.xml.in.h:197
 #: ../comps-f17.xml.in.h:204
@@ -1184,7 +1206,9 @@ msgstr "Cynhaliaeth Argraffu"
 #: ../comps-f17.xml.in.h:221 ../comps-f18.xml.in.h:160
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr "Arsefydlwch yr arfau yma i alluogi'r system i argraffu neu i weithredu fel gweinydd argraffu."
+msgstr ""
+"Arsefydlwch yr arfau yma i alluogi'r system i argraffu neu i weithredu fel "
+"gweinydd argraffu."
 
 #: ../comps-f15.xml.in.h:215 ../comps-f16.xml.in.h:215
 #: ../comps-f17.xml.in.h:222 ../comps-f18.xml.in.h:161
@@ -1253,9 +1277,10 @@ msgstr "Arfau Cyflunio Gweinydd"
 
 #: ../comps-f15.xml.in.h:227 ../comps-f16.xml.in.h:227
 #: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:171
-msgid ""
-"This group contains all of Red Hat's custom server configuration tools."
-msgstr "Mae'r grŵp yma'n cynnwys erfynnau cyflunio gweinyddion addasedig Red Hat i gyd."
+msgid "This group contains all of Red Hat's custom server configuration tools."
+msgstr ""
+"Mae'r grŵp yma'n cynnwys erfynnau cyflunio gweinyddion addasedig Red Hat i "
+"gyd."
 
 #: ../comps-f15.xml.in.h:228 ../comps-f16.xml.in.h:228
 #: ../comps-f17.xml.in.h:236
@@ -1299,9 +1324,11 @@ msgstr "Gweinydd Ffeiliau Windows"
 #: ../comps-f15.xml.in.h:235 ../comps-f16.xml.in.h:235
 #: ../comps-f17.xml.in.h:243 ../comps-f18.xml.in.h:178
 msgid ""
-"This package group allows you to share files between Linux and MS "
-"Windows(tm) systems."
-msgstr "Mae'r grŵp pecynnau yma'n caniatáu i chi rannu ffeiliau rhwng systemau Linux ac MS Windows(tm)."
+"This package group allows you to share files between Linux and MS Windows"
+"(tm) systems."
+msgstr ""
+"Mae'r grŵp pecynnau yma'n caniatáu i chi rannu ffeiliau rhwng systemau Linux "
+"ac MS Windows(tm)."
 
 #: ../comps-f15.xml.in.h:236 ../comps-f16.xml.in.h:236
 #: ../comps-f17.xml.in.h:244
@@ -1320,7 +1347,9 @@ msgstr "Sain a Fideo"
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr "O recordio CDd hyd at chwarae CDdau sain a ffeiliau aml-gyfrwng, galluoga'r grŵp pecynnau yma i chi weithio â sain a fideo ar y system."
+msgstr ""
+"O recordio CDd hyd at chwarae CDdau sain a ffeiliau aml-gyfrwng, galluoga'r "
+"grŵp pecynnau yma i chi weithio â sain a fideo ar y system."
 
 #: ../comps-f15.xml.in.h:239 ../comps-f16.xml.in.h:239
 #: ../comps-f17.xml.in.h:247 ../comps-el6.xml.in.h:222
@@ -1346,7 +1375,8 @@ msgstr "Cronfa Ddata PostgreSQL"
 #: ../comps-f15.xml.in.h:243 ../comps-f16.xml.in.h:243
 #: ../comps-f17.xml.in.h:251 ../comps-f18.xml.in.h:183
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr "Mae'r grŵp pecynnau yma'n cynnwys pecynnau sy'n ddefnyddiol gyda Postgresql."
+msgstr ""
+"Mae'r grŵp pecynnau yma'n cynnwys pecynnau sy'n ddefnyddiol gyda Postgresql."
 
 #: ../comps-f15.xml.in.h:244 ../comps-f16.xml.in.h:244
 #: ../comps-f17.xml.in.h:252 ../comps-f18.xml.in.h:184
@@ -1385,7 +1415,10 @@ msgstr "Arfau System"
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr "Mae'r grŵp yma'n gasgliad o erfynnau amrywiol ar gyfer y system, megis y dibynnydd ar gyfer cysylltu â rhaniadau SMB ac arfau ar gyfer arsylwi trafnidiaeth rhwydwaith."
+msgstr ""
+"Mae'r grŵp yma'n gasgliad o erfynnau amrywiol ar gyfer y system, megis y "
+"dibynnydd ar gyfer cysylltu â rhaniadau SMB ac arfau ar gyfer arsylwi "
+"trafnidiaeth rhwydwaith."
 
 #: ../comps-f15.xml.in.h:251 ../comps-f16.xml.in.h:251
 #: ../comps-f17.xml.in.h:259 ../comps-el6.xml.in.h:248
@@ -1426,7 +1459,9 @@ msgstr "Rhyngrwyd sail Testun"
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr "Mae'r grŵp yma'n cynnwys dibynyddion e-bost, Gwe, a sgwrsio sail testun. Nid oes angen y System Ffenestri X ar y cymwysiadau hyn."
+msgstr ""
+"Mae'r grŵp yma'n cynnwys dibynyddion e-bost, Gwe, a sgwrsio sail testun. Nid "
+"oes angen y System Ffenestri X ar y cymwysiadau hyn."
 
 #: ../comps-f15.xml.in.h:258 ../comps-f16.xml.in.h:258
 #: ../comps-f17.xml.in.h:266 ../comps-f18.xml.in.h:192
@@ -1576,7 +1611,9 @@ msgstr "Datblygu Meddalwedd X"
 #: ../comps-f17.xml.in.h:294 ../comps-f18.xml.in.h:208
 msgid ""
 "These packages allow you to develop applications for the X Window System."
-msgstr "Galluoga'r pecynnau yma i chi ddatblygu cymwysiadau ar gyfer y System Ffenestri X."
+msgstr ""
+"Galluoga'r pecynnau yma i chi ddatblygu cymwysiadau ar gyfer y System "
+"Ffenestri X."
 
 #: ../comps-f15.xml.in.h:285 ../comps-f16.xml.in.h:285
 #: ../comps-f17.xml.in.h:295 ../comps-f18.xml.in.h:209
@@ -1625,8 +1662,8 @@ msgstr "Ieithoedd"
 #: ../comps-f15.xml.in.h:293 ../comps-f16.xml.in.h:293
 #: ../comps-f17.xml.in.h:303 ../comps-f18.xml.in.h:215
 msgid ""
-"These packages provide support for various locales including fonts and input"
-" methods."
+"These packages provide support for various locales including fonts and input "
+"methods."
 msgstr ""
 
 #: ../comps-f15.xml.in.h:294 ../comps-f16.xml.in.h:294
@@ -1753,7 +1790,9 @@ msgstr ""
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr "Mae'r arfau yma'n caniatáu i chi greu dogfennaeth yn y fformat DocBook a'u trosi i HTML, PDF, Postscript, a thestun."
+msgstr ""
+"Mae'r arfau yma'n caniatáu i chi greu dogfennaeth yn y fformat DocBook a'u "
+"trosi i HTML, PDF, Postscript, a thestun."
 
 #: ../comps-el4.xml.in.h:13 ../comps-el5.xml.in.h:16
 msgid "Dialup Networking Support"
@@ -1763,13 +1802,17 @@ msgstr "Cynhaliaeth Rhwydweithio Cyswllt Ffôn"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr "Fe'u gelwir weithiau'n olygyddion testun, rhaglenni yw'r rhain sy'n eich galluogi i greu a golygu ffeiliau. Mae Emacs a Vi yn eu plith."
+msgstr ""
+"Fe'u gelwir weithiau'n olygyddion testun, rhaglenni yw'r rhain sy'n eich "
+"galluogi i greu a golygu ffeiliau. Mae Emacs a Vi yn eu plith."
 
 #: ../comps-el4.xml.in.h:25 ../comps-el5.xml.in.h:32
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr "Rhyngwyneb defnyddiwr graffigol grymus yw GNOME, sy'n cynnwys panel, penbwrdd, eiconau system, a threfnydd ffeiliau graffigol."
+msgstr ""
+"Rhyngwyneb defnyddiwr graffigol grymus yw GNOME, sy'n cynnwys panel, "
+"penbwrdd, eiconau system, a threfnydd ffeiliau graffigol."
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:42
 msgid ""
@@ -1787,9 +1830,11 @@ msgstr "KDE (Amgylchedd Penbwrdd K)"
 
 #: ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop,"
-" system icons, and a graphical file manager."
-msgstr "Rhyngwyneb defnyddiwr graffigol grymus yw KDE, sy'n cynnwys panel, penbwrdd, eiconau system, a threfnydd ffeiliau graffigol."
+"KDE is a powerful, graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"Rhyngwyneb defnyddiwr graffigol grymus yw KDE, sy'n cynnwys panel, penbwrdd, "
+"eiconau system, a threfnydd ffeiliau graffigol."
 
 #: ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -2022,8 +2067,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using "
-"RDMA-based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using RDMA-"
+"based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:110
@@ -2177,8 +2222,7 @@ msgid "Performance Tools"
 msgstr ""
 
 #: ../comps-el6.xml.in.h:183
-msgid ""
-"Tools for diagnosing system and application-level performance problems."
+msgid "Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:184

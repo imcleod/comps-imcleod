@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Bruce Cowan <bruce@bcowan.me.uk>, 2011.
 # Bruce Cowan <l10n@bcowan.fastmail.co.uk>, 2011.
@@ -13,11 +13,12 @@ msgstr ""
 "POT-Creation-Date: 2012-04-10 14:21-0400\n"
 "PO-Revision-Date: 2012-04-10 18:22+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.net/projects/p/"
+"fedora/language/en_GB/)\n"
+"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en_GB\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1
@@ -28,9 +29,11 @@ msgstr "Administration Tools"
 #: ../comps-f15.xml.in.h:2 ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2
 #: ../comps-f18.xml.in.h:2 ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system,"
-" such as for managing user accounts and configuring system hardware."
-msgstr "This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system, "
+"such as for managing user accounts and configuring system hardware."
+msgstr ""
+"This group is a collection of graphical administration tools for the system, "
+"such as for managing user accounts and configuring system hardware."
 
 #: ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3
 #: ../comps-el6.xml.in.h:3
@@ -66,7 +69,8 @@ msgstr "Armenian Support"
 #: ../comps-el4.xml.in.h:6 ../comps-el5.xml.in.h:6
 msgid ""
 "This group is a collection of tools and resources of Armenian environments."
-msgstr "This group is a collection of tools and resources of Armenian environments."
+msgstr ""
+"This group is a collection of tools and resources of Armenian environments."
 
 #: ../comps-f15.xml.in.h:10 ../comps-f16.xml.in.h:10 ../comps-f17.xml.in.h:10
 #: ../comps-f18.xml.in.h:4 ../comps-el6.xml.in.h:8
@@ -87,7 +91,9 @@ msgstr "Authoring and Publishing"
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
-msgstr "These tools allow you to create documents in the DocBook format and convert them into HTML, PDF, Postscript, and text."
+msgstr ""
+"These tools allow you to create documents in the DocBook format and convert "
+"them into HTML, PDF, Postscript, and text."
 
 #: ../comps-f15.xml.in.h:14 ../comps-f16.xml.in.h:14 ../comps-f17.xml.in.h:14
 #: ../comps-el6.xml.in.h:9
@@ -104,7 +110,9 @@ msgstr "Base"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr "This group includes a minimal set of packages. Useful for creating small router/firewall boxes, for example."
+msgstr ""
+"This group includes a minimal set of packages. Useful for creating small "
+"router/firewall boxes, for example."
 
 #: ../comps-f15.xml.in.h:17 ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:17
 #: ../comps-f18.xml.in.h:9 ../comps-el4.xml.in.h:9 ../comps-el5.xml.in.h:9
@@ -116,7 +124,8 @@ msgstr "X Window System"
 #: ../comps-f18.xml.in.h:10 ../comps-el4.xml.in.h:10 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr "Install this group of packages to use the base graphical (X) user interface."
+msgstr ""
+"Install this group of packages to use the base graphical (X) user interface."
 
 #: ../comps-f15.xml.in.h:19 ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:19
 #: ../comps-el6.xml.in.h:18
@@ -242,7 +251,9 @@ msgstr "Critical Path (Base)"
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr "A set of packages that provide the shared platform for Critical Path functionality on all Fedora spins"
+msgstr ""
+"A set of packages that provide the shared platform for Critical Path "
+"functionality on all Fedora spins"
 
 #: ../comps-f15.xml.in.h:44 ../comps-f16.xml.in.h:44 ../comps-f17.xml.in.h:47
 #: ../comps-f18.xml.in.h:31
@@ -252,9 +263,11 @@ msgstr "Critical Path (GNOME)"
 #: ../comps-f15.xml.in.h:45 ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:48
 #: ../comps-f18.xml.in.h:32
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME"
-" desktop"
-msgstr "A set of packages that provide the Critical Path functionality for the GNOME desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME "
+"desktop"
+msgstr ""
+"A set of packages that provide the Critical Path functionality for the GNOME "
+"desktop"
 
 #: ../comps-f15.xml.in.h:46 ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:49
 #: ../comps-f18.xml.in.h:33
@@ -266,7 +279,9 @@ msgstr "Critical Path (KDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr "A set of packages that provide the Critical Path functionality for the KDE desktop"
+msgstr ""
+"A set of packages that provide the Critical Path functionality for the KDE "
+"desktop"
 
 #: ../comps-f15.xml.in.h:48 ../comps-f16.xml.in.h:48 ../comps-f17.xml.in.h:51
 #: ../comps-f18.xml.in.h:35
@@ -278,7 +293,9 @@ msgstr "Critical Path (LXDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr "A set of packages that provide the Critical Path functionality for the LXDE desktop"
+msgstr ""
+"A set of packages that provide the Critical Path functionality for the LXDE "
+"desktop"
 
 #: ../comps-f15.xml.in.h:50 ../comps-f16.xml.in.h:50 ../comps-f17.xml.in.h:53
 #: ../comps-f18.xml.in.h:37
@@ -290,7 +307,9 @@ msgstr "Critical Path (Xfce)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
-msgstr "A set of packages that provide the Critical Path functionality for the Xfce desktop"
+msgstr ""
+"A set of packages that provide the Critical Path functionality for the Xfce "
+"desktop"
 
 #: ../comps-f15.xml.in.h:52 ../comps-f16.xml.in.h:52 ../comps-f17.xml.in.h:55
 #: ../comps-f18.xml.in.h:39 ../comps-el6.xml.in.h:41
@@ -317,7 +336,9 @@ msgstr "Design Suite"
 msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
-msgstr "These packages are targeted towards professional designers, like the Fedora Design Team."
+msgstr ""
+"These packages are targeted towards professional designers, like the Fedora "
+"Design Team."
 
 #: ../comps-f15.xml.in.h:57 ../comps-f16.xml.in.h:57 ../comps-f17.xml.in.h:60
 #: ../comps-f18.xml.in.h:43
@@ -327,9 +348,9 @@ msgstr "Development Libraries"
 #: ../comps-f15.xml.in.h:58 ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:61
 #: ../comps-f18.xml.in.h:44
 msgid ""
-"The packages in this group are core libraries needed to develop "
-"applications."
-msgstr "The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop applications."
+msgstr ""
+"The packages in this group are core libraries needed to develop applications."
 
 #: ../comps-f15.xml.in.h:59 ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:62
 #: ../comps-f18.xml.in.h:45 ../comps-el4.xml.in.h:11 ../comps-el5.xml.in.h:14
@@ -341,7 +362,9 @@ msgstr "Development Tools"
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr "These tools include core development tools such as automake, gcc, perl, python and debuggers."
+msgstr ""
+"These tools include core development tools such as automake, gcc, perl, "
+"python and debuggers."
 
 #: ../comps-f15.xml.in.h:61 ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:64
 #: ../comps-f18.xml.in.h:47 ../comps-el6.xml.in.h:54
@@ -367,7 +390,8 @@ msgstr "DNS Name Server"
 #: ../comps-f18.xml.in.h:51
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr "This package group allows you to run a DNS name server (BIND) on the system."
+msgstr ""
+"This package group allows you to run a DNS name server (BIND) on the system."
 
 #: ../comps-f15.xml.in.h:66 ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:70
 #: ../comps-f18.xml.in.h:53
@@ -404,7 +428,9 @@ msgstr "Editors"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr "Sometimes called text editors, these are programs that allow you to create and edit text files. This includes Emacs and Vi."
+msgstr ""
+"Sometimes called text editors, these are programs that allow you to create "
+"and edit text files. This includes Emacs and Vi."
 
 #: ../comps-f15.xml.in.h:73 ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:77
 #: ../comps-f18.xml.in.h:59 ../comps-el4.xml.in.h:16 ../comps-el5.xml.in.h:19
@@ -437,7 +463,9 @@ msgstr "Engineering and Scientific"
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
-msgstr "This group includes packages for performing mathematical and scientific computations and plotting, as well as unit conversion."
+msgstr ""
+"This group includes packages for performing mathematical and scientific "
+"computations and plotting, as well as unit conversion."
 
 #: ../comps-f15.xml.in.h:79 ../comps-f16.xml.in.h:79 ../comps-f17.xml.in.h:83
 #: ../comps-el6.xml.in.h:69
@@ -500,7 +528,9 @@ msgstr "Font design and packaging"
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
-msgstr "This group is a collection of tools used in the design, modification, manipulation, and packaging of fonts."
+msgstr ""
+"This group is a collection of tools used in the design, modification, "
+"manipulation, and packaging of fonts."
 
 #: ../comps-f15.xml.in.h:91 ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:95
 #: ../comps-f18.xml.in.h:73 ../comps-el6.xml.in.h:78
@@ -578,7 +608,9 @@ msgstr "GNOME Desktop Environment"
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr "GNOME is a powerful graphical user interface which includes a panel, desktop, system icons and a graphical file manager."
+msgstr ""
+"GNOME is a powerful graphical user interface which includes a panel, "
+"desktop, system icons and a graphical file manager."
 
 #: ../comps-f15.xml.in.h:106 ../comps-f16.xml.in.h:106
 #: ../comps-f17.xml.in.h:110 ../comps-f18.xml.in.h:83 ../comps-el4.xml.in.h:26
@@ -592,7 +624,9 @@ msgstr "GNOME Software Development"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr "Install these packages in order to develop GTK+ and GNOME graphical applications."
+msgstr ""
+"Install these packages in order to develop GTK+ and GNOME graphical "
+"applications."
 
 #: ../comps-f15.xml.in.h:108 ../comps-f16.xml.in.h:108
 #: ../comps-f17.xml.in.h:112 ../comps-f18.xml.in.h:85 ../comps-el4.xml.in.h:28
@@ -644,7 +678,8 @@ msgstr "Hardware Support"
 #: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
-msgstr "This group is a collection of tools for various hardware specific utilities."
+msgstr ""
+"This group is a collection of tools for various hardware specific utilities."
 
 #: ../comps-f15.xml.in.h:117 ../comps-f16.xml.in.h:117
 #: ../comps-f17.xml.in.h:121 ../comps-f18.xml.in.h:93
@@ -785,7 +820,10 @@ msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
-msgstr "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications."
+msgstr ""
+"The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
+"user interface which includes a panel, desktop, system icons and desktop "
+"widgets, and many powerful KDE applications."
 
 #: ../comps-f15.xml.in.h:142 ../comps-f16.xml.in.h:142
 #: ../comps-f17.xml.in.h:146 ../comps-f18.xml.in.h:109
@@ -868,7 +906,9 @@ msgstr "Legacy Network Server"
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr "These packages include servers for old network protocols such as rsh and telnet."
+msgstr ""
+"These packages include servers for old network protocols such as rsh and "
+"telnet."
 
 #: ../comps-f15.xml.in.h:157 ../comps-f16.xml.in.h:157
 #: ../comps-f17.xml.in.h:161 ../comps-f18.xml.in.h:120
@@ -894,7 +934,8 @@ msgstr "LibreOffice Development"
 #: ../comps-f17.xml.in.h:165 ../comps-f18.xml.in.h:124
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
-msgstr "These packages are helpful when developing LibreOffice extensions or macros."
+msgstr ""
+"These packages are helpful when developing LibreOffice extensions or macros."
 
 #: ../comps-f15.xml.in.h:162 ../comps-f16.xml.in.h:162
 #: ../comps-f17.xml.in.h:166
@@ -940,9 +981,10 @@ msgstr "LXDE"
 #: ../comps-f17.xml.in.h:174 ../comps-f18.xml.in.h:127
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older "
-"computers."
-msgstr "LXDE is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older computers."
+msgstr ""
+"LXDE is a lightweight X11 desktop environment designed for computers with "
+"low hardware specifications like netbooks, mobile devices or older computers."
 
 #: ../comps-f15.xml.in.h:171 ../comps-f16.xml.in.h:171
 #: ../comps-f17.xml.in.h:175 ../comps-el6.xml.in.h:147
@@ -1036,7 +1078,9 @@ msgstr "MinGW cross-compiler"
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
-msgstr "Support for cross-compiling programs to 32 bit Windows targets, testing them, and building installers, all from within Fedora."
+msgstr ""
+"Support for cross-compiling programs to 32 bit Windows targets, testing "
+"them, and building installers, all from within Fedora."
 
 #: ../comps-f15.xml.in.h:188 ../comps-f16.xml.in.h:188
 #: ../comps-f17.xml.in.h:195 ../comps-el6.xml.in.h:162
@@ -1074,7 +1118,8 @@ msgstr "Network Servers"
 #: ../comps-f17.xml.in.h:201 ../comps-f18.xml.in.h:146
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr "These packages include network-based servers such as DHCP, Kerberos and NIS."
+msgstr ""
+"These packages include network-based servers such as DHCP, Kerberos and NIS."
 
 #: ../comps-f15.xml.in.h:195 ../comps-f16.xml.in.h:195
 #: ../comps-f17.xml.in.h:202 ../comps-f18.xml.in.h:147
@@ -1113,7 +1158,9 @@ msgstr "OCaml"
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
-msgstr "Support for developing software using the Objective CAML programming language and libraries."
+msgstr ""
+"Support for developing software using the Objective CAML programming "
+"language and libraries."
 
 #: ../comps-f15.xml.in.h:202 ../comps-f16.xml.in.h:202
 #: ../comps-f17.xml.in.h:209 ../comps-el6.xml.in.h:178
@@ -1184,7 +1231,8 @@ msgstr "Printing Support"
 #: ../comps-f17.xml.in.h:221 ../comps-f18.xml.in.h:160
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr "Install these tools to enable the system to print or act as a print server."
+msgstr ""
+"Install these tools to enable the system to print or act as a print server."
 
 #: ../comps-f15.xml.in.h:215 ../comps-f16.xml.in.h:215
 #: ../comps-f17.xml.in.h:222 ../comps-f18.xml.in.h:161
@@ -1253,9 +1301,9 @@ msgstr "Server Configuration Tools"
 
 #: ../comps-f15.xml.in.h:227 ../comps-f16.xml.in.h:227
 #: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:171
-msgid ""
+msgid "This group contains all of Red Hat's custom server configuration tools."
+msgstr ""
 "This group contains all of Red Hat's custom server configuration tools."
-msgstr "This group contains all of Red Hat's custom server configuration tools."
 
 #: ../comps-f15.xml.in.h:228 ../comps-f16.xml.in.h:228
 #: ../comps-f17.xml.in.h:236
@@ -1299,9 +1347,11 @@ msgstr "Windows File Server"
 #: ../comps-f15.xml.in.h:235 ../comps-f16.xml.in.h:235
 #: ../comps-f17.xml.in.h:243 ../comps-f18.xml.in.h:178
 msgid ""
-"This package group allows you to share files between Linux and MS "
-"Windows(tm) systems."
-msgstr "This package group allows you to share files between Linux and MS Windows(tm) systems."
+"This package group allows you to share files between Linux and MS Windows"
+"(tm) systems."
+msgstr ""
+"This package group allows you to share files between Linux and MS Windows"
+"(tm) systems."
 
 #: ../comps-f15.xml.in.h:236 ../comps-f16.xml.in.h:236
 #: ../comps-f17.xml.in.h:244
@@ -1320,7 +1370,9 @@ msgstr "Sound and Video"
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr "From CD recording to playing audio CDs and multimedia files, this package group allows you to work with sound and video on the system."
+msgstr ""
+"From CD recording to playing audio CDs and multimedia files, this package "
+"group allows you to work with sound and video on the system."
 
 #: ../comps-f15.xml.in.h:239 ../comps-f16.xml.in.h:239
 #: ../comps-f17.xml.in.h:247 ../comps-el6.xml.in.h:222
@@ -1385,7 +1437,9 @@ msgstr "System Tools"
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr "This group is a collection of various tools for the system, such as the client for connecting to SMB shares and tools to monitor network traffic."
+msgstr ""
+"This group is a collection of various tools for the system, such as the "
+"client for connecting to SMB shares and tools to monitor network traffic."
 
 #: ../comps-f15.xml.in.h:251 ../comps-f16.xml.in.h:251
 #: ../comps-f17.xml.in.h:259 ../comps-el6.xml.in.h:248
@@ -1426,7 +1480,9 @@ msgstr "Text-based Internet"
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr "This group includes text-based email, web, and chat clients. These applications do not require the X Window System."
+msgstr ""
+"This group includes text-based email, web, and chat clients. These "
+"applications do not require the X Window System."
 
 #: ../comps-f15.xml.in.h:258 ../comps-f16.xml.in.h:258
 #: ../comps-f17.xml.in.h:266 ../comps-f18.xml.in.h:192
@@ -1535,7 +1591,8 @@ msgstr "Web Development"
 #: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:64
 msgid ""
 "These packages are helpful when developing web applications or web pages."
-msgstr "These packages are helpful when developing web applications or web pages."
+msgstr ""
+"These packages are helpful when developing web applications or web pages."
 
 #: ../comps-f15.xml.in.h:278 ../comps-f16.xml.in.h:278
 #: ../comps-f17.xml.in.h:288 ../comps-f18.xml.in.h:203
@@ -1565,7 +1622,8 @@ msgstr "Window Managers"
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
-msgstr "Simple window managers that aren't part of a larger desktop environment."
+msgstr ""
+"Simple window managers that aren't part of a larger desktop environment."
 
 #: ../comps-f15.xml.in.h:283 ../comps-f16.xml.in.h:283
 #: ../comps-f17.xml.in.h:293 ../comps-f18.xml.in.h:207
@@ -1576,7 +1634,8 @@ msgstr "X Software Development"
 #: ../comps-f17.xml.in.h:294 ../comps-f18.xml.in.h:208
 msgid ""
 "These packages allow you to develop applications for the X Window System."
-msgstr "These packages allow you to develop applications for the X Window System."
+msgstr ""
+"These packages allow you to develop applications for the X Window System."
 
 #: ../comps-f15.xml.in.h:285 ../comps-f16.xml.in.h:285
 #: ../comps-f17.xml.in.h:295 ../comps-f18.xml.in.h:209
@@ -1600,7 +1659,9 @@ msgstr "XFCE Software Development"
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
-msgstr "Install these packages in order to develop GTK+ and XFCE graphical applications."
+msgstr ""
+"Install these packages in order to develop GTK+ and XFCE graphical "
+"applications."
 
 #: ../comps-f15.xml.in.h:289 ../comps-f16.xml.in.h:289
 #: ../comps-f17.xml.in.h:299 ../comps-el6.xml.in.h:291
@@ -1625,9 +1686,11 @@ msgstr "Languages"
 #: ../comps-f15.xml.in.h:293 ../comps-f16.xml.in.h:293
 #: ../comps-f17.xml.in.h:303 ../comps-f18.xml.in.h:215
 msgid ""
-"These packages provide support for various locales including fonts and input"
-" methods."
-msgstr "These packages provide support for various locales including fonts and input methods."
+"These packages provide support for various locales including fonts and input "
+"methods."
+msgstr ""
+"These packages provide support for various locales including fonts and input "
+"methods."
 
 #: ../comps-f15.xml.in.h:294 ../comps-f16.xml.in.h:294
 #: ../comps-f17.xml.in.h:304 ../comps-f18.xml.in.h:216
@@ -1664,7 +1727,9 @@ msgstr "Development"
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
-msgstr "Packages which provide functionality for developing and building applications."
+msgstr ""
+"Packages which provide functionality for developing and building "
+"applications."
 
 #: ../comps-f15.xml.in.h:300 ../comps-f16.xml.in.h:300
 #: ../comps-f17.xml.in.h:310 ../comps-f18.xml.in.h:222
@@ -1747,13 +1812,16 @@ msgstr ""
 #: ../comps-el4.xml.in.h:4 ../comps-el5.xml.in.h:4
 msgid ""
 "This group is a collection of tools and resources of Arabic environments."
-msgstr "This group is a collection of tools and resources of Arabic environments."
+msgstr ""
+"This group is a collection of tools and resources of Arabic environments."
 
 #: ../comps-el4.xml.in.h:8 ../comps-el5.xml.in.h:8
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr "These tools allow you to create documentation in the DocBook format and convert it into HTML, PDF, Postscript, and text."
+msgstr ""
+"These tools allow you to create documentation in the DocBook format and "
+"convert it into HTML, PDF, Postscript, and text."
 
 #: ../comps-el4.xml.in.h:13 ../comps-el5.xml.in.h:16
 msgid "Dialup Networking Support"
@@ -1763,23 +1831,29 @@ msgstr "Dial-up Networking Support"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr "Sometimes called text editors, these are programs that allow you to create and edit files. These include Emacs and Vi."
+msgstr ""
+"Sometimes called text editors, these are programs that allow you to create "
+"and edit files. These include Emacs and Vi."
 
 #: ../comps-el4.xml.in.h:25 ../comps-el5.xml.in.h:32
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr "GNOME is a powerful graphical, user interface which includes a panel, desktop, system icons, and a graphical file manager."
+msgstr ""
+"GNOME is a powerful graphical, user interface which includes a panel, "
+"desktop, system icons, and a graphical file manager."
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:42
 msgid ""
 "This group is a collection of tools and resources of Hebrew environments."
-msgstr "This group is a collection of tools and resources of Hebrew environments."
+msgstr ""
+"This group is a collection of tools and resources of Hebrew environments."
 
 #: ../comps-el4.xml.in.h:37 ../comps-el5.xml.in.h:44
 msgid ""
 "This group is a collection of tools and resources of Japanese environments."
-msgstr "This group is a collection of tools and resources of Japanese environments."
+msgstr ""
+"This group is a collection of tools and resources of Japanese environments."
 
 #: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:45
 msgid "KDE (K Desktop Environment)"
@@ -1787,9 +1861,11 @@ msgstr "KDE (K Desktop Environment)"
 
 #: ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop,"
-" system icons, and a graphical file manager."
-msgstr "KDE is a powerful graphical, user interface which includes a panel, desktop, system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE is a powerful graphical, user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
 
 #: ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -1810,7 +1886,8 @@ msgstr "Applications to perform a variety of tasks"
 #: ../comps-el5.xml.in.h:13
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
-msgstr "This group is a collection of tools and resources of Czech environments."
+msgstr ""
+"This group is a collection of tools and resources of Czech environments."
 
 #: ../comps-el6.xml.in.h:1
 msgid "Additional Development"
@@ -1819,7 +1896,8 @@ msgstr "Additional Development"
 #: ../comps-el6.xml.in.h:2
 msgid ""
 "Additional development headers and libraries for developing applications"
-msgstr "Additional development headers and libraries for developing applications"
+msgstr ""
+"Additional development headers and libraries for developing applications"
 
 #: ../comps-el6.xml.in.h:10
 msgid "Backup Client"
@@ -1873,7 +1951,9 @@ msgstr "Compatibility libraries"
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
-msgstr "Compatibility libraries for applications built on previous versions of Enterprise Linux."
+msgstr ""
+"Compatibility libraries for applications built on previous versions of "
+"Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:36
 msgid "Console internet tools"
@@ -1895,7 +1975,9 @@ msgstr "Debugging Tools"
 msgid ""
 "Tools for debugging misbehaving applications and diagnosing performance "
 "problems."
-msgstr "Tools for debugging misbehaving applications and diagnosing performance problems."
+msgstr ""
+"Tools for debugging misbehaving applications and diagnosing performance "
+"problems."
 
 #: ../comps-el6.xml.in.h:46
 msgid "Desktop Debugging and Performance Tools"
@@ -1921,7 +2003,9 @@ msgstr "Desktop Platform Development"
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
-msgstr "Development headers and libraries for developing applications to run on the Enterprise Linux Desktop Platform."
+msgstr ""
+"Development headers and libraries for developing applications to run on the "
+"Enterprise Linux Desktop Platform."
 
 #: ../comps-el6.xml.in.h:52
 msgid "Development tools"
@@ -1998,7 +2082,8 @@ msgstr "Graphical Administration Tools"
 #: ../comps-el6.xml.in.h:92
 msgid ""
 "Graphical system administration tools for managing many aspects of a system."
-msgstr "Graphical system administration tools for managing many aspects of a system."
+msgstr ""
+"Graphical system administration tools for managing many aspects of a system."
 
 #: ../comps-el6.xml.in.h:93
 msgid "Graphics Creation Tools"
@@ -2022,9 +2107,11 @@ msgstr "Infiniband Support"
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using "
-"RDMA-based InfiniBand and iWARP fabrics."
-msgstr "Software designed for supporting clustering and grid connectivity using RDMA-based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using RDMA-"
+"based InfiniBand and iWARP fabrics."
+msgstr ""
+"Software designed for supporting clustering and grid connectivity using RDMA-"
+"based InfiniBand and iWARP fabrics."
 
 #: ../comps-el6.xml.in.h:110
 msgid "Software for the input of international text."
@@ -2078,7 +2165,9 @@ msgstr "Legacy UNIX compatibility"
 msgid ""
 "Compatibility programs for migration from or working with legacy UNIX "
 "environments."
-msgstr "Compatibility programs for migration from or working with legacy UNIX environments."
+msgstr ""
+"Compatibility programs for migration from or working with legacy UNIX "
+"environments."
 
 #: ../comps-el6.xml.in.h:140
 msgid "Legacy X Window System compatibility"
@@ -2088,7 +2177,9 @@ msgstr "Legacy X Window System compatibility"
 msgid ""
 "Compatibility programs for migration from or working with legacy X Window "
 "System environments."
-msgstr "Compatibility programs for migration from or working with legacy X Window System environments."
+msgstr ""
+"Compatibility programs for migration from or working with legacy X Window "
+"System environments."
 
 #: ../comps-el6.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
@@ -2098,7 +2189,9 @@ msgstr "Basic legacy X Window System compatibility"
 msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
-msgstr "Minimal set of compatibility programs for migration from or working with legacy X Window System environments."
+msgstr ""
+"Minimal set of compatibility programs for migration from or working with "
+"legacy X Window System environments."
 
 #: ../comps-el6.xml.in.h:148
 msgid "E-mail server"
@@ -2177,9 +2270,9 @@ msgid "Performance Tools"
 msgstr "Performance Tools"
 
 #: ../comps-el6.xml.in.h:183
-msgid ""
+msgid "Tools for diagnosing system and application-level performance problems."
+msgstr ""
 "Tools for diagnosing system and application-level performance problems."
-msgstr "Tools for diagnosing system and application-level performance problems."
 
 #: ../comps-el6.xml.in.h:184
 msgid "Perl Support"
@@ -2240,7 +2333,8 @@ msgstr "Scientific support"
 #: ../comps-el6.xml.in.h:206
 msgid ""
 "Tools for mathematical and scientific computations, and parallel computing."
-msgstr "Tools for mathematical and scientific computations, and parallel computing."
+msgstr ""
+"Tools for mathematical and scientific computations, and parallel computing."
 
 #: ../comps-el6.xml.in.h:207
 msgid "Security Tools"
@@ -2266,7 +2360,9 @@ msgstr "Server Platform Development"
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
-msgstr "Development headers and libraries for developing applications to run on the Enterprise Linux Server Platform."
+msgstr ""
+"Development headers and libraries for developing applications to run on the "
+"Enterprise Linux Server Platform."
 
 #: ../comps-el6.xml.in.h:214
 msgid "Server Policy"
@@ -2404,7 +2500,9 @@ msgstr "Virtualisation Platform"
 msgid ""
 "Provides an interface for accessing and controlling virtualized guests and "
 "containers."
-msgstr "Provides an interface for accessing and controlling virtualised guests and containers."
+msgstr ""
+"Provides an interface for accessing and controlling virtualised guests and "
+"containers."
 
 #: ../comps-el6.xml.in.h:277
 msgid "Virtualization Tools"
@@ -2418,7 +2516,9 @@ msgstr "Tools for offline virtual image management."
 msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
-msgstr "Allows the system to act as a web server, and run Perl and Python web applications."
+msgstr ""
+"Allows the system to act as a web server, and run Perl and Python web "
+"applications."
 
 #: ../comps-el6.xml.in.h:282
 msgid "Web Servlet Engine"

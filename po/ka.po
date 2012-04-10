@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Dimitris Glezos <glezos@indifex.com>, 2011.
 # George Machitidze <giomac@gmail.com>, 2005, 2006, 2007.
@@ -13,10 +13,10 @@ msgstr ""
 "PO-Revision-Date: 2012-04-10 18:22+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ka\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
 #: ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1
@@ -27,8 +27,8 @@ msgstr "ადმინისტრირების ინსტრუმე�
 #: ../comps-f15.xml.in.h:2 ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2
 #: ../comps-f18.xml.in.h:2 ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system,"
-" such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system, "
+"such as for managing user accounts and configuring system hardware."
 msgstr ""
 
 #: ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3
@@ -251,8 +251,8 @@ msgstr ""
 #: ../comps-f15.xml.in.h:45 ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:48
 #: ../comps-f18.xml.in.h:32
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME"
-" desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME "
+"desktop"
 msgstr ""
 
 #: ../comps-f15.xml.in.h:46 ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:49
@@ -326,8 +326,7 @@ msgstr "პროგრამირების ბიბლიოთეკე�
 #: ../comps-f15.xml.in.h:58 ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:61
 #: ../comps-f18.xml.in.h:44
 msgid ""
-"The packages in this group are core libraries needed to develop "
-"applications."
+"The packages in this group are core libraries needed to develop applications."
 msgstr ""
 
 #: ../comps-f15.xml.in.h:59 ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:62
@@ -591,7 +590,9 @@ msgstr "GNOME-ის პროგრამების შექმნა"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr "GTK+-ის და GNOME-ის გრაფიკული პროგრამების შემუშავებისთვის დააყენეთ ეს პაკეტები."
+msgstr ""
+"GTK+-ის და GNOME-ის გრაფიკული პროგრამების შემუშავებისთვის დააყენეთ ეს "
+"პაკეტები."
 
 #: ../comps-f15.xml.in.h:108 ../comps-f16.xml.in.h:108
 #: ../comps-f17.xml.in.h:112 ../comps-f18.xml.in.h:85 ../comps-el4.xml.in.h:28
@@ -796,7 +797,8 @@ msgstr "KDE-ის პროგრამების შექმნა"
 #: ../comps-f17.xml.in.h:147 ../comps-f18.xml.in.h:110
 #: ../comps-el4.xml.in.h:45 ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr "QT-ის და KDE-ის გრაფიკული პროგრამების შემუშავებისთვის დააყენეთ ეს პაკეტები."
+msgstr ""
+"QT-ის და KDE-ის გრაფიკული პროგრამების შემუშავებისთვის დააყენეთ ეს პაკეტები."
 
 #: ../comps-f15.xml.in.h:144 ../comps-f16.xml.in.h:144
 #: ../comps-f17.xml.in.h:148 ../comps-f18.xml.in.h:111
@@ -939,8 +941,7 @@ msgstr ""
 #: ../comps-f17.xml.in.h:174 ../comps-f18.xml.in.h:127
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older "
-"computers."
+"low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
 
 #: ../comps-f15.xml.in.h:171 ../comps-f16.xml.in.h:171
@@ -1252,8 +1253,7 @@ msgstr "სერვერის კონფიგურირების ი�
 
 #: ../comps-f15.xml.in.h:227 ../comps-f16.xml.in.h:227
 #: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:171
-msgid ""
-"This group contains all of Red Hat's custom server configuration tools."
+msgid "This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 
 #: ../comps-f15.xml.in.h:228 ../comps-f16.xml.in.h:228
@@ -1298,8 +1298,8 @@ msgstr "Windows-ის ფაილური სერვერი"
 #: ../comps-f15.xml.in.h:235 ../comps-f16.xml.in.h:235
 #: ../comps-f17.xml.in.h:243 ../comps-f18.xml.in.h:178
 msgid ""
-"This package group allows you to share files between Linux and MS "
-"Windows(tm) systems."
+"This package group allows you to share files between Linux and MS Windows"
+"(tm) systems."
 msgstr ""
 
 #: ../comps-f15.xml.in.h:236 ../comps-f16.xml.in.h:236
@@ -1624,8 +1624,8 @@ msgstr "ენები"
 #: ../comps-f15.xml.in.h:293 ../comps-f16.xml.in.h:293
 #: ../comps-f17.xml.in.h:303 ../comps-f18.xml.in.h:215
 msgid ""
-"These packages provide support for various locales including fonts and input"
-" methods."
+"These packages provide support for various locales including fonts and input "
+"methods."
 msgstr ""
 
 #: ../comps-f15.xml.in.h:294 ../comps-f16.xml.in.h:294
@@ -1786,8 +1786,8 @@ msgstr "KDE (K Desktop Environment)"
 
 #: ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop,"
-" system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
 msgstr ""
 
 #: ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:52
@@ -2021,8 +2021,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using "
-"RDMA-based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using RDMA-"
+"based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:110
@@ -2176,8 +2176,7 @@ msgid "Performance Tools"
 msgstr ""
 
 #: ../comps-el6.xml.in.h:183
-msgid ""
-"Tools for diagnosing system and application-level performance problems."
+msgid "Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:184
