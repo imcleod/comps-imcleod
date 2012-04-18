@@ -5616,6 +5616,7 @@
       <packagereq type="conditional" requires="imsettings">im-chooser-xfce</packagereq>
       <packagereq type="conditional" requires="imsettings">imsettings-xfce</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
+      <packagereq type="default">ConsoleKit</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">fedora-icon-theme</packagereq>
       <packagereq type="default">gdm</packagereq>
