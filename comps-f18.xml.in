@@ -1126,6 +1126,7 @@
       <packagereq type="optional">nsd</packagereq>
       <packagereq type="optional">pdns</packagereq>
       <packagereq type="optional">pdns-recursor</packagereq>
+      <packagereq type="optional">rbldnsd</packagereq>
       <packagereq type="optional">unbound</packagereq>
     </packagelist>
   </group>
@@ -4112,7 +4113,6 @@
       <packagereq type="optional">puppet-server</packagereq>
       <packagereq type="optional">quagga</packagereq>
       <packagereq type="optional">radvd</packagereq>
-      <packagereq type="optional">rbldnsd</packagereq>
       <packagereq type="optional">rinetd</packagereq>
       <packagereq type="optional">sobby</packagereq>
       <packagereq type="optional">tigervnc-server</packagereq>
