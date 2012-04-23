@@ -13,6 +13,7 @@
       <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">setroubleshoot</packagereq>
       <packagereq type="default">system-config-date</packagereq>
+      <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">system-config-keyboard</packagereq>
       <packagereq type="default">system-config-language</packagereq>
       <packagereq type="default">system-config-users</packagereq>
@@ -31,7 +32,6 @@
       <packagereq type="optional">pessulus</packagereq>
       <packagereq type="optional">qtparted</packagereq>
       <packagereq type="optional">system-config-boot</packagereq>
-      <packagereq type="optional">system-config-firewall</packagereq>
       <packagereq type="optional">system-config-kickstart</packagereq>
       <packagereq type="optional">system-config-lvm</packagereq>
       <packagereq type="optional">system-config-network</packagereq>
@@ -216,7 +216,6 @@
       <packagereq type="mandatory">cyrus-sasl-plain</packagereq>
       <packagereq type="mandatory">dbus</packagereq>
       <packagereq type="mandatory">ed</packagereq>
-      <packagereq type="mandatory">firewalld</packagereq>
       <packagereq type="mandatory">logrotate</packagereq>
       <packagereq type="mandatory">lsof</packagereq>
       <packagereq type="mandatory">mailcap</packagereq>
@@ -289,6 +288,7 @@
       <packagereq type="default">stunnel</packagereq>
       <packagereq type="default">sudo</packagereq>
       <packagereq type="default">symlinks</packagereq>
+      <packagereq type="default">system-config-firewall-tui</packagereq>
       <packagereq type="default">system-config-network-tui</packagereq>
       <packagereq type="default">talk</packagereq>
       <packagereq type="default">tcpdump</packagereq>
@@ -706,6 +706,7 @@
       <packagereq type="mandatory">initscripts</packagereq>
       <packagereq type="mandatory">iproute</packagereq>
       <packagereq type="mandatory">iprutils</packagereq>
+      <packagereq type="mandatory">iptables</packagereq>
       <packagereq type="mandatory">iputils</packagereq>
       <packagereq type="mandatory">kbd</packagereq>
       <packagereq type="mandatory">libgcc</packagereq>
@@ -2771,6 +2772,7 @@
       <packagereq type="default">shotwell</packagereq>
       <packagereq type="default">simple-scan</packagereq>
       <packagereq type="default">sushi</packagereq>
+      <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">vinagre</packagereq>
       <packagereq type="default">vino</packagereq>
       <packagereq type="default">xdg-user-dirs-gtk</packagereq>
@@ -3775,6 +3777,7 @@
       <packagereq type="default">scribus</packagereq>
       <packagereq type="default">svnpart</packagereq>
       <packagereq type="default">system-config-date</packagereq>
+      <packagereq type="default">system-config-firewall</packagereq>
       <packagereq type="default">system-config-printer-kde</packagereq>
       <packagereq type="default">system-config-services</packagereq>
       <!-- See http://bugzilla.redhat.com/537609 on why xorg-x11-apps is here -->
