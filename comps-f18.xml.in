@@ -615,11 +615,8 @@
       <packagereq type="mandatory">yum</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">ppc64-utils</packagereq>
-      <packagereq type="default">s390utils</packagereq>
       <packagereq type="default">sendmail</packagereq>
-      <packagereq type="default">silo</packagereq>
       <packagereq type="default">systemd</packagereq>
-      <packagereq type="optional">yaboot</packagereq>
     </packagelist>
   </group>
   <!-- 
@@ -1703,23 +1700,6 @@
       <packagereq type="optional">cpanspec</packagereq>
       <packagereq type="optional">cvs</packagereq>
       <packagereq type="optional">plague-client</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>filesystems</id>
-    <_name>Filesystems</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="mandatory">btrfs-progs</packagereq>
-      <packagereq type="mandatory">dosfstools</packagereq>
-      <packagereq type="mandatory">e2fsprogs</packagereq>
-      <packagereq type="mandatory">gfs2-utils</packagereq>
-      <packagereq type="mandatory">jfsutils</packagereq>
-      <packagereq type="mandatory">ntfsprogs</packagereq>
-      <packagereq type="mandatory">reiserfs-utils</packagereq>
-      <packagereq type="mandatory">xfsprogs</packagereq>
     </packagelist>
   </group>
   <group>
