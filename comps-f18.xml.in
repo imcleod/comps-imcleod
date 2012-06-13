@@ -3350,6 +3350,7 @@
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
+      <packagereq type="default">dragon</packagereq>
       <packagereq type="default">digikam</packagereq>
       <packagereq type="default">gwenview</packagereq>
       <packagereq type="default">k3b</packagereq>
@@ -3373,8 +3374,6 @@
       <packagereq type="default">kdegames</packagereq>
       <packagereq type="default">kdegraphics-strigi-analyzer</packagereq>
       <packagereq type="default">kdegraphics-thumbnailers</packagereq>
-      <packagereq type="default">kdemultimedia-dragonplayer</packagereq>
-      <packagereq type="default">kdemultimedia-kmix</packagereq>
       <packagereq type="default">kdenetwork-kdnssd</packagereq>
       <packagereq type="default">kdenetwork-kget</packagereq>
       <packagereq type="default">kdenetwork-krdc</packagereq>
@@ -3384,6 +3383,7 @@
       <packagereq type="default">kdm</packagereq>
       <packagereq type="default">kgpg</packagereq>
       <packagereq type="default">kipi-plugins</packagereq>
+      <packagereq type="default">kmix</packagereq>
       <packagereq type="default">kolourpaint</packagereq>
       <packagereq type="default">konversation</packagereq>
       <packagereq type="default">kruler</packagereq>
@@ -3427,6 +3427,7 @@
       <packagereq type="optional">compiz-kde</packagereq>
       <packagereq type="optional">crystal</packagereq>
       <packagereq type="optional">filelight</packagereq>
+      <packagereq type="optional">juk</packagereq>
       <packagereq type="optional">kaffeine</packagereq>
       <packagereq type="optional">kbibtex</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
@@ -3451,8 +3452,6 @@
       <packagereq type="optional">kdeartwork</packagereq>
       <packagereq type="optional">kdeartwork-sounds</packagereq>
       <packagereq type="optional">kdeartwork-wallpapers</packagereq>
-      <packagereq type="optional">kdemultimedia-juk</packagereq>
-      <packagereq type="optional">kdemultimedia-kscd</packagereq>
       <packagereq type="optional">kdenetwork-fileshare-samba</packagereq>
       <packagereq type="optional">kdenetwork-kopete</packagereq>
       <packagereq type="optional">kdenetwork-kppp</packagereq>
@@ -3477,6 +3476,7 @@
       <packagereq type="optional">krecipes</packagereq>
       <packagereq type="optional">krename</packagereq>
       <packagereq type="optional">ksaneplugin</packagereq>
+      <packagereq type="optional">kscd</packagereq>
       <packagereq type="optional">ksensors</packagereq>
       <packagereq type="optional">kshutdown</packagereq>
       <packagereq type="optional">ksig</packagereq>
@@ -3521,6 +3521,7 @@
       <packagereq type="default">kdevelop</packagereq>
       <packagereq type="default">PyKDE4-devel</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
+      <packagereq type="optional">audiocd-kio-devel</packagereq>
       <packagereq type="optional">cantor-devel</packagereq>
       <packagereq type="optional">gambas2-runtime</packagereq>
       <packagereq type="optional">kdbg</packagereq>
@@ -3529,7 +3530,6 @@
       <packagereq type="optional">kdegames-devel</packagereq>
       <packagereq type="optional">kdegraphics-devel</packagereq>
       <packagereq type="optional">kdelibs3-devel</packagereq>
-      <packagereq type="optional">kdemultimedia-devel</packagereq>
       <packagereq type="optional">kdenetwork-devel</packagereq>
       <packagereq type="optional">kdepim-devel</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
@@ -3537,6 +3537,8 @@
       <packagereq type="optional">kiten-devel</packagereq>
       <packagereq type="optional">krazy2</packagereq>
       <packagereq type="optional">ktp-common-internals-devel</packagereq>
+      <packagereq type="optional">libkcddb-devel</packagereq>
+      <packagereq type="optional">libkcompactdisc-devel</packagereq>
       <packagereq type="optional">libkdeedu-devel</packagereq>
       <packagereq type="optional">marble-devel</packagereq>
       <packagereq type="optional">PyKDE-devel</packagereq>
@@ -4763,10 +4765,10 @@
       <packagereq type="optional">jack-audio-connection-kit</packagereq>
       <packagereq type="optional">k3b</packagereq>
       <packagereq type="optional">kaffeine</packagereq>
-      <packagereq type="optional">kdemultimedia-dragonplayer</packagereq>
-      <packagereq type="optional">kdemultimedia-juk</packagereq>
-      <packagereq type="optional">kdemultimedia-kmix</packagereq>
-      <packagereq type="optional">kdemultimedia-kscd</packagereq>
+      <packagereq type="optional">dragon</packagereq>
+      <packagereq type="optional">juk</packagereq>
+      <packagereq type="optional">kmix</packagereq>
+      <packagereq type="optional">kscd</packagereq>
       <packagereq type="optional">kid3</packagereq>
       <packagereq type="optional">kover</packagereq>
       <packagereq type="optional">lingot</packagereq>
