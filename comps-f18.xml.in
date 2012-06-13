@@ -3514,6 +3514,7 @@
       <packagereq type="mandatory">cmake</packagereq>
       <packagereq type="mandatory">kdelibs-devel</packagereq>
       <packagereq type="mandatory">qt-devel</packagereq>
+      <packagereq type="default">kate</packagereq>
       <packagereq type="default">kde-workspace-devel</packagereq>
       <packagereq type="default">kdepimlibs-devel</packagereq>
       <packagereq type="default">kdesdk</packagereq>
@@ -3522,7 +3523,7 @@
       <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="optional">gambas2-runtime</packagereq>
       <packagereq type="optional">kdbg</packagereq>
-      <packagereq type="optional">kde-devel</packagereq>
+      <packagereq type="optional">kde-baseapps-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
       <packagereq type="optional">kdegames-devel</packagereq>
       <packagereq type="optional">kdegraphics-devel</packagereq>
