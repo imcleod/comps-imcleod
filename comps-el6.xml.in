@@ -846,15 +846,12 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="conditional" requires="gtk2-devel">ghc-gtksourceview2-devel</packagereq>
+      <packagereq type="conditional" requires="gtk2-devel">ghc-gtk-devel</packagereq>
       <packagereq type="default">darcs</packagereq>
       <packagereq type="default">ghc</packagereq>
-      <packagereq type="default">ghc-ghc-devel</packagereq>
-      <packagereq type="default">happy</packagereq>
+      <packagereq type="default">ghc-rpm-macros</packagereq>
       <packagereq type="default">haskell-platform</packagereq>
       <packagereq type="default">hscolour</packagereq>
-      <packagereq type="optional">ghc-haskell-platform-prof</packagereq>
-      <packagereq type="optional">ghc-prof</packagereq>
     </packagelist>
   </group>
   <group>
