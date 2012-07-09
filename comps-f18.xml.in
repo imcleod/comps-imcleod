@@ -3073,11 +3073,10 @@
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-hunspell-table</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
-      <packagereq type="default">ibus-pinyin</packagereq>
+      <packagereq type="default">ibus-libpinyin</packagereq>
       <packagereq type="default">ibus-rawcode</packagereq>
       <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">imsettings</packagereq>
-      <packagereq type="default">libpinyin-data</packagereq>
       <packagereq type="default">m17n-contrib</packagereq>
       <packagereq type="default">m17n-db</packagereq>
       <packagereq type="optional">cellwriter</packagereq>
@@ -3091,8 +3090,6 @@
       <packagereq type="optional">ibus-handwrite</packagereq>
       <packagereq type="optional">ibus-input-pad</packagereq>
       <packagereq type="optional">ibus-mozc</packagereq>
-      <packagereq type="optional">ibus-pinyin-db-android</packagereq>
-      <packagereq type="optional">ibus-pinyin-db-open-phrase</packagereq>
       <packagereq type="optional">ibus-sayura</packagereq>
       <packagereq type="optional">ibus-skk</packagereq>
       <packagereq type="optional">ibus-sunpinyin</packagereq>
@@ -4615,8 +4612,7 @@
     <uservisible>true</uservisible>
     <langonly>zh_CN</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-pinyin</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">libpinyin-data</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-libpinyin</packagereq>
       <packagereq type="default">wqy-zenhei-fonts</packagereq>
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">ibus-sunpinyin</packagereq>
