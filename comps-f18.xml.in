@@ -8,14 +8,14 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">xorg-x11-drivers</packagereq>
-      <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
-      <packagereq type="mandatory">xorg-x11-xauth</packagereq>
-      <packagereq type="mandatory">xorg-x11-xinit</packagereq>
-      <packagereq type="default">glx-utils</packagereq>
-      <packagereq type="default">mesa-dri-drivers</packagereq>
-      <packagereq type="default">plymouth-system-theme</packagereq>
-      <packagereq type="default">xorg-x11-utils</packagereq>
+      <packagereq>xorg-x11-drivers</packagereq>
+      <packagereq>xorg-x11-server-Xorg</packagereq>
+      <packagereq>xorg-x11-xauth</packagereq>
+      <packagereq>xorg-x11-xinit</packagereq>
+      <packagereq>glx-utils</packagereq>
+      <packagereq>mesa-dri-drivers</packagereq>
+      <packagereq>plymouth-system-theme</packagereq>
+      <packagereq>xorg-x11-utils</packagereq>
     </packagelist>
   </group>
   <group>
@@ -25,14 +25,14 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">gstreamer-plugins-good</packagereq>
-      <packagereq type="default">PackageKit-gstreamer-plugin</packagereq>
-      <packagereq type="mandatory">alsa-utils</packagereq>
-      <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
-      <packagereq type="default">pulseaudio</packagereq>
-      <packagereq type="default">pulseaudio-module-bluetooth</packagereq>
-      <packagereq type="default">pulseaudio-utils</packagereq>
-      <packagereq type="default">pulseaudio-module-x11</packagereq>
+      <packagereq>gstreamer-plugins-good</packagereq>
+      <packagereq>PackageKit-gstreamer-plugin</packagereq>
+      <packagereq>alsa-utils</packagereq>
+      <packagereq>alsa-plugins-pulseaudio</packagereq>
+      <packagereq>pulseaudio</packagereq>
+      <packagereq>pulseaudio-module-bluetooth</packagereq>
+      <packagereq>pulseaudio-utils</packagereq>
+      <packagereq>pulseaudio-module-x11</packagereq>
     </packagelist>
   </group>
   <group>
@@ -42,82 +42,81 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">desktop-backgrounds-basic</packagereq>
-      <packagereq type="mandatory">control-center</packagereq>
-      <packagereq type="mandatory">dconf</packagereq>
-      <packagereq type="mandatory">gnome-panel</packagereq>
-      <packagereq type="mandatory">gnome-session</packagereq>
-      <packagereq type="mandatory">gnome-shell</packagereq>
-      <packagereq type="mandatory">gnome-themes-standard</packagereq>
-      <packagereq type="mandatory">metacity</packagereq>
-      <packagereq type="mandatory">notification-daemon</packagereq>
-      <packagereq type="default">abrt-desktop</packagereq>
-      <packagereq type="default">aisleriot</packagereq>
-      <packagereq type="default">at-spi2-atk</packagereq>
-      <packagereq type="default">at-spi2-core</packagereq>
-      <packagereq type="default">avahi</packagereq>
-      <packagereq type="default">baobab</packagereq>
-      <packagereq type="default">brasero-nautilus</packagereq>
-      <packagereq type="default">caribou</packagereq>
-      <packagereq type="default">cheese</packagereq>
-      <packagereq type="default">deja-dup</packagereq>
-      <packagereq type="default">eog</packagereq>
-      <packagereq type="default">evince</packagereq>
-      <packagereq type="default">evince-nautilus</packagereq>
-      <packagereq type="default">file-roller</packagereq>
-      <packagereq type="default">file-roller-nautilus</packagereq>
-      <packagereq type="default">fprintd-pam</packagereq>
-      <packagereq type="default">gcalctool</packagereq>
-      <packagereq type="default">gdm</packagereq>
-      <packagereq type="default">gedit</packagereq>
-      <packagereq type="default">glib-networking</packagereq>
-      <packagereq type="default">gnome-backgrounds</packagereq>
-      <packagereq type="default">gnome-bluetooth</packagereq>
-      <packagereq type="default">gnome-color-manager</packagereq>
-      <packagereq type="default">gnome-contacts</packagereq>
-      <packagereq type="default">gnome-dictionary</packagereq>
-      <packagereq type="default">gnome-disk-utility</packagereq>
-      <packagereq type="default">gnome-disk-utility-nautilus</packagereq>
-      <packagereq type="default">gnome-documents</packagereq>
-      <packagereq type="default">gnome-font-viewer</packagereq>
-      <packagereq type="default">gnome-icon-theme</packagereq>
-      <packagereq type="default">gnome-icon-theme-extras</packagereq>
-      <packagereq type="default">gnome-icon-theme-symbolic</packagereq>
-      <packagereq type="default">gnome-packagekit</packagereq>
-      <packagereq type="default">gnome-screensaver</packagereq>
-      <packagereq type="default">gnome-screenshot</packagereq>
-      <packagereq type="default">gnome-system-log</packagereq>
-      <packagereq type="default">gnome-system-monitor</packagereq>
-      <packagereq type="default">gnome-terminal</packagereq>
-      <packagereq type="default">gnome-user-docs</packagereq>
-      <packagereq type="default">gucharmap</packagereq>
-      <packagereq type="default">gvfs-fuse</packagereq>
-      <packagereq type="default">gvfs-gphoto2</packagereq>
-      <packagereq type="default">gvfs-smb</packagereq>
-      <packagereq type="default">libcanberra-gtk2</packagereq>
-      <packagereq type="default">libcanberra-gtk3</packagereq>
-      <packagereq type="default">libproxy-mozjs</packagereq>
-      <packagereq type="default">librsvg2</packagereq>
-      <packagereq type="default">libsane-hpaio</packagereq>
-      <packagereq type="default">mousetweaks</packagereq>
-      <packagereq type="default">nautilus</packagereq>
-      <packagereq type="default">nautilus-sendto</packagereq>
-      <packagereq type="default">NetworkManager-gnome</packagereq>
-      <packagereq type="default">NetworkManager-openconnect</packagereq>
-      <packagereq type="default">NetworkManager-openvpn</packagereq>
-      <packagereq type="default">NetworkManager-pptp</packagereq>
-      <packagereq type="default">NetworkManager-vpnc</packagereq>
-      <packagereq type="default">orca</packagereq>
-      <packagereq type="default">PackageKit-command-not-found</packagereq>
-      <packagereq type="default">PackageKit-gtk-module</packagereq>
-      <packagereq type="default">PackageKit-gtk3-module</packagereq>
-      <packagereq type="default">policycoreutils-restorecond</packagereq>
-      <packagereq type="default">polkit-gnome</packagereq>
-      <packagereq type="default">seahorse</packagereq>
-      <packagereq type="default">sushi</packagereq>
-      <packagereq type="default">xdg-user-dirs-gtk</packagereq>
-      <packagereq type="default">yelp</packagereq>
-      <packagereq type="default">zenity</packagereq>
+      <packagereq>desktop-backgrounds-basic</packagereq>
+      <packagereq>control-center</packagereq>
+      <packagereq>dconf</packagereq>
+      <packagereq>gnome-panel</packagereq>
+      <packagereq>gnome-session</packagereq>
+      <packagereq>gnome-shell</packagereq>
+      <packagereq>gnome-themes-standard</packagereq>
+      <packagereq>metacity</packagereq>
+      <packagereq>notification-daemon</packagereq>
+      <packagereq>abrt-desktop</packagereq>
+      <packagereq>aisleriot</packagereq>
+      <packagereq>at-spi2-atk</packagereq>
+      <packagereq>at-spi2-core</packagereq>
+      <packagereq>avahi</packagereq>
+      <packagereq>baobab</packagereq>
+      <packagereq>brasero-nautilus</packagereq>
+      <packagereq>caribou</packagereq>
+      <packagereq>cheese</packagereq>
+      <packagereq>deja-dup</packagereq>
+      <packagereq>eog</packagereq>
+      <packagereq>evince</packagereq>
+      <packagereq>evince-nautilus</packagereq>
+      <packagereq>file-roller</packagereq>
+      <packagereq>file-roller-nautilus</packagereq>
+      <packagereq>fprintd-pam</packagereq>
+      <packagereq>gcalctool</packagereq>
+      <packagereq>gdm</packagereq>
+      <packagereq>gedit</packagereq>
+      <packagereq>glib-networking</packagereq>
+      <packagereq>gnome-backgrounds</packagereq>
+      <packagereq>gnome-bluetooth</packagereq>
+      <packagereq>gnome-color-manager</packagereq>
+      <packagereq>gnome-contacts</packagereq>
+      <packagereq>gnome-dictionary</packagereq>
+      <packagereq>gnome-disk-utility</packagereq>
+      <packagereq>gnome-disk-utility-nautilus</packagereq>
+      <packagereq>gnome-documents</packagereq>
+      <packagereq>gnome-font-viewer</packagereq>
+      <packagereq>gnome-icon-theme</packagereq>
+      <packagereq>gnome-icon-theme-extras</packagereq>
+      <packagereq>gnome-icon-theme-symbolic</packagereq>
+      <packagereq>gnome-packagekit</packagereq>
+      <packagereq>gnome-screensaver</packagereq>
+      <packagereq>gnome-screenshot</packagereq>
+      <packagereq>gnome-system-log</packagereq>
+      <packagereq>gnome-system-monitor</packagereq>
+      <packagereq>gnome-terminal</packagereq>
+      <packagereq>gnome-user-docs</packagereq>
+      <packagereq>gucharmap</packagereq>
+      <packagereq>gvfs-fuse</packagereq>
+      <packagereq>gvfs-gphoto2</packagereq>
+      <packagereq>gvfs-smb</packagereq>
+      <packagereq>libcanberra-gtk2</packagereq>
+      <packagereq>libcanberra-gtk3</packagereq>
+      <packagereq>libproxy-mozjs</packagereq>
+      <packagereq>librsvg2</packagereq>
+      <packagereq>libsane-hpaio</packagereq>
+      <packagereq>mousetweaks</packagereq>
+      <packagereq>nautilus</packagereq>
+      <packagereq>nautilus-sendto</packagereq>
+      <packagereq>NetworkManager-gnome</packagereq>
+      <packagereq>NetworkManager-openconnect</packagereq>
+      <packagereq>NetworkManager-openvpn</packagereq>
+      <packagereq>NetworkManager-pptp</packagereq>
+      <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>orca</packagereq>
+      <packagereq>PackageKit-command-not-found</packagereq>
+      <packagereq>PackageKit-gtk-module</packagereq>
+      <packagereq>PackageKit-gtk3-module</packagereq>
+      <packagereq>policycoreutils-restorecond</packagereq>
+      <packagereq>polkit-gnome</packagereq>
+      <packagereq>seahorse</packagereq>
+      <packagereq>sushi</packagereq>
+      <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>yelp</packagereq>
     </packagelist>
   </group>
   <group>
@@ -127,17 +126,17 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">empathy</packagereq>
-      <packagereq type="default">evolution</packagereq>
-      <packagereq type="default">evolution-help</packagereq>
-      <packagereq type="default">evolution-NetworkManager</packagereq>
-      <packagereq type="default">gnome-boxes</packagereq>
-      <packagereq type="default">gnome-games</packagereq>
-      <packagereq type="default">shotwell</packagereq>
-      <packagereq type="default">simple-scan</packagereq>
-      <packagereq type="default">sane-backends-drivers-scanners</packagereq>
-      <packagereq type="default">vinagre</packagereq>
-      <packagereq type="default">vino</packagereq>
+      <packagereq>empathy</packagereq>
+      <packagereq>evolution</packagereq>
+      <packagereq>evolution-help</packagereq>
+      <packagereq>evolution-NetworkManager</packagereq>
+      <packagereq>gnome-boxes</packagereq>
+      <packagereq>gnome-games</packagereq>
+      <packagereq>shotwell</packagereq>
+      <packagereq>simple-scan</packagereq>
+      <packagereq>sane-backends-drivers-scanners</packagereq>
+      <packagereq>vinagre</packagereq>
+      <packagereq>vino</packagereq>
     </packagelist>
   </group>
   <group>
@@ -147,8 +146,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">firefox</packagereq>
-      <packagereq type="default">icedtea-web</packagereq>
+      <packagereq>firefox</packagereq>
+      <packagereq>icedtea-web</packagereq>
     </packagelist>
   </group>
   <group>
@@ -158,25 +157,25 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">brasero</packagereq>
-      <packagereq type="default">rhythmbox</packagereq>
-      <packagereq type="default">sound-juicer</packagereq>
-      <packagereq type="default">totem</packagereq>
-      <packagereq type="default">totem-mozplugin</packagereq>
-      <packagereq type="default">totem-nautilus</packagereq>
+      <packagereq>brasero</packagereq>
+      <packagereq>rhythmbox</packagereq>
+      <packagereq>sound-juicer</packagereq>
+      <packagereq>totem</packagereq>
+      <packagereq>totem-mozplugin</packagereq>
+      <packagereq>totem-nautilus</packagereq>
     </packagelist>
   </group>
   <group>
     <id>libreoffice</id>
     <_name>LibreOffice</_name>
     <_description>LibreOffice Productivity Suite</_description>
-      <packagereq type="default">libreoffice-calc</packagereq>
-      <packagereq type="default">libreoffice-draw</packagereq>
-      <packagereq type="default">libreoffice-graphicfilter</packagereq>
-      <packagereq type="default">libreoffice-impress</packagereq>
-      <packagereq type="default">libreoffice-math</packagereq>
-      <packagereq type="default">libreoffice-writer</packagereq>
-      <packagereq type="default">libreoffice-xsltfilter</packagereq>
+      <packagereq>libreoffice-calc</packagereq>
+      <packagereq>libreoffice-draw</packagereq>
+      <packagereq>libreoffice-graphicfilter</packagereq>
+      <packagereq>libreoffice-impress</packagereq>
+      <packagereq>libreoffice-math</packagereq>
+      <packagereq>libreoffice-writer</packagereq>
+      <packagereq>libreoffice-xsltfilter</packagereq>
     </packagelist>
   </group>
   <group>
@@ -184,72 +183,72 @@
     <_name>KDE</_name>
     <_description>The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">kde-runtime</packagereq>
-      <packagereq type="mandatory">kde-workspace</packagereq>
-      <packagereq type="mandatory">kdelibs</packagereq>
-      <packagereq type="default">apper</packagereq>
-      <packagereq type="default">ark</packagereq>
-      <packagereq type="default">bluedevil</packagereq>
-      <packagereq type="default">cagibi</packagereq>
-      <packagereq type="default">cups-pk-helper</packagereq>
-      <packagereq type="default">gwenview</packagereq>
-      <packagereq type="default">kamera</packagereq>
-      <packagereq type="default">kamoso</packagereq>
-      <packagereq type="default">kcalc</packagereq>
-      <packagereq type="default">kcharselect</packagereq>
-      <packagereq type="default">kcm-gtk</packagereq>
-      <packagereq type="default">kcm_touchpad</packagereq>
-      <packagereq type="default">kcolorchooser</packagereq>
-      <packagereq type="default">kde-baseapps</packagereq>
-      <packagereq type="default">kde-plasma-networkmanagement</packagereq>
-      <packagereq type="default">kde-plasma-networkmanagement-openconnect</packagereq>
-      <packagereq type="default">kde-plasma-networkmanagement-openvpn</packagereq>
-      <packagereq type="default">kde-plasma-networkmanagement-pptp</packagereq>
-      <packagereq type="default">kde-plasma-networkmanagement-vpnc</packagereq>
-      <packagereq type="default">kde-printer-applet</packagereq>
-      <packagereq type="default">kde-settings-pulseaudio</packagereq>
-      <packagereq type="default">kdeaccessibility</packagereq>
-      <packagereq type="default">kdegames-minimal</packagereq>
-      <packagereq type="default">kdegraphics-strigi-analyzer</packagereq>
-      <packagereq type="default">kdegraphics-thumbnailers</packagereq>
-      <packagereq type="default">kdenetwork-kdnssd</packagereq>
-      <packagereq type="default">kdenetwork-kget</packagereq>
-      <packagereq type="default">kdeplasma-addons</packagereq>
-      <packagereq type="default">kdm</packagereq>
-      <packagereq type="default">kgpg</packagereq>
-      <packagereq type="default">kipi-plugins</packagereq>
-      <packagereq type="default">kolourpaint</packagereq>
-      <packagereq type="default">konsole</packagereq>
-      <packagereq type="default">kruler</packagereq>
-      <packagereq type="default">krusader</packagereq>
-      <packagereq type="default">ksnapshot</packagereq>
-      <packagereq type="default">ksshaskpass</packagereq>
-      <packagereq type="default">ksysguard</packagereq>
-      <packagereq type="default">ktorrent</packagereq>
-      <packagereq type="default">ktp-accounts-kcm</packagereq>
-      <packagereq type="default">ktp-approver</packagereq>
-      <packagereq type="default">ktp-auth-handler</packagereq>
-      <packagereq type="default">ktp-contact-applet</packagereq>
-      <packagereq type="default">ktp-contact-list</packagereq>
-      <packagereq type="default">ktp-filetransfer-handler</packagereq>
-      <packagereq type="default">ktp-kded-integration-module</packagereq>
-      <packagereq type="default">ktp-presence-applet</packagereq>
-      <packagereq type="default">ktp-send-file</packagereq>
-      <packagereq type="default">ktp-text-ui</packagereq>
-      <packagereq type="default">kwallet</packagereq>
-      <packagereq type="default">kwebkitpart</packagereq>
-      <packagereq type="default">kwrite</packagereq>
-      <packagereq type="default">okular</packagereq>
-      <packagereq type="default">oxygen-gtk</packagereq>
-      <packagereq type="default">phonon-backend-gstreamer</packagereq>
-      <packagereq type="default">plasma-scriptengine-python</packagereq>
-      <packagereq type="default">system-config-date</packagereq>
-      <packagereq type="default">system-config-printer-kde</packagereq>
-      <packagereq type="default">system-config-services</packagereq>
-      <packagereq type="default">xsettings-kde</packagereq>
-      <packagereq type="default">xterm</packagereq>
+      <packagereq>kde-runtime</packagereq>
+      <packagereq>kde-workspace</packagereq>
+      <packagereq>kdelibs</packagereq>
+      <packagereq>apper</packagereq>
+      <packagereq>ark</packagereq>
+      <packagereq>bluedevil</packagereq>
+      <packagereq>cagibi</packagereq>
+      <packagereq>cups-pk-helper</packagereq>
+      <packagereq>gwenview</packagereq>
+      <packagereq>kamera</packagereq>
+      <packagereq>kamoso</packagereq>
+      <packagereq>kcalc</packagereq>
+      <packagereq>kcharselect</packagereq>
+      <packagereq>kcm-gtk</packagereq>
+      <packagereq>kcm_touchpad</packagereq>
+      <packagereq>kcolorchooser</packagereq>
+      <packagereq>kde-baseapps</packagereq>
+      <packagereq>kde-plasma-networkmanagement</packagereq>
+      <packagereq>kde-plasma-networkmanagement-openconnect</packagereq>
+      <packagereq>kde-plasma-networkmanagement-openvpn</packagereq>
+      <packagereq>kde-plasma-networkmanagement-pptp</packagereq>
+      <packagereq>kde-plasma-networkmanagement-vpnc</packagereq>
+      <packagereq>kde-printer-applet</packagereq>
+      <packagereq>kde-settings-pulseaudio</packagereq>
+      <packagereq>kdeaccessibility</packagereq>
+      <packagereq>kdegames-minimal</packagereq>
+      <packagereq>kdegraphics-strigi-analyzer</packagereq>
+      <packagereq>kdegraphics-thumbnailers</packagereq>
+      <packagereq>kdenetwork-kdnssd</packagereq>
+      <packagereq>kdenetwork-kget</packagereq>
+      <packagereq>kdeplasma-addons</packagereq>
+      <packagereq>kdm</packagereq>
+      <packagereq>kgpg</packagereq>
+      <packagereq>kipi-plugins</packagereq>
+      <packagereq>kolourpaint</packagereq>
+      <packagereq>konsole</packagereq>
+      <packagereq>kruler</packagereq>
+      <packagereq>krusader</packagereq>
+      <packagereq>ksnapshot</packagereq>
+      <packagereq>ksshaskpass</packagereq>
+      <packagereq>ksysguard</packagereq>
+      <packagereq>ktorrent</packagereq>
+      <packagereq>ktp-accounts-kcm</packagereq>
+      <packagereq>ktp-approver</packagereq>
+      <packagereq>ktp-auth-handler</packagereq>
+      <packagereq>ktp-contact-applet</packagereq>
+      <packagereq>ktp-contact-list</packagereq>
+      <packagereq>ktp-filetransfer-handler</packagereq>
+      <packagereq>ktp-kded-integration-module</packagereq>
+      <packagereq>ktp-presence-applet</packagereq>
+      <packagereq>ktp-send-file</packagereq>
+      <packagereq>ktp-text-ui</packagereq>
+      <packagereq>kwallet</packagereq>
+      <packagereq>kwebkitpart</packagereq>
+      <packagereq>kwrite</packagereq>
+      <packagereq>okular</packagereq>
+      <packagereq>oxygen-gtk</packagereq>
+      <packagereq>phonon-backend-gstreamer</packagereq>
+      <packagereq>plasma-scriptengine-python</packagereq>
+      <packagereq>system-config-date</packagereq>
+      <packagereq>system-config-printer-kde</packagereq>
+      <packagereq>system-config-services</packagereq>
+      <packagereq>xsettings-kde</packagereq>
+      <packagereq>xterm</packagereq>
     </packagelist>
   </group>
   <group>
@@ -259,15 +258,15 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">kdeartwork-screensavers</packagereq>
-      <packagereq type="default">kdegames</packagereq>
-      <packagereq type="default">digikam</packagereq>
-      <packagereq type="default">kdenetwork-krdc</packagereq>
-      <packagereq type="default">kdenetwork-krfb</packagereq>
-      <packagereq type="default">kdepim</packagereq>
-      <packagereq type="default">konversation</packagereq>
-      <packagereq type="optional">twinkle</packagereq>
-      <packagereq type="optional">krusader</packagereq>
+      <packagereq>kdeartwork-screensavers</packagereq>
+      <packagereq>kdegames</packagereq>
+      <packagereq>digikam</packagereq>
+      <packagereq>kdenetwork-krdc</packagereq>
+      <packagereq>kdenetwork-krfb</packagereq>
+      <packagereq>kdepim</packagereq>
+      <packagereq>konversation</packagereq>
+      <packagereq>twinkle</packagereq>
+      <packagereq>krusader</packagereq>
     </packagelist>
   </group>
   <group>
@@ -277,26 +276,26 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">blinken</packagereq>
-      <packagereq type="default">kalzium</packagereq>
-      <packagereq type="default">kanagram</packagereq>
-      <packagereq type="default">kgeography</packagereq>
-      <packagereq type="default">khangman</packagereq>
-      <packagereq type="default">kiten</packagereq>
-      <packagereq type="default">klettres</packagereq>
-      <packagereq type="default">ktouch</packagereq>
-      <packagereq type="default">kturtle</packagereq>
-      <packagereq type="default">kwordquiz</packagereq>
-      <packagereq type="default">parley</packagereq>
-      <packagereq type="default">step</packagereq>
-      <packagereq type="default">marble</packagereq>
-      <packagereq type="default">kstars</packagereq>
-      <packagereq type="default">kalgebra</packagereq>
-      <packagereq type="default">kbruch</packagereq>
-      <packagereq type="default">kig</packagereq>
-      <packagereq type="default">kmplot</packagereq>
-      <packagereq type="default">rocs</packagereq>
-      <packagereq type="default">cantor</packagereq>
+      <packagereq>blinken</packagereq>
+      <packagereq>kalzium</packagereq>
+      <packagereq>kanagram</packagereq>
+      <packagereq>kgeography</packagereq>
+      <packagereq>khangman</packagereq>
+      <packagereq>kiten</packagereq>
+      <packagereq>klettres</packagereq>
+      <packagereq>ktouch</packagereq>
+      <packagereq>kturtle</packagereq>
+      <packagereq>kwordquiz</packagereq>
+      <packagereq>parley</packagereq>
+      <packagereq>step</packagereq>
+      <packagereq>marble</packagereq>
+      <packagereq>kstars</packagereq>
+      <packagereq>kalgebra</packagereq>
+      <packagereq>kbruch</packagereq>
+      <packagereq>kig</packagereq>
+      <packagereq>kmplot</packagereq>
+      <packagereq>rocs</packagereq>
+      <packagereq>cantor</packagereq>
     </packagelist>
   </group>
   <group>
@@ -306,11 +305,11 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">amarok</packagereq>
-      <packagereq type="default">kmix</packagereq>
-      <packagereq type="default">dragon</packagereq>
-      <packagereq type="default">k3b</packagereq>
-      <packagereq type="default">kscd</packagereq>
+      <packagereq>amarok</packagereq>
+      <packagereq>kmix</packagereq>
+      <packagereq>dragon</packagereq>
+      <packagereq>k3b</packagereq>
+      <packagereq>kscd</packagereq>
     </packagelist>
   </group>
   <group>
@@ -318,19 +317,19 @@
     <_name>KDE Office</_name>
     <_description>Office suite for KDE</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">scribus</packagereq>
-      <packagereq type="optional">calligra-karbon</packagereq>
-      <packagereq type="optional">calligra-krita</packagereq>
-      <packagereq type="optional">calligra</packagereq>
-      <packagereq type="optional">calligra-braindump</packagereq>
-      <packagereq type="optional">calligra-flow</packagereq>
-      <packagereq type="optional">calligra-kexi</packagereq>
-      <packagereq type="optional">calligra-plan</packagereq>
-      <packagereq type="optional">calligra-sheets</packagereq>
-      <packagereq type="optional">calligra-stage</packagereq>
-      <packagereq type="optional">calligra-words</packagereq>
+      <packagereq>scribus</packagereq>
+      <packagereq>calligra-karbon</packagereq>
+      <packagereq>calligra-krita</packagereq>
+      <packagereq>calligra</packagereq>
+      <packagereq>calligra-braindump</packagereq>
+      <packagereq>calligra-flow</packagereq>
+      <packagereq>calligra-kexi</packagereq>
+      <packagereq>calligra-plan</packagereq>
+      <packagereq>calligra-sheets</packagereq>
+      <packagereq>calligra-stage</packagereq>
+      <packagereq>calligra-words</packagereq>
     </packagelist>
   </group>
   <group>
@@ -338,40 +337,241 @@
     <_name>Xfce</_name>
     <_description>A lightweight desktop environment that works well on low end machines.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">desktop-backgrounds-compat</packagereq>
-      <packagereq type="mandatory">Thunar</packagereq>
-      <packagereq type="mandatory">xfce-utils</packagereq>
-      <packagereq type="mandatory">xfce4-panel</packagereq>
-      <packagereq type="mandatory">xfce4-session</packagereq>
-      <packagereq type="mandatory">xfce4-settings</packagereq>
-      <packagereq type="mandatory">xfconf</packagereq>
-      <packagereq type="mandatory">xfdesktop</packagereq>
-      <packagereq type="mandatory">xfwm4</packagereq>
-      <packagereq type="default">ConsoleKit</packagereq>
-      <packagereq type="default">fedora-icon-theme</packagereq>
-      <packagereq type="default">lightgdm</packagereq>
-      <packagereq type="default">gtk-xfce-engine</packagereq>
-      <packagereq type="default">gvfs</packagereq>
-      <packagereq type="default">leafpad</packagereq>
-      <packagereq type="default">NetworkManager-gnome</packagereq>
-      <packagereq type="default">openssh-askpass</packagereq>
-      <packagereq type="default">orage</packagereq>
-      <packagereq type="default">polkit-gnome</packagereq>
-      <packagereq type="default">Terminal</packagereq>
-      <packagereq type="default">thunar-archive-plugin</packagereq>
-      <packagereq type="default">thunar-volman</packagereq>
-      <packagereq type="default">tumbler</packagereq>
-      <packagereq type="default">xarchiver</packagereq>
-      <packagereq type="default">xfce4-appfinder</packagereq>
-      <packagereq type="default">xfce4-icon-theme</packagereq>
-      <packagereq type="default">xfce4-mixer</packagereq>
-      <packagereq type="default">xfce4-power-manager</packagereq>
-      <packagereq type="default">xfce4-session-engines</packagereq>
-      <packagereq type="default">xfwm4-theme-nodoka</packagereq>
-      <packagereq type="default">xscreensaver-base</packagereq>
-    </packagereq>
+      <packagereq>desktop-backgrounds-compat</packagereq>
+      <packagereq>Thunar</packagereq>
+      <packagereq>xfce-utils</packagereq>
+      <packagereq>xfce4-panel</packagereq>
+      <packagereq>xfce4-session</packagereq>
+      <packagereq>xfce4-settings</packagereq>
+      <packagereq>xfconf</packagereq>
+      <packagereq>xfdesktop</packagereq>
+      <packagereq>xfwm4</packagereq>
+      <packagereq>ConsoleKit</packagereq>
+      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>lightgdm-gtk</packagereq>
+      <packagereq>gtk-xfce-engine</packagereq>
+      <packagereq>gvfs</packagereq>
+      <packagereq>leafpad</packagereq>
+      <packagereq>NetworkManager-gnome</packagereq>
+      <packagereq>openssh-askpass</packagereq>
+      <packagereq>orage</packagereq>
+      <packagereq>polkit-gnome</packagereq>
+      <packagereq>Terminal</packagereq>
+      <packagereq>thunar-archive-plugin</packagereq>
+      <packagereq>thunar-volman</packagereq>
+      <packagereq>tumbler</packagereq>
+      <packagereq>xarchiver</packagereq>
+      <packagereq>xfce4-appfinder</packagereq>
+      <packagereq>xfce4-icon-theme</packagereq>
+      <packagereq>xfce4-mixer</packagereq>
+      <packagereq>xfce4-power-manager</packagereq>
+      <packagereq>xfce4-session-engines</packagereq>
+      <packagereq>xfwm4-theme-nodoka</packagereq>
+      <packagereq>xscreensaver-base</packagereq>
+      <packagereq>cheese</packagereq>
+      <packagereq>catfish</packagereq>
+      <packagereq>galculator</packagereq>
+      <packagereq>seahorse</packagereq>
+      <packagereq>ConsoleKit-x11</packagereq>
+      <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>NetworkManager-openvpn</packagereq>
+      <packagereq>NetworkManager-pptp</packagereq>
+      <packagereq>gnome-bluetooth</packagereq>
+      <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>adwaita-cursor-theme</packagereq>
+      <packagereq>adwaita-gtk2-theme</packagereq>
+      <packagereq>adwaita-gtk3-theme</packagereq>
+      <packagereq>greybird-gtk2-theme</packagereq>
+      <packagereq>greybird-gtk3-theme</packagereq>
+      <packagereq>greybird-xfce4-notifyd-theme</packagereq>
+      <packagereq>greybird-xfwm4-theme</packagereq>
+      <packagereq>albatross-gtk2-theme</packagereq>
+      <packagereq>albatross-gtk3-theme</packagereq>
+      <packagereq>albatross-xfwm4-theme</packagereq>
+      <packagereq>bluebird-gtk2-theme</packagereq>
+      <packagereq>bluebird-gtk3-theme</packagereq>
+      <packagereq>bluebird-xfwm4-theme</packagereq>
+      <packagereq>ristretto</packagereq>
+      <packagereq>thunar-media-tags-plugin</packagereq>
+      <packagereq>xfce4-battery-plugin</packagereq>
+      <packagereq>xfce4-cellmodem-plugin</packagereq>
+      <packagereq>xfce4-clipman-plugin</packagereq>
+      <packagereq>xfce4-cpugraph-plugin</packagereq>
+      <packagereq>xfce4-datetime-plugin</packagereq>
+      <packagereq>xfce4-dict-plugin</packagereq>
+      <packagereq>xfce4-diskperf-plugin</packagereq>
+      <packagereq>xfce4-eyes-plugin</packagereq>
+      <packagereq>xfce4-fsguard-plugin</packagereq>
+      <packagereq>xfce4-genmon-plugin</packagereq>
+      <packagereq>xfce4-mailwatch-plugin</packagereq>
+      <packagereq>xfce4-mount-plugin</packagereq>
+      <packagereq>xfce4-netload-plugin</packagereq>
+      <packagereq>xfce4-notes-plugin</packagereq>
+      <packagereq>xfce4-places-plugin</packagereq>
+      <packagereq>xfce4-quicklauncher-plugin</packagereq>
+      <packagereq>xfce4-screenshooter-plugin</packagereq>
+      <packagereq>xfce4-sensors-plugin</packagereq>
+      <packagereq>xfce4-smartbookmark-plugin</packagereq>
+      <packagereq>xfce4-systemload-plugin</packagereq>
+      <packagereq>xfce4-taskmanager</packagereq>
+      <packagereq>xfce4-time-out-plugin</packagereq>
+      <packagereq>xfce4-timer-plugin</packagereq>
+      <packagereq>xfce4-verve-plugin</packagereq>
+      <packagereq>xfce4-weather-plugin</packagereq>
+      <packagereq>xfce4-websearch-plugin</packagereq>
+      <packagereq>xfce4-xfswitch-plugin</packagereq>
+      <packagereq>xfce4-xkb-plugin</packagereq>
+      <packagereq>xfwm4-themes</packagereq>
+  </group>
+  <group>
+    <id>xfce-apps</id>
+    <_name>Applications for the XFCE Desktop</_name>
+    <_description>A set of commonly used applications for the XFCE Desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>epdfview</packagereq>
+      <packagereq>midori</packagereq>
+      <packagereq>claws-mail</packagereq>
+      <packagereq>claws-mail-plugins-archive</packagereq>
+      <packagereq>claws-mail-plugins-att-remover</packagereq>
+      <packagereq>claws-mail-plugins-attachwarner</packagereq>
+      <packagereq>claws-mail-plugins-bogofilter</packagereq>
+      <packagereq>claws-mail-plugins-fetchinfo</packagereq>
+      <packagereq>claws-mail-plugins-mailmbox</packagereq>
+      <packagereq>claws-mail-plugins-newmail</packagereq>
+      <packagereq>claws-mail-plugins-notification</packagereq>
+      <packagereq>claws-mail-plugins-pgp</packagereq>
+      <packagereq>claws-mail-plugins-rssyl</packagereq>
+      <packagereq>claws-mail-plugins-smime</packagereq>
+      <packagereq>claws-mail-plugins-spam-report</packagereq>
+      <packagereq>claws-mail-plugins-tnef</packagereq>
+      <packagereq>claws-mail-plugins-vcalendar</packagereq>
+      <packagereq>liferea</packagereq>
+      <packagereq>pidgin</packagereq>
+      <packagereq>remmina</packagereq>
+      <packagereq>remmina-plugins-rdp</packagereq>
+      <packagereq>remmina-plugins-vnc</packagereq>
+      <packagereq>transmission</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>xfce-media</id>
+    <_name>Multimedia support for XFCE</_name>
+    <_description>Multimedia support for XFCE</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>asunder</packagereq>
+      <packagereq>pavucontrol</packagereq>
+      <packagereq>parole</packagereq>
+      <packagereq>pragha</packagereq>
+      <packagereq>xfburn</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>xfce-office</id>
+    <_name>XFCE Office</_name>
+    <_description>Office suite for XFCE</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>abiword</packagereq>
+      <packagereq>gnumeric</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>lxde</id>
+    <_name>LXDE</_name>
+    <_description>LXDE is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>lxde-common</packagereq>
+      <packagereq>lxmenu-data</packagereq>
+      <packagereq>lxpanel</packagereq>
+      <packagereq>lxsession</packagereq>
+      <packagereq>openbox</packagereq>
+      <packagereq>pcmanfm</packagereq>
+      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>gpicview</packagereq>
+      <packagereq>leafpad</packagereq>
+      <packagereq>lxappearance</packagereq>
+      <packagereq>lxappearance-obconf</packagereq>
+      <packagereq>lxdm</packagereq>
+      <packagereq>lxinput</packagereq>
+      <packagereq>lxlauncher</packagereq>
+      <packagereq>lxpolkit</packagereq>
+      <packagereq>lxrandr</packagereq>
+      <packagereq>lxsession-edit</packagereq>
+      <packagereq>lxshortcut</packagereq>
+      <packagereq>lxtask</packagereq>
+      <packagereq>lxterminal</packagereq>
+      <packagereq>obconf</packagereq>
+      <packagereq>openssh-askpass</packagereq>
+      <packagereq>xarchiver</packagereq>
+      <packagereq>xscreensaver-base</packagereq>
+      <packagereq>clipit</packagereq>
+      <packagereq>galculator</packagereq>
+      <packagereq>xpad</packagereq></packagereq>
+      <packagereq>gigolo</packagereq>
+      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>adwaita-cursor-theme</packagereq>
+      <packagereq>adwaita-gtk2-theme</packagereq>
+      <packagereq>adwaita-gtk3-theme</packagereq>
+      <packagereq>gnome-keyring-pam</packagereq>
+      <packagereq>NetworkManager-gnome</packagereq>
+      <packagereq>perl-File-MimeInfo</packagereq>
+      <packagereq>xcompmgr</packagereq>
+      <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>xscreensaver-extras</packagereq>
+      <packagereq>yumex</packagereq>
+      <packagereq>notification-daemon</packagereq>
+      <packagereq>upower</packagereq>
+  </group>
+  <group>
+    <id>lxde-apps</id>
+    <_name>Applications for the LXDE Desktop</_name>
+    <_description>A set of commonly used applications for the LXDE Desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist></packagereq>
+      <packagereq>pidgin</packagereq>
+      <packagereq>sylpheed</packagereq>
+      <packagereq>transmission</packagereq>
+      <packagereq>epdfview</packagereq>
+      <packagereq>mtpaint
+    </packagelist>
+  </group>
+  <group>
+    <id>lxde-media</id>
+    <_name>Multimedia support for LXDE</_name>
+    <_description>Multimedia support for LXDE</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>asunder</packagereq>
+      <packagereq>lxmusic</packagereq>
+      <packagereq>gxine</packagereq>
+      <packagereq>gxine-mozplugin</packagereq>
+      <packagereq>pavucontrol</packagereq>
+      <packagereq>pnmixer</packagereq>
+      <packagereq>gnomebaker</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>lxde-office</id>
+    <_name>LXDE Office</_name>
+    <_description>Office suite for LXDE</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>abiword</packagereq>
+      <packagereq>gnumeric</packagereq>
+      <packagereq>osmo</packagereq>
+    </packagelist>
   </group>
   <group>
     <id>admin-tools</id>
