@@ -186,6 +186,7 @@
       <packagereq type="mandatory">cyrus-sasl-plain</packagereq>
       <packagereq type="mandatory">dbus</packagereq>
       <packagereq type="mandatory">ed</packagereq>
+      <packagereq type="mandatory">file</packagereq>
       <packagereq type="mandatory">firewalld</packagereq>
       <packagereq type="mandatory">logrotate</packagereq>
       <packagereq type="mandatory">lsof</packagereq>
@@ -582,7 +583,6 @@
       <packagereq type="mandatory">cronie</packagereq>
       <packagereq type="mandatory">dhclient</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
-      <packagereq type="mandatory">file</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
       <packagereq type="mandatory">glibc</packagereq>
       <packagereq type="mandatory">hostname</packagereq>
