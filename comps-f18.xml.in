@@ -606,17 +606,16 @@
       <packagereq type="mandatory">rpm</packagereq>
       <packagereq type="mandatory">rsyslog</packagereq>
       <packagereq type="mandatory">selinux-policy-targeted</packagereq>
-      <packagereq type="mandatory">setserial</packagereq>
       <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">shadow-utils</packagereq>
       <packagereq type="mandatory">sudo</packagereq>
+      <packagereq type="mandatory">systemd</packagereq>
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="mandatory">yum</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">ppc64-utils</packagereq>
       <packagereq type="default">sendmail</packagereq>
-      <packagereq type="default">systemd</packagereq>
     </packagelist>
   </group>
   <!-- 
@@ -5034,6 +5033,7 @@
       <packagereq type="default">openvpn</packagereq>
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">screen</packagereq>
+      <packagereq type="default">setserial</packagereq>
       <packagereq type="default">tigervnc</packagereq>
       <packagereq type="default">vpnc</packagereq>
       <packagereq type="default">xdelta</packagereq>
