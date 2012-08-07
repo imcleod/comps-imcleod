@@ -657,7 +657,7 @@
     </packagelist>
   </group>
   <group>
-    <id>python</id>
+    <id>python-web</id>
     <_name>Python</_name>
     <_description>Basic Python web application support.</_description>
     <default>false</default>
@@ -6510,6 +6510,130 @@
       <packagereq type="default">culmus-yehuda-clm-fonts</packagereq>
     </packagelist>
   </group>
+  <environment>
+    <id>gnome-desktop</_id>
+    <_name>GNOME Desktop</_name>
+    <_description>GNOME is a desktop.</_description>
+    <display_order>5</display_order>
+    <grouplist>
+      <groupid>x-server</groupid>
+      <groupid>base</groupid>
+      <groupid>core</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>firefox</groupid>
+      <groupid>gnome</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>gnome-apps</groupid>
+      <groupid>gnome-media</groupid>
+      <groupid>libreoffice</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <id>kde-desktop</_id>
+    <_name>KDE Desktop</_name>
+    <_description>KDE is also a desktop.</_description>
+    <display_order>10</display_order>
+    <grouplist>
+      <groupid>x-server</groupid>
+      <groupid>base</groupid>
+      <groupid>core</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>kde</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>kde-apps</groupid>
+      <groupid>kde-education</groupid>
+      <groupid>kde-media</groupid>
+      <groupid>kde-office</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <id>xfce-desktop</_id>
+    <_name>XFCE Desktop</_name>
+    <_description>XFCE is also a desktop.</_description>
+    <display_order>15</display_order>
+    <grouplist>
+      <groupid>x-server</groupid>
+      <groupid>base</groupid>
+      <groupid>core</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>xfce</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>xfce-apps</groupid>
+      <groupid>xfce-media</groupid>
+      <groupid>xfce-office</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <id>lxde-desktop</_id>
+    <_name>LXDE Desktop</_name>
+    <_description>LXDE is also a desktop.</_description>
+    <display_order>20</display_order>
+    <grouplist>
+      <groupid>x-server</groupid>
+      <groupid>base</groupid>
+      <groupid>core</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>lxde</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>lxde-apps</groupid>
+      <groupid>lxde-media</groupid>
+      <groupid>lxde-office</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <id>web-server</_id>
+    <_name>Web Server</_name>
+    <_description>Server for the web.</_description>
+    <display_order>25</display_order>
+    <grouplist>
+      <groupid>base</groupid>
+      <groupid>core</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>web-server</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>haproxy</groupid>
+      <groupid>jbossas</groupid>
+      <groupid>mongodb</groupid>
+      <groupid>perl-web</groupid>
+      <groupid>python-web</groupid>
+      <groupid>php</groupid>
+      <groupid>rubyonrails</groupid>
+      <groupid>mysql</groupid>
+      <groupid>sql-server</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <id>minimal</_id>
+    <_name>Minimal install</_name>
+    <_description>Basic functionality</_description>
+    <display_order>99</display_order>
+    <grouplist>
+      <groupid>core</groupid>
+    </grouplist>
+    <optionlist>
+    </optionlist>
+  </environment>
   <category>
     <id>language-support</id>
     <_name>Languages</_name>
