@@ -3212,7 +3212,7 @@
   <group>
     <id>gnome-desktop</id>
     <_name>GNOME Desktop Environment</_name>
-    <_description>GNOME is a powerful graphical user interface which includes a panel, desktop, system icons, and a graphical file manager.</_description>
+    <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -6513,7 +6513,7 @@
   <environment>
     <id>gnome-desktop</_id>
     <_name>GNOME Desktop</_name>
-    <_description>GNOME is a desktop.</_description>
+    <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
     <display_order>5</display_order>
     <grouplist>
       <groupid>x-server</groupid>
@@ -6536,7 +6536,7 @@
   <environment>
     <id>kde-desktop</_id>
     <_name>KDE Desktop</_name>
-    <_description>KDE is also a desktop.</_description>
+    <_description>The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
     <display_order>10</display_order>
     <grouplist>
       <groupid>x-server</groupid>
@@ -6559,7 +6559,7 @@
   <environment>
     <id>xfce-desktop</_id>
     <_name>XFCE Desktop</_name>
-    <_description>XFCE is also a desktop.</_description>
+    <_description>A lightweight desktop environment that works well on low end machines.</_description>
     <display_order>15</display_order>
     <grouplist>
       <groupid>x-server</groupid>
@@ -6581,7 +6581,7 @@
   <environment>
     <id>lxde-desktop</_id>
     <_name>LXDE Desktop</_name>
-    <_description>LXDE is also a desktop.</_description>
+    <_description>LXDE is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
     <display_order>20</display_order>
     <grouplist>
       <groupid>x-server</groupid>
@@ -6603,7 +6603,7 @@
   <environment>
     <id>web-server</_id>
     <_name>Web Server</_name>
-    <_description>Server for the web.</_description>
+    <_description>Server for serving static and dynamic internet content.</_description>
     <display_order>25</display_order>
     <grouplist>
       <groupid>base</groupid>
