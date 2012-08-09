@@ -3,7 +3,7 @@
 <comps>
   <group>
     <id>x-server</id>
-    <_name>x-server<_name>
+    <_name>x-server</_name>
     <_description>Local X.org display server</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -169,6 +169,7 @@
     <id>libreoffice</id>
     <_name>LibreOffice</_name>
     <_description>LibreOffice Productivity Suite</_description>
+    <packagelist>
       <packagereq>libreoffice-calc</packagereq>
       <packagereq>libreoffice-draw</packagereq>
       <packagereq>libreoffice-graphicfilter</packagereq>
@@ -424,6 +425,7 @@
       <packagereq>xfce4-xfswitch-plugin</packagereq>
       <packagereq>xfce4-xkb-plugin</packagereq>
       <packagereq>xfwm4-themes</packagereq>
+    </packagelist>
   </group>
   <group>
     <id>xfce-apps</id>
@@ -515,7 +517,7 @@
       <packagereq>xscreensaver-base</packagereq>
       <packagereq>clipit</packagereq>
       <packagereq>galculator</packagereq>
-      <packagereq>xpad</packagereq></packagereq>
+      <packagereq>xpad</packagereq>
       <packagereq>gigolo</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>adwaita-cursor-theme</packagereq>
@@ -530,6 +532,7 @@
       <packagereq>yumex</packagereq>
       <packagereq>notification-daemon</packagereq>
       <packagereq>upower</packagereq>
+    </packagelist>
   </group>
   <group>
     <id>lxde-apps</id>
@@ -537,12 +540,12 @@
     <_description>A set of commonly used applications for the LXDE Desktop</_description>
     <default>false</default>
     <uservisible>false</uservisible>
-    <packagelist></packagereq>
+    <packagelist>
       <packagereq>pidgin</packagereq>
       <packagereq>sylpheed</packagereq>
       <packagereq>transmission</packagereq>
       <packagereq>epdfview</packagereq>
-      <packagereq>mtpaint
+      <packagereq>mtpaint</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6511,7 +6514,7 @@
     </packagelist>
   </group>
   <environment>
-    <id>gnome-desktop</_id>
+    <id>gnome-desktop</id>
     <_name>GNOME Desktop</_name>
     <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
     <display_order>5</display_order>
@@ -6534,7 +6537,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>kde-desktop</_id>
+    <id>kde-desktop</id>
     <_name>KDE Desktop</_name>
     <_description>The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
     <display_order>10</display_order>
@@ -6557,7 +6560,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>xfce-desktop</_id>
+    <id>xfce-desktop</id>
     <_name>XFCE Desktop</_name>
     <_description>A lightweight desktop environment that works well on low end machines.</_description>
     <display_order>15</display_order>
@@ -6579,7 +6582,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>lxde-desktop</_id>
+    <id>lxde-desktop</id>
     <_name>LXDE Desktop</_name>
     <_description>LXDE is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
     <display_order>20</display_order>
@@ -6601,7 +6604,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>web-server</_id>
+    <id>web-server</id>
     <_name>Web Server</_name>
     <_description>Server for serving static and dynamic internet content.</_description>
     <display_order>25</display_order>
@@ -6624,7 +6627,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>minimal</_id>
+    <id>minimal</id>
     <_name>Minimal install</_name>
     <_description>Basic functionality</_description>
     <display_order>99</display_order>
