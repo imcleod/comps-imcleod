@@ -2115,8 +2115,10 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">gnome-games</packagereq>
-      <packagereq type="default">gnome-games-help</packagereq>
+      <packagereq type="default">gnome-games-gnomine</packagereq>
+      <packagereq type="default">gnome-games-iagno</packagereq>
+      <packagereq type="default">gnome-games-sudoku</packagereq>
+      <packagereq type="default">gnome-games-swell-foop</packagereq>
       <packagereq type="default">joystick</packagereq>
       <packagereq type="optional">abe</packagereq>
       <packagereq type="optional">abuse</packagereq>
@@ -2215,8 +2217,18 @@
       <packagereq type="optional">gl-117</packagereq>
       <packagereq type="optional">glaxium</packagereq>
       <packagereq type="optional">glob2</packagereq>
-      <packagereq type="optional">gnome-games-extra</packagereq>
       <packagereq type="optional">gnome-games-extra-data</packagereq>
+      <packagereq type="optional">gnome-games-glchess</packagereq>
+      <packagereq type="optional">gnome-games-glines</packagereq>
+      <packagereq type="optional">gnome-games-gnect</packagereq>
+      <packagereq type="optional">gnome-games-gnibbles</packagereq>
+      <packagereq type="optional">gnome-games-gnobots2</packagereq>
+      <packagereq type="optional">gnome-games-gnotravex</packagereq>
+      <packagereq type="optional">gnome-games-gnotski</packagereq>
+      <packagereq type="optional">gnome-games-gtali</packagereq>
+      <packagereq type="optional">gnome-games-lightsoff</packagereq>
+      <packagereq type="optional">gnome-games-mahjongg</packagereq>
+      <packagereq type="optional">gnome-games-quadrapassel</packagereq>
       <packagereq type="optional">gnome-hearts</packagereq>
       <packagereq type="optional">gnubg</packagereq>
       <packagereq type="optional">gnubik</packagereq>
