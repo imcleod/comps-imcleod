@@ -964,11 +964,14 @@
     <default>true</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="mandatory">acl</packagereq>
       <packagereq type="mandatory">at</packagereq>
+      <packagereq type="mandatory">attr</packagereq>
       <packagereq type="mandatory">authconfig</packagereq>
       <packagereq type="mandatory">bc</packagereq>
       <packagereq type="mandatory">bind-utils</packagereq>
       <packagereq type="mandatory">bzip2</packagereq>
+      <packagereq type="mandatory">cpio</packagereq>
       <packagereq type="mandatory">crontabs</packagereq>
       <packagereq type="mandatory">cyrus-sasl-plain</packagereq>
       <packagereq type="mandatory">dbus</packagereq>
@@ -1358,14 +1361,11 @@
     <default>true</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">acl</packagereq>
-      <packagereq type="mandatory">attr</packagereq>
       <packagereq type="mandatory">audit</packagereq>
       <packagereq type="mandatory">basesystem</packagereq>
       <packagereq type="mandatory">bash</packagereq>
       <packagereq type="mandatory">biosdevname</packagereq>
       <packagereq type="mandatory">coreutils</packagereq>
-      <packagereq type="mandatory">cpio</packagereq>
       <packagereq type="mandatory">cronie</packagereq>
       <packagereq type="mandatory">dhclient</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
