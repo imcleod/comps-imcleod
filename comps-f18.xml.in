@@ -8,10 +8,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>xorg-x11-drv-ast</packagereq>
       <packagereq>xorg-x11-drv-ati</packagereq>
-      <packagereq>xorg-x11-drv-cirrus</packagereq>
-      <packagereq>xorg-x11-drv-dummy</packagereq>
       <packagereq>xorg-x11-drv-evdev</packagereq>
       <packagereq>xorg-x11-drv-fbdev</packagereq>
       <packagereq>xorg-x11-drv-geode</packagereq>
@@ -26,7 +23,6 @@
       <packagereq>xorg-x11-drv-vesa</packagereq>
       <packagereq>xorg-x11-drv-vmmouse</packagereq>
       <packagereq>xorg-x11-drv-vmware</packagereq>
-      <packagereq>xorg-x11-drv-void</packagereq>
       <packagereq>xorg-x11-drv-wacom</packagereq>
       <packagereq>xorg-x11-server-Xorg</packagereq>
       <packagereq>xorg-x11-xauth</packagereq>
@@ -1136,10 +1132,7 @@
       <packagereq type="default">policycoreutils-sandbox</packagereq>
       <packagereq type="default">smolt-firstboot</packagereq>
       <packagereq type="default">spice-vdagent</packagereq>
-      <packagereq type="default">xorg-x11-drv-ast</packagereq>
       <packagereq type="default">xorg-x11-drv-ati</packagereq>
-      <packagereq type="default">xorg-x11-drv-cirrus</packagereq>
-      <packagereq type="default">xorg-x11-drv-dummy</packagereq>
       <packagereq type="default">xorg-x11-drv-evdev</packagereq>
       <packagereq type="default">xorg-x11-drv-fbdev</packagereq>
       <packagereq type="default">xorg-x11-drv-geode</packagereq>
@@ -1154,7 +1147,6 @@
       <packagereq type="default">xorg-x11-drv-vesa</packagereq>
       <packagereq type="default">xorg-x11-drv-vmmouse</packagereq>
       <packagereq type="default">xorg-x11-drv-vmware</packagereq>
-      <packagereq type="default">xorg-x11-drv-void</packagereq>
       <packagereq type="default">xorg-x11-drv-wacom</packagereq>
       <packagereq type="default">xorg-x11-utils</packagereq>
       <packagereq type="optional">alltray</packagereq>
