@@ -8,7 +8,26 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>xorg-x11-drivers</packagereq>
+      <packagereq>xorg-x11-drv-ast</packagereq>
+      <packagereq>xorg-x11-drv-ati</packagereq>
+      <packagereq>xorg-x11-drv-cirrus</packagereq>
+      <packagereq>xorg-x11-drv-dummy</packagereq>
+      <packagereq>xorg-x11-drv-evdev</packagereq>
+      <packagereq>xorg-x11-drv-fbdev</packagereq>
+      <packagereq>xorg-x11-drv-geode</packagereq>
+      <packagereq>xorg-x11-drv-intel</packagereq>
+      <packagereq>xorg-x11-drv-mga</packagereq>
+      <packagereq>xorg-x11-drv-modesetting</packagereq>
+      <packagereq>xorg-x11-drv-nouveau</packagereq>
+      <packagereq>xorg-x11-drv-omap</packagereq>
+      <packagereq>xorg-x11-drv-openchrome</packagereq>
+      <packagereq>xorg-x11-drv-qxl</packagereq>
+      <packagereq>xorg-x11-drv-synaptics</packagereq>
+      <packagereq>xorg-x11-drv-vesa</packagereq>
+      <packagereq>xorg-x11-drv-vmmouse</packagereq>
+      <packagereq>xorg-x11-drv-vmware</packagereq>
+      <packagereq>xorg-x11-drv-void</packagereq>
+      <packagereq>xorg-x11-drv-wacom</packagereq>
       <packagereq>xorg-x11-server-Xorg</packagereq>
       <packagereq>xorg-x11-xauth</packagereq>
       <packagereq>xorg-x11-xinit</packagereq>
@@ -1126,6 +1145,7 @@
       <packagereq type="default">xorg-x11-drv-geode</packagereq>
       <packagereq type="default">xorg-x11-drv-intel</packagereq>
       <packagereq type="default">xorg-x11-drv-mga</packagereq>
+      <packagereq type="default">xorg-x11-drv-modesetting</packagereq>
       <packagereq type="default">xorg-x11-drv-nouveau</packagereq>
       <packagereq type="default">xorg-x11-drv-omap</packagereq>
       <packagereq type="default">xorg-x11-drv-openchrome</packagereq>
