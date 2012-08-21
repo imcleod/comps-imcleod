@@ -385,7 +385,6 @@
       <packagereq>NetworkManager-gnome</packagereq>
       <packagereq>openssh-askpass</packagereq>
       <packagereq>orage</packagereq>
-      <packagereq>polkit-gnome</packagereq>
       <packagereq>Terminal</packagereq>
       <packagereq>thunar-archive-plugin</packagereq>
       <packagereq>thunar-volman</packagereq>
@@ -398,6 +397,7 @@
       <packagereq>xfce4-session-engines</packagereq>
       <packagereq>xfwm4-theme-nodoka</packagereq>
       <packagereq>xscreensaver-base</packagereq>
+      <packagereq>yumex</packagereq>
       <packagereq>cheese</packagereq>
       <packagereq>catfish</packagereq>
       <packagereq>galculator</packagereq>
@@ -423,34 +423,11 @@
       <packagereq>bluebird-xfwm4-theme</packagereq>
       <packagereq>ristretto</packagereq>
       <packagereq>thunar-media-tags-plugin</packagereq>
-      <packagereq>xfce4-battery-plugin</packagereq>
-      <packagereq>xfce4-cellmodem-plugin</packagereq>
-      <packagereq>xfce4-clipman-plugin</packagereq>
-      <packagereq>xfce4-cpugraph-plugin</packagereq>
       <packagereq>xfce4-datetime-plugin</packagereq>
-      <packagereq>xfce4-dict-plugin</packagereq>
-      <packagereq>xfce4-diskperf-plugin</packagereq>
-      <packagereq>xfce4-eyes-plugin</packagereq>
-      <packagereq>xfce4-fsguard-plugin</packagereq>
-      <packagereq>xfce4-genmon-plugin</packagereq>
-      <packagereq>xfce4-mailwatch-plugin</packagereq>
-      <packagereq>xfce4-mount-plugin</packagereq>
-      <packagereq>xfce4-netload-plugin</packagereq>
-      <packagereq>xfce4-notes-plugin</packagereq>
       <packagereq>xfce4-places-plugin</packagereq>
       <packagereq>xfce4-quicklauncher-plugin</packagereq>
       <packagereq>xfce4-screenshooter-plugin</packagereq>
-      <packagereq>xfce4-sensors-plugin</packagereq>
-      <packagereq>xfce4-smartbookmark-plugin</packagereq>
-      <packagereq>xfce4-systemload-plugin</packagereq>
-      <packagereq>xfce4-taskmanager</packagereq>
-      <packagereq>xfce4-time-out-plugin</packagereq>
-      <packagereq>xfce4-timer-plugin</packagereq>
-      <packagereq>xfce4-verve-plugin</packagereq>
-      <packagereq>xfce4-weather-plugin</packagereq>
-      <packagereq>xfce4-websearch-plugin</packagereq>
       <packagereq>xfce4-xfswitch-plugin</packagereq>
-      <packagereq>xfce4-xkb-plugin</packagereq>
       <packagereq>xfwm4-themes</packagereq>
     </packagelist>
   </group>
@@ -462,6 +439,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>epdfview</packagereq>
+      <packagereq>geany</packagereq>
       <packagereq>midori</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>claws-mail-plugins-archive</packagereq>
@@ -478,12 +456,45 @@
       <packagereq>claws-mail-plugins-spam-report</packagereq>
       <packagereq>claws-mail-plugins-tnef</packagereq>
       <packagereq>claws-mail-plugins-vcalendar</packagereq>
+      <packagereq>clipman</packagereq>
       <packagereq>liferea</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>remmina</packagereq>
       <packagereq>remmina-plugins-rdp</packagereq>
       <packagereq>remmina-plugins-vnc</packagereq>
       <packagereq>transmission</packagereq>
+      <packagereq>xfce4-clipman-plugin</packagereq>
+      <packagereq>xfce4-dict-plugin</packagereq>
+      <packagereq>xfce4-notes-plugin</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>xfce-extra-plugins</id>
+    <_name>Extra plugins for the XFCE panel</_name>
+    <_description>Extend the functionality of the XFCE panel</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>xfce4-battery-plugin</packagereq>
+      <packagereq>xfce4-cellmodem-plugin</packagereq>
+      <packagereq>xfce4-cpugraph-plugin</packagereq>
+      <packagereq>xfce4-diskperf-plugin</packagereq>
+      <packagereq>xfce4-eyes-plugin</packagereq>
+      <packagereq>xfce4-fsguard-plugin</packagereq>
+      <packagereq>xfce4-genmon-plugin</packagereq>
+      <packagereq>xfce4-mailwatch-plugin</packagereq>
+      <packagereq>xfce4-mount-plugin</packagereq>
+      <packagereq>xfce4-netload-plugin</packagereq>
+      <packagereq>xfce4-sensors-plugin</packagereq>
+      <packagereq>xfce4-smartbookmark-plugin</packagereq>
+      <packagereq>xfce4-systemload-plugin</packagereq>
+      <packagereq>xfce4-taskmanager</packagereq>
+      <packagereq>xfce4-time-out-plugin</packagereq>
+      <packagereq>xfce4-timer-plugin</packagereq>
+      <packagereq>xfce4-verve-plugin</packagereq>
+      <packagereq>xfce4-weather-plugin</packagereq>
+      <packagereq>xfce4-websearch-plugin</packagereq>
+      <packagereq>xfce4-xkb-plugin</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6539,6 +6550,7 @@
     </grouplist>
     <optionlist>
       <groupid>xfce-apps</groupid>
+      <groupid>xfce-extra-plugins</groupid>
       <groupid>xfce-media</groupid>
       <groupid>xfce-office</groupid>
     </optionlist>
