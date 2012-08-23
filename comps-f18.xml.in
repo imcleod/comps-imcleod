@@ -118,11 +118,12 @@
       <packagereq>mousetweaks</packagereq>
       <packagereq>nautilus</packagereq>
       <packagereq>nautilus-sendto</packagereq>
-      <packagereq>NetworkManager-gnome</packagereq>
+      <packagereq>network-manager-applet</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>nm-connection-editor</packagereq>
       <packagereq>orca</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
       <packagereq>PackageKit-gtk-module</packagereq>
@@ -382,7 +383,8 @@
       <packagereq>gtk-xfce-engine</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>leafpad</packagereq>
-      <packagereq>NetworkManager-gnome</packagereq>
+      <packagereq>network-manager-applet</packagereq>
+      <packagereq>nm-connection-editor</packagereq>
       <packagereq>openssh-askpass</packagereq>
       <packagereq>orage</packagereq>
       <packagereq>Terminal</packagereq>
@@ -562,7 +564,8 @@
       <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>adwaita-gtk3-theme</packagereq>
       <packagereq>gnome-keyring-pam</packagereq>
-      <packagereq>NetworkManager-gnome</packagereq>
+      <packagereq>network-manager-applet</packagereq>
+      <packagereq>nm-connection-editor</packagereq>
       <packagereq>perl-File-MimeInfo</packagereq>
       <packagereq>xcompmgr</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
@@ -1515,7 +1518,6 @@
       <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">libcanberra-gtk3</packagereq>
       <packagereq type="default">nautilus</packagereq>
-      <packagereq type="default">NetworkManager-gnome</packagereq>
       <packagereq type="default">polkit-gnome</packagereq>
       <packagereq type="default">pulseaudio-module-x11</packagereq>
     </packagelist>
@@ -3343,7 +3345,8 @@
       <packagereq type="default">mousetweaks</packagereq>
       <packagereq type="default">nautilus</packagereq>
       <packagereq type="default">nautilus-sendto</packagereq>
-      <packagereq type="default">NetworkManager-gnome</packagereq>
+      <packagereq type="default">network-manager-applet</packagereq>
+      <packagereq type="default">nm-connection-editor</packagereq>
       <packagereq type="default">NetworkManager-openconnect</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
       <packagereq type="default">NetworkManager-pptp</packagereq>
@@ -6378,7 +6381,8 @@
       <packagereq type="default">gtk-xfce-engine</packagereq>
       <packagereq type="default">gvfs</packagereq>
       <packagereq type="default">leafpad</packagereq>
-      <packagereq type="default">NetworkManager-gnome</packagereq>
+      <packagereq type="default">network-manager-applet</packagereq>
+      <packagereq type="default">nm-connection-editor</packagereq>
       <packagereq type="default">openssh-askpass</packagereq>
       <packagereq type="default">orage</packagereq>
       <packagereq type="default">polkit-gnome</packagereq>
