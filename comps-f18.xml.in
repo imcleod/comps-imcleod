@@ -1217,17 +1217,6 @@
     </packagelist>
   </group>
   <group>
-    <id>belarusian-support</id>
-    <_name>Belarusian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>be</langonly>
-    <packagelist>
-      <packagereq type="optional">apanov-edrip-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>bengali-support</id>
     <_name>Bengali Support</_name>
     <_description/>
@@ -1314,20 +1303,6 @@
     </packagelist>
   </group>
   <group>
-    <id>bulgarian-support</id>
-    <_name>Bulgarian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>bg</langonly>
-    <packagelist>
-      <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>burmese-support</id>
     <_name>Myanmar (Burmese) Support</_name>
     <_description/>
@@ -1337,23 +1312,6 @@
     <packagelist>
       <packagereq type="default">sil-padauk-fonts</packagereq>
       <packagereq type="optional">myanmar3-unicode-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>chuvash-support</id>
-    <_name>Chuvash Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>cv</langonly>
-    <packagelist>
-      <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">apanov-heuristica-fonts</packagereq>
-      <packagereq type="optional">fonts-KOI8-R</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
-      <packagereq type="optional">ibus-table-cyrillic</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1554,33 +1512,6 @@
     <packagelist>
       <packagereq type="mandatory">xfce4-session</packagereq>
       <packagereq type="mandatory">xfce4-settings</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>croatian-support</id>
-    <_name>Croatian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>hr</langonly>
-    <packagelist>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>czech-support</id>
-    <_name>Czech Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>cs</langonly>
-    <packagelist>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-      <packagereq type="optional">stardict-dic-cs_CZ</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2425,20 +2356,6 @@
     </packagelist>
   </group>
   <group>
-    <id>estonian-support</id>
-    <_name>Estonian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>et</langonly>
-    <packagelist>
-      <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>ethiopic-support</id>
     <_name>Ethiopic Support</_name>
     <_description/>
@@ -2924,18 +2841,6 @@
       <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
       <packagereq type="optional">yanone-kaffeesatz-fonts</packagereq>
       <packagereq type="optional">yanone-tagesschrift-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>french-support</id>
-    <_name>French Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>fr</langonly>
-    <packagelist>
-      <packagereq type="optional">ecolier-court-fonts</packagereq>
-      <packagereq type="optional">ecolier-court-lignes-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3858,19 +3763,6 @@
     </packagelist>
   </group>
   <group>
-    <id>hungarian-support</id>
-    <_name>Hungarian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>hu</langonly>
-    <packagelist>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>input-methods</id>
     <_name>Input Methods</_name>
     <_description>Input method packages for the input of international text.</_description>
@@ -4447,23 +4339,6 @@
     </packagelist>
   </group>
   <group>
-    <id>kyrgyz-support</id>
-    <_name>Kyrgyz Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ky</langonly>
-    <packagelist>
-      <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">apanov-heuristica-fonts</packagereq>
-      <packagereq type="optional">fonts-KOI8-R</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
-      <packagereq type="optional">ibus-table-cyrillic</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>legacy-fonts</id>
     <_name>Legacy Fonts</_name>
     <_description>Older bitmap and vector fonts packages</_description>
@@ -4609,19 +4484,6 @@
       <packagereq type="optional">libreoffice-rhino</packagereq>
       <packagereq type="optional">libreoffice-sdk</packagereq>
       <packagereq type="optional">libreoffice-sdk-doc</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>lower-sorbian-support</id>
-    <_name>Lower Sorbian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>dsb</langonly>
-    <packagelist>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5143,19 +5005,6 @@
     <packagelist>
       <packagereq type="default">sil-scheherazade-fonts</packagereq>
       <packagereq type="optional">sil-lateef-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>polish-support</id>
-    <_name>Polish Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>pl</langonly>
-    <packagelist>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6623,26 +6472,20 @@
     <grouplist>
       <groupid>arabic-support</groupid>
       <groupid>assamese-support</groupid>
-      <groupid>belarusian-support</groupid>
       <groupid>bengali-support</groupid>
       <groupid>bhutanese-support</groupid>
       <groupid>bodo-support</groupid>
-      <groupid>bulgarian-support</groupid>
       <groupid>burmese-support</groupid>
-      <groupid>chuvash-support</groupid>
-      <groupid>croatian-support</groupid>
       <groupid>czech-support</groupid>
       <groupid>dogri-support</groupid>
       <groupid>estonian-support</groupid>
       <groupid>ethiopic-support</groupid>
       <groupid>finnish-support</groupid>
-      <groupid>french-support</groupid>
       <groupid>georgian-support</groupid>
       <groupid>greek-support</groupid>
       <groupid>gujarati-support</groupid>
       <groupid>hebrew-support</groupid>
       <groupid>hindi-support</groupid>
-      <groupid>hungarian-support</groupid>
       <groupid>japanese-support</groupid>
       <groupid>kannada-support</groupid>
       <groupid>kashmiri-support</groupid>
@@ -6650,8 +6493,6 @@
       <groupid>konkani-support</groupid>
       <groupid>korean-support</groupid>
       <groupid>kurdish-support</groupid>
-      <groupid>kyrgyz-support</groupid>
-      <groupid>lower-sorbian-support</groupid>
       <groupid>maithili-support</groupid>
       <groupid>malayalam-support</groupid>
       <groupid>manipuri-support</groupid>
@@ -6659,7 +6500,6 @@
       <groupid>nepali-support</groupid>
       <groupid>oriya-support</groupid>
       <groupid>persian-support</groupid>
-      <groupid>polish-support</groupid>
       <groupid>punjabi-support</groupid>
       <groupid>romanian-support</groupid>
       <groupid>russian-support</groupid>
