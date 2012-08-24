@@ -5103,21 +5103,6 @@
     </packagelist>
   </group>
   <group>
-    <id>romanian-support</id>
-    <_name>Romanian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>ro</langonly>
-    <packagelist>
-      <packagereq type="mandatory">terminus-fonts-console</packagereq>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-      <packagereq type="optional">terminus-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>ruby</id>
     <_name>Ruby</_name>
     <_description>Basic support for the Ruby programming language.</_description>
@@ -5176,20 +5161,6 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>serbian-support</id>
-    <_name>Serbian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>sr</langonly>
-    <packagelist>
-      <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5271,32 +5242,6 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-sayura</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>slovak-support</id>
-    <_name>Slovak Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>sk</langonly>
-    <packagelist>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>slovenian-support</id>
-    <_name>Slovenian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>sl</langonly>
-    <packagelist>
-      <packagereq type="optional">iso8859-2-100dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-75dpi-fonts</packagereq>
-      <packagereq type="optional">iso8859-2-misc-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5445,17 +5390,6 @@
       <packagereq type="optional">xmms-adplug</packagereq>
       <packagereq type="optional">xmms-flac</packagereq>
       <packagereq type="optional">xmp</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>spanish-support</id>
-    <_name>Spanish Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>es</langonly>
-    <packagelist>
-      <packagereq type="optional">man-pages-es-extra</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5915,33 +5849,6 @@
     </packagelist>
   </group>
   <group>
-    <id>turkish-support</id>
-    <_name>Turkish Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>tr</langonly>
-    <packagelist>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>ukrainian-support</id>
-    <_name>Ukrainian Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>uk</langonly>
-    <packagelist>
-      <packagereq type="optional">apanov-edrip-fonts</packagereq>
-      <packagereq type="optional">fonts-KOI8-R</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
-      <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
-      <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>urdu-support</id>
     <_name>Urdu Support</_name>
     <_description/>
@@ -5983,17 +5890,6 @@
       <packagereq type="optional">paktype-naskh-basic-sa-fonts</packagereq>
       <packagereq type="optional">paktype-naskh-basic-sindhi-fonts</packagereq>
       <packagereq type="optional">paktype-naskh-basic-urdu-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>vietnamese-support</id>
-    <_name>Vietnamese Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <langonly>vi</langonly>
-    <packagelist>
-      <packagereq type="optional">scim-tables-vietnamese</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6454,9 +6350,7 @@
       <groupid>bhutanese-support</groupid>
       <groupid>bodo-support</groupid>
       <groupid>burmese-support</groupid>
-      <groupid>czech-support</groupid>
       <groupid>dogri-support</groupid>
-      <groupid>estonian-support</groupid>
       <groupid>ethiopic-support</groupid>
       <groupid>finnish-support</groupid>
       <groupid>georgian-support</groupid>
@@ -6479,7 +6373,6 @@
       <groupid>oriya-support</groupid>
       <groupid>persian-support</groupid>
       <groupid>punjabi-support</groupid>
-      <groupid>romanian-support</groupid>
       <groupid>russian-support</groupid>
       <groupid>sanskrit-support</groupid>
       <groupid>santali-support</groupid>
@@ -6487,18 +6380,12 @@
       <groupid>simplified-chinese-support</groupid>
       <groupid>sindhi-support</groupid>
       <groupid>sinhala-support</groupid>
-      <groupid>slovak-support</groupid>
-      <groupid>slovenian-support</groupid>
-      <groupid>spanish-support</groupid>
       <groupid>tamil-support</groupid>
       <groupid>telugu-support</groupid>
       <groupid>thai-support</groupid>
       <groupid>tibetan-support</groupid>
       <groupid>traditional-chinese-support</groupid>
-      <groupid>turkish-support</groupid>
-      <groupid>ukrainian-support</groupid>
       <groupid>urdu-support</groupid>
-      <groupid>vietnamese-support</groupid>
       <groupid>yiddish-support</groupid>
     </grouplist>
   </category>
