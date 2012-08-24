@@ -1062,8 +1062,8 @@
       <packagereq type="default">mlocate</packagereq>
       <packagereq type="default">mtr</packagereq>
       <packagereq type="default">nano</packagereq>
-      <packagereq type="default">nmap-ncat</packagereq>
       <packagereq type="default">nfs-utils</packagereq>
+      <packagereq type="default">nmap-ncat</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
       <packagereq type="default">numactl</packagereq>
@@ -1322,7 +1322,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional">aeolus-all</packagereq>
-      <packagereq type="optional">rubygem-boxgrinder-core</packagereq>
       <packagereq type="optional">ceph</packagereq>
       <packagereq type="optional">deltacloud-core-all</packagereq>
       <packagereq type="optional">euca2ools</packagereq>
@@ -1335,6 +1334,7 @@
       <packagereq type="optional">openstack-swift</packagereq>
       <packagereq type="optional">pacemaker-cloud</packagereq>
       <packagereq type="optional">python-novaclient</packagereq>
+      <packagereq type="optional">rubygem-boxgrinder-core</packagereq>
       <packagereq type="optional">sheepdog</packagereq>
       <packagereq type="optional">tabled</packagereq>
     </packagelist>
@@ -1960,7 +1960,6 @@
       <packagereq type="optional">eclipse-findbugs</packagereq>
       <packagereq type="optional">eclipse-moreunit</packagereq>
       <packagereq type="optional">eclipse-mylyn-fedora-integration</packagereq>
-      <packagereq type="optional">eclipse-mylyn-tasks-trac</packagereq>
       <packagereq type="optional">eclipse-photran</packagereq>
       <packagereq type="optional">eclipse-phpeclipse</packagereq>
       <packagereq type="optional">eclipse-quickrex</packagereq>
@@ -2774,8 +2773,6 @@
       <packagereq type="optional">thibault-rockets-fonts</packagereq>
       <packagereq type="optional">thibault-staypuft-fonts</packagereq>
       <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
-      <packagereq type="optional">tabish-eeyek-fonts</packagereq>
-      <packagereq type="optional">tangerine-fonts</packagereq>
       <packagereq type="optional">tiresias-info-fonts</packagereq>
       <packagereq type="optional">tiresias-info-z-fonts</packagereq>
       <packagereq type="optional">tiresias-key-v2-fonts</packagereq>
@@ -2810,8 +2807,8 @@
       <packagereq type="optional">un-extra-taza-fonts</packagereq>
       <packagereq type="optional">un-extra-vada-fonts</packagereq>
       <packagereq type="optional">un-extra-yetgul-fonts</packagereq>
-      <packagereq type="optional">vemana2000-fonts</packagereq>
       <packagereq type="optional">vdrsymbol-fonts</packagereq>
+      <packagereq type="optional">vemana2000-fonts</packagereq>
       <packagereq type="optional">vlgothic-p-fonts</packagereq>
       <packagereq type="optional">vollkorn-fonts</packagereq>
       <packagereq type="optional">wine-marlett-fonts</packagereq>
@@ -2995,8 +2992,8 @@
       <packagereq type="optional">manaworld-music</packagereq>
       <packagereq type="optional">maniadrive</packagereq>
       <packagereq type="optional">maniadrive-music</packagereq>
-      <packagereq type="optional">MegaMek</packagereq>
       <packagereq type="optional">megaglest</packagereq>
+      <packagereq type="optional">MegaMek</packagereq>
       <packagereq type="optional">methane</packagereq>
       <packagereq type="optional">mindless</packagereq>
       <packagereq type="optional">mine_detector</packagereq>
@@ -3232,11 +3229,11 @@
       <packagereq type="default">nautilus</packagereq>
       <packagereq type="default">nautilus-sendto</packagereq>
       <packagereq type="default">network-manager-applet</packagereq>
-      <packagereq type="default">nm-connection-editor</packagereq>
       <packagereq type="default">NetworkManager-openconnect</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
       <packagereq type="default">NetworkManager-pptp</packagereq>
       <packagereq type="default">NetworkManager-vpnc</packagereq>
+      <packagereq type="default">nm-connection-editor</packagereq>
       <packagereq type="default">orca</packagereq>
       <packagereq type="default">PackageKit-command-not-found</packagereq>
       <packagereq type="default">PackageKit-gtk3-module</packagereq>
@@ -3764,8 +3761,8 @@
       <packagereq type="default">ibus-chewing</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-hunspell-table</packagereq>
-      <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-libpinyin</packagereq>
+      <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-rawcode</packagereq>
       <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">imsettings</packagereq>
@@ -6207,10 +6204,10 @@
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">ConsoleKit</packagereq>
       <packagereq type="default">fedora-icon-theme</packagereq>
-      <packagereq type="default">lightdm-gtk</packagereq>
       <packagereq type="default">gtk-xfce-engine</packagereq>
       <packagereq type="default">gvfs</packagereq>
       <packagereq type="default">leafpad</packagereq>
+      <packagereq type="default">lightdm-gtk</packagereq>
       <packagereq type="default">network-manager-applet</packagereq>
       <packagereq type="default">nm-connection-editor</packagereq>
       <packagereq type="default">openssh-askpass</packagereq>
