@@ -971,6 +971,9 @@
       <packagereq type="default">docbook5-style-xsl</packagereq>
       <packagereq type="default">linuxdoc-tools</packagereq>
       <packagereq type="default">texlive</packagereq>
+      <packagereq type="default">tex-cm-lgc</packagereq>
+      <packagereq type="default">tex-kerkis</packagereq>
+      <packagereq type="default">tex-fonts-hebrew</packagereq>
       <packagereq type="default">xhtml1-dtds</packagereq>
       <packagereq type="default">xmlto</packagereq>
       <packagereq type="optional">abcm2ps</packagereq>
@@ -3569,8 +3572,6 @@
     <uservisible>true</uservisible>
     <langonly>el</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="texlive">tex-cm-lgc</packagereq>
-      <packagereq type="conditional" requires="texlive">tex-kerkis</packagereq>
       <packagereq type="optional">ctan-kerkis-calligraphic-fonts</packagereq>
       <packagereq type="optional">ctan-kerkis-sans-fonts</packagereq>
       <packagereq type="optional">ctan-kerkis-serif-fonts</packagereq>
@@ -3723,7 +3724,6 @@
     <langonly>he</langonly>
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
-      <packagereq type="conditional" requires="texlive">tex-fonts-hebrew</packagereq>
       <packagereq type="default">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="default">culmus-caladings-clm-fonts</packagereq>
       <packagereq type="default">culmus-david-clm-fonts</packagereq>
@@ -6213,7 +6213,6 @@
     <langonly>yi</langonly>
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
-      <packagereq type="conditional" requires="texlive">tex-fonts-hebrew</packagereq>
       <packagereq type="default">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="default">culmus-caladings-clm-fonts</packagereq>
       <packagereq type="default">culmus-david-clm-fonts</packagereq>
