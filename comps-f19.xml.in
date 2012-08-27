@@ -913,7 +913,7 @@
     <_name>Arabic Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ar</langonly>
     <packagelist>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
@@ -945,7 +945,7 @@
     <_name>Assamese Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>as</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-assamese-fonts</packagereq>
@@ -1224,7 +1224,7 @@
     <_name>Bengali Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>bn</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-bengali-fonts</packagereq>
@@ -1239,7 +1239,7 @@
     <_name>Bhutanese Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>dz</langonly>
     <packagelist>
       <packagereq type="mandatory">jomolhari-fonts</packagereq>
@@ -1250,7 +1250,7 @@
     <_name>Bodo Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>brx</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
@@ -1310,7 +1310,7 @@
     <_name>Myanmar (Burmese) Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>my</langonly>
     <packagelist>
       <packagereq type="default">sil-padauk-fonts</packagereq>
@@ -1897,7 +1897,7 @@
     <_name>Dogri Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>doi</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
@@ -2344,7 +2344,7 @@
     <_name>Ethiopic Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>am</langonly>
     <packagelist>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
@@ -2393,7 +2393,7 @@
     <_name>Finnish Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>fi</langonly>
     <packagelist>
       <packagereq type="conditional" requires="firefox">mozvoikko</packagereq>
@@ -3128,7 +3128,7 @@
     <_name>Georgian Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ka</langonly>
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
@@ -3550,7 +3550,7 @@
     <_name>Greek Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>el</langonly>
     <packagelist>
       <packagereq type="optional">ctan-kerkis-calligraphic-fonts</packagereq>
@@ -3591,7 +3591,7 @@
     <_name>Gujarati Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>gu</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-gujarati-fonts</packagereq>
@@ -3701,7 +3701,7 @@
     <_name>Hebrew Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>he</langonly>
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
@@ -3727,7 +3727,7 @@
     <_name>Hindi Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>hi</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
@@ -3826,7 +3826,7 @@
     <_name>Japanese Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ja</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-anthy</packagereq>
@@ -3968,7 +3968,7 @@
     <_name>Kannada Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>kn</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-kannada-fonts</packagereq>
@@ -3985,7 +3985,7 @@
     <_name>Kashmiri Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ks</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
@@ -4237,7 +4237,7 @@
     <_name>Khmer Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>km</langonly>
     <packagelist>
       <packagereq type="mandatory">khmeros-base-fonts</packagereq>
@@ -4254,7 +4254,7 @@
     <_name>Konkani Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>kok</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
@@ -4267,7 +4267,7 @@
     <_name>Korean Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ko</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-hangul</packagereq>
@@ -4307,7 +4307,7 @@
     <_name>Kurdish Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ku</langonly>
     <packagelist>
       <packagereq type="default">kurdit-unikurd-web-fonts</packagereq>
@@ -4546,7 +4546,7 @@
     <_name>Maithili Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>mai</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
@@ -4560,7 +4560,7 @@
     <_name>Malayalam Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ml</langonly>
     <packagelist>
       <packagereq type="mandatory">m17n-contrib</packagereq>
@@ -4583,7 +4583,7 @@
     <_name>Manipuri Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>mni</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-bengali-fonts</packagereq>
@@ -4597,7 +4597,7 @@
     <_name>Marathi Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>mr</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
@@ -4726,7 +4726,7 @@
     <_name>Nepali Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ne</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
@@ -4942,7 +4942,7 @@
     <_name>Oriya Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>or</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-oriya-fonts</packagereq>
@@ -4975,7 +4975,7 @@
     <_name>Persian Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>fa</langonly>
     <packagelist>
       <packagereq type="default">sil-scheherazade-fonts</packagereq>
@@ -5019,7 +5019,7 @@
     <_name>Punjabi Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>pa</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-punjabi-fonts</packagereq>
@@ -5117,7 +5117,7 @@
     <_name>Russian Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ru</langonly>
     <packagelist>
       <packagereq type="default">paratype-pt-sans-fonts</packagereq>
@@ -5138,7 +5138,7 @@
     <_name>Sanskrit Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>sa</langonly>
     <packagelist>
       <packagereq type="mandatory">m17n-db</packagereq>
@@ -5150,7 +5150,7 @@
     <_name>Santali Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>sat</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
@@ -5182,7 +5182,7 @@
     <_name>Simplified Chinese Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>zh_CN</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-libpinyin</packagereq>
@@ -5215,7 +5215,7 @@
     <_name>Sindhi Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>sd</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
@@ -5230,7 +5230,7 @@
     <_name>Sinhala Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>si</langonly>
     <packagelist>
       <packagereq type="mandatory">lklug-fonts</packagereq>
@@ -5695,7 +5695,7 @@
     <_name>Tamil Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ta</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-tamil-fonts</packagereq>
@@ -5712,7 +5712,7 @@
     <_name>Telugu Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>te</langonly>
     <packagelist>
       <packagereq type="mandatory">lohit-telugu-fonts</packagereq>
@@ -5784,7 +5784,7 @@
     <_name>Thai Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>th</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
@@ -5808,7 +5808,7 @@
     <_name>Tibetan Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>bo</langonly>
     <packagelist>
       <packagereq type="mandatory">tibetan-machine-uni-fonts</packagereq>
@@ -5821,7 +5821,7 @@
     <_name>Traditional Chinese Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>zh_TW</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
@@ -5850,7 +5850,7 @@
     <_name>Urdu Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>ur</langonly>
     <packagelist>
       <packagereq type="mandatory">m17n-contrib</packagereq>
@@ -6188,7 +6188,7 @@
     <_name>Yiddish Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <langonly>yi</langonly>
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
