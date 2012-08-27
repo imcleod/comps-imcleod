@@ -40,6 +40,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>gstreamer-plugins-bad-free</packagereq>
+      <packagereq>gstreamer-plugins-espeak</packagereq>
       <packagereq>gstreamer-plugins-good</packagereq>
       <packagereq>PackageKit-gstreamer-plugin</packagereq>
       <packagereq>alsa-utils</packagereq>
@@ -615,6 +617,27 @@
       <packagereq>abiword</packagereq>
       <packagereq>gnumeric</packagereq>
       <packagereq>osmo</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>sugar-apps</id>
+    <_name>Additional Sugar Activities</_name>
+    <_description>Additional activities for use with the Sugar Environment.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>sugar-analyze</packagereq>
+      <packagereq>sugar-calendario</packagereq>
+      <packagereq>sugar-connect</packagereq>
+      <packagereq>sugar-distance</packagereq>
+      <packagereq>sugar-emulator</packagereq>
+      <packagereq>sugar-flipsticks</packagereq>
+      <packagereq>sugar-implode</packagereq>
+      <packagereq>sugar-playgo</packagereq>
+      <packagereq>sugar-pukllanapac</packagereq>
+      <packagereq>sugar-stopwatch</packagereq>
+      <packagereq>sugar-view-slides</packagereq>
+      <packagereq>sugar-xomail</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5480,18 +5503,6 @@
       <packagereq type="default">sugar-visualmatch</packagereq>
       <packagereq type="default">sugar-write</packagereq>
       <packagereq type="default">sugar-xoirc</packagereq>
-      <packagereq type="optional">sugar-analyze</packagereq>
-      <packagereq type="optional">sugar-calendario</packagereq>
-      <packagereq type="optional">sugar-connect</packagereq>
-      <packagereq type="optional">sugar-distance</packagereq>
-      <packagereq type="optional">sugar-emulator</packagereq>
-      <packagereq type="optional">sugar-flipsticks</packagereq>
-      <packagereq type="optional">sugar-implode</packagereq>
-      <packagereq type="optional">sugar-playgo</packagereq>
-      <packagereq type="optional">sugar-pukllanapac</packagereq>
-      <packagereq type="optional">sugar-stopwatch</packagereq>
-      <packagereq type="optional">sugar-view-slides</packagereq>
-      <packagereq type="optional">sugar-xomail</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6236,6 +6247,7 @@
       <groupid>x-server</groupid>
       <groupid>base</groupid>
       <groupid>core</groupid>
+      <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -6260,6 +6272,7 @@
       <groupid>x-server</groupid>
       <groupid>base</groupid>
       <groupid>core</groupid>
+      <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -6283,6 +6296,7 @@
       <groupid>x-server</groupid>
       <groupid>base</groupid>
       <groupid>core</groupid>
+      <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -6306,6 +6320,7 @@
       <groupid>x-server</groupid>
       <groupid>base</groupid>
       <groupid>core</groupid>
+      <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -6320,10 +6335,73 @@
     </optionlist>
   </environment>
   <environment>
+    <id>sugar-desktop</id>
+    <_name>Sugar Desktop Environment</_name>
+    <_description>A software playground for learning about learning.</_description>
+    <display_order>25</display_order>
+    <grouplist>
+      <groupid>x-server</groupid>
+      <groupid>base</groupid>
+      <groupid>core</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>sugar-desktop</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>sugar-apps</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <id>developer-workstation</id>
+    <_name>Developer Workstation</_name>
+    <_description>Workstation for software, hardware, or graphics development.</_description>
+    <display_order>35</display_order>
+    <grouplist>
+      <groupid>x-server</groupid>
+      <groupid>base</groupid>
+      <groupid>core</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>firefox</groupid>
+      <groupid>gnome</groupid>
+      <groupid>eclipse</groupid>
+      <groupid>development-libs</groupid>
+      <groupid>development-tools</groupid>
+      <groupid>fedora-packager</groupid>
+      <groupid>gnome-software-development</groupid>
+      <groupid>kde-software-development</groupid>
+      <groupid>x-software-development</groupid>
+      <groupid>virtualization</groupid>
+      <groupid>web-server</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>jbossas</groupid>
+      <groupid>mongodb</groupid>
+      <groupid>perl-web</groupid>
+      <groupid>php</groupid>
+      <groupid>rubyonrails</groupid>
+      <groupid>mysql</groupid>
+      <groupid>sql-server</groupid>
+      <groupid>design-suite</groupid>
+      <groupid>milkymist</groupid>
+      <groupid>mingw32</groupid>
+      <groupid>ocaml</groupid>
+      <groupid>robotics-suite</groupid>
+      <groupid>electronic-lab</groupid>
+    </optionlist>
+  </environment>
+  <environment>
     <id>web-server</id>
     <_name>Web Server</_name>
     <_description>Server for serving static and dynamic internet content.</_description>
-    <display_order>25</display_order>
+    <display_order>50</display_order>
     <grouplist>
       <groupid>base</groupid>
       <groupid>core</groupid>
@@ -6338,6 +6416,28 @@
       <groupid>python-web</groupid>
       <groupid>php</groupid>
       <groupid>rubyonrails</groupid>
+      <groupid>mysql</groupid>
+      <groupid>sql-server</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <id>infrastructure-server</id>
+    <_name>Infrastructure Server</_name>
+    <_description>Server for operating network infrastructure services.</_description>
+    <display_order>55</display_order>
+    <grouplist>
+      <groupid>base</groupid>
+      <groupid>core</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>web-server</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>dns-server</groupid>
+      <groupid>ftp-server</groupid>
+      <groupid>mail-server</groupid>
+      <groupid>network-server</groupid>
+      <groupid>smb-server</groupid>
+      <groupid>web-server</groupid>
       <groupid>mysql</groupid>
       <groupid>sql-server</groupid>
     </optionlist>
