@@ -6276,8 +6276,8 @@
   </environment>
   <environment>
     <id>developer-workstation</id>
-    <_name>Developer Workstation</_name>
-    <_description>Workstation for software, hardware, or graphics development.</_description>
+    <_name>Development and Creative Workstation</_name>
+    <_description>Workstation for software, hardware, graphics, or content development.</_description>
     <display_order>35</display_order>
     <grouplist>
       <groupid>base-x</groupid>
@@ -6297,6 +6297,8 @@
       <groupid>fedora-packager</groupid>
       <groupid>gnome-software-development</groupid>
       <groupid>kde-software-development</groupid>
+      <groupid>legacy-software-development</groupid>
+      <groupid>libreoffice-development</groupid>
       <groupid>x-software-development</groupid>
       <groupid>virtualization</groupid>
       <groupid>web-server</groupid>
