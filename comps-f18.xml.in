@@ -853,6 +853,19 @@
     </packagelist>
   </group>
   <group>
+    <id>tomcat</id>
+    <_name>Tomcat</_name>
+    <_description>Tomcat web application server.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>tomcat-native</packagereq>
+      <packagereq>tomcat</packagereq>
+      <packagereq>tomcat-admin-webapps</packagereq>
+      <packagereq>tomcat-webapps</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
     <_description>This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware.</_description>
@@ -6421,6 +6434,7 @@
       <groupid>rubyonrails</groupid>
       <groupid>mysql</groupid>
       <groupid>sql-server</groupid>
+      <groupid>tomcat</groupid>
     </optionlist>
   </environment>
   <environment>
