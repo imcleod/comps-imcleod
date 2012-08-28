@@ -30,6 +30,7 @@
       <packagereq>glx-utils</packagereq>
       <packagereq>mesa-dri-drivers</packagereq>
       <packagereq>plymouth-system-theme</packagereq>
+      <packagereq>spice-vdagent</packagereq>
       <packagereq>xorg-x11-utils</packagereq>
     </packagelist>
   </group>
@@ -1197,7 +1198,6 @@
       <packagereq type="default">plymouth-system-theme</packagereq>
       <packagereq type="default">policycoreutils-sandbox</packagereq>
       <packagereq type="default">smolt-firstboot</packagereq>
-      <packagereq type="default">spice-vdagent</packagereq>
       <packagereq type="default">xorg-x11-drv-ati</packagereq>
       <packagereq type="default">xorg-x11-drv-evdev</packagereq>
       <packagereq type="default">xorg-x11-drv-fbdev</packagereq>
