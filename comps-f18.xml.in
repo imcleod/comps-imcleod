@@ -877,7 +877,7 @@
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
     <_description>This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">authconfig-gtk</packagereq>
@@ -1049,7 +1049,7 @@
     <id>base</id>
     <_name>Base</_name>
     <_description>This group includes a minimal set of packages.  Useful for creating small router/firewall boxes, for example.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">acl</packagereq>
@@ -1191,7 +1191,7 @@
     <id>base-x</id>
     <_name>X Window System</_name>
     <_description>Install this group of packages to use the base graphical (X) user interface.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
@@ -1398,7 +1398,7 @@
     <id>core</id>
     <_name>Core</_name>
     <_description>Smallest possible installation</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">audit</packagereq>
@@ -2017,7 +2017,7 @@
     <id>editors</id>
     <_name>Editors</_name>
     <_description>Sometimes called text editors, these are programs that allow you to create and edit text files. This includes Emacs and Vi.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">vim-enhanced</packagereq>
@@ -2516,7 +2516,7 @@
     <id>fonts</id>
     <_name>Fonts</_name>
     <_description>Fonts packages for rendering text on the desktop.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">abattis-cantarell-fonts</packagereq>
@@ -2900,7 +2900,7 @@
     <id>games</id>
     <_name>Games and Entertainment</_name>
     <_description>Various ways to relax and spend your free time.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">gnome-games-gnomine</packagereq>
@@ -3215,7 +3215,7 @@
     <id>gnome-desktop</id>
     <_name>GNOME Desktop Environment</_name>
     <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">control-center</packagereq>
@@ -3452,7 +3452,7 @@
     <id>graphical-internet</id>
     <_name>Graphical Internet</_name>
     <_description>This group includes graphical email, Web, and chat clients.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">empathy</packagereq>
@@ -3537,7 +3537,7 @@
     <id>graphics</id>
     <_name>Graphics</_name>
     <_description>This group includes packages to help you manipulate and scan images.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
@@ -3665,7 +3665,7 @@
     <id>hardware-support</id>
     <_name>Hardware Support</_name>
     <_description>This group is a collection of tools for various hardware specific utilities.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">aic94xx-firmware</packagereq>
@@ -3802,7 +3802,7 @@
     <id>input-methods</id>
     <_name>Input Methods</_name>
     <_description>Input method packages for the input of international text.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="gtk2">gtk2-immodule-xim</packagereq>
@@ -3939,7 +3939,7 @@
     <id>java</id>
     <_name>Java</_name>
     <_description>Support for running programs written in the Java programming language.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">java-1.7.0-openjdk</packagereq>
@@ -4902,7 +4902,7 @@
     <id>office</id>
     <_name>Office/Productivity</_name>
     <_description>The applications include office suites, PDF viewers, and more.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">evince</packagereq>
@@ -4988,7 +4988,7 @@
     <id>online-docs</id>
     <_name>Online Help and Documentation</_name>
     <_description/>
-    <default>true</default>
+    <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="system-config-date">system-config-date-docs</packagereq>
@@ -5047,7 +5047,7 @@
     <id>printing</id>
     <_name>Printing Support</_name>
     <_description>Install these tools to enable the system to print or act as a print server.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">cups</packagereq>
@@ -5319,7 +5319,7 @@
     <id>sound-and-video</id>
     <_name>Sound and Video</_name>
     <_description>From CD recording to playing audio CDs and multimedia files, this package group allows you to work with sound and video on the system.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">alsa-utils</packagereq>
@@ -5780,7 +5780,7 @@
     <id>text-internet</id>
     <_name>Text-based Internet</_name>
     <_description>This group includes text-based email, Web, and chat clients.  These applications do not require the X Window System.</_description>
-    <default>true</default>
+    <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">cadaver</packagereq>
