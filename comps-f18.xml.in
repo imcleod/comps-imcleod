@@ -1046,145 +1046,115 @@
     </packagelist>
   </group>
   <group>
-    <id>base</id>
-    <_name>Base</_name>
-    <_description>This group includes a minimal set of packages.  Useful for creating small router/firewall boxes, for example.</_description>
+    <id>standard</id>
+    <_name>Standard</_name>
+    <_description>Common set of utilities that extend the minimal installation.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">acl</packagereq>
-      <packagereq type="mandatory">at</packagereq>
-      <packagereq type="mandatory">attr</packagereq>
-      <packagereq type="mandatory">authconfig</packagereq>
-      <packagereq type="mandatory">bc</packagereq>
-      <packagereq type="mandatory">bind-utils</packagereq>
-      <packagereq type="mandatory">bzip2</packagereq>
-      <packagereq type="mandatory">cpio</packagereq>
-      <packagereq type="mandatory">crontabs</packagereq>
-      <packagereq type="mandatory">cyrus-sasl-plain</packagereq>
-      <packagereq type="mandatory">dbus</packagereq>
-      <packagereq type="mandatory">ed</packagereq>
-      <packagereq type="mandatory">file</packagereq>
-      <packagereq type="mandatory">firewalld</packagereq>
-      <packagereq type="mandatory">logrotate</packagereq>
-      <packagereq type="mandatory">lsof</packagereq>
-      <packagereq type="mandatory">mailcap</packagereq>
-      <packagereq type="mandatory">man-db</packagereq>
-      <packagereq type="mandatory">ntsysv</packagereq>
-      <packagereq type="mandatory">pciutils</packagereq>
-      <packagereq type="mandatory">psacct</packagereq>
-      <packagereq type="mandatory">quota</packagereq>
-      <packagereq type="mandatory">tmpwatch</packagereq>
-      <packagereq type="mandatory">traceroute</packagereq>
+      <packagereq>acl</packagereq>
+      <packagereq>at</packagereq>
+      <packagereq>attr</packagereq>
+      <packagereq>authconfig</packagereq>
+      <packagereq>bc</packagereq>
+      <packagereq>bind-utils</packagereq>
+      <packagereq>bzip2</packagereq>
+      <packagereq>cpio</packagereq>
+      <packagereq>crontabs</packagereq>
+      <packagereq>cyrus-sasl-plain</packagereq>
+      <packagereq>dbus</packagereq>
+      <packagereq>ed</packagereq>
+      <packagereq>file</packagereq>
+      <packagereq>firewalld</packagereq>
+      <packagereq>logrotate</packagereq>
+      <packagereq>lsof</packagereq>
+      <packagereq>mailcap</packagereq>
+      <packagereq>man-db</packagereq>
+      <packagereq>ntsysv</packagereq>
+      <packagereq>pciutils</packagereq>
+      <packagereq>psacct</packagereq>
+      <packagereq>quota</packagereq>
+      <packagereq>tmpwatch</packagereq>
+      <packagereq>traceroute</packagereq>
       <packagereq type="conditional" requires="system-config-date">chrony</packagereq>
-      <packagereq type="default">acpid</packagereq>
-      <packagereq type="default">bash-completion</packagereq>
-      <packagereq type="default">bridge-utils</packagereq>
-      <packagereq type="default">btrfs-progs</packagereq>
-      <packagereq type="default">cifs-utils</packagereq>
-      <packagereq type="default">coolkey</packagereq>
-      <packagereq type="default">cryptsetup</packagereq>
-      <packagereq type="default">dmraid</packagereq>
-      <packagereq type="default">dos2unix</packagereq>
-      <packagereq type="default">dosfstools</packagereq>
-      <packagereq type="default">dump</packagereq>
-      <packagereq type="default">eject</packagereq>
-      <packagereq type="default">ethtool</packagereq>
-      <packagereq type="default">fedora-release-notes</packagereq>
-      <packagereq type="default">finger</packagereq>
-      <packagereq type="default">fprintd-pam</packagereq>
-      <packagereq type="default">ftp</packagereq>
-      <packagereq type="default">gnupg2</packagereq>
-      <packagereq type="default">hunspell</packagereq>
-      <packagereq type="default">iptstate</packagereq>
-      <packagereq type="default">irda-utils</packagereq>
-      <packagereq type="default">irqbalance</packagereq>
-      <packagereq type="default">jwhois</packagereq>
-      <packagereq type="default">krb5-workstation</packagereq>
-      <packagereq type="default">lftp</packagereq>
-      <packagereq type="default">man-pages</packagereq>
-      <packagereq type="default">mcelog</packagereq>
-      <packagereq type="default">mdadm</packagereq>
-      <packagereq type="default">microcode_ctl</packagereq>
-      <packagereq type="default">mlocate</packagereq>
-      <packagereq type="default">mtr</packagereq>
-      <packagereq type="default">nano</packagereq>
-      <packagereq type="default">nfs-utils</packagereq>
-      <packagereq type="default">nmap-ncat</packagereq>
-      <packagereq type="default">ntfs-3g</packagereq>
-      <packagereq type="default">ntfsprogs</packagereq>
-      <packagereq type="default">numactl</packagereq>
-      <packagereq type="default">PackageKit-yum-plugin</packagereq>
-      <packagereq type="default">pam_krb5</packagereq>
-      <packagereq type="default">pam_pkcs11</packagereq>
-      <packagereq type="default">passwdqc</packagereq>
-      <packagereq type="default">pcmciautils</packagereq>
-      <packagereq type="default">pinfo</packagereq>
-      <packagereq type="default">plymouth</packagereq>
-      <packagereq type="default">pm-utils</packagereq>
-      <packagereq type="default">prelink</packagereq>
-      <packagereq type="default">rdate</packagereq>
-      <packagereq type="default">rdist</packagereq>
-      <packagereq type="default">realmd</packagereq>
-      <packagereq type="default">rng-tools</packagereq>
-      <packagereq type="default">rsh</packagereq>
-      <packagereq type="default">rsync</packagereq>
-      <packagereq type="default">sendmail</packagereq>
-      <packagereq type="default">setuptool</packagereq>
-      <packagereq type="default">smartmontools</packagereq>
-      <packagereq type="default">sos</packagereq>
-      <packagereq type="default">sssd</packagereq>
-      <packagereq type="default">stunnel</packagereq>
-      <packagereq type="default">sudo</packagereq>
-      <packagereq type="default">symlinks</packagereq>
-      <packagereq type="default">talk</packagereq>
-      <packagereq type="default">tcpdump</packagereq>
-      <packagereq type="default">tcp_wrappers</packagereq>
-      <packagereq type="default">telnet</packagereq>
-      <packagereq type="default">time</packagereq>
-      <packagereq type="default">tree</packagereq>
-      <packagereq type="default">unzip</packagereq>
-      <packagereq type="default">usbutils</packagereq>
-      <packagereq type="default">vconfig</packagereq>
-      <packagereq type="default">wget</packagereq>
-      <packagereq type="default">which</packagereq>
-      <packagereq type="default">wireless-tools</packagereq>
-      <packagereq type="default">words</packagereq>
-      <packagereq type="default">ypbind</packagereq>
-      <packagereq type="default">yum-langpacks</packagereq>
-      <packagereq type="default">yum-presto</packagereq>
-      <packagereq type="default">yum-utils</packagereq>
-      <packagereq type="default">zip</packagereq>
-      <packagereq type="optional">apmd</packagereq>
-      <packagereq type="optional">authd</packagereq>
-      <packagereq type="optional">brltty</packagereq>
-      <packagereq type="optional">fbset</packagereq>
-      <packagereq type="optional">gnupg2-smime</packagereq>
-      <packagereq type="optional">gpgme</packagereq>
-      <packagereq type="optional">gpm</packagereq>
-      <packagereq type="optional">hardlink</packagereq>
-      <packagereq type="optional">hfsutils</packagereq>
-      <packagereq type="optional">iscsi-initiator-utils</packagereq>
-      <packagereq type="optional">jfsutils</packagereq>
-      <packagereq type="optional">kexec-tools</packagereq>
-      <packagereq type="optional">ksh</packagereq>
-      <packagereq type="optional">logwatch</packagereq>
-      <packagereq type="optional">mgetty</packagereq>
-      <packagereq type="optional">mkbootdisk</packagereq>
-      <packagereq type="optional">mtools</packagereq>
-      <packagereq type="optional">nss-pam-ldapd</packagereq>
-      <packagereq type="optional">pam_ccreds</packagereq>
-      <packagereq type="optional">pam_ldap</packagereq>
-      <packagereq type="optional">pax</packagereq>
-      <packagereq type="optional">redhat-lsb</packagereq>
-      <packagereq type="optional">reiserfs-utils</packagereq>
-      <packagereq type="optional">squashfs-tools</packagereq>
-      <packagereq type="optional">star</packagereq>
-      <packagereq type="optional">syslinux</packagereq>
-      <packagereq type="optional">tboot</packagereq>
-      <packagereq type="optional">tcsh</packagereq>
-      <packagereq type="optional">x86info</packagereq>
-      <packagereq type="optional">xfsprogs</packagereq>
+      <packagereq>acpid</packagereq>
+      <packagereq>bash-completion</packagereq>
+      <packagereq>bridge-utils</packagereq>
+      <packagereq>btrfs-progs</packagereq>
+      <packagereq>cifs-utils</packagereq>
+      <packagereq>coolkey</packagereq>
+      <packagereq>cryptsetup</packagereq>
+      <packagereq>dmraid</packagereq>
+      <packagereq>dos2unix</packagereq>
+      <packagereq>dosfstools</packagereq>
+      <packagereq>dump</packagereq>
+      <packagereq>eject</packagereq>
+      <packagereq>ethtool</packagereq>
+      <packagereq>fedora-release-notes</packagereq>
+      <packagereq>finger</packagereq>
+      <packagereq>fprintd-pam</packagereq>
+      <packagereq>ftp</packagereq>
+      <packagereq>gnupg2</packagereq>
+      <packagereq>hunspell</packagereq>
+      <packagereq>iptstate</packagereq>
+      <packagereq>irda-utils</packagereq>
+      <packagereq>irqbalance</packagereq>
+      <packagereq>jwhois</packagereq>
+      <packagereq>krb5-workstation</packagereq>
+      <packagereq>lftp</packagereq>
+      <packagereq>man-pages</packagereq>
+      <packagereq>mcelog</packagereq>
+      <packagereq>mdadm</packagereq>
+      <packagereq>microcode_ctl</packagereq>
+      <packagereq>mlocate</packagereq>
+      <packagereq>mtr</packagereq>
+      <packagereq>nano</packagereq>
+      <packagereq>nfs-utils</packagereq>
+      <packagereq>nmap-ncat</packagereq>
+      <packagereq>ntfs-3g</packagereq>
+      <packagereq>ntfsprogs</packagereq>
+      <packagereq>numactl</packagereq>
+      <packagereq>PackageKit-yum-plugin</packagereq>
+      <packagereq>pam_krb5</packagereq>
+      <packagereq>pam_pkcs11</packagereq>
+      <packagereq>passwdqc</packagereq>
+      <packagereq>pcmciautils</packagereq>
+      <packagereq>pinfo</packagereq>
+      <packagereq>plymouth</packagereq>
+      <packagereq>pm-utils</packagereq>
+      <packagereq>prelink</packagereq>
+      <packagereq>rdate</packagereq>
+      <packagereq>rdist</packagereq>
+      <packagereq>realmd</packagereq>
+      <packagereq>rng-tools</packagereq>
+      <packagereq>rsh</packagereq>
+      <packagereq>rsync</packagereq>
+      <packagereq>sendmail</packagereq>
+      <packagereq>setuptool</packagereq>
+      <packagereq>smartmontools</packagereq>
+      <packagereq>sos</packagereq>
+      <packagereq>sssd</packagereq>
+      <packagereq>stunnel</packagereq>
+      <packagereq>sudo</packagereq>
+      <packagereq>symlinks</packagereq>
+      <packagereq>talk</packagereq>
+      <packagereq>tcpdump</packagereq>
+      <packagereq>tcp_wrappers</packagereq>
+      <packagereq>telnet</packagereq>
+      <packagereq>time</packagereq>
+      <packagereq>tree</packagereq>
+      <packagereq>unzip</packagereq>
+      <packagereq>usbutils</packagereq>
+      <packagereq>vconfig</packagereq>
+      <packagereq>wget</packagereq>
+      <packagereq>which</packagereq>
+      <packagereq>wireless-tools</packagereq>
+      <packagereq>words</packagereq>
+      <packagereq>ypbind</packagereq>
+      <packagereq>yum-langpacks</packagereq>
+      <packagereq>yum-presto</packagereq>
+      <packagereq>yum-utils</packagereq>
+      <packagereq>zip</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6195,7 +6165,7 @@
     <display_order>5</display_order>
     <grouplist>
       <groupid>base-x</groupid>
-      <groupid>base</groupid>
+      <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
@@ -6220,7 +6190,7 @@
     <display_order>10</display_order>
     <grouplist>
       <groupid>base-x</groupid>
-      <groupid>base</groupid>
+      <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
@@ -6244,7 +6214,7 @@
     <display_order>15</display_order>
     <grouplist>
       <groupid>base-x</groupid>
-      <groupid>base</groupid>
+      <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
@@ -6268,7 +6238,7 @@
     <display_order>20</display_order>
     <grouplist>
       <groupid>base-x</groupid>
-      <groupid>base</groupid>
+      <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
@@ -6291,7 +6261,7 @@
     <display_order>25</display_order>
     <grouplist>
       <groupid>base-x</groupid>
-      <groupid>base</groupid>
+      <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
@@ -6311,7 +6281,7 @@
     <display_order>35</display_order>
     <grouplist>
       <groupid>base-x</groupid>
-      <groupid>base</groupid>
+      <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
@@ -6355,7 +6325,7 @@
     <_description>Server for serving static and dynamic internet content.</_description>
     <display_order>50</display_order>
     <grouplist>
-      <groupid>base</groupid>
+      <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>hardware-support</groupid>
       <groupid>web-server</groupid>
@@ -6379,7 +6349,7 @@
     <_description>Server for operating network infrastructure services.</_description>
     <display_order>55</display_order>
     <grouplist>
-      <groupid>base</groupid>
+      <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>hardware-support</groupid>
     </grouplist>
@@ -6551,7 +6521,7 @@
     <display_order>99</display_order>
     <grouplist>
       <groupid>admin-tools</groupid>
-      <groupid>base</groupid>
+      <groupid>standard</groupid>
       <groupid>base-x</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
