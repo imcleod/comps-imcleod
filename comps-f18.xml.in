@@ -2,8 +2,8 @@
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
 <comps>
   <group>
-    <id>x-server</id>
-    <_name>x-server</_name>
+    <id>base-x</id>
+    <_name>base-x</_name>
     <_description>Local X.org display server</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -1185,79 +1185,6 @@
       <packagereq type="optional">tcsh</packagereq>
       <packagereq type="optional">x86info</packagereq>
       <packagereq type="optional">xfsprogs</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>base-x</id>
-    <_name>X Window System</_name>
-    <_description>Install this group of packages to use the base graphical (X) user interface.</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
-      <packagereq type="mandatory">xorg-x11-xauth</packagereq>
-      <packagereq type="mandatory">xorg-x11-xinit</packagereq>
-      <packagereq type="default">authconfig-gtk</packagereq>
-      <packagereq type="default">desktop-backgrounds-basic</packagereq>
-      <packagereq type="default">glx-utils</packagereq>
-      <packagereq type="default">mesa-dri-drivers</packagereq>
-      <packagereq type="default">plymouth-system-theme</packagereq>
-      <packagereq type="default">policycoreutils-sandbox</packagereq>
-      <packagereq type="default">xorg-x11-drv-ati</packagereq>
-      <packagereq type="default">xorg-x11-drv-evdev</packagereq>
-      <packagereq type="default">xorg-x11-drv-fbdev</packagereq>
-      <packagereq type="default">xorg-x11-drv-geode</packagereq>
-      <packagereq type="default">xorg-x11-drv-intel</packagereq>
-      <packagereq type="default">xorg-x11-drv-mga</packagereq>
-      <packagereq type="default">xorg-x11-drv-modesetting</packagereq>
-      <packagereq type="default">xorg-x11-drv-nouveau</packagereq>
-      <packagereq type="default">xorg-x11-drv-omap</packagereq>
-      <packagereq type="default">xorg-x11-drv-openchrome</packagereq>
-      <packagereq type="default">xorg-x11-drv-qxl</packagereq>
-      <packagereq type="default">xorg-x11-drv-synaptics</packagereq>
-      <packagereq type="default">xorg-x11-drv-vesa</packagereq>
-      <packagereq type="default">xorg-x11-drv-vmmouse</packagereq>
-      <packagereq type="default">xorg-x11-drv-vmware</packagereq>
-      <packagereq type="default">xorg-x11-drv-wacom</packagereq>
-      <packagereq type="default">xorg-x11-utils</packagereq>
-      <packagereq type="optional">alltray</packagereq>
-      <packagereq type="optional">aterm</packagereq>
-      <packagereq type="optional">devilspie</packagereq>
-      <packagereq type="optional">gdm</packagereq>
-      <packagereq type="optional">gxmessage</packagereq>
-      <packagereq type="optional">krb5-auth-dialog</packagereq>
-      <packagereq type="optional">lilyterm</packagereq>
-      <packagereq type="optional">roxterm</packagereq>
-      <packagereq type="optional">rss-glx</packagereq>
-      <packagereq type="optional">rss-glx-xscreensaver</packagereq>
-      <packagereq type="optional">rxvt</packagereq>
-      <packagereq type="optional">sakura</packagereq>
-      <packagereq type="optional">slim</packagereq>
-      <packagereq type="optional">switchdesk</packagereq>
-      <packagereq type="optional">system-switch-displaymanager</packagereq>
-      <packagereq type="optional">termit</packagereq>
-      <packagereq type="optional">tigervnc-server</packagereq>
-      <packagereq type="optional">uim-gtk2</packagereq>
-      <packagereq type="optional">workrave</packagereq>
-      <packagereq type="optional">xclip</packagereq>
-      <packagereq type="optional">xdaliclock</packagereq>
-      <packagereq type="optional">xguest</packagereq>
-      <packagereq type="optional">xkeycaps</packagereq>
-      <packagereq type="optional">xlockmore</packagereq>
-      <packagereq type="optional">xorg-x11-apps</packagereq>
-      <packagereq type="optional">xorg-x11-drivers</packagereq>
-      <packagereq type="optional">xorg-x11-resutils</packagereq>
-      <packagereq type="optional">xorg-x11-server-Xnest</packagereq>
-      <packagereq type="optional">xorg-x11-server-Xvfb</packagereq>
-      <packagereq type="optional">xorg-x11-twm</packagereq>
-      <packagereq type="optional">xorg-x11-xfs</packagereq>
-      <packagereq type="optional">xorg-x11-xfs-utils</packagereq>
-      <packagereq type="optional">xorg-x11-xsm</packagereq>
-      <packagereq type="optional">xscreensaver</packagereq>
-      <packagereq type="optional">xscreensaver-base</packagereq>
-      <packagereq type="optional">xscreensaver-extras</packagereq>
-      <packagereq type="optional">xscreensaver-gl-extras</packagereq>
-      <packagereq type="optional">xterm</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6267,7 +6194,7 @@
     <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
     <display_order>5</display_order>
     <grouplist>
-      <groupid>x-server</groupid>
+      <groupid>base-x</groupid>
       <groupid>base</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
@@ -6292,7 +6219,7 @@
     <_description>The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
     <display_order>10</display_order>
     <grouplist>
-      <groupid>x-server</groupid>
+      <groupid>base-x</groupid>
       <groupid>base</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
@@ -6316,7 +6243,7 @@
     <_description>A lightweight desktop environment that works well on low end machines.</_description>
     <display_order>15</display_order>
     <grouplist>
-      <groupid>x-server</groupid>
+      <groupid>base-x</groupid>
       <groupid>base</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
@@ -6340,7 +6267,7 @@
     <_description>LXDE is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
     <display_order>20</display_order>
     <grouplist>
-      <groupid>x-server</groupid>
+      <groupid>base-x</groupid>
       <groupid>base</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
@@ -6363,7 +6290,7 @@
     <_description>A software playground for learning about learning.</_description>
     <display_order>25</display_order>
     <grouplist>
-      <groupid>x-server</groupid>
+      <groupid>base-x</groupid>
       <groupid>base</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
@@ -6383,7 +6310,7 @@
     <_description>Workstation for software, hardware, or graphics development.</_description>
     <display_order>35</display_order>
     <grouplist>
-      <groupid>x-server</groupid>
+      <groupid>base-x</groupid>
       <groupid>base</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
