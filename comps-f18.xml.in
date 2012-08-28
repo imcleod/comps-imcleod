@@ -1928,7 +1928,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">vim-enhanced</packagereq>
       <packagereq type="optional">code-editor</packagereq>
       <packagereq type="optional">cssed</packagereq>
       <packagereq type="optional">emacs</packagereq>
@@ -1945,6 +1944,7 @@
       <packagereq type="optional">nedit</packagereq>
       <packagereq type="optional">poedit</packagereq>
       <packagereq type="optional">psgml</packagereq>
+      <packagereq type="optional">vim-enhanced</packagereq>
       <packagereq type="optional">vim-X11</packagereq>
       <packagereq type="optional">xemacs</packagereq>
       <packagereq type="optional">xemacs-ess</packagereq>
@@ -2794,11 +2794,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">gnome-games-gnomine</packagereq>
-      <packagereq type="default">gnome-games-iagno</packagereq>
-      <packagereq type="default">gnome-games-sudoku</packagereq>
-      <packagereq type="default">gnome-games-swell-foop</packagereq>
-      <packagereq type="default">joystick</packagereq>
       <packagereq type="optional">abe</packagereq>
       <packagereq type="optional">abuse</packagereq>
       <packagereq type="optional">adanaxisgpl</packagereq>
@@ -2902,12 +2897,16 @@
       <packagereq type="optional">gnome-games-gnect</packagereq>
       <packagereq type="optional">gnome-games-gnibbles</packagereq>
       <packagereq type="optional">gnome-games-gnobots2</packagereq>
+      <packagereq type="optional">gnome-games-gnomine</packagereq>
       <packagereq type="optional">gnome-games-gnotravex</packagereq>
       <packagereq type="optional">gnome-games-gnotski</packagereq>
       <packagereq type="optional">gnome-games-gtali</packagereq>
+      <packagereq type="optional">gnome-games-iagno</packagereq>
       <packagereq type="optional">gnome-games-lightsoff</packagereq>
       <packagereq type="optional">gnome-games-mahjongg</packagereq>
       <packagereq type="optional">gnome-games-quadrapassel</packagereq>
+      <packagereq type="optional">gnome-games-sudoku</packagereq>
+      <packagereq type="optional">gnome-games-swell-foop</packagereq>
       <packagereq type="optional">gnome-hearts</packagereq>
       <packagereq type="optional">gnubg</packagereq>
       <packagereq type="optional">gnubik</packagereq>
@@ -2917,6 +2916,7 @@
       <packagereq type="optional">grhino</packagereq>
       <packagereq type="optional">gweled</packagereq>
       <packagereq type="optional">haxima</packagereq>
+      <packagereq type="optional">joystick</packagereq>
       <packagereq type="optional">hedgewars</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
       <packagereq type="optional">kcheckers</packagereq>
@@ -4845,24 +4845,10 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">alsa-utils</packagereq>
-      <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
-      <packagereq type="default">brasero</packagereq>
-      <packagereq type="default">cdparanoia</packagereq>
-      <packagereq type="default">genisoimage</packagereq>
-      <packagereq type="default">gstreamer-plugins-good</packagereq>
-      <packagereq type="default">icedax</packagereq>
-      <packagereq type="default">PackageKit-gstreamer-plugin</packagereq>
-      <packagereq type="default">pulseaudio</packagereq>
-      <packagereq type="default">pulseaudio-module-bluetooth</packagereq>
-      <packagereq type="default">pulseaudio-utils</packagereq>
-      <packagereq type="default">rhythmbox</packagereq>
-      <packagereq type="default">sound-juicer</packagereq>
-      <packagereq type="default">sox</packagereq>
-      <packagereq type="default">totem</packagereq>
-      <packagereq type="default">totem-mozplugin</packagereq>
-      <packagereq type="default">totem-nautilus</packagereq>
-      <packagereq type="default">wodim</packagereq>
+      <packagereq type="optional">brasero</packagereq>
+      <packagereq type="optional">cdparanoia</packagereq>
+      <packagereq type="optional">genisoimage</packagereq>
+      <packagereq type="optional">icedax</packagereq>
       <packagereq type="optional">abcde</packagereq>
       <packagereq type="optional">AcetoneISO2</packagereq>
       <packagereq type="optional">adplay</packagereq>
@@ -4936,14 +4922,20 @@
       <packagereq type="optional">quodlibet</packagereq>
       <packagereq type="optional">rakarrack</packagereq>
       <packagereq type="optional">regionset</packagereq>
+      <packagereq type="optional">rhythmbox</packagereq>
       <packagereq type="optional">rosegarden4</packagereq>
       <packagereq type="optional">soundconverter</packagereq>
       <packagereq type="optional">soundtracker</packagereq>
+      <packagereq type="optional">sound-juicer</packagereq>
+      <packagereq type="optional">sox</packagereq>
       <packagereq type="optional">sweep</packagereq>
       <packagereq type="optional">tagtool</packagereq>
       <packagereq type="optional">tclabc</packagereq>
       <packagereq type="optional">tomahawk</packagereq>
+      <packagereq type="optional">totem</packagereq>
       <packagereq type="optional">totem-lirc</packagereq>
+      <packagereq type="optional">totem-mozplugin</packagereq>
+      <packagereq type="optional">totem-nautilus</packagereq>
       <packagereq type="optional">tvtime</packagereq>
       <packagereq type="optional">ucview</packagereq>
       <packagereq type="optional">ushare</packagereq>
@@ -4966,6 +4958,7 @@
       <packagereq type="optional">volumeicon</packagereq>
       <packagereq type="optional">vorbis-tools</packagereq>
       <packagereq type="optional">whaawmp</packagereq>
+      <packagereq type="optional">wodim</packagereq>
       <packagereq type="optional">xcdroast</packagereq>
       <packagereq type="optional">xfburn</packagereq>
       <packagereq type="optional">xmms</packagereq>
@@ -5306,26 +5299,24 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">cadaver</packagereq>
-      <packagereq type="default">elinks</packagereq>
-      <packagereq type="default">fetchmail</packagereq>
-      <packagereq type="default">fpaste</packagereq>
-      <packagereq type="default">mutt</packagereq>
-      <packagereq type="default">slrn</packagereq>
       <packagereq type="optional">abook</packagereq>
       <packagereq type="optional">alpine</packagereq>
       <packagereq type="optional">archivemail</packagereq>
       <packagereq type="optional">argus</packagereq>
       <packagereq type="optional">aria2</packagereq>
       <packagereq type="optional">axel</packagereq>
+      <packagereq type="optional">cadaver</packagereq>
       <packagereq type="optional">centerim</packagereq>
       <packagereq type="optional">cone</packagereq>
       <packagereq type="optional">ctorrent</packagereq>
       <packagereq type="optional">deletemail</packagereq>
       <packagereq type="optional">ekg</packagereq>
       <packagereq type="optional">ekg2</packagereq>
+      <packagereq type="optional">elinks</packagereq>
       <packagereq type="optional">emacs-mew</packagereq>
       <packagereq type="optional">epic</packagereq>
+      <packagereq type="optional">fetchmail</packagereq>
+      <packagereq type="optional">fpaste</packagereq>
       <packagereq type="optional">getmail</packagereq>
       <packagereq type="optional">iperf</packagereq>
       <packagereq type="optional">irssi</packagereq>
@@ -5333,6 +5324,7 @@
       <packagereq type="optional">libtranslate</packagereq>
       <packagereq type="optional">lynx</packagereq>
       <packagereq type="optional">maildirproc</packagereq>
+      <packagereq type="optional">mutt</packagereq>
       <packagereq type="optional">naim</packagereq>
       <packagereq type="optional">ncftp</packagereq>
       <packagereq type="optional">ninja</packagereq>
@@ -5341,6 +5333,7 @@
       <packagereq type="optional">pork</packagereq>
       <packagereq type="optional">rss2email</packagereq>
       <packagereq type="optional">rtorrent</packagereq>
+      <packagereq type="optional">slrn</packagereq>
       <packagereq type="optional">sitecopy</packagereq>
       <packagereq type="optional">snownews</packagereq>
       <packagereq type="optional">tftp</packagereq>
