@@ -4428,15 +4428,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">evince</packagereq>
-      <packagereq type="default">libreoffice-calc</packagereq>
-      <packagereq type="default">libreoffice-draw</packagereq>
-      <packagereq type="default">libreoffice-graphicfilter</packagereq>
-      <packagereq type="default">libreoffice-impress</packagereq>
-      <packagereq type="default">libreoffice-math</packagereq>
-      <packagereq type="default">libreoffice-writer</packagereq>
-      <packagereq type="default">libreoffice-xsltfilter</packagereq>
-      <packagereq type="default">planner</packagereq>
       <packagereq type="optional">abiword</packagereq>
       <packagereq type="optional">aiksaurus-thesaurus</packagereq>
       <packagereq type="optional">alexandria</packagereq>
@@ -4454,6 +4445,7 @@
       <packagereq type="optional">cherrytree</packagereq>
       <packagereq type="optional">dayplanner</packagereq>
       <packagereq type="optional">dia</packagereq>
+      <packagereq type="optional">evince</packagereq>
       <packagereq type="optional">glabels</packagereq>
       <packagereq type="optional">glom</packagereq>
       <packagereq type="optional">gnucash</packagereq>
@@ -4475,17 +4467,25 @@
       <packagereq type="optional">kreetingkard</packagereq>
       <packagereq type="optional">kreetingkard_templates</packagereq>
       <packagereq type="optional">libreoffice-base</packagereq>
+      <packagereq type="optional">libreoffice-calc</packagereq>
+      <packagereq type="optional">libreoffice-draw</packagereq>
       <packagereq type="optional">libreoffice-emailmerge</packagereq>
+      <packagereq type="optional">libreoffice-graphicfilter</packagereq>
+      <packagereq type="optional">libreoffice-impress</packagereq>
       <packagereq type="optional">libreoffice-javafilter</packagereq>
+      <packagereq type="optional">libreoffice-math</packagereq>
       <packagereq type="optional">libreoffice-ogltrans</packagereq>
       <packagereq type="optional">libreoffice-presentation-minimizer</packagereq>
       <packagereq type="optional">libreoffice-report-builder</packagereq>
       <packagereq type="optional">libreoffice-voikko</packagereq>
       <packagereq type="optional">libreoffice-wiki-publisher</packagereq>
+      <packagereq type="optional">libreoffice-writer</packagereq>
+      <packagereq type="optional">libreoffice-xsltfilter</packagereq>
       <packagereq type="optional">lyx</packagereq>
       <packagereq type="optional">MagicPoint</packagereq>
       <packagereq type="optional">okular</packagereq>
       <packagereq type="optional">openoffice.org-ooolatex</packagereq>
+      <packagereq type="optional">planner</packagereq>
       <packagereq type="optional">pybliographer</packagereq>
       <packagereq type="optional">qcad</packagereq>
       <packagereq type="optional">rednotebook</packagereq>
