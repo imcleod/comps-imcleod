@@ -225,6 +225,8 @@
       <packagereq>bluedevil</packagereq>
       <packagereq>cagibi</packagereq>
       <packagereq>cups-pk-helper</packagereq>
+      <packagereq>firstboot</packagereq>
+      <packagereq>smolt-firstboot</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>kamera</packagereq>
       <packagereq>kamoso</packagereq>
@@ -381,6 +383,8 @@
       <packagereq>xfdesktop</packagereq>
       <packagereq>xfwm4</packagereq>
       <packagereq>ConsoleKit</packagereq>
+      <packagereq>firstboot</packagereq>
+      <packagereq>smolt-firstboot</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>lightgdm-gtk</packagereq>
       <packagereq>gtk-xfce-engine</packagereq>
@@ -541,6 +545,8 @@
       <packagereq>openbox</packagereq>
       <packagereq>pcmanfm</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>firstboot</packagereq>
+      <packagereq>smolt-firstboot</packagereq>
       <packagereq>gpicview</packagereq>
       <packagereq>leafpad</packagereq>
       <packagereq>lxappearance</packagereq>
@@ -1192,12 +1198,10 @@
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
       <packagereq type="default">authconfig-gtk</packagereq>
       <packagereq type="default">desktop-backgrounds-basic</packagereq>
-      <packagereq type="default">firstboot</packagereq>
       <packagereq type="default">glx-utils</packagereq>
       <packagereq type="default">mesa-dri-drivers</packagereq>
       <packagereq type="default">plymouth-system-theme</packagereq>
       <packagereq type="default">policycoreutils-sandbox</packagereq>
-      <packagereq type="default">smolt-firstboot</packagereq>
       <packagereq type="default">xorg-x11-drv-ati</packagereq>
       <packagereq type="default">xorg-x11-drv-evdev</packagereq>
       <packagereq type="default">xorg-x11-drv-fbdev</packagereq>
@@ -5487,6 +5491,8 @@
       <packagereq type="mandatory">sugar</packagereq>
       <packagereq type="mandatory">sugar-toolkit-gtk3</packagereq>
       <packagereq type="default">etoys-sugar</packagereq>
+      <packagereq>firstboot</packagereq>
+      <packagereq>smolt-firstboot</packagereq>
       <packagereq type="default">gdm</packagereq>
       <packagereq type="default">sugar-abacus</packagereq>
       <packagereq type="default">sugar-browse</packagereq>
