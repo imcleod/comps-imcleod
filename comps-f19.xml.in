@@ -4683,7 +4683,9 @@
     <packagelist>
       <packagereq type="default">cyrus-sasl</packagereq>
       <packagereq type="optional">389-ds-base</packagereq>
+      <packagereq type="optional">ahcpd</packagereq>
       <packagereq type="optional">amanda-server</packagereq>
+      <packagereq type="optional">babeld</packagereq>
       <packagereq type="optional">cobbler</packagereq>
       <packagereq type="optional">dhcp</packagereq>
       <packagereq type="optional">dnsmasq</packagereq>
