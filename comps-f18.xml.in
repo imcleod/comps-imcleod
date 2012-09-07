@@ -72,6 +72,7 @@
       <packagereq>metacity</packagereq>
       <packagereq>notification-daemon</packagereq>
       <packagereq>abrt-desktop</packagereq>
+      <packagereq>setroubleshoot</packagereq>
       <packagereq>aisleriot</packagereq>
       <packagereq>at-spi2-atk</packagereq>
       <packagereq>at-spi2-core</packagereq>
@@ -221,6 +222,8 @@
       <packagereq>kde-runtime</packagereq>
       <packagereq>kde-workspace</packagereq>
       <packagereq>kdelibs</packagereq>
+      <packagereq>abrt-desktop</packagereq>
+      <packagereq>setroubleshoot</packagereq>
       <packagereq>apper</packagereq>
       <packagereq>ark</packagereq>
       <packagereq>bluedevil</packagereq>
@@ -374,6 +377,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>abrt-desktop</packagereq>
+      <packagereq>setroubleshoot</packagereq>
       <packagereq>desktop-backgrounds-compat</packagereq>
       <packagereq>Thunar</packagereq>
       <packagereq>xfce-utils</packagereq>
@@ -539,6 +544,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>abrt-desktop</packagereq>
+      <packagereq>setroubleshoot</packagereq>
       <packagereq>lxde-common</packagereq>
       <packagereq>lxmenu-data</packagereq>
       <packagereq>lxpanel</packagereq>
