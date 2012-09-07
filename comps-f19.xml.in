@@ -6349,6 +6349,25 @@
     </optionlist>
   </environment>
   <environment>
+    <id>basic-x-windows</id>
+    <_name>Basic X windows</_name>
+    <_description>X windows without a desktop environment.</_description>
+    <display_order>70</display_order>
+    <grouplist>
+      <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>hardware-support</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>input-methods</groupid>
+      <groupid>legacy-fonts</groupid>
+      <groupid>multimedia</groupid>
+    </optionlist>
+  </environment>
+  <environment>
     <id>minimal</id>
     <_name>Minimal install</_name>
     <_description>Basic functionality.</_description>
