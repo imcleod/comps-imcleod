@@ -649,6 +649,17 @@
     </packagelist>
   </group>
   <group>
+    <id>xmonad</id>
+    <_name>XMonad</_name>
+    <_description>A tiling window manager</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>xmonad</packagereq>
+      <packagereq>dmenu</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>haproxy</id>
     <_name>HAProxy</_name>
     <_description>TCP/HTTP Load Balancer.</_description>
@@ -5942,7 +5953,6 @@
       <packagereq type="optional">WindowMaker</packagereq>
       <packagereq type="optional">wmx</packagereq>
       <packagereq type="optional">xcompmgr</packagereq>
-      <packagereq type="optional">xmonad</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6365,6 +6375,7 @@
       <groupid>input-methods</groupid>
       <groupid>legacy-fonts</groupid>
       <groupid>multimedia</groupid>
+      <groupid>xmonad</groupid>
     </optionlist>
   </environment>
   <environment>
