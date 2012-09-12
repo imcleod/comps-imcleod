@@ -78,10 +78,12 @@
       <packagereq>at-spi2-core</packagereq>
       <packagereq>avahi</packagereq>
       <packagereq>baobab</packagereq>
+      <packagereq>brasero</packagereq>
       <packagereq>brasero-nautilus</packagereq>
       <packagereq>caribou</packagereq>
       <packagereq>cheese</packagereq>
       <packagereq>deja-dup</packagereq>
+      <packagereq>empathy</packagereq>
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
       <packagereq>evince-nautilus</packagereq>
@@ -137,6 +139,9 @@
       <packagereq>polkit-gnome</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>sushi</packagereq>
+      <packagereq>totem</packagereq>
+      <packagereq>totem-mozplugin</packagereq>
+      <packagereq>totem-nautilus</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>yelp</packagereq>
     </packagelist>
@@ -148,7 +153,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>empathy</packagereq>
       <packagereq>evolution</packagereq>
       <packagereq>evolution-help</packagereq>
       <packagereq>evolution-NetworkManager</packagereq>
@@ -190,12 +194,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>brasero</packagereq>
       <packagereq>rhythmbox</packagereq>
       <packagereq>sound-juicer</packagereq>
-      <packagereq>totem</packagereq>
-      <packagereq>totem-mozplugin</packagereq>
-      <packagereq>totem-nautilus</packagereq>
     </packagelist>
   </group>
   <group>
