@@ -890,6 +890,30 @@
     </packagelist>
   </group>
   <group>
+    <id>load-balancer</id>
+    <_name>Load Balancer</_name>
+    <_description>Load balancing support for network traffic</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>ipvsadm</packagereq>
+      <packagereq>keepalived</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>ha</id>
+    <_name>High Availability</_name>
+    <_description>Infrastructure for highly available services and/or shared storage.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>pacemaker</packagereq>
+      <packagereq>fence-agents</packagereq>
+      <packagereq>omping</packagereq>
+      <packagereq>pcs</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
     <_description>This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware.</_description>
@@ -1297,17 +1321,6 @@
     </packagelist>
   </group>
   <group>
-    <id>clustering</id>
-    <_name>Clustering</_name>
-    <_description>Clustering Support</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="default">ipvsadm</packagereq>
-      <packagereq type="optional">pacemaker</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>core</id>
     <_name>Core</_name>
     <_description>Smallest possible installation</_description>
@@ -1522,7 +1535,7 @@
     <_name>Development Libraries</_name>
     <_description>The packages in this group are core libraries needed to develop applications.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">bzip2-devel</packagereq>
       <packagereq type="mandatory">glibc-devel</packagereq>
@@ -1794,7 +1807,7 @@
     <_name>Dial-up Networking Support</_name>
     <_description/>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">ppp</packagereq>
       <packagereq type="default">isdn4k-utils</packagereq>
@@ -1814,7 +1827,7 @@
     <_name>Directory Server</_name>
     <_description>Machine and user identity servers.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="optional">389-admin-console</packagereq>
       <packagereq type="optional">389-console</packagereq>
@@ -1834,7 +1847,7 @@
     <_name>DNS Name Server</_name>
     <_description>This package group allows you to run a DNS name server (BIND) on the system.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">bind-chroot</packagereq>
       <packagereq type="optional">bind</packagereq>
@@ -1867,7 +1880,7 @@
     <_name>Dogtag Certificate System</_name>
     <_description>Enterprise-class open source Certificate Authority</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">pki-ca</packagereq>
       <packagereq type="default">pki-console</packagereq>
@@ -2322,7 +2335,7 @@
     <_name>Fedora Packager</_name>
     <_description>Tools and Utilities needed by a Fedora Packager</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">bodhi-client</packagereq>
       <packagereq type="mandatory">curl</packagereq>
@@ -2361,7 +2374,7 @@
     <_name>Font design and packaging</_name>
     <_description>This group is a collection of tools used in the design, modification, manipulation, and packaging of fonts.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">fontforge</packagereq>
       <packagereq type="mandatory">xgridfit</packagereq>
@@ -2413,7 +2426,7 @@
     <_name>Fonts</_name>
     <_description>Fonts packages for rendering text on the desktop.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">abattis-cantarell-fonts</packagereq>
       <packagereq type="default">cjkuni-uming-fonts</packagereq>
@@ -2784,7 +2797,7 @@
     <_name>FTP Server</_name>
     <_description>These tools allow you to run an FTP server on the system.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">vsftpd</packagereq>
       <packagereq type="optional">proftpd</packagereq>
@@ -3112,7 +3125,7 @@
     <_name>GNOME Software Development</_name>
     <_description>Install these packages in order to develop GTK+ and GNOME graphical applications.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">atk-devel</packagereq>
       <packagereq type="mandatory">clutter-devel</packagereq>
@@ -3190,14 +3203,14 @@
     <_name>Graphical Internet</_name>
     <_description>This group includes graphical email, Web, and chat clients.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">empathy</packagereq>
-      <packagereq type="default">evolution</packagereq>
-      <packagereq type="default">evolution-help</packagereq>
-      <packagereq type="default">firefox</packagereq>
-      <packagereq type="default">icedtea-web</packagereq>
-      <packagereq type="default">transmission-gtk</packagereq>
+      <packagereq type="optional">empathy</packagereq>
+      <packagereq type="optional">evolution</packagereq>
+      <packagereq type="optional">evolution-help</packagereq>
+      <packagereq type="optional">firefox</packagereq>
+      <packagereq type="optional">icedtea-web</packagereq>
+      <packagereq type="optional">transmission-gtk</packagereq>
       <packagereq type="optional">amsn</packagereq>
       <packagereq type="optional">arora</packagereq>
       <packagereq type="optional">azureus</packagereq>
@@ -3275,17 +3288,17 @@
     <_name>Graphics</_name>
     <_description>This group includes packages to help you manipulate and scan images.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
-      <packagereq type="default">gimp</packagereq>
-      <packagereq type="default">gimp-data-extras</packagereq>
-      <packagereq type="default">gimp-help</packagereq>
-      <packagereq type="default">gimp-help-browser</packagereq>
-      <packagereq type="default">libsane-hpaio</packagereq>
-      <packagereq type="default">sane-backends-drivers-scanners</packagereq>
-      <packagereq type="default">shotwell</packagereq>
-      <packagereq type="default">simple-scan</packagereq>
+      <packagereq type="optional">gimp</packagereq>
+      <packagereq type="optional">gimp-data-extras</packagereq>
+      <packagereq type="optional">gimp-help</packagereq>
+      <packagereq type="optional">gimp-help-browser</packagereq>
+      <packagereq type="optional">libsane-hpaio</packagereq>
+      <packagereq type="optional">sane-backends-drivers-scanners</packagereq>
+      <packagereq type="optional">shotwell</packagereq>
+      <packagereq type="optional">simple-scan</packagereq>
       <packagereq type="optional">argyllcms</packagereq>
       <packagereq type="optional">asciio</packagereq>
       <packagereq type="optional">asymptote</packagereq>
@@ -3403,7 +3416,7 @@
     <_name>Hardware Support</_name>
     <_description>This group is a collection of tools for various hardware specific utilities.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">aic94xx-firmware</packagereq>
       <packagereq type="default">alsa-firmware</packagereq>
@@ -3460,7 +3473,7 @@
     <_name>Haskell</_name>
     <_description>Support for developing programs in the Haskell programming language.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="emacs">emacs-haskell-mode</packagereq>
       <packagereq type="default">alex</packagereq>
@@ -3540,7 +3553,7 @@
     <_name>Input Methods</_name>
     <_description>Input method packages for the input of international text.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="gtk2">gtk2-immodule-xim</packagereq>
       <packagereq type="conditional" requires="gtk3">gtk3-immodule-xim</packagereq>
@@ -3676,7 +3689,7 @@
     <_name>Java</_name>
     <_description>Support for running programs written in the Java programming language.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">java-1.7.0-openjdk</packagereq>
       <packagereq type="default">icedtea-web</packagereq>
@@ -3689,7 +3702,7 @@
     <_name>Java Development</_name>
     <_description>Support for developing programs in the Java programming language.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">ant</packagereq>
       <packagereq type="mandatory">ecj</packagereq>
@@ -3796,7 +3809,7 @@
     <_name>KDE Software Development</_name>
     <_description>Install these packages to develop QT and KDE graphical applications.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">cmake</packagereq>
       <packagereq type="mandatory">kdelibs-devel</packagereq>
@@ -3940,7 +3953,7 @@
     <_name>Legacy Fonts</_name>
     <_description>Older bitmap and vector fonts packages</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-ISO8859-15-100dpi</packagereq>
@@ -4029,7 +4042,7 @@
     <_name>Legacy Network Server</_name>
     <_description>These packages include servers for old network protocols such as rsh and telnet.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="optional">bootparamd</packagereq>
       <packagereq type="optional">rarpd</packagereq>
@@ -4047,7 +4060,7 @@
     <_name>Legacy Software Development</_name>
     <_description>These packages provide compatibility with previous releases.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq basearchonly="true" type="default">compat-gcc-34</packagereq>
       <packagereq basearchonly="true" type="default">compat-gcc-34-c++</packagereq>
@@ -4073,7 +4086,7 @@
     <_name>LibreOffice Development</_name>
     <_description>These packages are helpful when developing LibreOffice extensions or macros.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="optional">libreoffice-bsh</packagereq>
       <packagereq type="optional">libreoffice-headless</packagereq>
@@ -4088,7 +4101,7 @@
     <_name>Mail Server</_name>
     <_description>These packages allow you to configure an IMAP or SMTP mail server.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">cyrus-sasl</packagereq>
       <packagereq type="default">dovecot</packagereq>
@@ -4243,7 +4256,7 @@
       testing them, and building installers, all from within Fedora.
     </_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">mingw32-binutils</packagereq>
       <packagereq type="mandatory">mingw32-crt</packagereq>
@@ -4285,7 +4298,7 @@
     <_name>MySQL Database</_name>
     <_description>This package group contains packages useful for use with MySQL.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">mysql</packagereq>
       <packagereq type="default">libdbi-dbd-mysql</packagereq>
@@ -4325,7 +4338,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">cyrus-sasl</packagereq>
       <packagereq type="optional">389-ds-base</packagereq>
       <packagereq type="optional">ahcpd</packagereq>
       <packagereq type="optional">amanda-server</packagereq>
@@ -4372,7 +4384,7 @@
     <_name>News Server</_name>
     <_description>This group allows you to configure the system as a news server.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">inn</packagereq>
       <packagereq type="optional">cleanfeed</packagereq>
@@ -4390,7 +4402,7 @@
       Objective CAML programming language and libraries.
     </_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">ocaml</packagereq>
       <packagereq type="mandatory">ocaml-findlib-devel</packagereq>
@@ -4542,7 +4554,7 @@
     <_name>Perl Development</_name>
     <_description>Support for developing programs in the Perl programming language.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">perl-core</packagereq>
       <packagereq type="default">cpan-upload</packagereq>
@@ -4571,7 +4583,7 @@
     <_name>Printing Support</_name>
     <_description>Install these tools to enable the system to print or act as a print server.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">cups</packagereq>
       <packagereq type="mandatory">ghostscript</packagereq>
@@ -4688,7 +4700,7 @@
     <_name>Ruby</_name>
     <_description>Basic support for the Ruby programming language.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">ruby</packagereq>
       <packagereq type="default">ruby-devel</packagereq>
@@ -4749,7 +4761,7 @@
     <_name>Server Configuration Tools</_name>
     <_description>This group contains all of Red Hat's custom server configuration tools.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">cups-pk-helper</packagereq>
       <packagereq type="default">system-config-httpd</packagereq>
@@ -4830,7 +4842,7 @@
     <_name>Windows File Server</_name>
     <_description>This package group allows you to share files between Linux and MS Windows(tm) systems.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">samba</packagereq>
       <packagereq type="mandatory">samba-client</packagereq>
@@ -4972,7 +4984,7 @@
     <_name>PostgreSQL Database</_name>
     <_description>This package group includes packages useful for use with Postgresql.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">postgresql</packagereq>
       <packagereq type="default">libdbi-dbd-pgsql</packagereq>
@@ -4998,7 +5010,7 @@
     <_name>Sugar Desktop Environment</_name>
     <_description>A software playground for learning about learning.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq>csound-python</packagereq>
       <packagereq>gnome-power-manager</packagereq>
@@ -5462,7 +5474,7 @@
     <_name>Virtualization</_name>
     <_description>These packages provide a virtualization environment.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">python-virtinst</packagereq>
       <packagereq type="default">libvirt</packagereq>
@@ -5498,7 +5510,7 @@
     <_name>Web Server</_name>
     <_description>These tools allow you to run a Web server on the system.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">httpd</packagereq>
       <packagereq type="default">crypto-utils</packagereq>
@@ -5585,7 +5597,7 @@
     <_name>X Software Development</_name>
     <_description>These packages allow you to develop applications for the X Window System.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">libICE-devel</packagereq>
       <packagereq type="mandatory">libX11-devel</packagereq>
@@ -5644,7 +5656,7 @@
     <_name>XFCE Software Development</_name>
     <_description>Install these packages in order to develop GTK+ and XFCE graphical applications.</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">libxfce4ui-devel</packagereq>
       <packagereq type="mandatory">libxfce4util-devel</packagereq>
@@ -5893,7 +5905,10 @@
       <groupid>web-server</groupid>
       <groupid>mysql</groupid>
       <groupid>sql-server</groupid>
+      <groupid>virtualization</groupid>
       <groupid>web-server</groupid>
+      <groupid>load-balancer</groupid>
+      <groupid>ha</groupid>
     </optionlist>
   </environment>
   <environment>
