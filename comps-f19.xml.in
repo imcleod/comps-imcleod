@@ -662,6 +662,7 @@
     <packagelist>
       <packagereq>xmonad</packagereq>
       <packagereq>dmenu</packagereq>
+      <packagereq>lightdm-gtk</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5926,6 +5927,7 @@
       <groupid>multimedia</groupid>
     </grouplist>
     <optionlist>
+      <groupid>firefox</groupid>
       <groupid>input-methods</groupid>
       <groupid>legacy-fonts</groupid>
       <groupid>xmonad</groupid>
