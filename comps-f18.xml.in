@@ -48,7 +48,6 @@
       <packagereq>alsa-utils</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>pulseaudio</packagereq>
-      <packagereq>pulseaudio-module-bluetooth</packagereq>
       <packagereq>pulseaudio-utils</packagereq>
       <packagereq>pulseaudio-module-x11</packagereq>
     </packagelist>
@@ -5930,12 +5929,12 @@
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
+      <groupid>multimedia</groupid>
     </grouplist>
     <optionlist>
       <groupid>firefox</groupid>
       <groupid>input-methods</groupid>
       <groupid>legacy-fonts</groupid>
-      <groupid>multimedia</groupid>
       <groupid>xmonad</groupid>
     </optionlist>
   </environment>
