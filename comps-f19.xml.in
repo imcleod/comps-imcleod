@@ -659,9 +659,10 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>xmonad</packagereq>
       <packagereq>dmenu</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
+      <packagereq>firstboot</packagereq>
+      <packagereq>lxdm</packagereq>
+      <packagereq>xmonad</packagereq>
     </packagelist>
   </group>
   <group>
