@@ -663,6 +663,9 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>adwaita-cursor-theme</packagereq>
+      <packagereq>adwaita-gtk2-theme</packagereq>
+      <packagereq>adwaita-gtk3-theme</packagereq>
       <packagereq>dmenu</packagereq>
       <packagereq>firstboot</packagereq>
       <packagereq>lightdm-gtk</packagereq>
