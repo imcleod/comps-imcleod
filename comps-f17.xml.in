@@ -4499,6 +4499,43 @@
     </packagelist>
   </group>
   <group>
+   <id>mate-desktop</id>
+    <_name>MATE Desktop Environment</_name>
+    <_description>MATE Desktop is a desktop based on GNOME 2 that provides a powerful graphical user interface for users who seek a simple, easy to use traditional desktop interface.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">mate-doc-utils</packagereq>
+      <packagereq type="mandatory">mate-corba</packagereq>
+      <packagereq type="mandatory">libmatewnck</packagereq>
+      <packagereq type="mandatory">mate-conf</packagereq>
+      <packagereq type="mandatory">libmatecomponent</packagereq>
+      <packagereq type="mandatory">mate-mime-data</packagereq>
+      <packagereq type="mandatory">mate-vfs</packagereq>
+      <packagereq type="mandatory">libmate</packagereq>
+      <packagereq type="mandatory">libmatecomponentui</packagereq>
+      <packagereq type="mandatory">libmatekeyring</packagereq>
+      <packagereq type="mandatory">mate-keyring</packagereq>
+      <packagereq type="mandatory">libmateui</packagereq>
+      <packagereq type="mandatory">libmatenotify</packagereq>
+      <packagereq type="mandatory">libmatekbd</packagereq>
+      <packagereq type="mandatory">libmateweather</packagereq>
+      <packagereq type="mandatory">mate-icon-theme</packagereq>
+      <packagereq type="mandatory">mate-dialogs</packagereq>
+      <packagereq type="mandatory">mate-desktop</packagereq>
+      <packagereq type="mandatory">mate-file-manager</packagereq>
+      <packagereq type="mandatory">mate-notification-daemon</packagereq>
+      <packagereq type="mandatory">mate-backgrounds</packagereq>
+      <packagereq type="mandatory">mate-menus</packagereq>
+      <packagereq type="mandatory">mate-window-manager</packagereq>
+      <packagereq type="mandatory">mate-polkit</packagereq>
+      <packagereq type="mandatory">mate-settings-daemon</packagereq>
+      <packagereq type="mandatory">mate-control-center</packagereq>
+      <packagereq type="mandatory">mate-panel</packagereq>
+      <packagereq type="mandatory">mate-session-manager</packagereq>
+     </packagelist>
+   </group>
+  <group>
     <id>maori-support</id>
     <_name>Maori Support</_name>
     <_description/>
@@ -6819,6 +6856,7 @@
       <groupid>gnome-desktop</groupid>
       <groupid>kde-desktop</groupid>
       <groupid>lxde-desktop</groupid>
+      <groupid>mate-desktop</groupid>
       <groupid>meego-netbook</groupid>
       <groupid>sugar-desktop</groupid>
       <groupid>window-managers</groupid>

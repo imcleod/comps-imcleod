@@ -4222,6 +4222,53 @@
     </packagelist>
   </group>
   <group>
+   <id>mate-desktop</id>
+    <_name>MATE Desktop Environment</_name>
+    <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple,easy to use traditional desktop interface.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>mate-doc-utils</packagereq>
+      <packagereq>mate-corba</packagereq>
+      <packagereq>libmatewnck</packagereq>
+      <packagereq>mate-conf</packagereq>
+      <packagereq>libmatecomponent</packagereq>
+      <packagereq>mate-mime-data</packagereq>
+      <packagereq>mate-vfs</packagereq>
+      <packagereq>libmate</packagereq>
+      <packagereq>libmatecomponentui</packagereq>
+      <packagereq>libmatekeyring</packagereq>
+      <packagereq>mate-keyring</packagereq>
+      <packagereq>libmateui</packagereq>
+      <packagereq>libmatenotify</packagereq>
+      <packagereq>libmatekbd</packagereq>
+      <packagereq>libmateweather</packagereq>
+      <packagereq>mate-icon-theme</packagereq>
+      <packagereq>mate-dialogs</packagereq>
+      <packagereq>mate-desktop</packagereq>
+      <packagereq>mate-file-manager</packagereq>
+      <packagereq>mate-notification-daemon</packagereq>
+      <packagereq>mate-backgrounds</packagereq>
+      <packagereq>mate-menus</packagereq>
+      <packagereq>mate-window-manager</packagereq>
+      <packagereq>mate-polkit</packagereq>
+      <packagereq>mate-settings-daemon</packagereq>
+      <packagereq>mate-control-center</packagereq>
+      <packagereq>mate-panel</packagereq>
+      <packagereq>mate-session-manager</packagereq>
+      <packagereq>firstboot</packagereq>
+      <packagereq>network-manager-applet</packagereq>
+      <packagereq>nm-connection-editor</packagereq>
+      <packagereq>firewall-config</packagereq>
+      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>lightdm-gtk</packagereq>
+      <packagereq>NetworkManager-openconnect</packagereq>
+      <packagereq>NetworkManager-openvpn</packagereq>
+      <packagereq>NetworkManager-pptp</packagereq>
+      <packagereq>NetworkManager-vpnc</packagereq>
+     </packagelist>
+   </group>
+   <group>
     <id>marathi-support</id>
     <_name>Marathi Support</_name>
     <_description/>
@@ -6038,6 +6085,7 @@
       <groupid>gnome-desktop</groupid>
       <groupid>kde-desktop</groupid>
       <groupid>lxde-desktop</groupid>
+      <groupid>mate-desktop</groupid>
       <groupid>sugar-desktop</groupid>
       <groupid>window-managers</groupid>
       <groupid>xfce-desktop</groupid>
