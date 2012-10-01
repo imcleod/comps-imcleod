@@ -1671,7 +1671,6 @@
       <packagereq type="default">systemtap</packagereq>
       <packagereq type="default">texinfo</packagereq>
       <packagereq type="default">valgrind</packagereq>
-      <packagereq type="optional">alex</packagereq>
       <packagereq type="optional">alleyoop</packagereq>
       <packagereq type="optional">aplus-fsf</packagereq>
       <packagereq type="optional">archmage</packagereq>
@@ -1705,7 +1704,6 @@
       <packagereq type="optional">cvsgraph</packagereq>
       <packagereq type="optional">cvsps</packagereq>
       <packagereq type="optional">cvsweb</packagereq>
-      <packagereq type="optional">darcs</packagereq>
       <packagereq type="optional">dejagnu</packagereq>
       <packagereq type="optional">ecl</packagereq>
       <packagereq type="optional">ElectricFence</packagereq>
@@ -1730,7 +1728,6 @@
       <packagereq type="optional">gcl-emacs</packagereq>
       <packagereq type="optional">gcl-xemacs</packagereq>
       <packagereq type="optional">gforth</packagereq>
-      <packagereq type="optional">ghc</packagereq>
       <packagereq type="optional">giggle</packagereq>
       <packagereq type="optional">git-annex</packagereq>
       <packagereq type="optional">git-cola</packagereq>
@@ -1741,9 +1738,7 @@
       <packagereq type="optional">gpsim</packagereq>
       <packagereq type="optional">gputils</packagereq>
       <packagereq type="optional">gtranslator</packagereq>
-      <packagereq type="optional">happy</packagereq>
       <packagereq type="optional">highlight</packagereq>
-      <packagereq type="optional">hugs98</packagereq>
       <packagereq type="optional">iasl</packagereq>
       <packagereq type="optional">imake</packagereq>
       <packagereq type="optional">insight</packagereq>
@@ -3506,37 +3501,27 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="conditional" requires="emacs">emacs-haskell-mode</packagereq>
-      <packagereq type="default">alex</packagereq>
-      <packagereq type="default">cabal-install</packagereq>
-      <packagereq type="default">cabal-dev</packagereq>
-      <packagereq type="default">cabal2spec</packagereq>
-      <packagereq type="default">darcs</packagereq>
-      <packagereq type="default">ghc</packagereq>
-      <packagereq type="default">ghc-darcs-devel</packagereq>
-      <packagereq type="default">ghc-editline-devel</packagereq>
-      <packagereq type="default">ghc-ghc-paths-devel</packagereq>
-      <packagereq type="default">ghc-hakyll-devel</packagereq>
-      <packagereq type="default">ghc-hamlet-devel</packagereq>
-      <packagereq type="default">ghc-happstack-server-devel</packagereq>
-      <packagereq type="default">ghc-haskell-platform-devel</packagereq>
-      <packagereq type="default">ghc-hledger-devel</packagereq>
-      <packagereq type="default">ghc-hlint-devel</packagereq>
-      <packagereq type="default">ghc-leksah-devel</packagereq>
-      <packagereq type="default">ghc-regexpr-devel</packagereq>
-      <packagereq type="default">ghc-rpm-macros</packagereq>
-      <packagereq type="default">ghc-snap-core-devel</packagereq>
-      <packagereq type="default">ghc-xmonad-contrib-devel</packagereq>
-      <packagereq type="default">gtk2hs-buildtools</packagereq>
-      <packagereq type="default">happy</packagereq>
-      <packagereq type="default">haskell-platform</packagereq>
-      <packagereq type="default">hlint</packagereq>
-      <packagereq type="default">hscolour</packagereq>
-      <packagereq type="optional">cpphs</packagereq>
-      <packagereq type="optional">hugs98</packagereq>
-      <packagereq type="optional">hugs98-demos</packagereq>
-      <packagereq type="optional">leksah</packagereq>
-      <packagereq type="optional">xmobar</packagereq>
-      <packagereq type="optional">xmonad</packagereq>
+      <packagereq>cabal-dev</packagereq>
+      <packagereq>cabal-rpm</packagereq>
+      <packagereq>darcs</packagereq>
+      <packagereq>ghc</packagereq>
+      <packagereq>ghc-darcs-devel</packagereq>
+      <packagereq>ghc-editline-devel</packagereq>
+      <packagereq>ghc-ghc-paths-devel</packagereq>
+      <packagereq>ghc-hakyll-devel</packagereq>
+      <packagereq>ghc-hamlet-devel</packagereq>
+      <packagereq>ghc-happstack-server-devel</packagereq>
+      <packagereq>ghc-hledger-devel</packagereq>
+      <packagereq>ghc-hlint-devel</packagereq>
+      <packagereq>ghc-leksah-devel</packagereq>
+      <packagereq>ghc-regexpr-devel</packagereq>
+      <packagereq>ghc-rpm-macros</packagereq>
+      <packagereq>ghc-snap-core-devel</packagereq>
+      <packagereq>ghc-xmonad-contrib-devel</packagereq>
+      <packagereq>gtk2hs-buildtools</packagereq>
+      <packagereq>haskell-platform</packagereq>
+      <packagereq>hlint</packagereq>
+      <packagereq>hscolour</packagereq>
     </packagelist>
   </group>
   <group>
