@@ -44,6 +44,9 @@
       <packagereq>gstreamer-plugins-bad-free</packagereq>
       <packagereq>gstreamer-plugins-espeak</packagereq>
       <packagereq>gstreamer-plugins-good</packagereq>
+      <packagereq type="conditional" requires="gstreamer1">gstreamer1-plugins-bad-free</packagereq>
+      <packagereq type="conditional" requires="gstreamer1">gstreamer1-plugins-espeak</packagereq>
+      <packagereq type="conditional" requires="gstreamer1">gstreamer1-plugins-good</packagereq>
       <packagereq>PackageKit-gstreamer-plugin</packagereq>
       <packagereq>alsa-utils</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
