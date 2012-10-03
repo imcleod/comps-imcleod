@@ -220,9 +220,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>kde-runtime</packagereq>
-      <packagereq>kde-workspace</packagereq>
-      <packagereq>kdelibs</packagereq>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>apper</packagereq>
@@ -247,11 +244,14 @@
       <packagereq>kde-plasma-networkmanagement-pptp</packagereq>
       <packagereq>kde-plasma-networkmanagement-vpnc</packagereq>
       <packagereq>kde-printer-applet</packagereq>
+      <packagereq>kde-runtime</packagereq>
       <packagereq>kde-settings-pulseaudio</packagereq>
+      <packagereq>kde-workspace</packagereq>
       <packagereq>kdeaccessibility</packagereq>
       <packagereq>kdegames-minimal</packagereq>
       <packagereq>kdegraphics-strigi-analyzer</packagereq>
       <packagereq>kdegraphics-thumbnailers</packagereq>
+      <packagereq>kdelibs</packagereq>
       <packagereq>kdenetwork-kdnssd</packagereq>
       <packagereq>kdenetwork-kget</packagereq>
       <packagereq>kdeplasma-addons</packagereq>
