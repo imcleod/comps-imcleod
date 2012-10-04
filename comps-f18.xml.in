@@ -1674,6 +1674,7 @@
       <packagereq type="default">texinfo</packagereq>
       <packagereq type="default">valgrind</packagereq>
       <packagereq type="optional">alleyoop</packagereq>
+      <packagereq type="optional">alex</packagereq>
       <packagereq type="optional">aplus-fsf</packagereq>
       <packagereq type="optional">archmage</packagereq>
       <packagereq type="optional">astyle</packagereq>
@@ -1683,6 +1684,7 @@
       <packagereq type="optional">buildbot</packagereq>
       <packagereq type="optional">bzr</packagereq>
       <packagereq type="optional">bzr-explorer</packagereq>
+      <packagereq type="optional">cabal-install</packagereq>
       <packagereq type="optional">check</packagereq>
       <packagereq type="optional">clips</packagereq>
       <packagereq type="optional">clips-devel</packagereq>
@@ -1706,6 +1708,7 @@
       <packagereq type="optional">cvsgraph</packagereq>
       <packagereq type="optional">cvsps</packagereq>
       <packagereq type="optional">cvsweb</packagereq>
+      <packagereq type="optional">darcs</packagereq>
       <packagereq type="optional">dejagnu</packagereq>
       <packagereq type="optional">ecl</packagereq>
       <packagereq type="optional">ElectricFence</packagereq>
@@ -1730,6 +1733,7 @@
       <packagereq type="optional">gcl-emacs</packagereq>
       <packagereq type="optional">gcl-xemacs</packagereq>
       <packagereq type="optional">gforth</packagereq>
+      <packagereq type="optional">ghc</packagereq>
       <packagereq type="optional">giggle</packagereq>
       <packagereq type="optional">git-annex</packagereq>
       <packagereq type="optional">git-cola</packagereq>
@@ -1740,6 +1744,7 @@
       <packagereq type="optional">gpsim</packagereq>
       <packagereq type="optional">gputils</packagereq>
       <packagereq type="optional">gtranslator</packagereq>
+      <packagereq type="optional">happy</packagereq>
       <packagereq type="optional">highlight</packagereq>
       <packagereq type="optional">iasl</packagereq>
       <packagereq type="optional">imake</packagereq>
@@ -3524,6 +3529,7 @@
       <packagereq>haskell-platform</packagereq>
       <packagereq>hlint</packagereq>
       <packagereq>hscolour</packagereq>
+      <packagereq type="optional">leksah</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5656,6 +5662,8 @@
       <packagereq type="optional">WindowMaker</packagereq>
       <packagereq type="optional">wmx</packagereq>
       <packagereq type="optional">xcompmgr</packagereq>
+      <packagereq type="optional">xmonad</packagereq>
+      <packagereq type="optional">xmonad-gnome</packagereq>
     </packagelist>
   </group>
   <group>
