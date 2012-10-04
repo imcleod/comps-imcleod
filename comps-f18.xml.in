@@ -675,17 +675,13 @@
     </packagelist>
   </group>
   <group>
-    <id>lxdm</id>
-    <_name>LXDM</_name>
-    <_description>Lightwight X Display Manager</_description>
+    <id>cinnamon</id>
+    <_name>Cinnamon</_name>
+    <_description>Cinnamon Desktop</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>adwaita-cursor-theme</packagereq>
-      <packagereq>adwaita-gtk2-theme</packagereq>
-      <packagereq>adwaita-gtk3-theme</packagereq>
-      <packagereq>firstboot</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
+      <packagereq>cinnamon</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5994,13 +5990,13 @@
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
       <groupid>multimedia</groupid>
+      <groupid>lightdm</groupid>
     </grouplist>
     <optionlist>
+      <groupid>cinnamon</groupid>
       <groupid>firefox</groupid>
       <groupid>input-methods</groupid>
       <groupid>legacy-fonts</groupid>
-      <groupid>lightdm</groupid>
-      <groupid>lxdm</groupid>
       <groupid>xmonad</groupid>
     </optionlist>
   </environment>
