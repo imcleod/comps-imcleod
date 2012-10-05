@@ -4686,7 +4686,6 @@
       <packagereq type="default">hplip</packagereq>
       <packagereq type="default">mpage</packagereq>
       <packagereq type="default">paps</packagereq>
-      <packagereq type="default">printer-filters</packagereq>
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">system-config-printer</packagereq>
       <packagereq type="default">system-config-printer-udev</packagereq>
@@ -4694,6 +4693,8 @@
       <packagereq type="optional">cups-bjnp</packagereq>
       <packagereq type="optional">cups-pdf</packagereq>
       <packagereq type="optional">enscript</packagereq>
+      <packagereq type="optional">min12xxw</packagereq>
+      <packagereq type="optional">ptouch-driver</packagereq>
     </packagelist>
   </group>
   <group>
