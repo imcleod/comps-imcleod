@@ -400,28 +400,19 @@
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>gtk-xfce-engine</packagereq>
       <packagereq>gvfs</packagereq>
-      <packagereq>leafpad</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>openssh-askpass</packagereq>
-      <packagereq>orage</packagereq>
       <packagereq>Terminal</packagereq>
       <packagereq>thunar-archive-plugin</packagereq>
       <packagereq>thunar-volman</packagereq>
       <packagereq>tumbler</packagereq>
-      <packagereq>xarchiver</packagereq>
       <packagereq>xfce4-appfinder</packagereq>
-      <packagereq>xfce4-icon-theme</packagereq>
-      <packagereq>xfce4-mixer</packagereq>
       <packagereq>xfce4-power-manager</packagereq>
       <packagereq>xfce4-session-engines</packagereq>
       <packagereq>xfwm4-theme-nodoka</packagereq>
       <packagereq>xscreensaver-base</packagereq>
       <packagereq>yumex</packagereq>
-      <packagereq>cheese</packagereq>
-      <packagereq>catfish</packagereq>
-      <packagereq>galculator</packagereq>
-      <packagereq>seahorse</packagereq>
       <packagereq>ConsoleKit-x11</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
       <packagereq>NetworkManager-openvpn</packagereq>
@@ -441,7 +432,6 @@
       <packagereq>bluebird-gtk2-theme</packagereq>
       <packagereq>bluebird-gtk3-theme</packagereq>
       <packagereq>bluebird-xfwm4-theme</packagereq>
-      <packagereq>ristretto</packagereq>
       <packagereq>thunar-media-tags-plugin</packagereq>
       <packagereq>xfce4-datetime-plugin</packagereq>
       <packagereq>xfce4-places-plugin</packagereq>
@@ -457,14 +447,10 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>epdfview</packagereq>
-      <packagereq>geany</packagereq>
-      <packagereq>midori</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>claws-mail-plugins-archive</packagereq>
-      <packagereq>claws-mail-plugins-att-remover</packagereq>
       <packagereq>claws-mail-plugins-attachwarner</packagereq>
-      <packagereq>claws-mail-plugins-bogofilter</packagereq>
+      <packagereq>claws-mail-plugins-att-remover</packagereq>
       <packagereq>claws-mail-plugins-fetchinfo</packagereq>
       <packagereq>claws-mail-plugins-mailmbox</packagereq>
       <packagereq>claws-mail-plugins-newmail</packagereq>
@@ -475,13 +461,22 @@
       <packagereq>claws-mail-plugins-spam-report</packagereq>
       <packagereq>claws-mail-plugins-tnef</packagereq>
       <packagereq>claws-mail-plugins-vcalendar</packagereq>
-      <packagereq>clipman</packagereq>
+      <packagereq>catfish</packagereq>
+      <packagereq>epdfview</packagereq>
+      <packagereq>galculator</packagereq>
+      <packagereq>geany</packagereq>
+      <packagereq>leafpad</packagereq>
       <packagereq>liferea</packagereq>
+      <packagereq>midori</packagereq>
+      <packagereq>orage</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>remmina</packagereq>
       <packagereq>remmina-plugins-rdp</packagereq>
       <packagereq>remmina-plugins-vnc</packagereq>
+      <packagereq>ristretto</packagereq>
+      <packagereq>seahorse</packagereq>
       <packagereq>transmission</packagereq>
+      <packagereq>xarchiver</packagereq>
       <packagereq>xfce4-clipman-plugin</packagereq>
       <packagereq>xfce4-dict-plugin</packagereq>
       <packagereq>xfce4-notes-plugin</packagereq>
@@ -528,6 +523,7 @@
       <packagereq>parole</packagereq>
       <packagereq>pragha</packagereq>
       <packagereq>xfburn</packagereq>
+      <packagereq>xfce4-mixer</packagereq>
     </packagelist>
   </group>
   <group>
