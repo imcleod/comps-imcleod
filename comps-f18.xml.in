@@ -693,6 +693,18 @@
     </packagelist>
   </group>
   <group>
+    <id>xmonad-gnome</id>
+    <_name>XMonad for GNOME</_name>
+    <_description>XMonad window manager with GNOME</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>control-center</packagereq>
+      <packagereq>gnome-panel</packagereq>
+      <packagereq>xmonad-gnome</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>haproxy</id>
     <_name>HAProxy</_name>
     <_description>TCP/HTTP Load Balancer.</_description>
@@ -6029,6 +6041,7 @@
       <groupid>input-methods</groupid>
       <groupid>legacy-fonts</groupid>
       <groupid>xmonad</groupid>
+      <groupid>xmonad-gnome</groupid>
     </optionlist>
   </environment>
   <environment>
