@@ -684,14 +684,24 @@
     </packagelist>
   </group>
   <group>
-    <id>cinnamon</id>
-    <_name>Cinnamon</_name>
-    <_description>Cinnamon Desktop</_description>
+    <id>cinnamon-desktop</id>
+    <_name>Cinnamon Desktop</_name>
+    <_description>Cinnamon provides a deskop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>cinnamon</packagereq>
+      <packagereq>eog</packagereq>
+      <packagereq>evince</packagereq>
+      <packagereq>firstboot</packagereq>
       <packagereq>firefox</packagereq>
+      <packagereq>gcalctool</packagereq>
+      <packagereq>gdm</packagereq>
+      <packagereq>gedit</packagereq>
+      <packagereq>gnome-icon-theme</packagereq>
+      <packagereq>gnome-screensaver</packagereq>
+      <packagereq>gnome-system-monitor</packagereq>
+      <packagereq>gnome-terminal</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5894,6 +5904,27 @@
     </optionlist>
   </environment>
   <environment>
+    <id>cinnamon-desktop</id>
+    <_name>Cinnamon Desktop</_name>
+    <_description>.</_description>
+    <display_order>21</display_order>
+    <grouplist>
+      <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>cinnamon</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>libreoffice</groupid>
+    </optionlist>
+  </environment>
+  <environment>
     <id>mate-desktop</id>
     <_name>MATE Desktop</_name>
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
@@ -6048,7 +6079,6 @@
       <groupid>lightdm</groupid>
     </grouplist>
     <optionlist>
-      <groupid>cinnamon</groupid>
       <groupid>firefox</groupid>
       <groupid>input-methods</groupid>
       <groupid>legacy-fonts</groupid>
