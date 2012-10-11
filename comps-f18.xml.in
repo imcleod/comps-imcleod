@@ -89,6 +89,9 @@
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
       <packagereq>evince-nautilus</packagereq>
+      <packagereq>evolution</packagereq>
+      <packagereq>evolution-help</packagereq>
+      <packagereq>evolution-NetworkManager</packagereq>
       <packagereq>file-roller</packagereq>
       <packagereq>file-roller-nautilus</packagereq>
       <packagereq>firewall-config</packagereq>
@@ -99,6 +102,7 @@
       <packagereq>glib-networking</packagereq>
       <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-bluetooth</packagereq>
+      <packagereq>gnome-boxes</packagereq>
       <packagereq>gnome-clocks</packagereq>
       <packagereq>gnome-color-manager</packagereq>
       <packagereq>gnome-contacts</packagereq>
@@ -141,26 +145,25 @@
       <packagereq>PackageKit-gtk3-module</packagereq>
       <packagereq>policycoreutils-restorecond</packagereq>
       <packagereq>polkit-gnome</packagereq>
+      <packagereq>rhythmbox</packagereq>
+      <packagereq>sane-backends-drivers-scanners</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>sushi</packagereq>
       <packagereq>totem</packagereq>
       <packagereq>totem-mozplugin</packagereq>
       <packagereq>totem-nautilus</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>vinagre</packagereq>
       <packagereq>yelp</packagereq>
     </packagelist>
   </group>
   <group>
-    <id>gnome-apps</id>
-    <_name>Applications for the GNOME Desktop</_name>
-    <_description>A set of commonly used applications for the GNOME Desktop</_description>
+    <id>gnome-games</id>
+    <_name>Extra games for the GNOME Desktop</_name>
+    <_description>A variety of games for the GNOME Desktop</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>evolution</packagereq>
-      <packagereq>evolution-help</packagereq>
-      <packagereq>evolution-NetworkManager</packagereq>
-      <packagereq>gnome-boxes</packagereq>
       <packagereq>gnome-games-iagno</packagereq>
       <packagereq>gnome-games-glchess</packagereq>
       <packagereq>gnome-games-glines</packagereq>
@@ -175,11 +178,6 @@
       <packagereq>gnome-games-mahjongg</packagereq>
       <packagereq>gnome-games-quadrapassel</packagereq>
       <packagereq>gnome-games-sudoku</packagereq>
-      <packagereq>shotwell</packagereq>
-      <packagereq>simple-scan</packagereq>
-      <packagereq>sane-backends-drivers-scanners</packagereq>
-      <packagereq>vinagre</packagereq>
-      <packagereq>vino</packagereq>
     </packagelist>
   </group>
   <group>
@@ -202,17 +200,6 @@
     <packagelist>
       <packagereq>epiphany</packagereq>
       <packagereq>epiphany-extensions</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>gnome-media</id>
-    <_name>Multimedia support for GNOME</_name>
-    <_description>Multimedia support for GNOME</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>rhythmbox</packagereq>
-      <packagereq>sound-juicer</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5827,8 +5814,7 @@
       <groupid>gnome-desktop</groupid>
     </grouplist>
     <optionlist>
-      <groupid>gnome-apps</groupid>
-      <groupid>gnome-media</groupid>
+      <groupid>gnome-games</groupid>
       <groupid>epiphany</groupid>
       <groupid>libreoffice</groupid>
     </optionlist>
