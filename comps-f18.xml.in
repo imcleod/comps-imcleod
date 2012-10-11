@@ -673,7 +673,7 @@
   <group>
     <id>cinnamon-desktop</id>
     <_name>Cinnamon Desktop</_name>
-    <_description>Cinnamon provides a deskop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
+    <_description>Cinnamon provides a desktop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -5667,7 +5667,6 @@
       <packagereq type="optional">bbkeys</packagereq>
       <packagereq type="optional">blackbox</packagereq>
       <packagereq type="optional">bluetile</packagereq>
-      <packagereq type="optional">cinnamon</packagereq>
       <packagereq type="optional">dwm</packagereq>
       <packagereq type="optional">dwm-user</packagereq>
       <packagereq type="optional">fluxbox</packagereq>
@@ -5893,7 +5892,7 @@
   <environment>
     <id>cinnamon-desktop</id>
     <_name>Cinnamon Desktop</_name>
-    <_description>.</_description>
+    <_description>Cinnamon provides a desktop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
     <display_order>21</display_order>
     <grouplist>
       <groupid>base-x</groupid>
@@ -5905,7 +5904,7 @@
       <groupid>multimedia</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
-      <groupid>cinnamon</groupid>
+      <groupid>cinnamon-desktop</groupid>
     </grouplist>
     <optionlist>
       <groupid>libreoffice</groupid>
