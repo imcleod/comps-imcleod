@@ -4245,6 +4245,9 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>abrt-desktop</packagereq>
+      <packagereq>setroubleshoot</packagereq>
+      <packagereq>desktop-backgrounds-compat</packagereq>
       <packagereq>mate-corba</packagereq>
       <packagereq>libmatewnck</packagereq>
       <packagereq>mate-conf</packagereq>
@@ -4272,16 +4275,21 @@
       <packagereq>mate-control-center</packagereq>
       <packagereq>mate-panel</packagereq>
       <packagereq>mate-session-manager</packagereq>
+      <packagereq>ConsoleKit</packagereq>
       <packagereq>firstboot</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>firewall-config</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
       <packagereq>lightdm-gtk</packagereq>
+      <packagereq>xscreensaver-base</packagereq>
+      <packagereq>yumex</packagereq>
+      <packagereq>ConsoleKit-x11</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>firefox</packagereq>
+      <packagereq>xterm</packagereq>
      </packagelist>
    </group>
    <group>
