@@ -4503,7 +4503,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">openbox</packagereq>
       <packagereq type="default">lightdm</packagereq>
       <packagereq type="mandatory">mate-corba</packagereq>
       <packagereq type="mandatory">libmatewnck</packagereq>
@@ -4541,6 +4540,17 @@
       <packagereq type="mandatory">yumex</packagereq>
       <packagereq type="mandatory">firefox</packagereq>
       <packagereq type="mandatory">NetworkManager</packagereq>
+      <packagereq type="mandatory">abrt-desktop</packagereq>
+      <packagereq type="mandatory">setroubleshoot</packagereq>
+      <packagereq type="mandatory">desktop-backgrounds-compat</packagereq>
+      <packagereq type="mandatory">firstboot</packagereq>
+      <packagereq type="mandatory">network-manager-applet</packagereq>
+      <packagereq type="mandatory">nm-connection-editor</packagereq>
+      <packagereq type="mandatory">ConsoleKit-x11</packagereq>
+      <packagereq type="mandatory">NetworkManager-openconnect</packagereq>
+      <packagereq type="mandatory">NetworkManager-openvpn</packagereq>
+      <packagereq type="mandatory">NetworkManager-pptp</packagereq>
+      <packagereq type="mandatory">NetworkManager-vpnc</packagereq>
       <packagereq type="mandatory">imsettings</packagereq>
      </packagelist>
    </group>
