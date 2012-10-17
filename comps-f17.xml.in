@@ -4517,6 +4517,7 @@
       <packagereq type="mandatory">libmatenotify</packagereq>
       <packagereq type="mandatory">libmatekbd</packagereq>
       <packagereq type="mandatory">libmateweather</packagereq>
+      <packagereq type="mandatory">libmatecanvas</packagereq>
       <packagereq type="mandatory">mate-icon-theme</packagereq>
       <packagereq type="mandatory">mate-dialogs</packagereq>
       <packagereq type="mandatory">mate-desktop</packagereq>
@@ -4530,6 +4531,11 @@
       <packagereq type="mandatory">mate-control-center</packagereq>
       <packagereq type="mandatory">mate-panel</packagereq>
       <packagereq type="mandatory">mate-session-manager</packagereq>
+      <packagereq type="mandatory">mate-themes</packagereq>
+      <packagereq type="mandatory">mate-terminal</packagereq>
+      <packagereq type="mandatory">xterm</packagereq>
+      <packagereq type="mandatory">mate-text-editor</packagereq>
+      <packagereq type="mandatory">mate-conf-editor</packagereq>
      </packagelist>
    </group>
   <group>
