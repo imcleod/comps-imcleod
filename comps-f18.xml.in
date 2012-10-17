@@ -219,8 +219,8 @@
   </group>
   <group>
     <id>kde-desktop</id>
-    <_name>KDE</_name>
-    <_description>The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
+    <_name>KDE Plasma Workspaces</_name>
+    <_description>The KDE Plasma Workspaces, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -299,8 +299,8 @@
   </group>
   <group>
     <id>kde-apps</id>
-    <_name>Applications for the KDE Desktop</_name>
-    <_description>A set of commonly used applications for the KDE Desktop</_description>
+    <_name>KDE Applications</_name>
+    <_description>A set of commonly used KDE Applications</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -316,8 +316,8 @@
   </group>
   <group>
     <id>kde-education</id>
-    <_name>Educational applications for the KDE Desktop</_name>
-    <_description>Educational applications for the KDE Desktop</_description>
+    <_name>KDE Educational applications</_name>
+    <_description>KDE Educational applications</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -345,7 +345,7 @@
   </group>
   <group>
     <id>kde-media</id>
-    <_name>Multimedia support for KDE</_name>
+    <_name>KDE Multimedia support</_name>
     <_description>Multimedia support for KDE</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -359,7 +359,7 @@
   <group>
     <id>kde-office</id>
     <_name>KDE Office</_name>
-    <_description>Office suite for KDE</_description>
+    <_description>KDE Office applications</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -5822,8 +5822,8 @@
   </environment>
   <environment>
     <id>kde-desktop-environment</id>
-    <_name>KDE Desktop</_name>
-    <_description>The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
+    <_name>KDE Plasma Workspaces</_name>
+    <_description>The KDE Plasma Workspaces, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
     <display_order>10</display_order>
     <grouplist>
       <groupid>base-x</groupid>
