@@ -57,8 +57,8 @@
   </group>
   <group>
     <id>gnome-desktop</id>
-    <_name>GNOME Desktop Environment</_name>
-    <_description>GNOME is a powerful graphical user interface which includes a panel, desktop, system icons, and a graphical file manager</_description>
+    <_name>GNOME</_name>
+    <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -672,7 +672,7 @@
   </group>
   <group>
     <id>cinnamon-desktop</id>
-    <_name>Cinnamon Desktop</_name>
+    <_name>Cinnamon</_name>
     <_description>Cinnamon provides a desktop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -4243,7 +4243,7 @@
   </group>
   <group>
    <id>mate-desktop</id>
-    <_name>MATE Desktop Environment</_name>
+    <_name>MATE</_name>
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -5609,7 +5609,7 @@
   </group>
   <group>
     <id>web-server</id>
-    <_name>Web Server</_name>
+    <_name>Basic Web Server</_name>
     <_description>These tools allow you to run a Web server on the system.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -5802,7 +5802,7 @@
     </packagelist>
   </group>
   <environment>
-    <id>gnome-desktop</id>
+    <id>gnome-desktop-environment</id>
     <_name>GNOME Desktop</_name>
     <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
     <display_order>5</display_order>
@@ -5826,7 +5826,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>kde-desktop</id>
+    <id>kde-desktop-environment</id>
     <_name>KDE Plasma Workspaces</_name>
     <_description>The KDE Plasma Workspaces, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
     <display_order>10</display_order>
@@ -5850,7 +5850,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>xfce-desktop</id>
+    <id>xfce-desktop-environment</id>
     <_name>Xfce Desktop</_name>
     <_description>A lightweight desktop environment that works well on low end machines.</_description>
     <display_order>15</display_order>
@@ -5874,7 +5874,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>lxde-desktop</id>
+    <id>lxde-desktop-environment</id>
     <_name>LXDE Desktop</_name>
     <_description>LXDE is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
     <display_order>20</display_order>
@@ -5897,7 +5897,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>cinnamon-desktop</id>
+    <id>cinnamon-desktop-environment</id>
     <_name>Cinnamon Desktop</_name>
     <_description>Cinnamon provides a desktop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
     <display_order>21</display_order>
@@ -5918,7 +5918,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>mate-desktop</id>
+    <id>mate-desktop-environment</id>
     <_name>MATE Desktop</_name>
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
     <display_order>22</display_order>
@@ -5939,7 +5939,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>sugar-desktop</id>
+    <id>sugar-desktop-environment</id>
     <_name>Sugar Desktop Environment</_name>
     <_description>A software playground for learning about learning.</_description>
     <display_order>25</display_order>
@@ -5959,7 +5959,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>developer-workstation</id>
+    <id>developer-workstation-environment</id>
     <_name>Development and Creative Workstation</_name>
     <_description>Workstation for software, hardware, graphics, or content development.</_description>
     <display_order>35</display_order>
@@ -6007,7 +6007,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>web-server</id>
+    <id>web-server-environment</id>
     <_name>Web Server</_name>
     <_description>Server for serving static and dynamic internet content.</_description>
     <display_order>50</display_order>
@@ -6031,7 +6031,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>infrastructure-server</id>
+    <id>infrastructure-server-environment</id>
     <_name>Infrastructure Server</_name>
     <_description>Server for operating network infrastructure services.</_description>
     <display_order>55</display_order>
@@ -6057,7 +6057,7 @@
     </optionlist>
   </environment>
   <environment>
-    <id>basic-x-windows</id>
+    <id>basic-x-windows-environment</id>
     <_name>Basic X Window System</_name>
     <_description>X Window System without a desktop environment.</_description>
     <display_order>70</display_order>
@@ -6080,8 +6080,8 @@
     </optionlist>
   </environment>
   <environment>
-    <id>minimal</id>
-    <_name>Minimal install</_name>
+    <id>minimal-environment</id>
+    <_name>Minimal Install</_name>
     <_description>Basic functionality.</_description>
     <display_order>99</display_order>
     <grouplist>
