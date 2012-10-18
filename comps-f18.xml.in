@@ -656,19 +656,16 @@
     </packagelist>
   </group>
   <group>
-    <id>lightdm</id>
-    <_name>Lightdm</_name>
-    <_description>Lightweight Display Manager</_description>
+    <id>basic-x-windows-setup</id>
+    <_name>Basic X Windows Setup</_name>
+    <_description>Setup to start a basic X windows session</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>adwaita-cursor-theme</packagereq>
-      <packagereq>adwaita-gtk2-theme</packagereq>
-      <packagereq>adwaita-gtk3-theme</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firstboot</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
-      <packagereq>redhat-menus</packagereq>
+      <packagereq>gdm</packagereq>
+      <packagereq>gnome-icon-theme-symbolic</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6064,12 +6061,17 @@
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
       <groupid>multimedia</groupid>
-      <groupid>lightdm</groupid>
+      <groupid>basic-x-windows-setup</groupid>
     </grouplist>
     <optionlist>
       <groupid>firefox</groupid>
+      <groupid>gnome-desktop</groupid>
       <groupid>input-methods</groupid>
+      <groupid>kde-desktop</groupid>
       <groupid>legacy-fonts</groupid>
+      <groupid>libreoffice</groupid>
+      <groupid>lxde-desktop</groupid>
+      <groupid>xfce-desktop</groupid>
       <groupid>xmonad</groupid>
       <groupid>xmonad-gnome</groupid>
     </optionlist>
