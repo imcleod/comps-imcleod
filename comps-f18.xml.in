@@ -656,16 +656,21 @@
     </packagelist>
   </group>
   <group>
-    <id>basic-x-windows-setup</id>
-    <_name>Basic X Windows Setup</_name>
-    <_description>Setup to start a basic X windows session</_description>
+    <id>basic-x-windows-desktop</id>
+    <_name>Basic X Windows</_name>
+    <_description>Basic X windows desktop</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>awesome</packagereq>
+      <packagereq>blackbox</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firstboot</packagereq>
       <packagereq>gdm</packagereq>
       <packagereq>gnome-icon-theme-symbolic</packagereq>
+      <packagereq>metacity</packagereq>
+      <packagereq>ratpoison</packagereq>
+      <packagereq>xmonad-basic</packagereq>
     </packagelist>
   </group>
   <group>
@@ -702,8 +707,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>dmenu</packagereq>
-      <packagereq>xmonad-basic</packagereq>
+      <packagereq>xmobar</packagereq>
+      <packagereq>xmonad</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6061,7 +6066,7 @@
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
       <groupid>multimedia</groupid>
-      <groupid>basic-x-windows-setup</groupid>
+      <groupid>basic-x-windows-desktop</groupid>
     </grouplist>
     <optionlist>
       <groupid>firefox</groupid>
