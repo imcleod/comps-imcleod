@@ -656,9 +656,9 @@
     </packagelist>
   </group>
   <group>
-    <id>basic-x-windows-desktop</id>
-    <_name>Basic X Windows</_name>
-    <_description>Basic X windows desktop</_description>
+    <id>basic-x-window-desktop</id>
+    <_name>Basic X Window Desktop</_name>
+    <_description>Basic X Window System with a choice of window manager.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -668,7 +668,9 @@
       <packagereq>firstboot</packagereq>
       <packagereq>gdm</packagereq>
       <packagereq>gnome-icon-theme-symbolic</packagereq>
+      <packagereq>jwm</packagereq>
       <packagereq>metacity</packagereq>
+      <packagereq>pekwm</packagereq>
       <packagereq>ratpoison</packagereq>
       <packagereq>xmonad-basic</packagereq>
     </packagelist>
@@ -6053,9 +6055,9 @@
     </optionlist>
   </environment>
   <environment>
-    <id>basic-x-windows-environment</id>
+    <id>basic-x-window-environment</id>
     <_name>Basic X Window System</_name>
-    <_description>X Window System without a desktop environment.</_description>
+    <_description>X Window System without a full desktop environment.</_description>
     <display_order>70</display_order>
     <grouplist>
       <groupid>base-x</groupid>
@@ -6065,7 +6067,7 @@
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
       <groupid>multimedia</groupid>
-      <groupid>basic-x-windows-desktop</groupid>
+      <groupid>basic-x-window-desktop</groupid>
     </grouplist>
     <optionlist>
       <groupid>firefox</groupid>
