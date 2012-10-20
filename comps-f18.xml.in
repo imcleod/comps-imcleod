@@ -4277,7 +4277,7 @@
       <packagereq>mate-desktop</packagereq>
       <packagereq>mate-file-manager</packagereq>
       <packagereq>mate-notification-daemon</packagereq>
-      <packagereq>mate-backgrounds</packagereq>
+      <packagereq type="optional">mate-backgrounds</packagereq>
       <packagereq>mate-menus</packagereq>
       <packagereq>mate-window-manager</packagereq>
       <packagereq>mate-polkit</packagereq>
@@ -4288,6 +4288,7 @@
       <packagereq>mate-terminal</packagereq>
       <packagereq>mate-text-editor</packagereq>
       <packagereq>mate-themes</packagereq>
+      <packagereq>spherical-cow-backgrounds-single</packagereq>
       <packagereq>mate-conf-editor</packagereq>
       <packagereq>firstboot</packagereq>
       <packagereq>network-manager-applet</packagereq>
@@ -4303,6 +4304,9 @@
       <packagereq>NetworkManager-vpnc</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>xterm</packagereq>
+      <packagereq>gtk2-engines</packagereq>
+      <packagereq>alsamixergui</packagereq>
+      <packagereq type="optional">alsa-plugins-pulseaudio</packagereq>
       <packagereq>imsettings</packagereq>
      </packagelist>
    </group>
