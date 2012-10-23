@@ -1175,7 +1175,6 @@
       <packagereq>logrotate</packagereq>
       <packagereq>lsof</packagereq>
       <packagereq>mailcap</packagereq>
-      <packagereq>man-db</packagereq>
       <packagereq>ntsysv</packagereq>
       <packagereq>pciutils</packagereq>
       <packagereq>psacct</packagereq>
@@ -1408,6 +1407,8 @@
       <packagereq type="mandatory">iprutils</packagereq>
       <packagereq type="mandatory">iputils</packagereq>
       <packagereq type="mandatory">kbd</packagereq>
+      <packagereq type="mandatory">less</packagereq>
+      <packagereq type="mandatory">man-db</packagereq>
       <packagereq type="mandatory">ncurses</packagereq>
       <packagereq type="mandatory">openssh-clients</packagereq>
       <packagereq type="mandatory">openssh-server</packagereq>
