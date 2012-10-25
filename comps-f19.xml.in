@@ -2775,6 +2775,7 @@
       <packagereq type="optional">sil-gentium-basic-fonts</packagereq>
       <packagereq type="optional">sil-gentium-fonts</packagereq>
       <packagereq type="optional">sil-lateef-fonts</packagereq>
+      <packagereq type="optional">sil-mingzat-fonts</packagereq>
       <packagereq type="optional">sil-nuosu-fonts</packagereq>
       <packagereq type="optional">sil-scheherazade-fonts</packagereq>
       <packagereq type="optional">silkscreen-expanded-fonts</packagereq>
@@ -4142,6 +4143,21 @@
       <packagereq type="default">compat-libstdc++-296</packagereq>
       <packagereq type="default">compat-libstdc++-33</packagereq>
       <packagereq type="optional">compat-db</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>lepcha-support</id>
+    <_name>Lepcha Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>lep</langonly>
+    <packagelist>
+      <packagereq type="mandatory">sil-mingzat-fonts</packagereq>
+      <packagereq type="mandatory">m17n-contrib</packagereq>
+      <packagereq type="mandatory">m17n-db</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
   <group>
