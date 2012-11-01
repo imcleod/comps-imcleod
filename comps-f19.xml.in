@@ -4900,6 +4900,122 @@
     </packagelist>
   </group>
   <group>
+    <id>security-lab</id>
+    <_name>Security Lab</_name>
+    <_description>Tools for security auditing, forensics, system rescue, and teaching security testing methodologies.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">afftools</packagereq>
+      <packagereq type="default">aide</packagereq>
+      <packagereq type="default">aircrack-ng</packagereq>
+      <packagereq type="default">airsnort</packagereq>
+      <packagereq type="default">argus</packagereq>
+      <packagereq type="default">bkhive</packagereq>
+      <packagereq type="default">chkrootkit</packagereq>
+      <packagereq type="default">dc3dd</packagereq>
+      <packagereq type="default">ddrescue</packagereq>
+      <packagereq type="default">dnsenum</packagereq>
+      <packagereq type="default">dnsmap</packagereq>
+      <packagereq type="default">dsniff</packagereq>
+      <packagereq type="default">etherape</packagereq>
+      <packagereq type="default">ettercap</packagereq>
+      <packagereq type="default">ettercap-gtk</packagereq>
+      <packagereq type="default">examiner</packagereq>
+      <packagereq type="default">firewalk</packagereq>
+      <packagereq type="default">firstaidkit-gui</packagereq>
+      <packagereq type="default">firstaidkit-plugin-all</packagereq>
+      <packagereq type="default">flawfinder</packagereq>
+      <packagereq type="default">foremost</packagereq>
+      <packagereq type="default">gparted</packagereq>
+      <packagereq type="default">halberd</packagereq>
+      <packagereq type="default">hexedit</packagereq>
+      <packagereq type="default">horst</packagereq>
+      <packagereq type="default">hping3</packagereq>
+      <packagereq type="default">ht</packagereq>
+      <packagereq type="default">httping</packagereq>
+      <packagereq type="default">hunt</packagereq>
+      <packagereq type="default">iftop</packagereq>
+      <packagereq type="default">iptraf-ng</packagereq>
+      <packagereq type="default">irssi</packagereq>
+      <packagereq type="default">john</packagereq>
+      <packagereq type="default">kismet</packagereq>
+      <packagereq type="default">labrea</packagereq>
+      <packagereq type="default">lbd</packagereq>
+      <packagereq type="default">lynis</packagereq>
+      <packagereq type="default">macchanger</packagereq>
+      <packagereq type="default">mc</packagereq>
+      <packagereq type="default">medusa</packagereq>
+      <packagereq type="default">mutt</packagereq>
+      <packagereq type="default">nano</packagereq>
+      <packagereq type="default">nbtscan</packagereq>
+      <packagereq type="default">nc</packagereq>
+      <packagereq type="default">nc6</packagereq>
+      <packagereq type="default">ncrack</packagereq>
+      <packagereq type="default">nebula</packagereq>
+      <packagereq type="default">net-snmp</packagereq>
+      <packagereq type="default">netsniff-ng</packagereq>
+      <packagereq type="default">ngrep</packagereq>
+      <packagereq type="default">nikto</packagereq>
+      <packagereq type="default">nmap</packagereq>
+      <packagereq type="default">nmap-frontend</packagereq>
+      <packagereq type="default">ntfs-3g</packagereq>
+      <packagereq type="default">ntfsprogs</packagereq>
+      <packagereq type="default">nwipe</packagereq>
+      <packagereq type="default">openvas-client</packagereq>
+      <packagereq type="default">openvas-scanner</packagereq>
+      <packagereq type="default">ophcrack</packagereq>
+      <packagereq type="default">p0f</packagereq>
+      <packagereq type="default">packETH</packagereq>
+      <packagereq type="default">pads</packagereq>
+      <packagereq type="default">pcapdiff</packagereq>
+      <packagereq type="default">powertop</packagereq>
+      <packagereq type="default">pscan</packagereq>
+      <packagereq type="default">ratproxy</packagereq>
+      <packagereq type="default">rats</packagereq>
+      <packagereq type="default">rkhunter</packagereq>
+      <packagereq type="default">samdump2</packagereq>
+      <packagereq type="default">scamper</packagereq>
+      <packagereq type="default">scanmem</packagereq>
+      <packagereq type="default">scapy</packagereq>
+      <packagereq type="default">screen</packagereq>
+      <packagereq type="default">scrub</packagereq>
+      <packagereq type="default">sectool-gui</packagereq>
+      <packagereq type="default">security-menus</packagereq>
+      <packagereq type="default">sing</packagereq>
+      <packagereq type="default">sipp</packagereq>
+      <packagereq type="default">sipsak</packagereq>
+      <packagereq type="default">skipfish</packagereq>
+      <packagereq type="default">sleuthkit</packagereq>
+      <packagereq type="default">snmpcheck</packagereq>
+      <packagereq type="default">socat</packagereq>
+      <packagereq type="default">splint</packagereq>
+      <packagereq type="default">sqlninja</packagereq>
+      <packagereq type="default">srm</packagereq>
+      <packagereq type="default">ssldump</packagereq>
+      <packagereq type="default">sslscan</packagereq>
+      <packagereq type="default">sucrack</packagereq>
+      <packagereq type="default">tcpdump</packagereq>
+      <packagereq type="default">tcpflow</packagereq>
+      <packagereq type="default">tcpick</packagereq>
+      <packagereq type="default">tcpjunk</packagereq>
+      <packagereq type="default">tcpxtract</packagereq>
+      <packagereq type="default">testdisk</packagereq>
+      <packagereq type="default">unhide</packagereq>
+      <packagereq type="default">unicornscan</packagereq>
+      <packagereq type="default">uperf</packagereq>
+      <packagereq type="default">vim-enhanced</packagereq>
+      <packagereq type="default">wavemon</packagereq>
+      <packagereq type="default">weplab</packagereq>
+      <packagereq type="default">wget</packagereq>
+      <packagereq type="default">wireshark-gnome</packagereq>
+      <packagereq type="default">xmount</packagereq>
+      <packagereq type="default">xprobe2</packagereq>
+      <packagereq type="default">yersinia</packagereq>
+      <packagereq type="default">yum-utils</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>server-cfg</id>
     <_name>Server Configuration Tools</_name>
     <_description>This group contains all of Red Hat's custom server configuration tools.</_description>
