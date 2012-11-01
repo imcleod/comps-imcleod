@@ -1175,6 +1175,7 @@
       <packagereq>ed</packagereq>
       <packagereq>file</packagereq>
       <packagereq>firewalld</packagereq>
+      <packagereq>fpaste</packagereq>
       <packagereq>logrotate</packagereq>
       <packagereq>lsof</packagereq>
       <packagereq>mailcap</packagereq>
@@ -4283,7 +4284,7 @@
       <packagereq>mate-desktop</packagereq>
       <packagereq>mate-file-manager</packagereq>
       <packagereq>mate-notification-daemon</packagereq>
-      <packagereq type="optional">mate-backgrounds</packagereq>
+      <packagereq>mate-backgrounds</packagereq>
       <packagereq>mate-menus</packagereq>
       <packagereq>mate-window-manager</packagereq>
       <packagereq>mate-polkit</packagereq>
@@ -4312,8 +4313,12 @@
       <packagereq>xterm</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>alsamixergui</packagereq>
-      <packagereq type="optional">alsa-plugins-pulseaudio</packagereq>
       <packagereq>imsettings</packagereq>
+      <packagereq>imsettings-mate</packagereq>
+      <packagereq>adwaita-gtk3-theme</packagreq>
+      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>brasero</packagereq>
+      <packagereq>pidgin</packagereq>
      </packagelist>
    </group>
    <group>
