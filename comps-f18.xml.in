@@ -3643,6 +3643,7 @@
       <packagereq type="conditional" requires="lxde-common">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
       <packagereq type="conditional" requires="xfce4-panel">imsettings-xfce</packagereq>
+      <packagereq type="conditional" requires="mate-session-manager">imsettings-mate</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
       <packagereq type="default">ibus-chewing</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
@@ -4329,8 +4330,6 @@
       <packagereq>xterm</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>alsamixergui</packagereq>
-      <packagereq>imsettings</packagereq>
-      <packagereq>imsettings-mate</packagereq>
       <packagereq>adwaita-gtk3-theme</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>brasero</packagereq>
