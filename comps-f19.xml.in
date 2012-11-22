@@ -2754,11 +2754,7 @@
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
       <packagereq type="optional">pagul-fonts</packagereq>
       <packagereq type="optional">paktype-ajrak-fonts</packagereq>
-      <packagereq type="optional">paktype-naskh-basic-farsi-fonts</packagereq>
       <packagereq type="optional">paktype-naskh-basic-fonts</packagereq>
-      <packagereq type="optional">paktype-naskh-basic-sa-fonts</packagereq>
-      <packagereq type="optional">paktype-naskh-basic-sindhi-fonts</packagereq>
-      <packagereq type="optional">paktype-naskh-basic-urdu-fonts</packagereq>
       <packagereq type="optional">paktype-tehreer-fonts</packagereq>
       <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
       <packagereq type="optional">pothana2000-fonts</packagereq>
@@ -5088,7 +5084,7 @@
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
-      <packagereq type="mandatory">paktype-naskh-basic-sindhi-fonts</packagereq>
+      <packagereq type="mandatory">paktype-naskh-basic-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
@@ -5734,11 +5730,7 @@
       <packagereq type="optional">nafees-riqa-fonts</packagereq>
       <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
       <packagereq type="optional">paktype-ajrak-fonts</packagereq>
-      <packagereq type="optional">paktype-naskh-basic-farsi-fonts</packagereq>
       <packagereq type="optional">paktype-naskh-basic-fonts</packagereq>
-      <packagereq type="optional">paktype-naskh-basic-sa-fonts</packagereq>
-      <packagereq type="optional">paktype-naskh-basic-sindhi-fonts</packagereq>
-      <packagereq type="optional">paktype-naskh-basic-urdu-fonts</packagereq>
     </packagelist>
   </group>
   <group>
