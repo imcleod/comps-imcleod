@@ -4274,54 +4274,57 @@
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
-    <packagelist>
+    <packagelist>      
       <packagereq>abrt-desktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
+      <packagereq>clearlooks-compact-gnome-theme</packagereq>
       <packagereq>desktop-backgrounds-compat</packagereq>
-      <packagereq>mate-corba</packagereq>
-      <packagereq>libmatewnck</packagereq>
-      <packagereq>mate-conf</packagereq>
-      <packagereq>libmatecomponent</packagereq>
-      <packagereq>mate-mime-data</packagereq>
-      <packagereq>mate-vfs</packagereq>
-      <packagereq>libmate</packagereq>
-      <packagereq>libmatecomponentui</packagereq>
+      <packagereq>spherical-cow-backgrounds-single</packagereq>
+      <packagereq>mate-desktop</packagereq>
+      <packagereq>mate-desktop-libs</packagereq>
+      <packagereq>libmatenotify</packagereq>
       <packagereq>libmatekeyring</packagereq>
       <packagereq>mate-keyring</packagereq>
-      <packagereq>libmateui</packagereq>
-      <packagereq>libmatenotify</packagereq>
+      <packagereq>mate-keyring-pam</packagereq>
       <packagereq>libmatekbd</packagereq>
+      <packagereq>libmatewnck</packagereq>
       <packagereq>libmateweather</packagereq>
       <packagereq>mate-icon-theme</packagereq>
       <packagereq>mate-dialogs</packagereq>
-      <packagereq>mate-desktop</packagereq>
       <packagereq>mate-file-manager</packagereq>
-      <packagereq>mate-notification-daemon</packagereq>
-      <packagereq>mate-backgrounds</packagereq>
-      <packagereq>mate-menus</packagereq>
-      <packagereq>mate-window-manager</packagereq>
+      <packagereq>mate-file-manager-extensions</packagereq>
+      <packagereq>mate-file-manager-open-terminal</packagereq>
       <packagereq>mate-polkit</packagereq>
+      <packagereq>mate-window-manager</packagereq>
       <packagereq>mate-settings-daemon</packagereq>
-      <packagereq>mate-control-center</packagereq>
-      <packagereq>mate-panel</packagereq>
       <packagereq>mate-session-manager</packagereq>
-      <packagereq>mate-terminal</packagereq>
+      <packagereq>mate-menus</packagereq>
+      <packagereq>mate-panel</packagereq>
+      <packagereq>mate-backgrounds</packagereq>
+      <packagereq>mate-themes</packagereq>
+      <packagereq>mate-notification-daemon</packagereq>
+      <packagereq>mate-image-viewer</packagereq>
+      <packagereq>mate-control-center</packagereq>
+      <packagereq>mate-screensaver</packagereq>
+      <packagereq>mate-file-archiver</packagereq>
+      <packagereq>mate-media</packagereq>
+      <packagereq>mate-power-manager</packagereq>
+      <packagereq>mate-system-monitor</packagereq>
+      <packagereq>mate-calc</packagereq>
+      <packagereq>mate-utils</packagereq>
       <packagereq>mate-text-editor</packagereq>
       <packagereq>mate-system-log</packagereq>
-      <packagereq>mate-themes</packagereq>
-      <packagereq>spherical-cow-backgrounds-single</packagereq>
+      <packagereq>mate-terminal</packagereq>
+      <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-conf-editor</packagereq>
+      <packagereq>gvfs</packagereq>
+      <packagereq>gvfs-smb</packagereq>
+      <packagereq>gvfs-fuse</packagereq>
       <packagereq>firstboot</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>lightdm-gtk</packagereq>
-      <packagereq>mate-utils</packagereq>
-      <packagereq>mate-screensaver</packagereq>
-      <packagereq>mate-image-viewer</packagereq>
-      <packagereq>mate-media</packagereq>
-      <packagereq>mate-file-manager-open-terminal</packagereq>
-      <packagereq>mate-power-manager</packagereq>
       <packagereq>yumex</packagereq>
       <packagereq>ConsoleKit-x11</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>
@@ -4336,7 +4339,7 @@
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>brasero</packagereq>
       <packagereq>pidgin</packagereq>
-     </packagelist>
+    </packagelist>
    </group>
    <group>
     <id>marathi-support</id>
