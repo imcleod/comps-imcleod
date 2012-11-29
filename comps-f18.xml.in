@@ -278,16 +278,6 @@
       <packagereq>ksshaskpass</packagereq>
       <packagereq>ksysguard</packagereq>
       <packagereq>ktorrent</packagereq>
-      <packagereq>ktp-accounts-kcm</packagereq>
-      <packagereq>ktp-approver</packagereq>
-      <packagereq>ktp-auth-handler</packagereq>
-      <packagereq>ktp-contact-applet</packagereq>
-      <packagereq>ktp-contact-list</packagereq>
-      <packagereq>ktp-filetransfer-handler</packagereq>
-      <packagereq>ktp-kded-integration-module</packagereq>
-      <packagereq>ktp-presence-applet</packagereq>
-      <packagereq>ktp-send-file</packagereq>
-      <packagereq>ktp-text-ui</packagereq>
       <packagereq>kwallet</packagereq>
       <packagereq>kwebkitpart</packagereq>
       <packagereq>kwrite</packagereq>
@@ -379,6 +369,25 @@
       <packagereq>calligra-sheets</packagereq>
       <packagereq>calligra-stage</packagereq>
       <packagereq>calligra-words</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kde-telepathy</id>
+    <_name>KDE Telepathy</_name>
+    <_description>KDE Telepathy applications</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>ktp-accounts-kcm</packagereq>
+      <packagereq>ktp-approver</packagereq>
+      <packagereq>ktp-auth-handler</packagereq>
+      <packagereq>ktp-contact-applet</packagereq>
+      <packagereq>ktp-contact-list</packagereq>
+      <packagereq>ktp-filetransfer-handler</packagereq>
+      <packagereq>ktp-kded-integration-module</packagereq>
+      <packagereq>ktp-presence-applet</packagereq>
+      <packagereq>ktp-send-file</packagereq>
+      <packagereq>ktp-text-ui</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5881,6 +5890,7 @@
       <groupid>kde-education</groupid>
       <groupid>kde-media</groupid>
       <groupid>kde-office</groupid>
+      <groupid>kde-telepathy</groupid>
     </optionlist>
   </environment>
   <environment>
