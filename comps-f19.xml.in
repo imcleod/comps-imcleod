@@ -677,13 +677,16 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>adwaita-cursor-theme</packagereq>
+      <packagereq>adwaita-gtk2-theme</packagereq>
+      <packagereq>adwaita-gtk3-theme</packagereq>
       <packagereq>awesome</packagereq>
       <packagereq>blackbox</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firstboot</packagereq>
       <packagereq>gnome-icon-theme-symbolic</packagereq>
       <packagereq>jwm</packagereq>
-      <packagereq>lxdm</packagereq>
+      <packagereq>lightdm</packagereq>
       <packagereq>metacity</packagereq>
       <packagereq>pekwm</packagereq>
       <packagereq>ratpoison</packagereq>
