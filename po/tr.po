@@ -6,20 +6,20 @@
 # Dimitris Glezos <glezos@indifex.com>, 2011.
 # Egemen Metin Turan <mturan@aegee-ankara.org>, 2006, 2007.
 # Hasan Alp İNAN <hasanalpinan@gmail.com>, 2011.
+# Necdet Yücel <necdetyucel@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-10 14:21-0400\n"
-"PO-Revision-Date: 2012-04-10 18:22+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Turkish (http://www.transifex.net/projects/p/fedora/language/"
-"tr/)\n"
-"Language: tr\n"
+"PO-Revision-Date: 2012-06-11 07:42+0000\n"
+"Last-Translator: Necdet Yücel <necdetyucel@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/fedora/language/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1
 #: ../comps-f18.xml.in.h:1 ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
@@ -29,11 +29,9 @@ msgstr "Yönetim Araçları"
 #: ../comps-f15.xml.in.h:2 ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2
 #: ../comps-f18.xml.in.h:2 ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
-msgstr ""
-"Bu grup, kullanıcı hesaplarının yönetimi ve donanım yapılandırması gibi "
-"sistem yönetimi araçlarının grafik ortamda çalışanlarını içerir."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
+msgstr "Bu grup, kullanıcı hesaplarının yönetimi ve donanım yapılandırması gibi sistem yönetimi araçlarının grafik ortamda çalışanlarını içerir."
 
 #: ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3
 #: ../comps-el6.xml.in.h:3
@@ -90,9 +88,7 @@ msgstr "Yazım ve Yayım"
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
-msgstr ""
-"Bu araçlar DocBook biçeminde belgeler oluşturabilmenizi ve onları HTML, PDF, "
-"Postscript ve metin biçimlere dönüştürebilmenizi mümkün kılar."
+msgstr "Bu araçlar DocBook biçeminde belgeler oluşturabilmenizi ve onları HTML, PDF, Postscript ve metin biçimlere dönüştürebilmenizi mümkün kılar."
 
 #: ../comps-f15.xml.in.h:14 ../comps-f16.xml.in.h:14 ../comps-f17.xml.in.h:14
 #: ../comps-el6.xml.in.h:9
@@ -109,9 +105,7 @@ msgstr "Temel"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr ""
-"Bu grup minimum paket setini içerir. Örneğin: Küçük yönlendirici/güvenlik "
-"duvarı kurulumları için ugundur."
+msgstr "Bu grup minimum paket setini içerir. Örneğin: Küçük yönlendirici/güvenlik duvarı kurulumları için ugundur."
 
 #: ../comps-f15.xml.in.h:17 ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:17
 #: ../comps-f18.xml.in.h:9 ../comps-el4.xml.in.h:9 ../comps-el5.xml.in.h:9
@@ -123,8 +117,7 @@ msgstr "X Pencere Sistemi"
 #: ../comps-f18.xml.in.h:10 ../comps-el4.xml.in.h:10 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr ""
-"Temel Grafik Kullanıcı (X) Arayüzü kullanılacaksa bu paket grubunu kurun."
+msgstr "Temel Grafik Kullanıcı (X) Arayüzü kullanılacaksa bu paket grubunu kurun."
 
 #: ../comps-f15.xml.in.h:19 ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:19
 #: ../comps-el6.xml.in.h:18
@@ -260,8 +253,8 @@ msgstr ""
 #: ../comps-f15.xml.in.h:45 ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:48
 #: ../comps-f18.xml.in.h:32
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 
 #: ../comps-f15.xml.in.h:46 ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:49
@@ -335,10 +328,9 @@ msgstr "Geliştirme Kütüphaneleri"
 #: ../comps-f15.xml.in.h:58 ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:61
 #: ../comps-f18.xml.in.h:44
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
-msgstr ""
-"Bu gruptaki paketler yazılım geliştirme için gereken temel kütüphaneleri "
-"içerir."
+"The packages in this group are core libraries needed to develop "
+"applications."
+msgstr "Bu gruptaki paketler yazılım geliştirme için gereken temel kütüphaneleri içerir."
 
 #: ../comps-f15.xml.in.h:59 ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:62
 #: ../comps-f18.xml.in.h:45 ../comps-el4.xml.in.h:11 ../comps-el5.xml.in.h:14
@@ -350,9 +342,7 @@ msgstr "Geliştirme Araçları"
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr ""
-"Bu araçlar automake, gcc, perl, python, ve hata ayıklayıcılar gibi temel "
-"geliştirme araçlarını içerir."
+msgstr "Bu araçlar automake, gcc, perl, python, ve hata ayıklayıcılar gibi temel geliştirme araçlarını içerir."
 
 #: ../comps-f15.xml.in.h:61 ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:64
 #: ../comps-f18.xml.in.h:47 ../comps-el6.xml.in.h:54
@@ -378,9 +368,7 @@ msgstr "DNS İsim Sunucusu"
 #: ../comps-f18.xml.in.h:51
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr ""
-"Bu paket grubu sisteminizde DNS isim sunucusu (BIND) çalıştırabilmenizi "
-"mümkün kılar."
+msgstr "Bu paket grubu sisteminizde DNS isim sunucusu (BIND) çalıştırabilmenizi mümkün kılar."
 
 #: ../comps-f15.xml.in.h:66 ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:70
 #: ../comps-f18.xml.in.h:53
@@ -417,9 +405,7 @@ msgstr "Metin Düzenleyiciler"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr ""
-"Bu uygulamalar dosyaları oluşturmayı ve düzenlemeyi mümkün kılar ve "
-"genellikle metin düzenleyiciler olarak bilinirler. Emacs ve Vi bu ailedendir."
+msgstr "Bu uygulamalar dosyaları oluşturmayı ve düzenlemeyi mümkün kılar ve genellikle metin düzenleyiciler olarak bilinirler. Emacs ve Vi bu ailedendir."
 
 #: ../comps-f15.xml.in.h:73 ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:77
 #: ../comps-f18.xml.in.h:59 ../comps-el4.xml.in.h:16 ../comps-el5.xml.in.h:19
@@ -452,10 +438,7 @@ msgstr "Mühendislik ve Bilim"
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
-msgstr ""
-"Bu grup, matematiksel ve bilimsel hesaplamalar ve çizimlerden birim "
-"dönüşümlerine kadar çeşitli işlemleri yapabilmenizi sağlayan paketleri "
-"içerir."
+msgstr "Bu grup, matematiksel ve bilimsel hesaplamalar ve çizimlerden birim dönüşümlerine kadar çeşitli işlemleri yapabilmenizi sağlayan paketleri içerir."
 
 #: ../comps-f15.xml.in.h:79 ../comps-f16.xml.in.h:79 ../comps-f17.xml.in.h:83
 #: ../comps-el6.xml.in.h:69
@@ -596,9 +579,7 @@ msgstr "GNOME Masaüstü Ortamı"
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME, panel, masaüstü, sistem simgeleri ve grafik arayüzlü dosya yöneticisi "
-"içeren güçlü bir grafik kullanıcı arayüzüdür."
+msgstr "GNOME, panel, masaüstü, sistem simgeleri ve grafik arayüzlü dosya yöneticisi içeren güçlü bir grafik kullanıcı arayüzüdür."
 
 #: ../comps-f15.xml.in.h:106 ../comps-f16.xml.in.h:106
 #: ../comps-f17.xml.in.h:110 ../comps-f18.xml.in.h:83 ../comps-el4.xml.in.h:26
@@ -670,7 +651,7 @@ msgstr ""
 #: ../comps-f17.xml.in.h:121 ../comps-f18.xml.in.h:93
 #: ../comps-el6.xml.in.h:101
 msgid "Haskell"
-msgstr ""
+msgstr "Haskell"
 
 #: ../comps-f15.xml.in.h:118 ../comps-f16.xml.in.h:118
 #: ../comps-f17.xml.in.h:122 ../comps-f18.xml.in.h:94
@@ -960,7 +941,8 @@ msgstr "LXDE"
 #: ../comps-f17.xml.in.h:174 ../comps-f18.xml.in.h:127
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 
 #: ../comps-f15.xml.in.h:171 ../comps-f16.xml.in.h:171
@@ -978,8 +960,7 @@ msgstr "Posta Sunucusu"
 #: ../comps-f17.xml.in.h:177 ../comps-f18.xml.in.h:129
 #: ../comps-el4.xml.in.h:47 ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
-msgstr ""
-"Bu paketler, bir IMAP ya da SMTP sunucusu yapılandırmanınızı mümkün kılar."
+msgstr "Bu paketler, bir IMAP ya da SMTP sunucusu yapılandırmanınızı mümkün kılar."
 
 #: ../comps-f15.xml.in.h:174 ../comps-f16.xml.in.h:174
 #: ../comps-f17.xml.in.h:178 ../comps-f18.xml.in.h:130
@@ -1106,8 +1087,7 @@ msgstr "Haber Sunucu"
 #: ../comps-f17.xml.in.h:203 ../comps-f18.xml.in.h:148
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
-msgstr ""
-"Bu grup sisteminizi bir haber sunucusu olarak yapılandırmanızı mümkün kılar."
+msgstr "Bu grup sisteminizi bir haber sunucusu olarak yapılandırmanızı mümkün kılar."
 
 #: ../comps-f15.xml.in.h:197 ../comps-f16.xml.in.h:197
 #: ../comps-f17.xml.in.h:204
@@ -1127,7 +1107,7 @@ msgstr "Norveçce Desteği"
 #: ../comps-f15.xml.in.h:200 ../comps-f16.xml.in.h:200
 #: ../comps-f17.xml.in.h:207 ../comps-f18.xml.in.h:149
 msgid "OCaml"
-msgstr ""
+msgstr "OCaml"
 
 #: ../comps-f15.xml.in.h:201 ../comps-f16.xml.in.h:201
 #: ../comps-f17.xml.in.h:208 ../comps-f18.xml.in.h:150
@@ -1151,9 +1131,7 @@ msgstr "Büro/Verimlilik"
 #: ../comps-f17.xml.in.h:211 ../comps-f18.xml.in.h:152
 #: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
-msgstr ""
-"Büro uygulamalarını, PDF görüntüleyicileri ve benzerlerini içeren "
-"uygulamalar."
+msgstr "Büro uygulamalarını, PDF görüntüleyicileri ve benzerlerini içeren uygulamalar."
 
 #: ../comps-f15.xml.in.h:205 ../comps-f16.xml.in.h:205
 #: ../comps-f17.xml.in.h:212 ../comps-f18.xml.in.h:153
@@ -1207,9 +1185,7 @@ msgstr "Yazdırma Desteği"
 #: ../comps-f17.xml.in.h:221 ../comps-f18.xml.in.h:160
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr ""
-"Sistem bir yazdırma sunucusu olacaksa ya da yazdırmanın etkin olabilmesi "
-"için bu araçları kurun."
+msgstr "Sistem bir yazdırma sunucusu olacaksa ya da yazdırmanın etkin olabilmesi için bu araçları kurun."
 
 #: ../comps-f15.xml.in.h:215 ../comps-f16.xml.in.h:215
 #: ../comps-f17.xml.in.h:222 ../comps-f18.xml.in.h:161
@@ -1278,9 +1254,9 @@ msgstr "Sunucu Yapılandırma Araçları"
 
 #: ../comps-f15.xml.in.h:227 ../comps-f16.xml.in.h:227
 #: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:171
-msgid "This group contains all of Red Hat's custom server configuration tools."
-msgstr ""
-"Bu grup Red Hat'ın özel sunucu yapılandırma araçlarının tamamını içerir."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
+msgstr "Bu grup Red Hat'ın özel sunucu yapılandırma araçlarının tamamını içerir."
 
 #: ../comps-f15.xml.in.h:228 ../comps-f16.xml.in.h:228
 #: ../comps-f17.xml.in.h:236
@@ -1324,11 +1300,9 @@ msgstr "Windows Dosya Sunucusu"
 #: ../comps-f15.xml.in.h:235 ../comps-f16.xml.in.h:235
 #: ../comps-f17.xml.in.h:243 ../comps-f18.xml.in.h:178
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
-msgstr ""
-"Bu paket grubu Linux ile MS Windows (tm) sistemleri arasında dosya "
-"paylaşımını mümkün kılar."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
+msgstr "Bu paket grubu Linux ile MS Windows (tm) sistemleri arasında dosya paylaşımını mümkün kılar."
 
 #: ../comps-f15.xml.in.h:236 ../comps-f16.xml.in.h:236
 #: ../comps-f17.xml.in.h:244
@@ -1347,9 +1321,7 @@ msgstr "Ses ve Görüntü"
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr ""
-"Ses disklerinin ve çokluortam dosyalarının kaydından çalınmasına kadar, bu "
-"paket grubu sisteminizde ses ve görüntü çalışmaları yapmanızı mümkün kılar."
+msgstr "Ses disklerinin ve çokluortam dosyalarının kaydından çalınmasına kadar, bu paket grubu sisteminizde ses ve görüntü çalışmaları yapmanızı mümkün kılar."
 
 #: ../comps-f15.xml.in.h:239 ../comps-f16.xml.in.h:239
 #: ../comps-f17.xml.in.h:247 ../comps-el6.xml.in.h:222
@@ -1375,8 +1347,7 @@ msgstr "PostgreSQL Veritabanı"
 #: ../comps-f15.xml.in.h:243 ../comps-f16.xml.in.h:243
 #: ../comps-f17.xml.in.h:251 ../comps-f18.xml.in.h:183
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr ""
-"Bu paket grubu Postgresql ile kullanılabilecek gerekli paketleri içerir."
+msgstr "Bu paket grubu Postgresql ile kullanılabilecek gerekli paketleri içerir."
 
 #: ../comps-f15.xml.in.h:244 ../comps-f16.xml.in.h:244
 #: ../comps-f17.xml.in.h:252 ../comps-f18.xml.in.h:184
@@ -1415,9 +1386,7 @@ msgstr "Sistem Araçları"
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr ""
-"Bu grup, ağ trafiğini izlemek ve SMB paylaşımlarına bağlanmak gibi işlemler "
-"için gereken çeşitli sistem araçlarını içerir."
+msgstr "Bu grup, ağ trafiğini izlemek ve SMB paylaşımlarına bağlanmak gibi işlemler için gereken çeşitli sistem araçlarını içerir."
 
 #: ../comps-f15.xml.in.h:251 ../comps-f16.xml.in.h:251
 #: ../comps-f17.xml.in.h:259 ../comps-el6.xml.in.h:248
@@ -1458,9 +1427,7 @@ msgstr "Metin tabanlı İnternet"
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr ""
-"Bu grup metin tabanlı e-posta, Ağ ve sohbet istemcilerini içerir. Bu "
-"paketler X Pencere Sistemini gerektirmez."
+msgstr "Bu grup metin tabanlı e-posta, Ağ ve sohbet istemcilerini içerir. Bu paketler X Pencere Sistemini gerektirmez."
 
 #: ../comps-f15.xml.in.h:258 ../comps-f16.xml.in.h:258
 #: ../comps-f17.xml.in.h:266 ../comps-f18.xml.in.h:192
@@ -1569,8 +1536,7 @@ msgstr "Web Geliştirme"
 #: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:64
 msgid ""
 "These packages are helpful when developing web applications or web pages."
-msgstr ""
-"Bu paketler web uygulamaları veya web sayfaları geliştirmenize yardımcıdır."
+msgstr "Bu paketler web uygulamaları veya web sayfaları geliştirmenize yardımcıdır."
 
 #: ../comps-f15.xml.in.h:278 ../comps-f16.xml.in.h:278
 #: ../comps-f17.xml.in.h:288 ../comps-f18.xml.in.h:203
@@ -1611,8 +1577,7 @@ msgstr "X Yazılım Geliştirme"
 #: ../comps-f17.xml.in.h:294 ../comps-f18.xml.in.h:208
 msgid ""
 "These packages allow you to develop applications for the X Window System."
-msgstr ""
-"Bu paketler X Pencere Sistemi uygulamalarını geliştirebilmenizi mümkün kılar."
+msgstr "Bu paketler X Pencere Sistemi uygulamalarını geliştirebilmenizi mümkün kılar."
 
 #: ../comps-f15.xml.in.h:285 ../comps-f16.xml.in.h:285
 #: ../comps-f17.xml.in.h:295 ../comps-f18.xml.in.h:209
@@ -1661,8 +1626,8 @@ msgstr "Diller"
 #: ../comps-f15.xml.in.h:293 ../comps-f16.xml.in.h:293
 #: ../comps-f17.xml.in.h:303 ../comps-f18.xml.in.h:215
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr "Bu paketler çeşitli diller için yazı tipi ve girdi desteğini sağlar."
 
 #: ../comps-f15.xml.in.h:294 ../comps-f16.xml.in.h:294
@@ -1700,8 +1665,7 @@ msgstr "Geliştirme"
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
-msgstr ""
-"Uygulama geliştirmek ve oluşturmak için gerekli işlevleri sağlayan paketler."
+msgstr "Uygulama geliştirmek ve oluşturmak için gerekli işlevleri sağlayan paketler."
 
 #: ../comps-f15.xml.in.h:300 ../comps-f16.xml.in.h:300
 #: ../comps-f17.xml.in.h:310 ../comps-f18.xml.in.h:222
@@ -1790,9 +1754,7 @@ msgstr ""
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr ""
-"Bu araçlar Docbook biçiminde belgeler oluşturabilmenizi ve onları HTML, PDF, "
-"PS ve metin biçimlere dönüştürebilmenizi mümkün kılar."
+msgstr "Bu araçlar Docbook biçiminde belgeler oluşturabilmenizi ve onları HTML, PDF, PS ve metin biçimlere dönüştürebilmenizi mümkün kılar."
 
 #: ../comps-el4.xml.in.h:13 ../comps-el5.xml.in.h:16
 msgid "Dialup Networking Support"
@@ -1802,17 +1764,13 @@ msgstr "Çevirmeli Ağ Desteği"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr ""
-"Bu uygulamalar dosyaları oluşturmayı ve düzenlemeyi mümkün kılar ve "
-"genellikle metin düzenleyiciler olarak bilinirler. Emacs ve Vi bu ailedendir."
+msgstr "Bu uygulamalar dosyaları oluşturmayı ve düzenlemeyi mümkün kılar ve genellikle metin düzenleyiciler olarak bilinirler. Emacs ve Vi bu ailedendir."
 
 #: ../comps-el4.xml.in.h:25 ../comps-el5.xml.in.h:32
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME, bir panel, masaüstü, sistem simgeleri ve grafik arayüzlü dosya "
-"yöneticisi içeren güçlü bir grafik kullanıcı arayüzüdür."
+msgstr "GNOME, bir panel, masaüstü, sistem simgeleri ve grafik arayüzlü dosya yöneticisi içeren güçlü bir grafik kullanıcı arayüzüdür."
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:42
 msgid ""
@@ -1830,11 +1788,9 @@ msgstr "KDE (K Masaüstü Ortamı)"
 
 #: ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDE, bir panel, masaüstü, sistem simgeleri ve grafik arayüzlü dosya "
-"yöneticisi içeren güçlü bir grafik kullanıcı arayüzüdür."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
+msgstr "KDE, bir panel, masaüstü, sistem simgeleri ve grafik arayüzlü dosya yöneticisi içeren güçlü bir grafik kullanıcı arayüzüdür."
 
 #: ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -2067,8 +2023,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:110
@@ -2222,7 +2178,8 @@ msgid "Performance Tools"
 msgstr "Başarım Araçları"
 
 #: ../comps-el6.xml.in.h:183
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:184

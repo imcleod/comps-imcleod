@@ -4,25 +4,24 @@
 #
 # Translators:
 # Dimitris Glezos <glezos@indifex.com>, 2011.
-# Eunju Kim <eukim@redhat.com>, 2006, 2008, 2009.
+# Eunju Kim <eukim@redhat.com>, 2006,2008-2009.
 # Eun-Ju Kim <eukim@redhat.com>, 2012.
 # Michelle Ji Yeen Kim <mkim@redhat.com>, 2005.
-# Michelle J Kim <mkim@redhat.com>, 2003, 2004.
+# Michelle J Kim <mkim@redhat.com>, 2003-2004.
 # Michelle Kim <mkim@redhat.com>, 2002.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-10 14:21-0400\n"
-"PO-Revision-Date: 2012-04-10 18:22+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Korean (http://www.transifex.net/projects/p/fedora/language/"
-"ko/)\n"
-"Language: ko\n"
+"PO-Revision-Date: 2012-09-26 13:56+0000\n"
+"Last-Translator: eukim <eukim@redhat.com>\n"
+"Language-Team: Korean (http://www.transifex.com/projects/p/fedora/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1
 #: ../comps-f18.xml.in.h:1 ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
@@ -32,11 +31,9 @@ msgstr "관리 도구"
 #: ../comps-f15.xml.in.h:2 ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2
 #: ../comps-f18.xml.in.h:2 ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
-msgstr ""
-"이 그룹은 사용자 계정을 관리하고 시스템 하드웨어를 설정하는 그래픽 시스템 관"
-"리 도구 모음입니다. "
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
+msgstr "이 그룹은 사용자 계정을 관리하고 시스템 하드웨어를 설정하는 그래픽 시스템 관리 도구 모음입니다. "
 
 #: ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3
 #: ../comps-el6.xml.in.h:3
@@ -93,9 +90,7 @@ msgstr "제작과 출판"
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
-msgstr ""
-"이 도구를 사용하여 DocBook 형식의 문서를 생성할 수 있으며 생성된 문서를 "
-"HTML, PDF, Postscript와 텍스트 형식으로 변환할 수 있습니다."
+msgstr "이 도구를 사용하여 DocBook 형식의 문서를 생성할 수 있으며 생성된 문서를 HTML, PDF, Postscript와 텍스트 형식으로 변환할 수 있습니다."
 
 #: ../comps-f15.xml.in.h:14 ../comps-f16.xml.in.h:14 ../comps-f17.xml.in.h:14
 #: ../comps-el6.xml.in.h:9
@@ -112,9 +107,7 @@ msgstr "기본"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr ""
-"이 그룹은 최소 패키지 그룹을 포함합니다. 소형 라우터/방화벽과 같은 시스템을 "
-"생성하는데 유용합니다."
+msgstr "이 그룹은 최소 패키지 그룹을 포함합니다. 소형 라우터/방화벽과 같은 시스템을 생성하는데 유용합니다."
 
 #: ../comps-f15.xml.in.h:17 ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:17
 #: ../comps-f18.xml.in.h:9 ../comps-el4.xml.in.h:9 ../comps-el5.xml.in.h:9
@@ -126,9 +119,7 @@ msgstr "X 윈도우 시스템"
 #: ../comps-f18.xml.in.h:10 ../comps-el4.xml.in.h:10 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr ""
-"기본 그래픽 (X) 사용자 인터페이스를 사용하시려면 이 패키지 그룹을 설치하십시"
-"오."
+msgstr "기본 그래픽 (X) 사용자 인터페이스를 사용하시려면 이 패키지 그룹을 설치하십시오."
 
 #: ../comps-f15.xml.in.h:19 ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:19
 #: ../comps-el6.xml.in.h:18
@@ -254,9 +245,7 @@ msgstr "Critical Path (기초) "
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr ""
-"전체 Fedora 제품에서 Critical Path 기능에 대해 공유 플랫폼을 제공하는 패키지 "
-"집합입니다. "
+msgstr "전체 Fedora 제품에서 Critical Path 기능에 대해 공유 플랫폼을 제공하는 패키지 집합입니다. "
 
 #: ../comps-f15.xml.in.h:44 ../comps-f16.xml.in.h:44 ../comps-f17.xml.in.h:47
 #: ../comps-f18.xml.in.h:31
@@ -266,8 +255,8 @@ msgstr "Critical Path (GNOME)"
 #: ../comps-f15.xml.in.h:45 ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:48
 #: ../comps-f18.xml.in.h:32
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr "GNOME 데스크탑에 Critical Path 기능을 제공하는 패키지 집합입니다. "
 
 #: ../comps-f15.xml.in.h:46 ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:49
@@ -341,9 +330,9 @@ msgstr "개발용 라이브러리"
 #: ../comps-f15.xml.in.h:58 ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:61
 #: ../comps-f18.xml.in.h:44
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
-msgstr ""
-"이 패키지 그룹은 응용 프로그램을 개발하는데 필요한 핵심 라이브러리입니다."
+"The packages in this group are core libraries needed to develop "
+"applications."
+msgstr "이 패키지 그룹은 응용 프로그램을 개발하는데 필요한 핵심 라이브러리입니다."
 
 #: ../comps-f15.xml.in.h:59 ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:62
 #: ../comps-f18.xml.in.h:45 ../comps-el4.xml.in.h:11 ../comps-el5.xml.in.h:14
@@ -355,9 +344,7 @@ msgstr "개발용 도구"
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr ""
-"이 도구에는 automake, gcc, perl, python, 디버거와 같은 핵심 개발 도구를포함하"
-"고 있습니다."
+msgstr "이 도구에는 automake, gcc, perl, python, 디버거와 같은 핵심 개발 도구를포함하고 있습니다."
 
 #: ../comps-f15.xml.in.h:61 ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:64
 #: ../comps-f18.xml.in.h:47 ../comps-el6.xml.in.h:54
@@ -383,9 +370,7 @@ msgstr "DNS 이름 서버"
 #: ../comps-f18.xml.in.h:51
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr ""
-"이 패키지 그룹을 사용하여 시스템 상에서 DNS 네임 서버 (BIND)를 운영하실 수 있"
-"습니다."
+msgstr "이 패키지 그룹을 사용하여 시스템 상에서 DNS 네임 서버 (BIND)를 운영하실 수 있습니다."
 
 #: ../comps-f15.xml.in.h:66 ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:70
 #: ../comps-f18.xml.in.h:53
@@ -422,9 +407,7 @@ msgstr "편집기"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr ""
-"가끔씩 텍스트 편집기라고도 불리우는 이 프로그램은 텍스트 파일을 생성하고 편집"
-"하는데 사용됩니다. 이러한 프로그램에는 Emacs와 Vi가 포함됩니다."
+msgstr "가끔씩 텍스트 편집기라고도 불리우는 이 프로그램은 텍스트 파일을 생성하고 편집하는데 사용됩니다. 이러한 프로그램에는 Emacs와 Vi가 포함됩니다."
 
 #: ../comps-f15.xml.in.h:73 ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:77
 #: ../comps-f18.xml.in.h:59 ../comps-el4.xml.in.h:16 ../comps-el5.xml.in.h:19
@@ -457,9 +440,7 @@ msgstr "공학과 과학"
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
-msgstr ""
-"이 그룹은 단위 변환 기능을 비롯 수학 계산과 과학 계산을 수행하고 출력하는 패"
-"키지를 포함합니다."
+msgstr "이 그룹은 단위 변환 기능을 비롯 수학 계산과 과학 계산을 수행하고 출력하는 패키지를 포함합니다."
 
 #: ../comps-f15.xml.in.h:79 ../comps-f16.xml.in.h:79 ../comps-f17.xml.in.h:83
 #: ../comps-el6.xml.in.h:69
@@ -522,8 +503,7 @@ msgstr "글꼴 디자인 및 패키징 "
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
-msgstr ""
-"이 그룹은 글꼴 디자인, 수정, 조정 및 패키징에 사용되는 도구 모음입니다.  "
+msgstr "이 그룹은 글꼴 디자인, 수정, 조정 및 패키징에 사용되는 도구 모음입니다.  "
 
 #: ../comps-f15.xml.in.h:91 ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:95
 #: ../comps-f18.xml.in.h:73 ../comps-el6.xml.in.h:78
@@ -601,9 +581,7 @@ msgstr "GNOME 데스크탑 환경"
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME은 강력한 그래픽 사용자 인터페이스로서 패널, 데스크탑, 시스템 아이콘과 "
-"그래픽 파일 관리자 기능을 갖추고 있습니다."
+msgstr "GNOME은 강력한 그래픽 사용자 인터페이스로서 패널, 데스크탑, 시스템 아이콘과 그래픽 파일 관리자 기능을 갖추고 있습니다."
 
 #: ../comps-f15.xml.in.h:106 ../comps-f16.xml.in.h:106
 #: ../comps-f17.xml.in.h:110 ../comps-f18.xml.in.h:83 ../comps-el4.xml.in.h:26
@@ -617,8 +595,7 @@ msgstr "GNOME 소프트웨어 개발"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr ""
-"GTK+와 GNOME용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
+msgstr "GTK+와 GNOME용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
 
 #: ../comps-f15.xml.in.h:108 ../comps-f16.xml.in.h:108
 #: ../comps-f17.xml.in.h:112 ../comps-f18.xml.in.h:85 ../comps-el4.xml.in.h:28
@@ -811,10 +788,7 @@ msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
-msgstr ""
-"KDE SC에는 패널, 데스크탑, 시스템 아이콘, 데스크탑 위젯, 여러 강력한 KDE 애플"
-"리케이션이 포함된 고도로 설정 가능한 그래픽 사용자 인터페이스인 KDE Plasma 데"
-"스크탑이 포함되어 있습니다. "
+msgstr "KDE SC에는 패널, 데스크탑, 시스템 아이콘, 데스크탑 위젯, 여러 강력한 KDE 애플리케이션이 포함된 고도로 설정 가능한 그래픽 사용자 인터페이스인 KDE Plasma 데스크탑이 포함되어 있습니다. "
 
 #: ../comps-f15.xml.in.h:142 ../comps-f16.xml.in.h:142
 #: ../comps-f17.xml.in.h:146 ../comps-f18.xml.in.h:109
@@ -826,8 +800,7 @@ msgstr "KDE 소프트웨어 개발"
 #: ../comps-f17.xml.in.h:147 ../comps-f18.xml.in.h:110
 #: ../comps-el4.xml.in.h:45 ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr ""
-"QT와 KDE용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
+msgstr "QT와 KDE용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
 
 #: ../comps-f15.xml.in.h:144 ../comps-f16.xml.in.h:144
 #: ../comps-f17.xml.in.h:148 ../comps-f18.xml.in.h:111
@@ -898,9 +871,7 @@ msgstr "레거시 네트워크 서버"
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr ""
-"이 패키지에는 rsh와 telnet과 같은 구식 네트워크 프로토콜에 사용되는 서버가 포"
-"함되어 있습니다."
+msgstr "이 패키지에는 rsh와 telnet과 같은 구식 네트워크 프로토콜에 사용되는 서버가 포함되어 있습니다."
 
 #: ../comps-f15.xml.in.h:157 ../comps-f16.xml.in.h:157
 #: ../comps-f17.xml.in.h:161 ../comps-f18.xml.in.h:120
@@ -972,10 +943,9 @@ msgstr "LXDE"
 #: ../comps-f17.xml.in.h:174 ../comps-f18.xml.in.h:127
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-msgstr ""
-"LXDE는 넷북 및 모바일 장치와 구형 컴퓨터와 같은 낮은 사양의 하드웨어를 갖는 "
-"컴퓨터를 위해 설계된 경량 X11 데스크탑 환경입니다. "
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
+msgstr "LXDE는 넷북 및 모바일 장치와 구형 컴퓨터와 같은 낮은 사양의 하드웨어를 갖는 컴퓨터를 위해 설계된 경량 X11 데스크탑 환경입니다. "
 
 #: ../comps-f15.xml.in.h:171 ../comps-f16.xml.in.h:171
 #: ../comps-f17.xml.in.h:175 ../comps-el6.xml.in.h:147
@@ -1069,9 +1039,7 @@ msgstr "MinGW 크로스 컴파일러 "
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
-msgstr ""
-"Fedora 내의 32 비트 윈도우 대상, 테스트 및 설치 프로그램 구축에서 크로스 컴파"
-"일 프로그램을 위한 지원  "
+msgstr "Fedora 내의 32 비트 윈도우 대상, 테스트 및 설치 프로그램 구축에서 크로스 컴파일 프로그램을 위한 지원  "
 
 #: ../comps-f15.xml.in.h:188 ../comps-f16.xml.in.h:188
 #: ../comps-f17.xml.in.h:195 ../comps-el6.xml.in.h:162
@@ -1109,9 +1077,7 @@ msgstr "네트워크 서버"
 #: ../comps-f17.xml.in.h:201 ../comps-f18.xml.in.h:146
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr ""
-"이 패키지에는 DHCP, Kerberos, NIS와 같은 네트워크-기반 서버가 포함되어 있습니"
-"다."
+msgstr "이 패키지에는 DHCP, Kerberos, NIS와 같은 네트워크-기반 서버가 포함되어 있습니다."
 
 #: ../comps-f15.xml.in.h:195 ../comps-f16.xml.in.h:195
 #: ../comps-f17.xml.in.h:202 ../comps-f18.xml.in.h:147
@@ -1150,9 +1116,7 @@ msgstr "OCaml"
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
-msgstr ""
-"Objective CAML 프로그래밍 언어 및 라이브러리를 사용하여 소프트웨어 개발 지"
-"원   "
+msgstr "Objective CAML 프로그래밍 언어 및 라이브러리를 사용하여 소프트웨어 개발 지원   "
 
 #: ../comps-f15.xml.in.h:202 ../comps-f16.xml.in.h:202
 #: ../comps-f17.xml.in.h:209 ../comps-el6.xml.in.h:178
@@ -1169,8 +1133,7 @@ msgstr "Office/제품 도구  "
 #: ../comps-f17.xml.in.h:211 ../comps-f18.xml.in.h:152
 #: ../comps-el4.xml.in.h:53 ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
-msgstr ""
-"이 응용 프로그램은 office 프로그램 모음, PDF 보기 프로그램 등을 포함합니다. "
+msgstr "이 응용 프로그램은 office 프로그램 모음, PDF 보기 프로그램 등을 포함합니다. "
 
 #: ../comps-f15.xml.in.h:205 ../comps-f16.xml.in.h:205
 #: ../comps-f17.xml.in.h:212 ../comps-f18.xml.in.h:153
@@ -1224,8 +1187,7 @@ msgstr "인쇄 지원"
 #: ../comps-f17.xml.in.h:221 ../comps-f18.xml.in.h:160
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr ""
-"시스템에서 인쇄 하거나 프린트 서버로 사용 하시려면 이 도구를 설치하십시오."
+msgstr "시스템에서 인쇄 하거나 프린트 서버로 사용 하시려면 이 도구를 설치하십시오."
 
 #: ../comps-f15.xml.in.h:215 ../comps-f16.xml.in.h:215
 #: ../comps-f17.xml.in.h:222 ../comps-f18.xml.in.h:161
@@ -1294,9 +1256,9 @@ msgstr "서버 설정 도구"
 
 #: ../comps-f15.xml.in.h:227 ../comps-f16.xml.in.h:227
 #: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:171
-msgid "This group contains all of Red Hat's custom server configuration tools."
-msgstr ""
-"이 그룹에는 Red Hat의 사용자 설정 서버 설정 도구를 모두 포함하고 있습니다."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
+msgstr "이 그룹에는 Red Hat의 사용자 설정 서버 설정 도구를 모두 포함하고 있습니다."
 
 #: ../comps-f15.xml.in.h:228 ../comps-f16.xml.in.h:228
 #: ../comps-f17.xml.in.h:236
@@ -1340,11 +1302,9 @@ msgstr "Windows 파일 서버"
 #: ../comps-f15.xml.in.h:235 ../comps-f16.xml.in.h:235
 #: ../comps-f17.xml.in.h:243 ../comps-f18.xml.in.h:178
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
-msgstr ""
-"이 패키지 그룹을 사용하여 Linux와 MS Windows (tm) 시스템 사이에 파일을 공유"
-"할 수 있습니다."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
+msgstr "이 패키지 그룹을 사용하여 Linux와 MS Windows (tm) 시스템 사이에 파일을 공유할 수 있습니다."
 
 #: ../comps-f15.xml.in.h:236 ../comps-f16.xml.in.h:236
 #: ../comps-f17.xml.in.h:244
@@ -1363,9 +1323,7 @@ msgstr "사운드와 비디오"
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr ""
-"이 패키지 그룹을 사용하여 CD 녹음에서 오디오 CD 및 멀티미디어 파일 재생에 이"
-"르기까지 다양한 사운드와 비디오 작업을 수행하실 수 있습니다."
+msgstr "이 패키지 그룹을 사용하여 CD 녹음에서 오디오 CD 및 멀티미디어 파일 재생에 이르기까지 다양한 사운드와 비디오 작업을 수행하실 수 있습니다."
 
 #: ../comps-f15.xml.in.h:239 ../comps-f16.xml.in.h:239
 #: ../comps-f17.xml.in.h:247 ../comps-el6.xml.in.h:222
@@ -1430,9 +1388,7 @@ msgstr "시스템 도구"
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr ""
-"이 그룹은 SMB 공유에 접속하는데 사용하는 클라이언트와 네트워크 소통량모니터 "
-"도구와 같은 다양한 시스템 도구 모음입니다."
+msgstr "이 그룹은 SMB 공유에 접속하는데 사용하는 클라이언트와 네트워크 소통량모니터 도구와 같은 다양한 시스템 도구 모음입니다."
 
 #: ../comps-f15.xml.in.h:251 ../comps-f16.xml.in.h:251
 #: ../comps-f17.xml.in.h:259 ../comps-el6.xml.in.h:248
@@ -1473,9 +1429,7 @@ msgstr "텍스트-기반 인터넷"
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr ""
-"이 그릅에는 텍스트-기반 이메일, 웹, 채팅 클라이언트가 포함되어 있습니다. X 윈"
-"도우 시스템이 없어도 작동합니다."
+msgstr "이 그릅에는 텍스트-기반 이메일, 웹, 채팅 클라이언트가 포함되어 있습니다. X 윈도우 시스템이 없어도 작동합니다."
 
 #: ../comps-f15.xml.in.h:258 ../comps-f16.xml.in.h:258
 #: ../comps-f17.xml.in.h:266 ../comps-f18.xml.in.h:192
@@ -1649,8 +1603,7 @@ msgstr "XFCE 소프트웨어 개발 "
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
-msgstr ""
-"GTK+와 GNOME용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
+msgstr "GTK+와 GNOME용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
 
 #: ../comps-f15.xml.in.h:289 ../comps-f16.xml.in.h:289
 #: ../comps-f17.xml.in.h:299 ../comps-el6.xml.in.h:291
@@ -1675,8 +1628,8 @@ msgstr "언어 지원"
 #: ../comps-f15.xml.in.h:293 ../comps-f16.xml.in.h:293
 #: ../comps-f17.xml.in.h:303 ../comps-f18.xml.in.h:215
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr "이 패키지는 다양한 로케일 (글꼴 및 입력 방식)을 지원합니다."
 
 #: ../comps-f15.xml.in.h:294 ../comps-f16.xml.in.h:294
@@ -1752,7 +1705,7 @@ msgstr "텍스트 및 다른 무료 콘텐츠  "
 
 #: ../comps-f17.xml.in.h:23 ../comps-f18.xml.in.h:14
 msgid "Bodo Support"
-msgstr ""
+msgstr "보도어 지원 "
 
 #: ../comps-f17.xml.in.h:36 ../comps-f18.xml.in.h:21
 msgid "Cloud Infrastructure"
@@ -1764,11 +1717,11 @@ msgstr "클라우드 컴퓨팅을 위한 기반 패키지 "
 
 #: ../comps-f17.xml.in.h:69 ../comps-f18.xml.in.h:52
 msgid "Dogri Support"
-msgstr ""
+msgstr "도그리어 지원 "
 
 #: ../comps-f17.xml.in.h:183 ../comps-f18.xml.in.h:132
 msgid "Manipuri Support"
-msgstr ""
+msgstr "마니푸리어 지원 "
 
 #: ../comps-f17.xml.in.h:187 ../comps-f18.xml.in.h:134
 msgid "Medical Applications"
@@ -1780,7 +1733,7 @@ msgstr "이는 건강 관리와 관련된 애플리케이션 그룹입니다. "
 
 #: ../comps-f17.xml.in.h:231 ../comps-f18.xml.in.h:168
 msgid "Santali Support"
-msgstr ""
+msgstr "산탈어 지원 "
 
 #: ../comps-f17.xml.in.h:281 ../comps-el6.xml.in.h:273
 msgid "Virtualization Client"
@@ -1788,11 +1741,11 @@ msgstr "가상화 클라이언트 "
 
 #: ../comps-f17.xml.in.h:283
 msgid "Virtualization Hypervisor"
-msgstr ""
+msgstr "가상화 하이퍼바이저 "
 
 #: ../comps-f17.xml.in.h:284
 msgid "Smallest possible virtualization host installation"
-msgstr ""
+msgstr "가능한 최소한의 가상화 호스트 설치 "
 
 #: ../comps-el4.xml.in.h:4 ../comps-el5.xml.in.h:4
 msgid ""
@@ -1803,9 +1756,7 @@ msgstr "이 그룹은 아랍어 환경에 대한 자료 및 도구 모음입니�
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr ""
-"이 도구를 사용하여 DocBook 형식의 문서를 생성할 수 있으며 생성된 문서를 "
-"HTML, PDF, Postscript와 텍스트 형식으로 변환할 수 있습니다."
+msgstr "이 도구를 사용하여 DocBook 형식의 문서를 생성할 수 있으며 생성된 문서를 HTML, PDF, Postscript와 텍스트 형식으로 변환할 수 있습니다."
 
 #: ../comps-el4.xml.in.h:13 ../comps-el5.xml.in.h:16
 msgid "Dialup Networking Support"
@@ -1815,17 +1766,13 @@ msgstr "전화연결 네트워킹 지원"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr ""
-"가끔씩 텍스트 편집기라고도 불리우는 이 프로그램은 파일을 생성하고 편집하는데 "
-"사용됩니다. 이러한 프로그램에는 Emacs와 Vi가 포함됩니다."
+msgstr "가끔씩 텍스트 편집기라고도 불리우는 이 프로그램은 파일을 생성하고 편집하는데 사용됩니다. 이러한 프로그램에는 Emacs와 Vi가 포함됩니다."
 
 #: ../comps-el4.xml.in.h:25 ../comps-el5.xml.in.h:32
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME은 강력한 그래픽 사용자 인터페이스로서 패널, 데스크탑, 시스템 아이콘과 "
-"그래픽 파일 관리자 기능을 갖추고 있습니다."
+msgstr "GNOME은 강력한 그래픽 사용자 인터페이스로서 패널, 데스크탑, 시스템 아이콘과 그래픽 파일 관리자 기능을 갖추고 있습니다."
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:42
 msgid ""
@@ -1843,11 +1790,9 @@ msgstr "KDE (K 데스크탑 환경)"
 
 #: ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDE는 강력한 그래픽 사용자 인터페이스로서 패널, 데스크탑, 시스템 아이콘과 그"
-"래픽 파일 관리자 기능을 갖추고 있습니다."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
+msgstr "KDE는 강력한 그래픽 사용자 인터페이스로서 패널, 데스크탑, 시스템 아이콘과 그래픽 파일 관리자 기능을 갖추고 있습니다."
 
 #: ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -1931,8 +1876,7 @@ msgstr "호환 라이브러리 "
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
-msgstr ""
-"이전 Enterprise Linux 버전에 빌드된 애플리케이션에 대한 호환 라이브러리 "
+msgstr "이전 Enterprise Linux 버전에 빌드된 애플리케이션에 대한 호환 라이브러리 "
 
 #: ../comps-el6.xml.in.h:36
 msgid "Console internet tools"
@@ -1954,9 +1898,7 @@ msgstr "디버깅 도구 "
 msgid ""
 "Tools for debugging misbehaving applications and diagnosing performance "
 "problems."
-msgstr ""
-"제대로 작동하지 않는 애플리케이션을 디버깅하고 성능 문제를 진단하기 위한 도"
-"구 "
+msgstr "제대로 작동하지 않는 애플리케이션을 디버깅하고 성능 문제를 진단하기 위한 도구 "
 
 #: ../comps-el6.xml.in.h:46
 msgid "Desktop Debugging and Performance Tools"
@@ -1982,9 +1924,7 @@ msgstr "데스크탑 플랫폼 개발 "
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
-msgstr ""
-"Enterprise Linux 데스크탑 플랫폼에서 실행하기 위해 애플리케이션 개발을 위한 "
-"개발 헤더 및 라이브러리 "
+msgstr "Enterprise Linux 데스크탑 플랫폼에서 실행하기 위해 애플리케이션 개발을 위한 개발 헤더 및 라이브러리 "
 
 #: ../comps-el6.xml.in.h:52
 msgid "Development tools"
@@ -2085,11 +2025,9 @@ msgstr "Infiniband 지원 "
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
-msgstr ""
-"RDMA 기반 InfiniBand 및 iWARP 패브릭을 사용하여 클러스터링 및 그리드 연결을 "
-"지원하기 위해 설계된 소프트웨어입니다. "
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
+msgstr "RDMA 기반 InfiniBand 및 iWARP 패브릭을 사용하여 클러스터링 및 그리드 연결을 지원하기 위해 설계된 소프트웨어입니다. "
 
 #: ../comps-el6.xml.in.h:110
 msgid "Software for the input of international text."
@@ -2163,9 +2101,7 @@ msgstr "기본 레거시 X Window 시스템 호환성 "
 msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
-msgstr ""
-"레거시 X Window 시스템 환경과 작동하고 이전하기 위한 최소한의 호환 프로그램 "
-"모음 "
+msgstr "레거시 X Window 시스템 환경과 작동하고 이전하기 위한 최소한의 호환 프로그램 모음 "
 
 #: ../comps-el6.xml.in.h:148
 msgid "E-mail server"
@@ -2244,7 +2180,8 @@ msgid "Performance Tools"
 msgstr "성능 도구 "
 
 #: ../comps-el6.xml.in.h:183
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr "시스템 및 애플리케이션 레벨 성능 문제를 진단하기 위한 도구 "
 
 #: ../comps-el6.xml.in.h:184
@@ -2332,9 +2269,7 @@ msgstr "서버 플랫폼 개발 "
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
-msgstr ""
-"Enterprise Linux 서버 플랫폼에서 실행하기 위해 애플리케이션 개발을 위한 개발 "
-"헤더 및 라이브러리 "
+msgstr "Enterprise Linux 서버 플랫폼에서 실행하기 위해 애플리케이션 개발을 위한 개발 헤더 및 라이브러리 "
 
 #: ../comps-el6.xml.in.h:214
 msgid "Server Policy"
@@ -2472,8 +2407,7 @@ msgstr "가상화 플랫폼 "
 msgid ""
 "Provides an interface for accessing and controlling virtualized guests and "
 "containers."
-msgstr ""
-"가상화 게스트와 컨테이너를 액세스 및 제어하기 위한 인터페이스를 제공합니다. "
+msgstr "가상화 게스트와 컨테이너를 액세스 및 제어하기 위한 인터페이스를 제공합니다. "
 
 #: ../comps-el6.xml.in.h:277
 msgid "Virtualization Tools"
@@ -2487,9 +2421,7 @@ msgstr "오프라인 가상 이미지 관리를 위한 도구 "
 msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
-msgstr ""
-"시스템이 웹 서버로 작동하거나 Perl 및 Python 웹 애플리케이션을 실행할 수 있"
-"게 합니다. "
+msgstr "시스템이 웹 서버로 작동하거나 Perl 및 Python 웹 애플리케이션을 실행할 수 있게 합니다. "
 
 #: ../comps-el6.xml.in.h:282
 msgid "Web Servlet Engine"

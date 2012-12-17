@@ -13,14 +13,14 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-10 14:21-0400\n"
-"PO-Revision-Date: 2012-04-10 18:22+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
+"PO-Revision-Date: 2012-04-14 20:20+0000\n"
+"Last-Translator: Valentin Laskov <laskov@festa.bg>\n"
 "Language-Team: Bulgarian <trans-bg@lists.fedoraproject.org>\n"
-"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../comps-f15.xml.in.h:1 ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1
 #: ../comps-f18.xml.in.h:1 ../comps-el4.xml.in.h:1 ../comps-el5.xml.in.h:1
@@ -30,12 +30,9 @@ msgstr "Административни инструменти"
 #: ../comps-f15.xml.in.h:2 ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2
 #: ../comps-f18.xml.in.h:2 ../comps-el4.xml.in.h:2 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
-msgstr ""
-"Тази група е колекция от графични инструменти за администриране на "
-"системата, като например управление на потребителските акаунти и настройка "
-"на системния хардуер."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
+msgstr "Тази група е колекция от графични инструменти за администриране на системата, като например управление на потребителските акаунти и настройка на системния хардуер."
 
 #: ../comps-f15.xml.in.h:3 ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3
 #: ../comps-el6.xml.in.h:3
@@ -92,9 +89,7 @@ msgstr "Авторство и публикации"
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
-msgstr ""
-"Тези инструменти позволяват създаването на документация в DocBook формат и "
-"конвертирането й в HTML, PDF, Postscript или текст."
+msgstr "Тези инструменти позволяват създаването на документация в DocBook формат и конвертирането й в HTML, PDF, Postscript или текст."
 
 #: ../comps-f15.xml.in.h:14 ../comps-f16.xml.in.h:14 ../comps-f17.xml.in.h:14
 #: ../comps-el6.xml.in.h:9
@@ -111,9 +106,7 @@ msgstr "Основа"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr ""
-"Тази група включва минималният набор от пакети. Полезен е примерно за "
-"създаване на малки системи за рутери/защитни стени."
+msgstr "Тази група включва минималният набор от пакети. Полезен е примерно за създаване на малки системи за рутери/защитни стени."
 
 #: ../comps-f15.xml.in.h:17 ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:17
 #: ../comps-f18.xml.in.h:9 ../comps-el4.xml.in.h:9 ../comps-el5.xml.in.h:9
@@ -125,9 +118,7 @@ msgstr "Система за прозорци Х"
 #: ../comps-f18.xml.in.h:10 ../comps-el4.xml.in.h:10 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr ""
-"Инсталирайте тази група пакети, за да използвате базовия графичен интерфейс "
-"(Х)."
+msgstr "Инсталирайте тази група пакети, за да използвате базовия графичен интерфейс (Х)."
 
 #: ../comps-f15.xml.in.h:19 ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:19
 #: ../comps-el6.xml.in.h:18
@@ -253,9 +244,7 @@ msgstr "Critical Path (Основа)"
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr ""
-"Комплект пакети, осигуряващ споделена платформа за функционалността Critical "
-"Path за всички разновидности на Fedora"
+msgstr "Комплект пакети, осигуряващ споделена платформа за функционалността Critical Path за всички разновидности на Fedora"
 
 #: ../comps-f15.xml.in.h:44 ../comps-f16.xml.in.h:44 ../comps-f17.xml.in.h:47
 #: ../comps-f18.xml.in.h:31
@@ -265,8 +254,8 @@ msgstr "Critical Path (GNOME)"
 #: ../comps-f15.xml.in.h:45 ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:48
 #: ../comps-f18.xml.in.h:32
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr "Комплект пакети, осигуряващ функционалността Critical Path за GNOME"
 
 #: ../comps-f15.xml.in.h:46 ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:49
@@ -279,9 +268,7 @@ msgstr "Critical Path (KDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr ""
-"Комплект от пакети, осигуряващи функционалността Critical Path за работната "
-"среда KDE"
+msgstr "Комплект от пакети, осигуряващи функционалността Critical Path за работната среда KDE"
 
 #: ../comps-f15.xml.in.h:48 ../comps-f16.xml.in.h:48 ../comps-f17.xml.in.h:51
 #: ../comps-f18.xml.in.h:35
@@ -293,9 +280,7 @@ msgstr "Critical Path (LXDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr ""
-"Комплект от пакети, осигуряващи функционалността Critical Path за работната "
-"среда LXDE"
+msgstr "Комплект от пакети, осигуряващи функционалността Critical Path за работната среда LXDE"
 
 #: ../comps-f15.xml.in.h:50 ../comps-f16.xml.in.h:50 ../comps-f17.xml.in.h:53
 #: ../comps-f18.xml.in.h:37
@@ -307,9 +292,7 @@ msgstr "Critical Path (Xfce)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
-msgstr ""
-"Комплект от пакети, осигуряващи функционалността Critical Path за работната "
-"среда Xfce"
+msgstr "Комплект от пакети, осигуряващи функционалността Critical Path за работната среда Xfce"
 
 #: ../comps-f15.xml.in.h:52 ../comps-f16.xml.in.h:52 ../comps-f17.xml.in.h:55
 #: ../comps-f18.xml.in.h:39 ../comps-el6.xml.in.h:41
@@ -336,8 +319,7 @@ msgstr "Комплект за дизайн"
 msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
-msgstr ""
-"Тези пакети са насочени към професионални дизайнери, като Fedora Design Team."
+msgstr "Тези пакети са насочени към професионални дизайнери, като Fedora Design Team."
 
 #: ../comps-f15.xml.in.h:57 ../comps-f16.xml.in.h:57 ../comps-f17.xml.in.h:60
 #: ../comps-f18.xml.in.h:43
@@ -347,10 +329,9 @@ msgstr "Библиотеки за разработка"
 #: ../comps-f15.xml.in.h:58 ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:61
 #: ../comps-f18.xml.in.h:44
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
-msgstr ""
-"Пакетите в тази група са основни библиотеки, нужни за разработката на "
-"приложения."
+"The packages in this group are core libraries needed to develop "
+"applications."
+msgstr "Пакетите в тази група са основни библиотеки, нужни за разработката на приложения."
 
 #: ../comps-f15.xml.in.h:59 ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:62
 #: ../comps-f18.xml.in.h:45 ../comps-el4.xml.in.h:11 ../comps-el5.xml.in.h:14
@@ -362,9 +343,7 @@ msgstr "Инструменти за разработка"
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr ""
-"Тези инструменти включват базови инструменти за разработка като automake, "
-"gcc, perl, python, както и дебъгери."
+msgstr "Тези инструменти включват базови инструменти за разработка като automake, gcc, perl, python, както и дебъгери."
 
 #: ../comps-f15.xml.in.h:61 ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:64
 #: ../comps-f18.xml.in.h:47 ../comps-el6.xml.in.h:54
@@ -390,8 +369,7 @@ msgstr "DNS сървър на имена"
 #: ../comps-f18.xml.in.h:51
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr ""
-"Тази група пакети позволява стартирането на DNS сървър за имена (BIND)."
+msgstr "Тази група пакети позволява стартирането на DNS сървър за имена (BIND)."
 
 #: ../comps-f15.xml.in.h:66 ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:70
 #: ../comps-f18.xml.in.h:53
@@ -428,9 +406,7 @@ msgstr "Редактори"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr ""
-"Понякога наричани текстови редактори, това са програми, позволяващи Ви да "
-"създавате и редактирате текстови файлове. Това включва Emacs и Vi."
+msgstr "Понякога наричани текстови редактори, това са програми, позволяващи Ви да създавате и редактирате текстови файлове. Това включва Emacs и Vi."
 
 #: ../comps-f15.xml.in.h:73 ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:77
 #: ../comps-f18.xml.in.h:59 ../comps-el4.xml.in.h:16 ../comps-el5.xml.in.h:19
@@ -463,9 +439,7 @@ msgstr "Инженерство и наука"
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
-msgstr ""
-"Тази група включва пакети за извършване на математически и научни "
-"изчисления, визуализиране и преобразуване на мерни единици."
+msgstr "Тази група включва пакети за извършване на математически и научни изчисления, визуализиране и преобразуване на мерни единици."
 
 #: ../comps-f15.xml.in.h:79 ../comps-f16.xml.in.h:79 ../comps-f17.xml.in.h:83
 #: ../comps-el6.xml.in.h:69
@@ -528,9 +502,7 @@ msgstr "Дизайн на шрифтове и пакетиране"
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
-msgstr ""
-"Тази група съдържа инструменти за дизайн, модифициране, манипулиране и "
-"пакетиране на шрифтове."
+msgstr "Тази група съдържа инструменти за дизайн, модифициране, манипулиране и пакетиране на шрифтове."
 
 #: ../comps-f15.xml.in.h:91 ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:95
 #: ../comps-f18.xml.in.h:73 ../comps-el6.xml.in.h:78
@@ -608,9 +580,7 @@ msgstr "GNOME десктоп среда"
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME е мощен графичен потребителски интерфейс, който включва панел, работен "
-"плот, системни икони и графичен файлов мениджър."
+msgstr "GNOME е мощен графичен потребителски интерфейс, който включва панел, работен плот, системни икони и графичен файлов мениджър."
 
 #: ../comps-f15.xml.in.h:106 ../comps-f16.xml.in.h:106
 #: ../comps-f17.xml.in.h:110 ../comps-f18.xml.in.h:83 ../comps-el4.xml.in.h:26
@@ -624,9 +594,7 @@ msgstr "GNOME разработка на софтуер"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr ""
-"Инсталирайте тези пакети, за да можете да разработвате графични приложения "
-"за GTK+ и GNOME."
+msgstr "Инсталирайте тези пакети, за да можете да разработвате графични приложения за GTK+ и GNOME."
 
 #: ../comps-f15.xml.in.h:108 ../comps-f16.xml.in.h:108
 #: ../comps-f17.xml.in.h:112 ../comps-f18.xml.in.h:85 ../comps-el4.xml.in.h:28
@@ -650,9 +618,7 @@ msgstr "Графични инструменти"
 #: ../comps-f17.xml.in.h:115 ../comps-f18.xml.in.h:88 ../comps-el4.xml.in.h:31
 #: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr ""
-"Тази група включва пакети, които подпомагат при манипулиране и сканиране на "
-"изображения."
+msgstr "Тази група включва пакети, които подпомагат при манипулиране и сканиране на изображения."
 
 #: ../comps-f15.xml.in.h:112 ../comps-f16.xml.in.h:112
 #: ../comps-f17.xml.in.h:116 ../comps-f18.xml.in.h:89 ../comps-el6.xml.in.h:95
@@ -821,10 +787,7 @@ msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
-msgstr ""
-"KDE SC включва KDE Plasma Desktop, високо конфигурируем графичен "
-"потребителски интерфейс, включващ панел, работна среда, системни икони и "
-"инструменти, всякакви много мощни KDE приложения."
+msgstr "KDE SC включва KDE Plasma Desktop, високо конфигурируем графичен потребителски интерфейс, включващ панел, работна среда, системни икони и инструменти, всякакви много мощни KDE приложения."
 
 #: ../comps-f15.xml.in.h:142 ../comps-f16.xml.in.h:142
 #: ../comps-f17.xml.in.h:146 ../comps-f18.xml.in.h:109
@@ -836,9 +799,7 @@ msgstr "KDE софтуерна разработка"
 #: ../comps-f17.xml.in.h:147 ../comps-f18.xml.in.h:110
 #: ../comps-el4.xml.in.h:45 ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr ""
-"Инсталирайте тези пакети, за да можете да разработвате QT и KDE графични "
-"приложения."
+msgstr "Инсталирайте тези пакети, за да можете да разработвате QT и KDE графични приложения."
 
 #: ../comps-f15.xml.in.h:144 ../comps-f16.xml.in.h:144
 #: ../comps-f17.xml.in.h:148 ../comps-f18.xml.in.h:111
@@ -909,8 +870,7 @@ msgstr "Наследствени мрежови сървъри"
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr ""
-"Пакетите включват сървъри за стари мрежови протоколи, като rsh и telnet."
+msgstr "Пакетите включват сървъри за стари мрежови протоколи, като rsh и telnet."
 
 #: ../comps-f15.xml.in.h:157 ../comps-f16.xml.in.h:157
 #: ../comps-f17.xml.in.h:161 ../comps-f18.xml.in.h:120
@@ -936,8 +896,7 @@ msgstr "LibreOffice Разработка"
 #: ../comps-f17.xml.in.h:165 ../comps-f18.xml.in.h:124
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
-msgstr ""
-"Тези пакети са полезни при разработка на макроси и разширения за LibreOffice."
+msgstr "Тези пакети са полезни при разработка на макроси и разширения за LibreOffice."
 
 #: ../comps-f15.xml.in.h:162 ../comps-f16.xml.in.h:162
 #: ../comps-f17.xml.in.h:166
@@ -983,10 +942,9 @@ msgstr "LXDE"
 #: ../comps-f17.xml.in.h:174 ../comps-f18.xml.in.h:127
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-msgstr ""
-"LXDE е лека X11 работна среда, създадена за компютри с ниски хардуерни "
-"характеристики като нетбуци, мобилни устройства или по-стари компютри."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
+msgstr "LXDE е лека X11 работна среда, създадена за компютри с ниски хардуерни характеристики като нетбуци, мобилни устройства или по-стари компютри."
 
 #: ../comps-f15.xml.in.h:171 ../comps-f16.xml.in.h:171
 #: ../comps-f17.xml.in.h:175 ../comps-el6.xml.in.h:147
@@ -1080,9 +1038,7 @@ msgstr "MinGW крос-компилатор"
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
-msgstr ""
-"Поддръжка за крос-компилиране на програми за 32 битов Windows, тестването им "
-"и създаването на инсталатори, и всичко това под Fedora."
+msgstr "Поддръжка за крос-компилиране на програми за 32 битов Windows, тестването им и създаването на инсталатори, и всичко това под Fedora."
 
 #: ../comps-f15.xml.in.h:188 ../comps-f16.xml.in.h:188
 #: ../comps-f17.xml.in.h:195 ../comps-el6.xml.in.h:162
@@ -1132,8 +1088,7 @@ msgstr "Новинарски сървър"
 #: ../comps-f17.xml.in.h:203 ../comps-f18.xml.in.h:148
 #: ../comps-el4.xml.in.h:51 ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
-msgstr ""
-"Тази група позволява да настроите системата да работи като новинарски сървър."
+msgstr "Тази група позволява да настроите системата да работи като новинарски сървър."
 
 #: ../comps-f15.xml.in.h:197 ../comps-f16.xml.in.h:197
 #: ../comps-f17.xml.in.h:204
@@ -1160,9 +1115,7 @@ msgstr "OCaml"
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
-msgstr ""
-"Поддръжка на софтуер за разработка, използващ програмния език Objective CAML "
-"и библиотеки за него."
+msgstr "Поддръжка на софтуер за разработка, използващ програмния език Objective CAML и библиотеки за него."
 
 #: ../comps-f15.xml.in.h:202 ../comps-f16.xml.in.h:202
 #: ../comps-f17.xml.in.h:209 ../comps-el6.xml.in.h:178
@@ -1233,9 +1186,7 @@ msgstr "Поддръжка за печат"
 #: ../comps-f17.xml.in.h:221 ../comps-f18.xml.in.h:160
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr ""
-"Инсталирайте тези инструменти, за да разрешите на системата да печата или да "
-"работи като сървър за печат."
+msgstr "Инсталирайте тези инструменти, за да разрешите на системата да печата или да работи като сървър за печат."
 
 #: ../comps-f15.xml.in.h:215 ../comps-f16.xml.in.h:215
 #: ../comps-f17.xml.in.h:222 ../comps-f18.xml.in.h:161
@@ -1304,9 +1255,9 @@ msgstr "Инструменти за конфигуриране на сървър
 
 #: ../comps-f15.xml.in.h:227 ../comps-f16.xml.in.h:227
 #: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:171
-msgid "This group contains all of Red Hat's custom server configuration tools."
-msgstr ""
-"Тази група съдържа всички инструменти за настройка на сървъри на Red Hat."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
+msgstr "Тази група съдържа всички инструменти за настройка на сървъри на Red Hat."
 
 #: ../comps-f15.xml.in.h:228 ../comps-f16.xml.in.h:228
 #: ../comps-f17.xml.in.h:236
@@ -1350,11 +1301,9 @@ msgstr "Windows файлов сървър"
 #: ../comps-f15.xml.in.h:235 ../comps-f16.xml.in.h:235
 #: ../comps-f17.xml.in.h:243 ../comps-f18.xml.in.h:178
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
-msgstr ""
-"Тази група пакети позволява споделянето на файлове между Линукс и MS Windows "
-"(tm) системи."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
+msgstr "Тази група пакети позволява споделянето на файлове между Линукс и MS Windows (tm) системи."
 
 #: ../comps-f15.xml.in.h:236 ../comps-f16.xml.in.h:236
 #: ../comps-f17.xml.in.h:244
@@ -1373,9 +1322,7 @@ msgstr "Аудио и видео"
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr ""
-"От запис на CD-та до просвирване им, както и мултимедийни файлове, тази "
-"група пакети позволява работа с аудио и видео на системата."
+msgstr "От запис на CD-та до просвирване им, както и мултимедийни файлове, тази група пакети позволява работа с аудио и видео на системата."
 
 #: ../comps-f15.xml.in.h:239 ../comps-f16.xml.in.h:239
 #: ../comps-f17.xml.in.h:247 ../comps-el6.xml.in.h:222
@@ -1440,10 +1387,7 @@ msgstr "Системни инструменти"
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr ""
-"Тази група е колекция от различни инструменти за системата, като клиент за "
-"свръзка със SMB споделени ресурси и инструменти за наблюдение на мрежовия "
-"трафик."
+msgstr "Тази група е колекция от различни инструменти за системата, като клиент за свръзка със SMB споделени ресурси и инструменти за наблюдение на мрежовия трафик."
 
 #: ../comps-f15.xml.in.h:251 ../comps-f16.xml.in.h:251
 #: ../comps-f17.xml.in.h:259 ../comps-el6.xml.in.h:248
@@ -1484,9 +1428,7 @@ msgstr "Текстов Интернет"
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr ""
-"Тази група включва текстови клиенти за поща, уеб и чат. Тези приложения не "
-"се нуждаят от системата за прозорци Х."
+msgstr "Тази група включва текстови клиенти за поща, уеб и чат. Тези приложения не се нуждаят от системата за прозорци Х."
 
 #: ../comps-f15.xml.in.h:258 ../comps-f16.xml.in.h:258
 #: ../comps-f17.xml.in.h:266 ../comps-f18.xml.in.h:192
@@ -1595,8 +1537,7 @@ msgstr "Уеб разработка"
 #: ../comps-el4.xml.in.h:61 ../comps-el5.xml.in.h:64
 msgid ""
 "These packages are helpful when developing web applications or web pages."
-msgstr ""
-"Тези пакети са полезни при разработката на уеб приложения или страници."
+msgstr "Тези пакети са полезни при разработката на уеб приложения или страници."
 
 #: ../comps-f15.xml.in.h:278 ../comps-f16.xml.in.h:278
 #: ../comps-f17.xml.in.h:288 ../comps-f18.xml.in.h:203
@@ -1626,8 +1567,7 @@ msgstr "Мениджъри на прозорци"
 #: ../comps-el4.xml.in.h:65 ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
-msgstr ""
-"Прости мениджъри на прозорци които не са част от по-голяма десктоп среда."
+msgstr "Прости мениджъри на прозорци които не са част от по-голяма десктоп среда."
 
 #: ../comps-f15.xml.in.h:283 ../comps-f16.xml.in.h:283
 #: ../comps-f17.xml.in.h:293 ../comps-f18.xml.in.h:207
@@ -1638,8 +1578,7 @@ msgstr "Разработка на софтуер за Х"
 #: ../comps-f17.xml.in.h:294 ../comps-f18.xml.in.h:208
 msgid ""
 "These packages allow you to develop applications for the X Window System."
-msgstr ""
-"Пакетите осигуряват разработката на приложения за системата за прозорци Х."
+msgstr "Пакетите осигуряват разработката на приложения за системата за прозорци Х."
 
 #: ../comps-f15.xml.in.h:285 ../comps-f16.xml.in.h:285
 #: ../comps-f17.xml.in.h:295 ../comps-f18.xml.in.h:209
@@ -1663,9 +1602,7 @@ msgstr "XFCE софтуерна разработка"
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
-msgstr ""
-"Инсталирайте тези пакети, за да можете да разработвате GTK+ и XFCE графични "
-"приложения."
+msgstr "Инсталирайте тези пакети, за да можете да разработвате GTK+ и XFCE графични приложения."
 
 #: ../comps-f15.xml.in.h:289 ../comps-f16.xml.in.h:289
 #: ../comps-f17.xml.in.h:299 ../comps-el6.xml.in.h:291
@@ -1690,11 +1627,9 @@ msgstr "Езици"
 #: ../comps-f15.xml.in.h:293 ../comps-f16.xml.in.h:293
 #: ../comps-f17.xml.in.h:303 ../comps-f18.xml.in.h:215
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
-msgstr ""
-"Тези пакети осигуряват поддръжката за различни региони и включват шрифтове и "
-"методи за въвеждане."
+"These packages provide support for various locales including fonts and input"
+" methods."
+msgstr "Тези пакети осигуряват поддръжката за различни региони и включват шрифтове и методи за въвеждане."
 
 #: ../comps-f15.xml.in.h:294 ../comps-f16.xml.in.h:294
 #: ../comps-f17.xml.in.h:304 ../comps-f18.xml.in.h:216
@@ -1731,9 +1666,7 @@ msgstr "Разработка"
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
-msgstr ""
-"Пакети предоставящи функционалност необходима за разработката и създаването "
-"на приложения."
+msgstr "Пакети предоставящи функционалност необходима за разработката и създаването на приложения."
 
 #: ../comps-f15.xml.in.h:300 ../comps-f16.xml.in.h:300
 #: ../comps-f17.xml.in.h:310 ../comps-f18.xml.in.h:222
@@ -1771,7 +1704,7 @@ msgstr "Текстове и друго свободно съдържание."
 
 #: ../comps-f17.xml.in.h:23 ../comps-f18.xml.in.h:14
 msgid "Bodo Support"
-msgstr ""
+msgstr "Поддръжка на Bodo"
 
 #: ../comps-f17.xml.in.h:36 ../comps-f18.xml.in.h:21
 msgid "Cloud Infrastructure"
@@ -1783,11 +1716,11 @@ msgstr "Инфраструктурни пакети за изчисления в
 
 #: ../comps-f17.xml.in.h:69 ../comps-f18.xml.in.h:52
 msgid "Dogri Support"
-msgstr ""
+msgstr "Поддръжка на Dogri"
 
 #: ../comps-f17.xml.in.h:183 ../comps-f18.xml.in.h:132
 msgid "Manipuri Support"
-msgstr ""
+msgstr "Поддръжка на Manipuri"
 
 #: ../comps-f17.xml.in.h:187 ../comps-f18.xml.in.h:134
 msgid "Medical Applications"
@@ -1799,7 +1732,7 @@ msgstr "Тази група обединява приложения за изп�
 
 #: ../comps-f17.xml.in.h:231 ../comps-f18.xml.in.h:168
 msgid "Santali Support"
-msgstr ""
+msgstr "Поддръжка на Santali"
 
 #: ../comps-f17.xml.in.h:281 ../comps-el6.xml.in.h:273
 msgid "Virtualization Client"
@@ -1807,25 +1740,22 @@ msgstr "Виртуализиращ клиент"
 
 #: ../comps-f17.xml.in.h:283
 msgid "Virtualization Hypervisor"
-msgstr ""
+msgstr "Виртуализиращ хипервайзор"
 
 #: ../comps-f17.xml.in.h:284
 msgid "Smallest possible virtualization host installation"
-msgstr ""
+msgstr "Възможно най-малката инсталация за виртуализация на хост"
 
 #: ../comps-el4.xml.in.h:4 ../comps-el5.xml.in.h:4
 msgid ""
 "This group is a collection of tools and resources of Arabic environments."
-msgstr ""
-"Тази група е колекция от инструменти и ресурси за Арабска работна среда."
+msgstr "Тази група е колекция от инструменти и ресурси за Арабска работна среда."
 
 #: ../comps-el4.xml.in.h:8 ../comps-el5.xml.in.h:8
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr ""
-"Тези инструменти позволяват създаването на документация в DocBook формат и "
-"конвертирането й в HTML, PDF, Postscript или текст."
+msgstr "Тези инструменти позволяват създаването на документация в DocBook формат и конвертирането й в HTML, PDF, Postscript или текст."
 
 #: ../comps-el4.xml.in.h:13 ../comps-el5.xml.in.h:16
 msgid "Dialup Networking Support"
@@ -1835,29 +1765,23 @@ msgstr "Поддръжка на Dailup мрежи"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr ""
-"Програмите, често наричани текстови редактори,  позволяват създаването и "
-"редактирането на файлове. Те включват emacs и vi."
+msgstr "Програмите, често наричани текстови редактори,  позволяват създаването и редактирането на файлове. Те включват emacs и vi."
 
 #: ../comps-el4.xml.in.h:25 ../comps-el5.xml.in.h:32
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME е мощна графична среда, която включва панел, работен плот, системни "
-"икони и графичен файлов мениджър."
+msgstr "GNOME е мощна графична среда, която включва панел, работен плот, системни икони и графичен файлов мениджър."
 
 #: ../comps-el4.xml.in.h:35 ../comps-el5.xml.in.h:42
 msgid ""
 "This group is a collection of tools and resources of Hebrew environments."
-msgstr ""
-"Тази група е колекция от инструменти и ресурси за ивритска работна среда."
+msgstr "Тази група е колекция от инструменти и ресурси за ивритска работна среда."
 
 #: ../comps-el4.xml.in.h:37 ../comps-el5.xml.in.h:44
 msgid ""
 "This group is a collection of tools and resources of Japanese environments."
-msgstr ""
-"Тази група е колекция от инструменти и ресурси за японска работна среда."
+msgstr "Тази група е колекция от инструменти и ресурси за японска работна среда."
 
 #: ../comps-el4.xml.in.h:42 ../comps-el5.xml.in.h:45
 msgid "KDE (K Desktop Environment)"
@@ -1865,11 +1789,9 @@ msgstr "KDE (K десктоп среда)"
 
 #: ../comps-el4.xml.in.h:43 ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDE e мощна, графична среда, която включва панел, десктоп, системни икони и "
-"графичен файл мениджър."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
+msgstr "KDE e мощна, графична среда, която включва панел, десктоп, системни икони и графичен файл мениджър."
 
 #: ../comps-el4.xml.in.h:49 ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -1907,9 +1829,7 @@ msgstr "Клиент за резервно копиране"
 
 #: ../comps-el6.xml.in.h:11
 msgid "Client tools for connecting to a backup server and doing backups."
-msgstr ""
-"Клиентски инструменти за връзка със сървър за резервно копиране и създаване "
-"на архиви."
+msgstr "Клиентски инструменти за връзка със сървър за резервно копиране и създаване на архиви."
 
 #: ../comps-el6.xml.in.h:12
 msgid "Backup Server"
@@ -1955,9 +1875,7 @@ msgstr "Библиотеки за съвместимост"
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
-msgstr ""
-"Библиотеки за съвместимост за приложения, създадени на предишни версии на "
-"Enterprise Linux."
+msgstr "Библиотеки за съвместимост за приложения, създадени на предишни версии на Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:36
 msgid "Console internet tools"
@@ -1965,9 +1883,7 @@ msgstr "Конзолни Интернет инструменти"
 
 #: ../comps-el6.xml.in.h:37
 msgid "Console internet access tools, often used by administrators."
-msgstr ""
-"Конзолни инструменти за достъп до Интернет, използвани често от "
-"администраторите."
+msgstr "Конзолни инструменти за достъп до Интернет, използвани често от администраторите."
 
 #: ../comps-el6.xml.in.h:40
 msgid "Smallest possible installation."
@@ -1981,9 +1897,7 @@ msgstr "Инструменти за откриване на грешки"
 msgid ""
 "Tools for debugging misbehaving applications and diagnosing performance "
 "problems."
-msgstr ""
-"Инструменти за откриване на грешки в приложения и за диагностика на проблеми "
-"с производителността."
+msgstr "Инструменти за откриване на грешки в приложения и за диагностика на проблеми с производителността."
 
 #: ../comps-el6.xml.in.h:46
 msgid "Desktop Debugging and Performance Tools"
@@ -1991,9 +1905,7 @@ msgstr "Инструменти за откриване на грешки и бъ
 
 #: ../comps-el6.xml.in.h:47
 msgid "GUI tools for debugging applications and performance."
-msgstr ""
-"Графични инструменти за откриване на грешки и проблеми в производителността "
-"на приложения."
+msgstr "Графични инструменти за откриване на грешки и проблеми в производителността на приложения."
 
 #: ../comps-el6.xml.in.h:48
 msgid "Desktop Platform"
@@ -2011,9 +1923,7 @@ msgstr "Разработка на платформата за работен п�
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
-msgstr ""
-"Headers файлове и библиотеки за разработка на приложения, работещи върху "
-"платформа Enterprise Linux Desktop."
+msgstr "Headers файлове и библиотеки за разработка на приложения, работещи върху платформа Enterprise Linux Desktop."
 
 #: ../comps-el6.xml.in.h:52
 msgid "Development tools"
@@ -2090,9 +2000,7 @@ msgstr "Графични инструменти за администрация"
 #: ../comps-el6.xml.in.h:92
 msgid ""
 "Graphical system administration tools for managing many aspects of a system."
-msgstr ""
-"Графични инструменти за системна администрация за многостранно управление на "
-"системата."
+msgstr "Графични инструменти за системна администрация за многостранно управление на системата."
 
 #: ../comps-el6.xml.in.h:93
 msgid "Graphics Creation Tools"
@@ -2116,11 +2024,9 @@ msgstr "Поддръжка на Infiniband"
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
-msgstr ""
-"Софтуер, предназначен за клъстери и възможностите за свързване в grid с "
-"помощта RDMA-базирани InfiniBand и iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
+msgstr "Софтуер, предназначен за клъстери и възможностите за свързване в grid с помощта RDMA-базирани InfiniBand и iWARP fabrics."
 
 #: ../comps-el6.xml.in.h:110
 msgid "Software for the input of international text."
@@ -2174,8 +2080,7 @@ msgstr "Остаряла съвместимост с UNIX"
 msgid ""
 "Compatibility programs for migration from or working with legacy UNIX "
 "environments."
-msgstr ""
-"Програми за съвместимост при мигриране от или работещи с остарели UNIX среди."
+msgstr "Програми за съвместимост при мигриране от или работещи с остарели UNIX среди."
 
 #: ../comps-el6.xml.in.h:140
 msgid "Legacy X Window System compatibility"
@@ -2185,9 +2090,7 @@ msgstr "Остаряла съвместимост с X Window системата
 msgid ""
 "Compatibility programs for migration from or working with legacy X Window "
 "System environments."
-msgstr ""
-"Програми за съвместимост при мигриране от или работещи с остарели X Window "
-"System среди."
+msgstr "Програми за съвместимост при мигриране от или работещи с остарели X Window System среди."
 
 #: ../comps-el6.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
@@ -2197,9 +2100,7 @@ msgstr "Базова остаряла съвместимост с X Window си�
 msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
-msgstr ""
-"Минимален комплект от програми за съвместимост при мигриране от или работещи "
-"с остарели X Window System среди."
+msgstr "Минимален комплект от програми за съвместимост при мигриране от или работещи с остарели X Window System среди."
 
 #: ../comps-el6.xml.in.h:148
 msgid "E-mail server"
@@ -2239,8 +2140,7 @@ msgstr "Network file system клиент"
 
 #: ../comps-el6.xml.in.h:169
 msgid "Enables the system to attach to network storage."
-msgstr ""
-"Позволява свързването на системата към мрежов сървър за съхранение на данни."
+msgstr "Позволява свързването на системата към мрежов сървър за съхранение на данни."
 
 #: ../comps-el6.xml.in.h:170
 msgid "Network Infrastructure Server"
@@ -2279,10 +2179,9 @@ msgid "Performance Tools"
 msgstr "Инструменти за производителност"
 
 #: ../comps-el6.xml.in.h:183
-msgid "Tools for diagnosing system and application-level performance problems."
-msgstr ""
-"Инструменти за диагностика на системата и проблеми с производителността на "
-"приложения."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
+msgstr "Инструменти за диагностика на системата и проблеми с производителността на приложения."
 
 #: ../comps-el6.xml.in.h:184
 msgid "Perl Support"
@@ -2322,8 +2221,7 @@ msgstr "Клиент за печат"
 
 #: ../comps-el6.xml.in.h:196
 msgid "Tools for printing to a local printer or a remote print server."
-msgstr ""
-"Инструменти за печат на локален принтер или на отдалечен сървър за печат."
+msgstr "Инструменти за печат на локален принтер или на отдалечен сървър за печат."
 
 #: ../comps-el6.xml.in.h:197
 msgid "Print Server"
@@ -2344,8 +2242,7 @@ msgstr "Научна поддръжка"
 #: ../comps-el6.xml.in.h:206
 msgid ""
 "Tools for mathematical and scientific computations, and parallel computing."
-msgstr ""
-"Инструменти за математически и научни изчисления, и за паралелни изчисления."
+msgstr "Инструменти за математически и научни изчисления, и за паралелни изчисления."
 
 #: ../comps-el6.xml.in.h:207
 msgid "Security Tools"
@@ -2371,9 +2268,7 @@ msgstr "Разработка за платформа Сървър"
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
-msgstr ""
-"Headers файлове и библиотеки за разработка на приложения, работещи върху "
-"платформа Enterprise Linux Server."
+msgstr "Headers файлове и библиотеки за разработка на приложения, работещи върху платформа Enterprise Linux Server."
 
 #: ../comps-el6.xml.in.h:214
 msgid "Server Policy"
@@ -2413,8 +2308,7 @@ msgstr "Инструменти за съхранение."
 
 #: ../comps-el6.xml.in.h:230
 msgid "A set of tools to manage SAN path availability"
-msgstr ""
-"Комплект инструменти за управление на пътища до мрежи за съхранение на данни"
+msgstr "Комплект инструменти за управление на пътища до мрежи за съхранение на данни"
 
 #: ../comps-el6.xml.in.h:231
 msgid "Network Storage Server"
@@ -2512,9 +2406,7 @@ msgstr "Виртуализираща платформа"
 msgid ""
 "Provides an interface for accessing and controlling virtualized guests and "
 "containers."
-msgstr ""
-"Предоставя интерфейс за достъп и контрол на виртуализирани гост системи и "
-"контейнери."
+msgstr "Предоставя интерфейс за достъп и контрол на виртуализирани гост системи и контейнери."
 
 #: ../comps-el6.xml.in.h:277
 msgid "Virtualization Tools"
@@ -2528,9 +2420,7 @@ msgstr "Инструменти за offline virtual image management."
 msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
-msgstr ""
-"Позволява на системата да работи като уеб сървър и да стартира Perl и Python "
-"приложения."
+msgstr "Позволява на системата да работи като уеб сървър и да стартира Perl и Python приложения."
 
 #: ../comps-el6.xml.in.h:282
 msgid "Web Servlet Engine"
