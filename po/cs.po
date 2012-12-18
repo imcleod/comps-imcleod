@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Adam Pribyl <pribyl@lowlevel.cz>, 2008.
 # Dimitris Glezos <glezos@indifex.com>, 2011.
@@ -13,14 +13,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-17 17:01-0500\n"
+"POT-Creation-Date: 2012-12-18 00:39-0500\n"
 "PO-Revision-Date: 2012-12-17 22:02+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Czech (http://www.transifex.com/projects/p/fedora/language/cs/)\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/fedora/language/"
+"cs/)\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1 ../comps-f18.xml.in.h:72
@@ -31,9 +32,11 @@ msgstr "Administrace systému"
 #: ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2 ../comps-f18.xml.in.h:73
 #: ../comps-f19.xml.in.h:73 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system,"
-" such as for managing user accounts and configuring system hardware."
-msgstr "Skupina s grafickými administrátorskými nástroji, např. správu uživatelských účtů a konfiguraci hardware."
+"This group is a collection of graphical administration tools for the system, "
+"such as for managing user accounts and configuring system hardware."
+msgstr ""
+"Skupina s grafickými administrátorskými nástroji, např. správu uživatelských "
+"účtů a konfiguraci hardware."
 
 #: ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3 ../comps-el6.xml.in.h:3
 msgid "Afrikaans Support"
@@ -85,7 +88,9 @@ msgstr "Publikování textů DocBook"
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
-msgstr "Nástroje pro vytváření dokumentů ve formátu DocBook, jejich konverze do formátů HTML, PDF, Postscriptu a holého textu."
+msgstr ""
+"Nástroje pro vytváření dokumentů ve formátu DocBook, jejich konverze do "
+"formátů HTML, PDF, Postscriptu a holého textu."
 
 #: ../comps-f16.xml.in.h:14 ../comps-f17.xml.in.h:15 ../comps-el6.xml.in.h:9
 msgid "Azerbaijani Support"
@@ -99,7 +104,9 @@ msgstr "Základ"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr "Tato skupina zahrnuje nejmenší možnou množinu balíčků. Je vhodná například na instalace malých routerů nebo firewallů."
+msgstr ""
+"Tato skupina zahrnuje nejmenší možnou množinu balíčků. Je vhodná například "
+"na instalace malých routerů nebo firewallů."
 
 #: ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:18 ../comps-el5.xml.in.h:9
 #: ../comps-el6.xml.in.h:287
@@ -109,7 +116,9 @@ msgstr "X Window System"
 #: ../comps-f16.xml.in.h:18 ../comps-f17.xml.in.h:19 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr "Nainstalujte tuto skupinu balíčků, abyste mohli používat základní grafické uživatelské rozhraní (X Window System)."
+msgstr ""
+"Nainstalujte tuto skupinu balíčků, abyste mohli používat základní grafické "
+"uživatelské rozhraní (X Window System)."
 
 #: ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:20 ../comps-el6.xml.in.h:18
 msgid "Basque Support"
@@ -137,7 +146,8 @@ msgstr "Knihy a příručky"
 #: ../comps-f16.xml.in.h:24 ../comps-f17.xml.in.h:26 ../comps-f18.xml.in.h:85
 #: ../comps-f19.xml.in.h:85
 msgid "Books and Guides for Fedora users and developers"
-msgstr "Knihy a příručky pro uživatele a vývojáře pracující s distribucí Fedora"
+msgstr ""
+"Knihy a příručky pro uživatele a vývojáře pracující s distribucí Fedora"
 
 #: ../comps-f16.xml.in.h:25 ../comps-f17.xml.in.h:27
 msgid "Bosnian Support"
@@ -223,7 +233,9 @@ msgstr "Kritická cesta (Základ)"
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr "Sada balíčků, které poskytují kritickou cestu (sadu) pro podporu spinů Fedory."
+msgstr ""
+"Sada balíčků, které poskytují kritickou cestu (sadu) pro podporu spinů "
+"Fedory."
 
 #: ../comps-f16.xml.in.h:44 ../comps-f17.xml.in.h:48 ../comps-f18.xml.in.h:96
 #: ../comps-f19.xml.in.h:96
@@ -233,9 +245,11 @@ msgstr "Kritická cesta (GNOME)"
 #: ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:49 ../comps-f18.xml.in.h:97
 #: ../comps-f19.xml.in.h:97
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME"
-" desktop"
-msgstr "Sada balíčků kritické cesty (sady), která poskytuje funkčnost uživatelského prostředí GNOME."
+"A set of packages that provide the Critical Path functionality for the GNOME "
+"desktop"
+msgstr ""
+"Sada balíčků kritické cesty (sady), která poskytuje funkčnost uživatelského "
+"prostředí GNOME."
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
 #: ../comps-f19.xml.in.h:98
@@ -247,7 +261,9 @@ msgstr "Kritická sada (KDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr "Sada balíčků kritické sady, která poskytuje funkčnost uživatelského prostředí KDE."
+msgstr ""
+"Sada balíčků kritické sady, která poskytuje funkčnost uživatelského "
+"prostředí KDE."
 
 #: ../comps-f16.xml.in.h:48 ../comps-f17.xml.in.h:52 ../comps-f18.xml.in.h:100
 #: ../comps-f19.xml.in.h:100
@@ -259,7 +275,9 @@ msgstr "Kritická sada (LXDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr "Sada balíčků kritické sady, která poskytuje funkčnost uživatelského prostředí LXDE."
+msgstr ""
+"Sada balíčků kritické sady, která poskytuje funkčnost uživatelského "
+"prostředí LXDE."
 
 #: ../comps-f16.xml.in.h:50 ../comps-f17.xml.in.h:54 ../comps-f18.xml.in.h:102
 #: ../comps-f19.xml.in.h:102
@@ -271,7 +289,9 @@ msgstr "Kritická sada (Xfce)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
-msgstr "Sada balíčků kritické cesty, která poskytuje funkčnost uživatelského prostředí Xfce."
+msgstr ""
+"Sada balíčků kritické cesty, která poskytuje funkčnost uživatelského "
+"prostředí Xfce."
 
 #: ../comps-f16.xml.in.h:52 ../comps-f17.xml.in.h:56 ../comps-el6.xml.in.h:41
 msgid "Croatian Support"
@@ -306,8 +326,7 @@ msgstr "Vývojářské knihovny"
 #: ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:62 ../comps-f18.xml.in.h:107
 #: ../comps-f19.xml.in.h:107
 msgid ""
-"The packages in this group are core libraries needed to develop "
-"applications."
+"The packages in this group are core libraries needed to develop applications."
 msgstr "Základní knihovny potřebné pro vývoj aplikací."
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
@@ -320,7 +339,8 @@ msgstr "Vývojářské nástroje"
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr "Základní vývojové nástroje jako automake, gcc, perl, python a debuggery."
+msgstr ""
+"Základní vývojové nástroje jako automake, gcc, perl, python a debuggery."
 
 #: ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:65 ../comps-f18.xml.in.h:110
 #: ../comps-f19.xml.in.h:110 ../comps-el6.xml.in.h:54
@@ -382,7 +402,9 @@ msgstr "Unixové editory"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr "Textové editory (například Emacs a Vi) umožňují vytvářet a upravovat textové soubory."
+msgstr ""
+"Textové editory (například Emacs a Vi) umožňují vytvářet a upravovat textové "
+"soubory."
 
 #: ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:78 ../comps-f18.xml.in.h:122
 #: ../comps-f19.xml.in.h:122 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
@@ -414,7 +436,9 @@ msgstr "Věda a výzkum"
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
-msgstr "Skupina obsahuje balíčky pro matematické a vědecké výpočty, kreslení grafů, konverze jednotek a podobně."
+msgstr ""
+"Skupina obsahuje balíčky pro matematické a vědecké výpočty, kreslení grafů, "
+"konverze jednotek a podobně."
 
 #: ../comps-f16.xml.in.h:79 ../comps-f17.xml.in.h:84 ../comps-el6.xml.in.h:69
 msgid "Esperanto Support"
@@ -470,7 +494,9 @@ msgstr "Navrhování fontů"
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
-msgstr "Skupina balíčků obsahující nástroje pro návrh, modifikaci, úpravy a vytváření souborů s fonty."
+msgstr ""
+"Skupina balíčků obsahující nástroje pro návrh, modifikaci, úpravy a "
+"vytváření souborů s fonty."
 
 #: ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:96 ../comps-f18.xml.in.h:134
 #: ../comps-f19.xml.in.h:134 ../comps-el6.xml.in.h:78
@@ -546,7 +572,9 @@ msgstr "Prostředí GNOME"
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr "GNOME je výkonné grafické uživatelské prostředí, které obsahuje panel, pracovní plochu, systémové ikony a grafického správce souborů."
+msgstr ""
+"GNOME je výkonné grafické uživatelské prostředí, které obsahuje panel, "
+"pracovní plochu, systémové ikony a grafického správce souborů."
 
 #: ../comps-f16.xml.in.h:106 ../comps-f17.xml.in.h:111
 #: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:141
@@ -560,7 +588,9 @@ msgstr "Vývoj pro GNOME"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr "Nainstalujte tyto balíčky, pokud potřebujete vyvíjet grafické aplikace pro GTK+ a GNOME."
+msgstr ""
+"Nainstalujte tyto balíčky, pokud potřebujete vyvíjet grafické aplikace pro "
+"GTK+ a GNOME."
 
 #: ../comps-f16.xml.in.h:108 ../comps-f17.xml.in.h:113
 #: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:143
@@ -584,7 +614,9 @@ msgstr "Grafika"
 #: ../comps-f18.xml.in.h:146 ../comps-f19.xml.in.h:146
 #: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr "Skupina obsahuje balíčky, které slouží pro skenování a následnou úpravu výsledných obrázků."
+msgstr ""
+"Skupina obsahuje balíčky, které slouží pro skenování a následnou úpravu "
+"výsledných obrázků."
 
 #: ../comps-f16.xml.in.h:112 ../comps-f17.xml.in.h:117
 #: ../comps-f18.xml.in.h:147 ../comps-f19.xml.in.h:147
@@ -668,7 +700,9 @@ msgstr "Vstupní metody"
 #: ../comps-f16.xml.in.h:126 ../comps-f17.xml.in.h:131
 #: ../comps-f18.xml.in.h:156 ../comps-f19.xml.in.h:156
 msgid "Input method packages for the input of international text."
-msgstr "Vstupní metody pro podporu exotických jazyků s obrázkovým písmem (např. japonština, korejština, čínština)."
+msgstr ""
+"Vstupní metody pro podporu exotických jazyků s obrázkovým písmem (např. "
+"japonština, korejština, čínština)."
 
 #: ../comps-f16.xml.in.h:127 ../comps-f17.xml.in.h:132
 #: ../comps-el6.xml.in.h:111
@@ -743,12 +777,15 @@ msgid "KDE Software Compilation"
 msgstr "Prostředí KDE"
 
 #: ../comps-f16.xml.in.h:141 ../comps-f17.xml.in.h:146
-#: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:271
+#: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:272
 msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
-msgstr "KDE SC obsahuje KDE Plasma Desktop, široce konfigurovatelné grafické uživatelské rozhraní, které obsahuje panel, pracovní plochu, systémové ikony, desktopové widgety a mnoho užitečných a výkonných KDE aplikací."
+msgstr ""
+"KDE SC obsahuje KDE Plasma Desktop, široce konfigurovatelné grafické "
+"uživatelské rozhraní, které obsahuje panel, pracovní plochu, systémové "
+"ikony, desktopové widgety a mnoho užitečných a výkonných KDE aplikací."
 
 #: ../comps-f16.xml.in.h:142 ../comps-f17.xml.in.h:147
 #: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:164
@@ -760,7 +797,9 @@ msgstr "Vývoj pro KDE"
 #: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:165
 #: ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr "Nainstalujte tyto balíčky, pokud budete vyvíjet grafické aplikace pro QT a KDE."
+msgstr ""
+"Nainstalujte tyto balíčky, pokud budete vyvíjet grafické aplikace pro QT a "
+"KDE."
 
 #: ../comps-f16.xml.in.h:144 ../comps-f17.xml.in.h:149
 #: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:166
@@ -830,7 +869,9 @@ msgstr "Zastaralé síťové servery"
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr "Balíčky se servery pro zastaralé síťové protokoly, jako například rsh a telnet."
+msgstr ""
+"Balíčky se servery pro zastaralé síťové protokoly, jako například rsh a "
+"telnet."
 
 #: ../comps-f16.xml.in.h:157 ../comps-f17.xml.in.h:162
 #: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:174
@@ -840,7 +881,9 @@ msgstr "Zastaralý vývoj software"
 #: ../comps-f16.xml.in.h:158 ../comps-f17.xml.in.h:163
 #: ../comps-f18.xml.in.h:175 ../comps-f19.xml.in.h:175
 msgid "These packages provide compatibility with previous releases."
-msgstr "Balíčky pro podporu kompatibility s předchozími vydáními distribuce (zejména starší verze knihoven)."
+msgstr ""
+"Balíčky pro podporu kompatibility s předchozími vydáními distribuce (zejména "
+"starší verze knihoven)."
 
 #: ../comps-f16.xml.in.h:159 ../comps-f17.xml.in.h:164
 #: ../comps-f18.xml.in.h:176 ../comps-f19.xml.in.h:176
@@ -898,9 +941,11 @@ msgstr "Prostředí LXDE"
 #: ../comps-f18.xml.in.h:36 ../comps-f19.xml.in.h:36
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older "
-"computers."
-msgstr "LXDE je odlehčené uživatelské prostředí, které je určeno pro X Window System na počítačích s málo výkonným hardware, jako jsou NetBooky, mobilní zařízení nebo starší počítače."
+"low hardware specifications like netbooks, mobile devices or older computers."
+msgstr ""
+"LXDE je odlehčené uživatelské prostředí, které je určeno pro X Window System "
+"na počítačích s málo výkonným hardware, jako jsou NetBooky, mobilní zařízení "
+"nebo starší počítače."
 
 #: ../comps-f16.xml.in.h:171 ../comps-f17.xml.in.h:176
 #: ../comps-el6.xml.in.h:147
@@ -968,7 +1013,8 @@ msgstr "Prostředí MeeGo NetBook UX"
 
 #: ../comps-f16.xml.in.h:183 ../comps-f17.xml.in.h:193
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
-msgstr "Prostředí MeeGo NetBook UX je uživatelské prostředí pro NetBooky a NetTopy."
+msgstr ""
+"Prostředí MeeGo NetBook UX je uživatelské prostředí pro NetBooky a NetTopy."
 
 #: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:194
 #: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:190
@@ -992,7 +1038,9 @@ msgstr "MinGW cross-compiler"
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
-msgstr "Podpora pro křížovou kompilaci pro platformu 32bitových Windows, jejich testování a vytváření instalátorů z prostředí Fedory."
+msgstr ""
+"Podpora pro křížovou kompilaci pro platformu 32bitových Windows, jejich "
+"testování a vytváření instalátorů z prostředí Fedory."
 
 #: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:198
 #: ../comps-el6.xml.in.h:162
@@ -1041,7 +1089,9 @@ msgstr "NNTP server"
 #: ../comps-f18.xml.in.h:199 ../comps-f19.xml.in.h:200
 #: ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
-msgstr "Skupina s balíčky pro podporu běhu serveru diskusních skupin (NetNews, resp. NNTP protokol)."
+msgstr ""
+"Skupina s balíčky pro podporu běhu serveru diskusních skupin (NetNews, resp. "
+"NNTP protokol)."
 
 #: ../comps-f16.xml.in.h:197 ../comps-f17.xml.in.h:207
 msgid "Northern Sami Support"
@@ -1067,7 +1117,8 @@ msgstr "OCaml"
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
-msgstr "Podpora a knihovny pro vývoj programů v programovacím jazyku Objective CAML."
+msgstr ""
+"Podpora a knihovny pro vývoj programů v programovacím jazyku Objective CAML."
 
 #: ../comps-f16.xml.in.h:202 ../comps-f17.xml.in.h:212
 #: ../comps-el6.xml.in.h:178
@@ -1084,7 +1135,8 @@ msgstr "Kancelářské aplikace"
 #: ../comps-f18.xml.in.h:203 ../comps-f19.xml.in.h:204
 #: ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
-msgstr "Skupina obsahuje kancelářské balíky, PDF prohlížeče a další podobné nástroje."
+msgstr ""
+"Skupina obsahuje kancelářské balíky, PDF prohlížeče a další podobné nástroje."
 
 #: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:215
 #: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:205
@@ -1136,7 +1188,9 @@ msgstr "Tiskový server CUPS"
 #: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr "Nainstalujte tyto nástroje, abyste mohli tisknout, nebo počítač používat jako tiskový server."
+msgstr ""
+"Nainstalujte tyto nástroje, abyste mohli tisknout, nebo počítač používat "
+"jako tiskový server."
 
 #: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
 #: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
@@ -1159,17 +1213,17 @@ msgid "Romanian Support"
 msgstr "Podpora rumunštiny"
 
 #: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:229
-#: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:214
+#: ../comps-f18.xml.in.h:214 ../comps-f19.xml.in.h:215
 msgid "Ruby"
 msgstr "Ruby"
 
 #: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:230
-#: ../comps-f18.xml.in.h:214 ../comps-f19.xml.in.h:215
+#: ../comps-f18.xml.in.h:215 ../comps-f19.xml.in.h:216
 msgid "Basic support for the Ruby programming language."
 msgstr "Základní podpora programovacího jazyka Ruby."
 
 #: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:231
-#: ../comps-f18.xml.in.h:215 ../comps-f19.xml.in.h:216
+#: ../comps-f18.xml.in.h:216 ../comps-f19.xml.in.h:217
 #: ../comps-el6.xml.in.h:202
 msgid "Russian Support"
 msgstr "Podpora ruštiny"
@@ -1179,7 +1233,7 @@ msgid "Samoan Support"
 msgstr "Podpora samojštiny"
 
 #: ../comps-f16.xml.in.h:223 ../comps-f17.xml.in.h:233
-#: ../comps-f18.xml.in.h:216 ../comps-f19.xml.in.h:217
+#: ../comps-f18.xml.in.h:217 ../comps-f19.xml.in.h:218
 #: ../comps-el6.xml.in.h:203
 msgid "Sanskrit Support"
 msgstr "Podpora sanskrtu"
@@ -1195,14 +1249,13 @@ msgid "Serbian Support"
 msgstr "Podpora srbštiny"
 
 #: ../comps-f16.xml.in.h:226 ../comps-f17.xml.in.h:237
-#: ../comps-f18.xml.in.h:218 ../comps-f19.xml.in.h:221
+#: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
 msgid "Server Configuration Tools"
 msgstr "Konfigurace serveru"
 
 #: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
-#: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
-msgid ""
-"This group contains all of Red Hat's custom server configuration tools."
+#: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:223
+msgid "This group contains all of Red Hat's custom server configuration tools."
 msgstr "Všechny konfigurační nástroje od firmy Red Hat."
 
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
@@ -1210,18 +1263,18 @@ msgid "Shuswap Support"
 msgstr "Podpora shuswapštiny"
 
 #: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:240
-#: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:223
+#: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:224
 msgid "Simplified Chinese Support"
 msgstr "Podpora zjednodušené čínštiny"
 
 #: ../comps-f16.xml.in.h:230 ../comps-f17.xml.in.h:241
-#: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:224
+#: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:225
 #: ../comps-el6.xml.in.h:216
 msgid "Sindhi Support"
 msgstr "Podpora sindhštiny"
 
 #: ../comps-f16.xml.in.h:231 ../comps-f17.xml.in.h:242
-#: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:225
+#: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:226
 #: ../comps-el6.xml.in.h:217
 msgid "Sinhala Support"
 msgstr "Podpora sinhálštiny"
@@ -1237,34 +1290,38 @@ msgid "Slovenian Support"
 msgstr "Podpora slovinštiny"
 
 #: ../comps-f16.xml.in.h:234 ../comps-f17.xml.in.h:245
-#: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:226
+#: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
 msgid "Windows File Server"
 msgstr "Samba server (pro Windows)"
 
 #: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
-#: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
+#: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:228
 msgid ""
-"This package group allows you to share files between Linux and MS "
-"Windows(tm) systems."
-msgstr "Skupina balíčků pro podporu sdílení souborů mezi systémy Linux a MS Windows (TM)."
+"This package group allows you to share files between Linux and MS Windows"
+"(tm) systems."
+msgstr ""
+"Skupina balíčků pro podporu sdílení souborů mezi systémy Linux a MS Windows "
+"(TM)."
 
 #: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
 msgid "Somali Support"
 msgstr "Podpora somálštiny"
 
 #: ../comps-f16.xml.in.h:237 ../comps-f17.xml.in.h:248
-#: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:228
+#: ../comps-f18.xml.in.h:226 ../comps-f19.xml.in.h:229
 #: ../comps-el5.xml.in.h:57
 msgid "Sound and Video"
 msgstr "Zvuk a video"
 
 #: ../comps-f16.xml.in.h:238 ../comps-f17.xml.in.h:249
-#: ../comps-f18.xml.in.h:226 ../comps-f19.xml.in.h:229
+#: ../comps-f18.xml.in.h:227 ../comps-f19.xml.in.h:230
 #: ../comps-el5.xml.in.h:58
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr "Skupina programů pro přehrávání a práci s multimediálními soubory, vytváření a přehrávání audio disků (CD)."
+msgstr ""
+"Skupina programů pro přehrávání a práci s multimediálními soubory, vytváření "
+"a přehrávání audio disků (CD)."
 
 #: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:250
 #: ../comps-el6.xml.in.h:222
@@ -1282,22 +1339,22 @@ msgid "Spanish Support"
 msgstr "Podpora španělštiny"
 
 #: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:253
-#: ../comps-f18.xml.in.h:227 ../comps-f19.xml.in.h:230
+#: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:231
 msgid "PostgreSQL Database"
 msgstr "PostgreSQL databáze"
 
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:254
-#: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:231
+#: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
 msgid "This package group includes packages useful for use with Postgresql."
 msgstr "Skupina balíčků s nástroji pro použití spolu s PostgreSQL serverem."
 
 #: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:255
-#: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
+#: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:233
 msgid "Sugar Desktop Environment"
 msgstr "Prostředí Sugar"
 
 #: ../comps-f16.xml.in.h:245 ../comps-f17.xml.in.h:256
-#: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:233
+#: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:234
 msgid "A software playground for learning about learning."
 msgstr "Software pro výuku o vyučování."
 
@@ -1317,18 +1374,20 @@ msgid "Swedish Support"
 msgstr "Podpora švédštiny"
 
 #: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:260
-#: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:234
+#: ../comps-f18.xml.in.h:232 ../comps-f19.xml.in.h:235
 #: ../comps-el5.xml.in.h:59
 msgid "System Tools"
 msgstr "Systémové nástroje"
 
 #: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:261
-#: ../comps-f18.xml.in.h:232 ../comps-f19.xml.in.h:235
+#: ../comps-f18.xml.in.h:233 ../comps-f19.xml.in.h:236
 #: ../comps-el5.xml.in.h:60
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr "Kolekce různých nástrojů, jako je např. klient pro připojení ke sdíleným složkám SMB a nástroje pro monitorování síťového provozu."
+msgstr ""
+"Kolekce různých nástrojů, jako je např. klient pro připojení ke sdíleným "
+"složkám SMB a nástroje pro monitorování síťového provozu."
 
 #: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:262
 #: ../comps-el6.xml.in.h:248
@@ -1341,13 +1400,13 @@ msgid "Tajik Support"
 msgstr "Podpora tádžičtiny"
 
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:264
-#: ../comps-f18.xml.in.h:233 ../comps-f19.xml.in.h:236
+#: ../comps-f18.xml.in.h:234 ../comps-f19.xml.in.h:237
 #: ../comps-el6.xml.in.h:250
 msgid "Tamil Support"
 msgstr "Podpora tamilštiny"
 
 #: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:265
-#: ../comps-f18.xml.in.h:234 ../comps-f19.xml.in.h:237
+#: ../comps-f18.xml.in.h:235 ../comps-f19.xml.in.h:238
 #: ../comps-el6.xml.in.h:253
 msgid "Telugu Support"
 msgstr "Podpora telugštiny"
@@ -1358,27 +1417,29 @@ msgid "Tetum Support"
 msgstr "Podpora tetumu"
 
 #: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:267
-#: ../comps-f18.xml.in.h:235 ../comps-f19.xml.in.h:238
+#: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:239
 #: ../comps-el5.xml.in.h:61
 msgid "Text-based Internet"
 msgstr "Textové nástroje pro Internet"
 
 #: ../comps-f16.xml.in.h:257 ../comps-f17.xml.in.h:268
-#: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:239
+#: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:240
 #: ../comps-el5.xml.in.h:62
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr "Skupina obsahuje textové klienty pro e-mail, WWW a chatovací programy, které nepotřebují grafické prostředí X Window System."
+msgstr ""
+"Skupina obsahuje textové klienty pro e-mail, WWW a chatovací programy, které "
+"nepotřebují grafické prostředí X Window System."
 
 #: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:269
-#: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:240
+#: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:241
 #: ../comps-el6.xml.in.h:257
 msgid "Thai Support"
 msgstr "Podpora thajštiny"
 
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:270
-#: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:241
+#: ../comps-f18.xml.in.h:239 ../comps-f19.xml.in.h:242
 #: ../comps-el6.xml.in.h:258
 msgid "Tibetan Support"
 msgstr "Podpora tibetštiny"
@@ -1392,7 +1453,7 @@ msgid "Tonga Support"
 msgstr "Podpora tonžštiny"
 
 #: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:273
-#: ../comps-f18.xml.in.h:239 ../comps-f19.xml.in.h:242
+#: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:243
 msgid "Traditional Chinese Support"
 msgstr "Podpora tradiční čínštiny"
 
@@ -1427,7 +1488,7 @@ msgid "Upper Sorbian Support"
 msgstr "Podpora hornolužičtiny"
 
 #: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:280
-#: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:243
+#: ../comps-f18.xml.in.h:241 ../comps-f19.xml.in.h:244
 #: ../comps-el6.xml.in.h:267
 msgid "Urdu Support"
 msgstr "Podpora urdštiny"
@@ -1447,13 +1508,13 @@ msgstr "Podpora vendštiny"
 msgid "Vietnamese Support"
 msgstr "Podpora vietnamštiny"
 
-#: ../comps-f16.xml.in.h:273 ../comps-f18.xml.in.h:241
-#: ../comps-f19.xml.in.h:244 ../comps-el6.xml.in.h:271
+#: ../comps-f16.xml.in.h:273 ../comps-f18.xml.in.h:242
+#: ../comps-f19.xml.in.h:245 ../comps-el6.xml.in.h:271
 msgid "Virtualization"
 msgstr "Virtualizace"
 
 #: ../comps-f16.xml.in.h:274 ../comps-f17.xml.in.h:285
-#: ../comps-f18.xml.in.h:242 ../comps-f19.xml.in.h:245
+#: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
 msgid "These packages provide a virtualization environment."
 msgstr "Balíčky poskytující prostředí pro virtualizaci."
 
@@ -1474,13 +1535,13 @@ msgid ""
 msgstr "Balíčky pro vývoj webových aplikací nebo webových stránek."
 
 #: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:291
-#: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:262
+#: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:263
 #: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
 msgid "Web Server"
 msgstr "WWW server"
 
 #: ../comps-f16.xml.in.h:279 ../comps-f17.xml.in.h:292
-#: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:247
+#: ../comps-f18.xml.in.h:245 ../comps-f19.xml.in.h:248
 #: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
 msgstr "Nástroje pro běh Webového serveru."
@@ -1491,25 +1552,26 @@ msgid "Welsh Support"
 msgstr "Podpora velštiny"
 
 #: ../comps-f16.xml.in.h:281 ../comps-f17.xml.in.h:294
-#: ../comps-f18.xml.in.h:245 ../comps-f19.xml.in.h:248
+#: ../comps-f18.xml.in.h:246 ../comps-f19.xml.in.h:249
 #: ../comps-el5.xml.in.h:67
 msgid "Window Managers"
 msgstr "Správci oken"
 
 #: ../comps-f16.xml.in.h:282 ../comps-f17.xml.in.h:295
-#: ../comps-f18.xml.in.h:246 ../comps-f19.xml.in.h:249
+#: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:250
 #: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
-msgstr "Jednoduší správci oken, kteří nejsou součástí větších grafických prostředí."
+msgstr ""
+"Jednoduší správci oken, kteří nejsou součástí větších grafických prostředí."
 
 #: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:296
-#: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:250
+#: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:251
 msgid "X Software Development"
 msgstr "Vývoj pro X Window System"
 
 #: ../comps-f16.xml.in.h:284 ../comps-f17.xml.in.h:297
-#: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:251
+#: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr "Balíčky pro vývoj aplikací pro X Window System."
@@ -1522,7 +1584,9 @@ msgstr "Prostředí Xfce"
 #: ../comps-f16.xml.in.h:286 ../comps-f17.xml.in.h:299
 #: ../comps-f18.xml.in.h:27 ../comps-f19.xml.in.h:27 ../comps-el6.xml.in.h:290
 msgid "A lightweight desktop environment that works well on low end machines."
-msgstr "Odlehčené uživatelské prostředí, které dobře funguje na pomalejších počítačích."
+msgstr ""
+"Odlehčené uživatelské prostředí, které dobře funguje na pomalejších "
+"počítačích."
 
 #: ../comps-f16.xml.in.h:287 ../comps-f17.xml.in.h:300
 msgid "XFCE Software Development"
@@ -1532,7 +1596,9 @@ msgstr "Vývoj pro XFCE"
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
-msgstr "Nainstalujte tyto balíčky, pokud potřebujete vyvíjet grafické aplikace pro GTK+ a XFCE."
+msgstr ""
+"Nainstalujte tyto balíčky, pokud potřebujete vyvíjet grafické aplikace pro "
+"GTK+ a XFCE."
 
 #: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:302
 #: ../comps-el6.xml.in.h:291
@@ -1540,7 +1606,7 @@ msgid "Xhosa Support"
 msgstr "Podpora xhoštiny"
 
 #: ../comps-f16.xml.in.h:290 ../comps-f17.xml.in.h:303
-#: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:254
+#: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
 msgid "Yiddish Support"
 msgstr "Podpora jidiš"
 
@@ -1555,9 +1621,12 @@ msgstr "Jazyky"
 
 #: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
 msgid ""
-"These packages provide support for various locales including fonts and input"
-" methods."
-msgstr "Balíčky poskytující podporu pro různé jazykové mutace včetně písem a vstupních metod (jazyky s obrázkovými znaky jako čínština, japonština, korejština a podobně)."
+"These packages provide support for various locales including fonts and input "
+"methods."
+msgstr ""
+"Balíčky poskytující podporu pro různé jazykové mutace včetně písem a "
+"vstupních metod (jazyky s obrázkovými znaky jako čínština, japonština, "
+"korejština a podobně)."
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
 #: ../comps-el5.xml.in.h:71
@@ -1570,24 +1639,24 @@ msgid "Desktop environments"
 msgstr "Uživatelská prostředí"
 
 #: ../comps-f16.xml.in.h:296 ../comps-f17.xml.in.h:309
-#: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:272
+#: ../comps-f18.xml.in.h:270 ../comps-f19.xml.in.h:273
 #: ../comps-el5.xml.in.h:73 ../comps-el6.xml.in.h:295
 msgid "Applications"
 msgstr "Aplikace"
 
 #: ../comps-f16.xml.in.h:297 ../comps-f17.xml.in.h:310
-#: ../comps-f18.xml.in.h:270 ../comps-f19.xml.in.h:273
+#: ../comps-f18.xml.in.h:271 ../comps-f19.xml.in.h:274
 msgid "Applications to perform a variety of tasks"
 msgstr "Aplikace pro různé úkoly"
 
 #: ../comps-f16.xml.in.h:298 ../comps-f17.xml.in.h:311
-#: ../comps-f18.xml.in.h:271 ../comps-f19.xml.in.h:274
+#: ../comps-f18.xml.in.h:272 ../comps-f19.xml.in.h:275
 #: ../comps-el5.xml.in.h:75 ../comps-el6.xml.in.h:297
 msgid "Development"
 msgstr "Vývoj"
 
 #: ../comps-f16.xml.in.h:299 ../comps-f17.xml.in.h:312
-#: ../comps-f18.xml.in.h:272 ../comps-f19.xml.in.h:275
+#: ../comps-f18.xml.in.h:273 ../comps-f19.xml.in.h:276
 #: ../comps-el5.xml.in.h:76
 msgid ""
 "Packages which provide functionality for developing and building "
@@ -1595,36 +1664,36 @@ msgid ""
 msgstr "Balíčky poskytující podporu pro vývoj a kompilaci aplikací."
 
 #: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:313
-#: ../comps-f18.xml.in.h:273 ../comps-f19.xml.in.h:276
+#: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:277
 #: ../comps-el5.xml.in.h:77
 msgid "Servers"
 msgstr "Servery"
 
 #: ../comps-f16.xml.in.h:301 ../comps-f17.xml.in.h:314
-#: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:277
+#: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:278
 #: ../comps-el5.xml.in.h:78
 msgid "Software used for running network servers"
 msgstr "Software používaný pro běh síťových serverů"
 
 #: ../comps-f16.xml.in.h:302 ../comps-f17.xml.in.h:315
-#: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:278
+#: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:279
 #: ../comps-el5.xml.in.h:79
 msgid "Base System"
 msgstr "Základ systému"
 
 #: ../comps-f16.xml.in.h:303 ../comps-f17.xml.in.h:316
-#: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:279
+#: ../comps-f18.xml.in.h:277 ../comps-f19.xml.in.h:280
 #: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
 msgstr "Různé základní části systému."
 
 #: ../comps-f16.xml.in.h:304 ../comps-f17.xml.in.h:317
-#: ../comps-f18.xml.in.h:277 ../comps-f19.xml.in.h:280
+#: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:281
 msgid "Content"
 msgstr "Obsah"
 
 #: ../comps-f16.xml.in.h:305 ../comps-f17.xml.in.h:318
-#: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:281
+#: ../comps-f18.xml.in.h:279 ../comps-f19.xml.in.h:282
 msgid "Text and other Free content."
 msgstr "Text a ostatní volný obsah"
 
@@ -1675,8 +1744,8 @@ msgstr "Medicínské aplikace"
 msgid "This is a group of applications related to health care."
 msgstr "Skupina obsahuje balíčky, které se týkají lékařské péče."
 
-#: ../comps-f17.xml.in.h:234 ../comps-f18.xml.in.h:217
-#: ../comps-f19.xml.in.h:218
+#: ../comps-f17.xml.in.h:234 ../comps-f18.xml.in.h:218
+#: ../comps-f19.xml.in.h:219
 msgid "Santali Support"
 msgstr ""
 
@@ -1984,77 +2053,81 @@ msgid ""
 "interface."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
+#: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:214
+msgid "Suite of packages for robotics development"
+msgstr ""
+
+#: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:247
 msgid "Basic Web Server"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
+#: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
 msgid "Xfce Software Development"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
+#: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:254
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
+#: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
 msgid "GNOME Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
+#: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
 msgid "Xfce Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
+#: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
 msgid "LXDE Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
+#: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
 msgid "Cinnamon Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
+#: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
 msgid "MATE Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
+#: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
 msgid "Development and Creative Workstation"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
+#: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:262
 msgid "Workstation for software, hardware, graphics, or content development."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:263
+#: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
 msgid "Server for serving static and dynamic internet content."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
+#: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
 msgid "Infrastructure Server"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
+#: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
 msgid "Server for operating network infrastructure services."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
+#: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
 msgid "Basic X Window System"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
+#: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
 msgid "X Window System without a full desktop environment."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
+#: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:269
 msgid "Minimal Install"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:269
+#: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:270
 msgid "Basic functionality."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:270
+#: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:271
 #: ../comps-el6.xml.in.h:126
 msgid "KDE Desktop"
 msgstr "KDE Desktop"
@@ -2067,14 +2140,14 @@ msgstr ""
 msgid "Lepcha Support"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:219
+#: ../comps-f19.xml.in.h:220
 msgid "Security Lab"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:220
+#: ../comps-f19.xml.in.h:221
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security"
-" testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security "
+"testing methodologies."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4
@@ -2086,7 +2159,9 @@ msgstr "Kolekce nástrojů a prostředků pro podporu Arabštiny."
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr "Nástroje pro vytváření dokumentů ve formátu DocBook, jejich konverze do formátů HTML, PDF, Postscriptu a holého textu."
+msgstr ""
+"Nástroje pro vytváření dokumentů ve formátu DocBook, jejich konverze do "
+"formátů HTML, PDF, Postscriptu a holého textu."
 
 #: ../comps-el5.xml.in.h:13
 msgid ""
@@ -2101,13 +2176,17 @@ msgstr "Připojení přes telefonní linku"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr "Textové editory (například Emacs a Vi) umožňují vytvářet a upravovat textové soubory."
+msgstr ""
+"Textové editory (například Emacs a Vi) umožňují vytvářet a upravovat textové "
+"soubory."
 
 #: ../comps-el5.xml.in.h:32
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr "GNOME je výkonné grafické uživatelské prostředí, které obsahuje panel, pracovní plochu, systémové ikony a grafického správce souborů."
+msgstr ""
+"GNOME je výkonné grafické uživatelské prostředí, které obsahuje panel, "
+"pracovní plochu, systémové ikony a grafického správce souborů."
 
 #: ../comps-el5.xml.in.h:42
 msgid ""
@@ -2125,9 +2204,11 @@ msgstr "Prostředí KDE"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop,"
-" system icons, and a graphical file manager."
-msgstr "KDE je výkonné grafické uživatelské prostředí, které obsahuje panel, pracovní plochu, systémové ikony a grafického správce souborů."
+"KDE is a powerful, graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE je výkonné grafické uživatelské prostředí, které obsahuje panel, "
+"pracovní plochu, systémové ikony a grafického správce souborů."
 
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -2160,7 +2241,8 @@ msgstr "Zálohovací klient"
 
 #: ../comps-el6.xml.in.h:11
 msgid "Client tools for connecting to a backup server and doing backups."
-msgstr "Klientské nástroje pro připojení k zálohovacímu serveru a vytváření záloh."
+msgstr ""
+"Klientské nástroje pro připojení k zálohovacímu serveru a vytváření záloh."
 
 #: ../comps-el6.xml.in.h:12
 msgid "Backup Server"
@@ -2206,7 +2288,9 @@ msgstr "Knihovny zpětné kompatibility"
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
-msgstr "Knihovny zpětné kompatibility pro aplikace určené pro předchozí verze systému."
+msgstr ""
+"Knihovny zpětné kompatibility pro aplikace určené pro předchozí verze "
+"systému."
 
 #: ../comps-el6.xml.in.h:36
 msgid "Console internet tools"
@@ -2214,7 +2298,9 @@ msgstr "Internetové nástroje pro konzoli"
 
 #: ../comps-el6.xml.in.h:37
 msgid "Console internet access tools, often used by administrators."
-msgstr "Nástroje pro přístup k Internetu z konzole, které někdy používají správci systému."
+msgstr ""
+"Nástroje pro přístup k Internetu z konzole, které někdy používají správci "
+"systému."
 
 #: ../comps-el6.xml.in.h:40
 msgid "Smallest possible installation."
@@ -2254,7 +2340,9 @@ msgstr "Vývoj pro desktop"
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
-msgstr "Hlavičkové soubory a knihovny pro vývoj aplikací běžících na desktopové platformě systému."
+msgstr ""
+"Hlavičkové soubory a knihovny pro vývoj aplikací běžících na desktopové "
+"platformě systému."
 
 #: ../comps-el6.xml.in.h:52
 msgid "Development tools"
@@ -2274,7 +2362,8 @@ msgstr "Adresářový klient"
 
 #: ../comps-el6.xml.in.h:57
 msgid "Clients for integration into a network managed by a directory service."
-msgstr "Klienské nástroje pro integraci do sítě spravované adresářovou službou."
+msgstr ""
+"Klienské nástroje pro integraci do sítě spravované adresářovou službou."
 
 #: ../comps-el6.xml.in.h:61
 msgid "Eclipse"
@@ -2355,8 +2444,8 @@ msgstr "Podpora Infiniband"
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using "
-"RDMA-based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using RDMA-"
+"based InfiniBand and iWARP fabrics."
 msgstr "Podpora clusterů a gridů za použití RDMA, InfiniBand a iWARP."
 
 #: ../comps-el6.xml.in.h:110
@@ -2417,7 +2506,9 @@ msgstr "Kompatibilita se starým X Window System"
 msgid ""
 "Compatibility programs for migration from or working with legacy X Window "
 "System environments."
-msgstr "Nástroje pro kompatibilitu nebo migraci ze zastaralých prostředí X Window System."
+msgstr ""
+"Nástroje pro kompatibilitu nebo migraci ze zastaralých prostředí X Window "
+"System."
 
 #: ../comps-el6.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
@@ -2427,7 +2518,9 @@ msgstr "Základní podpora pro zastaralé funkce X Window System"
 msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
-msgstr "Minimální sada nástrojů pro kompatibilitu se zastaralými prostředími X Window System."
+msgstr ""
+"Minimální sada nástrojů pro kompatibilitu se zastaralými prostředími X "
+"Window System."
 
 #: ../comps-el6.xml.in.h:148
 msgid "E-mail server"
@@ -2506,8 +2599,7 @@ msgid "Performance Tools"
 msgstr "Výkonové nástroje"
 
 #: ../comps-el6.xml.in.h:183
-msgid ""
-"Tools for diagnosing system and application-level performance problems."
+msgid "Tools for diagnosing system and application-level performance problems."
 msgstr "Nástroje pro zjišťování výkonnostních problémů aplikací."
 
 #: ../comps-el6.xml.in.h:184
@@ -2595,7 +2687,9 @@ msgstr "Vývoj serverové platformy"
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
-msgstr "Hlavičkové soubory a knihovny pro vývoj aplikací běžících na serverové platformě systému."
+msgstr ""
+"Hlavičkové soubory a knihovny pro vývoj aplikací běžících na serverové "
+"platformě systému."
 
 #: ../comps-el6.xml.in.h:214
 msgid "Server Policy"
@@ -2747,7 +2841,9 @@ msgstr "Nástroje pro online správu virtualizovaných systémů."
 msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
-msgstr "Podpora pro webový server, který umožňuje spouštět aplikace v Perlu nebo Pythonu."
+msgstr ""
+"Podpora pro webový server, který umožňuje spouštět aplikace v Perlu nebo "
+"Pythonu."
 
 #: ../comps-el6.xml.in.h:282
 msgid "Web Servlet Engine"

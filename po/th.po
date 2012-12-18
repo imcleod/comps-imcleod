@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Dimitris Glezos <glezos@indifex.com>, 2011.
 # Kamthorn Krairaksa <kamthorn_k@yahoo.com>, 2004, 2006.
@@ -10,14 +10,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-17 17:01-0500\n"
+"POT-Creation-Date: 2012-12-18 00:39-0500\n"
 "PO-Revision-Date: 2012-12-17 22:02+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: th\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1 ../comps-f18.xml.in.h:72
@@ -28,9 +28,11 @@ msgstr "เครื่องมือจัดการระบบ"
 #: ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2 ../comps-f18.xml.in.h:73
 #: ../comps-f19.xml.in.h:73 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system,"
-" such as for managing user accounts and configuring system hardware."
-msgstr "กลุ่มนี้ประกอบด้วยเครื่องมือบริหารจัดการระบบแบบกราฟิก เช่น การจัดการบัญชีผู้ใช้และตั้งค่าฮาร์ดแวร์ของระบบ"
+"This group is a collection of graphical administration tools for the system, "
+"such as for managing user accounts and configuring system hardware."
+msgstr ""
+"กลุ่มนี้ประกอบด้วยเครื่องมือบริหารจัดการระบบแบบกราฟิก เช่น "
+"การจัดการบัญชีผู้ใช้และตั้งค่าฮาร์ดแวร์ของระบบ"
 
 #: ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3 ../comps-el6.xml.in.h:3
 msgid "Afrikaans Support"
@@ -82,7 +84,9 @@ msgstr "การเขียนและงานพิมพ์"
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
-msgstr "เครื่องมือเหล่านี้ทำให้คุณสร้างเอกสารเป็นรูปแบบ DocBook และแปลงเป็น HTML, PDF, Postscript และไฟล์ข้อความได้"
+msgstr ""
+"เครื่องมือเหล่านี้ทำให้คุณสร้างเอกสารเป็นรูปแบบ DocBook และแปลงเป็น HTML, PDF, "
+"Postscript และไฟล์ข้อความได้"
 
 #: ../comps-f16.xml.in.h:14 ../comps-f17.xml.in.h:15 ../comps-el6.xml.in.h:9
 msgid "Azerbaijani Support"
@@ -96,7 +100,9 @@ msgstr "พื้นฐาน"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr "กลุ่มนี้ประกอบด้วยชุดแพกเกจที่เล็กที่สุด มีประโยชน์สำหรับเอาไว้สร้างเราเตอร์หรือไฟร์วอลล์ขนาดเล็ก เป็นต้น"
+msgstr ""
+"กลุ่มนี้ประกอบด้วยชุดแพกเกจที่เล็กที่สุด มีประโยชน์สำหรับเอาไว้สร้างเราเตอร์หรือไฟร์วอลล์ขนาดเล็ก "
+"เป็นต้น"
 
 #: ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:18 ../comps-el5.xml.in.h:9
 #: ../comps-el6.xml.in.h:287
@@ -230,8 +236,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:49 ../comps-f18.xml.in.h:97
 #: ../comps-f19.xml.in.h:97
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME"
-" desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME "
+"desktop"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
@@ -303,8 +309,7 @@ msgstr "ไลบรารีสำหรับการพัฒนาซอฟ
 #: ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:62 ../comps-f18.xml.in.h:107
 #: ../comps-f19.xml.in.h:107
 msgid ""
-"The packages in this group are core libraries needed to develop "
-"applications."
+"The packages in this group are core libraries needed to develop applications."
 msgstr "แพกเกจในกลุ่มนี้เป็นไลบรารี่หลัก ซึ่งจำเป็นสำหรับพัฒนาแอพลิเคชัน"
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
@@ -317,7 +322,9 @@ msgstr "เครื่องมือสำหรับการพัฒนา
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr "เครื่องมือเหล่านี้ประกอบด้วยเครื่องมือพัฒนาหลักๆ เช่น automake, gcc, perl, python และตัวตรวจหาบั๊ก"
+msgstr ""
+"เครื่องมือเหล่านี้ประกอบด้วยเครื่องมือพัฒนาหลักๆ เช่น automake, gcc, perl, python "
+"และตัวตรวจหาบั๊ก"
 
 #: ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:65 ../comps-f18.xml.in.h:110
 #: ../comps-f19.xml.in.h:110 ../comps-el6.xml.in.h:54
@@ -379,7 +386,9 @@ msgstr "โปรแกรมแก้ไขแฟ้ม"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr "บางครั้งเรียกว่าโปรแกรมแก้ไขข้อความ โปรแกรมเหล่านี้คือโปรแกรมที่จะให้คุณสามารถสร้าง และแก้ไขไฟล์ข้อความได้ ซึ่งรวมไปถึง Emacs และ Vi"
+msgstr ""
+"บางครั้งเรียกว่าโปรแกรมแก้ไขข้อความ โปรแกรมเหล่านี้คือโปรแกรมที่จะให้คุณสามารถสร้าง "
+"และแก้ไขไฟล์ข้อความได้ ซึ่งรวมไปถึง Emacs และ Vi"
 
 #: ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:78 ../comps-f18.xml.in.h:122
 #: ../comps-f19.xml.in.h:122 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
@@ -411,7 +420,9 @@ msgstr "เกี่ยวกับวิศวกรรมและวิทย
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
-msgstr "กลุ่มนี้ประกอบด้วยแพ็กเกจด้านคณิตศาสตร์และวิทยาศาสตร์ การคำนวณและพล็อตกราฟ รวมไปถึงการแปลงหน่วย"
+msgstr ""
+"กลุ่มนี้ประกอบด้วยแพ็กเกจด้านคณิตศาสตร์และวิทยาศาสตร์ การคำนวณและพล็อตกราฟ "
+"รวมไปถึงการแปลงหน่วย"
 
 #: ../comps-f16.xml.in.h:79 ../comps-f17.xml.in.h:84 ../comps-el6.xml.in.h:69
 msgid "Esperanto Support"
@@ -543,7 +554,9 @@ msgstr "สภาพแวดล้อมเดสก์ท็อปแบบ GN
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr "GNOME เป็นระบบติดต่อผู้ใช้ที่เป็นกราฟิกที่ประกอบด้วยพาเนล, พื้นโต๊ะ, ไอคอนของระบบ\nและตัวจัดการไฟล์แบบกราฟฟิค"
+msgstr ""
+"GNOME เป็นระบบติดต่อผู้ใช้ที่เป็นกราฟิกที่ประกอบด้วยพาเนล, พื้นโต๊ะ, ไอคอนของระบบ\n"
+"และตัวจัดการไฟล์แบบกราฟฟิค"
 
 #: ../comps-f16.xml.in.h:106 ../comps-f17.xml.in.h:111
 #: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:141
@@ -740,7 +753,7 @@ msgid "KDE Software Compilation"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:141 ../comps-f17.xml.in.h:146
-#: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:271
+#: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:272
 msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
@@ -827,7 +840,8 @@ msgstr "เซิร์ฟเวอร์เน็ตเวิร์คแบบ
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr "แพกเกจเหล่านี้ประกอบด้วยตัวให้บริการสำหรับเน็ตเวิร์คโพรโตคอลแบบเก่า เช่น rsh และ telnet"
+msgstr ""
+"แพกเกจเหล่านี้ประกอบด้วยตัวให้บริการสำหรับเน็ตเวิร์คโพรโตคอลแบบเก่า เช่น rsh และ telnet"
 
 #: ../comps-f16.xml.in.h:157 ../comps-f17.xml.in.h:162
 #: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:174
@@ -895,8 +909,7 @@ msgstr "LXDE"
 #: ../comps-f18.xml.in.h:36 ../comps-f19.xml.in.h:36
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older "
-"computers."
+"low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:171 ../comps-f17.xml.in.h:176
@@ -989,7 +1002,9 @@ msgstr "MinGW cross-compiler"
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
-msgstr "สนับสนุนการคอมไพล์โปรแกรมข้ามไปยังระบบปฎิบัติการ Windows 32 บิต, ทดสอบโปรแกรม และสร้างชุดติดตั้งทั้งหมดนี้อยู่ภายใน Fedora"
+msgstr ""
+"สนับสนุนการคอมไพล์โปรแกรมข้ามไปยังระบบปฎิบัติการ Windows 32 บิต, ทดสอบโปรแกรม "
+"และสร้างชุดติดตั้งทั้งหมดนี้อยู่ภายใน Fedora"
 
 #: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:198
 #: ../comps-el6.xml.in.h:162
@@ -1156,17 +1171,17 @@ msgid "Romanian Support"
 msgstr "การสนับสนุนภาษาโรมาเนีย"
 
 #: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:229
-#: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:214
+#: ../comps-f18.xml.in.h:214 ../comps-f19.xml.in.h:215
 msgid "Ruby"
 msgstr "ภาษารูบี้"
 
 #: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:230
-#: ../comps-f18.xml.in.h:214 ../comps-f19.xml.in.h:215
+#: ../comps-f18.xml.in.h:215 ../comps-f19.xml.in.h:216
 msgid "Basic support for the Ruby programming language."
 msgstr "การสนับสนุนพื้นฐานสำหรับการเขียนโปรแกรมด้วยภาษารูบี้"
 
 #: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:231
-#: ../comps-f18.xml.in.h:215 ../comps-f19.xml.in.h:216
+#: ../comps-f18.xml.in.h:216 ../comps-f19.xml.in.h:217
 #: ../comps-el6.xml.in.h:202
 msgid "Russian Support"
 msgstr "การสนับสนุนภาษารัสเซีย"
@@ -1176,7 +1191,7 @@ msgid "Samoan Support"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:223 ../comps-f17.xml.in.h:233
-#: ../comps-f18.xml.in.h:216 ../comps-f19.xml.in.h:217
+#: ../comps-f18.xml.in.h:217 ../comps-f19.xml.in.h:218
 #: ../comps-el6.xml.in.h:203
 msgid "Sanskrit Support"
 msgstr ""
@@ -1192,14 +1207,13 @@ msgid "Serbian Support"
 msgstr "การสนับสนุนภาษาเซอร์เบียน"
 
 #: ../comps-f16.xml.in.h:226 ../comps-f17.xml.in.h:237
-#: ../comps-f18.xml.in.h:218 ../comps-f19.xml.in.h:221
+#: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
 msgid "Server Configuration Tools"
 msgstr "เครื่องมือตั้งค่าตัวให้บริการ"
 
 #: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
-#: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
-msgid ""
-"This group contains all of Red Hat's custom server configuration tools."
+#: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:223
+msgid "This group contains all of Red Hat's custom server configuration tools."
 msgstr "กลุ่มนี้ประกอบไปด้วยเครื่องมือตั้งค่าตัวให้บริการของ Red Hat ทั้งหมด"
 
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
@@ -1207,18 +1221,18 @@ msgid "Shuswap Support"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:240
-#: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:223
+#: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:224
 msgid "Simplified Chinese Support"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:230 ../comps-f17.xml.in.h:241
-#: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:224
+#: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:225
 #: ../comps-el6.xml.in.h:216
 msgid "Sindhi Support"
 msgstr "การสนับสนุนภาษาสินธี"
 
 #: ../comps-f16.xml.in.h:231 ../comps-f17.xml.in.h:242
-#: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:225
+#: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:226
 #: ../comps-el6.xml.in.h:217
 msgid "Sinhala Support"
 msgstr "การสนับสนุนภาษาสิงหล"
@@ -1234,15 +1248,15 @@ msgid "Slovenian Support"
 msgstr "การสนับสนุนภาษาสโลวีเนีย"
 
 #: ../comps-f16.xml.in.h:234 ../comps-f17.xml.in.h:245
-#: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:226
+#: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
 msgid "Windows File Server"
 msgstr "ตัวให้บริการแฟ้มแบบวินโดวส์"
 
 #: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
-#: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
+#: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:228
 msgid ""
-"This package group allows you to share files between Linux and MS "
-"Windows(tm) systems."
+"This package group allows you to share files between Linux and MS Windows"
+"(tm) systems."
 msgstr "แพกเกจกลุ่มนี้ทำให้คุณแชร์แฟ้มระหว่างลินุกซ์และไมโครซอฟท์วินโดวส์ (tm) ได้"
 
 #: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
@@ -1250,18 +1264,20 @@ msgid "Somali Support"
 msgstr "การสนับสนุนภาษาโซมาเลีย"
 
 #: ../comps-f16.xml.in.h:237 ../comps-f17.xml.in.h:248
-#: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:228
+#: ../comps-f18.xml.in.h:226 ../comps-f19.xml.in.h:229
 #: ../comps-el5.xml.in.h:57
 msgid "Sound and Video"
 msgstr "เสียงและวิดีโอ"
 
 #: ../comps-f16.xml.in.h:238 ../comps-f17.xml.in.h:249
-#: ../comps-f18.xml.in.h:226 ../comps-f19.xml.in.h:229
+#: ../comps-f18.xml.in.h:227 ../comps-f19.xml.in.h:230
 #: ../comps-el5.xml.in.h:58
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr "มีตั้งแต่ตัวบันทึกซีดีจนกระทั่งตัวเล่นซีดีเพลงและแฟ้มมัลติมีเดีย แพ็กเกจนี้ทำให้ระบบคอมพิวเตอร์ของคุณสามารถทำงานกับเสียงและวิดีโอได้"
+msgstr ""
+"มีตั้งแต่ตัวบันทึกซีดีจนกระทั่งตัวเล่นซีดีเพลงและแฟ้มมัลติมีเดีย "
+"แพ็กเกจนี้ทำให้ระบบคอมพิวเตอร์ของคุณสามารถทำงานกับเสียงและวิดีโอได้"
 
 #: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:250
 #: ../comps-el6.xml.in.h:222
@@ -1279,22 +1295,22 @@ msgid "Spanish Support"
 msgstr "การสนับสนุนภาษาสเปน"
 
 #: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:253
-#: ../comps-f18.xml.in.h:227 ../comps-f19.xml.in.h:230
+#: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:231
 msgid "PostgreSQL Database"
 msgstr "ฐานข้อมูล PostgreSQL"
 
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:254
-#: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:231
+#: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
 msgid "This package group includes packages useful for use with Postgresql."
 msgstr "กลุ่มแพกเกจนี้ประกอบด้วยแพกเกจที่เสริมการทำงานของ Postgresql"
 
 #: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:255
-#: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
+#: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:233
 msgid "Sugar Desktop Environment"
 msgstr "สภาพแวดล้อมเดสก์ท็อป Sugar"
 
 #: ../comps-f16.xml.in.h:245 ../comps-f17.xml.in.h:256
-#: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:233
+#: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:234
 msgid "A software playground for learning about learning."
 msgstr "ซอฟต์แวร์สนามเด็กเล่นสำหรับเรียนรู้ที่จะเรียนรู้"
 
@@ -1314,18 +1330,20 @@ msgid "Swedish Support"
 msgstr "การสนับสนุนภาษาสวีเดน"
 
 #: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:260
-#: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:234
+#: ../comps-f18.xml.in.h:232 ../comps-f19.xml.in.h:235
 #: ../comps-el5.xml.in.h:59
 msgid "System Tools"
 msgstr "เครื่องมือระบบ"
 
 #: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:261
-#: ../comps-f18.xml.in.h:232 ../comps-f19.xml.in.h:235
+#: ../comps-f18.xml.in.h:233 ../comps-f19.xml.in.h:236
 #: ../comps-el5.xml.in.h:60
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr "กลุ่มนี้ประกอบด้วยเครื่องมือเกี่ยวกับระบบมากมาย เช่น โปรแกรมลูกข่ายสำหรับติดต่อกับ SMB share และเครื่องมือเฝ้าติดตามการจราจรในเครือข่าย"
+msgstr ""
+"กลุ่มนี้ประกอบด้วยเครื่องมือเกี่ยวกับระบบมากมาย เช่น โปรแกรมลูกข่ายสำหรับติดต่อกับ SMB share "
+"และเครื่องมือเฝ้าติดตามการจราจรในเครือข่าย"
 
 #: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:262
 #: ../comps-el6.xml.in.h:248
@@ -1338,13 +1356,13 @@ msgid "Tajik Support"
 msgstr "การสนับสนุนภาษาทาจิก"
 
 #: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:264
-#: ../comps-f18.xml.in.h:233 ../comps-f19.xml.in.h:236
+#: ../comps-f18.xml.in.h:234 ../comps-f19.xml.in.h:237
 #: ../comps-el6.xml.in.h:250
 msgid "Tamil Support"
 msgstr "การสนับสนุนภาษาทมิฬ"
 
 #: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:265
-#: ../comps-f18.xml.in.h:234 ../comps-f19.xml.in.h:237
+#: ../comps-f18.xml.in.h:235 ../comps-f19.xml.in.h:238
 #: ../comps-el6.xml.in.h:253
 msgid "Telugu Support"
 msgstr "การสนับสนุนภาษาเตลุคู"
@@ -1355,27 +1373,29 @@ msgid "Tetum Support"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:267
-#: ../comps-f18.xml.in.h:235 ../comps-f19.xml.in.h:238
+#: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:239
 #: ../comps-el5.xml.in.h:61
 msgid "Text-based Internet"
 msgstr "อินเทอร์เน็ตแบบตัวอักษร"
 
 #: ../comps-f16.xml.in.h:257 ../comps-f17.xml.in.h:268
-#: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:239
+#: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:240
 #: ../comps-el5.xml.in.h:62
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr "กลุ่มนี้ประกอบด้วยตัวรับส่งเมล เว็บ และโปรแกรมสนทนา แบบโหมดข้อความ ทั้งหมดนี้ไม่ต้องการระบบ X Window"
+msgstr ""
+"กลุ่มนี้ประกอบด้วยตัวรับส่งเมล เว็บ และโปรแกรมสนทนา แบบโหมดข้อความ ทั้งหมดนี้ไม่ต้องการระบบ "
+"X Window"
 
 #: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:269
-#: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:240
+#: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:241
 #: ../comps-el6.xml.in.h:257
 msgid "Thai Support"
 msgstr "สนับสนุนภาษาไทย"
 
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:270
-#: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:241
+#: ../comps-f18.xml.in.h:239 ../comps-f19.xml.in.h:242
 #: ../comps-el6.xml.in.h:258
 msgid "Tibetan Support"
 msgstr "การสนับสนุนภาษาทิเบต"
@@ -1389,7 +1409,7 @@ msgid "Tonga Support"
 msgstr "การสนับสนุนภาษาตองกา"
 
 #: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:273
-#: ../comps-f18.xml.in.h:239 ../comps-f19.xml.in.h:242
+#: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:243
 msgid "Traditional Chinese Support"
 msgstr ""
 
@@ -1424,7 +1444,7 @@ msgid "Upper Sorbian Support"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:280
-#: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:243
+#: ../comps-f18.xml.in.h:241 ../comps-f19.xml.in.h:244
 #: ../comps-el6.xml.in.h:267
 msgid "Urdu Support"
 msgstr "การสนับสนุนภาษาอูรดู"
@@ -1444,13 +1464,13 @@ msgstr "การสนับสนุนภาษาเวนดา"
 msgid "Vietnamese Support"
 msgstr "การสนับสนุนภาษาเวียดนาม"
 
-#: ../comps-f16.xml.in.h:273 ../comps-f18.xml.in.h:241
-#: ../comps-f19.xml.in.h:244 ../comps-el6.xml.in.h:271
+#: ../comps-f16.xml.in.h:273 ../comps-f18.xml.in.h:242
+#: ../comps-f19.xml.in.h:245 ../comps-el6.xml.in.h:271
 msgid "Virtualization"
 msgstr "ระบบเสมือน"
 
 #: ../comps-f16.xml.in.h:274 ../comps-f17.xml.in.h:285
-#: ../comps-f18.xml.in.h:242 ../comps-f19.xml.in.h:245
+#: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
 msgid "These packages provide a virtualization environment."
 msgstr "แพกเกจเหล่านี้จะรองรับสภาวะแวดล้อมการทำงานแบบเสมือน"
 
@@ -1471,13 +1491,13 @@ msgid ""
 msgstr "แพคเกจเหล่านี้จะช่วยคุณในการพัฒนาโปรแกรมบนเว็บหรือเว็บเพจต่างๆ"
 
 #: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:291
-#: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:262
+#: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:263
 #: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
 msgid "Web Server"
 msgstr "ตัวให้บริการเว็บ"
 
 #: ../comps-f16.xml.in.h:279 ../comps-f17.xml.in.h:292
-#: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:247
+#: ../comps-f18.xml.in.h:245 ../comps-f19.xml.in.h:248
 #: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
 msgstr "เครื่องมือเหล่านี้ทำให้คุณรันตัวให้บริการเว็บบนระบบนี้ได้"
@@ -1488,25 +1508,25 @@ msgid "Welsh Support"
 msgstr "การสนับสนุนภาษาเวลช์"
 
 #: ../comps-f16.xml.in.h:281 ../comps-f17.xml.in.h:294
-#: ../comps-f18.xml.in.h:245 ../comps-f19.xml.in.h:248
+#: ../comps-f18.xml.in.h:246 ../comps-f19.xml.in.h:249
 #: ../comps-el5.xml.in.h:67
 msgid "Window Managers"
 msgstr "โปรแกรมจัดการหน้าต่าง"
 
 #: ../comps-f16.xml.in.h:282 ../comps-f17.xml.in.h:295
-#: ../comps-f18.xml.in.h:246 ../comps-f19.xml.in.h:249
+#: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:250
 #: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr "โปรแกรมจัดการหน้าต่างแบบเรียบง่ายที่ไม่ได้เป็นส่วนหนึ่งของสภาพแวดล้อมเดสก์ท็อปที่ใหญ่กว่า"
 
 #: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:296
-#: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:250
+#: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:251
 msgid "X Software Development"
 msgstr "การพัฒนาซอฟต์แวร์บน X"
 
 #: ../comps-f16.xml.in.h:284 ../comps-f17.xml.in.h:297
-#: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:251
+#: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr "แพกเกจเหล่านี้ทำให้คุณพัฒนาแอพลิเคชันสำหรับรันบนระบบ X Window"
@@ -1537,7 +1557,7 @@ msgid "Xhosa Support"
 msgstr "กาสนับสนุนภาษาโคซา"
 
 #: ../comps-f16.xml.in.h:290 ../comps-f17.xml.in.h:303
-#: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:254
+#: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
 msgid "Yiddish Support"
 msgstr ""
 
@@ -1552,9 +1572,10 @@ msgstr "ภาษา"
 
 #: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
 msgid ""
-"These packages provide support for various locales including fonts and input"
-" methods."
-msgstr "แพกเกจเหล่านี้ทำให้สนับสนุนภาษาต่างๆ ซึ่งประกอบด้วยแบบอักษรและระบบป้อนข้อมูลของแต่ละภาษา"
+"These packages provide support for various locales including fonts and input "
+"methods."
+msgstr ""
+"แพกเกจเหล่านี้ทำให้สนับสนุนภาษาต่างๆ ซึ่งประกอบด้วยแบบอักษรและระบบป้อนข้อมูลของแต่ละภาษา"
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
 #: ../comps-el5.xml.in.h:71
@@ -1567,24 +1588,24 @@ msgid "Desktop environments"
 msgstr "สภาพแวดล้อมเดสก์ท็อป"
 
 #: ../comps-f16.xml.in.h:296 ../comps-f17.xml.in.h:309
-#: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:272
+#: ../comps-f18.xml.in.h:270 ../comps-f19.xml.in.h:273
 #: ../comps-el5.xml.in.h:73 ../comps-el6.xml.in.h:295
 msgid "Applications"
 msgstr "แอพลิเคชัน"
 
 #: ../comps-f16.xml.in.h:297 ../comps-f17.xml.in.h:310
-#: ../comps-f18.xml.in.h:270 ../comps-f19.xml.in.h:273
+#: ../comps-f18.xml.in.h:271 ../comps-f19.xml.in.h:274
 msgid "Applications to perform a variety of tasks"
 msgstr "โปรแกรมที่สามารถทำงานได้จิปาถะ"
 
 #: ../comps-f16.xml.in.h:298 ../comps-f17.xml.in.h:311
-#: ../comps-f18.xml.in.h:271 ../comps-f19.xml.in.h:274
+#: ../comps-f18.xml.in.h:272 ../comps-f19.xml.in.h:275
 #: ../comps-el5.xml.in.h:75 ../comps-el6.xml.in.h:297
 msgid "Development"
 msgstr "การพัฒนาซอฟต์แวร์"
 
 #: ../comps-f16.xml.in.h:299 ../comps-f17.xml.in.h:312
-#: ../comps-f18.xml.in.h:272 ../comps-f19.xml.in.h:275
+#: ../comps-f18.xml.in.h:273 ../comps-f19.xml.in.h:276
 #: ../comps-el5.xml.in.h:76
 msgid ""
 "Packages which provide functionality for developing and building "
@@ -1592,36 +1613,36 @@ msgid ""
 msgstr "ชุดแพกเกจที่ใช้สำหรับการพัฒนาและสร้างโปรแกรมประยุกต์"
 
 #: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:313
-#: ../comps-f18.xml.in.h:273 ../comps-f19.xml.in.h:276
+#: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:277
 #: ../comps-el5.xml.in.h:77
 msgid "Servers"
 msgstr "ตัวให้บริการ"
 
 #: ../comps-f16.xml.in.h:301 ../comps-f17.xml.in.h:314
-#: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:277
+#: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:278
 #: ../comps-el5.xml.in.h:78
 msgid "Software used for running network servers"
 msgstr "โปรแกรมสำหรับให้บริการในเครือข่าย"
 
 #: ../comps-f16.xml.in.h:302 ../comps-f17.xml.in.h:315
-#: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:278
+#: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:279
 #: ../comps-el5.xml.in.h:79
 msgid "Base System"
 msgstr "ระบบพื้นฐาน"
 
 #: ../comps-f16.xml.in.h:303 ../comps-f17.xml.in.h:316
-#: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:279
+#: ../comps-f18.xml.in.h:277 ../comps-f19.xml.in.h:280
 #: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
 msgstr "ส่วนประกอบหลักต่างๆ ของระบบ"
 
 #: ../comps-f16.xml.in.h:304 ../comps-f17.xml.in.h:317
-#: ../comps-f18.xml.in.h:277 ../comps-f19.xml.in.h:280
+#: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:281
 msgid "Content"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:305 ../comps-f17.xml.in.h:318
-#: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:281
+#: ../comps-f18.xml.in.h:279 ../comps-f19.xml.in.h:282
 msgid "Text and other Free content."
 msgstr ""
 
@@ -1672,8 +1693,8 @@ msgstr ""
 msgid "This is a group of applications related to health care."
 msgstr ""
 
-#: ../comps-f17.xml.in.h:234 ../comps-f18.xml.in.h:217
-#: ../comps-f19.xml.in.h:218
+#: ../comps-f17.xml.in.h:234 ../comps-f18.xml.in.h:218
+#: ../comps-f19.xml.in.h:219
 msgid "Santali Support"
 msgstr ""
 
@@ -1981,77 +2002,81 @@ msgid ""
 "interface."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
+#: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:214
+msgid "Suite of packages for robotics development"
+msgstr ""
+
+#: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:247
 msgid "Basic Web Server"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
+#: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
 msgid "Xfce Software Development"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
+#: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:254
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
+#: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
 msgid "GNOME Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
+#: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
 msgid "Xfce Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
+#: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
 msgid "LXDE Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
+#: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
 msgid "Cinnamon Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
+#: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
 msgid "MATE Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
+#: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
 msgid "Development and Creative Workstation"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
+#: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:262
 msgid "Workstation for software, hardware, graphics, or content development."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:263
+#: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
 msgid "Server for serving static and dynamic internet content."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
+#: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
 msgid "Infrastructure Server"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
+#: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
 msgid "Server for operating network infrastructure services."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
+#: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
 msgid "Basic X Window System"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
+#: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
 msgid "X Window System without a full desktop environment."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
+#: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:269
 msgid "Minimal Install"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:269
+#: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:270
 msgid "Basic functionality."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:270
+#: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:271
 #: ../comps-el6.xml.in.h:126
 msgid "KDE Desktop"
 msgstr ""
@@ -2064,14 +2089,14 @@ msgstr ""
 msgid "Lepcha Support"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:219
+#: ../comps-f19.xml.in.h:220
 msgid "Security Lab"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:220
+#: ../comps-f19.xml.in.h:221
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security"
-" testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security "
+"testing methodologies."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4
@@ -2083,7 +2108,9 @@ msgstr "กลุ่มนี้เป็นชุดเครื่องมื
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr "เครื่องมือเหล่านี้ทำให้คุณสร้างเอกสารเป็นรูปแบบ DocBook และแปลงเป็น HTML, PDF, Postscript และ text ได้"
+msgstr ""
+"เครื่องมือเหล่านี้ทำให้คุณสร้างเอกสารเป็นรูปแบบ DocBook และแปลงเป็น HTML, PDF, "
+"Postscript และ text ได้"
 
 #: ../comps-el5.xml.in.h:13
 msgid ""
@@ -2098,13 +2125,16 @@ msgstr "ระบบสนับสนุนการเชื่อมต่อ
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr "บางครั้งเรียกว่า ตัวแก้ไขแฟ้มข้อความ เหล่านี้ใช้สำหรับสร้างและแก้ไขแฟ้ม ซึ่งมีทั้ง Emacs และ Vi"
+msgstr ""
+"บางครั้งเรียกว่า ตัวแก้ไขแฟ้มข้อความ เหล่านี้ใช้สำหรับสร้างและแก้ไขแฟ้ม ซึ่งมีทั้ง Emacs และ Vi"
 
 #: ../comps-el5.xml.in.h:32
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr "GNOME คือระบบติดต่อกับผู้ใช้แบบกราฟิกที่ประกอบไปด้วย แพนัล เดสก์ท็อป ไอคอนระบบ และระบบจัดการแฟ้มแบบกราฟิก"
+msgstr ""
+"GNOME คือระบบติดต่อกับผู้ใช้แบบกราฟิกที่ประกอบไปด้วย แพนัล เดสก์ท็อป ไอคอนระบบ "
+"และระบบจัดการแฟ้มแบบกราฟิก"
 
 #: ../comps-el5.xml.in.h:42
 msgid ""
@@ -2122,9 +2152,11 @@ msgstr "KDE (K Desktop Environment)"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop,"
-" system icons, and a graphical file manager."
-msgstr "KDE คือระบบติดต่อกับผู้ใช้แบบกราฟิกที่ประกอบไปด้วย แพเนล เดสก์ท็อป ไอคอนระบบ และระบบจัดการแฟ้มแบบกราฟิก"
+"KDE is a powerful, graphical user interface which includes a panel, desktop, "
+"system icons, and a graphical file manager."
+msgstr ""
+"KDE คือระบบติดต่อกับผู้ใช้แบบกราฟิกที่ประกอบไปด้วย แพเนล เดสก์ท็อป ไอคอนระบบ "
+"และระบบจัดการแฟ้มแบบกราฟิก"
 
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -2352,8 +2384,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using "
-"RDMA-based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using RDMA-"
+"based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:110
@@ -2503,8 +2535,7 @@ msgid "Performance Tools"
 msgstr ""
 
 #: ../comps-el6.xml.in.h:183
-msgid ""
-"Tools for diagnosing system and application-level performance problems."
+msgid "Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:184
