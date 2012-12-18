@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Dimitris Glezos <glezos@indifex.com>, 2011.
 # Fran Diéguez <frandieguez@ubuntu.com>, 2012.
@@ -10,14 +10,13 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-17 17:01-0500\n"
-"PO-Revision-Date: 2012-05-15 22:21+0000\n"
-"Last-Translator: Fran Diéguez <frandieguez@ubuntu.com>\n"
-"Language-Team: Galician (http://www.transifex.com/projects/p/fedora/language/"
-"gl/)\n"
-"Language: gl\n"
+"PO-Revision-Date: 2012-12-17 22:02+0000\n"
+"Last-Translator: notting <notting@redhat.com>\n"
+"Language-Team: Galician (http://www.transifex.com/projects/p/fedora/language/gl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: gl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1 ../comps-f18.xml.in.h:72
@@ -28,8 +27,8 @@ msgstr "Ferramentas de Administración"
 #: ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2 ../comps-f18.xml.in.h:73
 #: ../comps-f19.xml.in.h:73 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3 ../comps-el6.xml.in.h:3
@@ -230,8 +229,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:49 ../comps-f18.xml.in.h:97
 #: ../comps-f19.xml.in.h:97
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
@@ -303,7 +302,8 @@ msgstr "Librerías de desenvolvemento"
 #: ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:62 ../comps-f18.xml.in.h:107
 #: ../comps-f19.xml.in.h:107
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
@@ -556,9 +556,7 @@ msgstr "Desenvolvemento de software de GNOME"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr ""
-"Instale estes paquetes para poder desenvolver aplicacións gráficas GTK+ e "
-"GNOME."
+msgstr "Instale estes paquetes para poder desenvolver aplicacións gráficas GTK+ e GNOME."
 
 #: ../comps-f16.xml.in.h:108 ../comps-f17.xml.in.h:113
 #: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:143
@@ -702,8 +700,7 @@ msgstr "Java"
 #: ../comps-f16.xml.in.h:133 ../comps-f17.xml.in.h:138
 #: ../comps-f18.xml.in.h:159 ../comps-f19.xml.in.h:159
 msgid "Support for running programs written in the Java programming language."
-msgstr ""
-"Soporte para executar programas escritos ca linguaxe de programación Java."
+msgstr "Soporte para executar programas escritos ca linguaxe de programación Java."
 
 #: ../comps-f16.xml.in.h:134 ../comps-f17.xml.in.h:139
 #: ../comps-f18.xml.in.h:160 ../comps-f19.xml.in.h:160
@@ -713,8 +710,7 @@ msgstr "Desenvolvemento con Java"
 #: ../comps-f16.xml.in.h:135 ../comps-f17.xml.in.h:140
 #: ../comps-f18.xml.in.h:161 ../comps-f19.xml.in.h:161
 msgid "Support for developing programs in the Java programming language."
-msgstr ""
-"Soporte para desenvolver programas usando a linguaxe de programación Java."
+msgstr "Soporte para desenvolver programas usando a linguaxe de programación Java."
 
 #: ../comps-f16.xml.in.h:136 ../comps-f17.xml.in.h:141
 #: ../comps-f18.xml.in.h:162 ../comps-f19.xml.in.h:162
@@ -898,7 +894,8 @@ msgstr "LXDE"
 #: ../comps-f18.xml.in.h:36 ../comps-f19.xml.in.h:36
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:171 ../comps-f17.xml.in.h:176
@@ -1135,9 +1132,7 @@ msgstr "Compatiblidade para impresión"
 #: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr ""
-"Instale estes paquetes para permitirlle ó sistema que imprima ou que actúe "
-"coma un servidor de impresión."
+msgstr "Instale estes paquetes para permitirlle ó sistema que imprima ou que actúe coma un servidor de impresión."
 
 #: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
 #: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
@@ -1202,7 +1197,8 @@ msgstr "Ferramentas de configuración de servidor"
 
 #: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
 #: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
@@ -1244,8 +1240,8 @@ msgstr "Servidor de ficheiros de Windows"
 #: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
 #: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
@@ -1289,8 +1285,7 @@ msgstr "Base de Datos PostgreSQL"
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:254
 #: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:231
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr ""
-"Este grupo de paquetes contén paquetes útiles para usar con PostgreSQL."
+msgstr "Este grupo de paquetes contén paquetes útiles para usar con PostgreSQL."
 
 #: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:255
 #: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
@@ -1556,8 +1551,8 @@ msgstr "Idiomas"
 
 #: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
@@ -1656,9 +1651,8 @@ msgid "Manipuri Support"
 msgstr ""
 
 #: ../comps-f17.xml.in.h:186
-#, fuzzy
 msgid "MATE Desktop Environment"
-msgstr "Ambiente de Escritorio GNOME"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:187
 msgid ""
@@ -1743,14 +1737,12 @@ msgid "Epiphany Web Browser for GNOME"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:13 ../comps-f19.xml.in.h:13
-#, fuzzy
 msgid "LibreOffice"
-msgstr "Desenvolvemento de LibreOffice"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
-#, fuzzy
 msgid "LibreOffice Productivity Suite"
-msgstr "Oficina/Productividade"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:15
 msgid "KDE Plasma Workspaces"
@@ -1764,9 +1756,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
-#, fuzzy
 msgid "KDE Applications"
-msgstr "Aplicacións"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
@@ -1777,9 +1768,8 @@ msgid "KDE Educational applications"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
-#, fuzzy
 msgid "KDE Multimedia support"
-msgstr "Compatiblidade para macedonio"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
@@ -1790,9 +1780,8 @@ msgid "KDE Office"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
-#, fuzzy
 msgid "KDE Office applications"
-msgstr "Aplicacións"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
@@ -1803,9 +1792,8 @@ msgid "KDE Telepathy applications"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
-#, fuzzy
 msgid "Applications for the Xfce Desktop"
-msgstr "Aplicativos para unha variedade de tarefas"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
@@ -1882,9 +1870,8 @@ msgid "XMonad"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
-#, fuzzy
 msgid "A tiling window manager"
-msgstr "Xestores de xanelas"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:50 ../comps-f19.xml.in.h:50
 msgid "XMonad for GNOME"
@@ -1903,14 +1890,12 @@ msgid "TCP/HTTP Load Balancer."
 msgstr ""
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
-#, fuzzy
 msgid "JBoss Application Server"
-msgstr "Aplicacións"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
-#, fuzzy
 msgid "Java appliation server."
-msgstr "Marco de traballo de aplicativos web PHP."
+msgstr ""
 
 #: ../comps-f18.xml.in.h:56 ../comps-f19.xml.in.h:56
 msgid "MongoDB"
@@ -1925,9 +1910,8 @@ msgid "Perl for Web"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:59 ../comps-f19.xml.in.h:59
-#, fuzzy
 msgid "Basic Perl web application support."
-msgstr "Marco de traballo de aplicativos web PHP."
+msgstr ""
 
 #: ../comps-f18.xml.in.h:60 ../comps-f19.xml.in.h:60
 msgid "PHP"
@@ -1942,27 +1926,24 @@ msgid "Python"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
-#, fuzzy
 msgid "Basic Python web application support."
-msgstr "Marco de traballo de aplicativos web PHP."
+msgstr ""
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:65 ../comps-f19.xml.in.h:65
-#, fuzzy
 msgid "Ruby on Rails web application stack."
-msgstr "Marco de traballo de aplicativos web PHP."
+msgstr ""
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:67 ../comps-f19.xml.in.h:67
-#, fuzzy
 msgid "Tomcat web application server."
-msgstr "Marco de traballo de aplicativos web PHP."
+msgstr ""
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
@@ -2000,48 +1981,38 @@ msgid ""
 msgstr ""
 
 #: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
-#, fuzzy
 msgid "Basic Web Server"
-msgstr "Servidor web"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
-#, fuzzy
 msgid "Xfce Software Development"
-msgstr "Desenvolvemento de software para X"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
-#, fuzzy
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
 msgstr ""
-"Instale estes paquetes para poder desenvolver aplicacións gráficas GTK+ e "
-"GNOME."
 
 #: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
-#, fuzzy
 msgid "GNOME Desktop"
-msgstr "Escritorio"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
-#, fuzzy
 msgid "Xfce Desktop"
-msgstr "Escritorio"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
-#, fuzzy
 msgid "LXDE Desktop"
-msgstr "Escritorio"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
-#, fuzzy
 msgid "Cinnamon Desktop"
-msgstr "Escritorio"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
-#, fuzzy
 msgid "MATE Desktop"
-msgstr "Escritorio"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
 msgid "Development and Creative Workstation"
@@ -2056,19 +2027,16 @@ msgid "Server for serving static and dynamic internet content."
 msgstr ""
 
 #: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
-#, fuzzy
 msgid "Infrastructure Server"
-msgstr "Servidor de infraestrutura de rede"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
-#, fuzzy
 msgid "Server for operating network infrastructure services."
-msgstr "Servidor de infraestrutura de rede"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
-#, fuzzy
 msgid "Basic X Window System"
-msgstr "Sistema X Window"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
 msgid "X Window System without a full desktop environment."
@@ -2092,19 +2060,17 @@ msgid "A set of commonly used KDE applications"
 msgstr ""
 
 #: ../comps-f19.xml.in.h:177
-#, fuzzy
 msgid "Lepcha Support"
-msgstr "Compatiblidade para quechua"
+msgstr ""
 
 #: ../comps-f19.xml.in.h:219
-#, fuzzy
 msgid "Security Lab"
-msgstr "Ferramentas de seguranza"
+msgstr ""
 
 #: ../comps-f19.xml.in.h:220
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security "
-"testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security"
+" testing methodologies."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4
@@ -2155,8 +2121,8 @@ msgstr "KDE (K Desktop Environment)"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:52
@@ -2385,8 +2351,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:110
@@ -2536,7 +2502,8 @@ msgid "Performance Tools"
 msgstr "Ferramentas de rendemento"
 
 #: ../comps-el6.xml.in.h:183
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:184

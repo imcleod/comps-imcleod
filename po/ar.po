@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Abd el rahman Ghareeb <king_abdo@yahoo.com>, 2004.
 # Ali Ghareb <ali.gareb@gmail.com>, 2007.
@@ -13,15 +13,14 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-17 17:01-0500\n"
-"PO-Revision-Date: 2012-04-10 18:22+0000\n"
+"PO-Revision-Date: 2012-12-17 22:02+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: Arabic <trans-ar@lists.fedoraproject.org>\n"
-"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
 #: ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1 ../comps-f18.xml.in.h:72
 #: ../comps-f19.xml.in.h:72 ../comps-el5.xml.in.h:1
@@ -31,11 +30,9 @@ msgstr "أدوات الإدارة"
 #: ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2 ../comps-f18.xml.in.h:73
 #: ../comps-f19.xml.in.h:73 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
-msgstr ""
-"تحتوي هذه المجموعة على أدوات ذات واجهة رسومية لإدارة النظام مثل إدارة حسابات "
-"المستخدمين و تهيئة عتاد النّظام."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
+msgstr "تحتوي هذه المجموعة على أدوات ذات واجهة رسومية لإدارة النظام مثل إدارة حسابات المستخدمين و تهيئة عتاد النّظام."
 
 #: ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3 ../comps-el6.xml.in.h:3
 msgid "Afrikaans Support"
@@ -87,9 +84,7 @@ msgstr "التّأليف والنّشر"
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
-msgstr ""
-"هذه الأدوات تتيح لك إنشاء مستندات بنسق DocBook و تحويلها إلى HTML و PDF و "
-"Postscript و text."
+msgstr "هذه الأدوات تتيح لك إنشاء مستندات بنسق DocBook و تحويلها إلى HTML و PDF و Postscript و text."
 
 #: ../comps-f16.xml.in.h:14 ../comps-f17.xml.in.h:15 ../comps-el6.xml.in.h:9
 msgid "Azerbaijani Support"
@@ -103,9 +98,7 @@ msgstr "أساسيّة"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr ""
-"تحتوي هذه المجموعة على حزم قليلة. مفيدة مثلا لإنشاء صناديق مسارات/جدارات "
-"نارية."
+msgstr "تحتوي هذه المجموعة على حزم قليلة. مفيدة مثلا لإنشاء صناديق مسارات/جدارات نارية."
 
 #: ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:18 ../comps-el5.xml.in.h:9
 #: ../comps-el6.xml.in.h:287
@@ -229,9 +222,7 @@ msgstr "مسار حرج (أساسي)"
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr ""
-"هناك مجموعة من الحزم التي توفر منصة وظائف مشتركة للمسار الحرجوظائف في جميع "
-"جوانب فيدورا"
+msgstr "هناك مجموعة من الحزم التي توفر منصة وظائف مشتركة للمسار الحرجوظائف في جميع جوانب فيدورا"
 
 #: ../comps-f16.xml.in.h:44 ../comps-f17.xml.in.h:48 ../comps-f18.xml.in.h:96
 #: ../comps-f19.xml.in.h:96
@@ -241,8 +232,8 @@ msgstr "مسار حرج (GNOME)"
 #: ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:49 ../comps-f18.xml.in.h:97
 #: ../comps-f19.xml.in.h:97
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr "هناك مجموعة من الحزم التي توفر وظائف المسار الحرج لسطح مكتب GNOME"
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
@@ -314,7 +305,8 @@ msgstr "مكتبات التطوير"
 #: ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:62 ../comps-f18.xml.in.h:107
 #: ../comps-f19.xml.in.h:107
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr "الحزم في هذه المجموعة هي مكتبات اللب و هي محتاجه لتطوير التطبيقات."
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
@@ -327,9 +319,7 @@ msgstr "أدوات التطوير"
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr ""
-"هذه الأدوات تحتوي على أدوات تطوير رئيسية مثل automake، gcc، بيرل، بيثون، "
-"ومزيلات العلل."
+msgstr "هذه الأدوات تحتوي على أدوات تطوير رئيسية مثل automake، gcc، بيرل، بيثون، ومزيلات العلل."
 
 #: ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:65 ../comps-f18.xml.in.h:110
 #: ../comps-f19.xml.in.h:110 ../comps-el6.xml.in.h:54
@@ -355,8 +345,7 @@ msgstr "اسم خادم خدمة أسم النّطاق (DNS)"
 #: ../comps-f19.xml.in.h:114
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr ""
-"تتيح لك هذه المجموعة من الحزم تشغيل خادم خدمة أسم النّطاق (BIND) على النظام."
+msgstr "تتيح لك هذه المجموعة من الحزم تشغيل خادم خدمة أسم النّطاق (BIND) على النظام."
 
 #: ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:71 ../comps-f18.xml.in.h:116
 #: ../comps-f19.xml.in.h:116
@@ -392,9 +381,7 @@ msgstr "محررات"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr ""
-"تسمى في بعض الأحيان محررات النصوص، هذه برامج تسمح لك بإنشاء و تعديل ملفات "
-"النصوص. من ضمنها Emacs و Vi."
+msgstr "تسمى في بعض الأحيان محررات النصوص، هذه برامج تسمح لك بإنشاء و تعديل ملفات النصوص. من ضمنها Emacs و Vi."
 
 #: ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:78 ../comps-f18.xml.in.h:122
 #: ../comps-f19.xml.in.h:122 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
@@ -426,8 +413,7 @@ msgstr "الهندسه و العلوم"
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
-msgstr ""
-"تحتوي هذه المجموعة على حزم لعمل الحسابات و العمليات العلمية و تحويل الوحدات."
+msgstr "تحتوي هذه المجموعة على حزم لعمل الحسابات و العمليات العلمية و تحويل الوحدات."
 
 #: ../comps-f16.xml.in.h:79 ../comps-f17.xml.in.h:84 ../comps-el6.xml.in.h:69
 msgid "Esperanto Support"
@@ -483,8 +469,7 @@ msgstr "تصميم الخط وتحزيمه"
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
-msgstr ""
-"هذه المجموعة هي مجموعة من الأدوات المستخدمة في تصميم، وتعديل، وتحزيم الخطوط."
+msgstr "هذه المجموعة هي مجموعة من الأدوات المستخدمة في تصميم، وتعديل، وتحزيم الخطوط."
 
 #: ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:96 ../comps-f18.xml.in.h:134
 #: ../comps-f19.xml.in.h:134 ../comps-el6.xml.in.h:78
@@ -560,9 +545,7 @@ msgstr "بيئة سطح المكتب جينوم"
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME عبارة عن واجهة رسومية للمستخدم تحتوي على لوحة للتحكم و سطح مكتب و "
-"أيقونات النظام ومدير الملفات الرسومية."
+msgstr "GNOME عبارة عن واجهة رسومية للمستخدم تحتوي على لوحة للتحكم و سطح مكتب و أيقونات النظام ومدير الملفات الرسومية."
 
 #: ../comps-f16.xml.in.h:106 ../comps-f17.xml.in.h:111
 #: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:141
@@ -764,10 +747,7 @@ msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
-msgstr ""
-"الـ KDE SC يتضمن سطح مكتب KDE البلازما, والذي هو على درجة عالية من تخصيص "
-"واجهة المستخدم الرسومية والتي تحتوي على لوحة ،سطح المكتب ، ونظام الرموز "
-"وكائنات سطح المكتب، والعديد من تطبيقات KDE القوية."
+msgstr "الـ KDE SC يتضمن سطح مكتب KDE البلازما, والذي هو على درجة عالية من تخصيص واجهة المستخدم الرسومية والتي تحتوي على لوحة ،سطح المكتب ، ونظام الرموز وكائنات سطح المكتب، والعديد من تطبيقات KDE القوية."
 
 #: ../comps-f16.xml.in.h:142 ../comps-f17.xml.in.h:147
 #: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:164
@@ -849,8 +829,7 @@ msgstr "خادم Legacy للشبكة"
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr ""
-"هذه الحزم تحتوي على خوادم لبروتوكولات الشبكات القديمة مثل rsh و telnet."
+msgstr "هذه الحزم تحتوي على خوادم لبروتوكولات الشبكات القديمة مثل rsh و telnet."
 
 #: ../comps-f16.xml.in.h:157 ../comps-f17.xml.in.h:162
 #: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:174
@@ -918,10 +897,9 @@ msgstr "LXDE"
 #: ../comps-f18.xml.in.h:36 ../comps-f19.xml.in.h:36
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-msgstr ""
-"LXDE هي بيئة سطح مكتب X11 خفيفة الوزن مصممة لأجهزة الحاسب مع مواصفات أجهزة "
-"منخفضة مثل netbooks، والأجهزة النقالة أو أجهزة الحاسب القديمة."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
+msgstr "LXDE هي بيئة سطح مكتب X11 خفيفة الوزن مصممة لأجهزة الحاسب مع مواصفات أجهزة منخفضة مثل netbooks، والأجهزة النقالة أو أجهزة الحاسب القديمة."
 
 #: ../comps-f16.xml.in.h:171 ../comps-f17.xml.in.h:176
 #: ../comps-el6.xml.in.h:147
@@ -1013,9 +991,7 @@ msgstr "MinGW مترجم متعدد المنصات"
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
-msgstr ""
-"دعم لبرامج الترجمة متعددة المنصات للأجهزة ويندوز  32 بت، واختبارهم، وبناء "
-"برامج التركيب، الجميع من داخل فيدورا."
+msgstr "دعم لبرامج الترجمة متعددة المنصات للأجهزة ويندوز  32 بت، واختبارهم، وبناء برامج التركيب، الجميع من داخل فيدورا."
 
 #: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:198
 #: ../comps-el6.xml.in.h:162
@@ -1159,8 +1135,7 @@ msgstr "دعم الطباعة"
 #: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr ""
-"قم بتثبيت هذه الأدوات لكي يتمكن النظام من الطباعة أو ليقوم بوظيفة خادم طباعة."
+msgstr "قم بتثبيت هذه الأدوات لكي يتمكن النظام من الطباعة أو ليقوم بوظيفة خادم طباعة."
 
 #: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
 #: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
@@ -1225,7 +1200,8 @@ msgstr "أدوات تهيئة الخادم"
 
 #: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
 #: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr "تحتوي هذه المجموعة على كل أدوات ردهات لتهيئة خادم مُخصّص."
 
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
@@ -1267,11 +1243,9 @@ msgstr "خادم ملفات لنظام ويندوز"
 #: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
 #: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
-msgstr ""
-"تتيح لك هذه المجموعة من الحزم مشاركة الملفات بين لينوكس و نظام نوافذ "
-"ميكروسوفت."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
+msgstr "تتيح لك هذه المجموعة من الحزم مشاركة الملفات بين لينوكس و نظام نوافذ ميكروسوفت."
 
 #: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
 msgid "Somali Support"
@@ -1289,9 +1263,7 @@ msgstr "الصوتيات و المرئيات"
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr ""
-"من تسجيل و تشغيل الاسطوانات الصوتية و الملفات الصوتية، تسمح لك هذه المجموعة "
-"من الحزم من التعامل مع الصوتيات و المرئيات على النظام."
+msgstr "من تسجيل و تشغيل الاسطوانات الصوتية و الملفات الصوتية، تسمح لك هذه المجموعة من الحزم من التعامل مع الصوتيات و المرئيات على النظام."
 
 #: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:250
 #: ../comps-el6.xml.in.h:222
@@ -1355,9 +1327,7 @@ msgstr "أدوات النظام"
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr ""
-"تحتوي هذه المجموعة على أدوات مختلفه للنظام، مثل برنامج للإتصال بمُشاركات كتلة "
-"رسائل النّظام (SMB) و أدوات لمراقبة نقل البيانات على الشبكة."
+msgstr "تحتوي هذه المجموعة على أدوات مختلفه للنظام، مثل برنامج للإتصال بمُشاركات كتلة رسائل النّظام (SMB) و أدوات لمراقبة نقل البيانات على الشبكة."
 
 #: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:262
 #: ../comps-el6.xml.in.h:248
@@ -1398,9 +1368,7 @@ msgstr "انترنت نصّي"
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr ""
-"تحتوي هذه المجموعة على عملاء للبريد و الويب و الدردشة بدون واجهة رسومية. هذه "
-"التطبيقات لا تحتاج لنظام نواذف X."
+msgstr "تحتوي هذه المجموعة على عملاء للبريد و الويب و الدردشة بدون واجهة رسومية. هذه التطبيقات لا تحتاج لنظام نواذف X."
 
 #: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:269
 #: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:240
@@ -1532,8 +1500,7 @@ msgstr "مديري النوافذ"
 #: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
-msgstr ""
-"مديري النوافذ البسيطة والتي لا تشكل جزءا من أي بيئة سطح مكتب متكاملة كبيرة."
+msgstr "مديري النوافذ البسيطة والتي لا تشكل جزءا من أي بيئة سطح مكتب متكاملة كبيرة."
 
 #: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:296
 #: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:250
@@ -1587,8 +1554,8 @@ msgstr "اللغات"
 
 #: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr "هذه الحزم تقدم دعما للغات المحلية بما في ذلك الخطوط وطرق الإدخال."
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
@@ -1687,9 +1654,8 @@ msgid "Manipuri Support"
 msgstr ""
 
 #: ../comps-f17.xml.in.h:186
-#, fuzzy
 msgid "MATE Desktop Environment"
-msgstr "بيئة سطح المكتب جينوم"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:187
 msgid ""
@@ -1778,43 +1744,35 @@ msgid "LibreOffice"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
-#, fuzzy
 msgid "LibreOffice Productivity Suite"
-msgstr "المكتب/الإنتاج"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:15
 msgid "KDE Plasma Workspaces"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:16 ../comps-f19.xml.in.h:16
-#, fuzzy
 msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
 msgstr ""
-"الـ KDE SC يتضمن سطح مكتب KDE البلازما, والذي هو على درجة عالية من تخصيص "
-"واجهة المستخدم الرسومية والتي تحتوي على لوحة ،سطح المكتب ، ونظام الرموز "
-"وكائنات سطح المكتب، والعديد من تطبيقات KDE القوية."
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
-#, fuzzy
 msgid "KDE Applications"
-msgstr "تطبيقات"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:19 ../comps-f19.xml.in.h:19
-#, fuzzy
 msgid "KDE Educational applications"
-msgstr "مسار حرج (تطبيقات)"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
-#, fuzzy
 msgid "KDE Multimedia support"
-msgstr "دعم المقدونية"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
@@ -1825,9 +1783,8 @@ msgid "KDE Office"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
-#, fuzzy
 msgid "KDE Office applications"
-msgstr "تطبيقات"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
@@ -1838,9 +1795,8 @@ msgid "KDE Telepathy applications"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
-#, fuzzy
 msgid "Applications for the Xfce Desktop"
-msgstr "تطبيقات لمهام منوعة"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
@@ -1867,9 +1823,8 @@ msgid "Office suite for Xfce"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
-#, fuzzy
 msgid "Applications for the LXDE Desktop"
-msgstr "تطبيقات لمهام منوعة"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
@@ -1918,9 +1873,8 @@ msgid "XMonad"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
-#, fuzzy
 msgid "A tiling window manager"
-msgstr "مديري النوافذ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:50 ../comps-f19.xml.in.h:50
 msgid "XMonad for GNOME"
@@ -1939,9 +1893,8 @@ msgid "TCP/HTTP Load Balancer."
 msgstr ""
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
-#, fuzzy
 msgid "JBoss Application Server"
-msgstr "تطبيقات"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
 msgid "Java appliation server."
@@ -2031,45 +1984,38 @@ msgid ""
 msgstr ""
 
 #: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
-#, fuzzy
 msgid "Basic Web Server"
-msgstr "خادم وٍبْ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
-#, fuzzy
 msgid "Xfce Software Development"
-msgstr "تطوير برامج X"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
-#, fuzzy
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr "قم بتثبيت هذه الحزم لكي تتمكن من تطوير برامج رسومية لـ GTK+ و XFCE."
+msgstr ""
 
 #: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
-#, fuzzy
 msgid "GNOME Desktop"
-msgstr "بيئة سطح المكتب جينوم"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
-#, fuzzy
 msgid "Xfce Desktop"
-msgstr "أسطح المكتب"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
-#, fuzzy
 msgid "LXDE Desktop"
-msgstr "أسطح المكتب"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
 msgid "Cinnamon Desktop"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
-#, fuzzy
 msgid "MATE Desktop"
-msgstr "أسطح المكتب"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
 msgid "Development and Creative Workstation"
@@ -2092,15 +2038,12 @@ msgid "Server for operating network infrastructure services."
 msgstr ""
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
-#, fuzzy
 msgid "Basic X Window System"
-msgstr "نظام نوافذ X"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
-#, fuzzy
 msgid "X Window System without a full desktop environment."
 msgstr ""
-"مديري النوافذ البسيطة والتي لا تشكل جزءا من أي بيئة سطح مكتب متكاملة كبيرة."
 
 #: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
 msgid "Minimal Install"
@@ -2120,19 +2063,17 @@ msgid "A set of commonly used KDE applications"
 msgstr ""
 
 #: ../comps-f19.xml.in.h:177
-#, fuzzy
 msgid "Lepcha Support"
-msgstr "دعم التشيكيّة"
+msgstr ""
 
 #: ../comps-f19.xml.in.h:219
-#, fuzzy
 msgid "Security Lab"
-msgstr "مختبر إلكتروني"
+msgstr ""
 
 #: ../comps-f19.xml.in.h:220
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security "
-"testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security"
+" testing methodologies."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4
@@ -2144,9 +2085,7 @@ msgstr "هذه المجموعة هي مجموعة من الأدوات والمو
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr ""
-"هذه الأدوات تتيح لك إنشاء مستندات بنسق DocBook و تحويلها إلى HTML و PDF و "
-"Postscript و text."
+msgstr "هذه الأدوات تتيح لك إنشاء مستندات بنسق DocBook و تحويلها إلى HTML و PDF و Postscript و text."
 
 #: ../comps-el5.xml.in.h:13
 msgid ""
@@ -2161,17 +2100,13 @@ msgstr "دعم شبكات الاتصال الهاتفي"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr ""
-"تسمى في بعض الأحيان محررات النصوص، هذه البرامج تسمح لك بإنشاء و تعديل ملفات. "
-"من ضمنها إيماكس وVi."
+msgstr "تسمى في بعض الأحيان محررات النصوص، هذه البرامج تسمح لك بإنشاء و تعديل ملفات. من ضمنها إيماكس وVi."
 
 #: ../comps-el5.xml.in.h:32
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"جينوم عبارة عن واجهة رسومية للمستخدم تحتوي على لوحة للتحكم و سطح مكتب و "
-"أيقونات النظام و منظم رسومي للملفات."
+msgstr "جينوم عبارة عن واجهة رسومية للمستخدم تحتوي على لوحة للتحكم و سطح مكتب و أيقونات النظام و منظم رسومي للملفات."
 
 #: ../comps-el5.xml.in.h:42
 msgid ""
@@ -2189,11 +2124,9 @@ msgstr "كيدي (بيئة سطح المكتب K)"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"كيدي عبارة عن واجهة رسومية للمستخدم تحتوي على لوحة للتحكم و سطح مكتب و "
-"أيقونات النظام و منظم رسومي للملفات."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
+msgstr "كيدي عبارة عن واجهة رسومية للمستخدم تحتوي على لوحة للتحكم و سطح مكتب و أيقونات النظام و منظم رسومي للملفات."
 
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -2421,8 +2354,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:110
@@ -2572,7 +2505,8 @@ msgid "Performance Tools"
 msgstr ""
 
 #: ../comps-el6.xml.in.h:183
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:184

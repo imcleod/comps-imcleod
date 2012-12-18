@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Dimitris Glezos <glezos@indifex.com>, 2011.
 # Suren Karapetyan <surenkarapetyan@gmail.com>, 2006.
@@ -10,14 +10,14 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-17 17:01-0500\n"
-"PO-Revision-Date: 2012-04-10 18:22+0000\n"
+"PO-Revision-Date: 2012-12-17 22:02+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: hy\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1 ../comps-f18.xml.in.h:72
 #: ../comps-f19.xml.in.h:72 ../comps-el5.xml.in.h:1
@@ -27,8 +27,8 @@ msgstr "Ադմինիստրատիվ գործիքներ"
 #: ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2 ../comps-f18.xml.in.h:73
 #: ../comps-f19.xml.in.h:73 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3 ../comps-el6.xml.in.h:3
@@ -105,8 +105,7 @@ msgstr "X պատուհանների համակարգ"
 #: ../comps-f16.xml.in.h:18 ../comps-f17.xml.in.h:19 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr ""
-"Տեղադրել (X) գրաֆիկական ինտերֆեյսը օգտագործելու համար անհրաժեշտ փաթեթները։"
+msgstr "Տեղադրել (X) գրաֆիկական ինտերֆեյսը օգտագործելու համար անհրաժեշտ փաթեթները։"
 
 #: ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:20 ../comps-el6.xml.in.h:18
 msgid "Basque Support"
@@ -230,8 +229,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:49 ../comps-f18.xml.in.h:97
 #: ../comps-f19.xml.in.h:97
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
@@ -303,7 +302,8 @@ msgstr "Ծրագրավորման գրադարաններ"
 #: ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:62 ../comps-f18.xml.in.h:107
 #: ../comps-f19.xml.in.h:107
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
@@ -556,8 +556,7 @@ msgstr "GNOME ծրագրերի մշակում"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr ""
-"Տեղադրե՛ք այս փաթեթները GTK+ի կամ GNOME-ի գրաֆիկական ծրագրեր գրելու համար։"
+msgstr "Տեղադրե՛ք այս փաթեթները GTK+ի կամ GNOME-ի գրաֆիկական ծրագրեր գրելու համար։"
 
 #: ../comps-f16.xml.in.h:108 ../comps-f17.xml.in.h:113
 #: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:143
@@ -895,7 +894,8 @@ msgstr ""
 #: ../comps-f18.xml.in.h:36 ../comps-f19.xml.in.h:36
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:171 ../comps-f17.xml.in.h:176
@@ -1132,9 +1132,7 @@ msgstr "Տպելու հնարավորություն"
 #: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr ""
-"Տեղադրե՛ք այս փաթեթները, որպեսզի համակարգը կարողանա տպել կամ աշխատել որպես "
-"տպիչի սերվեր։"
+msgstr "Տեղադրե՛ք այս փաթեթները, որպեսզի համակարգը կարողանա տպել կամ աշխատել որպես տպիչի սերվեր։"
 
 #: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
 #: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
@@ -1199,7 +1197,8 @@ msgstr "Սերվերի կոնֆիգուրացիայի գործիքներ"
 
 #: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
 #: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
@@ -1241,8 +1240,8 @@ msgstr "Windows ֆայլ սերվեր"
 #: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
 #: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
@@ -1552,8 +1551,8 @@ msgstr "Լեզուներ"
 
 #: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
@@ -1652,9 +1651,8 @@ msgid "Manipuri Support"
 msgstr ""
 
 #: ../comps-f17.xml.in.h:186
-#, fuzzy
 msgid "MATE Desktop Environment"
-msgstr "GNOME դեսքթոփի միջավայր"
+msgstr ""
 
 #: ../comps-f17.xml.in.h:187
 msgid ""
@@ -1743,9 +1741,8 @@ msgid "LibreOffice"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
-#, fuzzy
 msgid "LibreOffice Productivity Suite"
-msgstr "Օֆիսային"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:15
 msgid "KDE Plasma Workspaces"
@@ -1759,9 +1756,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
-#, fuzzy
 msgid "KDE Applications"
-msgstr "ծրագրեր"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
@@ -1784,9 +1780,8 @@ msgid "KDE Office"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
-#, fuzzy
 msgid "KDE Office applications"
-msgstr "ծրագրեր"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
@@ -1797,9 +1792,8 @@ msgid "KDE Telepathy applications"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
-#, fuzzy
 msgid "Applications for the Xfce Desktop"
-msgstr "Ծրագրեր բազում տարբեր առաջադրանքների համար"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
@@ -1826,9 +1820,8 @@ msgid "Office suite for Xfce"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
-#, fuzzy
 msgid "Applications for the LXDE Desktop"
-msgstr "Ծրագրեր բազում տարբեր առաջադրանքների համար"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
@@ -1897,9 +1890,8 @@ msgid "TCP/HTTP Load Balancer."
 msgstr ""
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
-#, fuzzy
 msgid "JBoss Application Server"
-msgstr "ծրագրեր"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
 msgid "Java appliation server."
@@ -1989,46 +1981,38 @@ msgid ""
 msgstr ""
 
 #: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
-#, fuzzy
 msgid "Basic Web Server"
-msgstr "Վեբ սերվեր"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
-#, fuzzy
 msgid "Xfce Software Development"
-msgstr "X ծրագրերի կառուցում"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
-#, fuzzy
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
 msgstr ""
-"Տեղադրե՛ք այս փաթեթները GTK+ի կամ GNOME-ի գրաֆիկական ծրագրեր գրելու համար։"
 
 #: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
-#, fuzzy
 msgid "GNOME Desktop"
-msgstr "GNOME դեսքթոփի միջավայր"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
-#, fuzzy
 msgid "Xfce Desktop"
-msgstr "Դեսքթոփներ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
-#, fuzzy
 msgid "LXDE Desktop"
-msgstr "Դեսքթոփներ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
 msgid "Cinnamon Desktop"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
-#, fuzzy
 msgid "MATE Desktop"
-msgstr "Դեսքթոփներ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
 msgid "Development and Creative Workstation"
@@ -2051,9 +2035,8 @@ msgid "Server for operating network infrastructure services."
 msgstr ""
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
-#, fuzzy
 msgid "Basic X Window System"
-msgstr "X պատուհանների համակարգ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
 msgid "X Window System without a full desktop environment."
@@ -2077,9 +2060,8 @@ msgid "A set of commonly used KDE applications"
 msgstr ""
 
 #: ../comps-f19.xml.in.h:177
-#, fuzzy
 msgid "Lepcha Support"
-msgstr "Չեխերենի սպասարկում"
+msgstr ""
 
 #: ../comps-f19.xml.in.h:219
 msgid "Security Lab"
@@ -2087,8 +2069,8 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:220
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security "
-"testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security"
+" testing methodologies."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4
@@ -2139,8 +2121,8 @@ msgstr "KDE (K դեսքթոփի միջավայր)"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:52
@@ -2369,8 +2351,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:110
@@ -2520,7 +2502,8 @@ msgid "Performance Tools"
 msgstr ""
 
 #: ../comps-el6.xml.in.h:183
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:184

@@ -1,10 +1,10 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Dimitris Glezos <glezos@indifex.com>, 2011.
-# Hajime Taira <htaira@redhat.com>, 2010, 2011, 2012.
+# Hajime Taira <htaira@redhat.com>, 2010-2012.
 # Hirofumi Saito <hi_saito@yk.rim.or.jp>, 2004, 2005.
 # Hyu_gabaru Ryu_ichi <hyu_gabaru@yahoo.co.jp>, 2009.
 # James Hashida <khashida@redhat.com>, 2002.
@@ -17,13 +17,13 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-17 17:01-0500\n"
-"PO-Revision-Date: 2012-05-02 09:41+0000\n"
+"PO-Revision-Date: 2012-12-18 05:38+0000\n"
 "Last-Translator: Hajime Taira <htaira@redhat.com>\n"
 "Language-Team: Japanese <trans-ja@lists.fedoraproject.org>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1 ../comps-f18.xml.in.h:72
@@ -34,11 +34,9 @@ msgstr "管理ツール"
 #: ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2 ../comps-f18.xml.in.h:73
 #: ../comps-f19.xml.in.h:73 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
-msgstr ""
-"このグループはユーザーアカウントを管理したり、システムハードウェアを設定した"
-"りするシステムの為のグラフィカル管理ツールのコレクションです。"
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
+msgstr "このグループはユーザーアカウントを管理したり、システムハードウェアを設定したりするシステムの為のグラフィカル管理ツールのコレクションです。"
 
 #: ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3 ../comps-el6.xml.in.h:3
 msgid "Afrikaans Support"
@@ -90,9 +88,7 @@ msgstr "著作と発行"
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
-msgstr ""
-"これらのツールを使用すると、DocBook 形式による文書の作成、及び HTML、PDF、"
-"Postscript、及びテキストへの変換を行うことができます。"
+msgstr "これらのツールを使用すると、DocBook 形式による文書の作成、及び HTML、PDF、Postscript、及びテキストへの変換を行うことができます。"
 
 #: ../comps-f16.xml.in.h:14 ../comps-f17.xml.in.h:15 ../comps-el6.xml.in.h:9
 msgid "Azerbaijani Support"
@@ -106,9 +102,7 @@ msgstr "ベース"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr ""
-"このグループは最小限のパッケージセットです。例えば、小規模のルーターやファイ"
-"アーウォールなどの構築に便利です。"
+msgstr "このグループは最小限のパッケージセットです。例えば、小規模のルーターやファイアーウォールなどの構築に便利です。"
 
 #: ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:18 ../comps-el5.xml.in.h:9
 #: ../comps-el6.xml.in.h:287
@@ -118,9 +112,7 @@ msgstr "X Window System"
 #: ../comps-f16.xml.in.h:18 ../comps-f17.xml.in.h:19 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr ""
-"基本的なグラフィカルユーザーインターフェース (X Window System) を使用するに"
-"は、このパッケージグループをインストールしてください。"
+msgstr "基本的なグラフィカルユーザーインターフェース (X Window System) を使用するには、このパッケージグループをインストールしてください。"
 
 #: ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:20 ../comps-el6.xml.in.h:18
 msgid "Basque Support"
@@ -234,9 +226,7 @@ msgstr "Critical Path (基礎)"
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr ""
-"すべての Fedora spin 上で Critical Path 機能用の共用プラットフォームを 提供す"
-"るパッケージセットです。"
+msgstr "すべての Fedora spin 上で Critical Path 機能用の共用プラットフォームを 提供するパッケージセットです。"
 
 #: ../comps-f16.xml.in.h:44 ../comps-f17.xml.in.h:48 ../comps-f18.xml.in.h:96
 #: ../comps-f19.xml.in.h:96
@@ -246,10 +236,9 @@ msgstr "Critical Path (GNOME)"
 #: ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:49 ../comps-f18.xml.in.h:97
 #: ../comps-f19.xml.in.h:97
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
-msgstr ""
-"GNOME デスクトップ用に Critical Path 機能を提供するパッケージセットです。"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
+msgstr "GNOME デスクトップ用に Critical Path 機能を提供するパッケージセットです。"
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
 #: ../comps-f19.xml.in.h:98
@@ -261,8 +250,7 @@ msgstr "Critical Path (KDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr ""
-"KDE デスクトップ用に Critical Path 機能を提供するパッケージセットです。"
+msgstr "KDE デスクトップ用に Critical Path 機能を提供するパッケージセットです。"
 
 #: ../comps-f16.xml.in.h:48 ../comps-f17.xml.in.h:52 ../comps-f18.xml.in.h:100
 #: ../comps-f19.xml.in.h:100
@@ -274,8 +262,7 @@ msgstr "Critical Path (LXDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr ""
-"LXDE デスクトップ用に Critical Path 機能を提供するパッケージセットです。"
+msgstr "LXDE デスクトップ用に Critical Path 機能を提供するパッケージセットです。"
 
 #: ../comps-f16.xml.in.h:50 ../comps-f17.xml.in.h:54 ../comps-f18.xml.in.h:102
 #: ../comps-f19.xml.in.h:102
@@ -287,8 +274,7 @@ msgstr "Critical Path (Xfce)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
-msgstr ""
-"Xfce デスクトップ用に Critical Path 機能を提供するパッケージセットです。"
+msgstr "Xfce デスクトップ用に Critical Path 機能を提供するパッケージセットです。"
 
 #: ../comps-f16.xml.in.h:52 ../comps-f17.xml.in.h:56 ../comps-el6.xml.in.h:41
 msgid "Croatian Support"
@@ -323,9 +309,9 @@ msgstr "開発ライブラリー"
 #: ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:62 ../comps-f18.xml.in.h:107
 #: ../comps-f19.xml.in.h:107
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
-msgstr ""
-"このパッケージグループはアプリケーションの開発に必要なコアライブラリーです。"
+"The packages in this group are core libraries needed to develop "
+"applications."
+msgstr "このパッケージグループはアプリケーションの開発に必要なコアライブラリーです。"
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
 #: ../comps-f19.xml.in.h:108 ../comps-el5.xml.in.h:14
@@ -337,9 +323,7 @@ msgstr "開発ツール"
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr ""
-"これらのツールには、automake、gcc、perl、python、デバッガなどのコア開発ツール"
-"が含まれています。"
+msgstr "これらのツールには、automake、gcc、perl、python、デバッガなどのコア開発ツールが含まれています。"
 
 #: ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:65 ../comps-f18.xml.in.h:110
 #: ../comps-f19.xml.in.h:110 ../comps-el6.xml.in.h:54
@@ -365,9 +349,7 @@ msgstr "DNS ネームサーバー"
 #: ../comps-f19.xml.in.h:114
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr ""
-"このパッケージグループを使用するとシステムで DNS ネームサーバー (BIND) を稼動"
-"できます。"
+msgstr "このパッケージグループを使用するとシステムで DNS ネームサーバー (BIND) を稼動できます。"
 
 #: ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:71 ../comps-f18.xml.in.h:116
 #: ../comps-f19.xml.in.h:116
@@ -403,9 +385,7 @@ msgstr "エディタ"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr ""
-"テキストエディタとも呼ばれるこれらのプログラムではファイルの作成や編集を行う"
-"ことができます。これには Emacs や Vi などが含まれます。"
+msgstr "テキストエディタとも呼ばれるこれらのプログラムではファイルの作成や編集を行うことができます。これには Emacs や Vi などが含まれます。"
 
 #: ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:78 ../comps-f18.xml.in.h:122
 #: ../comps-f19.xml.in.h:122 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
@@ -437,9 +417,7 @@ msgstr "技術系と科学系"
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
-msgstr ""
-"このグループには、ユニット変換と共に、数学的及び科学的な演算とプロッティング"
-"を実践するためのパッケージが含まれています。"
+msgstr "このグループには、ユニット変換と共に、数学的及び科学的な演算とプロッティングを実践するためのパッケージが含まれています。"
 
 #: ../comps-f16.xml.in.h:79 ../comps-f17.xml.in.h:84 ../comps-el6.xml.in.h:69
 msgid "Esperanto Support"
@@ -495,9 +473,7 @@ msgstr "フォントデザインとパッケージング"
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
-msgstr ""
-"このグループはフォントのデザイン、修正、操作、及びパッケージングに 使用される"
-"ツールの集合です。"
+msgstr "このグループはフォントのデザイン、修正、操作、及びパッケージングに 使用されるツールの集合です。"
 
 #: ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:96 ../comps-f18.xml.in.h:134
 #: ../comps-f19.xml.in.h:134 ../comps-el6.xml.in.h:78
@@ -531,8 +507,7 @@ msgstr "FTP サーバー"
 #: ../comps-f18.xml.in.h:137 ../comps-f19.xml.in.h:137
 #: ../comps-el5.xml.in.h:28
 msgid "These tools allow you to run an FTP server on the system."
-msgstr ""
-"これらのツールを使用するとシステムで FTP サーバーを稼動することができます。"
+msgstr "これらのツールを使用するとシステムで FTP サーバーを稼動することができます。"
 
 #: ../comps-f16.xml.in.h:98 ../comps-f17.xml.in.h:103 ../comps-el6.xml.in.h:85
 msgid "Gaelic Support"
@@ -574,9 +549,7 @@ msgstr "GNOME デスクトップ環境"
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOMEは、パネル、デスクトップ、システムアイコン、グラフィカルなファイルマネ"
-"ジャーなどが含まれている強力なグラフィカルユーザーインターフェースです。"
+msgstr "GNOMEは、パネル、デスクトップ、システムアイコン、グラフィカルなファイルマネジャーなどが含まれている強力なグラフィカルユーザーインターフェースです。"
 
 #: ../comps-f16.xml.in.h:106 ../comps-f17.xml.in.h:111
 #: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:141
@@ -590,9 +563,7 @@ msgstr "GNOME ソフトウェア開発環境"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr ""
-"GTK+ 及び GNOME のグラフィカルアプリケーションを開発するためにはこれらのパッ"
-"ケージをインストールしてください。"
+msgstr "GTK+ 及び GNOME のグラフィカルアプリケーションを開発するためにはこれらのパッケージをインストールしてください。"
 
 #: ../comps-f16.xml.in.h:108 ../comps-f17.xml.in.h:113
 #: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:143
@@ -604,9 +575,7 @@ msgstr "グラフィカルインターネット"
 #: ../comps-f18.xml.in.h:144 ../comps-f19.xml.in.h:144
 #: ../comps-el5.xml.in.h:36
 msgid "This group includes graphical email, Web, and chat clients."
-msgstr ""
-"このグループには、グラフィカルな Email、Web、及びチャットの各クライアントが含"
-"まれています。"
+msgstr "このグループには、グラフィカルな Email、Web、及びチャットの各クライアントが含まれています。"
 
 #: ../comps-f16.xml.in.h:110 ../comps-f17.xml.in.h:115
 #: ../comps-f18.xml.in.h:145 ../comps-f19.xml.in.h:145
@@ -618,8 +587,7 @@ msgstr "グラフィックス"
 #: ../comps-f18.xml.in.h:146 ../comps-f19.xml.in.h:146
 #: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr ""
-"このグループにはイメージの処理とスキャンに役立つパッケージが含まれています。"
+msgstr "このグループにはイメージの処理とスキャンに役立つパッケージが含まれています。"
 
 #: ../comps-f16.xml.in.h:112 ../comps-f17.xml.in.h:117
 #: ../comps-f18.xml.in.h:147 ../comps-f19.xml.in.h:147
@@ -648,8 +616,7 @@ msgstr "ハードウェアサポート"
 #: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
-msgstr ""
-"このグループは各種ハードウェア固有のユーティリティ用のツールの集合です。"
+msgstr "このグループは各種ハードウェア固有のユーティリティ用のツールの集合です。"
 
 #: ../comps-f16.xml.in.h:117 ../comps-f17.xml.in.h:122
 #: ../comps-f18.xml.in.h:151 ../comps-f19.xml.in.h:151
@@ -784,10 +751,7 @@ msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
-msgstr ""
-"KDE SC には、パネル、デスクトップ、システムアイコン、ウィジェット、及び多くの"
-"強力な KDE アプリケーションを持つ高度に設定可能なグラフィカル ユーザーイン"
-"ターフェイスである KDE Plasma デスクトップが含まれています。"
+msgstr "KDE SC には、パネル、デスクトップ、システムアイコン、ウィジェット、及び多くの強力な KDE アプリケーションを持つ高度に設定可能なグラフィカル ユーザーインターフェイスである KDE Plasma デスクトップが含まれています。"
 
 #: ../comps-f16.xml.in.h:142 ../comps-f17.xml.in.h:147
 #: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:164
@@ -799,9 +763,7 @@ msgstr "KDE ソフトウェア開発環境"
 #: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:165
 #: ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr ""
-"QT 及び KDE のグラフィカルアプリケーション開発するためにはこれらのパッケージ"
-"をインストールしてください。"
+msgstr "QT 及び KDE のグラフィカルアプリケーション開発するためにはこれらのパッケージをインストールしてください。"
 
 #: ../comps-f16.xml.in.h:144 ../comps-f17.xml.in.h:149
 #: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:166
@@ -871,9 +833,7 @@ msgstr "レガシーなネットワークサーバー"
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr ""
-"これらのパッケージには、rsh や telnet などの 旧式ネットワークプロトコル用の"
-"サーバーが含まれています。"
+msgstr "これらのパッケージには、rsh や telnet などの 旧式ネットワークプロトコル用のサーバーが含まれています。"
 
 #: ../comps-f16.xml.in.h:157 ../comps-f17.xml.in.h:162
 #: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:174
@@ -899,8 +859,7 @@ msgstr "LibreOffice の開発"
 #: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:179
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
-msgstr ""
-"これらのパッケージは、LibreOffice の拡張やマクロを開発する時に役に立ちます。"
+msgstr "これらのパッケージは、LibreOffice の拡張やマクロを開発する時に役に立ちます。"
 
 #: ../comps-f16.xml.in.h:162 ../comps-f17.xml.in.h:167
 msgid "Lingala Support"
@@ -942,10 +901,9 @@ msgstr "LXDE"
 #: ../comps-f18.xml.in.h:36 ../comps-f19.xml.in.h:36
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-msgstr ""
-"LXDE は、ネットブックや、携帯デバイスや、旧型のコンピュータのような低スペック"
-"なハードウェアのために設計された軽量のデスクトップ環境です。"
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
+msgstr "LXDE は、ネットブックや、携帯デバイスや、旧型のコンピュータのような低スペックなハードウェアのために設計された軽量のデスクトップ環境です。"
 
 #: ../comps-f16.xml.in.h:171 ../comps-f17.xml.in.h:176
 #: ../comps-el6.xml.in.h:147
@@ -1013,8 +971,7 @@ msgstr "MeeGo NetBook UX 環境"
 
 #: ../comps-f16.xml.in.h:183 ../comps-f17.xml.in.h:193
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
-msgstr ""
-"MeeGo NetBook UX は NetBook/NetTop デバイスのためのデスクトップ環境です。"
+msgstr "MeeGo NetBook UX は NetBook/NetTop デバイスのためのデスクトップ環境です。"
 
 #: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:194
 #: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:190
@@ -1038,9 +995,7 @@ msgstr "MinGW クロスコンパイラ"
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
-msgstr ""
-"32 bit Windows ターゲット、そのテスト、およびインストーラの構築への クロスコ"
-"ンパイルプログラム用のサポート"
+msgstr "32 bit Windows ターゲット、そのテスト、およびインストーラの構築への クロスコンパイルプログラム用のサポート"
 
 #: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:198
 #: ../comps-el6.xml.in.h:162
@@ -1059,9 +1014,7 @@ msgstr "MySQL データベース"
 #: ../comps-f16.xml.in.h:191 ../comps-f17.xml.in.h:201
 #: ../comps-f18.xml.in.h:194 ../comps-f19.xml.in.h:195
 msgid "This package group contains packages useful for use with MySQL."
-msgstr ""
-"このパッケージグループには、MySQL を使用するとき役に立つパッケージが含まれて"
-"います。"
+msgstr "このパッケージグループには、MySQL を使用するとき役に立つパッケージが含まれています。"
 
 #: ../comps-f16.xml.in.h:192 ../comps-f17.xml.in.h:202
 #: ../comps-f18.xml.in.h:195 ../comps-f19.xml.in.h:196
@@ -1079,9 +1032,7 @@ msgstr "ネットワークサーバー"
 #: ../comps-f18.xml.in.h:197 ../comps-f19.xml.in.h:198
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr ""
-"これらのパッケージには、DHCP、Kerberos、NIS などの ネットワークベースのサー"
-"バーが含まれています。"
+msgstr "これらのパッケージには、DHCP、Kerberos、NIS などの ネットワークベースのサーバーが含まれています。"
 
 #: ../comps-f16.xml.in.h:195 ../comps-f17.xml.in.h:205
 #: ../comps-f18.xml.in.h:198 ../comps-f19.xml.in.h:199
@@ -1093,9 +1044,7 @@ msgstr "ニュースサーバー"
 #: ../comps-f18.xml.in.h:199 ../comps-f19.xml.in.h:200
 #: ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
-msgstr ""
-"このグループを使用するとシステムをニュースサーバーとして設定することができま"
-"す。"
+msgstr "このグループを使用するとシステムをニュースサーバーとして設定することができます。"
 
 #: ../comps-f16.xml.in.h:197 ../comps-f17.xml.in.h:207
 msgid "Northern Sami Support"
@@ -1138,9 +1087,7 @@ msgstr "Office/生産性"
 #: ../comps-f18.xml.in.h:203 ../comps-f19.xml.in.h:204
 #: ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
-msgstr ""
-"アプリケーションには、オフィススイート、PDF ビューア及びその他が含まれていま"
-"す。"
+msgstr "アプリケーションには、オフィススイート、PDF ビューア及びその他が含まれています。"
 
 #: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:215
 #: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:205
@@ -1192,9 +1139,7 @@ msgstr "印刷サポート"
 #: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr ""
-"システム上で印刷可能にする場合、またはプリントサーバーとして機能させる場合に"
-"は、これらのツールをインストールしてください。"
+msgstr "システム上で印刷可能にする場合、またはプリントサーバーとして機能させる場合には、これらのツールをインストールしてください。"
 
 #: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
 #: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
@@ -1259,10 +1204,9 @@ msgstr "サーバー設定ツール"
 
 #: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
 #: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
-msgid "This group contains all of Red Hat's custom server configuration tools."
-msgstr ""
-"このグループには、すべての Red Hat カスタムサーバー設定ツールが含まれていま"
-"す。"
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
+msgstr "このグループには、すべての Red Hat カスタムサーバー設定ツールが含まれています。"
 
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
 msgid "Shuswap Support"
@@ -1303,11 +1247,9 @@ msgstr "Windows ファイルサーバー"
 #: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
 #: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
-msgstr ""
-"このパッケージグループを使用すると Linux と MS Windows(tm) システム間でファイ"
-"ルを共有することができます。"
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
+msgstr "このパッケージグループを使用すると Linux と MS Windows(tm) システム間でファイルを共有することができます。"
 
 #: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
 msgid "Somali Support"
@@ -1325,9 +1267,7 @@ msgstr "サウンドとビデオ"
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr ""
-"CD-R への録音から、音楽 CD やマルチメディアファイルの再生まで、このパッケージ"
-"グループでシステム上のサウンドとビデオ機能を使用できます。"
+msgstr "CD-R への録音から、音楽 CD やマルチメディアファイルの再生まで、このパッケージグループでシステム上のサウンドとビデオ機能を使用できます。"
 
 #: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:250
 #: ../comps-el6.xml.in.h:222
@@ -1352,9 +1292,7 @@ msgstr "PostgreSQL データベース"
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:254
 #: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:231
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr ""
-"このパッケージグループには、 PostgreSQL を使用するとき役に立つパッケージが含"
-"まれています。"
+msgstr "このパッケージグループには、 PostgreSQL を使用するとき役に立つパッケージが含まれています。"
 
 #: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:255
 #: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
@@ -1393,9 +1331,7 @@ msgstr "システムツール"
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr ""
-"このグループは、SMB共有へ接続するクライアントやネットワーク通信量をモニタする"
-"ツールなどのシステム用の各種ツールのコレクションです。"
+msgstr "このグループは、SMB共有へ接続するクライアントやネットワーク通信量をモニタするツールなどのシステム用の各種ツールのコレクションです。"
 
 #: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:262
 #: ../comps-el6.xml.in.h:248
@@ -1436,9 +1372,7 @@ msgstr "テキストベースのインターネット"
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr ""
-"このグループには、テキストベースの Email、Web、及びチャットの各クライアントが"
-"含まれています。これらのアプリケーションは X Window System を必要としません。"
+msgstr "このグループには、テキストベースの Email、Web、及びチャットの各クライアントが含まれています。これらのアプリケーションは X Window System を必要としません。"
 
 #: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:269
 #: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:240
@@ -1552,8 +1486,7 @@ msgstr "Web サーバー"
 #: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:247
 #: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
-msgstr ""
-"これらのツールを使用するとシステムで Web サーバーを稼動することができます。"
+msgstr "これらのツールを使用するとシステムで Web サーバーを稼動することができます。"
 
 #: ../comps-f16.xml.in.h:280 ../comps-f17.xml.in.h:293
 #: ../comps-el6.xml.in.h:284
@@ -1571,9 +1504,7 @@ msgstr "ウィンドウマネージャ"
 #: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
-msgstr ""
-"規模の大きいデスクトップ環境とは独立しているシンプルなウィンドウマネージャで"
-"す。"
+msgstr "規模の大きいデスクトップ環境とは独立しているシンプルなウィンドウマネージャです。"
 
 #: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:296
 #: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:250
@@ -1584,8 +1515,7 @@ msgstr "X ソフトウェア開発環境"
 #: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:251
 msgid ""
 "These packages allow you to develop applications for the X Window System."
-msgstr ""
-"これらのパッケージで X Window System 用のアプリケーションを開発できます。"
+msgstr "これらのパッケージで X Window System 用のアプリケーションを開発できます。"
 
 #: ../comps-f16.xml.in.h:285 ../comps-f17.xml.in.h:298
 #: ../comps-f18.xml.in.h:26 ../comps-f19.xml.in.h:26 ../comps-el6.xml.in.h:289
@@ -1605,9 +1535,7 @@ msgstr "XFCE ソフトウェア開発環境"
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
-msgstr ""
-"GTK+ 及び XFCE のグラフィカルアプリケーションを開発するためにはこれらのパッ"
-"ケージをインストールしてください。"
+msgstr "GTK+ 及び XFCE のグラフィカルアプリケーションを開発するためにはこれらのパッケージをインストールしてください。"
 
 #: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:302
 #: ../comps-el6.xml.in.h:291
@@ -1630,11 +1558,9 @@ msgstr "言語"
 
 #: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
-msgstr ""
-"これらのパッケージでは、フォントや入力メソッドなどの各種ロケールのサポートを"
-"提供しています。"
+"These packages provide support for various locales including fonts and input"
+" methods."
+msgstr "これらのパッケージでは、フォントや入力メソッドなどの各種ロケールのサポートを提供しています。"
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
 #: ../comps-el5.xml.in.h:71
@@ -1707,7 +1633,7 @@ msgstr "テキスト及びその他のフリーコンテンツ"
 
 #: ../comps-f17.xml.in.h:7 ../comps-f18.xml.in.h:74 ../comps-f19.xml.in.h:74
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Anaconda ツール"
 
 #: ../comps-f17.xml.in.h:24 ../comps-f18.xml.in.h:83 ../comps-f19.xml.in.h:83
 msgid "Bodo Support"
@@ -1732,16 +1658,15 @@ msgid "Manipuri Support"
 msgstr "マニプーリ語のサポート"
 
 #: ../comps-f17.xml.in.h:186
-#, fuzzy
 msgid "MATE Desktop Environment"
-msgstr "GNOME デスクトップ環境"
+msgstr "MATE デスクトップ環境"
 
 #: ../comps-f17.xml.in.h:187
 msgid ""
 "MATE Desktop is a desktop based on GNOME 2 that provides a powerful "
 "graphical user interface for users who seek a simple, easy to use "
 "traditional desktop interface."
-msgstr ""
+msgstr "MADE デスクトップは GNOME 2 ベースのパワフルなグラフィカルユーザーインタフェースを提供します。シンプルさを求める人や従来型のデスクトップインタフェースで使いたい人にお勧めします。"
 
 #: ../comps-f17.xml.in.h:190 ../comps-f18.xml.in.h:187
 #: ../comps-f19.xml.in.h:188
@@ -1772,23 +1697,23 @@ msgstr "可能な限り最小限の仮想化ホストのインストール"
 
 #: ../comps-f18.xml.in.h:1 ../comps-f19.xml.in.h:1
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f18.xml.in.h:2 ../comps-f19.xml.in.h:2
 msgid "Local X.org display server"
-msgstr ""
+msgstr "ローカルのX.orgディスプレイサーバー"
 
 #: ../comps-f18.xml.in.h:3 ../comps-f19.xml.in.h:3
 msgid "Multimedia"
-msgstr ""
+msgstr "マルチメディア"
 
 #: ../comps-f18.xml.in.h:4 ../comps-f19.xml.in.h:4
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "デスクトップにおける音楽/映像の一般的なフレームワーク"
 
 #: ../comps-f18.xml.in.h:5 ../comps-f19.xml.in.h:5
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #: ../comps-f18.xml.in.h:6 ../comps-f19.xml.in.h:6
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
@@ -1796,100 +1721,86 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:7 ../comps-f19.xml.in.h:7
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "GNOME デスクトップのための拡張ゲームパッケージ"
 
 #: ../comps-f18.xml.in.h:8 ../comps-f19.xml.in.h:8
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "GNOME デスクトップ上で動く多種多様なゲームが満載"
 
 #: ../comps-f18.xml.in.h:9 ../comps-f19.xml.in.h:9
-#, fuzzy
 msgid "Firefox Web Browser"
 msgstr "Firefox ウェブブラウザー"
 
 #: ../comps-f18.xml.in.h:10 ../comps-f19.xml.in.h:10
-#, fuzzy
 msgid "The Firefox web browser"
 msgstr "Firefox ウェブブラウザー"
 
 #: ../comps-f18.xml.in.h:11 ../comps-f19.xml.in.h:11
 msgid "Epiphany Web Browser"
-msgstr ""
+msgstr "Epiphany ウェブブラウザー"
 
 #: ../comps-f18.xml.in.h:12 ../comps-f19.xml.in.h:12
 msgid "Epiphany Web Browser for GNOME"
-msgstr ""
+msgstr "GMOME のための Epiphany ウェブブラウザー"
 
 #: ../comps-f18.xml.in.h:13 ../comps-f19.xml.in.h:13
-#, fuzzy
 msgid "LibreOffice"
-msgstr "LibreOffice の開発"
+msgstr "LibreOffice"
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
-#, fuzzy
 msgid "LibreOffice Productivity Suite"
-msgstr "Office/生産性"
+msgstr "LibreOffice 統合オフィススイート"
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:15
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "KDE Plama デスクトップワークスペース"
 
 #: ../comps-f18.xml.in.h:16 ../comps-f19.xml.in.h:16
-#, fuzzy
 msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
 msgstr ""
-"KDE SC には、パネル、デスクトップ、システムアイコン、ウィジェット、及び多くの"
-"強力な KDE アプリケーションを持つ高度に設定可能なグラフィカル ユーザーイン"
-"ターフェイスである KDE Plasma デスクトップが含まれています。"
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
-#, fuzzy
 msgid "KDE Applications"
-msgstr "アプリケーション"
+msgstr "KDE アプリケーションズ"
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:19 ../comps-f19.xml.in.h:19
-#, fuzzy
 msgid "KDE Educational applications"
-msgstr "医療アプリケーション"
+msgstr "KDE 教育系アプリケーション"
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
-#, fuzzy
 msgid "KDE Multimedia support"
-msgstr "マケドニア語のサポート"
+msgstr "KDE マルチメディアサポート"
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "KDE のためのマルチメディアサポート"
 
 #: ../comps-f18.xml.in.h:22 ../comps-f19.xml.in.h:22
 msgid "KDE Office"
-msgstr ""
+msgstr "KDE オフィス"
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
-#, fuzzy
 msgid "KDE Office applications"
-msgstr "エンドユーザーアプリケーション"
+msgstr "KDE オフィスアプリケーション"
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:25 ../comps-f19.xml.in.h:25
-#, fuzzy
 msgid "KDE Telepathy applications"
-msgstr "インターネットアプリケーション"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
-#, fuzzy
 msgid "Applications for the Xfce Desktop"
-msgstr "各種の作業用アプリケーション"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
@@ -1909,16 +1820,15 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:33 ../comps-f19.xml.in.h:33
 msgid "Xfce Office"
-msgstr ""
+msgstr "Xfce オフィス"
 
 #: ../comps-f18.xml.in.h:34 ../comps-f19.xml.in.h:34
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Xfce のためのオフィススイート"
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
-#, fuzzy
 msgid "Applications for the LXDE Desktop"
-msgstr "各種の作業用アプリケーション"
+msgstr "LXDE デスクトップのためのアプリケーション"
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
@@ -1926,11 +1836,11 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:39 ../comps-f19.xml.in.h:39
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "LXDE のためのマルチメディア"
 
 #: ../comps-f18.xml.in.h:40 ../comps-f19.xml.in.h:40
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE オフィス"
 
 #: ../comps-f18.xml.in.h:41 ../comps-f19.xml.in.h:41
 msgid "Office suite for LXDE"
@@ -1967,17 +1877,16 @@ msgid "XMonad"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
-#, fuzzy
 msgid "A tiling window manager"
-msgstr "ウィンドウマネージャ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:50 ../comps-f19.xml.in.h:50
 msgid "XMonad for GNOME"
-msgstr ""
+msgstr "XMonad for GNOME"
 
 #: ../comps-f18.xml.in.h:51 ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with GNOME"
-msgstr ""
+msgstr "GNOME と一緒に XMonad ウィンドウマネージャー"
 
 #: ../comps-f18.xml.in.h:52 ../comps-f19.xml.in.h:52
 msgid "HAProxy"
@@ -1988,14 +1897,12 @@ msgid "TCP/HTTP Load Balancer."
 msgstr ""
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
-#, fuzzy
 msgid "JBoss Application Server"
-msgstr "アプリケーション"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
-#, fuzzy
 msgid "Java appliation server."
-msgstr "PHP Web アプリケーションフレームワーク。"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:56 ../comps-f19.xml.in.h:56
 msgid "MongoDB"
@@ -2010,9 +1917,8 @@ msgid "Perl for Web"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:59 ../comps-f19.xml.in.h:59
-#, fuzzy
 msgid "Basic Perl web application support."
-msgstr "PHP Web アプリケーションフレームワーク。"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:60 ../comps-f19.xml.in.h:60
 msgid "PHP"
@@ -2027,27 +1933,24 @@ msgid "Python"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
-#, fuzzy
 msgid "Basic Python web application support."
-msgstr "PHP Web アプリケーションフレームワーク。"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:65 ../comps-f19.xml.in.h:65
-#, fuzzy
 msgid "Ruby on Rails web application stack."
-msgstr "TurboGears Web アプリケーションフレームワーク"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:67 ../comps-f19.xml.in.h:67
-#, fuzzy
 msgid "Tomcat web application server."
-msgstr "TurboGears Web アプリケーションフレームワーク"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
@@ -2058,9 +1961,8 @@ msgid "Load balancing support for network traffic"
 msgstr ""
 
 #: ../comps-f18.xml.in.h:70 ../comps-f19.xml.in.h:70
-#, fuzzy
 msgid "High Availability"
-msgstr "ストレージ可用性ツール"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:71 ../comps-f19.xml.in.h:71
 msgid "Infrastructure for highly available services and/or shared storage."
@@ -2086,53 +1988,42 @@ msgid ""
 msgstr ""
 
 #: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
-#, fuzzy
 msgid "Basic Web Server"
-msgstr "Web サーバー"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
-#, fuzzy
 msgid "Xfce Software Development"
-msgstr "X ソフトウェア開発環境"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
-#, fuzzy
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
 msgstr ""
-"GTK+ 及び XFCE のグラフィカルアプリケーションを開発するためにはこれらのパッ"
-"ケージをインストールしてください。"
 
 #: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
-#, fuzzy
 msgid "GNOME Desktop"
-msgstr "KDE デスクトップ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
-#, fuzzy
 msgid "Xfce Desktop"
-msgstr "デスクトップ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
-#, fuzzy
 msgid "LXDE Desktop"
-msgstr "KDE デスクトップ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
-#, fuzzy
 msgid "Cinnamon Desktop"
-msgstr "デスクトップ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
-#, fuzzy
 msgid "MATE Desktop"
-msgstr "KDE デスクトップ"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
-#, fuzzy
 msgid "Development and Creative Workstation"
-msgstr "開発ツールとライブラリー"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
 msgid "Workstation for software, hardware, graphics, or content development."
@@ -2143,26 +2034,20 @@ msgid "Server for serving static and dynamic internet content."
 msgstr ""
 
 #: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
-#, fuzzy
 msgid "Infrastructure Server"
-msgstr "NIS サーバー"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
-#, fuzzy
 msgid "Server for operating network infrastructure services."
-msgstr "NIS サーバー"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
-#, fuzzy
 msgid "Basic X Window System"
-msgstr "X Window System"
+msgstr ""
 
 #: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
-#, fuzzy
 msgid "X Window System without a full desktop environment."
 msgstr ""
-"規模の大きいデスクトップ環境とは独立しているシンプルなウィンドウマネージャで"
-"す。"
 
 #: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
 msgid "Minimal Install"
@@ -2182,19 +2067,17 @@ msgid "A set of commonly used KDE applications"
 msgstr ""
 
 #: ../comps-f19.xml.in.h:177
-#, fuzzy
 msgid "Lepcha Support"
-msgstr "ケチュア語のサポート"
+msgstr ""
 
 #: ../comps-f19.xml.in.h:219
-#, fuzzy
 msgid "Security Lab"
-msgstr "セキュリティーツール"
+msgstr ""
 
 #: ../comps-f19.xml.in.h:220
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security "
-"testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security"
+" testing methodologies."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4
@@ -2206,9 +2089,7 @@ msgstr "このグループはアラビア語環境のツール及びリソース
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr ""
-"これらのツールを使用すると、DocBook 形式による文書の作成、及び HTML、PDF、"
-"Postscript、およびテキストへの変換を行うことができます。"
+msgstr "これらのツールを使用すると、DocBook 形式による文書の作成、及び HTML、PDF、Postscript、およびテキストへの変換を行うことができます。"
 
 #: ../comps-el5.xml.in.h:13
 msgid ""
@@ -2223,17 +2104,13 @@ msgstr "ダイヤルアップネットワークサポート"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr ""
-"テキストエディターとも呼ばれるこれらのプログラムではファイルの作成や編集を行"
-"うことができます。プログラムには Emacs や Vi などがあります。"
+msgstr "テキストエディターとも呼ばれるこれらのプログラムではファイルの作成や編集を行うことができます。プログラムには Emacs や Vi などがあります。"
 
 #: ../comps-el5.xml.in.h:32
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOMEは、パネル、デスクトップ、システムアイコン、グラフィカルなファイルマネ"
-"ジャなどが含まれている強力なグラフィカルユーザーインターフェイスです。"
+msgstr "GNOMEは、パネル、デスクトップ、システムアイコン、グラフィカルなファイルマネジャなどが含まれている強力なグラフィカルユーザーインターフェイスです。"
 
 #: ../comps-el5.xml.in.h:42
 msgid ""
@@ -2251,11 +2128,9 @@ msgstr "KDE (K デスクトップ環境)"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDEは、パネル、デスクトップ、システムアイコン、グラフィカルなファイルマネ"
-"ジャーなどを含む強力なグラフィカルユーザーインターフェースです。"
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
+msgstr "KDEは、パネル、デスクトップ、システムアイコン、グラフィカルなファイルマネジャーなどを含む強力なグラフィカルユーザーインターフェースです。"
 
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -2280,8 +2155,7 @@ msgstr "追加の開発環境"
 #: ../comps-el6.xml.in.h:2
 msgid ""
 "Additional development headers and libraries for developing applications"
-msgstr ""
-"アプリケーションを開発するためのその他ヘッダーファイルおよびライブラリー"
+msgstr "アプリケーションを開発するためのその他ヘッダーファイルおよびライブラリー"
 
 #: ../comps-el6.xml.in.h:10
 msgid "Backup Client"
@@ -2289,8 +2163,7 @@ msgstr "バックアップクライアント"
 
 #: ../comps-el6.xml.in.h:11
 msgid "Client tools for connecting to a backup server and doing backups."
-msgstr ""
-"バックアップサーバーに接続しバックアップを実行するためのクライアントツール"
+msgstr "バックアップサーバーに接続しバックアップを実行するためのクライアントツール"
 
 #: ../comps-el6.xml.in.h:12
 msgid "Backup Server"
@@ -2326,8 +2199,7 @@ msgstr "CIFS ファイルサーバー"
 
 #: ../comps-el6.xml.in.h:33
 msgid "Share files between Linux and Microsoft Windows systems."
-msgstr ""
-"Linux と Microsoft Windows とのシステム間でファイル共有を行うことができます。"
+msgstr "Linux と Microsoft Windows とのシステム間でファイル共有を行うことができます。"
 
 #: ../comps-el6.xml.in.h:34
 msgid "Compatibility libraries"
@@ -2337,9 +2209,7 @@ msgstr "互換性ライブラリー"
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
-msgstr ""
-"以前のバージョンの Enterprise Linux とのアプリケーションビルド時の互換性ライ"
-"ブラリー"
+msgstr "以前のバージョンの Enterprise Linux とのアプリケーションビルド時の互換性ライブラリー"
 
 #: ../comps-el6.xml.in.h:36
 msgid "Console internet tools"
@@ -2361,9 +2231,7 @@ msgstr "デバッグツール"
 msgid ""
 "Tools for debugging misbehaving applications and diagnosing performance "
 "problems."
-msgstr ""
-"正しく動作しないアプリケーションをデバッグおよびパフォーマンスの問題を分析す"
-"るツール"
+msgstr "正しく動作しないアプリケーションをデバッグおよびパフォーマンスの問題を分析するツール"
 
 #: ../comps-el6.xml.in.h:46
 msgid "Desktop Debugging and Performance Tools"
@@ -2389,9 +2257,7 @@ msgstr "デスクトップ環境の開発環境"
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
-msgstr ""
-"Enterprise Linux デスクトップ環境向けのアプリケーション開発に必要なヘッダー"
-"ファイルとライブラリー"
+msgstr "Enterprise Linux デスクトップ環境向けのアプリケーション開発に必要なヘッダーファイルとライブラリー"
 
 #: ../comps-el6.xml.in.h:52
 msgid "Development tools"
@@ -2411,9 +2277,7 @@ msgstr "ディレクトリークライアント"
 
 #: ../comps-el6.xml.in.h:57
 msgid "Clients for integration into a network managed by a directory service."
-msgstr ""
-"ディレクトリーサービスによって管理されるネットワークに統合するためのクライア"
-"ント"
+msgstr "ディレクトリーサービスによって管理されるネットワークに統合するためのクライアント"
 
 #: ../comps-el6.xml.in.h:61
 msgid "Eclipse"
@@ -2445,8 +2309,7 @@ msgstr "Fedora パッケージャーに必要なツールとユーティリテ�
 
 #: ../comps-el6.xml.in.h:79
 msgid "Fonts for rendering text in a variety of languages and scripts."
-msgstr ""
-"デスクトップでテキストをレンダリングするための様々な言語向けのフォント群"
+msgstr "デスクトップでテキストをレンダリングするための様々な言語向けのフォント群"
 
 #: ../comps-el6.xml.in.h:83
 msgid "FTP server"
@@ -2495,11 +2358,9 @@ msgstr "Infiniband のサポート"
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
-msgstr ""
-"RDMA ベースの InfiniBand や iWARP ファブリックを使用してクラスタリングやグ"
-"リッドの接続性を サポートするように設計されているソフトウェアです。"
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
+msgstr "RDMA ベースの InfiniBand や iWARP ファブリックを使用してクラスタリングやグリッドの接続性を サポートするように設計されているソフトウェアです。"
 
 #: ../comps-el6.xml.in.h:110
 msgid "Software for the input of international text."
@@ -2559,9 +2420,7 @@ msgstr "レガシー X Windows システムの互換性"
 msgid ""
 "Compatibility programs for migration from or working with legacy X Window "
 "System environments."
-msgstr ""
-"レガシー X Windows システム環境の使用やこの環境からの移行するための互換性プロ"
-"グラム"
+msgstr "レガシー X Windows システム環境の使用やこの環境からの移行するための互換性プログラム"
 
 #: ../comps-el6.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
@@ -2571,9 +2430,7 @@ msgstr "レガシーな X Window System との互換性"
 msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
-msgstr ""
-"レガシーな X Window System 環境向けに書かれたプログラムを移植するために最低限"
-"の互換性維持パッケージ"
+msgstr "レガシーな X Window System 環境向けに書かれたプログラムを移植するために最低限の互換性維持パッケージ"
 
 #: ../comps-el6.xml.in.h:148
 msgid "E-mail server"
@@ -2581,9 +2438,7 @@ msgstr "Eメールサーバー"
 
 #: ../comps-el6.xml.in.h:149
 msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
-msgstr ""
-"このシステムが SMTP または IMAP のメールサーバーとして機能できるようにしま"
-"す。"
+msgstr "このシステムが SMTP または IMAP のメールサーバーとして機能できるようにします。"
 
 #: ../comps-el6.xml.in.h:150
 msgid "Mainframe Access"
@@ -2654,9 +2509,9 @@ msgid "Performance Tools"
 msgstr "パフォーマンスツール"
 
 #: ../comps-el6.xml.in.h:183
-msgid "Tools for diagnosing system and application-level performance problems."
-msgstr ""
-"システムおよびアプリケーションレベルのパフォーマンス問題を分析するツール"
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
+msgstr "システムおよびアプリケーションレベルのパフォーマンス問題を分析するツール"
 
 #: ../comps-el6.xml.in.h:184
 msgid "Perl Support"
@@ -2743,9 +2598,7 @@ msgstr "サーバー環境の開発環境"
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
-msgstr ""
-"Enterprise Linux サーバー環境向けのアプリケーション開発に必要なヘッダーファイ"
-"ルとライブラリー"
+msgstr "Enterprise Linux サーバー環境向けのアプリケーション開発に必要なヘッダーファイルとライブラリー"
 
 #: ../comps-el6.xml.in.h:214
 msgid "Server Policy"
@@ -2883,9 +2736,7 @@ msgstr "仮想化プラットフォーム"
 msgid ""
 "Provides an interface for accessing and controlling virtualized guests and "
 "containers."
-msgstr ""
-"仮想化ゲストとコンテナへアクセスしたり制御するためのインターフェースを提供し"
-"ます。"
+msgstr "仮想化ゲストとコンテナへアクセスしたり制御するためのインターフェースを提供します。"
 
 #: ../comps-el6.xml.in.h:277
 msgid "Virtualization Tools"
@@ -2899,9 +2750,7 @@ msgstr "オフラインの仮想ディスクイメージ管理のためのツー
 msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
-msgstr ""
-"このシステムが Web サーバーとして機能し、Perl や Python の Web アプリケーショ"
-"ンを実行できるようにします。"
+msgstr "このシステムが Web サーバーとして機能し、Perl や Python の Web アプリケーションを実行できるようにします。"
 
 #: ../comps-el6.xml.in.h:282
 msgid "Web Servlet Engine"
