@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Dimitris Glezos <glezos@indifex.com>, 2011.
 msgid ""
@@ -9,16 +9,14 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-18 00:39-0500\n"
-"PO-Revision-Date: 2012-12-17 22:02+0000\n"
+"PO-Revision-Date: 2012-12-18 05:40+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Romanian (http://www.transifex.com/projects/p/fedora/language/"
-"ro/)\n"
-"Language: ro\n"
+"Language-Team: Romanian (http://www.transifex.com/projects/p/fedora/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
-"2:1));\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
 #: ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1 ../comps-f18.xml.in.h:72
 #: ../comps-f19.xml.in.h:72 ../comps-el5.xml.in.h:1
@@ -28,11 +26,9 @@ msgstr "Unelte de administrare"
 #: ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2 ../comps-f18.xml.in.h:73
 #: ../comps-f19.xml.in.h:73 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
-msgstr ""
-"Acest grup este o colecție de unelte grafice de administrare pentru sistem, "
-"cum ar fi administrarea conturilor de utilizator și configurarea hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
+msgstr "Acest grup este o colecție de unelte grafice de administrare pentru sistem, cum ar fi administrarea conturilor de utilizator și configurarea hardware."
 
 #: ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3 ../comps-el6.xml.in.h:3
 msgid "Afrikaans Support"
@@ -84,9 +80,7 @@ msgstr "Creare și publicare documente"
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
-msgstr ""
-"Aceste unelte vă permit să creați documente în formatul DocBook și să le "
-"convertiți în HTML, PDF, Postscript și text."
+msgstr "Aceste unelte vă permit să creați documente în formatul DocBook și să le convertiți în HTML, PDF, Postscript și text."
 
 #: ../comps-f16.xml.in.h:14 ../comps-f17.xml.in.h:15 ../comps-el6.xml.in.h:9
 msgid "Azerbaijani Support"
@@ -100,9 +94,7 @@ msgstr "Bază"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr ""
-"Acest grup include un set minimal de pachete. Util pentru a crea mici mașini "
-"router/firewall, de exemplu."
+msgstr "Acest grup include un set minimal de pachete. Util pentru a crea mici mașini router/firewall, de exemplu."
 
 #: ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:18 ../comps-el5.xml.in.h:9
 #: ../comps-el6.xml.in.h:287
@@ -112,9 +104,7 @@ msgstr "Sistemul de ferestre X"
 #: ../comps-f16.xml.in.h:18 ../comps-f17.xml.in.h:19 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr ""
-"Instalați acest grup de pachete pentru a folosi interfața grafică primară "
-"(X)."
+msgstr "Instalați acest grup de pachete pentru a folosi interfața grafică primară (X)."
 
 #: ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:20 ../comps-el6.xml.in.h:18
 msgid "Basque Support"
@@ -238,8 +228,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:49 ../comps-f18.xml.in.h:97
 #: ../comps-f19.xml.in.h:97
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
@@ -311,10 +301,9 @@ msgstr "Librării pentru dezvoltare"
 #: ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:62 ../comps-f18.xml.in.h:107
 #: ../comps-f19.xml.in.h:107
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
-msgstr ""
-"Pachetele din acest grup sunt librării de bază necesare pentru a dezvolta "
-"aplicații."
+"The packages in this group are core libraries needed to develop "
+"applications."
+msgstr "Pachetele din acest grup sunt librării de bază necesare pentru a dezvolta aplicații."
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
 #: ../comps-f19.xml.in.h:108 ../comps-el5.xml.in.h:14
@@ -326,9 +315,7 @@ msgstr "Unelte pentru dezvoltare"
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
-msgstr ""
-"Aceste unelte includ unelte de bază pentru dezvoltare cum ar fi automake, "
-"gcc, perl, python și deploșnițori."
+msgstr "Aceste unelte includ unelte de bază pentru dezvoltare cum ar fi automake, gcc, perl, python și deploșnițori."
 
 #: ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:65 ../comps-f18.xml.in.h:110
 #: ../comps-f19.xml.in.h:110 ../comps-el6.xml.in.h:54
@@ -354,9 +341,7 @@ msgstr "Server de nume DNS"
 #: ../comps-f19.xml.in.h:114
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr ""
-"Acest grup de pachete vă permite să rulați pe sistem un server de nume DNS "
-"(BIND)."
+msgstr "Acest grup de pachete vă permite să rulați pe sistem un server de nume DNS (BIND)."
 
 #: ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:71 ../comps-f18.xml.in.h:116
 #: ../comps-f19.xml.in.h:116
@@ -392,9 +377,7 @@ msgstr "Editoare"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr ""
-"Uneori numite editoare de texte, acestea sunt programe care vă permit să "
-"creați și editați fișiere text. Acestea includ Emacs și Vi."
+msgstr "Uneori numite editoare de texte, acestea sunt programe care vă permit să creați și editați fișiere text. Acestea includ Emacs și Vi."
 
 #: ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:78 ../comps-f18.xml.in.h:122
 #: ../comps-f19.xml.in.h:122 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
@@ -426,9 +409,7 @@ msgstr "Inginerie și Științific"
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
-msgstr ""
-"Acest grup include pachete pentru a efectua calcule și grafice matematice și "
-"științifice precum și conversie între unități de măsură."
+msgstr "Acest grup include pachete pentru a efectua calcule și grafice matematice și științifice precum și conversie între unități de măsură."
 
 #: ../comps-f16.xml.in.h:79 ../comps-f17.xml.in.h:84 ../comps-el6.xml.in.h:69
 msgid "Esperanto Support"
@@ -560,10 +541,7 @@ msgstr "Mediul de lucru GNOME"
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME este o puternică interfață grafică cu utilizatorul care include un "
-"panou, spațiu de lucru, icoane pentru sistem precum și un manager grafic de "
-"fișiere."
+msgstr "GNOME este o puternică interfață grafică cu utilizatorul care include un panou, spațiu de lucru, icoane pentru sistem precum și un manager grafic de fișiere."
 
 #: ../comps-f16.xml.in.h:106 ../comps-f17.xml.in.h:111
 #: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:141
@@ -577,9 +555,7 @@ msgstr "Dezvoltare programe GNOME"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr ""
-"Instalați aceste pachete pentru a putea dezvolta aplicații grafice GTK+ și "
-"GNOME."
+msgstr "Instalați aceste pachete pentru a putea dezvolta aplicații grafice GTK+ și GNOME."
 
 #: ../comps-f16.xml.in.h:108 ../comps-f17.xml.in.h:113
 #: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:143
@@ -603,8 +579,7 @@ msgstr "Grafică"
 #: ../comps-f18.xml.in.h:146 ../comps-f19.xml.in.h:146
 #: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr ""
-"Acest grup include pachete care vă ajută să manipulați și scanați imagini."
+msgstr "Acest grup include pachete care vă ajută să manipulați și scanați imagini."
 
 #: ../comps-f16.xml.in.h:112 ../comps-f17.xml.in.h:117
 #: ../comps-f18.xml.in.h:147 ../comps-f19.xml.in.h:147
@@ -633,9 +608,7 @@ msgstr "Suport hardware"
 #: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
-msgstr ""
-"Acest grup este o colecție de unelte pentru diferite unelte cu specific "
-"hardware."
+msgstr "Acest grup este o colecție de unelte pentru diferite unelte cu specific hardware."
 
 #: ../comps-f16.xml.in.h:117 ../comps-f17.xml.in.h:122
 #: ../comps-f18.xml.in.h:151 ../comps-f19.xml.in.h:151
@@ -726,8 +699,7 @@ msgstr ""
 #: ../comps-f16.xml.in.h:133 ../comps-f17.xml.in.h:138
 #: ../comps-f18.xml.in.h:159 ../comps-f19.xml.in.h:159
 msgid "Support for running programs written in the Java programming language."
-msgstr ""
-"Suport pentru rularea programelor scrise în limbajul de programare Java."
+msgstr "Suport pentru rularea programelor scrise în limbajul de programare Java."
 
 #: ../comps-f16.xml.in.h:134 ../comps-f17.xml.in.h:139
 #: ../comps-f18.xml.in.h:160 ../comps-f19.xml.in.h:160
@@ -783,8 +755,7 @@ msgstr "Dezvoltare programe KDE"
 #: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:165
 #: ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr ""
-"Instalați aceste pachete pentru a dezvolta aplicații grafice QT și KDE."
+msgstr "Instalați aceste pachete pentru a dezvolta aplicații grafice QT și KDE."
 
 #: ../comps-f16.xml.in.h:144 ../comps-f17.xml.in.h:149
 #: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:166
@@ -854,9 +825,7 @@ msgstr "Servere de rețea depreciate"
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr ""
-"Aceste pachete includ servere pentru protocoale vechi de rețea cum ar fi rsh "
-"și telnet."
+msgstr "Aceste pachete includ servere pentru protocoale vechi de rețea cum ar fi rsh și telnet."
 
 #: ../comps-f16.xml.in.h:157 ../comps-f17.xml.in.h:162
 #: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:174
@@ -924,7 +893,8 @@ msgstr ""
 #: ../comps-f18.xml.in.h:36 ../comps-f19.xml.in.h:36
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:171 ../comps-f17.xml.in.h:176
@@ -942,8 +912,7 @@ msgstr "Server de mail"
 #: ../comps-f18.xml.in.h:180 ../comps-f19.xml.in.h:181
 #: ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
-msgstr ""
-"Aceste pachete vă permit să configurați un server de mail IMAP sau SMTP."
+msgstr "Aceste pachete vă permit să configurați un server de mail IMAP sau SMTP."
 
 #: ../comps-f16.xml.in.h:174 ../comps-f17.xml.in.h:179
 #: ../comps-f18.xml.in.h:181 ../comps-f19.xml.in.h:182
@@ -1055,9 +1024,7 @@ msgstr "Servere de rețea"
 #: ../comps-f18.xml.in.h:197 ../comps-f19.xml.in.h:198
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr ""
-"Aceste pachete includ servere bazate pe rețea cum ar fi DHCP, Kerberos și "
-"NIS."
+msgstr "Aceste pachete includ servere bazate pe rețea cum ar fi DHCP, Kerberos și NIS."
 
 #: ../comps-f16.xml.in.h:195 ../comps-f17.xml.in.h:205
 #: ../comps-f18.xml.in.h:198 ../comps-f19.xml.in.h:199
@@ -1164,9 +1131,7 @@ msgstr "Suport pentru tipărire"
 #: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr ""
-"Instalați aceste unelte pentru a permite sistemului să tipărească sau să "
-"funcționeze ca un server de tipărire."
+msgstr "Instalați aceste unelte pentru a permite sistemului să tipărească sau să funcționeze ca un server de tipărire."
 
 #: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
 #: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
@@ -1231,10 +1196,9 @@ msgstr "Unelte de configurat servere"
 
 #: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
 #: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:223
-msgid "This group contains all of Red Hat's custom server configuration tools."
-msgstr ""
-"Acest grup conține toate uneltele personalizate de configurare a serverelor "
-"de la Red Hat."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
+msgstr "Acest grup conține toate uneltele personalizate de configurare a serverelor de la Red Hat."
 
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
 msgid "Shuswap Support"
@@ -1275,11 +1239,9 @@ msgstr "Server de partajare Windows"
 #: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
 #: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:228
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
-msgstr ""
-"Acest grup de pachete vă permite să partajați fișiere între sisteme Linux și "
-"MS Windows(tm)."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
+msgstr "Acest grup de pachete vă permite să partajați fișiere între sisteme Linux și MS Windows(tm)."
 
 #: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
 msgid "Somali Support"
@@ -1297,9 +1259,7 @@ msgstr "Sunet și Video"
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr ""
-"De la înregistrare CD la ascultare CD și fișiere multimedia, acest grup de "
-"pachete vă permite să lucrați cu sunet și video pe sistem."
+msgstr "De la înregistrare CD la ascultare CD și fișiere multimedia, acest grup de pachete vă permite să lucrați cu sunet și video pe sistem."
 
 #: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:250
 #: ../comps-el6.xml.in.h:222
@@ -1324,8 +1284,7 @@ msgstr "Baza de date PostgreSQL"
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:254
 #: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr ""
-"Acest grup de pachete include pachete utile pentru lucrul cu PostgreSQL."
+msgstr "Acest grup de pachete include pachete utile pentru lucrul cu PostgreSQL."
 
 #: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:255
 #: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:233
@@ -1364,10 +1323,7 @@ msgstr "Unelte sistem"
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
-msgstr ""
-"Acest grup este o colecție de unelte diverse pentru sistem, cum ar fi un "
-"client pentru conectare la partajări SMB și unelte pentru a monitoriza "
-"traficul din rețea."
+msgstr "Acest grup este o colecție de unelte diverse pentru sistem, cum ar fi un client pentru conectare la partajări SMB și unelte pentru a monitoriza traficul din rețea."
 
 #: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:262
 #: ../comps-el6.xml.in.h:248
@@ -1408,9 +1364,7 @@ msgstr "Internet în mod text"
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr ""
-"Acest grup include mail în mod text, web și clienți pentru discuții. Aceste "
-"aplicații nu au nevoie de sistemul de ferestre X."
+msgstr "Acest grup include mail în mod text, web și clienți pentru discuții. Aceste aplicații nu au nevoie de sistemul de ferestre X."
 
 #: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:269
 #: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:241
@@ -1512,8 +1466,7 @@ msgstr "Dezvoltare web"
 #: ../comps-el5.xml.in.h:64
 msgid ""
 "These packages are helpful when developing web applications or web pages."
-msgstr ""
-"Aceste pachete vă sunt de folos dacă dezvoltați aplicații sau pagini web."
+msgstr "Aceste pachete vă sunt de folos dacă dezvoltați aplicații sau pagini web."
 
 #: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:291
 #: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:263
@@ -1543,9 +1496,7 @@ msgstr "Manageri de ferestre"
 #: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
-msgstr ""
-"Manageri de ferestre simpli care nu sunt parte a unui mediu de lucru mai "
-"mare."
+msgstr "Manageri de ferestre simpli care nu sunt parte a unui mediu de lucru mai mare."
 
 #: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:296
 #: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:251
@@ -1556,9 +1507,7 @@ msgstr "Dezvoltare programe X"
 #: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
 msgid ""
 "These packages allow you to develop applications for the X Window System."
-msgstr ""
-"Aceste pachete vă permit să dezvoltați aplicații pentru sistemul de ferestre "
-"X."
+msgstr "Aceste pachete vă permit să dezvoltați aplicații pentru sistemul de ferestre X."
 
 #: ../comps-f16.xml.in.h:285 ../comps-f17.xml.in.h:298
 #: ../comps-f18.xml.in.h:26 ../comps-f19.xml.in.h:26 ../comps-el6.xml.in.h:289
@@ -1568,8 +1517,7 @@ msgstr ""
 #: ../comps-f16.xml.in.h:286 ../comps-f17.xml.in.h:299
 #: ../comps-f18.xml.in.h:27 ../comps-f19.xml.in.h:27 ../comps-el6.xml.in.h:290
 msgid "A lightweight desktop environment that works well on low end machines."
-msgstr ""
-"Un mediu de lucru lejer care funcționează bine pe calculatoare mai slabe."
+msgstr "Un mediu de lucru lejer care funcționează bine pe calculatoare mai slabe."
 
 #: ../comps-f16.xml.in.h:287 ../comps-f17.xml.in.h:300
 msgid "XFCE Software Development"
@@ -1579,9 +1527,7 @@ msgstr "Dezvoltare programe XFCE"
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
-msgstr ""
-"Instalați aceste pachete pentru a putea dezvolta aplicații grafice GTK+ și "
-"aplicații grafice XFCE."
+msgstr "Instalați aceste pachete pentru a putea dezvolta aplicații grafice GTK+ și aplicații grafice XFCE."
 
 #: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:302
 #: ../comps-el6.xml.in.h:291
@@ -1604,11 +1550,9 @@ msgstr "Limbi"
 
 #: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
-msgstr ""
-"Aceste pachete oferă suport pentru diverse localizări, acesta incluzând "
-"fonturi și metode de introducere."
+"These packages provide support for various locales including fonts and input"
+" methods."
+msgstr "Aceste pachete oferă suport pentru diverse localizări, acesta incluzând fonturi și metode de introducere."
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
 #: ../comps-el5.xml.in.h:71
@@ -1643,9 +1587,7 @@ msgstr "Dezvoltare"
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
-msgstr ""
-"Pachete care oferă funcționalități pentru dezvoltarea și construirea de "
-"aplicații."
+msgstr "Pachete care oferă funcționalități pentru dezvoltarea și construirea de aplicații."
 
 #: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:313
 #: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:277
@@ -2130,8 +2072,8 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:221
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security "
-"testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security"
+" testing methodologies."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4
@@ -2143,9 +2085,7 @@ msgstr ""
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
-msgstr ""
-"Aceste unelte vă permit să creați documentație în formatul DocBook și să le "
-"convertiți în HTML, PDF, Postscript și text."
+msgstr "Aceste unelte vă permit să creați documentație în formatul DocBook și să le convertiți în HTML, PDF, Postscript și text."
 
 #: ../comps-el5.xml.in.h:13
 msgid ""
@@ -2160,18 +2100,13 @@ msgstr "Suport pentru acces la rețea prin telefon"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
-msgstr ""
-"Uneori numite editoare de texte, acestea sunt programe care vă permit să "
-"creați și să editați fișiere. Acestea includ Emacs și Vi."
+msgstr "Uneori numite editoare de texte, acestea sunt programe care vă permit să creați și să editați fișiere. Acestea includ Emacs și Vi."
 
 #: ../comps-el5.xml.in.h:32
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME este o puternică interfață grafică cu utilizatorul care include un "
-"panou, spațiu de lucru, icoane pentru sistem precum și un manager grafic de "
-"fișiere."
+msgstr "GNOME este o puternică interfață grafică cu utilizatorul care include un panou, spațiu de lucru, icoane pentru sistem precum și un manager grafic de fișiere."
 
 #: ../comps-el5.xml.in.h:42
 msgid ""
@@ -2189,11 +2124,9 @@ msgstr "KDE (Mediul de lucru K)"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDE este o puternică interfață grafică cu utilizatorul care include un "
-"panou, spațiu de lucru, icoane pentru sistem și un manager grafic de fișiere."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
+msgstr "KDE este o puternică interfață grafică cu utilizatorul care include un panou, spațiu de lucru, icoane pentru sistem și un manager grafic de fișiere."
 
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -2421,8 +2354,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:110
@@ -2572,7 +2505,8 @@ msgid "Performance Tools"
 msgstr ""
 
 #: ../comps-el6.xml.in.h:183
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:184

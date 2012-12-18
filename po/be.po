@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Ales Nyakhaychyk <nab@mail.by>, 2004.
 # Dimitris Glezos <glezos@indifex.com>, 2011.
@@ -10,15 +10,14 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-18 00:39-0500\n"
-"PO-Revision-Date: 2012-12-17 22:02+0000\n"
+"PO-Revision-Date: 2012-12-18 05:40+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: be\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: ../comps-f16.xml.in.h:1 ../comps-f17.xml.in.h:1 ../comps-f18.xml.in.h:72
 #: ../comps-f19.xml.in.h:72 ../comps-el5.xml.in.h:1
@@ -28,8 +27,8 @@ msgstr "Адміністратыўныя сродкі"
 #: ../comps-f16.xml.in.h:2 ../comps-f17.xml.in.h:2 ../comps-f18.xml.in.h:73
 #: ../comps-f19.xml.in.h:73 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:3 ../comps-f17.xml.in.h:3 ../comps-el6.xml.in.h:3
@@ -106,9 +105,7 @@ msgstr "X Window System"
 #: ../comps-f16.xml.in.h:18 ../comps-f17.xml.in.h:19 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr ""
-"Усталёйце гэтыя пакеты каб выкарыстоўваць базавае графічнае (X) спалучэньне "
-"карыстальніка."
+msgstr "Усталёйце гэтыя пакеты каб выкарыстоўваць базавае графічнае (X) спалучэньне карыстальніка."
 
 #: ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:20 ../comps-el6.xml.in.h:18
 msgid "Basque Support"
@@ -232,8 +229,8 @@ msgstr ""
 #: ../comps-f16.xml.in.h:45 ../comps-f17.xml.in.h:49 ../comps-f18.xml.in.h:97
 #: ../comps-f19.xml.in.h:97
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
@@ -305,7 +302,8 @@ msgstr "Бібліятэкі для распрацоўкі"
 #: ../comps-f16.xml.in.h:58 ../comps-f17.xml.in.h:62 ../comps-f18.xml.in.h:107
 #: ../comps-f19.xml.in.h:107
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
@@ -558,9 +556,7 @@ msgstr "Сродкі распрацоўкі GNOME"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr ""
-"Усталёйце гэтыя пакеты каб мець магчымасьць весьці распрацоўку для GTK+·і "
-"GNOME."
+msgstr "Усталёйце гэтыя пакеты каб мець магчымасьць весьці распрацоўку для GTK+·і GNOME."
 
 #: ../comps-f16.xml.in.h:108 ../comps-f17.xml.in.h:113
 #: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:143
@@ -760,8 +756,7 @@ msgstr "Асяродзьдзе распрацоўкі KDE"
 #: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:165
 #: ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr ""
-"Усталёйце гэтыя пакеты каб мець магчымасьць весьці распрацоўку для Qt·і KDE."
+msgstr "Усталёйце гэтыя пакеты каб мець магчымасьць весьці распрацоўку для Qt·і KDE."
 
 #: ../comps-f16.xml.in.h:144 ../comps-f17.xml.in.h:149
 #: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:166
@@ -831,9 +826,7 @@ msgstr ""
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr ""
-"Гэтыя пакеты ўтрымліваюць сеткавыя паслужнікі для старых пратаколаў. "
-"Напрыклад rsh і telnet."
+msgstr "Гэтыя пакеты ўтрымліваюць сеткавыя паслужнікі для старых пратаколаў. Напрыклад rsh і telnet."
 
 #: ../comps-f16.xml.in.h:157 ../comps-f17.xml.in.h:162
 #: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:174
@@ -901,7 +894,8 @@ msgstr ""
 #: ../comps-f18.xml.in.h:36 ../comps-f19.xml.in.h:36
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:171 ../comps-f17.xml.in.h:176
@@ -1031,9 +1025,7 @@ msgstr "Сеткавыя паслугі"
 #: ../comps-f18.xml.in.h:197 ../comps-f19.xml.in.h:198
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr ""
-"Гэтыя пакеты ўтрымліваюць сеткавыя паслужнікі. Напрыклад DHCP, Kerberos і "
-"NIS."
+msgstr "Гэтыя пакеты ўтрымліваюць сеткавыя паслужнікі. Напрыклад DHCP, Kerberos і NIS."
 
 #: ../comps-f16.xml.in.h:195 ../comps-f17.xml.in.h:205
 #: ../comps-f18.xml.in.h:198 ../comps-f19.xml.in.h:199
@@ -1088,8 +1080,7 @@ msgstr "Канцылярскія даставаньні"
 #: ../comps-f18.xml.in.h:203 ../comps-f19.xml.in.h:204
 #: ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
-msgstr ""
-"Дастасаваньні ўключаюць канцылярскі набор, PDF глядач і шмат чаго яшчэ."
+msgstr "Дастасаваньні ўключаюць канцылярскі набор, PDF глядач і шмат чаго яшчэ."
 
 #: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:215
 #: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:205
@@ -1141,9 +1132,7 @@ msgstr "Падтрымка друку"
 #: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr ""
-"Усталёйце гэтыя пакеты каб уключыць сыстэму друку ці працаваць у якасьці "
-"паслужніка друку."
+msgstr "Усталёйце гэтыя пакеты каб уключыць сыстэму друку ці працаваць у якасьці паслужніка друку."
 
 #: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
 #: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
@@ -1208,7 +1197,8 @@ msgstr "Сродкі наладкі паслужніка"
 
 #: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
 #: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:223
-msgid "This group contains all of Red Hat's custom server configuration tools."
+msgid ""
+"This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
@@ -1250,8 +1240,8 @@ msgstr "Файлавы паслужнік для Windows"
 #: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
 #: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:228
 msgid ""
-"This package group allows you to share files between Linux and MS Windows"
-"(tm) systems."
+"This package group allows you to share files between Linux and MS "
+"Windows(tm) systems."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
@@ -1295,8 +1285,7 @@ msgstr ""
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:254
 #: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr ""
-"Гэта група ўтрымлівае пакеты, якія выкарыстоўваюцца разам з Postgresql."
+msgstr "Гэта група ўтрымлівае пакеты, якія выкарыстоўваюцца разам з Postgresql."
 
 #: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:255
 #: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:233
@@ -1519,8 +1508,7 @@ msgstr "Асяродзьдзе распрацоўкі X"
 #: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
 msgid ""
 "These packages allow you to develop applications for the X Window System."
-msgstr ""
-"Гэтыя пакеты дазваляюць вам распрацоўваць дастасаваньні для X Window System."
+msgstr "Гэтыя пакеты дазваляюць вам распрацоўваць дастасаваньні для X Window System."
 
 #: ../comps-f16.xml.in.h:285 ../comps-f17.xml.in.h:298
 #: ../comps-f18.xml.in.h:26 ../comps-f19.xml.in.h:26 ../comps-el6.xml.in.h:289
@@ -1563,8 +1551,8 @@ msgstr ""
 
 #: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
 msgid ""
-"These packages provide support for various locales including fonts and input "
-"methods."
+"These packages provide support for various locales including fonts and input"
+" methods."
 msgstr ""
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
@@ -2085,8 +2073,8 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:221
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security "
-"testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security"
+" testing methodologies."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4
@@ -2119,10 +2107,7 @@ msgstr ""
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr ""
-"GNOME·-·гэта·магутнае·графічнае·спалучэньне·карыстальніка,"
-"·якое·ўтрымлівае·панэлю,·сталец,"
-"·сыстэмныя·значкі·й·графічнага·кіраўніка·файлаў."
+msgstr "GNOME·-·гэта·магутнае·графічнае·спалучэньне·карыстальніка,·якое·ўтрымлівае·панэлю,·сталец,·сыстэмныя·значкі·й·графічнага·кіраўніка·файлаў."
 
 #: ../comps-el5.xml.in.h:42
 msgid ""
@@ -2140,11 +2125,9 @@ msgstr "Асяродзьдзе KDE"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
-msgstr ""
-"KDE - гэта магутнае графічнае спалучэньне карыстальніка, якое ўтрымлівае "
-"панэлю, сталец, сыстэмныя значкі й графічнага кіраўніка файлаў."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
+msgstr "KDE - гэта магутнае графічнае спалучэньне карыстальніка, якое ўтрымлівае панэлю, сталец, сыстэмныя значкі й графічнага кіраўніка файлаў."
 
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -2372,8 +2355,8 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:110
@@ -2523,7 +2506,8 @@ msgid "Performance Tools"
 msgstr ""
 
 #: ../comps-el6.xml.in.h:183
-msgid "Tools for diagnosing system and application-level performance problems."
+msgid ""
+"Tools for diagnosing system and application-level performance problems."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:184
