@@ -5,14 +5,14 @@
 # Translators:
 # Dimitris Glezos <glezos@indifex.com>, 2011.
 # Maxim Dziumanenko <dziumanenko@gmail.com>, 2003.
-# Yuri Chornoivan <yurchor@ukr.net>, 2011, 2012.
+# Yuri Chornoivan <yurchor@ukr.net>, 2011-2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-18 00:39-0500\n"
-"PO-Revision-Date: 2012-12-18 05:40+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
+"PO-Revision-Date: 2012-12-18 19:00+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -96,7 +96,7 @@ msgstr "Основа"
 msgid ""
 "This group includes a minimal set of packages. Useful for creating small "
 "router/firewall boxes, for example."
-msgstr "Група містить мінімальний набір пакетів. Вона підходить для створення невеликих маршрутизаторів/мережних екранів."
+msgstr "Група містить мінімальний набір пакунків. Вона підходить для створення невеликих маршрутизаторів/мережних екранів."
 
 #: ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:18 ../comps-el5.xml.in.h:9
 #: ../comps-el6.xml.in.h:287
@@ -106,7 +106,7 @@ msgstr "Система X Window"
 #: ../comps-f16.xml.in.h:18 ../comps-f17.xml.in.h:19 ../comps-el5.xml.in.h:10
 msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
-msgstr "Встановіть цю групу пакетів, щоб отримати графічний інтерфейс користувача (X)."
+msgstr "Встановіть цю групу пакунків, щоб отримати графічний інтерфейс користувача (X)."
 
 #: ../comps-f16.xml.in.h:19 ../comps-f17.xml.in.h:20 ../comps-el6.xml.in.h:18
 msgid "Basque Support"
@@ -220,7 +220,7 @@ msgstr "Critical Path (Основа)"
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr "Набір пакетів, що надають загальну платформу для функціональності Critical Path для усіх збірок Fedora"
+msgstr "Набір пакунків, що надають загальну платформу для функціональності Critical Path для усіх збірок Fedora"
 
 #: ../comps-f16.xml.in.h:44 ../comps-f17.xml.in.h:48 ../comps-f18.xml.in.h:96
 #: ../comps-f19.xml.in.h:96
@@ -232,7 +232,7 @@ msgstr "Critical Path (GNOME)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME"
 " desktop"
-msgstr "Набір пакетів, що надають функціональність Critical Path для середовища GNOME"
+msgstr "Набір пакунків, що надають функціональність Critical Path для середовища GNOME"
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
 #: ../comps-f19.xml.in.h:98
@@ -244,7 +244,7 @@ msgstr "Critical Path (KDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr "Набір пакетів, що надають функціональність Critical Path для середовища KDE"
+msgstr "Набір пакунків, що надають функціональність Critical Path для середовища KDE"
 
 #: ../comps-f16.xml.in.h:48 ../comps-f17.xml.in.h:52 ../comps-f18.xml.in.h:100
 #: ../comps-f19.xml.in.h:100
@@ -256,7 +256,7 @@ msgstr "Critical Path (LXDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr "Набір пакетів, що надають функціональність Critical Path для середовища LXDE"
+msgstr "Набір пакунків, що надають функціональність Critical Path для середовища LXDE"
 
 #: ../comps-f16.xml.in.h:50 ../comps-f17.xml.in.h:54 ../comps-f18.xml.in.h:102
 #: ../comps-f19.xml.in.h:102
@@ -268,7 +268,7 @@ msgstr "Critical Path (Xfce)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
-msgstr "Набір пакетів, що надають функціональність Critical Path для середовища Xfce"
+msgstr "Набір пакунків, що надають функціональність Critical Path для середовища Xfce"
 
 #: ../comps-f16.xml.in.h:52 ../comps-f17.xml.in.h:56 ../comps-el6.xml.in.h:41
 msgid "Croatian Support"
@@ -305,7 +305,7 @@ msgstr "Бібліотеки для розробки"
 msgid ""
 "The packages in this group are core libraries needed to develop "
 "applications."
-msgstr "Ця група містить пакети необхідні для розробки програм."
+msgstr "Ця група містить пакунки, потрібні для розробки програм."
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
 #: ../comps-f19.xml.in.h:108 ../comps-el5.xml.in.h:14
@@ -343,7 +343,7 @@ msgstr "Сервер DNS"
 #: ../comps-f19.xml.in.h:114
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
-msgstr "Пакети цієї групи дозволяють встановити та налаштувати сервер DNS (BIND)."
+msgstr "Пакунки цієї групи дозволяють встановити та налаштувати сервер DNS (BIND)."
 
 #: ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:71 ../comps-f18.xml.in.h:116
 #: ../comps-f19.xml.in.h:116
@@ -477,7 +477,7 @@ msgstr "Шрифти"
 #: ../comps-f16.xml.in.h:92 ../comps-f17.xml.in.h:97 ../comps-f18.xml.in.h:135
 #: ../comps-f19.xml.in.h:135
 msgid "Fonts packages for rendering text on the desktop."
-msgstr "Пакети шрифтів для виводу тексту на екрані."
+msgstr "Пакунки шрифтів для виводу тексту на екрані."
 
 #: ../comps-f16.xml.in.h:93 ../comps-f17.xml.in.h:98 ../comps-el6.xml.in.h:80
 msgid "French Support"
@@ -557,7 +557,7 @@ msgstr "Розробка з використанням GNOME"
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
-msgstr "Встановіть ці пакети для розробки графічних програм GTK+ та GNOME."
+msgstr "Встановіть ці пакунки для розробки графічних програм GTK+ та GNOME."
 
 #: ../comps-f16.xml.in.h:108 ../comps-f17.xml.in.h:113
 #: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:143
@@ -665,7 +665,7 @@ msgstr "Методи вводу"
 #: ../comps-f16.xml.in.h:126 ../comps-f17.xml.in.h:131
 #: ../comps-f18.xml.in.h:156 ../comps-f19.xml.in.h:156
 msgid "Input method packages for the input of international text."
-msgstr "Пакети для вводу тексту різними мовами."
+msgstr "Пакунки для вводу тексту різними мовами."
 
 #: ../comps-f16.xml.in.h:127 ../comps-f17.xml.in.h:132
 #: ../comps-el6.xml.in.h:111
@@ -815,7 +815,7 @@ msgstr "Застарілі шрифти"
 #: ../comps-f16.xml.in.h:154 ../comps-f17.xml.in.h:159
 #: ../comps-f18.xml.in.h:171 ../comps-f19.xml.in.h:171
 msgid "Older bitmap and vector fonts packages"
-msgstr "Пакети зі старими растровими та векторними шрифтами"
+msgstr "Пакунки зі старими растровими та векторними шрифтами"
 
 #: ../comps-f16.xml.in.h:155 ../comps-f17.xml.in.h:160
 #: ../comps-f18.xml.in.h:172 ../comps-f19.xml.in.h:172
@@ -827,7 +827,7 @@ msgstr "Підтримка застарілих мережних служб"
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
-msgstr "Ці пакети містять служби для застарілих протоколів rsh та telnet."
+msgstr "Ці пакунки містять служби для застарілих протоколів rsh та telnet."
 
 #: ../comps-f16.xml.in.h:157 ../comps-f17.xml.in.h:162
 #: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:174
@@ -837,7 +837,7 @@ msgstr "Засоби розробки застарілих додатків"
 #: ../comps-f16.xml.in.h:158 ../comps-f17.xml.in.h:163
 #: ../comps-f18.xml.in.h:175 ../comps-f19.xml.in.h:175
 msgid "These packages provide compatibility with previous releases."
-msgstr "Ці пакети забезпечують сумісність з попередніми випусками."
+msgstr "Ці пакунки забезпечують сумісність з попередніми випусками."
 
 #: ../comps-f16.xml.in.h:159 ../comps-f17.xml.in.h:164
 #: ../comps-f18.xml.in.h:176 ../comps-f19.xml.in.h:176
@@ -853,7 +853,7 @@ msgstr "Розробка LibreOffice"
 #: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:179
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
-msgstr "Ці пакети дозволяють розробляти макроси та інші додаткові модулі LibreOffice."
+msgstr "Ці пакунки дозволяють розробляти макроси та інші додаткові модулі LibreOffice."
 
 #: ../comps-f16.xml.in.h:162 ../comps-f17.xml.in.h:167
 msgid "Lingala Support"
@@ -1008,7 +1008,7 @@ msgstr "База даних MySQL"
 #: ../comps-f16.xml.in.h:191 ../comps-f17.xml.in.h:201
 #: ../comps-f18.xml.in.h:194 ../comps-f19.xml.in.h:195
 msgid "This package group contains packages useful for use with MySQL."
-msgstr "Ця група містить пакети, корисні при використанні з MySQL."
+msgstr "Ця група містить пакунки, корисні при використанні з MySQL."
 
 #: ../comps-f16.xml.in.h:192 ../comps-f17.xml.in.h:202
 #: ../comps-f18.xml.in.h:195 ../comps-f19.xml.in.h:196
@@ -1026,7 +1026,7 @@ msgstr "Мережні служби"
 #: ../comps-f18.xml.in.h:197 ../comps-f19.xml.in.h:198
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
-msgstr "Ці пакети містять такі служби як DHCP, Kerberos та NIS."
+msgstr "Ці пакунки містять такі служби як DHCP, Kerberos та NIS."
 
 #: ../comps-f16.xml.in.h:195 ../comps-f17.xml.in.h:205
 #: ../comps-f18.xml.in.h:198 ../comps-f19.xml.in.h:199
@@ -1133,7 +1133,7 @@ msgstr "Підтримка друку"
 #: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
-msgstr "Встановіть ці пакети, щоб мати змогу друкувати файли або використовувати систему як сервер друку."
+msgstr "Встановіть ці пакунки, щоб мати змогу друкувати файли або використовувати систему як сервер друку."
 
 #: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
 #: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
@@ -1243,7 +1243,7 @@ msgstr "Файловий сервер для Windows"
 msgid ""
 "This package group allows you to share files between Linux and MS "
 "Windows(tm) systems."
-msgstr "Ця група пакетів надає можливість отримувати доступ до файлів між системами Linux та MS Windows (tm)."
+msgstr "Ця група пакунків надає можливість отримувати доступ до файлів між системами Linux та MS Windows (tm)."
 
 #: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
 msgid "Somali Support"
@@ -1261,7 +1261,7 @@ msgstr "Звук та відео"
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
-msgstr "Від запису CD до програвання звукових дисків та мультимедійних файлів, ця група пакетів дозволяє працювати зі звуком та відео."
+msgstr "Від запису CD до програвання звукових дисків та мультимедійних файлів, ця група пакунків надає змогу працювати зі звуком та відео."
 
 #: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:250
 #: ../comps-el6.xml.in.h:222
@@ -1286,7 +1286,7 @@ msgstr "База даних PostgreSQL"
 #: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:254
 #: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
 msgid "This package group includes packages useful for use with Postgresql."
-msgstr "Ця група містить пакети, корисні при використанні з Postgresql."
+msgstr "Ця група містить пакунки, корисні при використанні з Postgresql."
 
 #: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:255
 #: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:233
@@ -1452,7 +1452,7 @@ msgstr "Віртуалізація"
 #: ../comps-f16.xml.in.h:274 ../comps-f17.xml.in.h:285
 #: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
 msgid "These packages provide a virtualization environment."
-msgstr "Ці пакети забезпечують середовище для віртуалізації."
+msgstr "Ці пакунки забезпечують середовище для віртуалізації."
 
 #: ../comps-f16.xml.in.h:275 ../comps-f17.xml.in.h:288
 #: ../comps-el6.xml.in.h:279
@@ -1468,7 +1468,7 @@ msgstr "Веб-програмування"
 #: ../comps-el5.xml.in.h:64
 msgid ""
 "These packages are helpful when developing web applications or web pages."
-msgstr "Ці пакети дозволяють розробляти веб-програми або веб-сторінки."
+msgstr "Ці пакунки надають змогу розробляти веб-програми або веб-сторінки."
 
 #: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:291
 #: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:263
@@ -1509,7 +1509,7 @@ msgstr "Розробка ПЗ для X Window"
 #: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
 msgid ""
 "These packages allow you to develop applications for the X Window System."
-msgstr "Ці пакети дозволяють розробляти програми для системи X Window."
+msgstr "Ці пакунки надають змогу розробляти програми для системи X Window."
 
 #: ../comps-f16.xml.in.h:285 ../comps-f17.xml.in.h:298
 #: ../comps-f18.xml.in.h:26 ../comps-f19.xml.in.h:26 ../comps-el6.xml.in.h:289
@@ -1529,7 +1529,7 @@ msgstr "Розробка ПЗ для XFCE"
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
-msgstr "Встановіть ці пакети для розробки графічних програм GTK+ та XFCE."
+msgstr "Встановіть ці пакунки для розробки графічних програм GTK+ та XFCE."
 
 #: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:302
 #: ../comps-el6.xml.in.h:291
@@ -1554,7 +1554,7 @@ msgstr "Мови"
 msgid ""
 "These packages provide support for various locales including fonts and input"
 " methods."
-msgstr "Ці пакети забезпечують підтримку різних регіональних параметрів, включаючи шрифти та методи вводу."
+msgstr "Ці пакунки забезпечують підтримку різних регіональних параметрів, включаючи шрифти та методи вводу."
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
 #: ../comps-el5.xml.in.h:71
@@ -1589,7 +1589,7 @@ msgstr "Програмування"
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
-msgstr "Пакети, що надають можливість розробляти та збирати програми."
+msgstr "Пакунки, що надають можливість розробляти та збирати програми."
 
 #: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:313
 #: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:277
@@ -1627,7 +1627,7 @@ msgstr "Текст та інший відкритий зміст"
 
 #: ../comps-f17.xml.in.h:7 ../comps-f18.xml.in.h:74 ../comps-f19.xml.in.h:74
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Засоби Anaconda"
 
 #: ../comps-f17.xml.in.h:24 ../comps-f18.xml.in.h:83 ../comps-f19.xml.in.h:83
 msgid "Bodo Support"
@@ -1653,14 +1653,14 @@ msgstr "Підтримка маніпурі"
 
 #: ../comps-f17.xml.in.h:186
 msgid "MATE Desktop Environment"
-msgstr ""
+msgstr "Графічне середовище MATE"
 
 #: ../comps-f17.xml.in.h:187
 msgid ""
 "MATE Desktop is a desktop based on GNOME 2 that provides a powerful "
 "graphical user interface for users who seek a simple, easy to use "
 "traditional desktop interface."
-msgstr ""
+msgstr "Графічне середовище MATE є середовищем, заснованим на GNOME 2. Це середовище забезпечує роботу потужного графічного інтерфейсу для користувачів, яким потрібен простий у користуванні традиційний графічний інтерфейс."
 
 #: ../comps-f17.xml.in.h:190 ../comps-f18.xml.in.h:187
 #: ../comps-f19.xml.in.h:188
@@ -1691,369 +1691,369 @@ msgstr "Мінімально можливий комплект програм д
 
 #: ../comps-f18.xml.in.h:1 ../comps-f19.xml.in.h:1
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f18.xml.in.h:2 ../comps-f19.xml.in.h:2
 msgid "Local X.org display server"
-msgstr ""
+msgstr "Локальний графічний сервер X.org"
 
 #: ../comps-f18.xml.in.h:3 ../comps-f19.xml.in.h:3
 msgid "Multimedia"
-msgstr ""
+msgstr "Звук та відео"
 
 #: ../comps-f18.xml.in.h:4 ../comps-f19.xml.in.h:4
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Загальна підсистема роботи зі звуковими та відеоданими для всіх середовищ"
 
 #: ../comps-f18.xml.in.h:5 ../comps-f19.xml.in.h:5
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #: ../comps-f18.xml.in.h:6 ../comps-f19.xml.in.h:6
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
-msgstr ""
+msgstr "GNOME — просте у користуванні та зручне графічне середовище."
 
 #: ../comps-f18.xml.in.h:7 ../comps-f19.xml.in.h:7
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "Додаткові ігри для графічного середовища GNOME"
 
 #: ../comps-f18.xml.in.h:8 ../comps-f19.xml.in.h:8
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "Набір ігор для графічного середовища GNOME"
 
 #: ../comps-f18.xml.in.h:9 ../comps-f19.xml.in.h:9
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "Веб-браузер Firefox"
 
 #: ../comps-f18.xml.in.h:10 ../comps-f19.xml.in.h:10
 msgid "The Firefox web browser"
-msgstr ""
+msgstr "Веб-браузер Firefox"
 
 #: ../comps-f18.xml.in.h:11 ../comps-f19.xml.in.h:11
 msgid "Epiphany Web Browser"
-msgstr ""
+msgstr "Переглядач інтернету Epiphany"
 
 #: ../comps-f18.xml.in.h:12 ../comps-f19.xml.in.h:12
 msgid "Epiphany Web Browser for GNOME"
-msgstr ""
+msgstr "Переглядач інтернету Epiphany для GNOME"
 
 #: ../comps-f18.xml.in.h:13 ../comps-f19.xml.in.h:13
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
 msgid "LibreOffice Productivity Suite"
-msgstr ""
+msgstr "Комплект офісних програм LibreOffice"
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:15
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "Робоче середовище Плазми KDE"
 
 #: ../comps-f18.xml.in.h:16 ../comps-f19.xml.in.h:16
 msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
-msgstr ""
+msgstr "Робочий простір Плазми KDE складається з дуже гнучкого у налаштовуванні графічного інтерфейсу, що складається з панелі, стільниці, системних піктограм та віджетів стільниці, та багатьох потужних програм KDE."
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
 msgid "KDE Applications"
-msgstr ""
+msgstr "Програми KDE"
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
-msgstr ""
+msgstr "Набір типових програм KDE"
 
 #: ../comps-f18.xml.in.h:19 ../comps-f19.xml.in.h:19
 msgid "KDE Educational applications"
-msgstr ""
+msgstr "Навчальні програми KDE"
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "Мультимедійні програми KDE"
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "Мультимедійні програми KDE"
 
 #: ../comps-f18.xml.in.h:22 ../comps-f19.xml.in.h:22
 msgid "KDE Office"
-msgstr ""
+msgstr "Офісні програми KDE"
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
 msgid "KDE Office applications"
-msgstr ""
+msgstr "Офісні програми KDE"
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "Telepathy для KDE"
 
 #: ../comps-f18.xml.in.h:25 ../comps-f19.xml.in.h:25
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "Програми Telepathy для KDE"
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Програми для графічного середовища Xfce"
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr ""
+msgstr "Набір типових програми для графічного середовища Xfce"
 
 #: ../comps-f18.xml.in.h:30 ../comps-f19.xml.in.h:30
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Додатки для панелі Xfce"
 
 #: ../comps-f18.xml.in.h:31 ../comps-f19.xml.in.h:31
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Додатки, що розширюють функціональні можливості панелі Xfce"
 
 #: ../comps-f18.xml.in.h:32 ../comps-f19.xml.in.h:32
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Мультимедійні програми для Xfce"
 
 #: ../comps-f18.xml.in.h:33 ../comps-f19.xml.in.h:33
 msgid "Xfce Office"
-msgstr ""
+msgstr "Офісні програми Xfce"
 
 #: ../comps-f18.xml.in.h:34 ../comps-f19.xml.in.h:34
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Комплект офісних програм для Xfce"
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Програми для графічного середовища LXDE"
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Набір типових програми для графічного середовища LXDE"
 
 #: ../comps-f18.xml.in.h:39 ../comps-f19.xml.in.h:39
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "Мультимедійні програми LXDE"
 
 #: ../comps-f18.xml.in.h:40 ../comps-f19.xml.in.h:40
 msgid "LXDE Office"
-msgstr ""
+msgstr "Офісні програми LXDE"
 
 #: ../comps-f18.xml.in.h:41 ../comps-f19.xml.in.h:41
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "Комплект офісних програм для LXDE"
 
 #: ../comps-f18.xml.in.h:42 ../comps-f19.xml.in.h:42
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "Додаткові простори дій для Sugar"
 
 #: ../comps-f18.xml.in.h:43 ../comps-f19.xml.in.h:43
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "Додаткові простори дій для використання у середовищі Sugar."
 
 #: ../comps-f18.xml.in.h:44 ../comps-f19.xml.in.h:44
 msgid "Basic X Window Desktop"
-msgstr ""
+msgstr "Базове графічне середовище X Window"
 
 #: ../comps-f18.xml.in.h:45 ../comps-f19.xml.in.h:45
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "Базова система X Window з вибором засобу керування вікнами."
 
 #: ../comps-f18.xml.in.h:46 ../comps-f19.xml.in.h:46
 msgid "Cinnamon"
-msgstr ""
+msgstr "Cinnamon"
 
 #: ../comps-f18.xml.in.h:47 ../comps-f19.xml.in.h:47
 msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
-msgstr ""
+msgstr "Cinnamon — графічне середовище з традиційним компонуванням, широкими можливостями, просте у користуванні, потужне і гнучке."
 
 #: ../comps-f18.xml.in.h:48 ../comps-f19.xml.in.h:48
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
 msgid "A tiling window manager"
-msgstr ""
+msgstr "Мозаїчна система керування вікнами"
 
 #: ../comps-f18.xml.in.h:50 ../comps-f19.xml.in.h:50
 msgid "XMonad for GNOME"
-msgstr ""
+msgstr "XMonad для GNOME"
 
 #: ../comps-f18.xml.in.h:51 ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with GNOME"
-msgstr ""
+msgstr "Засіб керування вікнами XMonad з GNOME"
 
 #: ../comps-f18.xml.in.h:52 ../comps-f19.xml.in.h:52
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f18.xml.in.h:53 ../comps-f19.xml.in.h:53
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "Вирівнювач навантаження TCP/HTTP."
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
 msgid "JBoss Application Server"
-msgstr ""
+msgstr "Сервер програм JBoss"
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
 msgid "Java application server."
-msgstr ""
+msgstr "Сервер програм Java."
 
 #: ../comps-f18.xml.in.h:56 ../comps-f19.xml.in.h:56
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f18.xml.in.h:57 ../comps-f19.xml.in.h:57
 msgid "Scalable high-performance NoSQL database."
-msgstr ""
+msgstr "Масштабована високошвидкісна база даних без SQL."
 
 #: ../comps-f18.xml.in.h:58 ../comps-f19.xml.in.h:58
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl для інтернету"
 
 #: ../comps-f18.xml.in.h:59 ../comps-f19.xml.in.h:59
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Базова підтримка веб-програм Perl."
 
 #: ../comps-f18.xml.in.h:60 ../comps-f19.xml.in.h:60
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f18.xml.in.h:61 ../comps-f19.xml.in.h:61
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Скриптова мова загального призначення для веб-розробки."
 
 #: ../comps-f18.xml.in.h:62 ../comps-f19.xml.in.h:62
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "Базова підтримка веб-програм мовою Python"
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f18.xml.in.h:65 ../comps-f19.xml.in.h:65
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Стек для веб-програм Ruby on Rails."
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f18.xml.in.h:67 ../comps-f19.xml.in.h:67
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Сервер для веб-програм Tomcat."
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
-msgstr ""
+msgstr "Load Balancer"
 
 #: ../comps-f18.xml.in.h:69 ../comps-f19.xml.in.h:69
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Підтримка розподілу навантаження на канал мережі"
 
 #: ../comps-f18.xml.in.h:70 ../comps-f19.xml.in.h:70
 msgid "High Availability"
-msgstr ""
+msgstr "Висока доступність"
 
 #: ../comps-f18.xml.in.h:71 ../comps-f19.xml.in.h:71
 msgid "Infrastructure for highly available services and/or shared storage."
-msgstr ""
+msgstr "Інфраструктура служб з високим рівнем доступності та спільні сховища."
 
 #: ../comps-f18.xml.in.h:79 ../comps-f19.xml.in.h:79
 msgid "Standard"
-msgstr ""
+msgstr "Стандартнs"
 
 #: ../comps-f18.xml.in.h:80 ../comps-f19.xml.in.h:80
 msgid "Common set of utilities that extend the minimal installation."
-msgstr ""
+msgstr "Типовий набір програм, які розширюють можливості мінімальної системи."
 
 #: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:185
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:186
 msgid ""
 "MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
-msgstr ""
+msgstr "Графічне середовище MATE є середовищем, заснованим на GNOME 2. Це середовище забезпечує роботу потужного графічного інтерфейсу для користувачів, яким потрібен простий у користуванні традиційний графічний інтерфейс."
 
 #: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:214
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "Комплект пакунків для розробників робототехніки"
 
 #: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:247
 msgid "Basic Web Server"
-msgstr ""
+msgstr "Базовий сервер"
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Розробка програмного забезпечення для XFCE"
 
 #: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:254
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "Встановіть ці пакунки для розробки графічних програм GTK+ та Xfce."
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "Графічне середовище GNOME"
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Графічне середовище Xfce"
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "Графічне середовище LXDE"
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
 msgid "Cinnamon Desktop"
-msgstr ""
+msgstr "Графічне середовище Cinnamon"
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
 msgid "MATE Desktop"
-msgstr ""
+msgstr "Графічне середовище MATE"
 
 #: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "Робоча станція для розробки та творчої роботи"
 
 #: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:262
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "Робоча станція для розробки програмного чи апаратного забезпечення, графічних робіт або роботи з текстом."
 
 #: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "Сервер для надання послуг з показу статичних або динамічних інтернет-даних."
 
 #: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "Сервер інфраструктури"
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "Сервер для керування службами інфраструктури мережі."
 
 #: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
 msgid "Basic X Window System"
-msgstr ""
+msgstr "Базова система X Window"
 
 #: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
 msgid "X Window System without a full desktop environment."
-msgstr ""
+msgstr "Система X Window без повноцінного графічного середовища."
 
 #: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:269
 msgid "Minimal Install"
-msgstr ""
+msgstr "Мінімальне встановлення"
 
 #: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:270
 msgid "Basic functionality."
-msgstr ""
+msgstr "Базові можливості."
 
 #: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:271
 #: ../comps-el6.xml.in.h:126
@@ -2062,21 +2062,21 @@ msgstr "Стільниця KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Набір типових програм KDE"
 
 #: ../comps-f19.xml.in.h:177
 msgid "Lepcha Support"
-msgstr ""
+msgstr "Підтримка лепча"
 
 #: ../comps-f19.xml.in.h:220
 msgid "Security Lab"
-msgstr ""
+msgstr "Лабораторія безпеки"
 
 #: ../comps-f19.xml.in.h:221
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security"
 " testing methodologies."
-msgstr ""
+msgstr "Засоби для аудита захисту, судової експертизи, відновлення системи та навчання методології захисту даних."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""
