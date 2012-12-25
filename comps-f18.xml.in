@@ -4279,62 +4279,97 @@
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
-    <packagelist>      
-      <packagereq>desktop-backgrounds-basic</packagereq>
-      <packagereq>desktop-backgrounds-compat</packagereq>
-      <packagereq>dconf</packagereq>
+    <packagelist>
+      <packagereq>lightdm</packagereq>
       <packagereq>firstboot</packagereq>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
+      <packagereq>ConsoleKit-x11</packagereq>
+      <packagereq>libmate</packagereq>
+      <packagereq>libmatecomponent</packagereq>
+      <packagereq>libmatecanvas</packagereq>
+      <packagereq>libmatecomponentui</packagereq>
+      <packagereq>libmatekbd</packagereq>
+      <packagereq>libmatekeyring</packagereq>
+      <packagereq>libmatenotify</packagereq>
+      <packagereq>libmateui</packagereq>
+      <packagereq>libmateweather</packagereq>
+      <packagereq>libmatewnck</packagereq>
+      <packagereq>mate-backgrounds</packagereq>
+      <packagereq>mate-calc</packagereq>
+      <packagereq>mate-conf</packagereq>
+      <packagereq>mate-conf-editor</packagereq>
+      <packagereq>mate-corba</packagereq>
+      <packagereq>mate-control-center</packagereq>
       <packagereq>mate-desktop</packagereq>
+      <packagereq>mate-dialogs</packagereq>
       <packagereq>mate-keyring</packagereq>
       <packagereq>mate-keyring-pam</packagereq>
-      <packagereq>libmatekbd</packagereq>
-      <packagereq>libmatewnck</packagereq>
-      <packagereq>libmateweather</packagereq>
-      <packagereq>mate-dialogs</packagereq>
-      <packagereq>mate-file-manager</packagereq>
-      <packagereq>mate-file-manager-extensions</packagereq>
-      <packagereq>mate-polkit</packagereq>
-      <packagereq>mate-window-manager</packagereq>
-      <packagereq>mate-settings-daemon</packagereq>
-      <packagereq>mate-session-manager</packagereq>
       <packagereq>mate-menus</packagereq>
-      <packagereq>mate-panel</packagereq>
+      <packagereq>mate-mime-data</packagereq>
+      <packagereq>mate-icon-theme</packagereq>
+      <packagereq>mate-image-viewer</packagereq>
+      <packagereq>mate-file-archiver</packagereq>
+      <packagereq>mate-file-manager</packagereq>
+      <packagereq>mate-file-manager-open-terminal</packagereq>
+      <packagereq>mate-media</packagereq>
+      <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-notification-daemon</packagereq>
-      <packagereq>mate-control-center</packagereq>
+      <packagereq>mate-panel</packagereq>
+      <packagereq>mate-polkit</packagereq>
       <packagereq>mate-power-manager</packagereq>
-      <packagereq>mate-calc</packagereq>
+      <packagereq>mate-session-manager</packagereq>
+      <packagereq>mate-settings-daemon</packagereq>
+      <packagereq>mate-system-log</packagereq>
+      <packagereq>mate-system-monitor</packagereq>
+      <packagereq>mate-terminal</packagereq>
+      <packagereq>mate-text-editor</packagereq>
+      <packagereq>mate-themes</packagereq>
+      <packagereq>mate-utils</packagereq>
+      <packagereq>mate-vfs</packagereq>
+      <packagereq>mate-window-manager</packagereq>
+      <packagereq>NetworkManager</packagereq>
       <packagereq>network-manager-applet</packagereq>
-      <packagereq>nm-connection-editor</packagereq>
-      <packagereq>firewall-config</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
-      <packagereq>yumex</packagereq>
-      <packagereq>ConsoleKit-x11</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
-      <packagereq>firefox</packagereq>
-      <packagereq>xterm</packagereq>
-      <packagereq>alsamixergui</packagereq>
-      <packagereq>adwaita-cursor-theme</packagereq>
-      <packagereq>adwaita-gtk2-theme</packagereq>
+      <packagereq>nm-connection-editor</packagereq>
       <packagereq>adwaita-gtk3-theme</packagereq>
-      <packagereq>greybird-gtk2-theme</packagereq>
-      <packagereq>greybird-gtk3-theme</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>adwaita-gtk2-theme</packagereq>
+      <packagereq>alsamixergui</packagereq>
+      <packagereq>avahi</packagereq>
       <packagereq>brasero</packagereq>
+      <packagereq>clearlooks-compact-gnome-theme</packagereq>
+      <packagereq>dconf</packagereq>
+      <packagereq>dconf-editor</packagereq>
+      <packagereq>desktop-backgrounds-compat</packagereq>
+      <packagereq>desktop-backgrounds-basic</packagereq>
+      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>firefox</packagereq>
+      <packagereq>firewall-config</packagereq>
+      <packagereq>geany</packagereq>
+      <packagereq>gnome-theme-curvylooks</packagereq>
+      <packagereq>gvfs</packagereq>
+      <packagereq>gvfs-smb</packagereq>
+      <packagereq>gvfs-fuse</packagereq>
+      <packagereq>gtk2-engines</packagereq>
+      <packagereq>imsettings</packagereq>
+      <packagereq>lightdm-gtk</packagereq>
       <packagereq>mousetweaks</packagereq>
+      <packagereq>nimbus-theme-gnome</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>shotwell</packagereq>
       <packagereq>simple-scan</packagereq>
-      <packagereq>totem-mozplugin</packagereq>
-      <packagereq>totem-nautilus</packagereq>
+      <packagereq>thunderbird</packagereq>
+      <packagereq>tigervnc</packagereq>
       <packagereq>transmission-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
       <packagereq>vinagre</packagereq>
-      <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>whaawmp</packagereq>
+      <packagereq>xterm</packagereq>
+      <packagereq>yelp</packagereq>
+      <packagereq>yumex</packagereq>
     </packagelist>
    </group>
    <group>
