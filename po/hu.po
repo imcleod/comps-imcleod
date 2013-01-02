@@ -15,8 +15,8 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-18 00:39-0500\n"
-"PO-Revision-Date: 2012-12-18 18:38+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
+"PO-Revision-Date: 2012-12-28 05:01+0000\n"
+"Last-Translator: Zoltan Hoppár <hopparz@gmail.com>\n"
 "Language-Team: Hungarian <trans-hu@lists.fedoraproject.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -74,7 +74,7 @@ msgstr "Asszám (India) támogatás"
 
 #: ../comps-f16.xml.in.h:11 ../comps-f17.xml.in.h:12
 msgid "Asturian Support"
-msgstr "Asturian támogatás"
+msgstr "Asturiai támogatás"
 
 #: ../comps-f16.xml.in.h:12 ../comps-f17.xml.in.h:13 ../comps-f18.xml.in.h:77
 #: ../comps-f19.xml.in.h:77 ../comps-el5.xml.in.h:7
@@ -202,17 +202,17 @@ msgstr "Mag"
 #: ../comps-f16.xml.in.h:39 ../comps-f17.xml.in.h:43 ../comps-f18.xml.in.h:91
 #: ../comps-f19.xml.in.h:91
 msgid "Smallest possible installation"
-msgstr "Lehetséges legkisebb telepítés"
+msgstr "Lehető legkisebb telepítés"
 
 #: ../comps-f16.xml.in.h:40 ../comps-f17.xml.in.h:44 ../comps-f18.xml.in.h:92
 #: ../comps-f19.xml.in.h:92
 msgid "Critical Path (Applications)"
-msgstr "Kritikus elérés (Alkalmazások)"
+msgstr "Critical Path (Alkalmazások)"
 
 #: ../comps-f16.xml.in.h:41 ../comps-f17.xml.in.h:45 ../comps-f18.xml.in.h:93
 #: ../comps-f19.xml.in.h:93
 msgid "A set of applications that are considered critical path"
-msgstr "Egy sor alkalmazás, amelyek kritikus út"
+msgstr "Kritikus eléréshez szükséges alkalmazások"
 
 #: ../comps-f16.xml.in.h:42 ../comps-f17.xml.in.h:46 ../comps-f18.xml.in.h:94
 #: ../comps-f19.xml.in.h:94
@@ -241,38 +241,38 @@ msgstr "Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást bizto
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
 #: ../comps-f19.xml.in.h:98
 msgid "Critical Path (KDE)"
-msgstr "Kritikus elérés (KDE)"
+msgstr "Critical Path (KDE)"
 
 #: ../comps-f16.xml.in.h:47 ../comps-f17.xml.in.h:51 ../comps-f18.xml.in.h:99
 #: ../comps-f19.xml.in.h:99
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr "Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást biztosítják a KDE asztal számára"
+msgstr "Alkalmazáscsoport, amelyek a Kritikus Útvonal funkcionalitást biztosítják a KDE felület számára"
 
 #: ../comps-f16.xml.in.h:48 ../comps-f17.xml.in.h:52 ../comps-f18.xml.in.h:100
 #: ../comps-f19.xml.in.h:100
 msgid "Critical Path (LXDE)"
-msgstr "Kritikus elérés (LXDE)"
+msgstr "Critical Path (LXDE)"
 
 #: ../comps-f16.xml.in.h:49 ../comps-f17.xml.in.h:53 ../comps-f18.xml.in.h:101
 #: ../comps-f19.xml.in.h:101
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr "Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást biztosítják az LXDE asztal számára"
+msgstr "Alkalmazáscsoport, amelyek a Kritikus Útvonal funkcionalitást biztosítják az LXDE asztal számára"
 
 #: ../comps-f16.xml.in.h:50 ../comps-f17.xml.in.h:54 ../comps-f18.xml.in.h:102
 #: ../comps-f19.xml.in.h:102
 msgid "Critical Path (Xfce)"
-msgstr "Kritikus elérés (Xfce)"
+msgstr "Critical Path (Xfce)"
 
 #: ../comps-f16.xml.in.h:51 ../comps-f17.xml.in.h:55 ../comps-f18.xml.in.h:103
 #: ../comps-f19.xml.in.h:103
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
-msgstr "Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást biztosítják az XFCE asztal számára"
+msgstr "Alkalmazáscsoport, amelyek a Kritikus Útvonal funkcionalitást biztosítják az XFCE asztal számára"
 
 #: ../comps-f16.xml.in.h:52 ../comps-f17.xml.in.h:56 ../comps-el6.xml.in.h:41
 msgid "Croatian Support"
@@ -290,7 +290,7 @@ msgstr "Dán támogatás"
 #: ../comps-f16.xml.in.h:55 ../comps-f17.xml.in.h:59 ../comps-f18.xml.in.h:104
 #: ../comps-f19.xml.in.h:104
 msgid "Design Suite"
-msgstr "Dizájn készlet"
+msgstr "Design Suite"
 
 #: ../comps-f16.xml.in.h:56 ../comps-f17.xml.in.h:60 ../comps-f18.xml.in.h:105
 #: ../comps-f19.xml.in.h:105
@@ -352,7 +352,7 @@ msgstr "E csomagcsoport DNS-kiszolgáló (BIND) kialakításához szükséges pr
 #: ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:71 ../comps-f18.xml.in.h:116
 #: ../comps-f19.xml.in.h:116
 msgid "Dogtag Certificate System"
-msgstr "Dogtag Igazoló Rendszer"
+msgstr "Dogtag Certificate System"
 
 #: ../comps-f16.xml.in.h:67 ../comps-f17.xml.in.h:72 ../comps-f18.xml.in.h:117
 #: ../comps-f19.xml.in.h:117
@@ -432,7 +432,7 @@ msgstr "Etióp támogatás"
 
 #: ../comps-f16.xml.in.h:82 ../comps-f17.xml.in.h:87 ../comps-el6.xml.in.h:72
 msgid "Faroese Support"
-msgstr "Feröeri támogatás"
+msgstr "Feröer-i támogatás"
 
 #: ../comps-f16.xml.in.h:83 ../comps-f17.xml.in.h:88 ../comps-f18.xml.in.h:129
 #: ../comps-f19.xml.in.h:129 ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
@@ -541,7 +541,7 @@ msgstr "Német támogatás"
 #: ../comps-f16.xml.in.h:104 ../comps-f17.xml.in.h:109
 #: ../comps-el5.xml.in.h:31
 msgid "GNOME Desktop Environment"
-msgstr "GNOME asztal környezet"
+msgstr "GNOME asztali környezet"
 
 #: ../comps-f16.xml.in.h:105 ../comps-f17.xml.in.h:110
 msgid ""
@@ -664,12 +664,12 @@ msgstr "Indonéz támogatás"
 #: ../comps-f18.xml.in.h:155 ../comps-f19.xml.in.h:155
 #: ../comps-el6.xml.in.h:109
 msgid "Input Methods"
-msgstr "Bevitel eljárások"
+msgstr "Beviteli eljárások"
 
 #: ../comps-f16.xml.in.h:126 ../comps-f17.xml.in.h:131
 #: ../comps-f18.xml.in.h:156 ../comps-f19.xml.in.h:156
 msgid "Input method packages for the input of international text."
-msgstr "Bevitel eljárás csomagok nemzetközi szövegek bevitelére"
+msgstr "Beviteli eljárás csomagok nemzetközi szövegek bevitelére"
 
 #: ../comps-f16.xml.in.h:127 ../comps-f17.xml.in.h:132
 #: ../comps-el6.xml.in.h:111
@@ -749,7 +749,7 @@ msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
-msgstr "A KDE szoftvergyűjtemény tartalmazza a KDE Plazma Asztalt, egy részletesen konfigurálható grafikus felhasználói felületet amelynek része a panel, az asztal, az ikonok és az asztali widgetek és a többi KDE alkalmazás."
+msgstr "A KDE szoftvergyűjtemény tartalmazza a KDE Plazma felületet, egy részletesen konfigurálható grafikus felhasználói felületet amelynek része a panel, az asztal, az ikonok, asztali kisalkalmazások és sok más KDE alkalmazás."
 
 #: ../comps-f16.xml.in.h:142 ../comps-f17.xml.in.h:147
 #: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:164
@@ -761,7 +761,7 @@ msgstr "KDE szoftverfejlesztés"
 #: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:165
 #: ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
-msgstr "Telepítse ezeket a csomagokat QT és KDE grafikus alkalmazások fejlesztéséhez!."
+msgstr "Telepítse ezeket a csomagokat QT és KDE grafikus alkalmazások fejlesztéséhez."
 
 #: ../comps-f16.xml.in.h:144 ../comps-f17.xml.in.h:149
 #: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:166
@@ -1046,7 +1046,7 @@ msgstr "Ez a csoport hírkiszolgáló üzemeltetésére való."
 
 #: ../comps-f16.xml.in.h:197 ../comps-f17.xml.in.h:207
 msgid "Northern Sami Support"
-msgstr "Északszámi (Észak-Európa) támogatás"
+msgstr "Észak Sami támogatás"
 
 #: ../comps-f16.xml.in.h:198 ../comps-f17.xml.in.h:208
 #: ../comps-el6.xml.in.h:176
@@ -1090,7 +1090,7 @@ msgstr "Ezek a csomagok irodai csomagokat, PDF-nézőket és más hasonló progr
 #: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:215
 #: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:205
 msgid "Online Help and Documentation"
-msgstr "Hálózati súgó és iratok"
+msgstr "Hálózati súgó és dokumentáció"
 
 #: ../comps-f16.xml.in.h:206 ../comps-f17.xml.in.h:216
 #: ../comps-f18.xml.in.h:205 ../comps-f19.xml.in.h:206
@@ -1143,7 +1143,7 @@ msgstr "Telepítse ezeket a csomagokat nyomtatáshoz és nyomtatókiszolgáló k
 #: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
 #: ../comps-el6.xml.in.h:199
 msgid "Punjabi Support"
-msgstr "Pandzsab (India/Pakisztán) támogatás"
+msgstr "Indiai támogatás"
 
 #: ../comps-f16.xml.in.h:216 ../comps-f17.xml.in.h:226
 msgid "Quechua Support"
@@ -1225,7 +1225,7 @@ msgstr "Szindi (Pakisztán) támogatás"
 #: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:226
 #: ../comps-el6.xml.in.h:217
 msgid "Sinhala Support"
-msgstr "Szinala (Sri Lanka) támogatás"
+msgstr "Sinhala támogatás"
 
 #: ../comps-f16.xml.in.h:232 ../comps-f17.xml.in.h:243
 #: ../comps-el6.xml.in.h:218
@@ -1593,7 +1593,7 @@ msgstr "Fejlesztés"
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
-msgstr "Alkalmazások fejlesztését és építését biztosító csomagok."
+msgstr "Alkalmazások fejlesztését és megépítését biztosító csomagok."
 
 #: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:313
 #: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:277
@@ -1631,7 +1631,7 @@ msgstr "Szöveges és egyéb szabad tartalom."
 
 #: ../comps-f17.xml.in.h:7 ../comps-f18.xml.in.h:74 ../comps-f19.xml.in.h:74
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Anaconda eszközök"
 
 #: ../comps-f17.xml.in.h:24 ../comps-f18.xml.in.h:83 ../comps-f19.xml.in.h:83
 msgid "Bodo Support"
@@ -1657,14 +1657,14 @@ msgstr "Manipuri támogatás"
 
 #: ../comps-f17.xml.in.h:186
 msgid "MATE Desktop Environment"
-msgstr ""
+msgstr "Mate Asztali Környezet"
 
 #: ../comps-f17.xml.in.h:187
 msgid ""
 "MATE Desktop is a desktop based on GNOME 2 that provides a powerful "
 "graphical user interface for users who seek a simple, easy to use "
 "traditional desktop interface."
-msgstr ""
+msgstr "Mate Asztal egy GNOME 2-re alapozott rendszer, amely egy erőteljes grafikus felület azok számára akik egyszerű, könnyen használható tradicionális felületet kedvelik."
 
 #: ../comps-f17.xml.in.h:190 ../comps-f18.xml.in.h:187
 #: ../comps-f19.xml.in.h:188
@@ -1695,369 +1695,369 @@ msgstr "Lehető legkisebb virtualizációs kiszolgáló telepítés"
 
 #: ../comps-f18.xml.in.h:1 ../comps-f19.xml.in.h:1
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f18.xml.in.h:2 ../comps-f19.xml.in.h:2
 msgid "Local X.org display server"
-msgstr ""
+msgstr "Helyi X.org kijelző kiszolgáló"
 
 #: ../comps-f18.xml.in.h:3 ../comps-f19.xml.in.h:3
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimédia"
 
 #: ../comps-f18.xml.in.h:4 ../comps-f19.xml.in.h:4
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Audio/video közös keretrendszer a felületekhez"
 
 #: ../comps-f18.xml.in.h:5 ../comps-f19.xml.in.h:5
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #: ../comps-f18.xml.in.h:6 ../comps-f19.xml.in.h:6
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
-msgstr ""
+msgstr "GNOME erősen intuitív és felhasználóbarát felület"
 
 #: ../comps-f18.xml.in.h:7 ../comps-f19.xml.in.h:7
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "További játékok a GNOME felülethez"
 
 #: ../comps-f18.xml.in.h:8 ../comps-f19.xml.in.h:8
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "Különféle játékok a GNOME felülethez"
 
 #: ../comps-f18.xml.in.h:9 ../comps-f19.xml.in.h:9
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "Firefox"
 
 #: ../comps-f18.xml.in.h:10 ../comps-f19.xml.in.h:10
 msgid "The Firefox web browser"
-msgstr ""
+msgstr "A Firefox internet böngészó"
 
 #: ../comps-f18.xml.in.h:11 ../comps-f19.xml.in.h:11
 msgid "Epiphany Web Browser"
-msgstr ""
+msgstr "Epiphany"
 
 #: ../comps-f18.xml.in.h:12 ../comps-f19.xml.in.h:12
 msgid "Epiphany Web Browser for GNOME"
-msgstr ""
+msgstr "Epiphany Internet böngésző a GNOME számára"
 
 #: ../comps-f18.xml.in.h:13 ../comps-f19.xml.in.h:13
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
 msgid "LibreOffice Productivity Suite"
-msgstr ""
+msgstr "LibreOffice Irodai alkalmazáscsomag"
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:15
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "KDE Plasma munkafelületek"
 
 #: ../comps-f18.xml.in.h:16 ../comps-f19.xml.in.h:16
 msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
-msgstr ""
+msgstr "A KDE Plasma munkafelületek, sokoldalúan beállítható grafikus felület, amely tartalmaz egy panelt, asztalt, rendszerikonokat, kisalkalmazásokat, és további komoly KDE programokat"
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
 msgid "KDE Applications"
-msgstr ""
+msgstr "KDE Alkalmazások"
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
-msgstr ""
+msgstr "Sokak által használt, gyakori KDE Alkalmazások"
 
 #: ../comps-f18.xml.in.h:19 ../comps-f19.xml.in.h:19
 msgid "KDE Educational applications"
-msgstr ""
+msgstr "KDE oktatási programok"
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "KDE Multimedia"
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "Multimédia támogatás KDE számára"
 
 #: ../comps-f18.xml.in.h:22 ../comps-f19.xml.in.h:22
 msgid "KDE Office"
-msgstr ""
+msgstr "KDE Office"
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
 msgid "KDE Office applications"
-msgstr ""
+msgstr "KDE irodai alkalmazások"
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "KDE Telepathy"
 
 #: ../comps-f18.xml.in.h:25 ../comps-f19.xml.in.h:25
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "KDE Telepathy alkalmazások"
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Alkalmazások az XFCE felület számára"
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr ""
+msgstr "Gyakran használt XFCE alkalmazások gyűjteménye az XFCE felülethez"
 
 #: ../comps-f18.xml.in.h:30 ../comps-f19.xml.in.h:30
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Kiegészítő modulok az XFCE panelhez"
 
 #: ../comps-f18.xml.in.h:31 ../comps-f19.xml.in.h:31
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Kibővíti az XFCE panel képességeit"
 
 #: ../comps-f18.xml.in.h:32 ../comps-f19.xml.in.h:32
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Multimédia támogatás az XFCE számára"
 
 #: ../comps-f18.xml.in.h:33 ../comps-f19.xml.in.h:33
 msgid "Xfce Office"
-msgstr ""
+msgstr "XFCE Office"
 
 #: ../comps-f18.xml.in.h:34 ../comps-f19.xml.in.h:34
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Irodai alkalmazások XFCE-hez"
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Alkalmazások az LXDE felülethez"
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Gyakran használt XFCE alkalmazások gyűjteménye az LXDE felülethez"
 
 #: ../comps-f18.xml.in.h:39 ../comps-f19.xml.in.h:39
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "Multimédia  támogatás LXDE számára"
 
 #: ../comps-f18.xml.in.h:40 ../comps-f19.xml.in.h:40
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE Office"
 
 #: ../comps-f18.xml.in.h:41 ../comps-f19.xml.in.h:41
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "Irodai összeállítás az LXDE számára"
 
 #: ../comps-f18.xml.in.h:42 ../comps-f19.xml.in.h:42
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "További Sugar Activities"
 
 #: ../comps-f18.xml.in.h:43 ../comps-f19.xml.in.h:43
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "További aktivitások a Sugar felület használatához"
 
 #: ../comps-f18.xml.in.h:44 ../comps-f19.xml.in.h:44
 msgid "Basic X Window Desktop"
-msgstr ""
+msgstr "Alap X Window felület"
 
 #: ../comps-f18.xml.in.h:45 ../comps-f19.xml.in.h:45
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "Alap X Window rendszer önállóan kiválasztott ablakkezelő felülettel"
 
 #: ../comps-f18.xml.in.h:46 ../comps-f19.xml.in.h:46
 msgid "Cinnamon"
-msgstr ""
+msgstr "Cinnamon"
 
 #: ../comps-f18.xml.in.h:47 ../comps-f19.xml.in.h:47
 msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
-msgstr ""
+msgstr "Cinnamon egy hagyományos felületet biztosít, fejlett képességekkel, amit könnyű használni és flexibilis"
 
 #: ../comps-f18.xml.in.h:48 ../comps-f19.xml.in.h:48
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
 msgid "A tiling window manager"
-msgstr ""
+msgstr "Mozaikos rendszerű ablakkezelő"
 
 #: ../comps-f18.xml.in.h:50 ../comps-f19.xml.in.h:50
 msgid "XMonad for GNOME"
-msgstr ""
+msgstr "XMonad GNOME"
 
 #: ../comps-f18.xml.in.h:51 ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with GNOME"
-msgstr ""
+msgstr "XMonad ablakkezelő GNOME felülettel"
 
 #: ../comps-f18.xml.in.h:52 ../comps-f19.xml.in.h:52
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f18.xml.in.h:53 ../comps-f19.xml.in.h:53
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "TCP/HTTP terhelés szabályozó"
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
 msgid "JBoss Application Server"
-msgstr ""
+msgstr "JBoss Alkalmazás Kiszolgáló"
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
 msgid "Java application server."
-msgstr ""
+msgstr "Java alkalmazás kiszolgáló"
 
 #: ../comps-f18.xml.in.h:56 ../comps-f19.xml.in.h:56
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f18.xml.in.h:57 ../comps-f19.xml.in.h:57
 msgid "Scalable high-performance NoSQL database."
-msgstr ""
+msgstr "Skálázható nagy teljesítményű nem SQL alapú adatbázis"
 
 #: ../comps-f18.xml.in.h:58 ../comps-f19.xml.in.h:58
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl for Web"
 
 #: ../comps-f18.xml.in.h:59 ../comps-f19.xml.in.h:59
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Alap Perl webes alkalmazás támogatás"
 
 #: ../comps-f18.xml.in.h:60 ../comps-f19.xml.in.h:60
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f18.xml.in.h:61 ../comps-f19.xml.in.h:61
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Általános web fejlesztő szkriptnyelv"
 
 #: ../comps-f18.xml.in.h:62 ../comps-f19.xml.in.h:62
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "Alap Python web alkalmazás támogatás"
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f18.xml.in.h:65 ../comps-f19.xml.in.h:65
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Ruby on Rails web alkalmazáscsomag"
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f18.xml.in.h:67 ../comps-f19.xml.in.h:67
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Tomcat web alkalmazás kiszolgáló"
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
-msgstr ""
+msgstr "Load Balancer"
 
 #: ../comps-f18.xml.in.h:69 ../comps-f19.xml.in.h:69
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Terhelésszabályozók hálózati forgalomhoz"
 
 #: ../comps-f18.xml.in.h:70 ../comps-f19.xml.in.h:70
 msgid "High Availability"
-msgstr ""
+msgstr "Magas rendelkezésre-állás"
 
 #: ../comps-f18.xml.in.h:71 ../comps-f19.xml.in.h:71
 msgid "Infrastructure for highly available services and/or shared storage."
-msgstr ""
+msgstr "Infrastruktúra a magas rendelkezésre-állású szolgáltatásoknál és/vagy osztott tárolási eszközöknél "
 
 #: ../comps-f18.xml.in.h:79 ../comps-f19.xml.in.h:79
 msgid "Standard"
-msgstr ""
+msgstr "Szabványos"
 
 #: ../comps-f18.xml.in.h:80 ../comps-f19.xml.in.h:80
 msgid "Common set of utilities that extend the minimal installation."
-msgstr ""
+msgstr "Gyakori, közös alkalmazások amelyek kibővítik a minimális telepítést."
 
 #: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:185
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:186
 msgid ""
 "MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
-msgstr ""
+msgstr "MATE felület a GNOME 2-re alapozva egy erőteljes grafikus felhasználói felületet biztosít a felhasználók számára, akik egyszerű, könnyen kezelhető hagyományos felületet keresnek."
 
 #: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:214
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "Alkalmazáscsomag robotikai fejlesztésekhez"
 
 #: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:247
 msgid "Basic Web Server"
-msgstr ""
+msgstr "Alap Web Kiszolgáló"
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "XFCE szoftverfejlesztés"
 
 #: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:254
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "Telepítse ezeket a csomagokat, hogy GTK+ és XFCE grafikus felületű alkalmazásokat fejlesszen."
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "GNOME felület"
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "XFCE felület"
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "LXDE felület"
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
 msgid "Cinnamon Desktop"
-msgstr ""
+msgstr "Cinnamon felület"
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
 msgid "MATE Desktop"
-msgstr ""
+msgstr "MATE felület"
 
 #: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "Fejlesztés és Kreatív Munkaállomás"
 
 #: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:262
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "Munkaállomás szoftverek, hardver, grafika, és tartalom fejlesztéshez."
 
 #: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "Kiszolgáló statikus és dinamikus internet tartalmakhoz."
 
 #: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "Infrastruktúra kiszolgáló"
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "Kiszolgáló hálózat infrastruktúra szolgáltatásaihoz."
 
 #: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
 msgid "Basic X Window System"
-msgstr ""
+msgstr "Alap X Window System"
 
 #: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
 msgid "X Window System without a full desktop environment."
-msgstr ""
+msgstr "X Window System teljes asztali környezet nélkül."
 
 #: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:269
 msgid "Minimal Install"
-msgstr ""
+msgstr "Minimális telepítés"
 
 #: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:270
 msgid "Basic functionality."
-msgstr ""
+msgstr "Alap funkcionalitás."
 
 #: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:271
 #: ../comps-el6.xml.in.h:126
@@ -2066,21 +2066,21 @@ msgstr "KDE asztal"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Gyakran használt KDE alkalmazások gyűjteménye"
 
 #: ../comps-f19.xml.in.h:177
 msgid "Lepcha Support"
-msgstr ""
+msgstr "Lepcha támogatás"
 
 #: ../comps-f19.xml.in.h:220
 msgid "Security Lab"
-msgstr ""
+msgstr "Security Lab"
 
 #: ../comps-f19.xml.in.h:221
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security"
 " testing methodologies."
-msgstr ""
+msgstr "Eszközök biztonsági auditáláshoz, kriminalisztikai, rendszermentéshez, és biztonság tesztelési metódusokhoz."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""
@@ -2173,11 +2173,11 @@ msgstr "Backup szerver"
 
 #: ../comps-el6.xml.in.h:13
 msgid "Software to centralize your infrastructure's backups."
-msgstr "Szoftverek az infrastruktúra központosított biztonsági mentéseihez."
+msgstr "Szoftverek az infrastruktúrájának központosított biztonsági mentéseihez."
 
 #: ../comps-el6.xml.in.h:15
 msgid "The basic installation of Enterprise Linux."
-msgstr "Az alap telepítő az Enterprise Linux."
+msgstr "Az alap telepítő az Enterprise Linux-hoz."
 
 #: ../comps-el6.xml.in.h:16
 msgid "Desktop"
@@ -2219,7 +2219,7 @@ msgstr "Konzolos internetes eszközök"
 
 #: ../comps-el6.xml.in.h:37
 msgid "Console internet access tools, often used by administrators."
-msgstr "Eszközök a parancssorból való internethasználathoz, legtöbbször a rendszergazdák használják."
+msgstr "Eszközök a parancssoros internet használathoz, legtöbbször a rendszergazdák használják."
 
 #: ../comps-el6.xml.in.h:40
 msgid "Smallest possible installation."
@@ -2259,7 +2259,7 @@ msgstr "Desktop Platform fejlesztés"
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
-msgstr "Fejlesztési fejlécek és könyvtárak alkalmazások fejlesztésére, hogy futásképes legyen az Enterprise Linux Desktop platformján."
+msgstr "Fejlesztési fejlécek és könyvtárak - alkalmazások fejlesztésére, hogy működőképes legyen az Enterprise Linux Desktop platformján."
 
 #: ../comps-el6.xml.in.h:52
 msgid "Development tools"
@@ -2295,7 +2295,7 @@ msgstr "Oktatási szoftverek tanulásra."
 
 #: ../comps-el6.xml.in.h:66
 msgid "Design and Simulation tools for hardware engineers."
-msgstr "Tervezési és szimulációs eszközök hardveres mérnökök részére"
+msgstr "Tervezési és szimulációs eszközök hardver mérnökök részére"
 
 #: ../comps-el6.xml.in.h:67
 msgid "Emacs"
@@ -2323,7 +2323,7 @@ msgstr "Engedélyezi a rendszernek, hogy FTP szerverként üzemeljen."
 
 #: ../comps-el6.xml.in.h:87
 msgid "General Purpose Desktop"
-msgstr "Általános célú asztal"
+msgstr "Általános célú felület"
 
 #: ../comps-el6.xml.in.h:88
 msgid "A general purpose desktop."
@@ -2348,7 +2348,7 @@ msgstr "Szoftver állóképek készítésére, és manipulációjára."
 
 #: ../comps-el6.xml.in.h:97
 msgid "Hardware monitoring utilities"
-msgstr "Hardver segédprogramok"
+msgstr "Hardver felügyeleti segédprogramok"
 
 #: ../comps-el6.xml.in.h:98
 msgid "A set of tools to monitor server hardware"
@@ -2362,11 +2362,11 @@ msgstr "InfiniBand támogatás"
 msgid ""
 "Software designed for supporting clustering and grid connectivity using "
 "RDMA-based InfiniBand and iWARP fabrics."
-msgstr "Olyan céllal tervezett szoftverek, amely klaszterek és mátrix kapcsolatok támogatását célozzák RDMA-alapú InfiniBand és iWARP összeállítások használatával."
+msgstr "Olyan céllal tervezett szoftverek, amely a fürtözések és mátrix kapcsolatok támogatását célozzák RDMA-alapú InfiniBand és iWARP összeállítások használatával."
 
 #: ../comps-el6.xml.in.h:110
 msgid "Software for the input of international text."
-msgstr "Szoftver nemzetközi szövegek beadásához."
+msgstr "Szoftver nemzetközi szövegek begépeléséhez."
 
 #: ../comps-el6.xml.in.h:112
 msgid "Internet Applications"
@@ -2390,7 +2390,7 @@ msgstr "Java Platform"
 
 #: ../comps-el6.xml.in.h:121
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
-msgstr "Java-támogatás az Enterprise Linux Server és a Desktop Platformjaira."
+msgstr "Java-támogatás az Enterprise Linux Server és a Desktop platformjaira."
 
 #: ../comps-el6.xml.in.h:127
 msgid "A KDE desktop."
@@ -2412,7 +2412,7 @@ msgstr "Régi UNIX kompatibilitás"
 msgid ""
 "Compatibility programs for migration from or working with legacy UNIX "
 "environments."
-msgstr "Kompatibilitási programok az átmigrálásra, vagy régi UNIX környezettel való munkára."
+msgstr "Kompatibilitási programok a migrálásra, vagy régi UNIX környezettel való munkára."
 
 #: ../comps-el6.xml.in.h:140
 msgid "Legacy X Window System compatibility"
@@ -2422,7 +2422,7 @@ msgstr "Régi X Window System kompatibilitás"
 msgid ""
 "Compatibility programs for migration from or working with legacy X Window "
 "System environments."
-msgstr "Kompatibilitási programok az átmigrálásra, vagy régi X Window System környezettel való munkára."
+msgstr "Kompatibilitási programok a migrálásra, vagy régi X Window System környezettel való munkára."
 
 #: ../comps-el6.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
@@ -2500,7 +2500,7 @@ msgstr "NFS fájlszerver."
 
 #: ../comps-el6.xml.in.h:179
 msgid "Office Suite and Productivity"
-msgstr "Office szoftvercsomag és produktivitás"
+msgstr "Irodai szoftvercsomag és produktivitás"
 
 #: ../comps-el6.xml.in.h:180
 msgid "A full-purpose office suite, and other productivity tools."
@@ -2582,11 +2582,11 @@ msgstr "Biztonsági eszközök"
 
 #: ../comps-el6.xml.in.h:208
 msgid "Security tools for integrity and trust verification."
-msgstr "Biztonsági eszközök integritás és a bizalom ellenőrzéshez."
+msgstr "Biztonsági eszközök integritás és a hitelességi ellenőrzéshez."
 
 #: ../comps-el6.xml.in.h:210
 msgid "Server Platform"
-msgstr "Szerver Platform"
+msgstr "Kiszolgáló Platform"
 
 #: ../comps-el6.xml.in.h:211
 msgid "Supported libraries for the Enterprise Linux Server Platform."
@@ -2594,25 +2594,25 @@ msgstr "Támogatott könyvtárak az Enterprise Linux Server platformon."
 
 #: ../comps-el6.xml.in.h:212
 msgid "Server Platform Development"
-msgstr "Szerver Platform fejlesztése"
+msgstr "Kiszolgáló Platform fejlesztése"
 
 #: ../comps-el6.xml.in.h:213
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
-msgstr "Fejlesztői fejlécek és könyvtárak alkalmazások fejlesztésére az Enterprise Linux Server platformon való futtatásukhoz."
+msgstr "Fejlesztői fejlécek és könyvtárak - alkalmazások fejlesztésére az Enterprise Linux Server platformon való futtatásukhoz."
 
 #: ../comps-el6.xml.in.h:214
 msgid "Server Policy"
-msgstr "Szerver szabályzat"
+msgstr "Kiszolgáló szabályzat"
 
 #: ../comps-el6.xml.in.h:215
 msgid "Policy packages for the Server variant."
-msgstr "Szabályzati csomagok a Szerver változathoz."
+msgstr "Szabályzati csomagok a kiszolgáló változathoz."
 
 #: ../comps-el6.xml.in.h:220
 msgid "Smart card support"
-msgstr "Intelligens kártyák támogatása"
+msgstr "Intelligens kártya támogatás"
 
 #: ../comps-el6.xml.in.h:221
 msgid "Support for using smart card authentication."
@@ -2636,7 +2636,7 @@ msgstr "iSCSI kliens támogatás"
 
 #: ../comps-el6.xml.in.h:229
 msgid "Storage Availability Tools"
-msgstr "Tárolási elérhetőségi Eszközök"
+msgstr "Tárolás rendelkezésre-állási eszközök"
 
 #: ../comps-el6.xml.in.h:230
 msgid "A set of tools to manage SAN path availability"
@@ -2660,7 +2660,7 @@ msgstr "Hasznos segédprogramok rendszerfelügyelethez."
 
 #: ../comps-el6.xml.in.h:238
 msgid "System Management"
-msgstr "Rendszermenedzsment"
+msgstr "Rendszer Adminisztráció"
 
 #: ../comps-el6.xml.in.h:239
 msgid "Various low-level hardware management frameworks."
@@ -2676,7 +2676,7 @@ msgstr "AMQP üzenetküldő kliens rendszerek kezelésére."
 
 #: ../comps-el6.xml.in.h:242
 msgid "Messaging Server Support"
-msgstr "Üzenetkezelő Szerver támogatás"
+msgstr "Üzenetkezelő kiszolgáló támogatás"
 
 #: ../comps-el6.xml.in.h:243
 msgid "AMQP messaging broker for systems management."
@@ -2788,4 +2788,4 @@ msgstr "Végfelhasználói szoftverek."
 
 #: ../comps-el6.xml.in.h:298
 msgid "Development tools and libraries."
-msgstr "Fejlesztői eszközök és könyvtárak"
+msgstr "Fejlesztői eszközök és könyvtárak."
