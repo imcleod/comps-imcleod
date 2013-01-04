@@ -671,8 +671,8 @@
     </packagelist>
   </group>
   <group>
-    <id>basic-x-window-desktop</id>
-    <_name>Basic X Window Desktop</_name>
+    <id>basic-desktop</id>
+    <_name>Basic Desktop</_name>
     <_description>Basic X Window System with a choice of window manager.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -4387,7 +4387,7 @@
       <packagereq>yelp</packagereq>
       <packagereq>yumex</packagereq>
     </packagelist>
-   </group>   
+   </group>
    <group>
     <id>marathi-support</id>
     <_name>Marathi Support</_name>
@@ -6250,9 +6250,9 @@
     </optionlist>
   </environment>
   <environment>
-    <id>basic-x-window-environment</id>
-    <_name>Basic X Window System</_name>
-    <_description>X Window System without a full desktop environment.</_description>
+    <id>basic-desktop-environment</id>
+    <_name>Basic Desktop</_name>
+    <_description>X Window System with a choice of window manager.</_description>
     <display_order>70</display_order>
     <grouplist>
       <groupid>base-x</groupid>
@@ -6262,7 +6262,7 @@
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
       <groupid>multimedia</groupid>
-      <groupid>basic-x-window-desktop</groupid>
+      <groupid>basic-desktop</groupid>
     </grouplist>
     <optionlist>
       <groupid>firefox</groupid>
