@@ -1520,14 +1520,11 @@
       <packagereq type="mandatory">control-center</packagereq>
       <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
-      <packagereq type="mandatory">gnome-panel</packagereq>
       <packagereq type="mandatory">gnome-session</packagereq>
       <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
       <packagereq type="mandatory">gnome-themes-standard</packagereq>
       <packagereq type="mandatory">gvfs-fuse</packagereq>
-      <packagereq type="mandatory">metacity</packagereq>
-      <packagereq type="mandatory">notification-daemon</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-ati</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-evdev</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-fbdev</packagereq>
@@ -1544,7 +1541,6 @@
       <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">libcanberra-gtk3</packagereq>
       <packagereq type="default">nautilus</packagereq>
-      <packagereq type="default">polkit-gnome</packagereq>
       <packagereq type="default">pulseaudio-module-x11</packagereq>
     </packagelist>
   </group>
