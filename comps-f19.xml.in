@@ -882,7 +882,7 @@
       <packagereq>libxml2-devel</packagereq>
       <packagereq>libxslt</packagereq>
       <packagereq>libxslt-devel</packagereq>
-      <packagereq>mysql-devel</packagereq>
+      <packagereq>mariadb-devel</packagereq>
       <packagereq>ruby</packagereq>
       <packagereq>ruby-devel</packagereq>
       <packagereq>rubygem-nokogiri</packagereq>
@@ -4494,20 +4494,20 @@
   </group>
   <group>
     <id>mysql</id>
-    <_name>MySQL Database</_name>
-    <_description>This package group contains packages useful for use with MySQL.</_description>
+    <_name>MariaDB (MySQL) Database</_name>
+    <_description>This package group contains packages useful for use with MariaDB (MySQL).</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">mysql</packagereq>
+      <packagereq type="mandatory">mariadb</packagereq>
       <packagereq type="default">libdbi-dbd-mysql</packagereq>
+      <packagereq type="default">mariadb-server</packagereq>
       <packagereq type="default">mysql-connector-odbc</packagereq>
       <packagereq type="default">MySQL-python</packagereq>
-      <packagereq type="default">mysql-server</packagereq>
       <packagereq type="default">perl-DBD-MySQL</packagereq>
       <packagereq type="default">unixODBC</packagereq>
-      <packagereq type="optional">mysql-bench</packagereq>
-      <packagereq type="optional">mysql-devel</packagereq>
+      <packagereq type="optional">mariadb-bench</packagereq>
+      <packagereq type="optional">mariadb-devel</packagereq>
       <packagereq type="optional">mysqlreport</packagereq>
       <packagereq type="optional">mysqltuner</packagereq>
       <packagereq type="optional">php-mysql</packagereq>
@@ -6595,7 +6595,7 @@
     <ignoredep package="libtermcap" requires="bash"/>
     <ignoredep package="lvm2" requires="kernel"/>
     <ignoredep package="modutils" requires="vixie-cron"/>
-    <ignoredep package="mysql" requires="perl-DBD-MySQL"/>
+    <ignoredep package="mariadb" requires="perl-DBD-MySQL"/>
     <ignoredep package="nautilus" requires="nautilus-cd-burner"/>
     <ignoredep package="nautilus" requires="nautilus-mozilla"/>
     <ignoredep package="ncurses" requires="gpm"/>
