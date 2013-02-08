@@ -1669,6 +1669,24 @@
     </packagelist>
   </group>
   <group>
+    <id>rpm-development-tools</id>
+    <_name>RPM Development Tools</_name>
+    <_description>These tools include core development tools such rpmbuild.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">redhat-rpm-config</packagereq>
+      <packagereq type="mandatory">rpm-build</packagereq>
+      <packagereq type="default">koji</packagereq>
+      <packagereq type="default">mock</packagereq>
+      <packagereq type="default">rpmdevtools</packagereq>
+      <packagereq type="optional">plague-client</packagereq>
+      <packagereq type="optional">pungi</packagereq>
+      <packagereq type="optional">revisor</packagereq>
+      <packagereq type="optional">rpmlint</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>development-tools</id>
     <_name>Development Tools</_name>
     <_description>These tools include core development tools such as automake, gcc, perl, python, and debuggers.</_description>
@@ -1687,8 +1705,6 @@
       <packagereq type="mandatory">libtool</packagereq>
       <packagereq type="mandatory">make</packagereq>
       <packagereq type="mandatory">pkgconfig</packagereq>
-      <packagereq type="mandatory">redhat-rpm-config</packagereq>
-      <packagereq type="mandatory">rpm-build</packagereq>
       <packagereq type="mandatory">strace</packagereq>
       <packagereq type="default">automake14</packagereq>
       <packagereq type="default">automake17</packagereq>
@@ -1793,9 +1809,6 @@
       <packagereq type="optional">insight</packagereq>
       <packagereq type="optional">ipython</packagereq>
       <packagereq type="optional">jam</packagereq>
-      <packagereq type="optional">koji</packagereq>
-      <packagereq type="optional">koji-hub</packagereq>
-      <packagereq type="optional">koji-web</packagereq>
       <packagereq type="optional">lazarus</packagereq>
       <packagereq type="optional">lcov</packagereq>
       <packagereq type="optional">libdwarf-tools</packagereq>
@@ -1809,7 +1822,6 @@
       <packagereq type="optional">memtest86+</packagereq>
       <packagereq type="optional">mercurial</packagereq>
       <packagereq type="optional">mlton</packagereq>
-      <packagereq type="optional">mock</packagereq>
       <packagereq type="optional">monodevelop</packagereq>
       <packagereq type="optional">monotone</packagereq>
       <packagereq type="optional">mr</packagereq>
@@ -1826,22 +1838,16 @@
       <packagereq type="optional">php-pear-PHP-CodeSniffer</packagereq>
       <packagereq type="optional">pikdev</packagereq>
       <packagereq type="optional">pl</packagereq>
-      <packagereq type="optional">plague</packagereq>
-      <packagereq type="optional">plague-client</packagereq>
       <packagereq type="optional">polyml</packagereq>
       <packagereq type="optional">polyml-doc</packagereq>
       <packagereq type="optional">pscan</packagereq>
-      <packagereq type="optional">pungi</packagereq>
       <packagereq type="optional">pylint</packagereq>
       <packagereq type="optional">q</packagereq>
       <packagereq type="optional">qgit</packagereq>
       <packagereq type="optional">quilt</packagereq>
       <packagereq type="optional">rapidsvn</packagereq>
       <packagereq type="optional">regexxer</packagereq>
-      <packagereq type="optional">revisor</packagereq>
       <packagereq type="optional">robodoc</packagereq>
-      <packagereq type="optional">rpmdevtools</packagereq>
-      <packagereq type="optional">rpmlint</packagereq>
       <packagereq type="optional">sbcl</packagereq>
       <packagereq type="optional">scanmem</packagereq>
       <packagereq type="optional">scons</packagereq>
