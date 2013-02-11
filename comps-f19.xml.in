@@ -1693,36 +1693,13 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">autoconf</packagereq>
-      <packagereq type="mandatory">automake</packagereq>
-      <packagereq type="mandatory">binutils</packagereq>
-      <packagereq type="mandatory">bison</packagereq>
-      <packagereq type="mandatory">flex</packagereq>
-      <packagereq basearchonly="true" type="mandatory">gcc</packagereq>
-      <packagereq basearchonly="true" type="mandatory">gcc-c++</packagereq>
-      <packagereq basearchonly="true" type="mandatory">gdb</packagereq>
       <packagereq type="mandatory">gettext</packagereq>
-      <packagereq type="mandatory">libtool</packagereq>
-      <packagereq type="mandatory">make</packagereq>
-      <packagereq type="mandatory">pkgconfig</packagereq>
-      <packagereq type="mandatory">strace</packagereq>
-      <packagereq type="default">automake14</packagereq>
-      <packagereq type="default">automake17</packagereq>
-      <packagereq type="default">byacc</packagereq>
-      <packagereq type="default">ccache</packagereq>
-      <packagereq type="default">cscope</packagereq>
-      <packagereq type="default">ctags</packagereq>
       <packagereq type="default">cvs</packagereq>
       <packagereq type="default">diffstat</packagereq>
       <packagereq type="default">doxygen</packagereq>
-      <packagereq type="default">elfutils</packagereq>
       <packagereq basearchonly="true" type="default">gcc-gfortran</packagereq>
       <packagereq type="default">git</packagereq>
-      <packagereq type="default">indent</packagereq>
       <packagereq type="default">intltool</packagereq>
-      <packagereq basearchonly="true" type="default">ltrace</packagereq>
-      <packagereq basearchonly="true" type="default">oprofile</packagereq>
-      <packagereq basearchonly="true" type="default">oprofile-gui</packagereq>
       <packagereq type="default">patchutils</packagereq>
       <packagereq type="default">rcs</packagereq>
       <packagereq type="default">subversion</packagereq>
@@ -1730,12 +1707,10 @@
       <packagereq type="default">sysprof</packagereq>
       <packagereq type="default">systemtap</packagereq>
       <packagereq type="default">texinfo</packagereq>
-      <packagereq type="default">valgrind</packagereq>
       <packagereq type="optional">alleyoop</packagereq>
       <packagereq type="optional">alex</packagereq>
       <packagereq type="optional">aplus-fsf</packagereq>
       <packagereq type="optional">archmage</packagereq>
-      <packagereq type="optional">astyle</packagereq>
       <packagereq type="optional">bigloo</packagereq>
       <packagereq type="optional">bigloo-doc</packagereq>
       <packagereq type="optional">bugzilla</packagereq>
@@ -1743,7 +1718,6 @@
       <packagereq type="optional">bzr</packagereq>
       <packagereq type="optional">bzr-explorer</packagereq>
       <packagereq type="optional">cabal-install</packagereq>
-      <packagereq type="optional">check</packagereq>
       <packagereq type="optional">clips</packagereq>
       <packagereq type="optional">clips-devel</packagereq>
       <packagereq type="optional">clips-doc</packagereq>
@@ -1752,14 +1726,11 @@
       <packagereq type="optional">clipsmm-devel</packagereq>
       <packagereq type="optional">clipsmm-doc</packagereq>
       <packagereq type="optional">clisp</packagereq>
-      <packagereq type="optional">cmake</packagereq>
-      <packagereq type="optional">coan</packagereq>
       <packagereq type="optional">codeblocks</packagereq>
       <packagereq type="optional">colordiff</packagereq>
       <packagereq type="optional">cpan-upload</packagereq>
       <packagereq type="optional">cpanspec</packagereq>
       <packagereq type="optional">cppunit</packagereq>
-      <packagereq type="optional">cproto</packagereq>
       <packagereq type="optional">curry</packagereq>
       <packagereq type="optional">cvs2cl</packagereq>
       <packagereq type="optional">cvs2svn</packagereq>
@@ -1769,8 +1740,6 @@
       <packagereq type="optional">darcs</packagereq>
       <packagereq type="optional">dejagnu</packagereq>
       <packagereq type="optional">ecl</packagereq>
-      <packagereq type="optional">ElectricFence</packagereq>
-      <packagereq type="optional">elfinfo</packagereq>
       <packagereq type="optional">emacs-bigloo</packagereq>
       <packagereq type="optional">email2trac</packagereq>
       <packagereq type="optional">epydoc</packagereq>
@@ -1806,7 +1775,6 @@
       <packagereq type="optional">highlight</packagereq>
       <packagereq type="optional">iasl</packagereq>
       <packagereq type="optional">imake</packagereq>
-      <packagereq type="optional">insight</packagereq>
       <packagereq type="optional">ipython</packagereq>
       <packagereq type="optional">jam</packagereq>
       <packagereq type="optional">lazarus</packagereq>
@@ -1825,7 +1793,6 @@
       <packagereq type="optional">monodevelop</packagereq>
       <packagereq type="optional">monotone</packagereq>
       <packagereq type="optional">mr</packagereq>
-      <packagereq type="optional">nasm</packagereq>
       <packagereq type="optional">nemiver</packagereq>
       <packagereq type="optional">nqc</packagereq>
       <packagereq type="optional">nqc-doc</packagereq>
@@ -1840,7 +1807,6 @@
       <packagereq type="optional">pl</packagereq>
       <packagereq type="optional">polyml</packagereq>
       <packagereq type="optional">polyml-doc</packagereq>
-      <packagereq type="optional">pscan</packagereq>
       <packagereq type="optional">pylint</packagereq>
       <packagereq type="optional">q</packagereq>
       <packagereq type="optional">qgit</packagereq>
@@ -1850,9 +1816,7 @@
       <packagereq type="optional">robodoc</packagereq>
       <packagereq type="optional">sbcl</packagereq>
       <packagereq type="optional">scanmem</packagereq>
-      <packagereq type="optional">scons</packagereq>
       <packagereq type="optional">sigscheme</packagereq>
-      <packagereq type="optional">splint</packagereq>
       <packagereq type="optional">Sprog</packagereq>
       <packagereq type="optional">srecord</packagereq>
       <packagereq type="optional">svn2cl</packagereq>
@@ -1868,7 +1832,6 @@
       <packagereq type="optional">trac-mercurial-plugin</packagereq>
       <packagereq type="optional">translate-toolkit</packagereq>
       <packagereq type="optional">ucblogo</packagereq>
-      <packagereq type="optional">undertaker</packagereq>
       <packagereq type="optional">utrac</packagereq>
       <packagereq type="optional">virtaal</packagereq>
       <packagereq type="optional">why</packagereq>
@@ -1877,6 +1840,53 @@
       <packagereq type="optional">xbsql</packagereq>
       <packagereq type="optional">xfce4-dev-tools</packagereq>
       <packagereq type="optional">yap</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>c-development</id>
+    <_name>C Development Tools and Libraries</_name>
+    <_description>These tools include core development tools such as automake, gcc and debuggers.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">autoconf</packagereq>
+      <packagereq type="mandatory">automake</packagereq>
+      <packagereq type="mandatory">binutils</packagereq>
+      <packagereq type="mandatory">bison</packagereq>
+      <packagereq type="mandatory">flex</packagereq>
+      <packagereq basearchonly="true" type="mandatory">gcc</packagereq>
+      <packagereq basearchonly="true" type="mandatory">gcc-c++</packagereq>
+      <packagereq basearchonly="true" type="mandatory">gdb</packagereq>
+      <packagereq type="mandatory">glibc-devel</packagereq>
+      <packagereq type="mandatory">libtool</packagereq>
+      <packagereq type="mandatory">make</packagereq>
+      <packagereq type="mandatory">pkgconfig</packagereq>
+      <packagereq type="mandatory">strace</packagereq>
+      <packagereq type="default">automake14</packagereq>
+      <packagereq type="default">automake17</packagereq>
+      <packagereq type="default">byacc</packagereq>
+      <packagereq type="default">ccache</packagereq>
+      <packagereq type="default">cscope</packagereq>
+      <packagereq type="default">ctags</packagereq>
+      <packagereq type="default">elfutils</packagereq>
+      <packagereq type="default">indent</packagereq>
+      <packagereq basearchonly="true" type="default">ltrace</packagereq>
+      <packagereq basearchonly="true" type="default">oprofile</packagereq>
+      <packagereq basearchonly="true" type="default">oprofile-gui</packagereq>
+      <packagereq type="default">valgrind</packagereq>
+      <packagereq type="optional">astyle</packagereq>
+      <packagereq type="optional">check</packagereq>
+      <packagereq type="optional">cmake</packagereq>
+      <packagereq type="optional">coan</packagereq>
+      <packagereq type="optional">cproto</packagereq>
+      <packagereq type="optional">ElectricFence</packagereq>
+      <packagereq type="optional">elfinfo</packagereq>
+      <packagereq type="optional">insight</packagereq>
+      <packagereq type="optional">nasm</packagereq>
+      <packagereq type="optional">pscan</packagereq>
+      <packagereq type="optional">scons</packagereq>
+      <packagereq type="optional">splint</packagereq>
+      <packagereq type="optional">undertaker</packagereq>
       <packagereq type="optional">yasm</packagereq>
       <packagereq type="optional">zzuf</packagereq>
     </packagelist>
