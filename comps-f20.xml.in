@@ -1689,7 +1689,7 @@
   <group>
     <id>development-tools</id>
     <_name>Development Tools</_name>
-    <_description>These tools include core development tools such as automake, gcc, perl, python, and debuggers.</_description>
+    <_description>These tools include general development tools such as git and cvs.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -1697,147 +1697,49 @@
       <packagereq type="default">cvs</packagereq>
       <packagereq type="default">diffstat</packagereq>
       <packagereq type="default">doxygen</packagereq>
-      <packagereq basearchonly="true" type="default">gcc-gfortran</packagereq>
       <packagereq type="default">git</packagereq>
-      <packagereq type="default">intltool</packagereq>
       <packagereq type="default">patchutils</packagereq>
       <packagereq type="default">rcs</packagereq>
       <packagereq type="default">subversion</packagereq>
-      <packagereq type="default">swig</packagereq>
-      <packagereq type="default">sysprof</packagereq>
       <packagereq type="default">systemtap</packagereq>
-      <packagereq type="default">texinfo</packagereq>
-      <packagereq type="optional">alleyoop</packagereq>
-      <packagereq type="optional">alex</packagereq>
-      <packagereq type="optional">aplus-fsf</packagereq>
       <packagereq type="optional">archmage</packagereq>
-      <packagereq type="optional">bigloo</packagereq>
-      <packagereq type="optional">bigloo-doc</packagereq>
-      <packagereq type="optional">bugzilla</packagereq>
       <packagereq type="optional">buildbot</packagereq>
       <packagereq type="optional">bzr</packagereq>
       <packagereq type="optional">bzr-explorer</packagereq>
-      <packagereq type="optional">cabal-install</packagereq>
-      <packagereq type="optional">clips</packagereq>
-      <packagereq type="optional">clips-devel</packagereq>
-      <packagereq type="optional">clips-doc</packagereq>
-      <packagereq type="optional">clips-emacs</packagereq>
-      <packagereq type="optional">clips-xclips</packagereq>
-      <packagereq type="optional">clipsmm-devel</packagereq>
-      <packagereq type="optional">clipsmm-doc</packagereq>
-      <packagereq type="optional">clisp</packagereq>
-      <packagereq type="optional">codeblocks</packagereq>
       <packagereq type="optional">colordiff</packagereq>
-      <packagereq type="optional">cpan-upload</packagereq>
-      <packagereq type="optional">cppunit</packagereq>
-      <packagereq type="optional">curry</packagereq>
       <packagereq type="optional">cvs2cl</packagereq>
-      <packagereq type="optional">cvs2svn</packagereq>
       <packagereq type="optional">cvsgraph</packagereq>
       <packagereq type="optional">cvsps</packagereq>
-      <packagereq type="optional">cvsweb</packagereq>
       <packagereq type="optional">darcs</packagereq>
       <packagereq type="optional">dejagnu</packagereq>
-      <packagereq type="optional">ecl</packagereq>
-      <packagereq type="optional">emacs-bigloo</packagereq>
-      <packagereq type="optional">email2trac</packagereq>
-      <packagereq type="optional">epydoc</packagereq>
-      <packagereq type="optional">eric</packagereq>
-      <packagereq type="optional">erlang</packagereq>
       <packagereq type="optional">expect</packagereq>
-      <packagereq type="optional">flasm</packagereq>
-      <packagereq type="optional">fpc</packagereq>
-      <packagereq type="optional">frama-c</packagereq>
-      <packagereq type="optional">frysk</packagereq>
-      <packagereq type="optional">ftnchek</packagereq>
       <packagereq type="optional">gambas2-ide</packagereq>
-      <packagereq type="optional">gappa</packagereq>
-      <packagereq type="optional">gauche</packagereq>
-      <packagereq basearchonly="true" type="optional">gcc-gnat</packagereq>
-      <packagereq basearchonly="true" type="optional">gcc-objc</packagereq>
-      <packagereq type="optional">gcl</packagereq>
-      <packagereq type="optional">gcl-emacs</packagereq>
-      <packagereq type="optional">gcl-xemacs</packagereq>
-      <packagereq type="optional">gforth</packagereq>
-      <packagereq type="optional">ghc</packagereq>
       <packagereq type="optional">giggle</packagereq>
       <packagereq type="optional">git-annex</packagereq>
       <packagereq type="optional">git2cl</packagereq>
       <packagereq type="optional">git-cola</packagereq>
       <packagereq type="optional">gitg</packagereq>
-      <packagereq type="optional">gnu-smalltalk</packagereq>
-      <packagereq type="optional">gphpedit</packagereq>
-      <packagereq type="optional">gprolog</packagereq>
-      <packagereq type="optional">gpsim</packagereq>
-      <packagereq type="optional">gputils</packagereq>
       <packagereq type="optional">gtranslator</packagereq>
-      <packagereq type="optional">happy</packagereq>
       <packagereq type="optional">highlight</packagereq>
-      <packagereq type="optional">imake</packagereq>
-      <packagereq type="optional">ipython</packagereq>
-      <packagereq type="optional">jam</packagereq>
-      <packagereq type="optional">lazarus</packagereq>
       <packagereq type="optional">lcov</packagereq>
-      <packagereq type="optional">libdwarf-tools</packagereq>
-      <packagereq type="optional">livecd-tools</packagereq>
-      <packagereq type="optional">lua</packagereq>
-      <packagereq type="optional">mach</packagereq>
       <packagereq type="optional">manedit</packagereq>
-      <packagereq type="optional">mantis</packagereq>
-      <packagereq type="optional">mcrypt</packagereq>
       <packagereq type="optional">meld</packagereq>
-      <packagereq type="optional">memtest86+</packagereq>
       <packagereq type="optional">mercurial</packagereq>
-      <packagereq type="optional">mlton</packagereq>
-      <packagereq type="optional">monodevelop</packagereq>
       <packagereq type="optional">monotone</packagereq>
       <packagereq type="optional">mr</packagereq>
       <packagereq type="optional">nemiver</packagereq>
-      <packagereq type="optional">nqc</packagereq>
-      <packagereq type="optional">nqc-doc</packagereq>
-      <packagereq type="optional">ocaml</packagereq>
-      <packagereq type="optional">oorexx</packagereq>
-      <packagereq type="optional">parrot</packagereq>
-      <packagereq type="optional">pax-utils</packagereq>
-      <packagereq type="optional">perl-perlmenu</packagereq>
-      <packagereq type="optional">perltidy</packagereq>
-      <packagereq type="optional">php-pear-PHP-CodeSniffer</packagereq>
-      <packagereq type="optional">pikdev</packagereq>
-      <packagereq type="optional">pl</packagereq>
-      <packagereq type="optional">polyml</packagereq>
-      <packagereq type="optional">polyml-doc</packagereq>
-      <packagereq type="optional">pylint</packagereq>
-      <packagereq type="optional">q</packagereq>
       <packagereq type="optional">qgit</packagereq>
       <packagereq type="optional">quilt</packagereq>
       <packagereq type="optional">rapidsvn</packagereq>
-      <packagereq type="optional">regexxer</packagereq>
       <packagereq type="optional">robodoc</packagereq>
-      <packagereq type="optional">sbcl</packagereq>
       <packagereq type="optional">scanmem</packagereq>
-      <packagereq type="optional">sigscheme</packagereq>
-      <packagereq type="optional">Sprog</packagereq>
       <packagereq type="optional">svn2cl</packagereq>
-      <packagereq type="optional">svnmailer</packagereq>
-      <packagereq type="optional">sysconftool</packagereq>
       <packagereq type="optional">tailor</packagereq>
       <packagereq type="optional">tig</packagereq>
       <packagereq type="optional">tkcvs</packagereq>
-      <packagereq type="optional">tolua++</packagereq>
       <packagereq type="optional">tortoisehg</packagereq>
-      <packagereq type="optional">trac</packagereq>
-      <packagereq type="optional">trac-git-plugin</packagereq>
-      <packagereq type="optional">trac-mercurial-plugin</packagereq>
       <packagereq type="optional">translate-toolkit</packagereq>
-      <packagereq type="optional">ucblogo</packagereq>
       <packagereq type="optional">utrac</packagereq>
-      <packagereq type="optional">virtaal</packagereq>
-      <packagereq type="optional">why</packagereq>
-      <packagereq type="optional">why3</packagereq>
-      <packagereq type="optional">wxGlade</packagereq>
-      <packagereq type="optional">xbsql</packagereq>
-      <packagereq type="optional">xfce4-dev-tools</packagereq>
-      <packagereq type="optional">yap</packagereq>
     </packagelist>
   </group>
   <group>
