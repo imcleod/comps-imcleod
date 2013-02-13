@@ -3636,7 +3636,7 @@
       <packagereq type="conditional" requires="gtk3">ibus-gtk3</packagereq>
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
       <packagereq type="conditional" requires="xfce4-panel">im-chooser-xfce</packagereq>
-      <packagereq type="conditional" requires="gnome-session">imsettings-gnome</packagereq>
+      <packagereq type="conditional" requires="gnome-settings-daemon">imsettings-gsettings</packagereq>
       <packagereq type="conditional" requires="lxde-common">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
       <packagereq type="conditional" requires="xfce4-panel">imsettings-xfce</packagereq>
