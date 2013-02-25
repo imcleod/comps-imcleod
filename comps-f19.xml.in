@@ -3638,9 +3638,9 @@
       <packagereq type="conditional" requires="lxde-common">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
       <packagereq type="conditional" requires="xfce4-panel">imsettings-xfce</packagereq>
-      <packagereq type="default">ibus-anthy</packagereq>
       <packagereq type="default">ibus-chewing</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
+      <packagereq type="default">ibus-kkc</packagereq>
       <packagereq type="default">ibus-libpinyin</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-rawcode</packagereq>
@@ -3652,6 +3652,7 @@
       <packagereq type="optional">eekboard</packagereq>
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">gcin</packagereq>
+      <packagereq type="optional">ibus-anthy</packagereq>
       <packagereq type="optional">ibus-fbterm</packagereq>
       <packagereq type="optional">ibus-gucharmap</packagereq>
       <packagereq type="optional">ibus-handwrite</packagereq>
@@ -3705,7 +3706,7 @@
     <uservisible>false</uservisible>
     <langonly>ja</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-anthy</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-kkc</packagereq>
       <packagereq type="conditional" requires="uim">uim-anthy</packagereq>
       <packagereq type="default">vlgothic-fonts</packagereq>
       <packagereq type="default">vlgothic-p-fonts</packagereq>
