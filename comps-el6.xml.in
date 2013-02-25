@@ -1773,6 +1773,9 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="optional">ansible</packagereq>
+      <packagereq type="optional">ansible-fireball</packagereq>
+      <packagereq type="optional">ansible-node-fireball</packagereq>
       <packagereq type="optional">cfengine</packagereq>
       <packagereq type="optional">nagios</packagereq>
       <packagereq type="optional">puppet</packagereq>
