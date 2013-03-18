@@ -65,7 +65,7 @@
       <packagereq>desktop-backgrounds-basic</packagereq>
       <packagereq>control-center</packagereq>
       <packagereq>dconf</packagereq>
-      <packagereq>gnome-session</packagereq>
+      <packagereq>gnome-session-xsession</packagereq>
       <packagereq>gnome-settings-daemon</packagereq>
       <packagereq>gnome-shell</packagereq>
       <packagereq>gnome-themes-standard</packagereq>
@@ -1493,7 +1493,7 @@
       <packagereq type="mandatory">control-center</packagereq>
       <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
-      <packagereq type="mandatory">gnome-session</packagereq>
+      <packagereq type="mandatory">gnome-session-xsession</packagereq>
       <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
       <packagereq type="mandatory">gnome-themes-standard</packagereq>
