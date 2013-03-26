@@ -127,6 +127,7 @@
       <packagereq>gvfs-gphoto2</packagereq>
       <packagereq>gvfs-mtp</packagereq>
       <packagereq>gvfs-smb</packagereq>
+      <packagereq>initial-setup</packagereq>
       <packagereq>libcanberra-gtk2</packagereq>
       <packagereq>libcanberra-gtk3</packagereq>
       <packagereq>libproxy-mozjs</packagereq>
@@ -240,9 +241,9 @@
       <packagereq>bluedevil</packagereq>
       <packagereq>cagibi</packagereq>
       <packagereq>cups-pk-helper</packagereq>
-      <packagereq>firstboot</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>gwenview</packagereq>
+      <packagereq>initial-setup</packagereq>
       <packagereq>kamera</packagereq>
       <packagereq>kamoso</packagereq>
       <packagereq>kcalc</packagereq>
@@ -409,12 +410,12 @@
       <packagereq>xfconf</packagereq>
       <packagereq>xfdesktop</packagereq>
       <packagereq>xfwm4</packagereq>
-      <packagereq>firstboot</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>gtk-xfce-engine</packagereq>
       <packagereq>gvfs</packagereq>
+      <packagereq>initial-setup</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>openssh-askpass</packagereq>
@@ -567,9 +568,9 @@
       <packagereq>lxsession</packagereq>
       <packagereq>openbox</packagereq>
       <packagereq>pcmanfm</packagereq>
-      <packagereq>firstboot</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>gpicview</packagereq>
+      <packagereq>initial-setup</packagereq>
       <packagereq>leafpad</packagereq>
       <packagereq>lxappearance</packagereq>
       <packagereq>lxappearance-obconf</packagereq>
@@ -680,8 +681,8 @@
       <packagereq>awesome</packagereq>
       <packagereq>dwm</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
-      <packagereq>firstboot</packagereq>
       <packagereq>gnome-icon-theme-symbolic</packagereq>
+      <packagereq>initial-setup</packagereq>
       <packagereq>lightdm</packagereq>
       <packagereq>metacity</packagereq>
       <packagereq>openbox</packagereq>
@@ -701,7 +702,6 @@
       <packagereq>abrt-desktop</packagereq>
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
-      <packagereq>firstboot</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>brasero</packagereq>
@@ -710,6 +710,7 @@
       <packagereq>gcalctool</packagereq>
       <packagereq>gdm</packagereq>
       <packagereq>gedit</packagereq>
+      <packagereq>initial-setup</packagereq>
       <packagereq>nemo</packagereq>
       <packagereq>nemo-open-terminal</packagereq>
       <packagereq>network-manager-applet</packagereq>
@@ -1465,7 +1466,7 @@
       <packagereq type="mandatory">createrepo</packagereq>
       <packagereq type="mandatory">dash</packagereq>
       <packagereq type="mandatory">dracut</packagereq>
-      <packagereq type="mandatory">firstboot</packagereq>
+      <packagereq type="mandatory">initial-setup</packagereq>
       <packagereq type="mandatory">gcc-c++</packagereq>
       <!-- 'kernel' is listed because we need to ensure that kernel
            packages exist and are installable etc. We're not using this
@@ -4191,7 +4192,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>lightdm</packagereq>
-      <packagereq>firstboot</packagereq>
+      <packagereq>initial-setup</packagereq>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>ConsoleKit-x11</packagereq>
@@ -5237,7 +5238,7 @@
       <packagereq>sugar-toolkit</packagereq>
       <packagereq>sugar-toolkit-gtk3</packagereq>
       <packagereq>etoys-sugar</packagereq>
-      <packagereq>firstboot</packagereq>
+      <packagereq>initial-setup</packagereq>
       <packagereq>gdm</packagereq>
       <packagereq>sugar-abacus</packagereq>
       <packagereq>sugar-browse</packagereq>
