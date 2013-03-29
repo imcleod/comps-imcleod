@@ -4194,24 +4194,22 @@
       <packagereq>abrt-desktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>ConsoleKit-x11</packagereq>
-      <packagereq>libmate</packagereq>
-      <packagereq>libmatecomponent</packagereq>
-      <packagereq>libmatecanvas</packagereq>
-      <packagereq>libmatecomponentui</packagereq>
       <packagereq>libmatekbd</packagereq>
       <packagereq>libmatekeyring</packagereq>
       <packagereq>libmatenotify</packagereq>
-      <packagereq>libmateui</packagereq>
       <packagereq>libmateweather</packagereq>
       <packagereq>libmatewnck</packagereq>
+      <packagereq>libnotify</packagereq>
+      <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
+      <packagereq>mate-bluetooth</packagereq>
       <packagereq>mate-calc</packagereq>
       <packagereq>mate-conf</packagereq>
-      <packagereq>mate-conf-editor</packagereq>
       <packagereq>mate-corba</packagereq>
       <packagereq>mate-control-center</packagereq>
       <packagereq>mate-desktop</packagereq>
       <packagereq>mate-dialogs</packagereq>
+      <packagereq>mate-file-archiver</packagereq>
       <packagereq>mate-keyring</packagereq>
       <packagereq>mate-keyring-pam</packagereq>
       <packagereq>mate-menus</packagereq>
@@ -4220,8 +4218,11 @@
       <packagereq>mate-image-viewer</packagereq>
       <packagereq>mate-file-archiver</packagereq>
       <packagereq>mate-file-manager</packagereq>
+      <packagereq>mate-file-manager-image-converter</packagereq>
+      <packagereq>mate-file-manager-sendto</packagereq>
       <packagereq>mate-file-manager-open-terminal</packagereq>
       <packagereq>mate-media</packagereq>
+      <packagereq>mate-menu-editor</packagereq>
       <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-notification-daemon</packagereq>
       <packagereq>mate-panel</packagereq>
@@ -4236,7 +4237,6 @@
       <packagereq>mate-text-editor</packagereq>
       <packagereq>mate-themes</packagereq>
       <packagereq>mate-utils</packagereq>
-      <packagereq>mate-vfs</packagereq>
       <packagereq>mate-window-manager</packagereq>
       <packagereq>NetworkManager</packagereq>
       <packagereq>network-manager-applet</packagereq>
@@ -4267,6 +4267,7 @@
       <packagereq>gvfs-afc</packagereq>
       <packagereq>gvfs-mtp</packagereq>
       <packagereq>gtk2-engines</packagereq>
+      <packagereq>hexchat</packagereq>
       <packagereq>imsettings</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>mousetweaks</packagereq>
@@ -4279,8 +4280,6 @@
       <packagereq>transmission-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
       <packagereq>vinagre</packagereq>
-      <packagereq>whaawmp</packagereq>
-      <packagereq>xterm</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq>yumex</packagereq>
     </packagelist>
