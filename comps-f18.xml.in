@@ -4258,20 +4258,16 @@
       <packagereq>abrt-desktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>ConsoleKit-x11</packagereq>
-      <packagereq>libmate</packagereq>
-      <packagereq>libmatecomponent</packagereq>
-      <packagereq>libmatecanvas</packagereq>
-      <packagereq>libmatecomponentui</packagereq>
       <packagereq>libmatekbd</packagereq>
       <packagereq>libmatekeyring</packagereq>
       <packagereq>libmatenotify</packagereq>
-      <packagereq>libmateui</packagereq>
       <packagereq>libmateweather</packagereq>
       <packagereq>libmatewnck</packagereq>
+      <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
+      <packagereq>mate-bluetooth</packagereq>
       <packagereq>mate-calc</packagereq>
       <packagereq>mate-conf</packagereq>
-      <packagereq>mate-conf-editor</packagereq>
       <packagereq>mate-corba</packagereq>
       <packagereq>mate-control-center</packagereq>
       <packagereq>mate-desktop</packagereq>
@@ -4279,13 +4275,15 @@
       <packagereq>mate-keyring</packagereq>
       <packagereq>mate-keyring-pam</packagereq>
       <packagereq>mate-menus</packagereq>
-      <packagereq>mate-mime-data</packagereq>
       <packagereq>mate-icon-theme</packagereq>
       <packagereq>mate-image-viewer</packagereq>
       <packagereq>mate-file-archiver</packagereq>
       <packagereq>mate-file-manager</packagereq>
       <packagereq>mate-file-manager-open-terminal</packagereq>
+      <packagereq>mate-file-manager-image-converter</packagereq>
+      <packagereq>mate-file-manager-sendto</packagereq>
       <packagereq>mate-media</packagereq>
+      <packagereq>mate-menu-editor</packagereq>
       <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-notification-daemon</packagereq>
       <packagereq>mate-panel</packagereq>
@@ -4300,7 +4298,6 @@
       <packagereq>mate-text-editor</packagereq>
       <packagereq>mate-themes</packagereq>
       <packagereq>mate-utils</packagereq>
-      <packagereq>mate-vfs</packagereq>
       <packagereq>mate-window-manager</packagereq>
       <packagereq>NetworkManager</packagereq>
       <packagereq>network-manager-applet</packagereq>
@@ -4323,6 +4320,7 @@
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>geany</packagereq>
+      <packagereq>giggle</packagereq>
       <packagereq>gnome-theme-curvylooks</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>gvfs-smb</packagereq>
