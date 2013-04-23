@@ -142,7 +142,6 @@
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>orca</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
-      <packagereq>PackageKit-gtk-module</packagereq>
       <packagereq>PackageKit-gtk3-module</packagereq>
       <packagereq>policycoreutils-restorecond</packagereq>
       <packagereq>polkit-js-engine</packagereq>
@@ -705,7 +704,7 @@
       <packagereq>brasero</packagereq>
       <packagereq>totem</packagereq>
       <packagereq>totem-mozplugin</packagereq>
-      <packagereq>gcalctool</packagereq>
+      <packagereq>gnome-calculator</packagereq>
       <packagereq>gdm</packagereq>
       <packagereq>gedit</packagereq>
       <packagereq>initial-setup</packagereq>
@@ -829,7 +828,7 @@
       <packagereq>php-imap</packagereq>
       <packagereq>php-mbstring</packagereq>
       <packagereq>php-mcrypt</packagereq>
-      <packagereq>php-mysql</packagereq>
+      <packagereq>php-mysqlnd</packagereq>
       <packagereq>php-pdo</packagereq>
       <packagereq>php-pear</packagereq>
       <packagereq>php-pecl-apc</packagereq>
@@ -874,11 +873,6 @@
       <packagereq>ruby</packagereq>
       <packagereq>ruby-devel</packagereq>
       <packagereq>rubygems</packagereq>
-      <!-- <packagereq>ruby-js</packagereq> -->
-      <!-- <packagereq>ruby-js-devel</packagereq> -->
-      <!-- <packagereq>ruby-libyaml</packagereq> -->
-      <!-- <packagereq>ruby-libyaml-devel</packagereq> -->
-      <!-- <packagereq>ruby-mod_passenger</packagereq> -->
       <packagereq>rubygem-actionmailer</packagereq>
       <packagereq>rubygem-actionpack</packagereq>
       <packagereq>rubygem-activemodel</packagereq>
@@ -906,12 +900,12 @@
       <packagereq>rubygem-mail</packagereq>
       <packagereq>rubygem-mime-types</packagereq>
       <packagereq>rubygem-minitest</packagereq>
-      <!-- <packagereq>rubygem-mongo</packagereq> -->
+      <packagereq>rubygem-mongo</packagereq>
       <packagereq>rubygem-multi_json</packagereq>
-      <!-- <packagereq>rubygem-passenger</packagereq> -->
-      <!-- <packagereq>rubygem-passenger-devel</packagereq> -->
-      <!-- <packagereq>rubygem-passenger-native</packagereq> -->
-      <!-- <packagereq>rubygem-passenger-native-libs</packagereq> -->
+      <packagereq>rubygem-passenger</packagereq>
+      <packagereq>rubygem-passenger-devel</packagereq>
+      <packagereq>rubygem-passenger-native</packagereq>
+      <packagereq>rubygem-passenger-native-libs</packagereq>
       <packagereq>rubygem-net-http-persistent</packagereq>
       <packagereq>rubygem-polyglot</packagereq>
       <packagereq>rubygem-rack</packagereq>
@@ -940,7 +934,6 @@
       <packagereq>ruby-irb</packagereq>
       <packagereq>ruby-libs</packagereq>
       <packagereq>sqlite-devel</packagereq>
-      <!-- <packagereq>ruby-runtime</packagereq> -->
     </packagelist>
   </group>
   <group>
@@ -1121,8 +1114,8 @@
       <packagereq type="default">docbook5-style-xsl</packagereq>
       <packagereq type="default">linuxdoc-tools</packagereq>
       <packagereq type="default">texlive</packagereq>
-      <packagereq type="default">tex-cm-lgc</packagereq>
-      <packagereq type="default">tex-kerkis</packagereq>
+      <packagereq type="default">texlive-cm-lgc</packagereq>
+      <packagereq type="default">texlive-kerkis</packagereq>
       <packagereq type="default">tex-fonts-hebrew</packagereq>
       <packagereq type="default">xhtml1-dtds</packagereq>
       <packagereq type="default">xmlto</packagereq>
@@ -1144,7 +1137,7 @@
       <packagereq type="optional">python-manuel</packagereq>
       <packagereq type="optional">scribus</packagereq>
       <packagereq type="optional">tex-zfuzz</packagereq>
-      <packagereq type="optional">texlive-texmf-latex</packagereq>
+      <packagereq type="optional">texlive-latex</packagereq>
       <packagereq type="optional">txt2rss</packagereq>
       <packagereq type="optional">w3c-markup-validator</packagereq>
       <packagereq type="optional">texlive-xdvi</packagereq>
@@ -1708,7 +1701,7 @@
       <packagereq type="optional">darcs</packagereq>
       <packagereq type="optional">dejagnu</packagereq>
       <packagereq type="optional">expect</packagereq>
-      <packagereq type="optional">gambas2-ide</packagereq>
+      <packagereq type="optional">gambas3-ide</packagereq>
       <packagereq type="optional">giggle</packagereq>
       <packagereq type="optional">git-annex</packagereq>
       <packagereq type="optional">git2cl</packagereq>
@@ -2208,7 +2201,6 @@
       <packagereq type="optional">ginac</packagereq>
       <packagereq type="optional">glimmer</packagereq>
       <packagereq type="optional">GMT</packagereq>
-      <packagereq type="optional">GMT-coastlines-all</packagereq>
       <packagereq type="optional">GMT-coastlines-full</packagereq>
       <packagereq type="optional">GMT-coastlines-high</packagereq>
       <packagereq type="optional">GMT-doc</packagereq>
@@ -2250,7 +2242,6 @@
       <packagereq type="optional">openbabel</packagereq>
       <packagereq type="optional">opencv</packagereq>
       <packagereq type="optional">paraview</packagereq>
-      <packagereq type="optional">perl-bioperl</packagereq>
       <packagereq type="optional">picosat</packagereq>
       <packagereq type="optional">picosat-devel</packagereq>
       <packagereq type="optional">plotutils</packagereq>
@@ -2399,7 +2390,6 @@
       <packagereq type="optional">qgit</packagereq>
       <packagereq type="optional">quilt</packagereq>
       <packagereq type="optional">scribus</packagereq>
-      <packagereq type="optional">scribus-doc</packagereq>
       <packagereq type="optional">subversion</packagereq>
       <packagereq type="optional">woff</packagereq>
       <packagereq type="optional">woffTools</packagereq>
@@ -2461,7 +2451,6 @@
       <packagereq type="optional">apa-new-athena-unicode-fonts</packagereq>
       <packagereq type="optional">apanov-edrip-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
-      <packagereq type="optional">aplus-fsf-KAPL-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-dotum-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-gulim-fonts</packagereq>
@@ -3253,7 +3242,6 @@
       <packagereq type="optional">sylpheed</packagereq>
       <packagereq type="optional">thunderbird</packagereq>
       <packagereq type="optional">transmission-qt</packagereq>
-      <packagereq type="optional">twinkle</packagereq>
       <packagereq type="optional">uget</packagereq>
       <packagereq type="optional">valknut</packagereq>
       <packagereq type="optional">x3270-x11</packagereq>
@@ -3424,10 +3412,6 @@
       <packagereq type="default">ql2100-firmware</packagereq>
       <packagereq type="default">ql2200-firmware</packagereq>
       <packagereq type="default">ql23xx-firmware</packagereq>
-      <packagereq type="default">ql2400-firmware</packagereq>
-      <packagereq type="default">ql2500-firmware</packagereq>
-      <packagereq type="default">rt61pci-firmware</packagereq>
-      <packagereq type="default">rt73usb-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="default">zd1211-firmware</packagereq>
       <packagereq type="optional">acpi</packagereq>
@@ -3449,7 +3433,6 @@
       <packagereq type="optional">opensc</packagereq>
       <packagereq type="optional">pcsc-lite</packagereq>
       <packagereq type="optional">pcsc-lite-ccid</packagereq>
-      <packagereq type="optional">s3switch</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3565,7 +3548,6 @@
       <packagereq type="optional">ibus-mozc</packagereq>
       <packagereq type="optional">ibus-sayura</packagereq>
       <packagereq type="optional">ibus-skk</packagereq>
-      <packagereq type="optional">ibus-sunpinyin</packagereq>
       <packagereq type="optional">ibus-table</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
       <packagereq type="optional">ibus-table-cyrillic</packagereq>
@@ -3583,7 +3565,6 @@
       <packagereq type="optional">scim-gtk</packagereq>
       <packagereq type="optional">scim-hangul</packagereq>
       <packagereq type="optional">scim-m17n</packagereq>
-      <packagereq type="optional">scim-mozc</packagereq>
       <packagereq type="optional">scim-pinyin</packagereq>
       <packagereq type="optional">scim-rawcode</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
@@ -3594,13 +3575,12 @@
       <packagereq type="optional">uim</packagereq>
       <packagereq type="optional">uim-anthy</packagereq>
       <packagereq type="optional">uim-canna</packagereq>
-      <packagereq type="optional">uim-gnome</packagereq>
       <packagereq type="optional">uim-gtk2</packagereq>
+      <packagereq type="optional">uim-gtk3</packagereq>
       <packagereq type="optional">uim-m17n</packagereq>
       <packagereq type="optional">uim-qt3</packagereq>
       <packagereq type="optional">uim-skk</packagereq>
       <packagereq type="optional">WritRecogn</packagereq>
-      <packagereq type="optional">xsunpinyin</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3650,7 +3630,6 @@
       <packagereq type="optional">sazanami-gothic-fonts</packagereq>
       <packagereq type="optional">sazanami-mincho-fonts</packagereq>
       <packagereq type="optional">scim-anthy</packagereq>
-      <packagereq type="optional">scim-mozc</packagereq>
       <packagereq type="optional">stardict-dic-ja</packagereq>
       <packagereq type="optional">uim-canna</packagereq>
       <packagereq type="optional">uim-skk</packagereq>
@@ -3810,12 +3789,11 @@
       <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="optional">audiocd-kio-devel</packagereq>
       <packagereq type="optional">cantor-devel</packagereq>
-      <packagereq type="optional">gambas2-runtime</packagereq>
+      <packagereq type="optional">gambas3-runtime</packagereq>
       <packagereq type="optional">kate-devel</packagereq>
       <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kde-baseapps-devel</packagereq>
       <packagereq type="optional">kdebindings-devel</packagereq>
-      <packagereq type="optional">kdegames-devel</packagereq>
       <packagereq type="optional">kdegraphics-devel</packagereq>
       <packagereq type="optional">kdelibs3-devel</packagereq>
       <packagereq type="optional">kdenetwork-devel</packagereq>
@@ -3827,6 +3805,7 @@
       <packagereq type="optional">ktp-common-internals-devel</packagereq>
       <packagereq type="optional">libkcddb-devel</packagereq>
       <packagereq type="optional">libkcompactdisc-devel</packagereq>
+      <packagereq type="optional">libkdegames-devel</packagereq>
       <packagereq type="optional">libkdeedu-devel</packagereq>
       <packagereq type="optional">marble-devel</packagereq>
       <packagereq type="optional">PyKDE-devel</packagereq>
@@ -4109,7 +4088,6 @@
       <packagereq type="optional">imp</packagereq>
       <packagereq type="optional">mailman</packagereq>
       <packagereq type="optional">milter-regex</packagereq>
-      <packagereq type="optional">mlmmj</packagereq>
       <packagereq type="optional">opendkim</packagereq>
       <packagereq type="optional">postfix</packagereq>
       <packagereq type="optional">pyzor</packagereq>
@@ -4457,7 +4435,6 @@
       <packagereq type="optional">tigervnc-server</packagereq>
       <packagereq type="optional">torque-server</packagereq>
       <packagereq type="optional">ucarp</packagereq>
-      <packagereq type="optional">ushare</packagereq>
       <packagereq type="optional">vnc-reflector</packagereq>
       <packagereq type="optional">vtun</packagereq>
       <packagereq type="optional">xl2tpd</packagereq>
@@ -4867,7 +4844,6 @@
       <packagereq type="default">dsniff</packagereq>
       <packagereq type="default">etherape</packagereq>
       <packagereq type="default">ettercap</packagereq>
-      <packagereq type="default">ettercap-gtk</packagereq>
       <packagereq type="default">examiner</packagereq>
       <packagereq type="default">firewalk</packagereq>
       <packagereq type="default">firstaidkit-gui</packagereq>
@@ -4990,7 +4966,6 @@
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-libpinyin</packagereq>
       <packagereq type="default">wqy-zenhei-fonts</packagereq>
       <packagereq type="optional">fcitx</packagereq>
-      <packagereq type="optional">ibus-sunpinyin</packagereq>
       <packagereq type="optional">ibus-table-chinese-erbi</packagereq>
       <packagereq type="optional">ibus-table-chinese-wubi-haifeng</packagereq>
       <packagereq type="optional">ibus-table-chinese-wubi-jidian</packagereq>
@@ -5005,7 +4980,6 @@
       <packagereq type="optional">wqy-bitmap-fonts</packagereq>
       <packagereq type="optional">wqy-microhei-fonts</packagereq>
       <packagereq type="optional">wqy-unibit-fonts</packagereq>
-      <packagereq type="optional">xsunpinyin</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5159,15 +5133,12 @@
       <packagereq type="optional">vdr-femon</packagereq>
       <packagereq type="optional">vdr-osdteletext</packagereq>
       <packagereq type="optional">vdr-remote</packagereq>
-      <packagereq type="optional">vdr-skins</packagereq>
       <packagereq type="optional">vdr-skinsoppalusikka</packagereq>
       <packagereq type="optional">vdr-streamdev-client</packagereq>
       <packagereq type="optional">vdr-streamdev-server</packagereq>
       <packagereq type="optional">vdr-sudoku</packagereq>
-      <packagereq type="optional">vdr-text2skin</packagereq>
       <packagereq type="optional">vdr-ttxtsubs</packagereq>
       <packagereq type="optional">vdr-tvonscreen</packagereq>
-      <packagereq type="optional">vdr-wapd</packagereq>
       <packagereq type="optional">vdradmin-am</packagereq>
       <packagereq type="optional">volumeicon</packagereq>
       <packagereq type="optional">vorbis-tools</packagereq>
@@ -5333,7 +5304,6 @@
       <packagereq type="optional">etherbat</packagereq>
       <packagereq type="optional">ettercap</packagereq>
       <packagereq type="optional">fatsort</packagereq>
-      <packagereq type="optional">fcron</packagereq>
       <packagereq type="optional">fdupes</packagereq>
       <packagereq type="optional">fedora-package-config-apt</packagereq>
       <packagereq type="optional">fedora-package-config-smart</packagereq>
@@ -5692,7 +5662,6 @@
     <packagelist>
       <packagereq type="mandatory">httpd</packagereq>
       <packagereq type="default">crypto-utils</packagereq>
-      <packagereq type="default">distcache</packagereq>
       <packagereq type="default">httpd-manual</packagereq>
       <packagereq type="default">mod_perl</packagereq>
       <packagereq type="default">mod_ssl</packagereq>
@@ -5769,7 +5738,7 @@
       <packagereq type="optional">wmx</packagereq>
       <packagereq type="optional">xcompmgr</packagereq>
       <packagereq type="optional">xmonad</packagereq>
-      <packagereq type="optional">xmonad-gnome</packagereq>
+      <packagereq type="optional">xmonad-mate</packagereq>
     </packagelist>
   </group>
   <group>
