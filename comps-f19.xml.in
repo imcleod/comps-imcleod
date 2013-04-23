@@ -89,7 +89,6 @@
       <packagereq>evolution</packagereq>
       <packagereq>evolution-ews</packagereq>
       <packagereq>evolution-help</packagereq>
-      <packagereq>evolution-NetworkManager</packagereq>
       <packagereq>file-roller</packagereq>
       <packagereq>file-roller-nautilus</packagereq>
       <packagereq>firewall-config</packagereq>
@@ -1000,7 +999,7 @@
       <packagereq type="optional">cacti</packagereq>
       <packagereq type="optional">dbench</packagereq>
       <packagereq type="optional">etherape</packagereq>
-      <packagereq type="optional">ettercap-gtk</packagereq>
+      <packagereq type="optional">ettercap</packagereq>
       <packagereq type="optional">galternatives</packagereq>
       <packagereq type="optional">gparted</packagereq>
       <packagereq type="optional">gpointing-device-settings</packagereq>
@@ -1148,7 +1147,7 @@
       <packagereq type="optional">texlive-texmf-latex</packagereq>
       <packagereq type="optional">txt2rss</packagereq>
       <packagereq type="optional">w3c-markup-validator</packagereq>
-      <packagereq type="optional">xdvik</packagereq>
+      <packagereq type="optional">texlive-xdvi</packagereq>
       <packagereq type="optional">xmlcopyeditor</packagereq>
     </packagelist>
   </group>
@@ -1378,7 +1377,6 @@
       <packagereq type="optional">openstack-glance</packagereq>
       <packagereq type="optional">openstack-nova</packagereq>
       <packagereq type="optional">openstack-swift</packagereq>
-      <packagereq type="optional">pacemaker-cloud</packagereq>
       <packagereq type="optional">python-novaclient</packagereq>
       <packagereq type="optional">rubygem-boxgrinder-core</packagereq>
       <packagereq type="optional">sheepdog</packagereq>
@@ -1872,12 +1870,10 @@
       <packagereq type="default">pki-console</packagereq>
       <packagereq type="default">pki-kra</packagereq>
       <packagereq type="default">pki-ocsp</packagereq>
-      <packagereq type="optional">pki-common-javadoc</packagereq>
-      <packagereq type="optional">pki-java-tools-javadoc</packagereq>
+      <packagereq type="optional">pki-javadoc</packagereq>
       <packagereq type="optional">pki-ra</packagereq>
       <packagereq type="optional">pki-tks</packagereq>
       <packagereq type="optional">pki-tps</packagereq>
-      <packagereq type="optional">pki-util-javadoc</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1889,7 +1885,6 @@
     <packagelist>
       <packagereq type="mandatory">eclipse-cdt</packagereq>
       <packagereq type="mandatory">eclipse-jdt</packagereq>
-      <packagereq type="default">eclipse-callgraph</packagereq>
       <packagereq type="default">eclipse-changelog</packagereq>
       <packagereq type="default">eclipse-collabnet-merge</packagereq>
       <packagereq type="default">eclipse-dtp</packagereq>
@@ -2380,7 +2375,7 @@
       <packagereq type="default">gnome-specimen</packagereq>
       <packagereq type="default">gucharmap</packagereq>
       <packagereq type="default">inkscape</packagereq>
-      <packagereq type="default">lcdf-typetools</packagereq>
+      <packagereq type="default">texlive-lcdftypetools</packagereq>
       <packagereq type="default">perl-Font-TTF</packagereq>
       <packagereq type="default">poppler-utils</packagereq>
       <packagereq type="default">xgridfit-doc</packagereq>
@@ -3154,7 +3149,6 @@
       <packagereq type="optional">glibmm24-devel</packagereq>
       <packagereq type="optional">gnome-desktop-devel</packagereq>
       <packagereq type="optional">gnome-panel-devel</packagereq>
-      <packagereq type="optional">gnome-python2-gda-devel</packagereq>
       <packagereq type="optional">gnome-valgrind-session</packagereq>
       <packagereq type="optional">gnome-vfs2-devel</packagereq>
       <packagereq type="optional">gob2</packagereq>
@@ -4056,7 +4050,6 @@
     <packagelist>
       <packagereq type="default">compat-libstdc++-296</packagereq>
       <packagereq type="default">compat-libstdc++-33</packagereq>
-      <packagereq type="optional">compat-db</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4606,7 +4599,7 @@
       <packagereq type="optional">vym</packagereq>
       <packagereq type="optional">wyrd</packagereq>
       <packagereq type="optional">xchm</packagereq>
-      <packagereq type="optional">xdvik</packagereq>
+      <packagereq type="optional">texlive-xdvi</packagereq>
       <packagereq type="optional">xfbib</packagereq>
       <packagereq type="optional">xournal</packagereq>
       <packagereq type="optional">Zim</packagereq>
@@ -5466,7 +5459,6 @@
       <packagereq type="optional">unison227</packagereq>
       <packagereq type="optional">upx</packagereq>
       <packagereq type="optional">uucp</packagereq>
-      <packagereq type="optional">vbetool</packagereq>
       <packagereq type="optional">vnstat</packagereq>
       <packagereq type="optional">wine</packagereq>
       <packagereq type="optional">wireshark-gnome</packagereq>
