@@ -4163,7 +4163,7 @@
       <packagereq>lightdm</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>initial-setup</packagereq>
-      <packagereq>abrt-desktop</packagereq>
+      <packagereq type="optional">abrt-desktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>libmatekbd</packagereq>
       <packagereq>libmatekeyring</packagereq>
@@ -4211,12 +4211,9 @@
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
-      <packagereq>nm-connection-editor</packagereq>
-      <packagereq>adwaita-gtk3-theme</packagereq>
-      <packagereq>adwaita-gtk2-theme</packagereq>
-      <packagereq>avahi</packagereq>
+      <packagereq type="optional">nm-connection-editor</packagereq>
       <packagereq>brasero</packagereq>
-      <packagereq>clearlooks-compact-gnome-theme</packagereq>
+      <packagereq type="optional">clearlooks-compact-gnome-theme</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>dconf-editor</packagereq>
       <packagereq>desktop-backgrounds-basic</packagereq>
@@ -4224,7 +4221,7 @@
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>geany</packagereq>
-      <packagereq>gnome-theme-curvylooks</packagereq>
+      <packagereq type="optional">gnome-theme-curvylooks</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>gvfs-smb</packagereq>
       <packagereq>gvfs-fuse</packagereq>
@@ -4233,17 +4230,15 @@
       <packagereq>gtk2-engines</packagereq>
       <packagereq>hexchat</packagereq>
       <packagereq>imsettings</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
-      <packagereq>nimbus-theme-gnome</packagereq>
-      <packagereq>pavucontrol</packagereq>
+      <packagereq type="optional">nimbus-theme-gnome</packagereq>
+      <packagereq type="mandatory">>pavucontrol</packagereq>
       <packagereq>pidgin</packagereq>
-      <packagereq>shotwell</packagereq>
       <packagereq>simple-scan</packagereq>
-      <packagereq>thunderbird</packagereq>
+      <packagereq type="optional">thunderbird</packagereq>
       <packagereq>tigervnc</packagereq>
       <packagereq>transmission-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
-      <packagereq>vinagre</packagereq>
+      <packagereq type="optional">vinagre</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq>yumex</packagereq>
     </packagelist>
