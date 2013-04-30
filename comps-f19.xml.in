@@ -4195,11 +4195,11 @@
       <packagereq>mate-session-manager</packagereq>
       <packagereq>mate-settings-daemon</packagereq>
       <packagereq>mate-system-log</packagereq>
-      <packagereq "type=optional">mate-system-monitor</packagereq>
+      <packagereq type="optional">mate-system-monitor</packagereq>
       <packagereq>mate-terminal</packagereq>
       <packagereq>mate-text-editor</packagereq>
       <packagereq>mate-themes</packagereq>
-      <packagereq "type=optional">mate-utils</packagereq>
+      <packagereq type="optional">mate-utils</packagereq>
       <packagereq>mate-window-manager</packagereq>
       <packagereq>NetworkManager</packagereq>
       <packagereq>network-manager-applet</packagereq>
@@ -4208,11 +4208,11 @@
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
-      <packagereq "type=optional">brasero</packagereq>
+      <packagereq type="optional">brasero</packagereq>
       <packagereq>dconf</packagereq>
-      <packagereq "type=optional">dconf-editor</packagereq>
-      <packagereq "type=optional">desktop-backgrounds-basic</packagereq>
-      <packagereq "type=optional">fedora-icon-theme</packagereq>
+      <packagereq type="optional">dconf-editor</packagereq>
+      <packagereq type="optional">desktop-backgrounds-basic</packagereq>
+      <packagereq type="optional">fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>geany</packagereq>
@@ -4226,8 +4226,8 @@
       <packagereq>imsettings</packagereq>
       <packagereq>pavucontrol</packagereq>
       <packagereq>pidgin</packagereq>
-      <packagereq "type=optional">simple-scan</packagereq>
-      <packagereq "type=optional">thunderbird</packagereq>
+      <packagereq type="optional">simple-scan</packagereq>
+      <packagereq type="optional">thunderbird</packagereq>
       <packagereq>tigervnc</packagereq>
       <packagereq>transmission-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
