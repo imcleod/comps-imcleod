@@ -4170,7 +4170,7 @@
       <packagereq>libmatewnck</packagereq>
       <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
-      <packagereq>mate-bluetooth</packagereq>
+      <packagereq type="optional">mate-bluetooth</packagereq>
       <packagereq>mate-calc</packagereq>
       <packagereq>mate-control-center</packagereq>
       <packagereq>mate-desktop</packagereq>
@@ -4186,7 +4186,7 @@
       <packagereq>mate-keyring</packagereq>
       <packagereq>mate-keyring-pam</packagereq>
       <packagereq>mate-media</packagereq>
-      <packagereq>mate-menu-editor</packagereq>
+      <packagereq type="optional">mate-menu-editor</packagereq>
       <packagereq>mate-menus</packagereq>
       <packagereq>mate-notification-daemon</packagereq>
       <packagereq>mate-panel</packagereq>
@@ -4200,7 +4200,7 @@
       <packagereq>mate-terminal</packagereq>
       <packagereq>mate-text-editor</packagereq>
       <packagereq>mate-themes</packagereq>
-      <packagereq>mate-utils</packagereq>
+      <packagereq "type=optional">mate-utils</packagereq>
       <packagereq>mate-window-manager</packagereq>
       <packagereq>NetworkManager</packagereq>
       <packagereq>network-manager-applet</packagereq>
@@ -4213,7 +4213,7 @@
       <packagereq>dconf</packagereq>
       <packagereq>dconf-editor</packagereq>
       <packagereq>desktop-backgrounds-basic</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq "type=optional">fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>geany</packagereq>
@@ -4227,8 +4227,8 @@
       <packagereq>imsettings</packagereq>
       <packagereq>pavucontrol</packagereq>
       <packagereq>pidgin</packagereq>
-      <packagereq>simple-scan</packagereq>
-      <packagereq>thunderbird</packagereq>
+      <packagereq "type=optional">simple-scan</packagereq>
+      <packagereq "type=optional">thunderbird</packagereq>
       <packagereq>tigervnc</packagereq>
       <packagereq>transmission-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
