@@ -1155,7 +1155,6 @@
       <packagereq>acl</packagereq>
       <packagereq>at</packagereq>
       <packagereq>attr</packagereq>
-      <packagereq>authconfig</packagereq>
       <packagereq>bc</packagereq>
       <packagereq>bind-utils</packagereq>
       <packagereq>bzip2</packagereq>
@@ -1165,7 +1164,6 @@
       <packagereq>dbus</packagereq>
       <packagereq>ed</packagereq>
       <packagereq>file</packagereq>
-      <packagereq>firewalld</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>logrotate</packagereq>
       <packagereq>lsof</packagereq>
@@ -1422,6 +1420,8 @@
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="mandatory">yum</packagereq>
+      <packagereq type="default">authconfig</packagereq>
+      <packagereq type="default">firewalld</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">ppc64-utils</packagereq>
       <packagereq type="default">sendmail</packagereq>
