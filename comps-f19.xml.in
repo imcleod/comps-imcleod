@@ -4176,7 +4176,6 @@
       <packagereq>mate-desktop</packagereq>
       <packagereq>mate-dialogs</packagereq>
       <packagereq>mate-file-archiver</packagereq>
-      <packagereq>mate-file-archiver</packagereq>
       <packagereq>mate-file-manager</packagereq>
       <packagereq>mate-file-manager-image-converter</packagereq>
       <packagereq>mate-file-manager-sendto</packagereq>
@@ -4196,7 +4195,7 @@
       <packagereq>mate-session-manager</packagereq>
       <packagereq>mate-settings-daemon</packagereq>
       <packagereq>mate-system-log</packagereq>
-      <packagereq>mate-system-monitor</packagereq>
+      <packagereq "type=optional">mate-system-monitor</packagereq>
       <packagereq>mate-terminal</packagereq>
       <packagereq>mate-text-editor</packagereq>
       <packagereq>mate-themes</packagereq>
@@ -4209,10 +4208,10 @@
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
-      <packagereq>brasero</packagereq>
+      <packagereq "type=optional">brasero</packagereq>
       <packagereq>dconf</packagereq>
-      <packagereq>dconf-editor</packagereq>
-      <packagereq>desktop-backgrounds-basic</packagereq>
+      <packagereq "type=optional">dconf-editor</packagereq>
+      <packagereq "type=optional">desktop-backgrounds-basic</packagereq>
       <packagereq "type=optional">fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
