@@ -3542,6 +3542,7 @@
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">ibus-anthy</packagereq>
+      <packagereq type="optional">ibus-bogo</packagereq>
       <packagereq type="optional">ibus-fbterm</packagereq>
       <packagereq type="optional">ibus-gucharmap</packagereq>
       <packagereq type="optional">ibus-handwrite</packagereq>
@@ -5616,6 +5617,17 @@
       <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
       <packagereq type="optional">paktype-ajrak-fonts</packagereq>
       <packagereq type="optional">paktype-naskh-basic-fonts</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>vietnamese-support</id>
+    <_name>Vietnamese Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>vi</langonly>
+    <packagelist>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-bogo</packagereq>
     </packagelist>
   </group>
   <group>
