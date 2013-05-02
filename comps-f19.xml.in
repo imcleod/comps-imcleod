@@ -700,7 +700,7 @@
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
       <packagereq>firefox</packagereq>
-      <packagereq>thunderbird</packagereq>
+      <packagereq>evolution</packagereq>
       <packagereq>brasero</packagereq>
       <packagereq>totem</packagereq>
       <packagereq>totem-mozplugin</packagereq>
@@ -4227,9 +4227,9 @@
       <packagereq>pavucontrol</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq type="optional">simple-scan</packagereq>
-      <packagereq type="optional">thunderbird</packagereq>
-      <packagereq>tigervnc</packagereq>
-      <packagereq>transmission-gtk</packagereq>
+      <packagereq>evolution</packagereq>
+      <packagereq type="optional">tigervnc</packagereq>
+      <packagereq type="optional">transmission-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq>yumex</packagereq>
@@ -5967,7 +5967,6 @@
       <groupid>base-x</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
-      <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
