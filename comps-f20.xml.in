@@ -1612,17 +1612,9 @@
       <packagereq type="mandatory">zlib-devel</packagereq>
       <packagereq type="default">binutils-devel</packagereq>
       <packagereq type="default">boost-devel</packagereq>
-      <packagereq type="default">coolkey-devel</packagereq>
       <packagereq type="default">cyrus-sasl-devel</packagereq>
       <packagereq type="default">dbus-devel</packagereq>
-      <packagereq type="default">expat-devel</packagereq>
-      <packagereq type="default">gdbm-devel</packagereq>
-      <packagereq type="default">geoclue-devel</packagereq>
       <packagereq type="default">gmp-devel</packagereq>
-      <packagereq type="default">gpm-devel</packagereq>
-      <packagereq type="default">gssdp-devel</packagereq>
-      <packagereq type="default">gupnp-devel</packagereq>
-      <packagereq type="default">gypsy-devel</packagereq>
       <packagereq type="default">hesiod-devel</packagereq>
       <packagereq type="default">krb5-devel</packagereq>
       <packagereq type="default">libacl-devel</packagereq>
@@ -1636,7 +1628,6 @@
       <packagereq type="default">libvorbis-devel</packagereq>
       <packagereq type="default">libxml2-devel</packagereq>
       <packagereq type="default">lockdev-devel</packagereq>
-      <packagereq type="default">newt-devel</packagereq>
       <packagereq type="default">openldap-devel</packagereq>
       <packagereq type="default">openssl-devel</packagereq>
       <packagereq type="default">pciutils-devel</packagereq>
@@ -1647,16 +1638,25 @@
       <packagereq type="default">rpm-devel</packagereq>
       <packagereq type="default">slang-devel</packagereq>
       <packagereq type="optional">check-devel</packagereq>
+      <packagereq type="optional">coolkey-devel</packagereq>
       <packagereq type="optional">DSDP-devel</packagereq>
+      <packagereq type="optional">expat-devel</packagereq>
       <packagereq type="optional">ffcall</packagereq>
+      <packagereq type="optional">gdbm-devel</packagereq>
+      <packagereq type="optional">geoclue-devel</packagereq>
       <packagereq type="optional">givaro-devel</packagereq>
       <packagereq type="optional">gmp-ecm-devel</packagereq>
+      <packagereq type="optional">gpm-devel</packagereq>
+      <packagereq type="optional">gssdp-devel</packagereq>
+      <packagereq type="optional">gupnp-devel</packagereq>
+      <packagereq type="optional">gypsy-devel</packagereq>
       <packagereq type="optional">iml-devel</packagereq>
       <packagereq type="optional">libdwarf-devel</packagereq>
       <packagereq type="optional">libedit-devel</packagereq>
       <packagereq type="optional">libusbx-devel</packagereq>
       <packagereq type="optional">linbox-devel</packagereq>
       <packagereq type="optional">m4ri-devel</packagereq>
+      <packagereq type="optional">newt-devel</packagereq>
       <packagereq type="optional">poco-devel</packagereq>
       <packagereq type="optional">poco-doc</packagereq>
       <packagereq type="optional">python-ZODB3-devel</packagereq>
@@ -6074,8 +6074,6 @@
       <groupid>fedora-packager</groupid>
       <groupid>gnome-software-development</groupid>
       <groupid>kde-software-development</groupid>
-      <groupid>legacy-software-development</groupid>
-      <groupid>libreoffice-development</groupid>
       <groupid>x-software-development</groupid>
       <groupid>virtualization</groupid>
       <groupid>web-server</groupid>
@@ -6089,6 +6087,7 @@
       <groupid>rubyonrails</groupid>
       <groupid>mysql</groupid>
       <groupid>sql-server</groupid>
+      <groupid>legacy-software-development</groupid>
       <groupid>font-design</groupid>
       <groupid>design-suite</groupid>
       <groupid>haskell</groupid>
