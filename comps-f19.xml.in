@@ -167,20 +167,21 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>gnome-games-iagno</packagereq>
-      <packagereq>gnome-games-glchess</packagereq>
-      <packagereq>gnome-games-glines</packagereq>
-      <packagereq>gnome-games-gnect</packagereq>
-      <packagereq>gnome-games-gnibbles</packagereq>
-      <packagereq>gnome-games-gnomine</packagereq>
-      <packagereq>gnome-games-gnobots2</packagereq>
-      <packagereq>gnome-games-gnotravex</packagereq>
-      <packagereq>gnome-games-gnotski</packagereq>
-      <packagereq>gnome-games-gtali</packagereq>
-      <packagereq>gnome-games-lightsoff</packagereq>
-      <packagereq>gnome-games-mahjongg</packagereq>
-      <packagereq>gnome-games-quadrapassel</packagereq>
-      <packagereq>gnome-games-sudoku</packagereq>
+      <packagereq>five-or-more</packagereq>
+      <packagereq>four-in-a-row</packagereq>
+      <packagereq>gnome-chess</packagereq>
+      <packagereq>gnome-klotski</packagereq>
+      <packagereq>gnome-mahjongg</packagereq>
+      <packagereq>gnome-mines</packagereq>
+      <packagereq>gnome-nibbles</packagereq>
+      <packagereq>gnome-robots</packagereq>
+      <packagereq>gnome-sudoku</packagereq>
+      <packagereq>gnome-tetravex</packagereq>
+      <packagereq>iagno</packagereq>
+      <packagereq>lightsoff</packagereq>
+      <packagereq>quadrapassel</packagereq>
+      <packagereq>swell-foop</packagereq>
+      <packagereq>tali</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2862,6 +2863,7 @@
       <packagereq type="optional">fbg2</packagereq>
       <packagereq type="optional">fillets-ng</packagereq>
       <packagereq type="optional">findthatword</packagereq>
+      <packagereq type="optional">five-or-more</packagereq>
       <packagereq type="optional">flare</packagereq>
       <packagereq type="optional">flight-of-the-amazon-queen</packagereq>
       <packagereq type="optional">flight-of-the-amazon-queen-cd</packagereq>
@@ -2869,6 +2871,7 @@
       <packagereq type="optional">flobopuyo</packagereq>
       <packagereq type="optional">foobillard</packagereq>
       <packagereq type="optional">fortune-mod</packagereq>
+      <packagereq type="optional">four-in-a-row</packagereq>
       <packagereq type="optional">freeciv</packagereq>
       <packagereq type="optional">freecol</packagereq>
       <packagereq type="optional">freedink</packagereq>
@@ -2885,23 +2888,15 @@
       <packagereq type="optional">gl-117</packagereq>
       <packagereq type="optional">glaxium</packagereq>
       <packagereq type="optional">glob2</packagereq>
-      <packagereq type="optional">gnome-games-extra-data</packagereq>
-      <packagereq type="optional">gnome-games-glchess</packagereq>
-      <packagereq type="optional">gnome-games-glines</packagereq>
-      <packagereq type="optional">gnome-games-gnect</packagereq>
-      <packagereq type="optional">gnome-games-gnibbles</packagereq>
-      <packagereq type="optional">gnome-games-gnobots2</packagereq>
-      <packagereq type="optional">gnome-games-gnomine</packagereq>
-      <packagereq type="optional">gnome-games-gnotravex</packagereq>
-      <packagereq type="optional">gnome-games-gnotski</packagereq>
-      <packagereq type="optional">gnome-games-gtali</packagereq>
-      <packagereq type="optional">gnome-games-iagno</packagereq>
-      <packagereq type="optional">gnome-games-lightsoff</packagereq>
-      <packagereq type="optional">gnome-games-mahjongg</packagereq>
-      <packagereq type="optional">gnome-games-quadrapassel</packagereq>
-      <packagereq type="optional">gnome-games-sudoku</packagereq>
-      <packagereq type="optional">gnome-games-swell-foop</packagereq>
+      <packagereq type="optional">gnome-chess</packagereq>
       <packagereq type="optional">gnome-hearts</packagereq>
+      <packagereq type="optional">gnome-klotski</packagereq>
+      <packagereq type="optional">gnome-mahjongg</packagereq>
+      <packagereq type="optional">gnome-mines</packagereq>
+      <packagereq type="optional">gnome-nibbles</packagereq>
+      <packagereq type="optional">gnome-robots</packagereq>
+      <packagereq type="optional">gnome-sudoku</packagereq>
+      <packagereq type="optional">gnome-tetravex</packagereq>
       <packagereq type="optional">gnubg</packagereq>
       <packagereq type="optional">gnubik</packagereq>
       <packagereq type="optional">gnuchess</packagereq>
@@ -2910,6 +2905,7 @@
       <packagereq type="optional">grhino</packagereq>
       <packagereq type="optional">gweled</packagereq>
       <packagereq type="optional">haxima</packagereq>
+      <packagereq type="optional">iagno</packagereq>
       <packagereq type="optional">joystick</packagereq>
       <packagereq type="optional">hedgewars</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
@@ -2923,6 +2919,7 @@
       <packagereq type="optional">koules</packagereq>
       <packagereq type="optional">lacewing</packagereq>
       <packagereq type="optional">lbrickbuster2</packagereq>
+      <packagereq type="optional">lightsoff</packagereq>
       <packagereq type="optional">lincity-ng</packagereq>
       <packagereq type="optional">liquidwar</packagereq>
       <packagereq type="optional">lmarbles</packagereq>
@@ -2980,6 +2977,7 @@
       <packagereq type="optional">PySolFC-music</packagereq>
       <packagereq type="optional">qascade</packagereq>
       <packagereq type="optional">qstars</packagereq>
+      <packagereq type="optional">quadrapassel</packagereq>
       <packagereq type="optional">quake3</packagereq>
       <packagereq type="optional">quake3-demo</packagereq>
       <packagereq type="optional">quarry</packagereq>
@@ -3011,6 +3009,8 @@
       <packagereq type="optional">sumwars</packagereq>
       <packagereq type="optional">supertux</packagereq>
       <packagereq type="optional">supertuxkart</packagereq>
+      <packagereq type="optional">swell-foop</packagereq>
+      <packagereq type="optional">tali</packagereq>
       <packagereq type="optional">taxipilot</packagereq>
       <packagereq type="optional">tecnoballz</packagereq>
       <packagereq type="optional">teeworlds</packagereq>
