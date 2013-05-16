@@ -1021,6 +1021,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>arm-boot-config</packagereq>
       <packagereq>authconfig</packagereq>
       <packagereq>btrfs-progs</packagereq>
       <packagereq>chkconfig</packagereq>
@@ -1049,9 +1050,13 @@
       <packagereq>system-config-firewall-base</packagereq>
       <packagereq>tboot</packagereq>
       <packagereq>uboot-beagle</packagereq>
+      <packagereq>uboot-beaglebone</packagereq>
       <packagereq>uboot-origen</packagereq>
       <packagereq>uboot-panda</packagereq>
+      <packagereq>uboot-smdkv310</packagereq>
       <packagereq>uboot-tools</packagereq>
+      <packagereq>uboot-wandboard_dl</packagereq>
+      <packagereq>uboot-wandboard_solo</packagereq>
       <packagereq>xfsprogs</packagereq>
       <packagereq>yaboot</packagereq>
     </packagelist>
