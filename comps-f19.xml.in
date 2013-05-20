@@ -30,7 +30,6 @@
       <packagereq>glx-utils</packagereq>
       <packagereq>mesa-dri-drivers</packagereq>
       <packagereq>plymouth-system-theme</packagereq>
-      <packagereq>spice-vdagent</packagereq>
       <packagereq>xorg-x11-utils</packagereq>
     </packagelist>
   </group>
@@ -5659,6 +5658,29 @@
     </packagelist>
   </group>
   <group>
+    <id>guest-agents</id>
+    <_name>Guest Agents</_name>
+    <_description>Agents used when running under a hypervisor.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>open-vm-tools</packagereq>
+      <packagereq>qemu-guest-agent</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>guest-desktop-agents</id>
+    <_name>Guest Desktop Agents</_name>
+    <_description>Agents used when running as a virtualized desktop.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>open-vm-tools-desktop</packagereq>
+      <packagereq>qemu-guest-agent</packagereq>
+      <packagereq>spice-vdagent</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>virtualization</id>
     <_name>Virtualization</_name>
     <_description>These packages provide a virtualization environment.</_description>
@@ -5905,6 +5927,7 @@
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
       <groupid>firefox</groupid>
+      <groupid>guest-desktop-agents</groupid>
       <groupid>gnome-desktop</groupid>
     </grouplist>
     <optionlist>
@@ -5929,6 +5952,7 @@
       <groupid>multimedia</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
       <groupid>kde-desktop</groupid>
     </grouplist>
     <optionlist>
@@ -5955,6 +5979,7 @@
       <groupid>multimedia</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
       <groupid>xfce-desktop</groupid>
       <groupid>xfce-apps</groupid>
       <groupid>xfce-media</groupid>
@@ -5980,6 +6005,7 @@
       <groupid>multimedia</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
       <groupid>lxde-desktop</groupid>
     </grouplist>
     <optionlist>
@@ -6004,6 +6030,7 @@
       <groupid>multimedia</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
       <groupid>cinnamon-desktop</groupid>
     </grouplist>
     <optionlist>
@@ -6025,6 +6052,7 @@
       <groupid>multimedia</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
       <groupid>mate-desktop</groupid>
     </grouplist>
     <optionlist>
@@ -6046,6 +6074,7 @@
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
       <groupid>hardware-support</groupid>
+      <groupid>guest-desktop-agents</groupid>
       <groupid>sugar-desktop</groupid>
     </grouplist>
     <optionlist>
@@ -6078,6 +6107,7 @@
       <groupid>gnome-software-development</groupid>
       <groupid>kde-software-development</groupid>
       <groupid>x-software-development</groupid>
+      <groupid>guest-desktop-agents</groupid>
       <groupid>virtualization</groupid>
       <groupid>web-server</groupid>
     </grouplist>
@@ -6125,6 +6155,7 @@
       <groupid>mysql</groupid>
       <groupid>sql-server</groupid>
       <groupid>tomcat</groupid>
+      <groupid>guest-agents</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -6151,6 +6182,7 @@
       <groupid>web-server</groupid>
       <groupid>load-balancer</groupid>
       <groupid>ha</groupid>
+      <groupid>guest-agents</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -6166,6 +6198,7 @@
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
       <groupid>multimedia</groupid>
+      <groupid>guest-desktop-agents</groupid>
       <groupid>basic-desktop</groupid>
     </grouplist>
     <optionlist>
@@ -6191,6 +6224,7 @@
     </grouplist>
     <optionlist>
       <groupid>standard</groupid>
+      <groupid>guest-agents</groupid>
     </optionlist>
   </environment>
   <category>
