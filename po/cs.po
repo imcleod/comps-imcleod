@@ -9,14 +9,14 @@
 # Jan Varta <jan.varta@atlas.cz>, 2011
 # Marcel Telka <marcel@telka.sk>, 2003, 2004
 # Milan Kerslager <milan@kerslager.cz>, 2009, 2010
-# Milan Kerslager <milan.kerslager@pslib.cz>, 2011
+# Milan Kerslager <milan.kerslager@pslib.cz>, 2011,2013
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-18 00:39-0500\n"
-"PO-Revision-Date: 2013-04-21 01:00+0000\n"
-"Last-Translator: zdenek <chmelarz@centrum.cz>\n"
+"PO-Revision-Date: 2013-05-14 17:21+0000\n"
+"Last-Translator: Milan Kerslager <milan.kerslager@pslib.cz>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/fedora/language/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -79,7 +79,7 @@ msgstr "Podpora asturštiny"
 #: ../comps-f16.xml.in.h:12 ../comps-f17.xml.in.h:13 ../comps-f18.xml.in.h:77
 #: ../comps-f19.xml.in.h:77 ../comps-el5.xml.in.h:7
 msgid "Authoring and Publishing"
-msgstr "Publikování textů DocBook"
+msgstr "Publikování textů"
 
 #: ../comps-f16.xml.in.h:13 ../comps-f17.xml.in.h:14 ../comps-f18.xml.in.h:78
 #: ../comps-f19.xml.in.h:78
@@ -236,7 +236,7 @@ msgstr "Kritická cesta (GNOME)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME"
 " desktop"
-msgstr "Sada balíčků kritické cesty (sady), která poskytuje funkčnost uživatelského prostředí GNOME."
+msgstr "Sada balíčků, která poskytuje základní (kritická cesta) funkčnost uživatelského prostředí GNOME."
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
 #: ../comps-f19.xml.in.h:98
@@ -1687,7 +1687,7 @@ msgstr "Virtualizační klient"
 
 #: ../comps-f17.xml.in.h:286
 msgid "Virtualization Hypervisor"
-msgstr ""
+msgstr "Virtualizační hypervizor"
 
 #: ../comps-f17.xml.in.h:287
 msgid "Smallest possible virtualization host installation"
@@ -1924,7 +1924,7 @@ msgstr "PHP"
 
 #: ../comps-f18.xml.in.h:61 ../comps-f19.xml.in.h:61
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Široce použitelný skriptovací jazyk pro vývoj webu"
 
 #: ../comps-f18.xml.in.h:62 ../comps-f19.xml.in.h:62
 msgid "Python"
@@ -1932,15 +1932,15 @@ msgstr "Python"
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "Základní podpora pro webové aplikace v Pythonu"
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f18.xml.in.h:65 ../comps-f19.xml.in.h:65
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Webový aplikační stack pro Ruby on Rails"
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
@@ -1952,19 +1952,19 @@ msgstr "Aplikační web server Tomcat"
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
-msgstr ""
+msgstr "Vyvažování zátěže"
 
 #: ../comps-f18.xml.in.h:69 ../comps-f19.xml.in.h:69
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Podpora pro vyvažování zátěže síťového provozu"
 
 #: ../comps-f18.xml.in.h:70 ../comps-f19.xml.in.h:70
 msgid "High Availability"
-msgstr ""
+msgstr "Vysoká dostupnost"
 
 #: ../comps-f18.xml.in.h:71 ../comps-f19.xml.in.h:71
 msgid "Infrastructure for highly available services and/or shared storage."
-msgstr ""
+msgstr "Infrastruktura pro vysoce dostupné služby a/nebo sdílený úložný prostor"
 
 #: ../comps-f18.xml.in.h:79 ../comps-f19.xml.in.h:79
 msgid "Standard"
@@ -2025,11 +2025,11 @@ msgstr "Pracovní prostředí MATE"
 
 #: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "Vývoj a kreativní pracovní stanice"
 
 #: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:262
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "Pracovní stanice pro software, hardware, grafiku nebo vývoj konceptů."
 
 #: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
 msgid "Server for serving static and dynamic internet content."
@@ -2049,7 +2049,7 @@ msgstr "Základní desktopové prostředí"
 
 #: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
 msgid "X Window System without a full desktop environment."
-msgstr ""
+msgstr "X Window System bez plnohodnotného desktopového prostředí."
 
 #: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:269
 msgid "Minimal Install"
@@ -2070,17 +2070,17 @@ msgstr "Sada bežně používaných KDE aplikací"
 
 #: ../comps-f19.xml.in.h:177
 msgid "Lepcha Support"
-msgstr ""
+msgstr "Podpora pro Lepcha"
 
 #: ../comps-f19.xml.in.h:220
 msgid "Security Lab"
-msgstr ""
+msgstr "Bezpečnostní laboratoř"
 
 #: ../comps-f19.xml.in.h:221
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security"
 " testing methodologies."
-msgstr ""
+msgstr "Nástroje pro bezpečnostní audity, forenzní analýzu, záchranu systému a výuku metod bezpečnostního testování."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""
