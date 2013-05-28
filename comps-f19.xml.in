@@ -4432,11 +4432,11 @@
       <packagereq type="optional">kannel</packagereq>
       <packagereq type="optional">koan</packagereq>
       <packagereq type="optional">krb5-server</packagereq>
+      <packagereq type="optional">libreswan</packagereq>
       <packagereq type="optional">netatalk</packagereq>
       <packagereq type="optional">nsd</packagereq>
       <packagereq type="optional">oidentd</packagereq>
       <packagereq type="optional">openldap-servers</packagereq>
-      <packagereq type="optional">openswan</packagereq>
       <packagereq type="optional">polipo</packagereq>
       <packagereq type="optional">privoxy</packagereq>
       <packagereq type="optional">puppet-server</packagereq>
@@ -5254,6 +5254,7 @@
       <packagereq type="default">chrony</packagereq>
       <packagereq type="default">cifs-utils</packagereq>
       <packagereq type="default">jigdo</packagereq>
+      <packagereq type="default">libreswan</packagereq>
       <packagereq type="default">NetworkManager-l2tp</packagereq>
       <packagereq type="default">NetworkManager-openconnect</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
@@ -5262,7 +5263,6 @@
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">openconnect</packagereq>
       <packagereq type="default">openldap-clients</packagereq>
-      <packagereq type="default">openswan</packagereq>
       <packagereq type="default">openvpn</packagereq>
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">screen</packagereq>
