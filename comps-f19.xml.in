@@ -210,11 +210,13 @@
     <packagelist>
       <packagereq>libreoffice-calc</packagereq>
       <packagereq>libreoffice-draw</packagereq>
+      <packagereq>libreoffice-emailmerge</packagereq>
       <packagereq>libreoffice-graphicfilter</packagereq>
       <packagereq>libreoffice-impress</packagereq>
       <packagereq>libreoffice-math</packagereq>
       <packagereq>libreoffice-writer</packagereq>
-      <packagereq>libreoffice-xsltfilter</packagereq>
+      <packagereq type="optional>libreoffice-base</packagereq>
+      <packagereq type="optional>libreoffice-pyuno</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4083,10 +4085,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="optional">libreoffice-bsh</packagereq>
-      <packagereq type="optional">libreoffice-headless</packagereq>
-      <packagereq type="optional">libreoffice-pyuno</packagereq>
-      <packagereq type="optional">libreoffice-rhino</packagereq>
       <packagereq type="optional">libreoffice-sdk</packagereq>
       <packagereq type="optional">libreoffice-sdk-doc</packagereq>
     </packagelist>
