@@ -1019,6 +1019,16 @@
       <packagereq type="optional">yumex</packagereq>
     </packagelist>
   </group>
+  <!-- 
+    Note: The anaconda-tools group lists packages that anaconda might
+    add to the installed package set, depending on the installation
+    configuration chosen: the packages in this group are included in
+    the DVD package payload and the live images, but not in the runtime
+    anaconda environment. If a package is needed in anaconda's runtime
+    environment it should be listed as a dependency of the anaconda
+    package, not added to this group. See
+    https://fedorahosted.org/rel-eng/ticket/5195 .
+  -->
   <group>
     <id>anaconda-tools</id>
     <_name>Anaconda tools</_name>
