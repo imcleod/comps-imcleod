@@ -1029,8 +1029,7 @@
       <packagereq>arm-boot-config</packagereq>
       <packagereq>authconfig</packagereq>
       <packagereq>btrfs-progs</packagereq>
-      <packagereq>chkconfig</packagereq>
-      <packagereq>cryptsetup</packagereq>
+      <packagereq>cryptsetup-luks</packagereq>
       <packagereq>device-mapper-multipath</packagereq>
       <packagereq>dmraid</packagereq>
       <packagereq>dosfstools</packagereq>
@@ -1038,6 +1037,7 @@
       <packagereq>e2fsprogs</packagereq>
       <packagereq>efibootmgr</packagereq>
       <packagereq>fcoe-utils</packagereq>
+      <packagereq>firewalld</packagereq>
       <packagereq>gfs2-utils</packagereq>
       <packagereq>grub2</packagereq>
       <packagereq>grub2-efi</packagereq>
@@ -1047,12 +1047,12 @@
       <packagereq>mactel-boot</packagereq>
       <packagereq>mdadm</packagereq>
       <packagereq>ntfsprogs</packagereq>
+      <packagereq>realmd</packagereq>
       <packagereq>reiserfs-utils</packagereq>
       <packagereq>s390utils</packagereq>
       <packagereq>s390utils-base</packagereq>
       <packagereq>shim</packagereq>
-      <packagereq>silo</packagereq>
-      <packagereq>system-config-firewall-base</packagereq>
+      <packagereq>syslinux-extlinux</packagereq>
       <packagereq>uboot-beagle</packagereq>
       <packagereq>uboot-beaglebone</packagereq>
       <packagereq>uboot-origen</packagereq>
