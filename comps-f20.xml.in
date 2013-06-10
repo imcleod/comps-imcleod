@@ -1315,6 +1315,8 @@
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
@@ -1874,6 +1876,8 @@
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
@@ -2320,6 +2324,7 @@
     <uservisible>false</uservisible>
     <langonly>am</langonly>
     <packagelist>
+      <packagereq type="default">google-noto-sans-ethiopic-fonts</packagereq>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
       <packagereq type="optional">scim-tables-amharic</packagereq>
       <packagereq type="optional">senamirmir-washra-fantuwua-fonts</packagereq>
@@ -2459,6 +2464,7 @@
       <packagereq type="default">paktype-naqsh-fonts</packagereq>
       <packagereq type="default">paratype-pt-sans-fonts</packagereq>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
+      <packagereq type="default">sil-mingzat-fonts</packagereq>
       <packagereq type="default">sil-nuosu-fonts</packagereq>
       <packagereq type="default">sil-padauk-fonts</packagereq>
       <packagereq type="default">smc-meera-fonts</packagereq>
@@ -3125,6 +3131,8 @@
       <packagereq type="default">bpg-glaho-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-georgian-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-georgian-fonts</packagereq>
       <packagereq type="optional">bpg-algeti-fonts</packagereq>
       <packagereq type="optional">bpg-courier-s-fonts</packagereq>
       <packagereq type="optional">bpg-elite-fonts</packagereq>
@@ -3523,6 +3531,7 @@
     <langonly>he</langonly>
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-hebrew-fonts</packagereq>
       <packagereq type="default">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="default">culmus-caladings-clm-fonts</packagereq>
       <packagereq type="default">culmus-david-clm-fonts</packagereq>
@@ -3553,6 +3562,8 @@
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
       <packagereq type="default">sarai-fonts</packagereq>
     </packagelist>
@@ -3801,6 +3812,8 @@
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -3876,6 +3889,8 @@
     <langonly>km</langonly>
     <packagelist>
       <packagereq type="mandatory">khmeros-base-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-khmer-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-khmer-ui-fonts</packagereq>
       <packagereq type="default">khmeros-battambang-fonts</packagereq>
       <packagereq type="default">khmeros-bokor-fonts</packagereq>
       <packagereq type="default">khmeros-handwritten-fonts</packagereq>
@@ -3894,6 +3909,8 @@
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -4156,6 +4173,8 @@
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -4311,6 +4330,8 @@
       <packagereq type="mandatory">lohit-marathi-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
@@ -4442,6 +4463,8 @@
       <packagereq type="mandatory">madan-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="optional">scim-tables-nepali</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4868,6 +4891,8 @@
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
@@ -5094,6 +5119,8 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="mandatory">paktype-naskh-basic-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -5553,6 +5580,8 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-tamil-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-tamil-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-tamil-fonts</packagereq>
       <packagereq type="default">serafettin-cartoon-fonts</packagereq>
@@ -5639,6 +5668,9 @@
     <langonly>th</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-thai-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-thai-ui-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-thai-fonts</packagereq>
       <packagereq type="default">thai-scalable-garuda-fonts</packagereq>
       <packagereq type="default">thai-scalable-kinnari-fonts</packagereq>
       <packagereq type="default">thai-scalable-loma-fonts</packagereq>
