@@ -74,6 +74,7 @@
       <packagereq>at-spi2-core</packagereq>
       <packagereq>avahi</packagereq>
       <packagereq>baobab</packagereq>
+      <packagereq>bijiben</packagereq>
       <packagereq>brasero</packagereq>
       <packagereq>brasero-nautilus</packagereq>
       <packagereq>caribou</packagereq>
@@ -117,6 +118,7 @@
       <packagereq>gnome-system-monitor</packagereq>
       <packagereq>gnome-terminal</packagereq>
       <packagereq>gnome-user-docs</packagereq>
+      <packagereq>gnome-weather</packagereq>
       <packagereq>gucharmap</packagereq>
       <packagereq>gvfs-fuse</packagereq>
       <packagereq>gvfs-afc</packagereq>
@@ -617,7 +619,6 @@
       <packagereq>pidgin</packagereq>
       <packagereq>sylpheed</packagereq>
       <packagereq>transmission</packagereq>
-      <packagereq>mtpaint</packagereq>
     </packagelist>
   </group>
   <group>
@@ -704,11 +705,10 @@
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
       <packagereq>firefox</packagereq>
-      <packagereq>evolution</packagereq>
+      <packagereq>thunderbird</packagereq>
       <packagereq>brasero</packagereq>
       <packagereq>totem</packagereq>
       <packagereq>totem-mozplugin</packagereq>
-      <packagereq>gnome-calculator</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>gedit</packagereq>
@@ -721,22 +721,26 @@
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
       <packagereq>nm-connection-editor</packagereq>
-      <packagereq>gnome-icon-theme</packagereq>
       <packagereq>gnome-backgrounds</packagereq>
+      <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
+      <packagereq>gnome-icon-theme</packagereq>
+      <packagereq>gnome-icon-theme-extras</packagereq>
+      <packagereq>gnome-icon-theme-legacy</packagereq>
       <packagereq>gnome-packagekit</packagereq>
       <packagereq>gnome-screenshot</packagereq>
+      <packagereq>gnome-screensaver</packagereq>
+      <packagereq>gnome-system-monitor</packagereq>
+      <packagereq>gnome-terminal</packagereq>
+      <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>recordmydesktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
-      <packagereq>gnome-screensaver</packagereq>
-      <packagereq>gnome-system-monitor</packagereq>
-      <packagereq>gnome-terminal</packagereq>
-      <packagereq>gnome-icon-theme-extras</packagereq>
-      <packagereq>gnome-icon-theme-legacy</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
+      <packagereq>system-config-users</packagereq>
+      <packagereq>ConsoleKit-x11</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1309,6 +1313,8 @@
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
@@ -1867,6 +1873,8 @@
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
@@ -2124,10 +2132,13 @@
       <packagereq type="default">pikdev</packagereq>
       <packagereq type="default">piklab</packagereq>
       <packagereq type="default">pikloops</packagereq>
+      <packagereq type="default">pulseview</packagereq>
       <packagereq type="default">python-myhdl</packagereq>
       <packagereq type="default">qtoctave</packagereq>
       <packagereq type="default">qucs</packagereq>
       <packagereq type="default">sdcc</packagereq>
+      <packagereq type="default">sigrok-cli</packagereq>
+      <packagereq type="default">sigrok-firmware-fx2lafw</packagereq>
       <packagereq type="default">sk2py</packagereq>
       <packagereq type="default">smartsim</packagereq>
       <packagereq type="default">srecord</packagereq>
@@ -2311,6 +2322,7 @@
     <uservisible>false</uservisible>
     <langonly>am</langonly>
     <packagelist>
+      <packagereq type="default">google-noto-sans-ethiopic-fonts</packagereq>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
       <packagereq type="optional">scim-tables-amharic</packagereq>
       <packagereq type="optional">senamirmir-washra-fantuwua-fonts</packagereq>
@@ -2450,6 +2462,7 @@
       <packagereq type="default">paktype-naqsh-fonts</packagereq>
       <packagereq type="default">paratype-pt-sans-fonts</packagereq>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
+      <packagereq type="default">sil-mingzat-fonts</packagereq>
       <packagereq type="default">sil-nuosu-fonts</packagereq>
       <packagereq type="default">sil-padauk-fonts</packagereq>
       <packagereq type="default">smc-meera-fonts</packagereq>
@@ -3116,6 +3129,8 @@
       <packagereq type="default">bpg-glaho-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-georgian-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-georgian-fonts</packagereq>
       <packagereq type="optional">bpg-algeti-fonts</packagereq>
       <packagereq type="optional">bpg-courier-s-fonts</packagereq>
       <packagereq type="optional">bpg-elite-fonts</packagereq>
@@ -3514,6 +3529,7 @@
     <langonly>he</langonly>
     <packagelist>
       <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-hebrew-fonts</packagereq>
       <packagereq type="default">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="default">culmus-caladings-clm-fonts</packagereq>
       <packagereq type="default">culmus-david-clm-fonts</packagereq>
@@ -3543,6 +3559,8 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
       <packagereq type="default">sarai-fonts</packagereq>
@@ -3792,6 +3810,8 @@
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -3867,6 +3887,8 @@
     <langonly>km</langonly>
     <packagelist>
       <packagereq type="mandatory">khmeros-base-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-khmer-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-khmer-ui-fonts</packagereq>
       <packagereq type="default">khmeros-battambang-fonts</packagereq>
       <packagereq type="default">khmeros-bokor-fonts</packagereq>
       <packagereq type="default">khmeros-handwritten-fonts</packagereq>
@@ -3885,6 +3907,8 @@
     <packagelist>
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -4147,6 +4171,8 @@
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -4196,6 +4222,7 @@
     <packagelist>
       <packagereq>lightdm</packagereq>
       <packagereq>lightdm-gtk</packagereq>
+      <packagereq>ConsoleKit-x11</packagereq>
       <packagereq>initial-setup</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>libmatekbd</packagereq>
@@ -4258,6 +4285,7 @@
       <packagereq>gtk2-engines</packagereq>
       <packagereq>hexchat</packagereq>
       <packagereq>imsettings-mate</packagereq>
+      <packagereq>metacity</packagereq>
       <packagereq>pavucontrol</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>simple-scan</packagereq>
@@ -4280,6 +4308,8 @@
       <packagereq type="mandatory">lohit-marathi-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
@@ -4411,6 +4441,8 @@
       <packagereq type="mandatory">madan-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="optional">scim-tables-nepali</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4837,6 +4869,8 @@
       <packagereq type="mandatory">lohit-devanagari-fonts</packagereq>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-devanagari-fonts</packagereq>
     </packagelist>
@@ -4848,20 +4882,32 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">ArpOn</packagereq>
       <packagereq type="default">afftools</packagereq>
       <packagereq type="default">aide</packagereq>
       <packagereq type="default">aircrack-ng</packagereq>
       <packagereq type="default">airsnort</packagereq>
       <packagereq type="default">argus</packagereq>
+      <packagereq type="default">bannergrab</packagereq>
+      <packagereq type="default">binwalk</packagereq>
       <packagereq type="default">bkhive</packagereq>
+      <packagereq type="default">bonesi</packagereq>
       <packagereq type="default">chkrootkit</packagereq>
+      <packagereq type="default">cmospwd</packagereq>
+      <packagereq type="default">cowpatty</packagereq>
       <packagereq type="default">dc3dd</packagereq>
       <packagereq type="default">ddrescue</packagereq>
+      <packagereq type="default">dhcping</packagereq>
       <packagereq type="default">dnsenum</packagereq>
       <packagereq type="default">dnsmap</packagereq>
+      <packagereq type="default">dnstop</packagereq>
+      <packagereq type="default">dnstracer</packagereq>
+      <packagereq type="default">driftnet</packagereq>
       <packagereq type="default">dsniff</packagereq>
+      <packagereq type="default">echoping</packagereq>
       <packagereq type="default">etherape</packagereq>
       <packagereq type="default">ettercap</packagereq>
+      <packagereq type="default">ettercap-gtk</packagereq>
       <packagereq type="default">examiner</packagereq>
       <packagereq type="default">firewalk</packagereq>
       <packagereq type="default">firstaidkit-gui</packagereq>
@@ -4871,21 +4917,29 @@
       <packagereq type="default">gparted</packagereq>
       <packagereq type="default">halberd</packagereq>
       <packagereq type="default">hexedit</packagereq>
+      <packagereq type="default">hfsutils</packagereq>
+      <packagereq type="default">honeyd</packagereq>
       <packagereq type="default">horst</packagereq>
       <packagereq type="default">hping3</packagereq>
       <packagereq type="default">ht</packagereq>
       <packagereq type="default">httping</packagereq>
+      <packagereq type="default">httpry</packagereq>
       <packagereq type="default">hunt</packagereq>
       <packagereq type="default">iftop</packagereq>
+      <packagereq type="default">inception</packagereq>
+      <packagereq type="default">iperf</packagereq>
       <packagereq type="default">iptraf-ng</packagereq>
       <packagereq type="default">irssi</packagereq>
       <packagereq type="default">john</packagereq>
       <packagereq type="default">kismet</packagereq>
+      <packagereq type="default">kismon</packagereq>
       <packagereq type="default">labrea</packagereq>
       <packagereq type="default">lbd</packagereq>
       <packagereq type="default">lynis</packagereq>
       <packagereq type="default">macchanger</packagereq>
+      <packagereq type="default">mausezahn</packagereq>
       <packagereq type="default">mc</packagereq>
+      <packagereq type="default">mcabber</packagereq>
       <packagereq type="default">medusa</packagereq>
       <packagereq type="default">mutt</packagereq>
       <packagereq type="default">nano</packagereq>
@@ -4895,27 +4949,44 @@
       <packagereq type="default">ncrack</packagereq>
       <packagereq type="default">nebula</packagereq>
       <packagereq type="default">net-snmp</packagereq>
+      <packagereq type="default">nethogs</packagereq>
+      <packagereq type="default">netsed</packagereq>
       <packagereq type="default">netsniff-ng</packagereq>
       <packagereq type="default">ngrep</packagereq>
       <packagereq type="default">nikto</packagereq>
+      <packagereq type="default">nload</packagereq>
       <packagereq type="default">nmap</packagereq>
       <packagereq type="default">nmap-frontend</packagereq>
+      <packagereq type="default">nmbscan</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
+      <packagereq type="default">ntop</packagereq>
       <packagereq type="default">nwipe</packagereq>
+      <packagereq type="default">onesixtyone</packagereq>
       <packagereq type="default">openvas-client</packagereq>
       <packagereq type="default">openvas-scanner</packagereq>
       <packagereq type="default">ophcrack</packagereq>
       <packagereq type="default">p0f</packagereq>
       <packagereq type="default">packETH</packagereq>
       <packagereq type="default">pads</packagereq>
+      <packagereq type="default">paris-traceroute</packagereq>
       <packagereq type="default">pcapdiff</packagereq>
+      <packagereq type="default">pdfcrack</packagereq>
+      <packagereq type="default">picviz-gui</packagereq>
       <packagereq type="default">powertop</packagereq>
+      <packagereq type="default">prelude-lml</packagereq>
+      <packagereq type="default">prelude-manager</packagereq>
+      <packagereq type="default">prewikka</packagereq>
+      <packagereq type="default">proxychains</packagereq>
       <packagereq type="default">pscan</packagereq>
+      <packagereq type="default">pyrit</packagereq>
+      <packagereq type="default">raddump</packagereq>
       <packagereq type="default">ratproxy</packagereq>
       <packagereq type="default">rats</packagereq>
       <packagereq type="default">rkhunter</packagereq>
+      <packagereq type="default">safecopy</packagereq>
       <packagereq type="default">samdump2</packagereq>
+      <packagereq type="default">scalpel</packagereq>
       <packagereq type="default">scamper</packagereq>
       <packagereq type="default">scanmem</packagereq>
       <packagereq type="default">scapy</packagereq>
@@ -4923,32 +4994,46 @@
       <packagereq type="default">scrub</packagereq>
       <packagereq type="default">sectool-gui</packagereq>
       <packagereq type="default">security-menus</packagereq>
+      <packagereq type="default">siege</packagereq>
       <packagereq type="default">sing</packagereq>
       <packagereq type="default">sipp</packagereq>
       <packagereq type="default">sipsak</packagereq>
       <packagereq type="default">skipfish</packagereq>
       <packagereq type="default">sleuthkit</packagereq>
+      <packagereq type="default">slowhttptest</packagereq>
       <packagereq type="default">snmpcheck</packagereq>
       <packagereq type="default">socat</packagereq>
       <packagereq type="default">splint</packagereq>
       <packagereq type="default">sqlninja</packagereq>
       <packagereq type="default">srm</packagereq>
+      <packagereq type="default">sshscan</packagereq>
       <packagereq type="default">ssldump</packagereq>
       <packagereq type="default">sslscan</packagereq>
+      <packagereq type="default">sslstrip</packagereq>
       <packagereq type="default">sucrack</packagereq>
+      <packagereq type="default">swaks</packagereq>
       <packagereq type="default">tcpdump</packagereq>
       <packagereq type="default">tcpflow</packagereq>
       <packagereq type="default">tcpick</packagereq>
       <packagereq type="default">tcpjunk</packagereq>
+      <packagereq type="default">tcpreen</packagereq>
+      <packagereq type="default">tcpreplay</packagereq>
       <packagereq type="default">tcpxtract</packagereq>
+      <packagereq type="default">telnet</packagereq>
       <packagereq type="default">testdisk</packagereq>
+      <packagereq type="default">trafshow</packagereq>
+      <packagereq type="default">tripwire</packagereq>
       <packagereq type="default">unhide</packagereq>
       <packagereq type="default">unicornscan</packagereq>
       <packagereq type="default">uperf</packagereq>
       <packagereq type="default">vim-enhanced</packagereq>
+      <packagereq type="default">vnstat</packagereq>
       <packagereq type="default">wavemon</packagereq>
+      <packagereq type="default">wbox</packagereq>
       <packagereq type="default">weplab</packagereq>
       <packagereq type="default">wget</packagereq>
+      <packagereq type="default">whois</packagereq>
+      <packagereq type="default">wipe</packagereq>
       <packagereq type="default">wireshark-gnome</packagereq>
       <packagereq type="default">xmount</packagereq>
       <packagereq type="default">xprobe2</packagereq>
@@ -5012,6 +5097,8 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="mandatory">paktype-naskh-basic-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -5471,6 +5558,8 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-tamil-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-tamil-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-tamil-fonts</packagereq>
       <packagereq type="default">serafettin-cartoon-fonts</packagereq>
@@ -5557,6 +5646,9 @@
     <langonly>th</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-thai-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-thai-ui-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-thai-fonts</packagereq>
       <packagereq type="default">thai-scalable-garuda-fonts</packagereq>
       <packagereq type="default">thai-scalable-kinnari-fonts</packagereq>
       <packagereq type="default">thai-scalable-loma-fonts</packagereq>
