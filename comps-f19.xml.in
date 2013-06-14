@@ -399,7 +399,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>abrt-desktop</packagereq>
       <packagereq>alsa-utils</packagereq>
       <packagereq>recordmydesktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
@@ -561,7 +560,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>abrt-desktop</packagereq>
       <packagereq>recordmydesktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>lxde-common</packagereq>
@@ -989,9 +987,9 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">authconfig-gtk</packagereq>
       <packagereq type="default">gnome-disk-utility</packagereq>
-      <packagereq type="default">gnome-packagekit</packagereq>
       <packagereq type="default">setroubleshoot</packagereq>
       <packagereq type="default">system-config-date</packagereq>
       <packagereq type="default">system-config-keyboard</packagereq>
@@ -5982,6 +5980,7 @@
       <groupid>base-x</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
@@ -6008,6 +6007,7 @@
       <groupid>base-x</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
@@ -6056,6 +6056,7 @@
       <groupid>base-x</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>

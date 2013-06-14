@@ -400,7 +400,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>abrt-desktop</packagereq>
       <packagereq>alsa-utils</packagereq>
       <packagereq>recordmydesktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
@@ -562,7 +561,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>abrt-desktop</packagereq>
       <packagereq>recordmydesktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>lxde-common</packagereq>
@@ -990,33 +988,14 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">authconfig-gtk</packagereq>
-      <packagereq type="default">gnome-disk-utility</packagereq>
-      <packagereq type="default">gnome-packagekit</packagereq>
-      <packagereq type="default">setroubleshoot</packagereq>
-      <packagereq type="default">system-config-date</packagereq>
-      <packagereq type="default">system-config-keyboard</packagereq>
-      <packagereq type="default">system-config-language</packagereq>
-      <packagereq type="default">system-config-users</packagereq>
-      <packagereq type="optional">apper</packagereq>
-      <packagereq type="optional">cacti</packagereq>
-      <packagereq type="optional">dbench</packagereq>
-      <packagereq type="optional">etherape</packagereq>
-      <packagereq type="optional">ettercap</packagereq>
-      <packagereq type="optional">galternatives</packagereq>
-      <packagereq type="optional">gparted</packagereq>
-      <packagereq type="optional">gpointing-device-settings</packagereq>
-      <packagereq type="optional">kde-partitionmanager</packagereq>
-      <packagereq type="optional">lshw-gui</packagereq>
-      <packagereq type="optional">luma</packagereq>
-      <packagereq type="optional">ntop</packagereq>
-      <packagereq type="optional">pessulus</packagereq>
-      <packagereq type="optional">qtparted</packagereq>
-      <packagereq type="optional">system-config-boot</packagereq>
-      <packagereq type="optional">system-config-firewall</packagereq>
-      <packagereq type="optional">system-config-kickstart</packagereq>
-      <packagereq type="optional">system-config-rootpassword</packagereq>
-      <packagereq type="optional">yumex</packagereq>
+      <packagereq>abrt-desktop</packagereq>
+      <packagereq>authconfig-gtk</packagereq>
+      <packagereq>gnome-disk-utility</packagereq>
+      <packagereq>setroubleshoot</packagereq>
+      <packagereq>system-config-date</packagereq>
+      <packagereq>system-config-keyboard</packagereq>
+      <packagereq>system-config-language</packagereq>
+      <packagereq>system-config-users</packagereq>
     </packagelist>
   </group>
   <!-- 
@@ -4200,7 +4179,6 @@
     <packagelist>
       <packagereq>lightdm</packagereq>
       <packagereq>initial-setup</packagereq>
-      <packagereq>abrt-desktop</packagereq>
       <packagereq>recordmydesktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>ConsoleKit-x11</packagereq>
@@ -6006,6 +5984,7 @@
       <groupid>base-x</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
@@ -6032,6 +6011,7 @@
       <groupid>base-x</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
@@ -6080,6 +6060,7 @@
       <groupid>base-x</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
