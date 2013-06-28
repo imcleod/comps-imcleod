@@ -754,16 +754,16 @@
     </packagelist>
   </group>
   <group>
-    <id>xmonad-gnome</id>
-    <_name>XMonad for GNOME</_name>
-    <_description>XMonad window manager with GNOME</_description>
+    <id>xmonad-mate</id>
+    <_name>XMonad for MATE</_name>
+    <_description>XMonad window manager with MATE</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>control-center</packagereq>
-      <packagereq>gnome-panel</packagereq>
-      <packagereq>gnome-screensaver</packagereq>
-      <packagereq>xmonad-gnome</packagereq>
+      <packagereq>mate-control-center</packagereq>
+      <packagereq>mate-panel</packagereq>
+      <packagereq>mate-screensaver</packagereq>
+      <packagereq>xmonad-mate</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6319,7 +6319,7 @@
       <groupid>sugar-desktop</groupid>
       <groupid>xfce-desktop</groupid>
       <groupid>xmonad</groupid>
-      <groupid>xmonad-gnome</groupid>
+      <groupid>xmonad-mate</groupid>
     </optionlist>
   </environment>
   <environment>
