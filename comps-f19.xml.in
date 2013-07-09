@@ -1198,7 +1198,7 @@
       <packagereq>quota</packagereq>
       <packagereq>tmpwatch</packagereq>
       <packagereq>traceroute</packagereq>
-      <packagereq type="conditional" requires="system-config-date">chrony</packagereq>
+      <packagereq type="conditional" requires="control-center">chrony</packagereq>
       <packagereq>bash-completion</packagereq>
       <packagereq>bridge-utils</packagereq>
       <packagereq>btrfs-progs</packagereq>
