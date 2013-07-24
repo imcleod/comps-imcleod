@@ -1229,6 +1229,7 @@
       <packagereq>rng-tools</packagereq>
       <packagereq>rsh</packagereq>
       <packagereq>rsync</packagereq>
+      <packagereq>rsyslog</packagereq>
       <packagereq>sendmail</packagereq>
       <packagereq>setuptool</packagereq>
       <packagereq>smartmontools</packagereq>
@@ -1417,7 +1418,6 @@
       <packagereq type="mandatory">procps-ng</packagereq>
       <packagereq type="mandatory">rootfiles</packagereq>
       <packagereq type="mandatory">rpm</packagereq>
-      <packagereq type="mandatory">rsyslog</packagereq>
       <packagereq type="mandatory">selinux-policy-targeted</packagereq>
       <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">shadow-utils</packagereq>
