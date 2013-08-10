@@ -4237,23 +4237,42 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>lightdm</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
+      <packagereq>brasero</packagereq>
+      <packagereq>claws-mail</packagereq>
+      <packagereq>dconf</packagereq>
+      <packagereq>dconf-editor</packagereq>
+      <packagereq>desktop-backgrounds-basic</packagereq>
+      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>firefox</packagereq>
+      <packagereq>firewall-config</packagereq>
+      <packagereq>gvfs</packagereq>
+      <packagereq>gvfs-smb</packagereq>
+      <packagereq>gvfs-fuse</packagereq>
+      <packagereq>gvfs-afc</packagereq>
+      <packagereq>gvfs-mtp</packagereq>
+      <packagereq>gvfs-gphoto2</packagereq>
+      <packagereq>gtk2-engines</packagereq>
+      <packagereq>hexchat</packagereq>
+      <packagereq>imsettings-mate</packagereq>
       <packagereq>initial-setup</packagereq>
-      <packagereq>setroubleshoot</packagereq>
-      <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>libmatekbd</packagereq>
       <packagereq>libmatekeyring</packagereq>
       <packagereq>libmatenotify</packagereq>
       <packagereq>libmateweather</packagereq>
       <packagereq>libmatewnck</packagereq>
+      <packagereq>lightdm</packagereq>
+      <packagereq>lightdm-gtk</packagereq>
       <packagereq>mate-applets</packagereq>
+      <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-backgrounds</packagereq>
+      <packagereq>mate-bluetooth</packagereq>
       <packagereq>mate-calc</packagereq>
       <packagereq>mate-control-center</packagereq>
+      <packagereq>mate-character-map</packagereq>
       <packagereq>mate-desktop</packagereq>
       <packagereq>mate-dialogs</packagereq>
       <packagereq>mate-document-viewer</packagereq>
+      <packagereq>mate-document-viewer-caja</packagereq>
       <packagereq>mate-file-archiver</packagereq>
       <packagereq>mate-file-manager</packagereq>
       <packagereq>mate-file-manager-image-converter</packagereq>
@@ -4266,11 +4285,14 @@
       <packagereq>mate-media</packagereq>
       <packagereq>mate-menus</packagereq>
       <packagereq>mate-menu-editor</packagereq>
+      <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-notification-daemon</packagereq>
       <packagereq>mate-panel</packagereq>
       <packagereq>mate-polkit</packagereq>
       <packagereq>mate-power-manager</packagereq>
       <packagereq>mate-screensaver</packagereq>
+      <packagereq>mate-screenshot</packagereq>
+      <packagereq>mate-search-tool</packagereq>
       <packagereq>mate-session-manager</packagereq>
       <packagereq>mate-settings-daemon</packagereq>
       <packagereq>mate-system-log</packagereq>
@@ -4286,29 +4308,16 @@
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
-      <packagereq>brasero</packagereq>
-      <packagereq>dconf</packagereq>
-      <packagereq>dconf-editor</packagereq>
-      <packagereq>desktop-backgrounds-basic</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
-      <packagereq>firefox</packagereq>
-      <packagereq>firewall-config</packagereq>
-      <packagereq>gvfs</packagereq>
-      <packagereq>gvfs-smb</packagereq>
-      <packagereq>gvfs-fuse</packagereq>
-      <packagereq>gvfs-afc</packagereq>
-      <packagereq>gvfs-mtp</packagereq>
-      <packagereq>gvfs-gphoto2</packagereq>
-      <packagereq>gtk2-engines</packagereq>
-      <packagereq>imsettings-mate</packagereq>
       <packagereq>pavucontrol</packagereq>
+      <packagereq>pidgin</packagereq>
+      <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
-      <packagereq>claws-mail</packagereq>
+      <packagereq>system-config-language</packagereq>
+      <packagereq>system-config-users</packagereq>
       <packagereq>transmission-gtk</packagereq>
+      <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq>yumex</packagereq>
-      <packagereq>system-config-users</packagereq>
-      <packagereq>system-config-language</packagereq>
     </packagelist>
    </group>
   <group>
