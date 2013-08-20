@@ -268,7 +268,6 @@
       <packagereq>kdenetwork-kget</packagereq>
       <packagereq>kdepim</packagereq>
       <packagereq>kdeplasma-addons</packagereq>
-      <packagereq>kdm</packagereq>
       <packagereq>kgpg</packagereq>
       <packagereq>kipi-plugins</packagereq>
       <packagereq>kmix</packagereq>
@@ -285,6 +284,7 @@
       <packagereq>oxygen-gtk</packagereq>
       <packagereq>phonon-backend-gstreamer</packagereq>
       <packagereq>plasma-scriptengine-python</packagereq>
+      <packagereq>sddm</packagereq>
       <packagereq>system-config-date</packagereq>
       <packagereq>system-config-services</packagereq>
       <packagereq>system-config-users</packagereq>
@@ -1517,7 +1517,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">kdelibs</packagereq>
-      <packagereq type="mandatory">kdm</packagereq>
+      <packagereq type="mandatory">sddm</packagereq>
     </packagelist>
   </group>
   <group>
