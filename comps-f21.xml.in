@@ -1101,6 +1101,8 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-bengali-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-bengali-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -1269,6 +1271,8 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-bengali-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-bengali-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
     </packagelist>
   </group>
@@ -3488,6 +3492,8 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-gujarati-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-gujarati-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">samyak-gujarati-fonts</packagereq>
     </packagelist>
@@ -3854,6 +3860,8 @@
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">gubbi-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-kannada-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-kannada-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">navilu-fonts</packagereq>
     </packagelist>
@@ -4245,14 +4253,16 @@
     <packagelist>
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="mandatory">m17n-db</packagereq>
+      <packagereq type="mandatory">smc-meera-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-malayalam-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-malayalam-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">lohit-malayalam-fonts</packagereq>
       <packagereq type="default">samyak-malayalam-fonts</packagereq>
       <packagereq type="default">smc-anjalioldlipi-fonts</packagereq>
       <packagereq type="default">smc-dyuthi-fonts</packagereq>
       <packagereq type="default">smc-kalyani-fonts</packagereq>
-      <packagereq type="default">smc-meera-fonts</packagereq>
       <packagereq type="default">smc-rachana-fonts</packagereq>
       <packagereq type="default">smc-raghumalayalam-fonts</packagereq>
       <packagereq type="default">smc-suruma-fonts</packagereq>
@@ -5675,6 +5685,8 @@
       <packagereq type="mandatory">m17n-contrib</packagereq>
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">google-noto-sans-telugu-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-telugu-ui-fonts</packagereq>
       <packagereq type="default">iok</packagereq>
       <packagereq type="default">pothana2000-fonts</packagereq>
       <packagereq type="default">vemana2000-fonts</packagereq>
