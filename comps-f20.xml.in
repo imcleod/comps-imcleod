@@ -4236,21 +4236,28 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>brasero</packagereq>
+      <packagereq>NetworkManager-l2tp</packagereq>
+      <packagereq>NetworkManager-openconnect</packagereq>
+      <packagereq>NetworkManager-openvpn</packagereq>
+      <packagereq>NetworkManager-pptp</packagereq>
+      <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>NetworkManager</packagereq>
       <packagereq>claws-mail</packagereq>
-      <packagereq>dconf</packagereq>
       <packagereq>dconf-editor</packagereq>
+      <packagereq>dconf</packagereq>
       <packagereq>desktop-backgrounds-basic</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
-      <packagereq>gvfs</packagereq>
-      <packagereq>gvfs-smb</packagereq>
-      <packagereq>gvfs-fuse</packagereq>
-      <packagereq>gvfs-afc</packagereq>
-      <packagereq>gvfs-mtp</packagereq>
-      <packagereq>gvfs-gphoto2</packagereq>
+      <packagereq>geany</packagereq>
       <packagereq>gtk2-engines</packagereq>
+      <packagereq>gvfs-afc</packagereq>
+      <packagereq>gvfs-fuse</packagereq>
+      <packagereq>gvfs-gphoto2</packagereq>
+      <packagereq>gvfs-mtp</packagereq>
+      <packagereq>gvfs-smb</packagereq>
+      <packagereq>gvfs</packagereq>
       <packagereq>hexchat</packagereq>
       <packagereq>imsettings-mate</packagereq>
       <packagereq>initial-setup</packagereq>
@@ -4259,31 +4266,38 @@
       <packagereq>libmatenotify</packagereq>
       <packagereq>libmateweather</packagereq>
       <packagereq>libmatewnck</packagereq>
-      <packagereq>lightdm</packagereq>
       <packagereq>lightdm-gtk</packagereq>
-      <packagereq>mate-applets</packagereq>
+      <packagereq>lightdm</packagereq>
+      <packagereq>mate-applet-lockkeys</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
+      <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
       <packagereq>mate-bluetooth</packagereq>
       <packagereq>mate-calc</packagereq>
-      <packagereq>mate-control-center</packagereq>
       <packagereq>mate-character-map</packagereq>
+      <packagereq>mate-control-center</packagereq>
       <packagereq>mate-desktop</packagereq>
       <packagereq>mate-dialogs</packagereq>
-      <packagereq>mate-document-viewer</packagereq>
+      <packagereq>mate-dictionary</packagereq>
+      <packagereq>mate-disk-usage-analyzer</packagereq>
       <packagereq>mate-document-viewer-caja</packagereq>
+      <packagereq>mate-document-viewer</packagereq>
       <packagereq>mate-file-archiver</packagereq>
-      <packagereq>mate-file-manager</packagereq>
       <packagereq>mate-file-manager-image-converter</packagereq>
-      <packagereq>mate-file-manager-sendto</packagereq>
       <packagereq>mate-file-manager-open-terminal</packagereq>
+      <packagereq>mate-file-manager-sendto</packagereq>
+      <packagereq>mate-file-manager-share</packagereq>
+      <packagereq>mate-file-manager</packagereq>
+      <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-icon-theme</packagereq>
       <packagereq>mate-image-viewer</packagereq>
-      <packagereq>mate-keyring</packagereq>
       <packagereq>mate-keyring-pam</packagereq>
+      <packagereq>mate-keyring</packagereq>
       <packagereq>mate-media</packagereq>
-      <packagereq>mate-menus</packagereq>
       <packagereq>mate-menu-editor</packagereq>
+      <packagereq>mate-menus-preferences-category-menu</packagereq>
+      <packagereq>mate-menus</packagereq>
+      <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-notification-daemon</packagereq>
       <packagereq>mate-panel</packagereq>
@@ -4292,6 +4306,7 @@
       <packagereq>mate-screensaver</packagereq>
       <packagereq>mate-screenshot</packagereq>
       <packagereq>mate-search-tool</packagereq>
+      <packagereq>mate-sensors-applet</packagereq>
       <packagereq>mate-session-manager</packagereq>
       <packagereq>mate-settings-daemon</packagereq>
       <packagereq>mate-system-log</packagereq>
@@ -4299,52 +4314,24 @@
       <packagereq>mate-terminal</packagereq>
       <packagereq>mate-text-editor</packagereq>
       <packagereq>mate-themes</packagereq>
+      <packagereq>mate-user-share</packagereq>
+      <packagereq>mate-utils</packagereq>
       <packagereq>mate-window-manager</packagereq>
-      <packagereq>NetworkManager</packagereq>
       <packagereq>network-manager-applet</packagereq>
-      <packagereq>NetworkManager-l2tp</packagereq>
-      <packagereq>NetworkManager-openconnect</packagereq>
-      <packagereq>NetworkManager-openvpn</packagereq>
-      <packagereq>NetworkManager-pptp</packagereq>
-      <packagereq>NetworkManager-vpnc</packagereq>
       <packagereq>pavucontrol</packagereq>
+      <packagereq>pidgin</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
       <packagereq>system-config-language</packagereq>
       <packagereq>system-config-users</packagereq>
+      <packagereq>tigervnc</packagereq>
       <packagereq>transmission-gtk</packagereq>
+      <packagereq>vim-enhanced</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>xterm</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq>yumex</packagereq>
-    </packagelist>
-   </group>
-  <group>
-    <id>mate-applications</id>
-    <_name>MATE Applications</_name>
-    <_description>Applications for the MATE Desktop.</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>geany</packagereq>
-      <packagereq>filezilla</packagereq>
-      <packagereq>mate-applet-lockkeys</packagereq>
-      <packagereq>mate-applet-softupd</packagereq>
-      <packagereq>mate-bluetooth</packagereq>
-      <packagereq>mate-dictionary</packagereq>
-      <packagereq>mate-disk-usage-analyzer</packagereq>
-      <packagereq>mate-file-manager-share</packagereq>
-      <packagereq>mate-icon-theme-faenza</packagereq>
-      <packagereq>mate-menus-preferences-category-menu</packagereq>
-      <packagereq>mate-netspeed</packagereq>
-      <packagereq>mate-sensors-applet</packagereq>
-      <packagereq>mate-user-share</packagereq>
-      <packagereq>mate-utils</packagereq>
-      <packagereq>mintmenu</packagereq>
-      <packagereq>pidgin</packagereq>
-      <packagereq>tigervnc</packagereq>
-      <packagereq>vim-enhanced</packagereq>
-      <packagereq>xterm</packagereq>
     </packagelist>
    </group>
    <group>
