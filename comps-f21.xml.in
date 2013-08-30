@@ -1936,6 +1936,19 @@
     </packagelist>
   </group>
   <group>
+    <id>freeipa-server</id>
+    <_name>FreeIPA Server</_name>
+    <_description>Provides central directory services for identity, policy management and auditing.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+    <packagereq type="mandatory">freeipa-server</packagereq>
+    <packagereq type="default">freeipa-server-strict</packagereq>
+    <packagereq type="default">freeipa-server-trust-ad</packagereq>
+    <packagereq type="default">bind-dyndb-ldap</packagereq>
+   </packagelist>
+  </group>
+  <group>
     <id>editors</id>
     <_name>Editors</_name>
     <_description>Sometimes called text editors, these are programs that allow you to create and edit text files. This includes Emacs and Vi.</_description>
@@ -6386,6 +6399,7 @@
     <optionlist>
       <groupid>dogtag</groupid>
       <groupid>dns-server</groupid>
+      <groupid>freeipa-server</groupid>
       <groupid>ftp-server</groupid>
       <groupid>mail-server</groupid>
       <groupid>network-server</groupid>
@@ -6602,6 +6616,7 @@
       <groupid>directory-server</groupid>
       <groupid>dns-server</groupid>
       <groupid>dogtag</groupid>
+      <groupid>freeipa-server</groupid>
       <groupid>ftp-server</groupid>
       <groupid>ha</groupid>
       <groupid>haproxy</groupid>
