@@ -1934,6 +1934,20 @@
       <packagereq type="optional">eclipse-texlipse</packagereq>
       <packagereq type="optional">eclipse-veditor</packagereq>
     </packagelist>
+  </groupa>
+   </group>
+   <group>
+    <id>freeipa-server</id>
+    <_name>FreeIPA Server</_name>
+    <_description>Provides central directory services for identity, policy management and auditing.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">freeipa-server</packagereq>
+      <packagereq type="default">freeipa-server-strict</packagereq>
+      <packagereq type="default">freeipa-server-trust-ad</packagereq>
+      <packagereq type="default">bind-dyndb-ldap</packagereq>
+    </packagelist>
   </group>
   <group>
     <id>editors</id>
@@ -6373,6 +6387,7 @@
     <optionlist>
       <groupid>dogtag</groupid>
       <groupid>dns-server</groupid>
+      <groupid>freeipa-server</groupid>
       <groupid>ftp-server</groupid>
       <groupid>mail-server</groupid>
       <groupid>network-server</groupid>
