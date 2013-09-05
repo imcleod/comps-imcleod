@@ -1019,7 +1019,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>arm-boot-config</packagereq>
       <packagereq>authconfig</packagereq>
       <packagereq>btrfs-progs</packagereq>
       <packagereq>cryptsetup</packagereq>
@@ -1029,6 +1028,7 @@
       <packagereq>dracut-network</packagereq>
       <packagereq>e2fsprogs</packagereq>
       <packagereq>efibootmgr</packagereq>
+      <packagereq>extlinux-bootloader</packagereq>
       <packagereq>fcoe-utils</packagereq>
       <packagereq>firewalld</packagereq>
       <packagereq>gfs2-utils</packagereq>
@@ -1054,6 +1054,7 @@
       <packagereq>uboot-tools</packagereq>
       <packagereq>uboot-wandboard_dl</packagereq>
       <packagereq>uboot-wandboard_solo</packagereq>
+      <packagereq>uboot-wandboard_quad</packagereq>
       <packagereq>xfsprogs</packagereq>
       <packagereq>yaboot</packagereq>
     </packagelist>
