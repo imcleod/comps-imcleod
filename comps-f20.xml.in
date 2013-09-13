@@ -4336,8 +4336,6 @@
       <packagereq>libmatewnck</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>lightdm</packagereq>
-      <packagereq>mate-applet-lockkeys</packagereq>
-      <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
       <packagereq>mate-bluetooth</packagereq>
@@ -4346,17 +4344,13 @@
       <packagereq>mate-control-center</packagereq>
       <packagereq>mate-desktop</packagereq>
       <packagereq>mate-dialogs</packagereq>
-      <packagereq>mate-dictionary</packagereq>
-      <packagereq>mate-disk-usage-analyzer</packagereq>
       <packagereq>mate-document-viewer-caja</packagereq>
       <packagereq>mate-document-viewer</packagereq>
       <packagereq>mate-file-archiver</packagereq>
       <packagereq>mate-file-manager-image-converter</packagereq>
       <packagereq>mate-file-manager-open-terminal</packagereq>
       <packagereq>mate-file-manager-sendto</packagereq>
-      <packagereq>mate-file-manager-share</packagereq>
       <packagereq>mate-file-manager</packagereq>
-      <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-icon-theme</packagereq>
       <packagereq>mate-image-viewer</packagereq>
       <packagereq>mate-keyring-pam</packagereq>
@@ -4373,16 +4367,12 @@
       <packagereq>mate-screensaver</packagereq>
       <packagereq>mate-screenshot</packagereq>
       <packagereq>mate-search-tool</packagereq>
-      <packagereq>mate-sensors-applet</packagereq>
       <packagereq>mate-session-manager</packagereq>
       <packagereq>mate-settings-daemon</packagereq>
-      <packagereq>mate-system-log</packagereq>
       <packagereq>mate-system-monitor</packagereq>
       <packagereq>mate-terminal</packagereq>
       <packagereq>mate-text-editor</packagereq>
       <packagereq>mate-themes</packagereq>
-      <packagereq>mate-user-share</packagereq>
-      <packagereq>mate-utils</packagereq>
       <packagereq>mate-window-manager</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>pavucontrol</packagereq>
@@ -4395,7 +4385,6 @@
       <packagereq>transmission-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
-      <packagereq>xterm</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq>yumex</packagereq>
     </packagelist>
@@ -4407,6 +4396,20 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>bluedevil</packagereq>
+      <packagereq>mate-applet-lockkeys</packagereq>
+      <packagereq>mate-applet-softupd</packagereq>
+      <packagereq>mate-dictionary</packagereq>
+      <packagereq>mate-disk-usage-analyzer</packagereq>
+      <packagereq>mate-file-manager-share</packagereq>
+      <packagereq>mate-icon-theme-faenza</packagereq>
+      <packagereq>mate-sensors-applet</packagereq>
+      <packagereq>mate-system-log</packagereq>
+      <packagereq>mate-themes-extras</packagereq>
+      <packagereq>mate-user-share</packagereq>
+      <packagereq>mate-utils</packagereq>
+      <packagereq>mintmenu</packagereq>
+      <packagereq>xterm</packagereq>
     </packagelist>
    </group>
    <group>
