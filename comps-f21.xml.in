@@ -2038,6 +2038,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">acpica-tools</packagereq>
       <packagereq type="default">alliance</packagereq>
       <packagereq type="default">archimedes</packagereq>
       <packagereq type="default">arduino</packagereq>
@@ -2101,7 +2102,6 @@
       <packagereq type="default">gtkwave</packagereq>
       <packagereq type="default">hct</packagereq>
       <packagereq type="default">hiredis</packagereq>
-      <packagereq type="default">iasl</packagereq>
       <packagereq type="default">icaro</packagereq>
       <packagereq type="default">irsim</packagereq>
       <packagereq type="default">iverilog</packagereq>
