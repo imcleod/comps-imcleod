@@ -4818,8 +4818,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">cups</packagereq>
+      <packagereq type="mandatory">cups-filters</packagereq>
       <packagereq type="mandatory">ghostscript</packagereq>
-      <packagereq type="mandatory">ghostscript-cups</packagereq>
       <packagereq type="default">bluez-cups</packagereq>
       <packagereq type="default">colord</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
