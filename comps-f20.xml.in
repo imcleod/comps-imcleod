@@ -1428,6 +1428,7 @@
       <packagereq type="mandatory">shadow-utils</packagereq>
       <packagereq type="mandatory">sudo</packagereq>
       <packagereq type="mandatory">systemd</packagereq>
+      <packagereq arch="armhfp" type="mandatory">uboot-tools</packagereq>
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="mandatory">yum</packagereq>
