@@ -3234,12 +3234,15 @@
     <packagelist>
       <packagereq type="mandatory">atk-devel</packagereq>
       <packagereq type="mandatory">clutter-devel</packagereq>
+      <packagereq type="mandatory">clutter-doc</packagereq>
       <packagereq type="mandatory">dbus-devel</packagereq>
       <packagereq type="mandatory">glib2-devel</packagereq>
+      <packagereq type="mandatory">glib2-doc</packagereq>
       <packagereq type="mandatory">gstreamer-devel</packagereq>
       <packagereq type="mandatory">gtk3-devel-docs</packagereq>
       <packagereq type="mandatory">pango-devel</packagereq>
       <packagereq type="mandatory">webkitgtk3-devel</packagereq>
+      <packagereq type="mandatory">webkitgtk3-doc</packagereq>
       <packagereq type="default">at-spi2-core-devel</packagereq>
       <packagereq type="default">clutter-gst-devel</packagereq>
       <packagereq type="default">clutter-gtk-devel</packagereq>
@@ -3255,6 +3258,8 @@
       <packagereq type="default">gnome-devel-docs</packagereq>
       <packagereq type="default">gobject-introspection</packagereq>
       <packagereq type="default">gobject-introspection-devel</packagereq>
+      <packagereq type="default">gstreamer1-devel-docs</packagereq>
+      <packagereq type="default">gstreamer1-plugins-base-devel-docs</packagereq>
       <packagereq type="default">gtk-doc</packagereq>
       <packagereq type="default">gtkparasite</packagereq>
       <packagereq type="default">libcanberra-devel</packagereq>
