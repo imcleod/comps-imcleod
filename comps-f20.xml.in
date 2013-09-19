@@ -3241,9 +3241,14 @@
       <packagereq type="mandatory">pango-devel</packagereq>
       <packagereq type="mandatory">webkitgtk3-devel</packagereq>
       <packagereq type="default">at-spi2-core-devel</packagereq>
+      <packagereq type="default">clutter-gst-devel</packagereq>
       <packagereq type="default">clutter-gtk-devel</packagereq>
+      <packagereq type="default">diffstat</packagereq>
+      <packagereq type="default">d-feet</packagereq>
       <packagereq type="default">devhelp</packagereq>
       <packagereq type="default">evolution-data-server-devel</packagereq>
+      <packagereq type="default">gdb</packagereq>
+      <packagereq type="default">gitg</packagereq>
       <packagereq type="default">glade</packagereq>
       <packagereq type="default">gnome-common</packagereq>
       <packagereq type="default">gnome-desktop3-devel</packagereq>
@@ -3251,9 +3256,12 @@
       <packagereq type="default">gobject-introspection</packagereq>
       <packagereq type="default">gobject-introspection-devel</packagereq>
       <packagereq type="default">gtk-doc</packagereq>
+      <packagereq type="default">gtkparasite</packagereq>
       <packagereq type="default">libcanberra-devel</packagereq>
       <packagereq type="default">libgnome-keyring-devel</packagereq>
       <packagereq type="default">libnotify-devel</packagereq>
+      <packagereq type="default">polkit-devel</packagereq>
+      <packagereq type="default">valgrind</packagereq>
       <packagereq type="optional">anjuta</packagereq>
       <packagereq type="optional">at-spi-devel</packagereq>
       <packagereq type="optional">bakery-devel</packagereq>
@@ -3273,7 +3281,6 @@
       <packagereq type="optional">gtk2-devel-docs</packagereq>
       <packagereq type="optional">gtkdatabox-devel</packagereq>
       <packagereq type="optional">gtkmm24-devel</packagereq>
-      <packagereq type="optional">gtkparasite</packagereq>
       <packagereq type="optional">libart_lgpl-devel</packagereq>
       <packagereq type="optional">libgda-devel</packagereq>
       <packagereq type="optional">libglade2-devel</packagereq>
