@@ -5910,6 +5910,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">virt-install</packagereq>
+      <packagereq type="default">libvirt</packagereq>
       <packagereq type="default">libvirt-daemon-kvm</packagereq>
       <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="default">virt-manager</packagereq>
