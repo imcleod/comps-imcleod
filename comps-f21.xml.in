@@ -3661,6 +3661,8 @@
       <packagereq type="conditional" requires="lxde-common">imsettings-lxde</packagereq>
       <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
       <packagereq type="conditional" requires="xfce4-panel">imsettings-xfce</packagereq>
+      <packagereq type="conditional" requires="mate-settings-daemon">imsettings-mate</packagereq>
+      <packagereq type="conditional" requires="cinnamon">imsettings-cinnamon</packagereq>
       <packagereq type="default">ibus-chewing</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-kkc</packagereq>
@@ -4318,7 +4320,6 @@
       <packagereq>gvfs-gphoto2</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>hexchat</packagereq>
-      <packagereq>imsettings-mate</packagereq>
       <packagereq>initial-setup</packagereq>
       <packagereq>libmatekbd</packagereq>
       <packagereq>libmatekeyring</packagereq>
