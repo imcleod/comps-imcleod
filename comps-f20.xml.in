@@ -68,6 +68,7 @@
       <packagereq>gnome-shell</packagereq>
       <packagereq>gnome-themes-standard</packagereq>
       <packagereq>abrt-desktop</packagereq>
+      <packagereq>abrt-java-connector</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>aisleriot</packagereq>
       <packagereq>at-spi2-atk</packagereq>
@@ -699,6 +700,7 @@
       <packagereq>cinnamon</packagereq>
       <packagereq>metacity</packagereq>
       <packagereq>abrt-desktop</packagereq>
+      <packagereq>abrt-java-connector</packagereq>
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>shotwell</packagereq>
       <packagereq>eog</packagereq>
@@ -789,6 +791,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>abrt-java-connector</packagereq>
       <packagereq>java-1.7.0-openjdk</packagereq>
       <packagereq>java-1.7.0-openjdk-devel</packagereq>
       <packagereq>jboss-as</packagereq>
@@ -3800,6 +3803,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">java-1.7.0-openjdk</packagereq>
+      <packagereq type="default">abrt-java-connector</packagereq>
       <packagereq type="default">icedtea-web</packagereq>
       <packagereq type="optional">java-1.5.0-gcj</packagereq>
       <packagereq type="optional">libgcj</packagereq>
@@ -3815,6 +3819,7 @@
       <packagereq type="mandatory">ant</packagereq>
       <packagereq type="mandatory">ecj</packagereq>
       <packagereq type="mandatory">java-1.7.0-openjdk-devel</packagereq>
+      <packagereq type="default">abrt-java-connector</packagereq>
       <packagereq type="default">ant-antlr</packagereq>
       <packagereq type="default">ant-apache-bcel</packagereq>
       <packagereq type="default">ant-apache-log4j</packagereq>
