@@ -777,6 +777,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>haproxy</packagereq>
+      <packagereq>rubygem-abrt</packagereq>
       <packagereq>rubygem-daemons</packagereq>
       <packagereq>rubygem-rest-client</packagereq>
     </packagelist>
@@ -886,6 +887,7 @@
       <packagereq>ruby</packagereq>
       <packagereq>ruby-devel</packagereq>
       <packagereq>rubygems</packagereq>
+      <packagereq>rubygem-abrt</packagereq>
       <packagereq>rubygem-actionmailer</packagereq>
       <packagereq>rubygem-actionpack</packagereq>
       <packagereq>rubygem-activemodel</packagereq>
@@ -1383,6 +1385,7 @@
       <packagereq type="optional">openstack-nova</packagereq>
       <packagereq type="optional">openstack-swift</packagereq>
       <packagereq type="optional">python-novaclient</packagereq>
+      <packagereq type="optional">rubygem-abrt</packagereq>
       <packagereq type="optional">rubygem-boxgrinder-core</packagereq>
       <packagereq type="optional">sheepdog</packagereq>
       <packagereq type="optional">StarCluster</packagereq>
@@ -4937,6 +4940,7 @@
     <packagelist>
       <packagereq type="mandatory">ruby</packagereq>
       <packagereq type="default">ruby-devel</packagereq>
+      <packagereq type="default">rubygem-abrt</packagereq>
       <packagereq type="optional">eruby</packagereq>
       <packagereq type="optional">rubygem-rdoc</packagereq>
     </packagelist>
