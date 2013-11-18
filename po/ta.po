@@ -3,20 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Dimitris Glezos <glezos@indifex.com>, 2011.
-# Felix <ifelix@redhat.com>, 2006.
-# Felix I <ifelix25@gmail.com>, 2011, 2012.
-# I felix <ifelix@redhat.com>, 2007.
-# Jayaradha N <jaya@pune.redhat.com>, 2004.
-# Jayaradha N <njaya@redhat.com>, 2004, 2006.
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# Felix <ifelix@redhat.com>, 2006
+# Felix I <ifelix25@gmail.com>, 2011, 2012
+# I felix <ifelix@redhat.com>, 2007
+# Jayaradha N <jaya@pune.redhat.com>, 2004
+# Jayaradha N <njaya@redhat.com>, 2004, 2006
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-18 00:39-0500\n"
-"PO-Revision-Date: 2012-12-18 18:38+0000\n"
+"POT-Creation-Date: 2013-11-18 12:25-0500\n"
+"PO-Revision-Date: 2013-11-18 17:33+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Tamil <tamil-users@lists.fedoraproject.org>\n"
+"Language-Team: Tamil (http://www.transifex.com/projects/p/fedora/language/ta/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -292,7 +292,6 @@ msgid "Design Suite"
 msgstr "வடிவமைப்பு தொகுப்பு"
 
 #: ../comps-f16.xml.in.h:56 ../comps-f17.xml.in.h:60 ../comps-f18.xml.in.h:105
-#: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
@@ -311,50 +310,50 @@ msgid ""
 msgstr "இந்த குழுவிலுள்ள தொகுப்புகள் பயன்பாடுகளை உருவாக்க பயன்படும் கோர் நூலகங்கள் ஆகும்."
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
-#: ../comps-f19.xml.in.h:108 ../comps-el5.xml.in.h:14
+#: ../comps-f19.xml.in.h:110 ../comps-el5.xml.in.h:14
 msgid "Development Tools"
 msgstr "உருவாக்கம் கருவிகள்"
 
 #: ../comps-f16.xml.in.h:60 ../comps-f17.xml.in.h:64 ../comps-f18.xml.in.h:109
-#: ../comps-f19.xml.in.h:109 ../comps-el5.xml.in.h:15
+#: ../comps-el5.xml.in.h:15
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
 msgstr "இந்த கருவிகள் கோர் உருவாக்க கருவிகளான automake, gcc, perl, python, மற்றும் debuggerகளை உள்ளடக்கியுள்ளது."
 
 #: ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:65 ../comps-f18.xml.in.h:110
-#: ../comps-f19.xml.in.h:110 ../comps-el6.xml.in.h:54
+#: ../comps-f19.xml.in.h:114 ../comps-el6.xml.in.h:54
 msgid "Dial-up Networking Support"
 msgstr "டயல்அப் பிணைய துணை"
 
 #: ../comps-f16.xml.in.h:62 ../comps-f17.xml.in.h:66 ../comps-f18.xml.in.h:111
-#: ../comps-f19.xml.in.h:111 ../comps-el6.xml.in.h:58
+#: ../comps-f19.xml.in.h:115 ../comps-el6.xml.in.h:58
 msgid "Directory Server"
 msgstr "அடைவு சேவையகம்"
 
 #: ../comps-f16.xml.in.h:63 ../comps-f17.xml.in.h:67 ../comps-f18.xml.in.h:112
-#: ../comps-f19.xml.in.h:112 ../comps-el6.xml.in.h:59
+#: ../comps-f19.xml.in.h:116 ../comps-el6.xml.in.h:59
 msgid "Machine and user identity servers."
 msgstr "கணினி மற்றும் பயனர் அடையாள சேவையகங்கள்."
 
 #: ../comps-f16.xml.in.h:64 ../comps-f17.xml.in.h:68 ../comps-f18.xml.in.h:113
-#: ../comps-f19.xml.in.h:113
+#: ../comps-f19.xml.in.h:117
 msgid "DNS Name Server"
 msgstr "DNS பெயர் சேவையகம்"
 
 #: ../comps-f16.xml.in.h:65 ../comps-f17.xml.in.h:69 ../comps-f18.xml.in.h:114
-#: ../comps-f19.xml.in.h:114
+#: ../comps-f19.xml.in.h:118
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr "இந்த தொகுப்பு குழு கணினியில் DNS பெயர் சேவையகத்தை (BIND) இயக்க அனுமதிக்கிறது."
 
 #: ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:71 ../comps-f18.xml.in.h:116
-#: ../comps-f19.xml.in.h:116
+#: ../comps-f19.xml.in.h:120
 msgid "Dogtag Certificate System"
 msgstr "டாக்டேக் சான்றிதழ் கணினி"
 
 #: ../comps-f16.xml.in.h:67 ../comps-f17.xml.in.h:72 ../comps-f18.xml.in.h:117
-#: ../comps-f19.xml.in.h:117
+#: ../comps-f19.xml.in.h:121
 msgid "Enterprise-class open source Certificate Authority"
 msgstr "என்டர்ஃபிரைஸ்-வகை திறந்த மூல சான்றிதழ் அதிகாரம்"
 
@@ -363,54 +362,54 @@ msgid "Dutch Support"
 msgstr "டச் துணை"
 
 #: ../comps-f16.xml.in.h:69 ../comps-f17.xml.in.h:74 ../comps-f18.xml.in.h:118
-#: ../comps-f19.xml.in.h:118
+#: ../comps-f19.xml.in.h:122
 msgid "Fedora Eclipse"
 msgstr "ஃபெடோரா எக்லிப்ஸ்"
 
 #: ../comps-f16.xml.in.h:70 ../comps-f17.xml.in.h:75 ../comps-f18.xml.in.h:119
-#: ../comps-f19.xml.in.h:119
+#: ../comps-f19.xml.in.h:123
 msgid "Integrated Development Environments based on Eclipse."
 msgstr "எக்லிப்ஸைப் பொருத்து ஒருங்கிணைந்த உருவாக்க சூழல்கள்."
 
 #: ../comps-f16.xml.in.h:71 ../comps-f17.xml.in.h:76 ../comps-f18.xml.in.h:120
-#: ../comps-f19.xml.in.h:120 ../comps-el5.xml.in.h:17
+#: ../comps-f19.xml.in.h:124 ../comps-el5.xml.in.h:17
 msgid "Editors"
 msgstr "தொகுப்பாளர்கள்"
 
 #: ../comps-f16.xml.in.h:72 ../comps-f17.xml.in.h:77 ../comps-f18.xml.in.h:121
-#: ../comps-f19.xml.in.h:121
+#: ../comps-f19.xml.in.h:125
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
 msgstr "சில நேரங்களில் உரை தொகுப்பான்கள் என்று அழைக்கப்படும் இந்த நிரல்கள் கோப்புகளை உருவாக்க மற்றும் திருத்த உதவும். ஈமாக்ஸ் மற்றும் Vi இதில் அடங்கும்."
 
 #: ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:78 ../comps-f18.xml.in.h:122
-#: ../comps-f19.xml.in.h:122 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
+#: ../comps-f19.xml.in.h:126 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
 msgid "Educational Software"
 msgstr "கல்வி மென்பொருள்"
 
 #: ../comps-f16.xml.in.h:74 ../comps-f17.xml.in.h:79 ../comps-f18.xml.in.h:123
-#: ../comps-f19.xml.in.h:123 ../comps-el5.xml.in.h:20
+#: ../comps-f19.xml.in.h:127 ../comps-el5.xml.in.h:20
 msgid "Educational software for learning"
 msgstr "கற்க கல்வி மென்பொருள்"
 
 #: ../comps-f16.xml.in.h:75 ../comps-f17.xml.in.h:80 ../comps-f18.xml.in.h:124
-#: ../comps-f19.xml.in.h:124 ../comps-el5.xml.in.h:21 ../comps-el6.xml.in.h:65
+#: ../comps-f19.xml.in.h:128 ../comps-el5.xml.in.h:21 ../comps-el6.xml.in.h:65
 msgid "Electronic Lab"
 msgstr "எலக்ட்ரானிக் ஆய்வகம்"
 
 #: ../comps-f16.xml.in.h:76 ../comps-f17.xml.in.h:81 ../comps-f18.xml.in.h:125
-#: ../comps-f19.xml.in.h:125 ../comps-el5.xml.in.h:22
+#: ../comps-f19.xml.in.h:129 ../comps-el5.xml.in.h:22
 msgid "Design and Simulation tools for hardware engineers"
 msgstr "வன்பொருள் பொறியாளர்களுக்கான வடிவம் மற்றும் கருவிகள்"
 
 #: ../comps-f16.xml.in.h:77 ../comps-f17.xml.in.h:82 ../comps-f18.xml.in.h:126
-#: ../comps-f19.xml.in.h:126 ../comps-el5.xml.in.h:23
+#: ../comps-f19.xml.in.h:130 ../comps-el5.xml.in.h:23
 msgid "Engineering and Scientific"
 msgstr "பொறியியல் மற்றும் அறிவியல்"
 
 #: ../comps-f16.xml.in.h:78 ../comps-f17.xml.in.h:83 ../comps-f18.xml.in.h:127
-#: ../comps-f19.xml.in.h:127 ../comps-el5.xml.in.h:24
+#: ../comps-f19.xml.in.h:131 ../comps-el5.xml.in.h:24
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
@@ -425,7 +424,7 @@ msgid "Estonian Support"
 msgstr "எஸ்டோனியன் துணை"
 
 #: ../comps-f16.xml.in.h:81 ../comps-f17.xml.in.h:86 ../comps-f18.xml.in.h:128
-#: ../comps-f19.xml.in.h:128 ../comps-el6.xml.in.h:71
+#: ../comps-f19.xml.in.h:132 ../comps-el6.xml.in.h:71
 msgid "Ethiopic Support"
 msgstr "எத்தியோப்பிய துணை"
 
@@ -434,12 +433,12 @@ msgid "Faroese Support"
 msgstr "ஃபெரோஸ் துணை"
 
 #: ../comps-f16.xml.in.h:83 ../comps-f17.xml.in.h:88 ../comps-f18.xml.in.h:129
-#: ../comps-f19.xml.in.h:129 ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
+#: ../comps-f19.xml.in.h:133 ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
 msgid "Fedora Packager"
 msgstr "ஃபெடோரா தொகுப்பி"
 
 #: ../comps-f16.xml.in.h:84 ../comps-f17.xml.in.h:89 ../comps-f18.xml.in.h:130
-#: ../comps-f19.xml.in.h:130 ../comps-el5.xml.in.h:26
+#: ../comps-f19.xml.in.h:134 ../comps-el5.xml.in.h:26
 msgid "Tools and Utilities needed by a Fedora Packager"
 msgstr "ஒரு ஃபெடோரா தொகுப்பிக்கு தேவைப்படும் கருவிகள் மற்றும் வசதிகள்"
 
@@ -456,29 +455,29 @@ msgid "Filipino Support"
 msgstr "ஃபிலிபினோ துணை"
 
 #: ../comps-f16.xml.in.h:88 ../comps-f17.xml.in.h:93 ../comps-f18.xml.in.h:131
-#: ../comps-f19.xml.in.h:131 ../comps-el6.xml.in.h:77
+#: ../comps-f19.xml.in.h:135 ../comps-el6.xml.in.h:77
 msgid "Finnish Support"
 msgstr "ஃபினிஷ் துணை"
 
 #: ../comps-f16.xml.in.h:89 ../comps-f17.xml.in.h:94 ../comps-f18.xml.in.h:132
-#: ../comps-f19.xml.in.h:132
+#: ../comps-f19.xml.in.h:136
 msgid "Font design and packaging"
 msgstr "எழுத்துரு வடிவம் மற்றும் தொகுப்பு"
 
 #: ../comps-f16.xml.in.h:90 ../comps-f17.xml.in.h:95 ../comps-f18.xml.in.h:133
-#: ../comps-f19.xml.in.h:133
+#: ../comps-f19.xml.in.h:137
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
 msgstr "இந்த கருவிகளின் தொகுப்பு குழு வடிவம், மாற்றுதல், கணக்கிடுதல் மற்றும் எழுத்துருக்கள் தொகுப்புக்கு பயன்படுகிறது."
 
 #: ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:96 ../comps-f18.xml.in.h:134
-#: ../comps-f19.xml.in.h:134 ../comps-el6.xml.in.h:78
+#: ../comps-f19.xml.in.h:138 ../comps-el6.xml.in.h:78
 msgid "Fonts"
 msgstr "எழுத்துருக்கள்"
 
 #: ../comps-f16.xml.in.h:92 ../comps-f17.xml.in.h:97 ../comps-f18.xml.in.h:135
-#: ../comps-f19.xml.in.h:135
+#: ../comps-f19.xml.in.h:139
 msgid "Fonts packages for rendering text on the desktop."
 msgstr "பணிமேடையில் தோன்றும் உரைக்கான எழுத்துரு தொகுப்புகள்"
 
@@ -495,13 +494,13 @@ msgid "Friulian Support"
 msgstr "ஃபெர்யுலியன் துணை"
 
 #: ../comps-f16.xml.in.h:96 ../comps-f17.xml.in.h:101
-#: ../comps-f18.xml.in.h:136 ../comps-f19.xml.in.h:136
+#: ../comps-f18.xml.in.h:136 ../comps-f19.xml.in.h:140
 #: ../comps-el5.xml.in.h:27
 msgid "FTP Server"
 msgstr "FTP சேவையகம்"
 
 #: ../comps-f16.xml.in.h:97 ../comps-f17.xml.in.h:102
-#: ../comps-f18.xml.in.h:137 ../comps-f19.xml.in.h:137
+#: ../comps-f18.xml.in.h:137 ../comps-f19.xml.in.h:141
 #: ../comps-el5.xml.in.h:28
 msgid "These tools allow you to run an FTP server on the system."
 msgstr "இந்த கருவிகள் நீங்கள் கணினியில் FTP சேவையகத்தை இயக்க உதவும்."
@@ -515,19 +514,19 @@ msgid "Galician Support"
 msgstr "கலிசியன் துணை"
 
 #: ../comps-f16.xml.in.h:100 ../comps-f17.xml.in.h:105
-#: ../comps-f18.xml.in.h:138 ../comps-f19.xml.in.h:138
+#: ../comps-f18.xml.in.h:138 ../comps-f19.xml.in.h:142
 #: ../comps-el5.xml.in.h:29
 msgid "Games and Entertainment"
 msgstr "விளையாட்டுகள் மற்றும் பொழுதுபோக்கு"
 
 #: ../comps-f16.xml.in.h:101 ../comps-f17.xml.in.h:106
-#: ../comps-f18.xml.in.h:139 ../comps-f19.xml.in.h:139
+#: ../comps-f18.xml.in.h:139 ../comps-f19.xml.in.h:143
 #: ../comps-el5.xml.in.h:30
 msgid "Various ways to relax and spend your free time."
 msgstr "ஓய்வெடுக்க மற்றும் உங்கள் பணியற்ற நேரத்தை செலவழிக்க பல வழிகள்."
 
 #: ../comps-f16.xml.in.h:102 ../comps-f17.xml.in.h:107
-#: ../comps-f18.xml.in.h:140 ../comps-f19.xml.in.h:140
+#: ../comps-f18.xml.in.h:140 ../comps-f19.xml.in.h:144
 #: ../comps-el6.xml.in.h:89
 msgid "Georgian Support"
 msgstr "ஜெர்ஜியன் துணை"
@@ -549,13 +548,13 @@ msgid ""
 msgstr "GNOME என்பது பலகம், பணிமேடை, கணினி சின்னங்கள் மற்றும் வரைகலை கோப்பு மேலாளர் ஆகியவற்றை உள்ளடக்கிய ஒரு வலிமையான வரைகலை பயனர் இடைமுகமாகும்."
 
 #: ../comps-f16.xml.in.h:106 ../comps-f17.xml.in.h:111
-#: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:141
+#: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:145
 #: ../comps-el5.xml.in.h:33
 msgid "GNOME Software Development"
 msgstr "GNOME மென்பொருள் உருவாக்கம்"
 
 #: ../comps-f16.xml.in.h:107 ../comps-f17.xml.in.h:112
-#: ../comps-f18.xml.in.h:142 ../comps-f19.xml.in.h:142
+#: ../comps-f18.xml.in.h:142 ../comps-f19.xml.in.h:146
 #: ../comps-el5.xml.in.h:34
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
@@ -563,37 +562,37 @@ msgid ""
 msgstr "GTK+ மற்றும் GNOME வரைகலை பயன்பாடுகளை உருவாக்க இந்த தொகுப்புகளை நிறுவவும்."
 
 #: ../comps-f16.xml.in.h:108 ../comps-f17.xml.in.h:113
-#: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:143
+#: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:147
 #: ../comps-el5.xml.in.h:35
 msgid "Graphical Internet"
 msgstr "வரைகலை இணையம்"
 
 #: ../comps-f16.xml.in.h:109 ../comps-f17.xml.in.h:114
-#: ../comps-f18.xml.in.h:144 ../comps-f19.xml.in.h:144
+#: ../comps-f18.xml.in.h:144 ../comps-f19.xml.in.h:148
 #: ../comps-el5.xml.in.h:36
 msgid "This group includes graphical email, Web, and chat clients."
 msgstr "இந்த குழுவில் வரைகலை மின்னஞ்சல், இணையம் மற்றும் அரட்டை கிளையன்கள் உள்ளன."
 
 #: ../comps-f16.xml.in.h:110 ../comps-f17.xml.in.h:115
-#: ../comps-f18.xml.in.h:145 ../comps-f19.xml.in.h:145
+#: ../comps-f18.xml.in.h:145 ../comps-f19.xml.in.h:149
 #: ../comps-el5.xml.in.h:37
 msgid "Graphics"
 msgstr "வரைகலைகள் "
 
 #: ../comps-f16.xml.in.h:111 ../comps-f17.xml.in.h:116
-#: ../comps-f18.xml.in.h:146 ../comps-f19.xml.in.h:146
+#: ../comps-f18.xml.in.h:146 ../comps-f19.xml.in.h:150
 #: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr "இந்த குழு உருவங்களை மாற்ற மற்றும் வருட உதவும் தொகுப்புகளை கொண்டுள்ளது."
 
 #: ../comps-f16.xml.in.h:112 ../comps-f17.xml.in.h:117
-#: ../comps-f18.xml.in.h:147 ../comps-f19.xml.in.h:147
+#: ../comps-f18.xml.in.h:147 ../comps-f19.xml.in.h:151
 #: ../comps-el6.xml.in.h:95
 msgid "Greek Support"
 msgstr "க்ரேக்க துணை"
 
 #: ../comps-f16.xml.in.h:113 ../comps-f17.xml.in.h:118
-#: ../comps-f18.xml.in.h:148 ../comps-f19.xml.in.h:148
+#: ../comps-f18.xml.in.h:148 ../comps-f19.xml.in.h:152
 #: ../comps-el6.xml.in.h:96
 msgid "Gujarati Support"
 msgstr "குஜராத்தி துணை "
@@ -603,32 +602,32 @@ msgid "Haitian Creole Support"
 msgstr "ஹாய்டியன் செரியோல் துணை"
 
 #: ../comps-f16.xml.in.h:115 ../comps-f17.xml.in.h:120
-#: ../comps-f18.xml.in.h:149 ../comps-f19.xml.in.h:149
+#: ../comps-f18.xml.in.h:149 ../comps-f19.xml.in.h:153
 #: ../comps-el5.xml.in.h:39
 msgid "Hardware Support"
 msgstr "வன்பொருள் துணை"
 
 #: ../comps-f16.xml.in.h:116 ../comps-f17.xml.in.h:121
-#: ../comps-f18.xml.in.h:150 ../comps-f19.xml.in.h:150
+#: ../comps-f18.xml.in.h:150 ../comps-f19.xml.in.h:154
 #: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr "இந்தக் குழு பல்வேறு வன்பொருள் குறிப்பிட்ட வசதிகளை கொண்டு தொகுப்பாகும்."
 
 #: ../comps-f16.xml.in.h:117 ../comps-f17.xml.in.h:122
-#: ../comps-f18.xml.in.h:151 ../comps-f19.xml.in.h:151
+#: ../comps-f18.xml.in.h:151 ../comps-f19.xml.in.h:155
 #: ../comps-el6.xml.in.h:101
 msgid "Haskell"
 msgstr "Haskell"
 
 #: ../comps-f16.xml.in.h:118 ../comps-f17.xml.in.h:123
-#: ../comps-f18.xml.in.h:152 ../comps-f19.xml.in.h:152
+#: ../comps-f18.xml.in.h:152 ../comps-f19.xml.in.h:156
 #: ../comps-el6.xml.in.h:102
 msgid "Support for developing programs in the Haskell programming language."
 msgstr "ஹெஸ்கில் நிரலாக்க மொழி வழியாக நிரலாக்க உருவாக்கும் துணை."
 
 #: ../comps-f16.xml.in.h:119 ../comps-f17.xml.in.h:124
-#: ../comps-f18.xml.in.h:153 ../comps-f19.xml.in.h:153
+#: ../comps-f18.xml.in.h:153 ../comps-f19.xml.in.h:157
 #: ../comps-el5.xml.in.h:41 ../comps-el6.xml.in.h:99
 msgid "Hebrew Support"
 msgstr "எபிரேய துணை"
@@ -639,7 +638,7 @@ msgid "Hiligaynon Support"
 msgstr "ஹிலிகைநான் துணை"
 
 #: ../comps-f16.xml.in.h:121 ../comps-f17.xml.in.h:126
-#: ../comps-f18.xml.in.h:154 ../comps-f19.xml.in.h:154
+#: ../comps-f18.xml.in.h:154 ../comps-f19.xml.in.h:158
 #: ../comps-el6.xml.in.h:103
 msgid "Hindi Support"
 msgstr "ஹிந்தி துணை"
@@ -660,13 +659,13 @@ msgid "Indonesian Support"
 msgstr "இந்தோனேஷியன் துணை"
 
 #: ../comps-f16.xml.in.h:125 ../comps-f17.xml.in.h:130
-#: ../comps-f18.xml.in.h:155 ../comps-f19.xml.in.h:155
+#: ../comps-f18.xml.in.h:155 ../comps-f19.xml.in.h:159
 #: ../comps-el6.xml.in.h:109
 msgid "Input Methods"
 msgstr "உள்ளீடு முறைகள்"
 
 #: ../comps-f16.xml.in.h:126 ../comps-f17.xml.in.h:131
-#: ../comps-f18.xml.in.h:156 ../comps-f19.xml.in.h:156
+#: ../comps-f18.xml.in.h:156 ../comps-f19.xml.in.h:160
 msgid "Input method packages for the input of international text."
 msgstr "சர்வதேச உரை உள்ளீடுக்கான உள்ளீடு முறை தொகுப்புகள்"
 
@@ -691,39 +690,39 @@ msgid "Italian Support"
 msgstr "இத்தாலிய துணை"
 
 #: ../comps-f16.xml.in.h:131 ../comps-f17.xml.in.h:136
-#: ../comps-f18.xml.in.h:157 ../comps-f19.xml.in.h:157
+#: ../comps-f18.xml.in.h:157 ../comps-f19.xml.in.h:161
 #: ../comps-el5.xml.in.h:43 ../comps-el6.xml.in.h:119
 msgid "Japanese Support"
 msgstr "ஜப்பானிய துணை"
 
 #: ../comps-f16.xml.in.h:132 ../comps-f17.xml.in.h:137
-#: ../comps-f18.xml.in.h:158 ../comps-f19.xml.in.h:158
+#: ../comps-f18.xml.in.h:158 ../comps-f19.xml.in.h:162
 msgid "Java"
 msgstr "ஜாவா"
 
 #: ../comps-f16.xml.in.h:133 ../comps-f17.xml.in.h:138
-#: ../comps-f18.xml.in.h:159 ../comps-f19.xml.in.h:159
+#: ../comps-f18.xml.in.h:159 ../comps-f19.xml.in.h:163
 msgid "Support for running programs written in the Java programming language."
 msgstr "ஜாவா நிரலாக்க மொழி வழியாக எழுதப்பட்ட நிரல்களை இயக்குவதில் துணை."
 
 #: ../comps-f16.xml.in.h:134 ../comps-f17.xml.in.h:139
-#: ../comps-f18.xml.in.h:160 ../comps-f19.xml.in.h:160
+#: ../comps-f18.xml.in.h:160 ../comps-f19.xml.in.h:164
 msgid "Java Development"
 msgstr "ஜாவா உருவாக்கம்"
 
 #: ../comps-f16.xml.in.h:135 ../comps-f17.xml.in.h:140
-#: ../comps-f18.xml.in.h:161 ../comps-f19.xml.in.h:161
+#: ../comps-f18.xml.in.h:161 ../comps-f19.xml.in.h:165
 msgid "Support for developing programs in the Java programming language."
 msgstr "ஜாவா நிரலாக்க மொழி வழியாக நிரலாக்க உருவாக்கும் துணை."
 
 #: ../comps-f16.xml.in.h:136 ../comps-f17.xml.in.h:141
-#: ../comps-f18.xml.in.h:162 ../comps-f19.xml.in.h:162
+#: ../comps-f18.xml.in.h:162 ../comps-f19.xml.in.h:166
 #: ../comps-el6.xml.in.h:122
 msgid "Kannada Support"
 msgstr "கன்னட துணை"
 
 #: ../comps-f16.xml.in.h:137 ../comps-f17.xml.in.h:142
-#: ../comps-f18.xml.in.h:163 ../comps-f19.xml.in.h:163
+#: ../comps-f18.xml.in.h:163 ../comps-f19.xml.in.h:167
 #: ../comps-el6.xml.in.h:123
 msgid "Kashmiri Support"
 msgstr "காஷ்மீரி துணை"
@@ -743,7 +742,7 @@ msgid "KDE Software Compilation"
 msgstr "KDE மென்பொருள் தொகுப்பு"
 
 #: ../comps-f16.xml.in.h:141 ../comps-f17.xml.in.h:146
-#: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:272
+#: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:283
 msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
@@ -751,19 +750,19 @@ msgid ""
 msgstr "KDE SC  என்பது ஒரு பலகம், பணிமேடை, கணினி சின்னங்கள் மற்றும் ஒரு வரைகலை கோப்பு மேலாளர் ஆகியவற்றை கொண்ட ஒரு வலிமையான வரைகலை, பணிமேடை, கணினி சின்னங்கள் மற்றும் பணிமேடை விட்ஜெட்டுகள், மற்றும் பல வலிமைமிக்க KDE பயன்பாடுகளை கொண்டது."
 
 #: ../comps-f16.xml.in.h:142 ../comps-f17.xml.in.h:147
-#: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:164
+#: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:168
 #: ../comps-el5.xml.in.h:47
 msgid "KDE Software Development"
 msgstr "கேடியி மென்பொருள் உருவாக்கம்"
 
 #: ../comps-f16.xml.in.h:143 ../comps-f17.xml.in.h:148
-#: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:165
+#: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:169
 #: ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
 msgstr "QT மற்றும் KDE வரைகலை பயன்பாடுகளை உருவாக்க இந்த தொகுப்புகளை நிறுவவும்."
 
 #: ../comps-f16.xml.in.h:144 ../comps-f17.xml.in.h:149
-#: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:166
+#: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:170
 #: ../comps-el6.xml.in.h:128
 msgid "Khmer Support"
 msgstr "கமீர் துணை"
@@ -774,19 +773,19 @@ msgid "Kinyarwanda Support"
 msgstr "கின்யார்வாண்டா துணை"
 
 #: ../comps-f16.xml.in.h:146 ../comps-f17.xml.in.h:151
-#: ../comps-f18.xml.in.h:167 ../comps-f19.xml.in.h:167
+#: ../comps-f18.xml.in.h:167 ../comps-f19.xml.in.h:171
 #: ../comps-el6.xml.in.h:130
 msgid "Konkani Support"
 msgstr "கொங்கினி துணை"
 
 #: ../comps-f16.xml.in.h:147 ../comps-f17.xml.in.h:152
-#: ../comps-f18.xml.in.h:168 ../comps-f19.xml.in.h:168
+#: ../comps-f18.xml.in.h:168 ../comps-f19.xml.in.h:172
 #: ../comps-el6.xml.in.h:131
 msgid "Korean Support"
 msgstr "கொரிய துணை"
 
 #: ../comps-f16.xml.in.h:148 ../comps-f17.xml.in.h:153
-#: ../comps-f18.xml.in.h:169 ../comps-f19.xml.in.h:169
+#: ../comps-f18.xml.in.h:169 ../comps-f19.xml.in.h:173
 #: ../comps-el6.xml.in.h:132
 msgid "Kurdish Support"
 msgstr "குர்டிஸ் துணை"
@@ -811,49 +810,49 @@ msgid "Latvian Support"
 msgstr "லுத்துவேனியன் துணை"
 
 #: ../comps-f16.xml.in.h:153 ../comps-f17.xml.in.h:158
-#: ../comps-f18.xml.in.h:170 ../comps-f19.xml.in.h:170
+#: ../comps-f18.xml.in.h:170 ../comps-f19.xml.in.h:174
 msgid "Legacy Fonts"
 msgstr "மூல எழுத்துருக்கள்"
 
 #: ../comps-f16.xml.in.h:154 ../comps-f17.xml.in.h:159
-#: ../comps-f18.xml.in.h:171 ../comps-f19.xml.in.h:171
+#: ../comps-f18.xml.in.h:171 ../comps-f19.xml.in.h:175
 msgid "Older bitmap and vector fonts packages"
 msgstr "பழைய பிட்மேப் மற்றும் வெக்டார் எழுத்துருக்கள் தொகுப்புகள்"
 
 #: ../comps-f16.xml.in.h:155 ../comps-f17.xml.in.h:160
-#: ../comps-f18.xml.in.h:172 ../comps-f19.xml.in.h:172
+#: ../comps-f18.xml.in.h:172 ../comps-f19.xml.in.h:176
 msgid "Legacy Network Server"
 msgstr "பழைய பிணைய சேவையகங்கள்"
 
 #: ../comps-f16.xml.in.h:156 ../comps-f17.xml.in.h:161
-#: ../comps-f18.xml.in.h:173 ../comps-f19.xml.in.h:173
+#: ../comps-f18.xml.in.h:173 ../comps-f19.xml.in.h:177
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 msgstr "இந்த தொகுப்புகள் பழைய பிணைய நெறிமுறைகளான rsh மற்றும் telnet போன்றவற்றின் சேவையகங்களை கொண்டுள்ளது."
 
 #: ../comps-f16.xml.in.h:157 ../comps-f17.xml.in.h:162
-#: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:174
+#: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:178
 msgid "Legacy Software Development"
 msgstr "பழைய மென்பொருள் உருவாக்கம்"
 
 #: ../comps-f16.xml.in.h:158 ../comps-f17.xml.in.h:163
-#: ../comps-f18.xml.in.h:175 ../comps-f19.xml.in.h:175
+#: ../comps-f18.xml.in.h:175 ../comps-f19.xml.in.h:179
 msgid "These packages provide compatibility with previous releases."
 msgstr "இந்த தொகுப்புகள் முந்தைய வெளியீட்டிற்கான உகந்த துணையை கொண்டிருக்கின்றன."
 
 #: ../comps-f16.xml.in.h:159 ../comps-f17.xml.in.h:164
-#: ../comps-f18.xml.in.h:176 ../comps-f19.xml.in.h:176
+#: ../comps-f18.xml.in.h:176 ../comps-f19.xml.in.h:180
 msgid "Legacy Software Support"
 msgstr "பழைய மென்பொருள் துணை"
 
 #: ../comps-f16.xml.in.h:160 ../comps-f17.xml.in.h:165
-#: ../comps-f18.xml.in.h:177 ../comps-f19.xml.in.h:178
+#: ../comps-f18.xml.in.h:177 ../comps-f19.xml.in.h:182
 msgid "LibreOffice Development"
 msgstr "LibreOffice உருவாக்கம்"
 
 #: ../comps-f16.xml.in.h:161 ../comps-f17.xml.in.h:166
-#: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:179
+#: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:183
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr "இந்த தொகுப்புகள் லைபர்ஆஃபிஸ் விரிவாக்கங்கள் அல்லது மேக்ரோக்களை உருவாக்க உதவுகிறது."
@@ -908,19 +907,19 @@ msgid "Macedonian Support"
 msgstr "மாசிடோனியன் துணை"
 
 #: ../comps-f16.xml.in.h:172 ../comps-f17.xml.in.h:177
-#: ../comps-f18.xml.in.h:179 ../comps-f19.xml.in.h:180
+#: ../comps-f18.xml.in.h:179 ../comps-f19.xml.in.h:184
 #: ../comps-el5.xml.in.h:49
 msgid "Mail Server"
 msgstr "அஞ்சல் சேவையகம்"
 
 #: ../comps-f16.xml.in.h:173 ../comps-f17.xml.in.h:178
-#: ../comps-f18.xml.in.h:180 ../comps-f19.xml.in.h:181
+#: ../comps-f18.xml.in.h:180 ../comps-f19.xml.in.h:185
 #: ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr "இந்த தொகுப்புகள் IMAP அல்லது SMTP அஞ்சல் சேவையகத்தை கட்டமைக்க அனுமதிக்கிறது."
 
 #: ../comps-f16.xml.in.h:174 ../comps-f17.xml.in.h:179
-#: ../comps-f18.xml.in.h:181 ../comps-f19.xml.in.h:182
+#: ../comps-f18.xml.in.h:181 ../comps-f19.xml.in.h:186
 #: ../comps-el6.xml.in.h:152
 msgid "Maithili Support"
 msgstr "மேத்லி துணை"
@@ -936,7 +935,7 @@ msgid "Malay Support"
 msgstr "மலாய் துணை"
 
 #: ../comps-f16.xml.in.h:177 ../comps-f17.xml.in.h:182
-#: ../comps-f18.xml.in.h:182 ../comps-f19.xml.in.h:183
+#: ../comps-f18.xml.in.h:182 ../comps-f19.xml.in.h:187
 #: ../comps-el6.xml.in.h:155
 msgid "Malayalam Support"
 msgstr "மலையாள துணை"
@@ -951,680 +950,698 @@ msgstr "மல்தீசிய துணை"
 msgid "Manx Support"
 msgstr "மனக்ஸ் துணை"
 
-#: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:188
+#: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:186
+#: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:189
+msgid "MATE"
+msgstr ""
+
+#: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:187
+#: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:190
+msgid ""
+"MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
+"interface for users who seek a simple easy to use traditional desktop "
+"interface."
+msgstr ""
+
+#: ../comps-f16.xml.in.h:182 ../comps-f17.xml.in.h:188
 #: ../comps-el6.xml.in.h:158
 msgid "Maori Support"
 msgstr "மோரி துணை"
 
-#: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:189
-#: ../comps-f18.xml.in.h:186 ../comps-f19.xml.in.h:187
+#: ../comps-f16.xml.in.h:183 ../comps-f17.xml.in.h:189
+#: ../comps-f18.xml.in.h:186 ../comps-f19.xml.in.h:191
 #: ../comps-el6.xml.in.h:159
 msgid "Marathi Support"
 msgstr "மராத்தி துணை"
 
-#: ../comps-f16.xml.in.h:182 ../comps-f17.xml.in.h:192
+#: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:192
 msgid "MeeGo NetBook UX Environment"
 msgstr "MeeGo NetBook UX சூழல்"
 
-#: ../comps-f16.xml.in.h:183 ../comps-f17.xml.in.h:193
+#: ../comps-f16.xml.in.h:185 ../comps-f17.xml.in.h:193
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
 msgstr "MeeGo NetBook UX ஆனது NetBook/NetTop சாதனங்களுக்கான ஒரு பணிமேடை சூழலாகும்."
 
-#: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:194
-#: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:190
+#: ../comps-f16.xml.in.h:186 ../comps-f17.xml.in.h:194
+#: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:194
 #: ../comps-el6.xml.in.h:160
 msgid "Milkymist"
 msgstr "பால்போன்ற மூடுபனி"
 
-#: ../comps-f16.xml.in.h:185 ../comps-f17.xml.in.h:195
-#: ../comps-f18.xml.in.h:190 ../comps-f19.xml.in.h:191
+#: ../comps-f16.xml.in.h:187 ../comps-f17.xml.in.h:195
+#: ../comps-f18.xml.in.h:190 ../comps-f19.xml.in.h:195
 #: ../comps-el6.xml.in.h:161
 msgid "Toolchain for Milkymist hardware engineers."
 msgstr "மில்க்மிஸ்ட் வன்பொருள் என்ஜினியர்களுக்கான கருவிச்சரம்."
 
-#: ../comps-f16.xml.in.h:186 ../comps-f17.xml.in.h:196
-#: ../comps-f18.xml.in.h:191 ../comps-f19.xml.in.h:192
+#: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:196
+#: ../comps-f18.xml.in.h:191 ../comps-f19.xml.in.h:196
 msgid "MinGW cross-compiler"
 msgstr "MinGW cross-compiler"
 
-#: ../comps-f16.xml.in.h:187 ../comps-f17.xml.in.h:197
-#: ../comps-f18.xml.in.h:192 ../comps-f19.xml.in.h:193
+#: ../comps-f16.xml.in.h:189 ../comps-f17.xml.in.h:197
+#: ../comps-f18.xml.in.h:192 ../comps-f19.xml.in.h:197
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 msgstr "32 பின் விண்டோஸ் இலக்குகளுக்கு குறுக்கு நிரல்கள், சோதித்தல் மற்றும் நிறுவிகளை உருவாக்குதல் அனைத்தும் ஃபெடோராவிலிருந்து துணைபுரிகிறது"
 
-#: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:198
+#: ../comps-f16.xml.in.h:190 ../comps-f17.xml.in.h:198
 #: ../comps-el6.xml.in.h:162
 msgid "Mongolian Support"
 msgstr "மங்கோலியன் துணை"
 
-#: ../comps-f16.xml.in.h:189 ../comps-f17.xml.in.h:199
+#: ../comps-f16.xml.in.h:191 ../comps-f17.xml.in.h:199
 msgid "Mossi Support"
 msgstr "மோஸி துணை"
 
-#: ../comps-f16.xml.in.h:190 ../comps-f17.xml.in.h:200
-#: ../comps-f18.xml.in.h:193 ../comps-f19.xml.in.h:194
+#: ../comps-f16.xml.in.h:192 ../comps-f17.xml.in.h:200
+#: ../comps-f18.xml.in.h:193
 msgid "MySQL Database"
 msgstr "MySQL தரவுத்தளம்"
 
-#: ../comps-f16.xml.in.h:191 ../comps-f17.xml.in.h:201
-#: ../comps-f18.xml.in.h:194 ../comps-f19.xml.in.h:195
+#: ../comps-f16.xml.in.h:193 ../comps-f17.xml.in.h:201
+#: ../comps-f18.xml.in.h:194
 msgid "This package group contains packages useful for use with MySQL."
 msgstr "இந்த தொகுப்பு குழு MySQLஐ பயன்படுத்துவதற்கான தொகுப்புகளை கொண்டுள்ளது."
 
-#: ../comps-f16.xml.in.h:192 ../comps-f17.xml.in.h:202
-#: ../comps-f18.xml.in.h:195 ../comps-f19.xml.in.h:196
+#: ../comps-f16.xml.in.h:194 ../comps-f17.xml.in.h:202
+#: ../comps-f18.xml.in.h:195 ../comps-f19.xml.in.h:200
 #: ../comps-el6.xml.in.h:167
 msgid "Nepali Support"
 msgstr "நேபாளி துணை"
 
-#: ../comps-f16.xml.in.h:193 ../comps-f17.xml.in.h:203
-#: ../comps-f18.xml.in.h:196 ../comps-f19.xml.in.h:197
+#: ../comps-f16.xml.in.h:195 ../comps-f17.xml.in.h:203
+#: ../comps-f18.xml.in.h:196 ../comps-f19.xml.in.h:201
 #: ../comps-el5.xml.in.h:51
 msgid "Network Servers"
 msgstr "பிணைய சேவையகங்கள்"
 
-#: ../comps-f16.xml.in.h:194 ../comps-f17.xml.in.h:204
-#: ../comps-f18.xml.in.h:197 ../comps-f19.xml.in.h:198
+#: ../comps-f16.xml.in.h:196 ../comps-f17.xml.in.h:204
+#: ../comps-f18.xml.in.h:197 ../comps-f19.xml.in.h:202
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr "இந்த தொகுப்புகள் பிணைய அடிப்படையான சேவையகங்களான DHCP, Kerberos மற்றும் NISபோன்றவற்றை கொண்டுள்ளன."
 
-#: ../comps-f16.xml.in.h:195 ../comps-f17.xml.in.h:205
-#: ../comps-f18.xml.in.h:198 ../comps-f19.xml.in.h:199
+#: ../comps-f16.xml.in.h:197 ../comps-f17.xml.in.h:205
+#: ../comps-f18.xml.in.h:198 ../comps-f19.xml.in.h:203
 #: ../comps-el5.xml.in.h:53
 msgid "News Server"
 msgstr "செய்தி சேவையகம்"
 
-#: ../comps-f16.xml.in.h:196 ../comps-f17.xml.in.h:206
-#: ../comps-f18.xml.in.h:199 ../comps-f19.xml.in.h:200
+#: ../comps-f16.xml.in.h:198 ../comps-f17.xml.in.h:206
+#: ../comps-f18.xml.in.h:199 ../comps-f19.xml.in.h:204
 #: ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
 msgstr "இந்த குழு நீங்கள் கணினியில் ஒரு செய்தி சேவையகமாக கட்டமைக்க உதவுகிறது."
 
-#: ../comps-f16.xml.in.h:197 ../comps-f17.xml.in.h:207
+#: ../comps-f16.xml.in.h:199 ../comps-f17.xml.in.h:207
 msgid "Northern Sami Support"
 msgstr "வட சாமி துணை"
 
-#: ../comps-f16.xml.in.h:198 ../comps-f17.xml.in.h:208
+#: ../comps-f16.xml.in.h:200 ../comps-f17.xml.in.h:208
 #: ../comps-el6.xml.in.h:176
 msgid "Northern Sotho Support"
 msgstr "வட சோதோ துணை"
 
-#: ../comps-f16.xml.in.h:199 ../comps-f17.xml.in.h:209
+#: ../comps-f16.xml.in.h:201 ../comps-f17.xml.in.h:209
 #: ../comps-el6.xml.in.h:177
 msgid "Norwegian Support"
 msgstr "நார்வேஜியன் துணை"
 
-#: ../comps-f16.xml.in.h:200 ../comps-f17.xml.in.h:210
-#: ../comps-f18.xml.in.h:200 ../comps-f19.xml.in.h:201
+#: ../comps-f16.xml.in.h:202 ../comps-f17.xml.in.h:210
+#: ../comps-f18.xml.in.h:200 ../comps-f19.xml.in.h:205
 msgid "OCaml"
 msgstr "OCaml"
 
-#: ../comps-f16.xml.in.h:201 ../comps-f17.xml.in.h:211
-#: ../comps-f18.xml.in.h:201 ../comps-f19.xml.in.h:202
+#: ../comps-f16.xml.in.h:203 ../comps-f17.xml.in.h:211
+#: ../comps-f18.xml.in.h:201 ../comps-f19.xml.in.h:206
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
 msgstr "Objective CAML programming மொழி மற்றும் நூலகம் மூலம் மென்பொருள் உருவாக்குதல் சேவை."
 
-#: ../comps-f16.xml.in.h:202 ../comps-f17.xml.in.h:212
+#: ../comps-f16.xml.in.h:204 ../comps-f17.xml.in.h:212
 #: ../comps-el6.xml.in.h:178
 msgid "Occitan Support"
 msgstr "ஆகிடன் துணை"
 
-#: ../comps-f16.xml.in.h:203 ../comps-f17.xml.in.h:213
-#: ../comps-f18.xml.in.h:202 ../comps-f19.xml.in.h:203
+#: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:213
+#: ../comps-f18.xml.in.h:202 ../comps-f19.xml.in.h:207
 #: ../comps-el5.xml.in.h:55
 msgid "Office/Productivity"
 msgstr "அலுவலகம்/உற்பத்தி திறன்"
 
-#: ../comps-f16.xml.in.h:204 ../comps-f17.xml.in.h:214
-#: ../comps-f18.xml.in.h:203 ../comps-f19.xml.in.h:204
+#: ../comps-f16.xml.in.h:206 ../comps-f17.xml.in.h:214
+#: ../comps-f18.xml.in.h:203 ../comps-f19.xml.in.h:208
 #: ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr "அலுவலக தொகுப்புகள், PDF காட்டிகள், மற்றும் பல பயன்பாடுகள் அடங்கும்."
 
-#: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:215
-#: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:205
+#: ../comps-f16.xml.in.h:207 ../comps-f17.xml.in.h:215
+#: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:209
 msgid "Online Help and Documentation"
 msgstr "இணைய உதவி மற்றும் ஆவணம்"
 
-#: ../comps-f16.xml.in.h:206 ../comps-f17.xml.in.h:216
-#: ../comps-f18.xml.in.h:205 ../comps-f19.xml.in.h:206
+#: ../comps-f16.xml.in.h:208 ../comps-f17.xml.in.h:216
+#: ../comps-f18.xml.in.h:205 ../comps-f19.xml.in.h:210
 #: ../comps-el6.xml.in.h:181
 msgid "Oriya Support"
 msgstr "ஒரியா துணை"
 
-#: ../comps-f16.xml.in.h:207 ../comps-f17.xml.in.h:217
+#: ../comps-f16.xml.in.h:209 ../comps-f17.xml.in.h:217
 msgid "Oromo Support"
 msgstr "ஒரோமோ துணை"
 
-#: ../comps-f16.xml.in.h:208 ../comps-f17.xml.in.h:218
-#: ../comps-f18.xml.in.h:206 ../comps-f19.xml.in.h:207
+#: ../comps-f16.xml.in.h:210 ../comps-f17.xml.in.h:218
+#: ../comps-f18.xml.in.h:206 ../comps-f19.xml.in.h:211
 msgid "Perl Development"
 msgstr "Perl உருவாக்கம்"
 
-#: ../comps-f16.xml.in.h:209 ../comps-f17.xml.in.h:219
-#: ../comps-f18.xml.in.h:207 ../comps-f19.xml.in.h:208
+#: ../comps-f16.xml.in.h:211 ../comps-f17.xml.in.h:219
+#: ../comps-f18.xml.in.h:207 ../comps-f19.xml.in.h:212
 msgid "Support for developing programs in the Perl programming language."
 msgstr "Perl நிரலாக்க மொழி வழியாக நிரலாக்க உருவாக்கும் சேவை."
 
-#: ../comps-f16.xml.in.h:210 ../comps-f17.xml.in.h:220
-#: ../comps-f18.xml.in.h:208 ../comps-f19.xml.in.h:209
+#: ../comps-f16.xml.in.h:212 ../comps-f17.xml.in.h:220
+#: ../comps-f18.xml.in.h:208 ../comps-f19.xml.in.h:213
 #: ../comps-el6.xml.in.h:186
 msgid "Persian Support"
 msgstr "பெர்ஷியன் துணை"
 
-#: ../comps-f16.xml.in.h:211 ../comps-f17.xml.in.h:221
+#: ../comps-f16.xml.in.h:213 ../comps-f17.xml.in.h:221
 #: ../comps-el6.xml.in.h:189
 msgid "Polish Support"
 msgstr "போலிஷ் துணை"
 
-#: ../comps-f16.xml.in.h:212 ../comps-f17.xml.in.h:222
+#: ../comps-f16.xml.in.h:214 ../comps-f17.xml.in.h:222
 #: ../comps-el6.xml.in.h:190
 msgid "Portuguese Support"
 msgstr "போர்ச்சுகீசிய துணை"
 
-#: ../comps-f16.xml.in.h:213 ../comps-f17.xml.in.h:223
-#: ../comps-f18.xml.in.h:209 ../comps-f19.xml.in.h:210
+#: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:223
+#: ../comps-f18.xml.in.h:209 ../comps-f19.xml.in.h:214
 msgid "Printing Support"
 msgstr "அச்சிடல் துணை"
 
-#: ../comps-f16.xml.in.h:214 ../comps-f17.xml.in.h:224
-#: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
+#: ../comps-f16.xml.in.h:216 ../comps-f17.xml.in.h:224
+#: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:215
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
 msgstr "அச்சிட அல்லது ஒரு அச்சு சேவையகமாக பணியாற்ற கணினியை செயல்படுத்த இந்த கருவிகளை செயல்படுத்தவும்."
 
-#: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
-#: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
+#: ../comps-f16.xml.in.h:217 ../comps-f17.xml.in.h:225
+#: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:216
 #: ../comps-el6.xml.in.h:199
 msgid "Punjabi Support"
 msgstr "பஞ்சாபி துணை"
 
-#: ../comps-f16.xml.in.h:216 ../comps-f17.xml.in.h:226
+#: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:226
 msgid "Quechua Support"
 msgstr "க்யூச்சியா துணை"
 
-#: ../comps-f16.xml.in.h:217 ../comps-f17.xml.in.h:227
-#: ../comps-f18.xml.in.h:212 ../comps-f19.xml.in.h:213
+#: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:227
+#: ../comps-f18.xml.in.h:212 ../comps-f19.xml.in.h:217
 msgid "Robotics"
 msgstr "ரோபோடிக்ஸ்"
 
-#: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:228
+#: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:228
+#: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:218
+msgid "Suite of packages for robotics development"
+msgstr ""
+
+#: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:229
 #: ../comps-el6.xml.in.h:201
 msgid "Romanian Support"
 msgstr "ரோமானிய துணை"
 
-#: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:229
-#: ../comps-f18.xml.in.h:214 ../comps-f19.xml.in.h:215
+#: ../comps-f16.xml.in.h:222 ../comps-f17.xml.in.h:230
+#: ../comps-f18.xml.in.h:214 ../comps-f19.xml.in.h:219
 msgid "Ruby"
 msgstr "ரூபி"
 
-#: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:230
-#: ../comps-f18.xml.in.h:215 ../comps-f19.xml.in.h:216
+#: ../comps-f16.xml.in.h:223 ../comps-f17.xml.in.h:231
+#: ../comps-f18.xml.in.h:215 ../comps-f19.xml.in.h:220
 msgid "Basic support for the Ruby programming language."
 msgstr "ரூபி நிரலாக்க மொழிக்கு அடிப்படை துணை உண்டு."
 
-#: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:231
-#: ../comps-f18.xml.in.h:216 ../comps-f19.xml.in.h:217
+#: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:232
+#: ../comps-f18.xml.in.h:216 ../comps-f19.xml.in.h:221
 #: ../comps-el6.xml.in.h:202
 msgid "Russian Support"
 msgstr "ரஷ்ய துணை"
 
-#: ../comps-f16.xml.in.h:222 ../comps-f17.xml.in.h:232
+#: ../comps-f16.xml.in.h:225 ../comps-f17.xml.in.h:233
 msgid "Samoan Support"
 msgstr "சாமோன் துணை"
 
-#: ../comps-f16.xml.in.h:223 ../comps-f17.xml.in.h:233
-#: ../comps-f18.xml.in.h:217 ../comps-f19.xml.in.h:218
+#: ../comps-f16.xml.in.h:226 ../comps-f17.xml.in.h:234
+#: ../comps-f18.xml.in.h:217 ../comps-f19.xml.in.h:222
 #: ../comps-el6.xml.in.h:203
 msgid "Sanskrit Support"
 msgstr "ஸான்ஸ்கிரிட் துணை"
 
-#: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:235
+#: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:236
 #: ../comps-el6.xml.in.h:204
 msgid "Sardinian Support"
 msgstr "சார்டியன் துணை"
 
-#: ../comps-f16.xml.in.h:225 ../comps-f17.xml.in.h:236
+#: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:237
 #: ../comps-el6.xml.in.h:209
 msgid "Serbian Support"
 msgstr "செர்பிய துணை"
 
-#: ../comps-f16.xml.in.h:226 ../comps-f17.xml.in.h:237
-#: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
+#: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:238
+#: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:226
 msgid "Server Configuration Tools"
 msgstr "சேவையக கட்டமைப்பு கருவிகள்"
 
-#: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
-#: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:223
+#: ../comps-f16.xml.in.h:230 ../comps-f17.xml.in.h:239
+#: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:227
 msgid ""
 "This group contains all of Red Hat's custom server configuration tools."
 msgstr "இந்த குழு Red Hat இன் அனைத்து தனிப்பயன் சேவையக கட்டமைப்பு கருவிகளையும் கொண்டுள்ளது."
 
-#: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
+#: ../comps-f16.xml.in.h:231 ../comps-f17.xml.in.h:240
 msgid "Shuswap Support"
 msgstr "ஸ்வாப் துணை"
 
-#: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:240
-#: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:224
+#: ../comps-f16.xml.in.h:232 ../comps-f17.xml.in.h:241
+#: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:228
 msgid "Simplified Chinese Support"
 msgstr "எளிமையாக்கப்பட்ட சீன துணை"
 
-#: ../comps-f16.xml.in.h:230 ../comps-f17.xml.in.h:241
-#: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:225
+#: ../comps-f16.xml.in.h:233 ../comps-f17.xml.in.h:242
+#: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:229
 #: ../comps-el6.xml.in.h:216
 msgid "Sindhi Support"
 msgstr "சிந்தி துணை"
 
-#: ../comps-f16.xml.in.h:231 ../comps-f17.xml.in.h:242
-#: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:226
+#: ../comps-f16.xml.in.h:234 ../comps-f17.xml.in.h:243
+#: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:230
 #: ../comps-el6.xml.in.h:217
 msgid "Sinhala Support"
 msgstr "சிங்கள துணை"
 
-#: ../comps-f16.xml.in.h:232 ../comps-f17.xml.in.h:243
+#: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:244
 #: ../comps-el6.xml.in.h:218
 msgid "Slovak Support"
 msgstr "ஸ்லோவாக்கிய துணை"
 
-#: ../comps-f16.xml.in.h:233 ../comps-f17.xml.in.h:244
+#: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:245
 #: ../comps-el6.xml.in.h:219
 msgid "Slovenian Support"
 msgstr "ஸ்லொவேனிய ஆதரவு"
 
-#: ../comps-f16.xml.in.h:234 ../comps-f17.xml.in.h:245
-#: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
+#: ../comps-f16.xml.in.h:237 ../comps-f17.xml.in.h:246
+#: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:231
 msgid "Windows File Server"
 msgstr "விண்டோஸ் கோப்பு சேவையகம்"
 
-#: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
-#: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:228
+#: ../comps-f16.xml.in.h:238 ../comps-f17.xml.in.h:247
+#: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:232
 msgid ""
 "This package group allows you to share files between Linux and MS "
 "Windows(tm) systems."
 msgstr "இந்த தொகுப்பு குழு லினக்ஸ் மற்றும் MS விண்டோஸ்(tm) கணினிகளுக்கிடையே கோப்புகளை பரிமாற உதவுகிறது."
 
-#: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
+#: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:248
 msgid "Somali Support"
 msgstr "சோமாலி துணை"
 
-#: ../comps-f16.xml.in.h:237 ../comps-f17.xml.in.h:248
-#: ../comps-f18.xml.in.h:226 ../comps-f19.xml.in.h:229
+#: ../comps-f16.xml.in.h:240 ../comps-f17.xml.in.h:249
+#: ../comps-f18.xml.in.h:226 ../comps-f19.xml.in.h:233
 #: ../comps-el5.xml.in.h:57
 msgid "Sound and Video"
 msgstr "ஒலி மற்றும் வீடியோ"
 
-#: ../comps-f16.xml.in.h:238 ../comps-f17.xml.in.h:249
-#: ../comps-f18.xml.in.h:227 ../comps-f19.xml.in.h:230
+#: ../comps-f16.xml.in.h:241 ../comps-f17.xml.in.h:250
+#: ../comps-f18.xml.in.h:227 ../comps-f19.xml.in.h:234
 #: ../comps-el5.xml.in.h:58
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr "குறுவட்டு பதிவிலிருந்து கேட்பொலி குறுவட்டுக்கள் மற்றும் பல்லூடக கோப்புகளை இயக்க, இந்த தொகுப்பு குழு உங்கள் கணினியில் ஒலி மற்றும் வீடியோக்களில் பணி செய்ய அனுமதிக்கிறது."
 
-#: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:250
+#: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:251
 #: ../comps-el6.xml.in.h:222
 msgid "Southern Ndebele Support"
 msgstr "தென் டிபிலே துணை"
 
-#: ../comps-f16.xml.in.h:240 ../comps-f17.xml.in.h:251
+#: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:252
 #: ../comps-el6.xml.in.h:223
 msgid "Southern Sotho Support"
 msgstr "தென் சோதோ துணை"
 
-#: ../comps-f16.xml.in.h:241 ../comps-f17.xml.in.h:252
+#: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:253
 #: ../comps-el6.xml.in.h:224
 msgid "Spanish Support"
 msgstr "ஸ்பானிஷ் துணை"
 
-#: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:253
-#: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:231
+#: ../comps-f16.xml.in.h:245 ../comps-f17.xml.in.h:254
+#: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:235
 msgid "PostgreSQL Database"
 msgstr "PostgreSQL தரவுத்தளம்"
 
-#: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:254
-#: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
+#: ../comps-f16.xml.in.h:246 ../comps-f17.xml.in.h:255
+#: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:236
 msgid "This package group includes packages useful for use with Postgresql."
 msgstr "இந்த தொகுப்பு குழு Postgresql பயன்படுத்துவதற்கான வசதிகளை கொண்ட தொகுப்புகளை கொண்டுள்ளது."
 
-#: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:255
-#: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:233
+#: ../comps-f16.xml.in.h:247 ../comps-f17.xml.in.h:256
+#: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:237
 msgid "Sugar Desktop Environment"
 msgstr "சுகர் பணிமேடை சூழல்கள்"
 
-#: ../comps-f16.xml.in.h:245 ../comps-f17.xml.in.h:256
-#: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:234
+#: ../comps-f16.xml.in.h:248 ../comps-f17.xml.in.h:257
+#: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:238
 msgid "A software playground for learning about learning."
 msgstr "கற்றலை கற்பது தொடர்பான ஒரு மென்பொருள் விளையாட்டு மைதானம்"
 
-#: ../comps-f16.xml.in.h:246 ../comps-f17.xml.in.h:257
+#: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:258
 #: ../comps-el6.xml.in.h:233
 msgid "Swahili Support"
 msgstr "ஸ்வாஹிலி துணை"
 
-#: ../comps-f16.xml.in.h:247 ../comps-f17.xml.in.h:258
+#: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:259
 #: ../comps-el6.xml.in.h:234
 msgid "Swati Support"
 msgstr "ஸ்வாடி துணை"
 
-#: ../comps-f16.xml.in.h:248 ../comps-f17.xml.in.h:259
+#: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:260
 #: ../comps-el6.xml.in.h:235
 msgid "Swedish Support"
 msgstr "ஸ்வீடிஸ் துணை"
 
-#: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:260
-#: ../comps-f18.xml.in.h:232 ../comps-f19.xml.in.h:235
+#: ../comps-f16.xml.in.h:252 ../comps-f17.xml.in.h:261
+#: ../comps-f18.xml.in.h:232 ../comps-f19.xml.in.h:239
 #: ../comps-el5.xml.in.h:59
 msgid "System Tools"
 msgstr "கணினி கருவிகள்"
 
-#: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:261
-#: ../comps-f18.xml.in.h:233 ../comps-f19.xml.in.h:236
+#: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:262
+#: ../comps-f18.xml.in.h:233 ../comps-f19.xml.in.h:240
 #: ../comps-el5.xml.in.h:60
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr "இந்த குழு கணினிக்கான பல்வேறு கருவிகள் அடங்கிய தொகுப்பாகும், அதாவது SMB பங்குகளுக்கு தொடர்பு கொள்ளும் மற்றும் பிணைய போக்குவரத்தை கண்காணிக்கும் கருவிகள் ஆகும்."
 
-#: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:262
+#: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:263
 #: ../comps-el6.xml.in.h:248
 msgid "Tagalog Support"
 msgstr "டகலாக் துணை"
 
-#: ../comps-f16.xml.in.h:252 ../comps-f17.xml.in.h:263
+#: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:264
 #: ../comps-el6.xml.in.h:249
 msgid "Tajik Support"
 msgstr "தாஜிக் துணை"
 
-#: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:264
-#: ../comps-f18.xml.in.h:234 ../comps-f19.xml.in.h:237
+#: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:265
+#: ../comps-f18.xml.in.h:234 ../comps-f19.xml.in.h:241
 #: ../comps-el6.xml.in.h:250
 msgid "Tamil Support"
 msgstr "தமிழ் துணை"
 
-#: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:265
-#: ../comps-f18.xml.in.h:235 ../comps-f19.xml.in.h:238
+#: ../comps-f16.xml.in.h:257 ../comps-f17.xml.in.h:266
+#: ../comps-f18.xml.in.h:235 ../comps-f19.xml.in.h:242
 #: ../comps-el6.xml.in.h:253
 msgid "Telugu Support"
 msgstr "தெலுங்கு துணை"
 
-#: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:266
+#: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:267
 #: ../comps-el6.xml.in.h:254
 msgid "Tetum Support"
 msgstr "டீடம் துணை"
 
-#: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:267
-#: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:239
+#: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:268
+#: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:243
 #: ../comps-el5.xml.in.h:61
 msgid "Text-based Internet"
 msgstr "உரை அடிப்படையிலான இணையம்"
 
-#: ../comps-f16.xml.in.h:257 ../comps-f17.xml.in.h:268
-#: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:240
+#: ../comps-f16.xml.in.h:260 ../comps-f17.xml.in.h:269
+#: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:244
 #: ../comps-el5.xml.in.h:62
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr "இந்த குழுவில் உரை அடிப்படையான மின்னஞ்சல், இணையம் மற்றும் அரட்டை கிளையன்கள் உள்ளன. இவற்றுக்கு X சாளர அமைப்பு தேவையில்லை."
 
-#: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:269
-#: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:241
+#: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:270
+#: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:245
 #: ../comps-el6.xml.in.h:257
 msgid "Thai Support"
 msgstr "தாய் துணை"
 
-#: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:270
-#: ../comps-f18.xml.in.h:239 ../comps-f19.xml.in.h:242
+#: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:271
+#: ../comps-f18.xml.in.h:239 ../comps-f19.xml.in.h:246
 #: ../comps-el6.xml.in.h:258
 msgid "Tibetan Support"
 msgstr "திபேத்தின் துணை"
 
-#: ../comps-f16.xml.in.h:260 ../comps-f17.xml.in.h:271
+#: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:272
 msgid "Tigrinya Support"
 msgstr "டிக்ரின்யா துணை"
 
-#: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:272
+#: ../comps-f16.xml.in.h:264 ../comps-f17.xml.in.h:273
 msgid "Tonga Support"
 msgstr "டோங்கா துணை"
 
-#: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:273
-#: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:243
+#: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:274
+#: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:247
 msgid "Traditional Chinese Support"
 msgstr "பாரம்பரிய சீன துணை"
 
-#: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:274
+#: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:275
 #: ../comps-el6.xml.in.h:259
 msgid "Tsonga Support"
 msgstr "சோங்கா துணை"
 
-#: ../comps-f16.xml.in.h:264 ../comps-f17.xml.in.h:275
+#: ../comps-f16.xml.in.h:267 ../comps-f17.xml.in.h:276
 #: ../comps-el6.xml.in.h:260
 msgid "Tswana Support"
 msgstr "சுவானா துணை"
 
-#: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:276
+#: ../comps-f16.xml.in.h:268 ../comps-f17.xml.in.h:277
 #: ../comps-el6.xml.in.h:263
 msgid "Turkish Support"
 msgstr "துருக்கிய துணை"
 
-#: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:277
+#: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:278
 #: ../comps-el6.xml.in.h:264
 msgid "Turkmen Support"
 msgstr "துருக்மென் துணை"
 
-#: ../comps-f16.xml.in.h:267 ../comps-f17.xml.in.h:278
+#: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:279
 #: ../comps-el6.xml.in.h:265
 msgid "Ukrainian Support"
 msgstr "உக்ரேனிய துணை"
 
-#: ../comps-f16.xml.in.h:268 ../comps-f17.xml.in.h:279
+#: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:280
 #: ../comps-el6.xml.in.h:266
 msgid "Upper Sorbian Support"
 msgstr "மேல் செர்பிய துணை"
 
-#: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:280
-#: ../comps-f18.xml.in.h:241 ../comps-f19.xml.in.h:244
+#: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:281
+#: ../comps-f18.xml.in.h:241 ../comps-f19.xml.in.h:248
 #: ../comps-el6.xml.in.h:267
 msgid "Urdu Support"
 msgstr "உருது துணை"
 
-#: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:281
+#: ../comps-f16.xml.in.h:273 ../comps-f17.xml.in.h:282
 #: ../comps-el6.xml.in.h:268
 msgid "Uzbek Support"
 msgstr "உஸ்பெக் துணை"
 
-#: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:282
+#: ../comps-f16.xml.in.h:274 ../comps-f17.xml.in.h:283
 #: ../comps-el6.xml.in.h:269
 msgid "Venda Support"
 msgstr "வெண்டா துணை"
 
-#: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:283
-#: ../comps-el6.xml.in.h:270
+#: ../comps-f16.xml.in.h:275 ../comps-f17.xml.in.h:284
+#: ../comps-f19.xml.in.h:249 ../comps-el6.xml.in.h:270
 msgid "Vietnamese Support"
 msgstr "வியட்நாமிஸ் துணை"
 
-#: ../comps-f16.xml.in.h:273 ../comps-f18.xml.in.h:242
-#: ../comps-f19.xml.in.h:245 ../comps-el6.xml.in.h:271
+#: ../comps-f16.xml.in.h:276 ../comps-f18.xml.in.h:242
+#: ../comps-f19.xml.in.h:254 ../comps-el6.xml.in.h:271
 msgid "Virtualization"
 msgstr "மெய்நிகராக்கம்"
 
-#: ../comps-f16.xml.in.h:274 ../comps-f17.xml.in.h:285
-#: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
+#: ../comps-f16.xml.in.h:277 ../comps-f17.xml.in.h:286
+#: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:255
 msgid "These packages provide a virtualization environment."
 msgstr "இந்த தொகுப்புகள் ஒரு மெய்நிகராக்க சூழலை கொடுக்கிறது."
 
-#: ../comps-f16.xml.in.h:275 ../comps-f17.xml.in.h:288
+#: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:289
 #: ../comps-el6.xml.in.h:279
 msgid "Walloon Support"
 msgstr "வாலூன் சேவை"
 
-#: ../comps-f16.xml.in.h:276 ../comps-f17.xml.in.h:289
+#: ../comps-f16.xml.in.h:279 ../comps-f17.xml.in.h:290
 #: ../comps-el5.xml.in.h:63
 msgid "Web Development"
 msgstr "இணைய உருவாக்கம்"
 
-#: ../comps-f16.xml.in.h:277 ../comps-f17.xml.in.h:290
+#: ../comps-f16.xml.in.h:280 ../comps-f17.xml.in.h:291
 #: ../comps-el5.xml.in.h:64
 msgid ""
 "These packages are helpful when developing web applications or web pages."
 msgstr "இந்த தொகுப்புகள் இணைய பயன்பாடுகள் அல்லது இணைய பக்கங்களை உருவாக்க உதவுகிறது."
 
-#: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:291
-#: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:263
+#: ../comps-f16.xml.in.h:281 ../comps-f17.xml.in.h:292
+#: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:275
 #: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
 msgid "Web Server"
 msgstr "இணைய சேவையகம்"
 
-#: ../comps-f16.xml.in.h:279 ../comps-f17.xml.in.h:292
-#: ../comps-f18.xml.in.h:245 ../comps-f19.xml.in.h:248
+#: ../comps-f16.xml.in.h:282 ../comps-f17.xml.in.h:293
+#: ../comps-f18.xml.in.h:245 ../comps-f19.xml.in.h:257
 #: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
 msgstr "இந்த கருவிகள் நீங்கள் கணினியில் இணைய சேவையகத்தை இயக்க உதவுகிறது."
 
-#: ../comps-f16.xml.in.h:280 ../comps-f17.xml.in.h:293
+#: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:294
 #: ../comps-el6.xml.in.h:284
 msgid "Welsh Support"
 msgstr "வெல்ஷ் ஆதரவு"
 
-#: ../comps-f16.xml.in.h:281 ../comps-f17.xml.in.h:294
-#: ../comps-f18.xml.in.h:246 ../comps-f19.xml.in.h:249
+#: ../comps-f16.xml.in.h:284 ../comps-f17.xml.in.h:295
+#: ../comps-f18.xml.in.h:246 ../comps-f19.xml.in.h:258
 #: ../comps-el5.xml.in.h:67
 msgid "Window Managers"
 msgstr "சாளர மேலாளர்கள்"
 
-#: ../comps-f16.xml.in.h:282 ../comps-f17.xml.in.h:295
-#: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:250
+#: ../comps-f16.xml.in.h:285 ../comps-f17.xml.in.h:296
+#: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:259
 #: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr "எளிய சாளர மேலாளர்கள் பெரிய பணிமேடை சூழலின் பகுதி இல்லை."
 
-#: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:296
-#: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:251
+#: ../comps-f16.xml.in.h:286 ../comps-f17.xml.in.h:297
+#: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:260
 msgid "X Software Development"
 msgstr "X மென்பொருள் உருவாக்கம்"
 
-#: ../comps-f16.xml.in.h:284 ../comps-f17.xml.in.h:297
-#: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
+#: ../comps-f16.xml.in.h:287 ../comps-f17.xml.in.h:298
+#: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:261
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr "இந்த தொகுப்புகள் X சாளர கணினிகளின் பயன்பாடுகளை உருவாக்க உதவுகிறது."
 
-#: ../comps-f16.xml.in.h:285 ../comps-f17.xml.in.h:298
+#: ../comps-f16.xml.in.h:288 ../comps-f17.xml.in.h:299
 #: ../comps-f18.xml.in.h:26 ../comps-f19.xml.in.h:26 ../comps-el6.xml.in.h:289
 msgid "Xfce"
 msgstr "Xfce"
 
-#: ../comps-f16.xml.in.h:286 ../comps-f17.xml.in.h:299
+#: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:300
 #: ../comps-f18.xml.in.h:27 ../comps-f19.xml.in.h:27 ../comps-el6.xml.in.h:290
 msgid "A lightweight desktop environment that works well on low end machines."
 msgstr "ஒரு lightweight பணிமேடை சூழல் குறைந்த செயல்திறன் கொண்ட கணினிகளில் நன்றாக பணியாற்றுகிறது."
 
-#: ../comps-f16.xml.in.h:287 ../comps-f17.xml.in.h:300
+#: ../comps-f16.xml.in.h:290 ../comps-f17.xml.in.h:301
 msgid "XFCE Software Development"
 msgstr "XFCE மென்பொருள் உருவாக்கம்"
 
-#: ../comps-f16.xml.in.h:288 ../comps-f17.xml.in.h:301
+#: ../comps-f16.xml.in.h:291 ../comps-f17.xml.in.h:302
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
 msgstr "GTK+ மற்றும் XFCE வரைகலை பயன்பாடுகளை உருவாக்க இந்த தொகுப்புகளை நிறுவவும்."
 
-#: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:302
+#: ../comps-f16.xml.in.h:292 ../comps-f17.xml.in.h:303
 #: ../comps-el6.xml.in.h:291
 msgid "Xhosa Support"
 msgstr "க்சோசா துணை"
 
-#: ../comps-f16.xml.in.h:290 ../comps-f17.xml.in.h:303
-#: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
+#: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:304
+#: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:264
 msgid "Yiddish Support"
 msgstr "யிட்டீஷ் துணை"
 
-#: ../comps-f16.xml.in.h:291 ../comps-f17.xml.in.h:304
+#: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:305
 #: ../comps-el6.xml.in.h:292
 msgid "Zulu Support"
 msgstr "ஸுலு துணை"
 
-#: ../comps-f16.xml.in.h:292 ../comps-f17.xml.in.h:305
+#: ../comps-f16.xml.in.h:295 ../comps-f17.xml.in.h:306
 msgid "Languages"
 msgstr "மொழிகள்"
 
-#: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
+#: ../comps-f16.xml.in.h:296 ../comps-f17.xml.in.h:307
 msgid ""
 "These packages provide support for various locales including fonts and input"
 " methods."
 msgstr "இந்த தொகுப்புகள் பல்வேறு இருப்பிடங்கள் அதாவது எழுத்துரு மற்றும் உள்ளீடு முறைகளின் துணையை தருகிறது."
 
-#: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
+#: ../comps-f16.xml.in.h:297 ../comps-f17.xml.in.h:308
 #: ../comps-el5.xml.in.h:71
 msgid "Desktop Environments"
 msgstr "பணிமேடை சூழல்கள்"
 
-#: ../comps-f16.xml.in.h:295 ../comps-f17.xml.in.h:308
+#: ../comps-f16.xml.in.h:298 ../comps-f17.xml.in.h:309
 #: ../comps-el5.xml.in.h:72
 msgid "Desktop environments"
 msgstr "பணிமேடை சூழல்கள்"
 
-#: ../comps-f16.xml.in.h:296 ../comps-f17.xml.in.h:309
-#: ../comps-f18.xml.in.h:270 ../comps-f19.xml.in.h:273
+#: ../comps-f16.xml.in.h:299 ../comps-f17.xml.in.h:310
+#: ../comps-f18.xml.in.h:270 ../comps-f19.xml.in.h:284
 #: ../comps-el5.xml.in.h:73 ../comps-el6.xml.in.h:295
 msgid "Applications"
 msgstr "பயன்பாடுகள்"
 
-#: ../comps-f16.xml.in.h:297 ../comps-f17.xml.in.h:310
-#: ../comps-f18.xml.in.h:271 ../comps-f19.xml.in.h:274
+#: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:311
+#: ../comps-f18.xml.in.h:271 ../comps-f19.xml.in.h:285
 msgid "Applications to perform a variety of tasks"
 msgstr "பல்வேறு பணிகளை செய்ய பயன்பாடுகள்"
 
-#: ../comps-f16.xml.in.h:298 ../comps-f17.xml.in.h:311
-#: ../comps-f18.xml.in.h:272 ../comps-f19.xml.in.h:275
+#: ../comps-f16.xml.in.h:301 ../comps-f17.xml.in.h:312
+#: ../comps-f18.xml.in.h:272 ../comps-f19.xml.in.h:286
 #: ../comps-el5.xml.in.h:75 ../comps-el6.xml.in.h:297
 msgid "Development"
 msgstr "உருவாக்கம்"
 
-#: ../comps-f16.xml.in.h:299 ../comps-f17.xml.in.h:312
-#: ../comps-f18.xml.in.h:273 ../comps-f19.xml.in.h:276
+#: ../comps-f16.xml.in.h:302 ../comps-f17.xml.in.h:313
+#: ../comps-f18.xml.in.h:273 ../comps-f19.xml.in.h:287
 #: ../comps-el5.xml.in.h:76
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
 msgstr "பயன்பாடுகளை மேம்படுத்தவும், உருவாக்கவும் செயல்பாடுகளை கொடுக்கும் தொகுப்புகள்."
 
-#: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:313
-#: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:277
+#: ../comps-f16.xml.in.h:303 ../comps-f17.xml.in.h:314
+#: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:288
 #: ../comps-el5.xml.in.h:77
 msgid "Servers"
 msgstr "சேவையகங்கள்"
 
-#: ../comps-f16.xml.in.h:301 ../comps-f17.xml.in.h:314
-#: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:278
+#: ../comps-f16.xml.in.h:304 ../comps-f17.xml.in.h:315
+#: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:289
 #: ../comps-el5.xml.in.h:78
 msgid "Software used for running network servers"
 msgstr "பிணைய சேவையகங்களை இயக்க பயன்படுத்தப்பட்ட மென்பொருள்"
 
-#: ../comps-f16.xml.in.h:302 ../comps-f17.xml.in.h:315
-#: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:279
+#: ../comps-f16.xml.in.h:305 ../comps-f17.xml.in.h:316
+#: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:290
 #: ../comps-el5.xml.in.h:79
 msgid "Base System"
 msgstr "அடிப்படை அமைப்பு"
 
-#: ../comps-f16.xml.in.h:303 ../comps-f17.xml.in.h:316
-#: ../comps-f18.xml.in.h:277 ../comps-f19.xml.in.h:280
+#: ../comps-f16.xml.in.h:306 ../comps-f17.xml.in.h:317
+#: ../comps-f18.xml.in.h:277 ../comps-f19.xml.in.h:291
 #: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
 msgstr "அமைப்பின் பல்வேறு கோர் துகள்கள்."
 
-#: ../comps-f16.xml.in.h:304 ../comps-f17.xml.in.h:317
-#: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:281
+#: ../comps-f16.xml.in.h:307 ../comps-f17.xml.in.h:318
+#: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:292
 msgid "Content"
 msgstr "உள்ளடக்கம்"
 
-#: ../comps-f16.xml.in.h:305 ../comps-f17.xml.in.h:318
-#: ../comps-f18.xml.in.h:279 ../comps-f19.xml.in.h:282
+#: ../comps-f16.xml.in.h:308 ../comps-f17.xml.in.h:319
+#: ../comps-f18.xml.in.h:279 ../comps-f19.xml.in.h:293
 msgid "Text and other Free content."
 msgstr "உரை மற்றும் காலி உள்ளடக்கம்."
 
@@ -1645,50 +1662,39 @@ msgid "Infrastructure packages for cloud computing."
 msgstr "க்ளவுட் கணித்தலுக்கான உள்கட்டமைப்பு தொகுப்புகள்"
 
 #: ../comps-f17.xml.in.h:70 ../comps-f18.xml.in.h:115
-#: ../comps-f19.xml.in.h:115
+#: ../comps-f19.xml.in.h:119
 msgid "Dogri Support"
 msgstr ""
 
 #: ../comps-f17.xml.in.h:184 ../comps-f18.xml.in.h:183
-#: ../comps-f19.xml.in.h:184
+#: ../comps-f19.xml.in.h:188
 msgid "Manipuri Support"
 msgstr ""
 
-#: ../comps-f17.xml.in.h:186
-msgid "MATE Desktop Environment"
-msgstr ""
-
-#: ../comps-f17.xml.in.h:187
-msgid ""
-"MATE Desktop is a desktop based on GNOME 2 that provides a powerful "
-"graphical user interface for users who seek a simple, easy to use "
-"traditional desktop interface."
-msgstr ""
-
 #: ../comps-f17.xml.in.h:190 ../comps-f18.xml.in.h:187
-#: ../comps-f19.xml.in.h:188
+#: ../comps-f19.xml.in.h:192
 msgid "Medical Applications"
 msgstr "மருத்துவ பயன்பாடுகள்"
 
 #: ../comps-f17.xml.in.h:191 ../comps-f18.xml.in.h:188
-#: ../comps-f19.xml.in.h:189
+#: ../comps-f19.xml.in.h:193
 msgid "This is a group of applications related to health care."
 msgstr "உனல் ஆரோக்கியத்திற்கு தொடர்புடைய பயன்பாடுகளின் குழுவாகும்."
 
-#: ../comps-f17.xml.in.h:234 ../comps-f18.xml.in.h:218
-#: ../comps-f19.xml.in.h:219
+#: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:218
+#: ../comps-f19.xml.in.h:223
 msgid "Santali Support"
 msgstr ""
 
-#: ../comps-f17.xml.in.h:284 ../comps-el6.xml.in.h:273
+#: ../comps-f17.xml.in.h:285 ../comps-el6.xml.in.h:273
 msgid "Virtualization Client"
 msgstr "மெய்நிகராக்க வாடிக்கையாளர்"
 
-#: ../comps-f17.xml.in.h:286
+#: ../comps-f17.xml.in.h:287
 msgid "Virtualization Hypervisor"
 msgstr ""
 
-#: ../comps-f17.xml.in.h:287
+#: ../comps-f17.xml.in.h:288
 msgid "Smallest possible virtualization host installation"
 msgstr ""
 
@@ -1748,7 +1754,7 @@ msgstr ""
 msgid "LibreOffice Productivity Suite"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:15
+#: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:268
 msgid "KDE Plasma Workspaces"
 msgstr ""
 
@@ -1851,7 +1857,7 @@ msgstr ""
 msgid "Additional activities for use with the Sugar Environment."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:44 ../comps-f19.xml.in.h:44
+#: ../comps-f18.xml.in.h:44
 msgid "Basic X Window Desktop"
 msgstr ""
 
@@ -1877,11 +1883,11 @@ msgstr ""
 msgid "A tiling window manager"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:50 ../comps-f19.xml.in.h:50
+#: ../comps-f18.xml.in.h:50
 msgid "XMonad for GNOME"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:51 ../comps-f19.xml.in.h:51
+#: ../comps-f18.xml.in.h:51
 msgid "XMonad window manager with GNOME"
 msgstr ""
 
@@ -1973,112 +1979,178 @@ msgstr ""
 msgid "Common set of utilities that extend the minimal installation."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:185
-msgid "MATE"
-msgstr ""
-
-#: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:186
-msgid ""
-"MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
-"interface for users who seek a simple easy to use traditional desktop "
-"interface."
-msgstr ""
-
-#: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:214
-msgid "Suite of packages for robotics development"
-msgstr ""
-
-#: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:247
+#: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:256
 msgid "Basic Web Server"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
+#: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:262
 msgid "Xfce Software Development"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:254
+#: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:263
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
+#: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:267
 msgid "GNOME Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
+#: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:269
 msgid "Xfce Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
+#: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:270
 msgid "LXDE Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
+#: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:271
 msgid "Cinnamon Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
+#: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:272
 msgid "MATE Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
+#: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:273
 msgid "Development and Creative Workstation"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:262
+#: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:274
 msgid "Workstation for software, hardware, graphics, or content development."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
+#: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:276
 msgid "Server for serving static and dynamic internet content."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
+#: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:277
 msgid "Infrastructure Server"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
+#: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:278
 msgid "Server for operating network infrastructure services."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
+#: ../comps-f18.xml.in.h:264
 msgid "Basic X Window System"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
+#: ../comps-f18.xml.in.h:265
 msgid "X Window System without a full desktop environment."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:269
+#: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:280
 msgid "Minimal Install"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:270
+#: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:281
 msgid "Basic functionality."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:271
+#: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:282
 #: ../comps-el6.xml.in.h:126
 msgid "KDE Desktop"
 msgstr "KDE பணிமேடை"
+
+#: ../comps-f19.xml.in.h:15
+msgid "KDE"
+msgstr ""
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:177
+#: ../comps-f19.xml.in.h:44
+msgid "Basic Desktop"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:50
+msgid "XMonad for MATE"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:51
+msgid "XMonad window manager with MATE"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:105
+msgid ""
+"These packages are targeted towards professional designers related to "
+"graphics, web and animations"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:108
+msgid "RPM Development Tools"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:109
+msgid "These tools include core development tools such rpmbuild."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:111
+msgid "These tools include general development tools such as git and cvs."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:112
+msgid "C Development Tools and Libraries"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:113
+msgid ""
+"These tools include core development tools such as automake, gcc and "
+"debuggers."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:181
 msgid "Lepcha Support"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:220
+#: ../comps-f19.xml.in.h:198
+msgid "MariaDB (MySQL) Database"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:199
+msgid ""
+"This package group contains packages useful for use with MariaDB (MySQL)."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:224
 msgid "Security Lab"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:221
+#: ../comps-f19.xml.in.h:225
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security"
 " testing methodologies."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:250
+msgid "Guest Agents"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:251
+msgid "Agents used when running under a hypervisor."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:252
+msgid "Guest Desktop Agents"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:253
+msgid "Agents used when running as a virtualized desktop."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:265
+msgid "3D Printing"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:266
+msgid "3D printing software"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:279
+msgid "X Window System with a choice of window manager."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4

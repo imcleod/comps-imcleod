@@ -14,10 +14,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-18 00:39-0500\n"
-"PO-Revision-Date: 2013-03-01 02:20+0000\n"
-"Last-Translator: A S Alam <apreet.alam@gmail.com>\n"
-"Language-Team: Panjabi (Punjabi) <punjabi-users@lists.sf.net>\n"
+"POT-Creation-Date: 2013-11-18 12:25-0500\n"
+"PO-Revision-Date: 2013-11-18 17:33+0000\n"
+"Last-Translator: notting <notting@redhat.com>\n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.com/projects/p/fedora/language/pa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -293,7 +293,6 @@ msgid "Design Suite"
 msgstr "ਡਿਜ਼ਇਨ ਸੂਟ"
 
 #: ../comps-f16.xml.in.h:56 ../comps-f17.xml.in.h:60 ../comps-f18.xml.in.h:105
-#: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
@@ -312,50 +311,50 @@ msgid ""
 msgstr "ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਪੈਕੇਜ ਐਪਲੀਕੇਸ਼ਨ ਡਿਵੈਲਪ ਕਰਨ ਲਈ ਮੁੱਢਲੀਆਂ ਲਾਇਬਰੇਰੀਆਂ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
-#: ../comps-f19.xml.in.h:108 ../comps-el5.xml.in.h:14
+#: ../comps-f19.xml.in.h:110 ../comps-el5.xml.in.h:14
 msgid "Development Tools"
 msgstr "ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ"
 
 #: ../comps-f16.xml.in.h:60 ../comps-f17.xml.in.h:64 ../comps-f18.xml.in.h:109
-#: ../comps-f19.xml.in.h:109 ../comps-el5.xml.in.h:15
+#: ../comps-el5.xml.in.h:15
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
 msgstr "ਇਹਨਾਂ ਟੂਲਾਂ ਵਿੱਚ ਕੋਰ ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ, ਜਿਵੇ ਕਿ automake, gcc, ਪਰਲ, ਪਾਈਥਨ ਅਤੇ ਡੀਬੱਗਰ ਆਦਿ ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:65 ../comps-f18.xml.in.h:110
-#: ../comps-f19.xml.in.h:110 ../comps-el6.xml.in.h:54
+#: ../comps-f19.xml.in.h:114 ../comps-el6.xml.in.h:54
 msgid "Dial-up Networking Support"
 msgstr "ਡਾਇਲ-ਅੱਪ ਨੈੱਟਵਰਕ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:62 ../comps-f17.xml.in.h:66 ../comps-f18.xml.in.h:111
-#: ../comps-f19.xml.in.h:111 ../comps-el6.xml.in.h:58
+#: ../comps-f19.xml.in.h:115 ../comps-el6.xml.in.h:58
 msgid "Directory Server"
 msgstr "ਡਾਇਰੈਕਟਰੀ ਸਰਵਰ"
 
 #: ../comps-f16.xml.in.h:63 ../comps-f17.xml.in.h:67 ../comps-f18.xml.in.h:112
-#: ../comps-f19.xml.in.h:112 ../comps-el6.xml.in.h:59
+#: ../comps-f19.xml.in.h:116 ../comps-el6.xml.in.h:59
 msgid "Machine and user identity servers."
 msgstr "ਮਸ਼ੀਨ ਅਤੇ ਯੂਜ਼ਰ ਪਛਾਣ ਸਰਵਰ।"
 
 #: ../comps-f16.xml.in.h:64 ../comps-f17.xml.in.h:68 ../comps-f18.xml.in.h:113
-#: ../comps-f19.xml.in.h:113
+#: ../comps-f19.xml.in.h:117
 msgid "DNS Name Server"
 msgstr "DNS ਨਾਂ ਸਰਵਰ"
 
 #: ../comps-f16.xml.in.h:65 ../comps-f17.xml.in.h:69 ../comps-f18.xml.in.h:114
-#: ../comps-f19.xml.in.h:114
+#: ../comps-f19.xml.in.h:118
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr "ਇਹ ਪੈਕੇਜ ਤੁਹਾਨੂੰ ਆਪਣੇ ਸਿਸਟਮ ਤੇ DNS ਨਾਂ -ਸਰਵਰ(BIND) ਨੂੰ ਚਲਾਉਣ ਲਈ ਸਹਾਈ ਹੈ।"
 
 #: ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:71 ../comps-f18.xml.in.h:116
-#: ../comps-f19.xml.in.h:116
+#: ../comps-f19.xml.in.h:120
 msgid "Dogtag Certificate System"
 msgstr "ਡੌਗਟੈਗ ਸਰਟੀਫਿਕੇਟ ਸਿਸਟਮ"
 
 #: ../comps-f16.xml.in.h:67 ../comps-f17.xml.in.h:72 ../comps-f18.xml.in.h:117
-#: ../comps-f19.xml.in.h:117
+#: ../comps-f19.xml.in.h:121
 msgid "Enterprise-class open source Certificate Authority"
 msgstr "ਇੰਟਰਪਰਾਈਸ-ਕਲਾਸ ਓਪਨ ਸੋਰਸ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ"
 
@@ -364,54 +363,54 @@ msgid "Dutch Support"
 msgstr "ਡੱਚ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:69 ../comps-f17.xml.in.h:74 ../comps-f18.xml.in.h:118
-#: ../comps-f19.xml.in.h:118
+#: ../comps-f19.xml.in.h:122
 msgid "Fedora Eclipse"
 msgstr "ਫੇਡੋਰਾ ਈਲੈਪਸ"
 
 #: ../comps-f16.xml.in.h:70 ../comps-f17.xml.in.h:75 ../comps-f18.xml.in.h:119
-#: ../comps-f19.xml.in.h:119
+#: ../comps-f19.xml.in.h:123
 msgid "Integrated Development Environments based on Eclipse."
 msgstr "ਈਲੈਪਸ ਉੱਤੇ ਅਧਾਰਿਤ ਇਟੀਗ੍ਰੇਟਡ ਡਿਵੈਂਲਪਮੈਂਟ ਇੰਵਾਇਰਨਮੈੰਟ।"
 
 #: ../comps-f16.xml.in.h:71 ../comps-f17.xml.in.h:76 ../comps-f18.xml.in.h:120
-#: ../comps-f19.xml.in.h:120 ../comps-el5.xml.in.h:17
+#: ../comps-f19.xml.in.h:124 ../comps-el5.xml.in.h:17
 msgid "Editors"
 msgstr "ਸੰਪਾਦਕ"
 
 #: ../comps-f16.xml.in.h:72 ../comps-f17.xml.in.h:77 ../comps-f18.xml.in.h:121
-#: ../comps-f19.xml.in.h:121
+#: ../comps-f19.xml.in.h:125
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
 msgstr "ਜਿਸ ਨੂੰ ਪਾਠ ਸੰਪਾਦਕ ਵੀ ਕਹਿੰਦੇ ਹਨ, ਇਹ ਤੁਹਾਨੂੰ ਫਾਇਲਾਂ ਬਣਾਉਣ ਅਤੇ ਸੋਧਣ ਦੇ ਕੰਮ ਆਉਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਈਮੈਕਸ ਅਤੇ ਵੀਆਈ(Vi) ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:78 ../comps-f18.xml.in.h:122
-#: ../comps-f19.xml.in.h:122 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
+#: ../comps-f19.xml.in.h:126 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
 msgid "Educational Software"
 msgstr "ਵਿੱਦਿਅਕ ਸਾਫਟਵੇਅਰ"
 
 #: ../comps-f16.xml.in.h:74 ../comps-f17.xml.in.h:79 ../comps-f18.xml.in.h:123
-#: ../comps-f19.xml.in.h:123 ../comps-el5.xml.in.h:20
+#: ../comps-f19.xml.in.h:127 ../comps-el5.xml.in.h:20
 msgid "Educational software for learning"
 msgstr "ਸਿੱਖਣ ਲਈ ਵਿੱਦਿਅਕ ਸਾਫਟਵੇਅਰ"
 
 #: ../comps-f16.xml.in.h:75 ../comps-f17.xml.in.h:80 ../comps-f18.xml.in.h:124
-#: ../comps-f19.xml.in.h:124 ../comps-el5.xml.in.h:21 ../comps-el6.xml.in.h:65
+#: ../comps-f19.xml.in.h:128 ../comps-el5.xml.in.h:21 ../comps-el6.xml.in.h:65
 msgid "Electronic Lab"
 msgstr "ਇਲੈਕਟਰਿਕ ਲੈਬ"
 
 #: ../comps-f16.xml.in.h:76 ../comps-f17.xml.in.h:81 ../comps-f18.xml.in.h:125
-#: ../comps-f19.xml.in.h:125 ../comps-el5.xml.in.h:22
+#: ../comps-f19.xml.in.h:129 ../comps-el5.xml.in.h:22
 msgid "Design and Simulation tools for hardware engineers"
 msgstr "ਹਾਰਡਵੇਅਰ ਇੰਜਨੀਅਰਾਂ ਲਈ ਡਿਜ਼ਾਇਨ ਅਤੇ ਸਿਮੁਲੇਟਿੰਗ ਟੂਲ"
 
 #: ../comps-f16.xml.in.h:77 ../comps-f17.xml.in.h:82 ../comps-f18.xml.in.h:126
-#: ../comps-f19.xml.in.h:126 ../comps-el5.xml.in.h:23
+#: ../comps-f19.xml.in.h:130 ../comps-el5.xml.in.h:23
 msgid "Engineering and Scientific"
 msgstr "ਇੰਜਿਨਅਰਿੰਗ ਅਤੇ ਵਿਗਿਆਨਕ"
 
 #: ../comps-f16.xml.in.h:78 ../comps-f17.xml.in.h:83 ../comps-f18.xml.in.h:127
-#: ../comps-f19.xml.in.h:127 ../comps-el5.xml.in.h:24
+#: ../comps-f19.xml.in.h:131 ../comps-el5.xml.in.h:24
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
@@ -426,7 +425,7 @@ msgid "Estonian Support"
 msgstr "ਇਸਟੋਨੀਅਨ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:81 ../comps-f17.xml.in.h:86 ../comps-f18.xml.in.h:128
-#: ../comps-f19.xml.in.h:128 ../comps-el6.xml.in.h:71
+#: ../comps-f19.xml.in.h:132 ../comps-el6.xml.in.h:71
 msgid "Ethiopic Support"
 msgstr "ਈਥੋਪਿਕ ਸਹਿਯੋਗ"
 
@@ -435,12 +434,12 @@ msgid "Faroese Support"
 msgstr "ਫਾਈਰੋਸੀ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:83 ../comps-f17.xml.in.h:88 ../comps-f18.xml.in.h:129
-#: ../comps-f19.xml.in.h:129 ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
+#: ../comps-f19.xml.in.h:133 ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
 msgid "Fedora Packager"
 msgstr "ਫੇਡੋਰਾ ਪੈਕੇਜਰ"
 
 #: ../comps-f16.xml.in.h:84 ../comps-f17.xml.in.h:89 ../comps-f18.xml.in.h:130
-#: ../comps-f19.xml.in.h:130 ../comps-el5.xml.in.h:26
+#: ../comps-f19.xml.in.h:134 ../comps-el5.xml.in.h:26
 msgid "Tools and Utilities needed by a Fedora Packager"
 msgstr "ਫੇਡੋਰਾ ਪੈਕੇਜਰ ਲਈ ਲੋੜੀਂਦੇ ਸੰਦ ਅਤੇ ਸਹੂਲਤਾਂ"
 
@@ -457,29 +456,29 @@ msgid "Filipino Support"
 msgstr "ਫਿਲਪੀਨੋ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:88 ../comps-f17.xml.in.h:93 ../comps-f18.xml.in.h:131
-#: ../comps-f19.xml.in.h:131 ../comps-el6.xml.in.h:77
+#: ../comps-f19.xml.in.h:135 ../comps-el6.xml.in.h:77
 msgid "Finnish Support"
 msgstr "ਫੈਨਿਸ਼ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:89 ../comps-f17.xml.in.h:94 ../comps-f18.xml.in.h:132
-#: ../comps-f19.xml.in.h:132
+#: ../comps-f19.xml.in.h:136
 msgid "Font design and packaging"
 msgstr "ਫੋਂਟ ਡਿਜ਼ਾਇਨ ਅਤੇ ਪੈਕੇਜ਼ਿੰਗ"
 
 #: ../comps-f16.xml.in.h:90 ../comps-f17.xml.in.h:95 ../comps-f18.xml.in.h:133
-#: ../comps-f19.xml.in.h:133
+#: ../comps-f19.xml.in.h:137
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
 msgstr "ਇਹ ਗਰੁੱਪ ਵਿੱਚ ਟੂਲਾਂ ਦਾ ਭੰਡਾਰ ਹੈ, ਜੋ ਕਿ ਫੋਂਟ ਡਿਜ਼ਾਇਨ ਕਰਨ, ਸੋਧਣ, ਇਸਤੇਮਾਲ ਅਤੇ ਪੈਕੇਜ ਬਣਾਉਣ ਲਈ ਵਰਤੇ ਜਾਂਦੇ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:96 ../comps-f18.xml.in.h:134
-#: ../comps-f19.xml.in.h:134 ../comps-el6.xml.in.h:78
+#: ../comps-f19.xml.in.h:138 ../comps-el6.xml.in.h:78
 msgid "Fonts"
 msgstr "ਫੋਂਟ"
 
 #: ../comps-f16.xml.in.h:92 ../comps-f17.xml.in.h:97 ../comps-f18.xml.in.h:135
-#: ../comps-f19.xml.in.h:135
+#: ../comps-f19.xml.in.h:139
 msgid "Fonts packages for rendering text on the desktop."
 msgstr "ਡੈਸਕਟਾਪ ਉੱਤੇ ਰੈਂਡਰਿੰਗ ਲਈ ਫੋਂਟ ਪੈਕੇਜ।"
 
@@ -496,13 +495,13 @@ msgid "Friulian Support"
 msgstr "ਫਰੀਉਲਿਆਈ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:96 ../comps-f17.xml.in.h:101
-#: ../comps-f18.xml.in.h:136 ../comps-f19.xml.in.h:136
+#: ../comps-f18.xml.in.h:136 ../comps-f19.xml.in.h:140
 #: ../comps-el5.xml.in.h:27
 msgid "FTP Server"
 msgstr "FTP ਸਰਵਰ"
 
 #: ../comps-f16.xml.in.h:97 ../comps-f17.xml.in.h:102
-#: ../comps-f18.xml.in.h:137 ../comps-f19.xml.in.h:137
+#: ../comps-f18.xml.in.h:137 ../comps-f19.xml.in.h:141
 #: ../comps-el5.xml.in.h:28
 msgid "These tools allow you to run an FTP server on the system."
 msgstr "ਇਹ ਟੂਲ ਤੁਹਾਨੂੰ ਸਿਸਟਮ ਤੇ FTP ਸਰਵਰ ਚਲਾਉਣ ਵਿੱਚ ਸਹਾਇਕ ਹਨ।"
@@ -516,19 +515,19 @@ msgid "Galician Support"
 msgstr "ਗਲੀਸੀਅਨ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:100 ../comps-f17.xml.in.h:105
-#: ../comps-f18.xml.in.h:138 ../comps-f19.xml.in.h:138
+#: ../comps-f18.xml.in.h:138 ../comps-f19.xml.in.h:142
 #: ../comps-el5.xml.in.h:29
 msgid "Games and Entertainment"
 msgstr "ਖੇਡਾਂ ਅਤੇ ਮਨੋਰੰਜਨ"
 
 #: ../comps-f16.xml.in.h:101 ../comps-f17.xml.in.h:106
-#: ../comps-f18.xml.in.h:139 ../comps-f19.xml.in.h:139
+#: ../comps-f18.xml.in.h:139 ../comps-f19.xml.in.h:143
 #: ../comps-el5.xml.in.h:30
 msgid "Various ways to relax and spend your free time."
 msgstr "ਤੁਹਾਡਾ ਵੇਹਲਾ ਸਮਾਂ ਗੁਜ਼ਾਰਨ ਅਤੇ ਮਨੋਰੰਜਨ ਲਈ ਕਈ ਢੰਗ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:102 ../comps-f17.xml.in.h:107
-#: ../comps-f18.xml.in.h:140 ../comps-f19.xml.in.h:140
+#: ../comps-f18.xml.in.h:140 ../comps-f19.xml.in.h:144
 #: ../comps-el6.xml.in.h:89
 msgid "Georgian Support"
 msgstr "ਜਾਰਜੀਆਈ ਸਹਿਯੋਗ"
@@ -550,13 +549,13 @@ msgid ""
 msgstr "ਗਨੋਮ ਇੱਕ ਸ਼ਕਤੀਸ਼ਾਲੀ, ਗਰਾਫਿਕਲ ਯੂਜਰ ਇੰਟਰਫੇਸ ਹੈ, ਜਿਸ ਵਿੱਚ ਇੱਕ ਪੈਨਲ, ਡੈਸਕਟਾਪ, ਸਿਸਟਮ ਆਈਕਾਨ ਅਤੇ ਗਰਾਫਿਕਲ ਫਾਇਲ ਮੈਨੇਜਰ ਸ਼ਾਮਿਲ ਹੈ।"
 
 #: ../comps-f16.xml.in.h:106 ../comps-f17.xml.in.h:111
-#: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:141
+#: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:145
 #: ../comps-el5.xml.in.h:33
 msgid "GNOME Software Development"
 msgstr "ਗਨੋਮ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ"
 
 #: ../comps-f16.xml.in.h:107 ../comps-f17.xml.in.h:112
-#: ../comps-f18.xml.in.h:142 ../comps-f19.xml.in.h:142
+#: ../comps-f18.xml.in.h:142 ../comps-f19.xml.in.h:146
 #: ../comps-el5.xml.in.h:34
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
@@ -564,37 +563,37 @@ msgid ""
 msgstr "GTK+ ਅਤੇ GNOME ਗਰਾਫਿਕਲ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦੇ ਵਿਕਾਸ ਲਈ ਇਹ ਪੈਕੇਜ ਇੰਸਟਾਲ ਕਰੋ।"
 
 #: ../comps-f16.xml.in.h:108 ../comps-f17.xml.in.h:113
-#: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:143
+#: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:147
 #: ../comps-el5.xml.in.h:35
 msgid "Graphical Internet"
 msgstr "ਗਰਾਫਿਕਲ ਇੰਟਰਨੈੱਟ"
 
 #: ../comps-f16.xml.in.h:109 ../comps-f17.xml.in.h:114
-#: ../comps-f18.xml.in.h:144 ../comps-f19.xml.in.h:144
+#: ../comps-f18.xml.in.h:144 ../comps-f19.xml.in.h:148
 #: ../comps-el5.xml.in.h:36
 msgid "This group includes graphical email, Web, and chat clients."
 msgstr "ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਗਰਾਫਿਕਲ ਈ-ਮੇਲ, ਵੈੱਬ ਅਤੇ ਚੈਟ ਕਲਾਇਟ ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:110 ../comps-f17.xml.in.h:115
-#: ../comps-f18.xml.in.h:145 ../comps-f19.xml.in.h:145
+#: ../comps-f18.xml.in.h:145 ../comps-f19.xml.in.h:149
 #: ../comps-el5.xml.in.h:37
 msgid "Graphics"
 msgstr "ਗਰਾਫਿਕਸ"
 
 #: ../comps-f16.xml.in.h:111 ../comps-f17.xml.in.h:116
-#: ../comps-f18.xml.in.h:146 ../comps-f19.xml.in.h:146
+#: ../comps-f18.xml.in.h:146 ../comps-f19.xml.in.h:150
 #: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr "ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਚਿੱਤਰ ਸਕੈਨ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਪੇਸ਼ ਕਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਨ ਵਾਲੇ ਪੈਕੇਜ ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:112 ../comps-f17.xml.in.h:117
-#: ../comps-f18.xml.in.h:147 ../comps-f19.xml.in.h:147
+#: ../comps-f18.xml.in.h:147 ../comps-f19.xml.in.h:151
 #: ../comps-el6.xml.in.h:95
 msgid "Greek Support"
 msgstr "ਗਰੀਕ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:113 ../comps-f17.xml.in.h:118
-#: ../comps-f18.xml.in.h:148 ../comps-f19.xml.in.h:148
+#: ../comps-f18.xml.in.h:148 ../comps-f19.xml.in.h:152
 #: ../comps-el6.xml.in.h:96
 msgid "Gujarati Support"
 msgstr "ਗੁਜਰਾਤੀ ਸਹਿਯੋਗ"
@@ -604,32 +603,32 @@ msgid "Haitian Creole Support"
 msgstr "ਹਾਈਟੀਅਨ ਸਰੀਓਲੀ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:115 ../comps-f17.xml.in.h:120
-#: ../comps-f18.xml.in.h:149 ../comps-f19.xml.in.h:149
+#: ../comps-f18.xml.in.h:149 ../comps-f19.xml.in.h:153
 #: ../comps-el5.xml.in.h:39
 msgid "Hardware Support"
 msgstr "ਜੰਤਰ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:116 ../comps-f17.xml.in.h:121
-#: ../comps-f18.xml.in.h:150 ../comps-f19.xml.in.h:150
+#: ../comps-f18.xml.in.h:150 ../comps-f19.xml.in.h:154
 #: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr "ਇਹ ਗਰੁੱਪ ਵਿੱਚ ਜੰਤਰਾਂ ਲਈ ਖਾਸ ਸਹੂਲਤਾਂ ਉਪਲੱਬਧ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:117 ../comps-f17.xml.in.h:122
-#: ../comps-f18.xml.in.h:151 ../comps-f19.xml.in.h:151
+#: ../comps-f18.xml.in.h:151 ../comps-f19.xml.in.h:155
 #: ../comps-el6.xml.in.h:101
 msgid "Haskell"
 msgstr "ਹਾਸਕਲ"
 
 #: ../comps-f16.xml.in.h:118 ../comps-f17.xml.in.h:123
-#: ../comps-f18.xml.in.h:152 ../comps-f19.xml.in.h:152
+#: ../comps-f18.xml.in.h:152 ../comps-f19.xml.in.h:156
 #: ../comps-el6.xml.in.h:102
 msgid "Support for developing programs in the Haskell programming language."
 msgstr "ਹਾਸਕਿੱਲ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਵਿੱਚ ਪਰੋਗਰਾਮ ਡਿਵੈਲਪ ਕਰਨ ਲਈ ਸਹਿਯੋਗ ਹੈ।"
 
 #: ../comps-f16.xml.in.h:119 ../comps-f17.xml.in.h:124
-#: ../comps-f18.xml.in.h:153 ../comps-f19.xml.in.h:153
+#: ../comps-f18.xml.in.h:153 ../comps-f19.xml.in.h:157
 #: ../comps-el5.xml.in.h:41 ../comps-el6.xml.in.h:99
 msgid "Hebrew Support"
 msgstr "ਹੈਬਰਿਓ ਸਹਿਯੋਗ"
@@ -640,7 +639,7 @@ msgid "Hiligaynon Support"
 msgstr "ਹਿਲਿਗਾਯਨੋਨ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:121 ../comps-f17.xml.in.h:126
-#: ../comps-f18.xml.in.h:154 ../comps-f19.xml.in.h:154
+#: ../comps-f18.xml.in.h:154 ../comps-f19.xml.in.h:158
 #: ../comps-el6.xml.in.h:103
 msgid "Hindi Support"
 msgstr "ਹਿੰਦੀ ਸਹਿਯੋਗ"
@@ -661,13 +660,13 @@ msgid "Indonesian Support"
 msgstr "ਇੰਡੋਨੇਸ਼ੀਆਈ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:125 ../comps-f17.xml.in.h:130
-#: ../comps-f18.xml.in.h:155 ../comps-f19.xml.in.h:155
+#: ../comps-f18.xml.in.h:155 ../comps-f19.xml.in.h:159
 #: ../comps-el6.xml.in.h:109
 msgid "Input Methods"
 msgstr "ਇੰਪੁੱਟ ਢੰਗ"
 
 #: ../comps-f16.xml.in.h:126 ../comps-f17.xml.in.h:131
-#: ../comps-f18.xml.in.h:156 ../comps-f19.xml.in.h:156
+#: ../comps-f18.xml.in.h:156 ../comps-f19.xml.in.h:160
 msgid "Input method packages for the input of international text."
 msgstr "ਅੰਤਰਰਾਸ਼ਟਰੀ ਟੈਕਸਟ ਇੰਪੁੱਟ ਕਰਨ ਵਾਸਤੇ ਇੰਪੁੱਟ ਢੰਗ ਪੈਕੇਜ ਹੈ।"
 
@@ -692,39 +691,39 @@ msgid "Italian Support"
 msgstr "ਇਤਾਲਵੀ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:131 ../comps-f17.xml.in.h:136
-#: ../comps-f18.xml.in.h:157 ../comps-f19.xml.in.h:157
+#: ../comps-f18.xml.in.h:157 ../comps-f19.xml.in.h:161
 #: ../comps-el5.xml.in.h:43 ../comps-el6.xml.in.h:119
 msgid "Japanese Support"
 msgstr "ਜਾਪਾਨੀ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:132 ../comps-f17.xml.in.h:137
-#: ../comps-f18.xml.in.h:158 ../comps-f19.xml.in.h:158
+#: ../comps-f18.xml.in.h:158 ../comps-f19.xml.in.h:162
 msgid "Java"
 msgstr "ਜਾਵਾ"
 
 #: ../comps-f16.xml.in.h:133 ../comps-f17.xml.in.h:138
-#: ../comps-f18.xml.in.h:159 ../comps-f19.xml.in.h:159
+#: ../comps-f18.xml.in.h:159 ../comps-f19.xml.in.h:163
 msgid "Support for running programs written in the Java programming language."
 msgstr "ਜਾਵਾ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਵਿੱਚ ਲਿਖੇ ਪਰੋਗਰਾਮਾਂ ਨੂੰ ਚਲਾਉਣ ਲਈ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:134 ../comps-f17.xml.in.h:139
-#: ../comps-f18.xml.in.h:160 ../comps-f19.xml.in.h:160
+#: ../comps-f18.xml.in.h:160 ../comps-f19.xml.in.h:164
 msgid "Java Development"
 msgstr "ਜਾਵਾ ਡਿਵੈਲਪਮੈਂਟ"
 
 #: ../comps-f16.xml.in.h:135 ../comps-f17.xml.in.h:140
-#: ../comps-f18.xml.in.h:161 ../comps-f19.xml.in.h:161
+#: ../comps-f18.xml.in.h:161 ../comps-f19.xml.in.h:165
 msgid "Support for developing programs in the Java programming language."
 msgstr "ਜਾਵਾ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਵਿੱਚ ਪਰੋਗਰਾਮ ਡਿਵੈਲਪ ਕਰਨ ਲਈ ਸਹਿਯੋਗ ਹੈ।"
 
 #: ../comps-f16.xml.in.h:136 ../comps-f17.xml.in.h:141
-#: ../comps-f18.xml.in.h:162 ../comps-f19.xml.in.h:162
+#: ../comps-f18.xml.in.h:162 ../comps-f19.xml.in.h:166
 #: ../comps-el6.xml.in.h:122
 msgid "Kannada Support"
 msgstr "ਕੰਨੜ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:137 ../comps-f17.xml.in.h:142
-#: ../comps-f18.xml.in.h:163 ../comps-f19.xml.in.h:163
+#: ../comps-f18.xml.in.h:163 ../comps-f19.xml.in.h:167
 #: ../comps-el6.xml.in.h:123
 msgid "Kashmiri Support"
 msgstr "ਕਸ਼ਮੀਰੀ ਸਹਿਯੋਗ"
@@ -744,7 +743,7 @@ msgid "KDE Software Compilation"
 msgstr "ਕੇਡੀਈ ਸਾਫਟਵੇਅਰ ਕੰਪਲੀਮੇਸ਼ਨ"
 
 #: ../comps-f16.xml.in.h:141 ../comps-f17.xml.in.h:146
-#: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:272
+#: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:283
 msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
@@ -752,19 +751,19 @@ msgid ""
 msgstr "ਕੇਡੀਈ ਐਸਸੀ ਵਿੱਚ ਕੇਡੀਈ ਪਲਾਜ਼ਮਾ ਡੈਸਕਟਾਪ, ਉੱਚ-ਸੰਰਚਨਾ ਗਰਾਫਿਕਲ ਯੂਜ਼ਰ ਇੰਟਰਫੇਸ ਸ਼ਾਮਿਲ ਹੈ, ਜਿਸ ਵਿੱਚ ਪੈਨਲ, ਡੈਸਕਟਾਪ, ਸਿਸਟਮ ਆਈਕਾਨ ਅਤੇ ਡੈਸਕਟਾਪ ਵਿਦਜੈੱਟ ਤੇ ਕੋਈ ਹੋਰ ਮਜ਼ਬੂਤ ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:142 ../comps-f17.xml.in.h:147
-#: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:164
+#: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:168
 #: ../comps-el5.xml.in.h:47
 msgid "KDE Software Development"
 msgstr "ਕੇਡੀਈ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ"
 
 #: ../comps-f16.xml.in.h:143 ../comps-f17.xml.in.h:148
-#: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:165
+#: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:169
 #: ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
 msgstr "QT ਅਤੇ KDE ਗਰਾਫਿਕਲ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦੇ ਵਿਕਾਸ ਲਈ ਇਹ ਪੈਕੇਜ ਇੰਸਟਾਲ ਕਰੋ।"
 
 #: ../comps-f16.xml.in.h:144 ../comps-f17.xml.in.h:149
-#: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:166
+#: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:170
 #: ../comps-el6.xml.in.h:128
 msgid "Khmer Support"
 msgstr "ਖਮੀਰ ਸਹਿਯੋਗ"
@@ -775,19 +774,19 @@ msgid "Kinyarwanda Support"
 msgstr "ਕਿਨਯਾਰਵਾਂਡਾ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:146 ../comps-f17.xml.in.h:151
-#: ../comps-f18.xml.in.h:167 ../comps-f19.xml.in.h:167
+#: ../comps-f18.xml.in.h:167 ../comps-f19.xml.in.h:171
 #: ../comps-el6.xml.in.h:130
 msgid "Konkani Support"
 msgstr "ਕੋਕਨੀ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:147 ../comps-f17.xml.in.h:152
-#: ../comps-f18.xml.in.h:168 ../comps-f19.xml.in.h:168
+#: ../comps-f18.xml.in.h:168 ../comps-f19.xml.in.h:172
 #: ../comps-el6.xml.in.h:131
 msgid "Korean Support"
 msgstr "ਕੋਰੀਆਈ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:148 ../comps-f17.xml.in.h:153
-#: ../comps-f18.xml.in.h:169 ../comps-f19.xml.in.h:169
+#: ../comps-f18.xml.in.h:169 ../comps-f19.xml.in.h:173
 #: ../comps-el6.xml.in.h:132
 msgid "Kurdish Support"
 msgstr "ਕੁਰਦ ਸਹਿਯੋਗ"
@@ -812,49 +811,49 @@ msgid "Latvian Support"
 msgstr "ਲਾਟਵੀਅਨ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:153 ../comps-f17.xml.in.h:158
-#: ../comps-f18.xml.in.h:170 ../comps-f19.xml.in.h:170
+#: ../comps-f18.xml.in.h:170 ../comps-f19.xml.in.h:174
 msgid "Legacy Fonts"
 msgstr "ਪੁਰਾਤਨ ਫੋਂਟ"
 
 #: ../comps-f16.xml.in.h:154 ../comps-f17.xml.in.h:159
-#: ../comps-f18.xml.in.h:171 ../comps-f19.xml.in.h:171
+#: ../comps-f18.xml.in.h:171 ../comps-f19.xml.in.h:175
 msgid "Older bitmap and vector fonts packages"
 msgstr "ਪੁਰਾਣੇ ਬਿੱਟਮੈਪ ਅਤੇ ਵੈਕਟਰ ਪੈਕੇਜ"
 
 #: ../comps-f16.xml.in.h:155 ../comps-f17.xml.in.h:160
-#: ../comps-f18.xml.in.h:172 ../comps-f19.xml.in.h:172
+#: ../comps-f18.xml.in.h:172 ../comps-f19.xml.in.h:176
 msgid "Legacy Network Server"
 msgstr "ਪੁਰਾਤਨ ਨੈੱਟਵਰਕ ਸਰਵਰ"
 
 #: ../comps-f16.xml.in.h:156 ../comps-f17.xml.in.h:161
-#: ../comps-f18.xml.in.h:173 ../comps-f19.xml.in.h:173
+#: ../comps-f18.xml.in.h:173 ../comps-f19.xml.in.h:177
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 msgstr "ਇਸ ਪੈਕੇਜ ਵਿੱਚ ਸਰਵਰ, ਜੋ ਕਿ ਪੁਰਾਣੇ ਨੈੱਟਵਰਕ ਪਰੋਟੋਕਾਲਾਂ ਜਿਵੇ ਕਿ rsh ਅਤੇ ਟੇਲਨੈੱਟ ਆਦਿ ਲਈ ਲੋੜੀਦੇ ਹਨ, ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:157 ../comps-f17.xml.in.h:162
-#: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:174
+#: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:178
 msgid "Legacy Software Development"
 msgstr "ਪੁਰਾਤਨ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ"
 
 #: ../comps-f16.xml.in.h:158 ../comps-f17.xml.in.h:163
-#: ../comps-f18.xml.in.h:175 ../comps-f19.xml.in.h:175
+#: ../comps-f18.xml.in.h:175 ../comps-f19.xml.in.h:179
 msgid "These packages provide compatibility with previous releases."
 msgstr "ਇਹਨਾਂ ਪੈਕੇਜਾਂ ਨੂੰ ਪਹਿਲਾਂ ਜਾਰੀ ਪੈਕੇਜਾਂ ਲਈ ਅਨੁਕੂਲਤਾ ਸਹਿਯੋਗ ਲਈ ਉਪਲੱਬਧ ਕਰਵਾਇਆ ਗਿਆ ਹੈ।"
 
 #: ../comps-f16.xml.in.h:159 ../comps-f17.xml.in.h:164
-#: ../comps-f18.xml.in.h:176 ../comps-f19.xml.in.h:176
+#: ../comps-f18.xml.in.h:176 ../comps-f19.xml.in.h:180
 msgid "Legacy Software Support"
 msgstr "ਪੁਰਾਤਨ ਸਾਫਟਵੇਅਰ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:160 ../comps-f17.xml.in.h:165
-#: ../comps-f18.xml.in.h:177 ../comps-f19.xml.in.h:178
+#: ../comps-f18.xml.in.h:177 ../comps-f19.xml.in.h:182
 msgid "LibreOffice Development"
 msgstr "ਲਿਬਰੇਆਫਿਸ ਡਿਵੈਲਪਮੈਂਟ"
 
 #: ../comps-f16.xml.in.h:161 ../comps-f17.xml.in.h:166
-#: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:179
+#: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:183
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr "ਲਿਬਰੇਆਫਿਸ ਇਕਸਟੈਸ਼ਨ ਜਾਂ ਮਾਈਕਰੋ ਬਣਾਉਣ ਲਈ ਇਹ ਪੈਕੇਜ ਮੱਦਦਗਾਰ ਹਨ।"
@@ -909,19 +908,19 @@ msgid "Macedonian Support"
 msgstr "ਮੈਕਡੋਨੀਆਈ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:172 ../comps-f17.xml.in.h:177
-#: ../comps-f18.xml.in.h:179 ../comps-f19.xml.in.h:180
+#: ../comps-f18.xml.in.h:179 ../comps-f19.xml.in.h:184
 #: ../comps-el5.xml.in.h:49
 msgid "Mail Server"
 msgstr "ਮੇਲ ਸਰਵਰ"
 
 #: ../comps-f16.xml.in.h:173 ../comps-f17.xml.in.h:178
-#: ../comps-f18.xml.in.h:180 ../comps-f19.xml.in.h:181
+#: ../comps-f18.xml.in.h:180 ../comps-f19.xml.in.h:185
 #: ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr "ਇਸ ਪੈਕੇਜ ਤੁਹਾਨੂੰ ਇੱਕ IMAP ਜਾਂ SMTP ਮੇਲ ਸਰਵਰ ਦੀ ਸੰਰਚਨਾ ਕਰਨ ਵਿੱਚ ਸਹਾਇਕ ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f16.xml.in.h:174 ../comps-f17.xml.in.h:179
-#: ../comps-f18.xml.in.h:181 ../comps-f19.xml.in.h:182
+#: ../comps-f18.xml.in.h:181 ../comps-f19.xml.in.h:186
 #: ../comps-el6.xml.in.h:152
 msgid "Maithili Support"
 msgstr "ਮੈਥਲੀ ਸਹਿਯੋਗੀ"
@@ -937,7 +936,7 @@ msgid "Malay Support"
 msgstr "ਮਲਾਇਆ ਸਹਿਯੋਗ"
 
 #: ../comps-f16.xml.in.h:177 ../comps-f17.xml.in.h:182
-#: ../comps-f18.xml.in.h:182 ../comps-f19.xml.in.h:183
+#: ../comps-f18.xml.in.h:182 ../comps-f19.xml.in.h:187
 #: ../comps-el6.xml.in.h:155
 msgid "Malayalam Support"
 msgstr "ਮਲਿਆਲਮ ਸਹਿਯੋਗ"
@@ -952,680 +951,698 @@ msgstr "ਮਾਲਟਾ ਸਹਿਯੋਗ"
 msgid "Manx Support"
 msgstr "ਮੈਨਕਸ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:188
+#: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:186
+#: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:189
+msgid "MATE"
+msgstr "ਮੇਟ"
+
+#: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:187
+#: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:190
+msgid ""
+"MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
+"interface for users who seek a simple easy to use traditional desktop "
+"interface."
+msgstr ""
+
+#: ../comps-f16.xml.in.h:182 ../comps-f17.xml.in.h:188
 #: ../comps-el6.xml.in.h:158
 msgid "Maori Support"
 msgstr "ਮਾਓਰੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:189
-#: ../comps-f18.xml.in.h:186 ../comps-f19.xml.in.h:187
+#: ../comps-f16.xml.in.h:183 ../comps-f17.xml.in.h:189
+#: ../comps-f18.xml.in.h:186 ../comps-f19.xml.in.h:191
 #: ../comps-el6.xml.in.h:159
 msgid "Marathi Support"
 msgstr "ਮਰਾਠੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:182 ../comps-f17.xml.in.h:192
+#: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:192
 msgid "MeeGo NetBook UX Environment"
 msgstr "ਮੀਗੋ ਨੈੱਟਬੁੱਕ UX ਇੰਵਾਇਰਨਮੈਂਟ"
 
-#: ../comps-f16.xml.in.h:183 ../comps-f17.xml.in.h:193
+#: ../comps-f16.xml.in.h:185 ../comps-f17.xml.in.h:193
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
 msgstr "ਮੀਗੋ ਨੈੱਟਬੁੱਕ UX ਨੈੱਟਬੁੱਕ/ਨੈੱਟਟਾਪ ਜੰਤਰਾਂ ਲਈ ਇੱਕ ਡੈਸਕਟਾਪ ਇੰਨਵਾਇਰਨਮੈਂਟ ਹੈ।"
 
-#: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:194
-#: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:190
+#: ../comps-f16.xml.in.h:186 ../comps-f17.xml.in.h:194
+#: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:194
 #: ../comps-el6.xml.in.h:160
 msgid "Milkymist"
 msgstr ""
 
-#: ../comps-f16.xml.in.h:185 ../comps-f17.xml.in.h:195
-#: ../comps-f18.xml.in.h:190 ../comps-f19.xml.in.h:191
+#: ../comps-f16.xml.in.h:187 ../comps-f17.xml.in.h:195
+#: ../comps-f18.xml.in.h:190 ../comps-f19.xml.in.h:195
 #: ../comps-el6.xml.in.h:161
 msgid "Toolchain for Milkymist hardware engineers."
 msgstr ""
 
-#: ../comps-f16.xml.in.h:186 ../comps-f17.xml.in.h:196
-#: ../comps-f18.xml.in.h:191 ../comps-f19.xml.in.h:192
+#: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:196
+#: ../comps-f18.xml.in.h:191 ../comps-f19.xml.in.h:196
 msgid "MinGW cross-compiler"
 msgstr "MinGW ਅੰਤਰ-ਕੰਪਾਇਲਰ"
 
-#: ../comps-f16.xml.in.h:187 ../comps-f17.xml.in.h:197
-#: ../comps-f18.xml.in.h:192 ../comps-f19.xml.in.h:193
+#: ../comps-f16.xml.in.h:189 ../comps-f17.xml.in.h:197
+#: ../comps-f18.xml.in.h:192 ../comps-f19.xml.in.h:197
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 msgstr "ਵਿੰਡੋਜ਼ ਟਾਰਗੇਟ ਨਾਲ ੩੨-ਬਿੱਟ ਅੰਤਰ-ਕੰਪਾਇਲ ਕਰਨ, ਟੈਸਟ ਕਰਨ ਅਤੇ ਇੰਸਟਾਲਰ ਬਣਾਉਣ ਵਾਸਤੇ ਸਹਿਯੋਗ, ਸਭ ਕੁਝ ਫੇਡੋਰਾ ਵਿੱਚ।"
 
-#: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:198
+#: ../comps-f16.xml.in.h:190 ../comps-f17.xml.in.h:198
 #: ../comps-el6.xml.in.h:162
 msgid "Mongolian Support"
 msgstr "ਮੰਗੋਲੀਆਈ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:189 ../comps-f17.xml.in.h:199
+#: ../comps-f16.xml.in.h:191 ../comps-f17.xml.in.h:199
 msgid "Mossi Support"
 msgstr "ਮੋਸੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:190 ../comps-f17.xml.in.h:200
-#: ../comps-f18.xml.in.h:193 ../comps-f19.xml.in.h:194
+#: ../comps-f16.xml.in.h:192 ../comps-f17.xml.in.h:200
+#: ../comps-f18.xml.in.h:193
 msgid "MySQL Database"
 msgstr "MySQL ਡਾਟਾਬੇਸ"
 
-#: ../comps-f16.xml.in.h:191 ../comps-f17.xml.in.h:201
-#: ../comps-f18.xml.in.h:194 ../comps-f19.xml.in.h:195
+#: ../comps-f16.xml.in.h:193 ../comps-f17.xml.in.h:201
+#: ../comps-f18.xml.in.h:194
 msgid "This package group contains packages useful for use with MySQL."
 msgstr "ਇਸ ਪੈਕੇਜ ਗਰੁੱਪ ਵਿੱਚ, MySQL ਨਾਲ ਵਰਤਣ ਲਈ ਲਾਭਦਾਇਕ ਪੈਕੇਜ ਸ਼ਾਮਿਲ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:192 ../comps-f17.xml.in.h:202
-#: ../comps-f18.xml.in.h:195 ../comps-f19.xml.in.h:196
+#: ../comps-f16.xml.in.h:194 ../comps-f17.xml.in.h:202
+#: ../comps-f18.xml.in.h:195 ../comps-f19.xml.in.h:200
 #: ../comps-el6.xml.in.h:167
 msgid "Nepali Support"
 msgstr "ਨੇਪਾਲੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:193 ../comps-f17.xml.in.h:203
-#: ../comps-f18.xml.in.h:196 ../comps-f19.xml.in.h:197
+#: ../comps-f16.xml.in.h:195 ../comps-f17.xml.in.h:203
+#: ../comps-f18.xml.in.h:196 ../comps-f19.xml.in.h:201
 #: ../comps-el5.xml.in.h:51
 msgid "Network Servers"
 msgstr "ਨੈੱਟਵਰਕ ਸਰਵਰ"
 
-#: ../comps-f16.xml.in.h:194 ../comps-f17.xml.in.h:204
-#: ../comps-f18.xml.in.h:197 ../comps-f19.xml.in.h:198
+#: ../comps-f16.xml.in.h:196 ../comps-f17.xml.in.h:204
+#: ../comps-f18.xml.in.h:197 ../comps-f19.xml.in.h:202
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr "ਇਸ ਪੈਕੇਜ ਵਿੱਚ ਨੈੱਟਵਰਕ ਅਧਾਰਿਤ ਸਰਵਰ, ਜਿਵੇ ਕਿ DHCP, ਕੀਰਬੀਰੋਸ ਅਤੇ NIS ਆਦਿ, ਸ਼ਾਮਿਲ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:195 ../comps-f17.xml.in.h:205
-#: ../comps-f18.xml.in.h:198 ../comps-f19.xml.in.h:199
+#: ../comps-f16.xml.in.h:197 ../comps-f17.xml.in.h:205
+#: ../comps-f18.xml.in.h:198 ../comps-f19.xml.in.h:203
 #: ../comps-el5.xml.in.h:53
 msgid "News Server"
 msgstr "ਨਿਊਜ਼ ਸਰਵਰ"
 
-#: ../comps-f16.xml.in.h:196 ../comps-f17.xml.in.h:206
-#: ../comps-f18.xml.in.h:199 ../comps-f19.xml.in.h:200
+#: ../comps-f16.xml.in.h:198 ../comps-f17.xml.in.h:206
+#: ../comps-f18.xml.in.h:199 ../comps-f19.xml.in.h:204
 #: ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
 msgstr "ਇਹ ਗਰੁੱਪ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਿਸਟਮ ਨੂੰ ਖਬਰਾਂ ਸਰਵਰ ਦੇ ਰੂਪ ਵਿੱਚ ਸੰਰਚਿਤ ਕਰਨ ਵਿੱਚ ਸਹਾਇਕ ਹੈ।"
 
-#: ../comps-f16.xml.in.h:197 ../comps-f17.xml.in.h:207
+#: ../comps-f16.xml.in.h:199 ../comps-f17.xml.in.h:207
 msgid "Northern Sami Support"
 msgstr "ਉੱਤਰੀ ਸਾਮੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:198 ../comps-f17.xml.in.h:208
+#: ../comps-f16.xml.in.h:200 ../comps-f17.xml.in.h:208
 #: ../comps-el6.xml.in.h:176
 msgid "Northern Sotho Support"
 msgstr "ਉੱਤਰੀ ਸੋਥੋ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:199 ../comps-f17.xml.in.h:209
+#: ../comps-f16.xml.in.h:201 ../comps-f17.xml.in.h:209
 #: ../comps-el6.xml.in.h:177
 msgid "Norwegian Support"
 msgstr "ਨਾਰਵੇਆਈ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:200 ../comps-f17.xml.in.h:210
-#: ../comps-f18.xml.in.h:200 ../comps-f19.xml.in.h:201
+#: ../comps-f16.xml.in.h:202 ../comps-f17.xml.in.h:210
+#: ../comps-f18.xml.in.h:200 ../comps-f19.xml.in.h:205
 msgid "OCaml"
 msgstr "OCaml"
 
-#: ../comps-f16.xml.in.h:201 ../comps-f17.xml.in.h:211
-#: ../comps-f18.xml.in.h:201 ../comps-f19.xml.in.h:202
+#: ../comps-f16.xml.in.h:203 ../comps-f17.xml.in.h:211
+#: ../comps-f18.xml.in.h:201 ../comps-f19.xml.in.h:206
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
 msgstr "ਆਬਜੈਕਟ CAML ਪਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਅਤੇ ਲਾਇਬਰੇਰੀਆਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪ ਕਰਨ ਲਈ ਸਹਿਯੋਗ।"
 
-#: ../comps-f16.xml.in.h:202 ../comps-f17.xml.in.h:212
+#: ../comps-f16.xml.in.h:204 ../comps-f17.xml.in.h:212
 #: ../comps-el6.xml.in.h:178
 msgid "Occitan Support"
 msgstr "ਉੱਸੀਤਾਨ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:203 ../comps-f17.xml.in.h:213
-#: ../comps-f18.xml.in.h:202 ../comps-f19.xml.in.h:203
+#: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:213
+#: ../comps-f18.xml.in.h:202 ../comps-f19.xml.in.h:207
 #: ../comps-el5.xml.in.h:55
 msgid "Office/Productivity"
 msgstr "ਦਫਤਰੀ/ਉਤਪਾਦਨ"
 
-#: ../comps-f16.xml.in.h:204 ../comps-f17.xml.in.h:214
-#: ../comps-f18.xml.in.h:203 ../comps-f19.xml.in.h:204
+#: ../comps-f16.xml.in.h:206 ../comps-f17.xml.in.h:214
+#: ../comps-f18.xml.in.h:203 ../comps-f19.xml.in.h:208
 #: ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr "ਐਪਲੀਕੇਸ਼ਨਾਂ ਵਿੱਚ ਦਫਤਰੀ ਟੂਲ, PDF ਦਰਸ਼ਕ ਤੇ ਹੋਰ ਕਈ ਵੀ ਸ਼ਾਮਿਲ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:215
-#: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:205
+#: ../comps-f16.xml.in.h:207 ../comps-f17.xml.in.h:215
+#: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:209
 msgid "Online Help and Documentation"
 msgstr "ਆਨਲਾਈਨ ਮੱਦਦ ਅਤੇ ਡੌਕੂਮੈਂਟੇਸ਼ਨ"
 
-#: ../comps-f16.xml.in.h:206 ../comps-f17.xml.in.h:216
-#: ../comps-f18.xml.in.h:205 ../comps-f19.xml.in.h:206
+#: ../comps-f16.xml.in.h:208 ../comps-f17.xml.in.h:216
+#: ../comps-f18.xml.in.h:205 ../comps-f19.xml.in.h:210
 #: ../comps-el6.xml.in.h:181
 msgid "Oriya Support"
 msgstr "ਓੜੀਆ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:207 ../comps-f17.xml.in.h:217
+#: ../comps-f16.xml.in.h:209 ../comps-f17.xml.in.h:217
 msgid "Oromo Support"
 msgstr "ਓਰੀਮੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:208 ../comps-f17.xml.in.h:218
-#: ../comps-f18.xml.in.h:206 ../comps-f19.xml.in.h:207
+#: ../comps-f16.xml.in.h:210 ../comps-f17.xml.in.h:218
+#: ../comps-f18.xml.in.h:206 ../comps-f19.xml.in.h:211
 msgid "Perl Development"
 msgstr "Perl ਡਿਵੈਲਪਮੈਂਟ"
 
-#: ../comps-f16.xml.in.h:209 ../comps-f17.xml.in.h:219
-#: ../comps-f18.xml.in.h:207 ../comps-f19.xml.in.h:208
+#: ../comps-f16.xml.in.h:211 ../comps-f17.xml.in.h:219
+#: ../comps-f18.xml.in.h:207 ../comps-f19.xml.in.h:212
 msgid "Support for developing programs in the Perl programming language."
 msgstr "Perl ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਵਿੱਚ ਪਰੋਗਰਾਮ ਡਿਵੈਲਪ ਕਰਨ ਲਈ ਸਹਿਯੋਗ ਹੈ।"
 
-#: ../comps-f16.xml.in.h:210 ../comps-f17.xml.in.h:220
-#: ../comps-f18.xml.in.h:208 ../comps-f19.xml.in.h:209
+#: ../comps-f16.xml.in.h:212 ../comps-f17.xml.in.h:220
+#: ../comps-f18.xml.in.h:208 ../comps-f19.xml.in.h:213
 #: ../comps-el6.xml.in.h:186
 msgid "Persian Support"
 msgstr "ਪਰਸੀਆਈ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:211 ../comps-f17.xml.in.h:221
+#: ../comps-f16.xml.in.h:213 ../comps-f17.xml.in.h:221
 #: ../comps-el6.xml.in.h:189
 msgid "Polish Support"
 msgstr "ਪੋਲੈਂਡੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:212 ../comps-f17.xml.in.h:222
+#: ../comps-f16.xml.in.h:214 ../comps-f17.xml.in.h:222
 #: ../comps-el6.xml.in.h:190
 msgid "Portuguese Support"
 msgstr "ਪੁਰਤਗਾਲੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:213 ../comps-f17.xml.in.h:223
-#: ../comps-f18.xml.in.h:209 ../comps-f19.xml.in.h:210
+#: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:223
+#: ../comps-f18.xml.in.h:209 ../comps-f19.xml.in.h:214
 msgid "Printing Support"
 msgstr "ਪਰਿੰਟ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:214 ../comps-f17.xml.in.h:224
-#: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
+#: ../comps-f16.xml.in.h:216 ../comps-f17.xml.in.h:224
+#: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:215
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
 msgstr "ਸਿਸਟਮ ਪਰਿੰਟ ਕਰਨ ਜਾਂ ਪਰਿੰਟ ਸਰਵਰ ਵਜੋਂ ਕੰਮ ਕਰਨ ਲਈ ਇਹ ਟੂਲ ਇੰਸਟਾਲ ਕਰੋ।"
 
-#: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
-#: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
+#: ../comps-f16.xml.in.h:217 ../comps-f17.xml.in.h:225
+#: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:216
 #: ../comps-el6.xml.in.h:199
 msgid "Punjabi Support"
 msgstr "ਪੰਜਾਬੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:216 ../comps-f17.xml.in.h:226
+#: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:226
 msgid "Quechua Support"
 msgstr "ਕੁਈਚੁਆ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:217 ../comps-f17.xml.in.h:227
-#: ../comps-f18.xml.in.h:212 ../comps-f19.xml.in.h:213
+#: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:227
+#: ../comps-f18.xml.in.h:212 ../comps-f19.xml.in.h:217
 msgid "Robotics"
 msgstr "ਰੋਬੋਟਿਕ"
 
-#: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:228
+#: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:228
+#: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:218
+msgid "Suite of packages for robotics development"
+msgstr ""
+
+#: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:229
 #: ../comps-el6.xml.in.h:201
 msgid "Romanian Support"
 msgstr "ਰੋਮਾਨੀਆਈ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:229
-#: ../comps-f18.xml.in.h:214 ../comps-f19.xml.in.h:215
+#: ../comps-f16.xml.in.h:222 ../comps-f17.xml.in.h:230
+#: ../comps-f18.xml.in.h:214 ../comps-f19.xml.in.h:219
 msgid "Ruby"
 msgstr "ਰੂਬੀ"
 
-#: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:230
-#: ../comps-f18.xml.in.h:215 ../comps-f19.xml.in.h:216
+#: ../comps-f16.xml.in.h:223 ../comps-f17.xml.in.h:231
+#: ../comps-f18.xml.in.h:215 ../comps-f19.xml.in.h:220
 msgid "Basic support for the Ruby programming language."
 msgstr "ਰੂਬੀ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਲਈ ਮੁੱਢਲਾ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:231
-#: ../comps-f18.xml.in.h:216 ../comps-f19.xml.in.h:217
+#: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:232
+#: ../comps-f18.xml.in.h:216 ../comps-f19.xml.in.h:221
 #: ../comps-el6.xml.in.h:202
 msgid "Russian Support"
 msgstr "ਰੂਸੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:222 ../comps-f17.xml.in.h:232
+#: ../comps-f16.xml.in.h:225 ../comps-f17.xml.in.h:233
 msgid "Samoan Support"
 msgstr "ਸਮੋਅਨ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:223 ../comps-f17.xml.in.h:233
-#: ../comps-f18.xml.in.h:217 ../comps-f19.xml.in.h:218
+#: ../comps-f16.xml.in.h:226 ../comps-f17.xml.in.h:234
+#: ../comps-f18.xml.in.h:217 ../comps-f19.xml.in.h:222
 #: ../comps-el6.xml.in.h:203
 msgid "Sanskrit Support"
 msgstr "ਸੰਸਕ੍ਰਿਤ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:235
+#: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:236
 #: ../comps-el6.xml.in.h:204
 msgid "Sardinian Support"
 msgstr "ਸਾਰਡੀਨੀਆਈ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:225 ../comps-f17.xml.in.h:236
+#: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:237
 #: ../comps-el6.xml.in.h:209
 msgid "Serbian Support"
 msgstr "ਸਰਬੀਆਈ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:226 ../comps-f17.xml.in.h:237
-#: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
+#: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:238
+#: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:226
 msgid "Server Configuration Tools"
 msgstr "ਸਰਵਰ ਸੰਰਚਨਾ ਟੂਲ"
 
-#: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
-#: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:223
+#: ../comps-f16.xml.in.h:230 ../comps-f17.xml.in.h:239
+#: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:227
 msgid ""
 "This group contains all of Red Hat's custom server configuration tools."
 msgstr "ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਸਾਰੇ Red Hat ਦੇ ਪਸੰਦੀਦਾ ਸਰਵਰ ਸੰਰਚਨਾ ਟੂਲ ਸ਼ਾਮਿਲ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
+#: ../comps-f16.xml.in.h:231 ../comps-f17.xml.in.h:240
 msgid "Shuswap Support"
 msgstr "ਸ਼ੁਸਵੈਪ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:240
-#: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:224
+#: ../comps-f16.xml.in.h:232 ../comps-f17.xml.in.h:241
+#: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:228
 msgid "Simplified Chinese Support"
 msgstr "ਸਧਾਰਨ ਚੀਨੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:230 ../comps-f17.xml.in.h:241
-#: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:225
+#: ../comps-f16.xml.in.h:233 ../comps-f17.xml.in.h:242
+#: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:229
 #: ../comps-el6.xml.in.h:216
 msgid "Sindhi Support"
 msgstr "ਸਿੰਧੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:231 ../comps-f17.xml.in.h:242
-#: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:226
+#: ../comps-f16.xml.in.h:234 ../comps-f17.xml.in.h:243
+#: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:230
 #: ../comps-el6.xml.in.h:217
 msgid "Sinhala Support"
 msgstr "ਸਿੰਹਾਲਾ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:232 ../comps-f17.xml.in.h:243
+#: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:244
 #: ../comps-el6.xml.in.h:218
 msgid "Slovak Support"
 msgstr "ਸਲੋਵਿਕ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:233 ../comps-f17.xml.in.h:244
+#: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:245
 #: ../comps-el6.xml.in.h:219
 msgid "Slovenian Support"
 msgstr "ਸਲੋਵੀਨੀਆ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:234 ../comps-f17.xml.in.h:245
-#: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
+#: ../comps-f16.xml.in.h:237 ../comps-f17.xml.in.h:246
+#: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:231
 msgid "Windows File Server"
 msgstr "Windows ਫਾਇਲ ਸਰਵਰ"
 
-#: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
-#: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:228
+#: ../comps-f16.xml.in.h:238 ../comps-f17.xml.in.h:247
+#: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:232
 msgid ""
 "This package group allows you to share files between Linux and MS "
 "Windows(tm) systems."
 msgstr "ਇਹ ਪੈਕੇਜ ਤੁਹਾਨੂੰ ਲੀਨਕਸ (Linux) ਅਤੇ MS Windows ਸਿਸਟਮਾਂ ਵਿੱਚ ਫਾਇਲਾਂ ਦੀ ਸਾਂਝ ਕਰਨ ਲਈ ਸਹਾਈ ਹੈ।"
 
-#: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
+#: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:248
 msgid "Somali Support"
 msgstr "ਸੋਮਾਲੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:237 ../comps-f17.xml.in.h:248
-#: ../comps-f18.xml.in.h:226 ../comps-f19.xml.in.h:229
+#: ../comps-f16.xml.in.h:240 ../comps-f17.xml.in.h:249
+#: ../comps-f18.xml.in.h:226 ../comps-f19.xml.in.h:233
 #: ../comps-el5.xml.in.h:57
 msgid "Sound and Video"
 msgstr "ਆਵਾਜ਼ ਅਤੇ ਵਿਡੀਓ"
 
-#: ../comps-f16.xml.in.h:238 ../comps-f17.xml.in.h:249
-#: ../comps-f18.xml.in.h:227 ../comps-f19.xml.in.h:230
+#: ../comps-f16.xml.in.h:241 ../comps-f17.xml.in.h:250
+#: ../comps-f18.xml.in.h:227 ../comps-f19.xml.in.h:234
 #: ../comps-el5.xml.in.h:58
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr "CD ਰਿਕਾਰਡਰ ਕਰਨ ਤੋਂ ਲੈਕੇ ਆਡੀਓ CD ਅਤੇ ਬਹੁਰੰਗ ਫਾਇਲਾਂ ਨੂੰ ਚਲਾਉਣ ਤੱਕ, ਇਹ ਪੈਕੇਜ ਗਰੁੱਪ ਤੁਹਾਨੂੰ ਆਪਣੇ ਸਿਸਟਮ ਤੇ ਆਵਾਜ਼ ਅਤੇ ਵੀਡਿਓ ਚਲਾਉਣ ਦੇ ਕੰਮ ਆਉਂਦਾ ਹੈ।"
 
-#: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:250
+#: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:251
 #: ../comps-el6.xml.in.h:222
 msgid "Southern Ndebele Support"
 msgstr "ਉੱਤਰੀ ਨਡੀਬੀਲੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:240 ../comps-f17.xml.in.h:251
+#: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:252
 #: ../comps-el6.xml.in.h:223
 msgid "Southern Sotho Support"
 msgstr "ਉੱਤਰੀ ਸੋਥੋ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:241 ../comps-f17.xml.in.h:252
+#: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:253
 #: ../comps-el6.xml.in.h:224
 msgid "Spanish Support"
 msgstr "ਸਪੇਨੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:253
-#: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:231
+#: ../comps-f16.xml.in.h:245 ../comps-f17.xml.in.h:254
+#: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:235
 msgid "PostgreSQL Database"
 msgstr "PostgreSQL ਡਾਟਾਬੇਸ"
 
-#: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:254
-#: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
+#: ../comps-f16.xml.in.h:246 ../comps-f17.xml.in.h:255
+#: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:236
 msgid "This package group includes packages useful for use with Postgresql."
 msgstr "ਇਸ ਪੈਕੇਜ ਗਰੁੱਪ ਵਿੱਚ Postgresql ਨਾਲ ਵਰਤਣ ਲਈ ਲਾਭਦਾਇਕ ਪੈਕੇਜ ਸ਼ਾਮਿਲ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:255
-#: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:233
+#: ../comps-f16.xml.in.h:247 ../comps-f17.xml.in.h:256
+#: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:237
 msgid "Sugar Desktop Environment"
 msgstr "ਸ਼ੂਗਰ ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ"
 
-#: ../comps-f16.xml.in.h:245 ../comps-f17.xml.in.h:256
-#: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:234
+#: ../comps-f16.xml.in.h:248 ../comps-f17.xml.in.h:257
+#: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:238
 msgid "A software playground for learning about learning."
 msgstr "ਸਿੱਖਣ ਲਈ ਤਿਆਰ ਕੀਤਾ ਸਾਫਟਵੇਅਰ ਪਲੇਅਗਰਾਊਂਡ ਹੈ।"
 
-#: ../comps-f16.xml.in.h:246 ../comps-f17.xml.in.h:257
+#: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:258
 #: ../comps-el6.xml.in.h:233
 msgid "Swahili Support"
 msgstr "ਸਵਾਹੀਲੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:247 ../comps-f17.xml.in.h:258
+#: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:259
 #: ../comps-el6.xml.in.h:234
 msgid "Swati Support"
 msgstr "ਸਵਾਟੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:248 ../comps-f17.xml.in.h:259
+#: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:260
 #: ../comps-el6.xml.in.h:235
 msgid "Swedish Support"
 msgstr "ਸਵੀਡਸ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:260
-#: ../comps-f18.xml.in.h:232 ../comps-f19.xml.in.h:235
+#: ../comps-f16.xml.in.h:252 ../comps-f17.xml.in.h:261
+#: ../comps-f18.xml.in.h:232 ../comps-f19.xml.in.h:239
 #: ../comps-el5.xml.in.h:59
 msgid "System Tools"
 msgstr "ਸਿਸਟਮ ਟੂਲ"
 
-#: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:261
-#: ../comps-f18.xml.in.h:233 ../comps-f19.xml.in.h:236
+#: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:262
+#: ../comps-f18.xml.in.h:233 ../comps-f19.xml.in.h:240
 #: ../comps-el5.xml.in.h:60
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr "ਇਹ ਗਰੁੱਪ ਸਿਸਟਮ ਲਈ ਕਈ ਟੂਲਾਂ ਦਾ ਗਰੁੱਪ ਹੈ, ਜਿਵੇਂ ਕਿ SMB ਸਾਂਝ ਨਾਲ ਜੁੜਨ ਲਈ ਕਲਾਇਟ ਅਤੇ ਨੈੱਟਵਰਕ ਟਰੈਫਿਕ ਨੂੰ ਜਾਂਚਣ ਲਈ ਟੂਲ ਆਦਿ।"
 
-#: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:262
+#: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:263
 #: ../comps-el6.xml.in.h:248
 msgid "Tagalog Support"
 msgstr "ਤਾਗਾਲੋਗ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:252 ../comps-f17.xml.in.h:263
+#: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:264
 #: ../comps-el6.xml.in.h:249
 msgid "Tajik Support"
 msgstr "ਤਾਜਿਕ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:264
-#: ../comps-f18.xml.in.h:234 ../comps-f19.xml.in.h:237
+#: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:265
+#: ../comps-f18.xml.in.h:234 ../comps-f19.xml.in.h:241
 #: ../comps-el6.xml.in.h:250
 msgid "Tamil Support"
 msgstr "ਤਾਮਿਲ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:265
-#: ../comps-f18.xml.in.h:235 ../comps-f19.xml.in.h:238
+#: ../comps-f16.xml.in.h:257 ../comps-f17.xml.in.h:266
+#: ../comps-f18.xml.in.h:235 ../comps-f19.xml.in.h:242
 #: ../comps-el6.xml.in.h:253
 msgid "Telugu Support"
 msgstr "ਤੇਲਗੂ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:266
+#: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:267
 #: ../comps-el6.xml.in.h:254
 msgid "Tetum Support"
 msgstr "ਤੀਤੁਮ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:267
-#: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:239
+#: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:268
+#: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:243
 #: ../comps-el5.xml.in.h:61
 msgid "Text-based Internet"
 msgstr "ਟੈਕਸਟ-ਅਧਾਰਿਤ ਇੰਟਰਨੈੱਟ"
 
-#: ../comps-f16.xml.in.h:257 ../comps-f17.xml.in.h:268
-#: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:240
+#: ../comps-f16.xml.in.h:260 ../comps-f17.xml.in.h:269
+#: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:244
 #: ../comps-el5.xml.in.h:62
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr "ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਪਾਠ ਈ-ਮੇਲ, ਵੈੱਬ ਅਤੇ ਚੈਟ ਕਲਾਇਟ ਸ਼ਾਮਿਲ ਹਨ। ਇਹਨਾਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਲਈ X ਵਿੰਡੋ ਸਿਸਟਮ ਲੋੜੀਦਾ ਨਹੀ ਹੈ।"
 
-#: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:269
-#: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:241
+#: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:270
+#: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:245
 #: ../comps-el6.xml.in.h:257
 msgid "Thai Support"
 msgstr "ਥਾਈ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:270
-#: ../comps-f18.xml.in.h:239 ../comps-f19.xml.in.h:242
+#: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:271
+#: ../comps-f18.xml.in.h:239 ../comps-f19.xml.in.h:246
 #: ../comps-el6.xml.in.h:258
 msgid "Tibetan Support"
 msgstr "ਤਿੱਬਤੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:260 ../comps-f17.xml.in.h:271
+#: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:272
 msgid "Tigrinya Support"
 msgstr "ਤਿਗਰੀਆਈ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:272
+#: ../comps-f16.xml.in.h:264 ../comps-f17.xml.in.h:273
 msgid "Tonga Support"
 msgstr "ਟੌਂਗਾ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:273
-#: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:243
+#: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:274
+#: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:247
 msgid "Traditional Chinese Support"
 msgstr "ਪੁਰਾਤਨ ਚੀਨੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:274
+#: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:275
 #: ../comps-el6.xml.in.h:259
 msgid "Tsonga Support"
 msgstr "ਤਸੋਂਗਾ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:264 ../comps-f17.xml.in.h:275
+#: ../comps-f16.xml.in.h:267 ../comps-f17.xml.in.h:276
 #: ../comps-el6.xml.in.h:260
 msgid "Tswana Support"
 msgstr "ਤਸਵਾਨਾ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:276
+#: ../comps-f16.xml.in.h:268 ../comps-f17.xml.in.h:277
 #: ../comps-el6.xml.in.h:263
 msgid "Turkish Support"
 msgstr "ਤੁਰਕ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:277
+#: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:278
 #: ../comps-el6.xml.in.h:264
 msgid "Turkmen Support"
 msgstr "ਤੁਰਕ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:267 ../comps-f17.xml.in.h:278
+#: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:279
 #: ../comps-el6.xml.in.h:265
 msgid "Ukrainian Support"
 msgstr "ਯੂਕਰੇਨੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:268 ../comps-f17.xml.in.h:279
+#: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:280
 #: ../comps-el6.xml.in.h:266
 msgid "Upper Sorbian Support"
 msgstr "ਅੱਪਰ ਸੋਰਬੀਆਈ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:280
-#: ../comps-f18.xml.in.h:241 ../comps-f19.xml.in.h:244
+#: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:281
+#: ../comps-f18.xml.in.h:241 ../comps-f19.xml.in.h:248
 #: ../comps-el6.xml.in.h:267
 msgid "Urdu Support"
 msgstr "ਉਰਦੂ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:281
+#: ../comps-f16.xml.in.h:273 ../comps-f17.xml.in.h:282
 #: ../comps-el6.xml.in.h:268
 msgid "Uzbek Support"
 msgstr "ਉਜੇਬਕ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:282
+#: ../comps-f16.xml.in.h:274 ../comps-f17.xml.in.h:283
 #: ../comps-el6.xml.in.h:269
 msgid "Venda Support"
 msgstr "ਵਾਂਡਾ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:283
-#: ../comps-el6.xml.in.h:270
+#: ../comps-f16.xml.in.h:275 ../comps-f17.xml.in.h:284
+#: ../comps-f19.xml.in.h:249 ../comps-el6.xml.in.h:270
 msgid "Vietnamese Support"
 msgstr "ਵੀਅਤਨਾਮੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:273 ../comps-f18.xml.in.h:242
-#: ../comps-f19.xml.in.h:245 ../comps-el6.xml.in.h:271
+#: ../comps-f16.xml.in.h:276 ../comps-f18.xml.in.h:242
+#: ../comps-f19.xml.in.h:254 ../comps-el6.xml.in.h:271
 msgid "Virtualization"
 msgstr "ਵੁਰਚੁਲਾਈਜ਼ੇਸ਼ਨ"
 
-#: ../comps-f16.xml.in.h:274 ../comps-f17.xml.in.h:285
-#: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
+#: ../comps-f16.xml.in.h:277 ../comps-f17.xml.in.h:286
+#: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:255
 msgid "These packages provide a virtualization environment."
 msgstr "ਇਹ ਪੈਕੇਜ ਵੁਰਚੁਲਾਈਜ਼ੇਸਨ ਇੰਵਾਇਰਨਮੈਂਟ ਉਪਲੱਬਧ ਕਰਵਾਉਦੇ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:275 ../comps-f17.xml.in.h:288
+#: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:289
 #: ../comps-el6.xml.in.h:279
 msgid "Walloon Support"
 msgstr "ਵੱਲਊਨ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:276 ../comps-f17.xml.in.h:289
+#: ../comps-f16.xml.in.h:279 ../comps-f17.xml.in.h:290
 #: ../comps-el5.xml.in.h:63
 msgid "Web Development"
 msgstr "ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ"
 
-#: ../comps-f16.xml.in.h:277 ../comps-f17.xml.in.h:290
+#: ../comps-f16.xml.in.h:280 ../comps-f17.xml.in.h:291
 #: ../comps-el5.xml.in.h:64
 msgid ""
 "These packages are helpful when developing web applications or web pages."
 msgstr "ਇਹ ਪੈਕੇਜ, ਤੁਹਾਡੇ ਲਈ ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਜਾਂ ਵੈੱਬ ਸਫ਼ੇ ਬਣਾਉਣ ਲਈ ਸਹਾਇਕ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:291
-#: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:263
+#: ../comps-f16.xml.in.h:281 ../comps-f17.xml.in.h:292
+#: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:275
 #: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
 msgid "Web Server"
 msgstr "ਵੈੱਬ ਸਰਵਰ"
 
-#: ../comps-f16.xml.in.h:279 ../comps-f17.xml.in.h:292
-#: ../comps-f18.xml.in.h:245 ../comps-f19.xml.in.h:248
+#: ../comps-f16.xml.in.h:282 ../comps-f17.xml.in.h:293
+#: ../comps-f18.xml.in.h:245 ../comps-f19.xml.in.h:257
 #: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
 msgstr "ਇਹ ਟੂਲ ਤੁਹਾਨੂੰ ਸਿਸਟਮ ਤੇ ਵੈੱਬ ਸਰਵਰ ਚਲਾਉਣ ਵਿੱਚ ਸਹਾਇਕ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:280 ../comps-f17.xml.in.h:293
+#: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:294
 #: ../comps-el6.xml.in.h:284
 msgid "Welsh Support"
 msgstr "ਵਾਲਿਸ਼ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:281 ../comps-f17.xml.in.h:294
-#: ../comps-f18.xml.in.h:246 ../comps-f19.xml.in.h:249
+#: ../comps-f16.xml.in.h:284 ../comps-f17.xml.in.h:295
+#: ../comps-f18.xml.in.h:246 ../comps-f19.xml.in.h:258
 #: ../comps-el5.xml.in.h:67
 msgid "Window Managers"
 msgstr "ਵਿੰਡੋ ਮੈਨੇਜਰ"
 
-#: ../comps-f16.xml.in.h:282 ../comps-f17.xml.in.h:295
-#: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:250
+#: ../comps-f16.xml.in.h:285 ../comps-f17.xml.in.h:296
+#: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:259
 #: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr "ਸਧਾਰਨ ਵਿੰਡੋ ਮੈਨੇਜਰ, ਜੋ ਕਿ ਵੱਡੇ ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ ਦੇ ਭਾਗ ਨਹੀਂ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:296
-#: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:251
+#: ../comps-f16.xml.in.h:286 ../comps-f17.xml.in.h:297
+#: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:260
 msgid "X Software Development"
 msgstr "X ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ"
 
-#: ../comps-f16.xml.in.h:284 ../comps-f17.xml.in.h:297
-#: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
+#: ../comps-f16.xml.in.h:287 ../comps-f17.xml.in.h:298
+#: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:261
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr "ਇਹ ਪੈਕੇਜ, ਤੁਹਾਡੇ ਲਈ X ਵਿੰਡੋ ਸਿਸਟਮ ਦੇ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਡਿਵੈਲਪ ਕਰਨ ਲਈ ਸਹਾਈ ਹੈ।"
 
-#: ../comps-f16.xml.in.h:285 ../comps-f17.xml.in.h:298
+#: ../comps-f16.xml.in.h:288 ../comps-f17.xml.in.h:299
 #: ../comps-f18.xml.in.h:26 ../comps-f19.xml.in.h:26 ../comps-el6.xml.in.h:289
 msgid "Xfce"
 msgstr "Xfce"
 
-#: ../comps-f16.xml.in.h:286 ../comps-f17.xml.in.h:299
+#: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:300
 #: ../comps-f18.xml.in.h:27 ../comps-f19.xml.in.h:27 ../comps-el6.xml.in.h:290
 msgid "A lightweight desktop environment that works well on low end machines."
 msgstr "ਇੱਕ ਹਲਕਾ ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ, ਜੋ ਕਿ ਘੱਟ ਸੰਰਚਨਾ ਵਾਲੀਆਂ ਮਸ਼ੀਨਾਂ ਉੱਤੇ ਕੰਮ ਕਰਦਾ ਹੈ।"
 
-#: ../comps-f16.xml.in.h:287 ../comps-f17.xml.in.h:300
+#: ../comps-f16.xml.in.h:290 ../comps-f17.xml.in.h:301
 msgid "XFCE Software Development"
 msgstr "XFCE ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ"
 
-#: ../comps-f16.xml.in.h:288 ../comps-f17.xml.in.h:301
+#: ../comps-f16.xml.in.h:291 ../comps-f17.xml.in.h:302
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
 msgstr "GTK+ ਅਤੇ XFCE ਗਰਾਫਿਕਲ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦੇ ਵਿਕਾਸ ਲਈ ਇਹ ਪੈਕੇਜ ਇੰਸਟਾਲ ਕਰੋ।"
 
-#: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:302
+#: ../comps-f16.xml.in.h:292 ../comps-f17.xml.in.h:303
 #: ../comps-el6.xml.in.h:291
 msgid "Xhosa Support"
 msgstr "ਜ਼ੋਸਾ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:290 ../comps-f17.xml.in.h:303
-#: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
+#: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:304
+#: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:264
 msgid "Yiddish Support"
 msgstr "ਯਿਡਿਸ਼ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:291 ../comps-f17.xml.in.h:304
+#: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:305
 #: ../comps-el6.xml.in.h:292
 msgid "Zulu Support"
 msgstr "ਜ਼ੁਲੂ ਸਹਿਯੋਗ"
 
-#: ../comps-f16.xml.in.h:292 ../comps-f17.xml.in.h:305
+#: ../comps-f16.xml.in.h:295 ../comps-f17.xml.in.h:306
 msgid "Languages"
 msgstr "ਭਾਸ਼ਾਵਾਂ"
 
-#: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
+#: ../comps-f16.xml.in.h:296 ../comps-f17.xml.in.h:307
 msgid ""
 "These packages provide support for various locales including fonts and input"
 " methods."
 msgstr "ਇਹਨਾਂ ਪੈਕੇਜਾਂ ਵਿੱਚ ਕਈ ਲੋਕੇਲਾਂ ਨੂੰ ਸਹਿਯੋਗ ਦੇਣ ਲਈ ਫੋੰਟ ਅਤੇ ਇੰਪੁੱਟ ਢੰਗ ਸ਼ਾਮਿਲ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
+#: ../comps-f16.xml.in.h:297 ../comps-f17.xml.in.h:308
 #: ../comps-el5.xml.in.h:71
 msgid "Desktop Environments"
 msgstr "ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ"
 
-#: ../comps-f16.xml.in.h:295 ../comps-f17.xml.in.h:308
+#: ../comps-f16.xml.in.h:298 ../comps-f17.xml.in.h:309
 #: ../comps-el5.xml.in.h:72
 msgid "Desktop environments"
 msgstr "ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ"
 
-#: ../comps-f16.xml.in.h:296 ../comps-f17.xml.in.h:309
-#: ../comps-f18.xml.in.h:270 ../comps-f19.xml.in.h:273
+#: ../comps-f16.xml.in.h:299 ../comps-f17.xml.in.h:310
+#: ../comps-f18.xml.in.h:270 ../comps-f19.xml.in.h:284
 #: ../comps-el5.xml.in.h:73 ../comps-el6.xml.in.h:295
 msgid "Applications"
 msgstr "ਐਪਲੀਕੇਸ਼ਨ"
 
-#: ../comps-f16.xml.in.h:297 ../comps-f17.xml.in.h:310
-#: ../comps-f18.xml.in.h:271 ../comps-f19.xml.in.h:274
+#: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:311
+#: ../comps-f18.xml.in.h:271 ../comps-f19.xml.in.h:285
 msgid "Applications to perform a variety of tasks"
 msgstr "ਕਈ ਤਰ੍ਹਾਂ ਦੇ ਕੰਮ ਕਰਨ ਲਈ ਐਪਲੀਕੇਸ਼ਨਾਂ"
 
-#: ../comps-f16.xml.in.h:298 ../comps-f17.xml.in.h:311
-#: ../comps-f18.xml.in.h:272 ../comps-f19.xml.in.h:275
+#: ../comps-f16.xml.in.h:301 ../comps-f17.xml.in.h:312
+#: ../comps-f18.xml.in.h:272 ../comps-f19.xml.in.h:286
 #: ../comps-el5.xml.in.h:75 ../comps-el6.xml.in.h:297
 msgid "Development"
 msgstr "ਡਿਵੈਲਪਮੈਂਟ"
 
-#: ../comps-f16.xml.in.h:299 ../comps-f17.xml.in.h:312
-#: ../comps-f18.xml.in.h:273 ../comps-f19.xml.in.h:276
+#: ../comps-f16.xml.in.h:302 ../comps-f17.xml.in.h:313
+#: ../comps-f18.xml.in.h:273 ../comps-f19.xml.in.h:287
 #: ../comps-el5.xml.in.h:76
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
 msgstr "ਪੈਕੇਜ, ਜੋ ਕਿ ਐਪਲੀਕੇਸ਼ਨ ਡਿਵੈਲਪ ਅਤੇ ਬਿਲਡ ਕਰਨ ਲਈ ਸਹੂਲਤਾਂ ਉਪਲੱਬਧ ਕਰਵਾਉਦੇ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:313
-#: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:277
+#: ../comps-f16.xml.in.h:303 ../comps-f17.xml.in.h:314
+#: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:288
 #: ../comps-el5.xml.in.h:77
 msgid "Servers"
 msgstr "ਸਰਵਰ"
 
-#: ../comps-f16.xml.in.h:301 ../comps-f17.xml.in.h:314
-#: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:278
+#: ../comps-f16.xml.in.h:304 ../comps-f17.xml.in.h:315
+#: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:289
 #: ../comps-el5.xml.in.h:78
 msgid "Software used for running network servers"
 msgstr "ਨੈੱਟਵਰਕ ਸਰਵਰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੇ ਸਾਫਟਵੇਅਰ"
 
-#: ../comps-f16.xml.in.h:302 ../comps-f17.xml.in.h:315
-#: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:279
+#: ../comps-f16.xml.in.h:305 ../comps-f17.xml.in.h:316
+#: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:290
 #: ../comps-el5.xml.in.h:79
 msgid "Base System"
 msgstr "ਮੁੱਢਲਾ ਸਿਸਟਮ"
 
-#: ../comps-f16.xml.in.h:303 ../comps-f17.xml.in.h:316
-#: ../comps-f18.xml.in.h:277 ../comps-f19.xml.in.h:280
+#: ../comps-f16.xml.in.h:306 ../comps-f17.xml.in.h:317
+#: ../comps-f18.xml.in.h:277 ../comps-f19.xml.in.h:291
 #: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
 msgstr "ਸਿਸਟਮ ਦੇ ਕਈ ਮੁੱਢਲੇ ਭਾਗ ਹਨ।"
 
-#: ../comps-f16.xml.in.h:304 ../comps-f17.xml.in.h:317
-#: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:281
+#: ../comps-f16.xml.in.h:307 ../comps-f17.xml.in.h:318
+#: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:292
 msgid "Content"
 msgstr "ਸੰਖੇਪ"
 
-#: ../comps-f16.xml.in.h:305 ../comps-f17.xml.in.h:318
-#: ../comps-f18.xml.in.h:279 ../comps-f19.xml.in.h:282
+#: ../comps-f16.xml.in.h:308 ../comps-f17.xml.in.h:319
+#: ../comps-f18.xml.in.h:279 ../comps-f19.xml.in.h:293
 msgid "Text and other Free content."
 msgstr "ਟੈਕਸਟ ਅਤੇ ਹੋਰ ਫਰੀ ਸੰਖੇਪ"
 
@@ -1646,50 +1663,39 @@ msgid "Infrastructure packages for cloud computing."
 msgstr ""
 
 #: ../comps-f17.xml.in.h:70 ../comps-f18.xml.in.h:115
-#: ../comps-f19.xml.in.h:115
+#: ../comps-f19.xml.in.h:119
 msgid "Dogri Support"
 msgstr "ਡੋਗਰੀ ਸਹਿਯੋਗ"
 
 #: ../comps-f17.xml.in.h:184 ../comps-f18.xml.in.h:183
-#: ../comps-f19.xml.in.h:184
+#: ../comps-f19.xml.in.h:188
 msgid "Manipuri Support"
 msgstr "ਮਨੀਪੁਰੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f17.xml.in.h:186
-msgid "MATE Desktop Environment"
-msgstr "ਮੇਟ ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ"
-
-#: ../comps-f17.xml.in.h:187
-msgid ""
-"MATE Desktop is a desktop based on GNOME 2 that provides a powerful "
-"graphical user interface for users who seek a simple, easy to use "
-"traditional desktop interface."
-msgstr ""
-
 #: ../comps-f17.xml.in.h:190 ../comps-f18.xml.in.h:187
-#: ../comps-f19.xml.in.h:188
+#: ../comps-f19.xml.in.h:192
 msgid "Medical Applications"
 msgstr "ਡਾਕਟਰੀ ਐਪਲੀਕੇਸ਼ਨ"
 
 #: ../comps-f17.xml.in.h:191 ../comps-f18.xml.in.h:188
-#: ../comps-f19.xml.in.h:189
+#: ../comps-f19.xml.in.h:193
 msgid "This is a group of applications related to health care."
 msgstr ""
 
-#: ../comps-f17.xml.in.h:234 ../comps-f18.xml.in.h:218
-#: ../comps-f19.xml.in.h:219
+#: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:218
+#: ../comps-f19.xml.in.h:223
 msgid "Santali Support"
 msgstr "ਸੰਥਾਲੀ ਸਹਿਯੋਗ"
 
-#: ../comps-f17.xml.in.h:284 ../comps-el6.xml.in.h:273
+#: ../comps-f17.xml.in.h:285 ../comps-el6.xml.in.h:273
 msgid "Virtualization Client"
 msgstr "ਵਰਚੁਲਾਈਜ਼ੇਸ਼ਨ ਕਲਾਇਟ"
 
-#: ../comps-f17.xml.in.h:286
+#: ../comps-f17.xml.in.h:287
 msgid "Virtualization Hypervisor"
 msgstr "ਵਰਚੁਲਾਈਜ਼ੇਸ਼ਨ ਹਾਈਪਰਵਾਈਜ਼ਰ"
 
-#: ../comps-f17.xml.in.h:287
+#: ../comps-f17.xml.in.h:288
 msgid "Smallest possible virtualization host installation"
 msgstr "ਸਭ ਤੋਂ ਛੋਟੀ ਸੰਭਾਵਿਤ ਵਰਚੁਅਲਾਈਜ਼ੇਸ਼ਨ ਹੋਸਟ ਇੰਸਟਾਲੇਸ਼ਨ"
 
@@ -1707,7 +1713,7 @@ msgstr "ਮਲਟੀਮੀਡਿਆ"
 
 #: ../comps-f18.xml.in.h:4 ../comps-f19.xml.in.h:4
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "ਡੈਸਕਟਾਪ ਲਈ ਸਾਂਝਾ ਆਡੀਓ/ਵਿਡੀਓ ਫਰੇਮਵਰਕ"
 
 #: ../comps-f18.xml.in.h:5 ../comps-f19.xml.in.h:5
 msgid "GNOME"
@@ -1715,7 +1721,7 @@ msgstr "ਗਨੋਮ"
 
 #: ../comps-f18.xml.in.h:6 ../comps-f19.xml.in.h:6
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
-msgstr ""
+msgstr "ਗਨੋਮ ਯੂਜ਼ਰ ਲਈ ਸੌਖਾ ਯੂਜ਼ਰ ਇੰਨਵਾਇਰਨਮੈਂਟ ਹੈ।"
 
 #: ../comps-f18.xml.in.h:7 ../comps-f19.xml.in.h:7
 msgid "Extra games for the GNOME Desktop"
@@ -1731,7 +1737,7 @@ msgstr "ਫਾਇਰਫਾਕਸ ਵੈੱਬ ਬਰਾਊਜ਼ਰ"
 
 #: ../comps-f18.xml.in.h:10 ../comps-f19.xml.in.h:10
 msgid "The Firefox web browser"
-msgstr ""
+msgstr "ਫਾਇਰਫਾਕਸ ਵੈੱਬ ਬਰਾਊਜ਼ਰ"
 
 #: ../comps-f18.xml.in.h:11 ../comps-f19.xml.in.h:11
 msgid "Epiphany Web Browser"
@@ -1747,9 +1753,9 @@ msgstr "ਲਿਬਰੇਆਫਿਸ"
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
 msgid "LibreOffice Productivity Suite"
-msgstr ""
+msgstr "ਲਿਬਰੇਆਫਿਸ ਉਤਪਾਦਨ ਸੂਟ"
 
-#: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:15
+#: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:268
 msgid "KDE Plasma Workspaces"
 msgstr "ਕੇਡੀਈ ਪਲਾਜ਼ਮਾ ਵਰਕਸਪੇਸ"
 
@@ -1758,7 +1764,7 @@ msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
-msgstr ""
+msgstr "ਕੇਡੀਈ (KDE) ਪਲਾਜ਼ਮਾ ਵਰਕਸਪੇਸ, ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੰਰਚਨਾ ਕਰਨ ਯੋਗ ਗਰਾਫਿਕਲ ਯੂਜ਼ਰ ਇੰਟਰਫੇਸ ਹੈ, ਜਿਸ ਵਿੱਚ ਪੈਨਲ, ਡੈਸਕਟਾਪ, ਸਿਸਟਮ ਆਈਕਾਨ ਅਤੇ ਡੈਸਕਟਾਪ ਵਿਦਜੈਟ ਹਨ, ਕਈ ਮਜ਼ਬੂਤ ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ ਸਮੇਤ।"
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
 msgid "KDE Applications"
@@ -1766,7 +1772,7 @@ msgstr "ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ"
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
-msgstr ""
+msgstr "ਆਮ ਵਰਤੀਆਂ ਜਾਂਦੀਆਂ ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਸਮੂਹ ਹੈ"
 
 #: ../comps-f18.xml.in.h:19 ../comps-f19.xml.in.h:19
 msgid "KDE Educational applications"
@@ -1774,27 +1780,27 @@ msgstr "ਕੇਡੀਈ ਵਿਦਿਅਕ ਐਪਲੀਕੇਸ਼ਨ"
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "ਕੇਡੀਈ ਮਲਟੀਮੀਡਿਆ ਸਹਿਯੋਗ"
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "ਕੇਡੀਈ ਲਈ ਮਲਟੀਮੀਡਿਆ ਸਹਿਯੋਗ"
 
 #: ../comps-f18.xml.in.h:22 ../comps-f19.xml.in.h:22
 msgid "KDE Office"
-msgstr ""
+msgstr "ਕੇਡੀਈ ਆਫਿਸ"
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
 msgid "KDE Office applications"
-msgstr ""
+msgstr "ਕੇਡੀਈ ਆਫਿਸ ਐਪਲੀਕੇਸ਼ਨ"
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "ਕੇਡੀਈ ਟੈਲੀਪੈਥੀ"
 
 #: ../comps-f18.xml.in.h:25 ../comps-f19.xml.in.h:25
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "ਕੇਡੀਈ ਟੈਲੀਪੈਥੀ ਐਪਲੀਕੇਸ਼ਨ"
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
 msgid "Applications for the Xfce Desktop"
@@ -1852,7 +1858,7 @@ msgstr ""
 msgid "Additional activities for use with the Sugar Environment."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:44 ../comps-f19.xml.in.h:44
+#: ../comps-f18.xml.in.h:44
 msgid "Basic X Window Desktop"
 msgstr "ਬੇਸਿਕ ਐਕਸ ਵਿੰਡੋ ਡੈਸਕਟਾਪ"
 
@@ -1878,11 +1884,11 @@ msgstr ""
 msgid "A tiling window manager"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:50 ../comps-f19.xml.in.h:50
+#: ../comps-f18.xml.in.h:50
 msgid "XMonad for GNOME"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:51 ../comps-f19.xml.in.h:51
+#: ../comps-f18.xml.in.h:51
 msgid "XMonad window manager with GNOME"
 msgstr ""
 
@@ -1968,118 +1974,184 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:79 ../comps-f19.xml.in.h:79
 msgid "Standard"
-msgstr ""
+msgstr "ਸਟੈਂਡਰਡ"
 
 #: ../comps-f18.xml.in.h:80 ../comps-f19.xml.in.h:80
 msgid "Common set of utilities that extend the minimal installation."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:185
-msgid "MATE"
-msgstr "ਮੇਟ"
-
-#: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:186
-msgid ""
-"MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
-"interface for users who seek a simple easy to use traditional desktop "
-"interface."
-msgstr ""
-
-#: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:214
-msgid "Suite of packages for robotics development"
-msgstr ""
-
-#: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:247
+#: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:256
 msgid "Basic Web Server"
 msgstr "ਮੁੱਢਲਾ ਵੈੱਬ ਸਰਵਰ"
 
-#: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
+#: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:262
 msgid "Xfce Software Development"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:254
+#: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:263
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
+#: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:267
 msgid "GNOME Desktop"
 msgstr "ਗਨੋਮ ਡੈਸਕਟਾਪ"
 
-#: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
+#: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:269
 msgid "Xfce Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
+#: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:270
 msgid "LXDE Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
+#: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:271
 msgid "Cinnamon Desktop"
 msgstr "ਸਿਨਾਮੋਨ ਡੈਸਕਟਾਪ"
 
-#: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
+#: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:272
 msgid "MATE Desktop"
 msgstr "ਮੇਟ ਡੈਸਕਟਾਪ"
 
-#: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
+#: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:273
 msgid "Development and Creative Workstation"
 msgstr "ਡਿਵੈਲਪਮੈਂਟ ਅਤੇ ਕਰੀਏਟਿਵ ਵਰਕਸਟੇਸ਼ਨ"
 
-#: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:262
+#: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:274
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "ਸਾਫਟਵੇਅਰ, ਹਾਰਡਵੇਅਰ, ਗਾਰਫਿਕਸ ਜਾਂ ਸਮੱਗਰੀ ਬਣਾਉਣ ਲਈ ਵਰਕਸਟੇਸ਼ਨ ਹੈ।"
 
-#: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
+#: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:276
 msgid "Server for serving static and dynamic internet content."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
+#: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:277
 msgid "Infrastructure Server"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
+#: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:278
 msgid "Server for operating network infrastructure services."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
+#: ../comps-f18.xml.in.h:264
 msgid "Basic X Window System"
-msgstr ""
+msgstr "ਮੁੱਢਲਾ  X ਵਿੰਡੋ ਸਿਸਟ"
 
-#: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
+#: ../comps-f18.xml.in.h:265
 msgid "X Window System without a full desktop environment."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:269
+#: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:280
 msgid "Minimal Install"
 msgstr "ਘੱਟੋ-ਘੱਟ ਇੰਸਟਾਲ"
 
-#: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:270
+#: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:281
 msgid "Basic functionality."
-msgstr ""
+msgstr "ਮੂਲ ਸਹੂਲਤਾਂ।"
 
-#: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:271
+#: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:282
 #: ../comps-el6.xml.in.h:126
 msgid "KDE Desktop"
 msgstr "ਕੇਡੀਈ ਡੈਸਕਟਾਪ"
 
-#: ../comps-f19.xml.in.h:18
-msgid "A set of commonly used KDE applications"
+#: ../comps-f19.xml.in.h:15
+msgid "KDE"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:177
+#: ../comps-f19.xml.in.h:18
+msgid "A set of commonly used KDE applications"
+msgstr "ਆਮ ਵਰਤੀਆਂ ਜਾਂਦੀਆਂ ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਸਮੂਹ"
+
+#: ../comps-f19.xml.in.h:44
+msgid "Basic Desktop"
+msgstr "ਮੁੱਢਲਾ ਡੈਸਕਟਾਪ"
+
+#: ../comps-f19.xml.in.h:50
+msgid "XMonad for MATE"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:51
+msgid "XMonad window manager with MATE"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:105
+msgid ""
+"These packages are targeted towards professional designers related to "
+"graphics, web and animations"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:108
+msgid "RPM Development Tools"
+msgstr "RPM ਵਿਕਾਸ ਟੂਲ"
+
+#: ../comps-f19.xml.in.h:109
+msgid "These tools include core development tools such rpmbuild."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:111
+msgid "These tools include general development tools such as git and cvs."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:112
+msgid "C Development Tools and Libraries"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:113
+msgid ""
+"These tools include core development tools such as automake, gcc and "
+"debuggers."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:181
 msgid "Lepcha Support"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:220
-msgid "Security Lab"
+#: ../comps-f19.xml.in.h:198
+msgid "MariaDB (MySQL) Database"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:221
+#: ../comps-f19.xml.in.h:199
+msgid ""
+"This package group contains packages useful for use with MariaDB (MySQL)."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:224
+msgid "Security Lab"
+msgstr "ਸੁਰੱਖਿਆ ਲੈਬ"
+
+#: ../comps-f19.xml.in.h:225
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security"
 " testing methodologies."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:250
+msgid "Guest Agents"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:251
+msgid "Agents used when running under a hypervisor."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:252
+msgid "Guest Desktop Agents"
+msgstr "ਗੈਸਟ ਡੈਸਕਟਾਪ ਏਜੰਟ"
+
+#: ../comps-f19.xml.in.h:253
+msgid "Agents used when running as a virtualized desktop."
+msgstr "ਏਜੰਟ, ਜੋ ਕਿ ਵੁਰਚੁਅਲ ਡੈਸਕਟਾਪ ਚੱਲਣ ਦੌਰਾਨ ਵਰਤੇ ਜਾਂਦੇ ਹਨ।"
+
+#: ../comps-f19.xml.in.h:265
+msgid "3D Printing"
+msgstr "3ਡੀ ਪਰਿੰਟਿੰਗ"
+
+#: ../comps-f19.xml.in.h:266
+msgid "3D printing software"
+msgstr "3ਡੀ ਪਰਿੰਟਿੰਗ ਸਾਫਟਵੇਅਰ"
+
+#: ../comps-f19.xml.in.h:279
+msgid "X Window System with a choice of window manager."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4

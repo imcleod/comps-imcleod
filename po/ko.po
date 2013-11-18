@@ -3,18 +3,18 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Dimitris Glezos <glezos@indifex.com>, 2011.
-# Eunju Kim <eukim@redhat.com>, 2006,2008-2009.
-# Eun-Ju Kim <eukim@redhat.com>, 2012.
-# Michelle Ji Yeen Kim <mkim@redhat.com>, 2005.
-# Michelle J Kim <mkim@redhat.com>, 2003-2004.
-# Michelle Kim <mkim@redhat.com>, 2002.
+# Dimitris Glezos <glezos@indifex.com>, 2011
+# eukim <eukim@redhat.com>, 2006,2008-2009
+# eukim <eukim@redhat.com>, 2012
+# Michelle Ji Yeen Kim <mkim@redhat.com>, 2005
+# Michelle J Kim <mkim@redhat.com>, 2003-2004
+# Michelle Kim <mkim@redhat.com>, 2002
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-18 00:39-0500\n"
-"PO-Revision-Date: 2012-12-18 18:38+0000\n"
+"POT-Creation-Date: 2013-11-18 12:25-0500\n"
+"PO-Revision-Date: 2013-11-18 17:33+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
 "Language-Team: Korean (http://www.transifex.com/projects/p/fedora/language/ko/)\n"
 "MIME-Version: 1.0\n"
@@ -292,7 +292,6 @@ msgid "Design Suite"
 msgstr "디자인 도구 모음 "
 
 #: ../comps-f16.xml.in.h:56 ../comps-f17.xml.in.h:60 ../comps-f18.xml.in.h:105
-#: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
@@ -311,50 +310,50 @@ msgid ""
 msgstr "이 패키지 그룹은 응용 프로그램을 개발하는데 필요한 핵심 라이브러리입니다."
 
 #: ../comps-f16.xml.in.h:59 ../comps-f17.xml.in.h:63 ../comps-f18.xml.in.h:108
-#: ../comps-f19.xml.in.h:108 ../comps-el5.xml.in.h:14
+#: ../comps-f19.xml.in.h:110 ../comps-el5.xml.in.h:14
 msgid "Development Tools"
 msgstr "개발용 도구"
 
 #: ../comps-f16.xml.in.h:60 ../comps-f17.xml.in.h:64 ../comps-f18.xml.in.h:109
-#: ../comps-f19.xml.in.h:109 ../comps-el5.xml.in.h:15
+#: ../comps-el5.xml.in.h:15
 msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
 msgstr "이 도구에는 automake, gcc, perl, python, 디버거와 같은 핵심 개발 도구를포함하고 있습니다."
 
 #: ../comps-f16.xml.in.h:61 ../comps-f17.xml.in.h:65 ../comps-f18.xml.in.h:110
-#: ../comps-f19.xml.in.h:110 ../comps-el6.xml.in.h:54
+#: ../comps-f19.xml.in.h:114 ../comps-el6.xml.in.h:54
 msgid "Dial-up Networking Support"
 msgstr "전화연결 네트워킹 지원"
 
 #: ../comps-f16.xml.in.h:62 ../comps-f17.xml.in.h:66 ../comps-f18.xml.in.h:111
-#: ../comps-f19.xml.in.h:111 ../comps-el6.xml.in.h:58
+#: ../comps-f19.xml.in.h:115 ../comps-el6.xml.in.h:58
 msgid "Directory Server"
 msgstr "디렉토리 서버 "
 
 #: ../comps-f16.xml.in.h:63 ../comps-f17.xml.in.h:67 ../comps-f18.xml.in.h:112
-#: ../comps-f19.xml.in.h:112 ../comps-el6.xml.in.h:59
+#: ../comps-f19.xml.in.h:116 ../comps-el6.xml.in.h:59
 msgid "Machine and user identity servers."
 msgstr "시스템 및 사용자 ID 서버 "
 
 #: ../comps-f16.xml.in.h:64 ../comps-f17.xml.in.h:68 ../comps-f18.xml.in.h:113
-#: ../comps-f19.xml.in.h:113
+#: ../comps-f19.xml.in.h:117
 msgid "DNS Name Server"
 msgstr "DNS 이름 서버"
 
 #: ../comps-f16.xml.in.h:65 ../comps-f17.xml.in.h:69 ../comps-f18.xml.in.h:114
-#: ../comps-f19.xml.in.h:114
+#: ../comps-f19.xml.in.h:118
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr "이 패키지 그룹을 사용하여 시스템 상에서 DNS 네임 서버 (BIND)를 운영하실 수 있습니다."
 
 #: ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:71 ../comps-f18.xml.in.h:116
-#: ../comps-f19.xml.in.h:116
+#: ../comps-f19.xml.in.h:120
 msgid "Dogtag Certificate System"
 msgstr "Dogtag 인증서 시스템 "
 
 #: ../comps-f16.xml.in.h:67 ../comps-f17.xml.in.h:72 ../comps-f18.xml.in.h:117
-#: ../comps-f19.xml.in.h:117
+#: ../comps-f19.xml.in.h:121
 msgid "Enterprise-class open source Certificate Authority"
 msgstr "엔터프라이즈급 오픈 소스 인증서 권한 "
 
@@ -363,54 +362,54 @@ msgid "Dutch Support"
 msgstr "네델란드어 지원"
 
 #: ../comps-f16.xml.in.h:69 ../comps-f17.xml.in.h:74 ../comps-f18.xml.in.h:118
-#: ../comps-f19.xml.in.h:118
+#: ../comps-f19.xml.in.h:122
 msgid "Fedora Eclipse"
 msgstr "Fedora Eclipse"
 
 #: ../comps-f16.xml.in.h:70 ../comps-f17.xml.in.h:75 ../comps-f18.xml.in.h:119
-#: ../comps-f19.xml.in.h:119
+#: ../comps-f19.xml.in.h:123
 msgid "Integrated Development Environments based on Eclipse."
 msgstr "Eclipse 기반 통합 개발 환경 "
 
 #: ../comps-f16.xml.in.h:71 ../comps-f17.xml.in.h:76 ../comps-f18.xml.in.h:120
-#: ../comps-f19.xml.in.h:120 ../comps-el5.xml.in.h:17
+#: ../comps-f19.xml.in.h:124 ../comps-el5.xml.in.h:17
 msgid "Editors"
 msgstr "편집기"
 
 #: ../comps-f16.xml.in.h:72 ../comps-f17.xml.in.h:77 ../comps-f18.xml.in.h:121
-#: ../comps-f19.xml.in.h:121
+#: ../comps-f19.xml.in.h:125
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
 msgstr "가끔씩 텍스트 편집기라고도 불리우는 이 프로그램은 텍스트 파일을 생성하고 편집하는데 사용됩니다. 이러한 프로그램에는 Emacs와 Vi가 포함됩니다."
 
 #: ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:78 ../comps-f18.xml.in.h:122
-#: ../comps-f19.xml.in.h:122 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
+#: ../comps-f19.xml.in.h:126 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
 msgid "Educational Software"
 msgstr "교육용 소프트웨어 "
 
 #: ../comps-f16.xml.in.h:74 ../comps-f17.xml.in.h:79 ../comps-f18.xml.in.h:123
-#: ../comps-f19.xml.in.h:123 ../comps-el5.xml.in.h:20
+#: ../comps-f19.xml.in.h:127 ../comps-el5.xml.in.h:20
 msgid "Educational software for learning"
 msgstr "학습을 위한 교육용 소프트웨어"
 
 #: ../comps-f16.xml.in.h:75 ../comps-f17.xml.in.h:80 ../comps-f18.xml.in.h:124
-#: ../comps-f19.xml.in.h:124 ../comps-el5.xml.in.h:21 ../comps-el6.xml.in.h:65
+#: ../comps-f19.xml.in.h:128 ../comps-el5.xml.in.h:21 ../comps-el6.xml.in.h:65
 msgid "Electronic Lab"
 msgstr "전자 실습 "
 
 #: ../comps-f16.xml.in.h:76 ../comps-f17.xml.in.h:81 ../comps-f18.xml.in.h:125
-#: ../comps-f19.xml.in.h:125 ../comps-el5.xml.in.h:22
+#: ../comps-f19.xml.in.h:129 ../comps-el5.xml.in.h:22
 msgid "Design and Simulation tools for hardware engineers"
 msgstr "하드웨어 엔지니어를 위한 디자인 및 시뮬레이션 도구 "
 
 #: ../comps-f16.xml.in.h:77 ../comps-f17.xml.in.h:82 ../comps-f18.xml.in.h:126
-#: ../comps-f19.xml.in.h:126 ../comps-el5.xml.in.h:23
+#: ../comps-f19.xml.in.h:130 ../comps-el5.xml.in.h:23
 msgid "Engineering and Scientific"
 msgstr "공학과 과학"
 
 #: ../comps-f16.xml.in.h:78 ../comps-f17.xml.in.h:83 ../comps-f18.xml.in.h:127
-#: ../comps-f19.xml.in.h:127 ../comps-el5.xml.in.h:24
+#: ../comps-f19.xml.in.h:131 ../comps-el5.xml.in.h:24
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
@@ -425,7 +424,7 @@ msgid "Estonian Support"
 msgstr "에스토니아어 지원"
 
 #: ../comps-f16.xml.in.h:81 ../comps-f17.xml.in.h:86 ../comps-f18.xml.in.h:128
-#: ../comps-f19.xml.in.h:128 ../comps-el6.xml.in.h:71
+#: ../comps-f19.xml.in.h:132 ../comps-el6.xml.in.h:71
 msgid "Ethiopic Support"
 msgstr "에티오피아어 지원"
 
@@ -434,12 +433,12 @@ msgid "Faroese Support"
 msgstr "페로스어 지원"
 
 #: ../comps-f16.xml.in.h:83 ../comps-f17.xml.in.h:88 ../comps-f18.xml.in.h:129
-#: ../comps-f19.xml.in.h:129 ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
+#: ../comps-f19.xml.in.h:133 ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
 msgid "Fedora Packager"
 msgstr "Fedora Packager"
 
 #: ../comps-f16.xml.in.h:84 ../comps-f17.xml.in.h:89 ../comps-f18.xml.in.h:130
-#: ../comps-f19.xml.in.h:130 ../comps-el5.xml.in.h:26
+#: ../comps-f19.xml.in.h:134 ../comps-el5.xml.in.h:26
 msgid "Tools and Utilities needed by a Fedora Packager"
 msgstr "Fedora Packager에 필요한 도구 및 유틸리티 "
 
@@ -456,29 +455,29 @@ msgid "Filipino Support"
 msgstr "필리핀어 지원 "
 
 #: ../comps-f16.xml.in.h:88 ../comps-f17.xml.in.h:93 ../comps-f18.xml.in.h:131
-#: ../comps-f19.xml.in.h:131 ../comps-el6.xml.in.h:77
+#: ../comps-f19.xml.in.h:135 ../comps-el6.xml.in.h:77
 msgid "Finnish Support"
 msgstr "핀란드어 지원"
 
 #: ../comps-f16.xml.in.h:89 ../comps-f17.xml.in.h:94 ../comps-f18.xml.in.h:132
-#: ../comps-f19.xml.in.h:132
+#: ../comps-f19.xml.in.h:136
 msgid "Font design and packaging"
 msgstr "글꼴 디자인 및 패키징 "
 
 #: ../comps-f16.xml.in.h:90 ../comps-f17.xml.in.h:95 ../comps-f18.xml.in.h:133
-#: ../comps-f19.xml.in.h:133
+#: ../comps-f19.xml.in.h:137
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
 msgstr "이 그룹은 글꼴 디자인, 수정, 조정 및 패키징에 사용되는 도구 모음입니다.  "
 
 #: ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:96 ../comps-f18.xml.in.h:134
-#: ../comps-f19.xml.in.h:134 ../comps-el6.xml.in.h:78
+#: ../comps-f19.xml.in.h:138 ../comps-el6.xml.in.h:78
 msgid "Fonts"
 msgstr "글꼴 "
 
 #: ../comps-f16.xml.in.h:92 ../comps-f17.xml.in.h:97 ../comps-f18.xml.in.h:135
-#: ../comps-f19.xml.in.h:135
+#: ../comps-f19.xml.in.h:139
 msgid "Fonts packages for rendering text on the desktop."
 msgstr "데스크탑 상에서 텍스트 렌더링 용 글꼴 패키지 "
 
@@ -495,13 +494,13 @@ msgid "Friulian Support"
 msgstr "프리우리안어 지원   "
 
 #: ../comps-f16.xml.in.h:96 ../comps-f17.xml.in.h:101
-#: ../comps-f18.xml.in.h:136 ../comps-f19.xml.in.h:136
+#: ../comps-f18.xml.in.h:136 ../comps-f19.xml.in.h:140
 #: ../comps-el5.xml.in.h:27
 msgid "FTP Server"
 msgstr "FTP 서버"
 
 #: ../comps-f16.xml.in.h:97 ../comps-f17.xml.in.h:102
-#: ../comps-f18.xml.in.h:137 ../comps-f19.xml.in.h:137
+#: ../comps-f18.xml.in.h:137 ../comps-f19.xml.in.h:141
 #: ../comps-el5.xml.in.h:28
 msgid "These tools allow you to run an FTP server on the system."
 msgstr "이 도구를 사용하여 시스템 상에서 FTP 서버를 운영할 수 있습니다."
@@ -515,19 +514,19 @@ msgid "Galician Support"
 msgstr "갈리시아어 지원"
 
 #: ../comps-f16.xml.in.h:100 ../comps-f17.xml.in.h:105
-#: ../comps-f18.xml.in.h:138 ../comps-f19.xml.in.h:138
+#: ../comps-f18.xml.in.h:138 ../comps-f19.xml.in.h:142
 #: ../comps-el5.xml.in.h:29
 msgid "Games and Entertainment"
 msgstr "게임과 오락"
 
 #: ../comps-f16.xml.in.h:101 ../comps-f17.xml.in.h:106
-#: ../comps-f18.xml.in.h:139 ../comps-f19.xml.in.h:139
+#: ../comps-f18.xml.in.h:139 ../comps-f19.xml.in.h:143
 #: ../comps-el5.xml.in.h:30
 msgid "Various ways to relax and spend your free time."
 msgstr "휴식을 취하면서 여가 시간을 보낼 수 있는 다양한 방법."
 
 #: ../comps-f16.xml.in.h:102 ../comps-f17.xml.in.h:107
-#: ../comps-f18.xml.in.h:140 ../comps-f19.xml.in.h:140
+#: ../comps-f18.xml.in.h:140 ../comps-f19.xml.in.h:144
 #: ../comps-el6.xml.in.h:89
 msgid "Georgian Support"
 msgstr "그루지아어 지원 "
@@ -549,13 +548,13 @@ msgid ""
 msgstr "GNOME은 강력한 그래픽 사용자 인터페이스로서 패널, 데스크탑, 시스템 아이콘과 그래픽 파일 관리자 기능을 갖추고 있습니다."
 
 #: ../comps-f16.xml.in.h:106 ../comps-f17.xml.in.h:111
-#: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:141
+#: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:145
 #: ../comps-el5.xml.in.h:33
 msgid "GNOME Software Development"
 msgstr "GNOME 소프트웨어 개발"
 
 #: ../comps-f16.xml.in.h:107 ../comps-f17.xml.in.h:112
-#: ../comps-f18.xml.in.h:142 ../comps-f19.xml.in.h:142
+#: ../comps-f18.xml.in.h:142 ../comps-f19.xml.in.h:146
 #: ../comps-el5.xml.in.h:34
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
@@ -563,37 +562,37 @@ msgid ""
 msgstr "GTK+와 GNOME용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
 
 #: ../comps-f16.xml.in.h:108 ../comps-f17.xml.in.h:113
-#: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:143
+#: ../comps-f18.xml.in.h:143 ../comps-f19.xml.in.h:147
 #: ../comps-el5.xml.in.h:35
 msgid "Graphical Internet"
 msgstr "그래픽 인터넷"
 
 #: ../comps-f16.xml.in.h:109 ../comps-f17.xml.in.h:114
-#: ../comps-f18.xml.in.h:144 ../comps-f19.xml.in.h:144
+#: ../comps-f18.xml.in.h:144 ../comps-f19.xml.in.h:148
 #: ../comps-el5.xml.in.h:36
 msgid "This group includes graphical email, Web, and chat clients."
 msgstr "이 그룹에는 그래픽 이메일, 웹, 채팅 클라이언트를 포함하고 있습니다."
 
 #: ../comps-f16.xml.in.h:110 ../comps-f17.xml.in.h:115
-#: ../comps-f18.xml.in.h:145 ../comps-f19.xml.in.h:145
+#: ../comps-f18.xml.in.h:145 ../comps-f19.xml.in.h:149
 #: ../comps-el5.xml.in.h:37
 msgid "Graphics"
 msgstr "그래픽"
 
 #: ../comps-f16.xml.in.h:111 ../comps-f17.xml.in.h:116
-#: ../comps-f18.xml.in.h:146 ../comps-f19.xml.in.h:146
+#: ../comps-f18.xml.in.h:146 ../comps-f19.xml.in.h:150
 #: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr "이 그룹에 포함된 패키지는 이미지를 스캔, 조작 작업을 도와드립니다."
 
 #: ../comps-f16.xml.in.h:112 ../comps-f17.xml.in.h:117
-#: ../comps-f18.xml.in.h:147 ../comps-f19.xml.in.h:147
+#: ../comps-f18.xml.in.h:147 ../comps-f19.xml.in.h:151
 #: ../comps-el6.xml.in.h:95
 msgid "Greek Support"
 msgstr "그리스어 지원"
 
 #: ../comps-f16.xml.in.h:113 ../comps-f17.xml.in.h:118
-#: ../comps-f18.xml.in.h:148 ../comps-f19.xml.in.h:148
+#: ../comps-f18.xml.in.h:148 ../comps-f19.xml.in.h:152
 #: ../comps-el6.xml.in.h:96
 msgid "Gujarati Support"
 msgstr "구자라티어 지원"
@@ -603,32 +602,32 @@ msgid "Haitian Creole Support"
 msgstr "아이티 크레올어 지원 "
 
 #: ../comps-f16.xml.in.h:115 ../comps-f17.xml.in.h:120
-#: ../comps-f18.xml.in.h:149 ../comps-f19.xml.in.h:149
+#: ../comps-f18.xml.in.h:149 ../comps-f19.xml.in.h:153
 #: ../comps-el5.xml.in.h:39
 msgid "Hardware Support"
 msgstr "하드웨어 지원 "
 
 #: ../comps-f16.xml.in.h:116 ../comps-f17.xml.in.h:121
-#: ../comps-f18.xml.in.h:150 ../comps-f19.xml.in.h:150
+#: ../comps-f18.xml.in.h:150 ../comps-f19.xml.in.h:154
 #: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr "이 그룹은 특정 하드웨어 유틸리티에 대한 도구 모음입니다. "
 
 #: ../comps-f16.xml.in.h:117 ../comps-f17.xml.in.h:122
-#: ../comps-f18.xml.in.h:151 ../comps-f19.xml.in.h:151
+#: ../comps-f18.xml.in.h:151 ../comps-f19.xml.in.h:155
 #: ../comps-el6.xml.in.h:101
 msgid "Haskell"
 msgstr "Haskell"
 
 #: ../comps-f16.xml.in.h:118 ../comps-f17.xml.in.h:123
-#: ../comps-f18.xml.in.h:152 ../comps-f19.xml.in.h:152
+#: ../comps-f18.xml.in.h:152 ../comps-f19.xml.in.h:156
 #: ../comps-el6.xml.in.h:102
 msgid "Support for developing programs in the Haskell programming language."
 msgstr "Haskell 프로그래밍 언어로 작성된 개발용 프로그램 지원. "
 
 #: ../comps-f16.xml.in.h:119 ../comps-f17.xml.in.h:124
-#: ../comps-f18.xml.in.h:153 ../comps-f19.xml.in.h:153
+#: ../comps-f18.xml.in.h:153 ../comps-f19.xml.in.h:157
 #: ../comps-el5.xml.in.h:41 ../comps-el6.xml.in.h:99
 msgid "Hebrew Support"
 msgstr "히브리어 지원"
@@ -639,7 +638,7 @@ msgid "Hiligaynon Support"
 msgstr "힐리가이노어 지원   "
 
 #: ../comps-f16.xml.in.h:121 ../comps-f17.xml.in.h:126
-#: ../comps-f18.xml.in.h:154 ../comps-f19.xml.in.h:154
+#: ../comps-f18.xml.in.h:154 ../comps-f19.xml.in.h:158
 #: ../comps-el6.xml.in.h:103
 msgid "Hindi Support"
 msgstr "힌두어 지원"
@@ -660,13 +659,13 @@ msgid "Indonesian Support"
 msgstr "인도네시아어 지원"
 
 #: ../comps-f16.xml.in.h:125 ../comps-f17.xml.in.h:130
-#: ../comps-f18.xml.in.h:155 ../comps-f19.xml.in.h:155
+#: ../comps-f18.xml.in.h:155 ../comps-f19.xml.in.h:159
 #: ../comps-el6.xml.in.h:109
 msgid "Input Methods"
 msgstr "입력 방식 "
 
 #: ../comps-f16.xml.in.h:126 ../comps-f17.xml.in.h:131
-#: ../comps-f18.xml.in.h:156 ../comps-f19.xml.in.h:156
+#: ../comps-f18.xml.in.h:156 ../comps-f19.xml.in.h:160
 msgid "Input method packages for the input of international text."
 msgstr "국제 텍스트 입력을 위한 입력 방식 패키지  "
 
@@ -691,39 +690,39 @@ msgid "Italian Support"
 msgstr "이탈리아어 지원"
 
 #: ../comps-f16.xml.in.h:131 ../comps-f17.xml.in.h:136
-#: ../comps-f18.xml.in.h:157 ../comps-f19.xml.in.h:157
+#: ../comps-f18.xml.in.h:157 ../comps-f19.xml.in.h:161
 #: ../comps-el5.xml.in.h:43 ../comps-el6.xml.in.h:119
 msgid "Japanese Support"
 msgstr "일본어 지원"
 
 #: ../comps-f16.xml.in.h:132 ../comps-f17.xml.in.h:137
-#: ../comps-f18.xml.in.h:158 ../comps-f19.xml.in.h:158
+#: ../comps-f18.xml.in.h:158 ../comps-f19.xml.in.h:162
 msgid "Java"
 msgstr "Java"
 
 #: ../comps-f16.xml.in.h:133 ../comps-f17.xml.in.h:138
-#: ../comps-f18.xml.in.h:159 ../comps-f19.xml.in.h:159
+#: ../comps-f18.xml.in.h:159 ../comps-f19.xml.in.h:163
 msgid "Support for running programs written in the Java programming language."
 msgstr "Java 프로그래밍 언어로 작성된 프로그램 실행 지원."
 
 #: ../comps-f16.xml.in.h:134 ../comps-f17.xml.in.h:139
-#: ../comps-f18.xml.in.h:160 ../comps-f19.xml.in.h:160
+#: ../comps-f18.xml.in.h:160 ../comps-f19.xml.in.h:164
 msgid "Java Development"
 msgstr "Java 개발용 도구"
 
 #: ../comps-f16.xml.in.h:135 ../comps-f17.xml.in.h:140
-#: ../comps-f18.xml.in.h:161 ../comps-f19.xml.in.h:161
+#: ../comps-f18.xml.in.h:161 ../comps-f19.xml.in.h:165
 msgid "Support for developing programs in the Java programming language."
 msgstr "Java 프로그래밍 언어로 작성된 개발용 프로그램 지원."
 
 #: ../comps-f16.xml.in.h:136 ../comps-f17.xml.in.h:141
-#: ../comps-f18.xml.in.h:162 ../comps-f19.xml.in.h:162
+#: ../comps-f18.xml.in.h:162 ../comps-f19.xml.in.h:166
 #: ../comps-el6.xml.in.h:122
 msgid "Kannada Support"
 msgstr "칸나다어 지원"
 
 #: ../comps-f16.xml.in.h:137 ../comps-f17.xml.in.h:142
-#: ../comps-f18.xml.in.h:163 ../comps-f19.xml.in.h:163
+#: ../comps-f18.xml.in.h:163 ../comps-f19.xml.in.h:167
 #: ../comps-el6.xml.in.h:123
 msgid "Kashmiri Support"
 msgstr "카슈미르어 지원  "
@@ -743,7 +742,7 @@ msgid "KDE Software Compilation"
 msgstr "KDE 소프트웨어 컴파일 "
 
 #: ../comps-f16.xml.in.h:141 ../comps-f17.xml.in.h:146
-#: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:272
+#: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:283
 msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
@@ -751,19 +750,19 @@ msgid ""
 msgstr "KDE SC에는 패널, 데스크탑, 시스템 아이콘, 데스크탑 위젯, 여러 강력한 KDE 애플리케이션이 포함된 고도로 설정 가능한 그래픽 사용자 인터페이스인 KDE Plasma 데스크탑이 포함되어 있습니다. "
 
 #: ../comps-f16.xml.in.h:142 ../comps-f17.xml.in.h:147
-#: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:164
+#: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:168
 #: ../comps-el5.xml.in.h:47
 msgid "KDE Software Development"
 msgstr "KDE 소프트웨어 개발"
 
 #: ../comps-f16.xml.in.h:143 ../comps-f17.xml.in.h:148
-#: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:165
+#: ../comps-f18.xml.in.h:165 ../comps-f19.xml.in.h:169
 #: ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
 msgstr "QT와 KDE용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
 
 #: ../comps-f16.xml.in.h:144 ../comps-f17.xml.in.h:149
-#: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:166
+#: ../comps-f18.xml.in.h:166 ../comps-f19.xml.in.h:170
 #: ../comps-el6.xml.in.h:128
 msgid "Khmer Support"
 msgstr "크메르어 지원 "
@@ -774,19 +773,19 @@ msgid "Kinyarwanda Support"
 msgstr "키냐르완다어 지원 "
 
 #: ../comps-f16.xml.in.h:146 ../comps-f17.xml.in.h:151
-#: ../comps-f18.xml.in.h:167 ../comps-f19.xml.in.h:167
+#: ../comps-f18.xml.in.h:167 ../comps-f19.xml.in.h:171
 #: ../comps-el6.xml.in.h:130
 msgid "Konkani Support"
 msgstr "콘칸어 지원  "
 
 #: ../comps-f16.xml.in.h:147 ../comps-f17.xml.in.h:152
-#: ../comps-f18.xml.in.h:168 ../comps-f19.xml.in.h:168
+#: ../comps-f18.xml.in.h:168 ../comps-f19.xml.in.h:172
 #: ../comps-el6.xml.in.h:131
 msgid "Korean Support"
 msgstr "한국어 지원"
 
 #: ../comps-f16.xml.in.h:148 ../comps-f17.xml.in.h:153
-#: ../comps-f18.xml.in.h:169 ../comps-f19.xml.in.h:169
+#: ../comps-f18.xml.in.h:169 ../comps-f19.xml.in.h:173
 #: ../comps-el6.xml.in.h:132
 msgid "Kurdish Support"
 msgstr "쿠르드어 지원  "
@@ -811,49 +810,49 @@ msgid "Latvian Support"
 msgstr "라트비아어 지원  "
 
 #: ../comps-f16.xml.in.h:153 ../comps-f17.xml.in.h:158
-#: ../comps-f18.xml.in.h:170 ../comps-f19.xml.in.h:170
+#: ../comps-f18.xml.in.h:170 ../comps-f19.xml.in.h:174
 msgid "Legacy Fonts"
 msgstr "레거시 글꼴 "
 
 #: ../comps-f16.xml.in.h:154 ../comps-f17.xml.in.h:159
-#: ../comps-f18.xml.in.h:171 ../comps-f19.xml.in.h:171
+#: ../comps-f18.xml.in.h:171 ../comps-f19.xml.in.h:175
 msgid "Older bitmap and vector fonts packages"
 msgstr "이전 비트맵 및 벡터 글꼴 패키지 "
 
 #: ../comps-f16.xml.in.h:155 ../comps-f17.xml.in.h:160
-#: ../comps-f18.xml.in.h:172 ../comps-f19.xml.in.h:172
+#: ../comps-f18.xml.in.h:172 ../comps-f19.xml.in.h:176
 msgid "Legacy Network Server"
 msgstr "레거시 네트워크 서버"
 
 #: ../comps-f16.xml.in.h:156 ../comps-f17.xml.in.h:161
-#: ../comps-f18.xml.in.h:173 ../comps-f19.xml.in.h:173
+#: ../comps-f18.xml.in.h:173 ../comps-f19.xml.in.h:177
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 msgstr "이 패키지에는 rsh와 telnet과 같은 구식 네트워크 프로토콜에 사용되는 서버가 포함되어 있습니다."
 
 #: ../comps-f16.xml.in.h:157 ../comps-f17.xml.in.h:162
-#: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:174
+#: ../comps-f18.xml.in.h:174 ../comps-f19.xml.in.h:178
 msgid "Legacy Software Development"
 msgstr "레거시 소프트웨어 개발"
 
 #: ../comps-f16.xml.in.h:158 ../comps-f17.xml.in.h:163
-#: ../comps-f18.xml.in.h:175 ../comps-f19.xml.in.h:175
+#: ../comps-f18.xml.in.h:175 ../comps-f19.xml.in.h:179
 msgid "These packages provide compatibility with previous releases."
 msgstr "이 패키지는 이전 버전 배포판과 호환됩니다."
 
 #: ../comps-f16.xml.in.h:159 ../comps-f17.xml.in.h:164
-#: ../comps-f18.xml.in.h:176 ../comps-f19.xml.in.h:176
+#: ../comps-f18.xml.in.h:176 ../comps-f19.xml.in.h:180
 msgid "Legacy Software Support"
 msgstr "레거시 소프트웨어 지원"
 
 #: ../comps-f16.xml.in.h:160 ../comps-f17.xml.in.h:165
-#: ../comps-f18.xml.in.h:177 ../comps-f19.xml.in.h:178
+#: ../comps-f18.xml.in.h:177 ../comps-f19.xml.in.h:182
 msgid "LibreOffice Development"
 msgstr "LibreOffice 개발 "
 
 #: ../comps-f16.xml.in.h:161 ../comps-f17.xml.in.h:166
-#: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:179
+#: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:183
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr "이 패키지는 LibreOffice 확장 또는 매크로를 개발할 때 유용합니다. "
@@ -908,19 +907,19 @@ msgid "Macedonian Support"
 msgstr "마케도니아어 지원     "
 
 #: ../comps-f16.xml.in.h:172 ../comps-f17.xml.in.h:177
-#: ../comps-f18.xml.in.h:179 ../comps-f19.xml.in.h:180
+#: ../comps-f18.xml.in.h:179 ../comps-f19.xml.in.h:184
 #: ../comps-el5.xml.in.h:49
 msgid "Mail Server"
 msgstr "메일 서버"
 
 #: ../comps-f16.xml.in.h:173 ../comps-f17.xml.in.h:178
-#: ../comps-f18.xml.in.h:180 ../comps-f19.xml.in.h:181
+#: ../comps-f18.xml.in.h:180 ../comps-f19.xml.in.h:185
 #: ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr "이 패키지는 IMAP과 SMTP 메일 서버 설정을 도와줍니다."
 
 #: ../comps-f16.xml.in.h:174 ../comps-f17.xml.in.h:179
-#: ../comps-f18.xml.in.h:181 ../comps-f19.xml.in.h:182
+#: ../comps-f18.xml.in.h:181 ../comps-f19.xml.in.h:186
 #: ../comps-el6.xml.in.h:152
 msgid "Maithili Support"
 msgstr "마이틸라어 지원  "
@@ -936,7 +935,7 @@ msgid "Malay Support"
 msgstr "말레이어 지원"
 
 #: ../comps-f16.xml.in.h:177 ../comps-f17.xml.in.h:182
-#: ../comps-f18.xml.in.h:182 ../comps-f19.xml.in.h:183
+#: ../comps-f18.xml.in.h:182 ../comps-f19.xml.in.h:187
 #: ../comps-el6.xml.in.h:155
 msgid "Malayalam Support"
 msgstr "말라얄람어 지원"
@@ -951,680 +950,698 @@ msgstr "말타어 지원  "
 msgid "Manx Support"
 msgstr "맹크스어 지원  "
 
-#: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:188
+#: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:186
+#: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:189
+msgid "MATE"
+msgstr ""
+
+#: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:187
+#: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:190
+msgid ""
+"MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
+"interface for users who seek a simple easy to use traditional desktop "
+"interface."
+msgstr ""
+
+#: ../comps-f16.xml.in.h:182 ../comps-f17.xml.in.h:188
 #: ../comps-el6.xml.in.h:158
 msgid "Maori Support"
 msgstr "마오리어 지원  "
 
-#: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:189
-#: ../comps-f18.xml.in.h:186 ../comps-f19.xml.in.h:187
+#: ../comps-f16.xml.in.h:183 ../comps-f17.xml.in.h:189
+#: ../comps-f18.xml.in.h:186 ../comps-f19.xml.in.h:191
 #: ../comps-el6.xml.in.h:159
 msgid "Marathi Support"
 msgstr "마라티어 지원"
 
-#: ../comps-f16.xml.in.h:182 ../comps-f17.xml.in.h:192
+#: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:192
 msgid "MeeGo NetBook UX Environment"
 msgstr "MeeGo NetBook UX 환경 "
 
-#: ../comps-f16.xml.in.h:183 ../comps-f17.xml.in.h:193
+#: ../comps-f16.xml.in.h:185 ../comps-f17.xml.in.h:193
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
 msgstr "MeeGo NetBook UX는 NetBook/NetTop 장치에 대한 데스크탑 환경입니다. "
 
-#: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:194
-#: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:190
+#: ../comps-f16.xml.in.h:186 ../comps-f17.xml.in.h:194
+#: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:194
 #: ../comps-el6.xml.in.h:160
 msgid "Milkymist"
 msgstr "Milkymist"
 
-#: ../comps-f16.xml.in.h:185 ../comps-f17.xml.in.h:195
-#: ../comps-f18.xml.in.h:190 ../comps-f19.xml.in.h:191
+#: ../comps-f16.xml.in.h:187 ../comps-f17.xml.in.h:195
+#: ../comps-f18.xml.in.h:190 ../comps-f19.xml.in.h:195
 #: ../comps-el6.xml.in.h:161
 msgid "Toolchain for Milkymist hardware engineers."
 msgstr "Milkymist 하드웨어 엔지니어를 위한 도구 체인 "
 
-#: ../comps-f16.xml.in.h:186 ../comps-f17.xml.in.h:196
-#: ../comps-f18.xml.in.h:191 ../comps-f19.xml.in.h:192
+#: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:196
+#: ../comps-f18.xml.in.h:191 ../comps-f19.xml.in.h:196
 msgid "MinGW cross-compiler"
 msgstr "MinGW 크로스 컴파일러 "
 
-#: ../comps-f16.xml.in.h:187 ../comps-f17.xml.in.h:197
-#: ../comps-f18.xml.in.h:192 ../comps-f19.xml.in.h:193
+#: ../comps-f16.xml.in.h:189 ../comps-f17.xml.in.h:197
+#: ../comps-f18.xml.in.h:192 ../comps-f19.xml.in.h:197
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 msgstr "Fedora 내의 32 비트 윈도우 대상, 테스트 및 설치 프로그램 구축에서 크로스 컴파일 프로그램을 위한 지원  "
 
-#: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:198
+#: ../comps-f16.xml.in.h:190 ../comps-f17.xml.in.h:198
 #: ../comps-el6.xml.in.h:162
 msgid "Mongolian Support"
 msgstr "몽골어 지원  "
 
-#: ../comps-f16.xml.in.h:189 ../comps-f17.xml.in.h:199
+#: ../comps-f16.xml.in.h:191 ../comps-f17.xml.in.h:199
 msgid "Mossi Support"
 msgstr "모시어 지원 "
 
-#: ../comps-f16.xml.in.h:190 ../comps-f17.xml.in.h:200
-#: ../comps-f18.xml.in.h:193 ../comps-f19.xml.in.h:194
+#: ../comps-f16.xml.in.h:192 ../comps-f17.xml.in.h:200
+#: ../comps-f18.xml.in.h:193
 msgid "MySQL Database"
 msgstr "MySQL 데이터베이스"
 
-#: ../comps-f16.xml.in.h:191 ../comps-f17.xml.in.h:201
-#: ../comps-f18.xml.in.h:194 ../comps-f19.xml.in.h:195
+#: ../comps-f16.xml.in.h:193 ../comps-f17.xml.in.h:201
+#: ../comps-f18.xml.in.h:194
 msgid "This package group contains packages useful for use with MySQL."
 msgstr "이 그룹에 포함된 패키지는 MySQL를 작업을 도와드립니다."
 
-#: ../comps-f16.xml.in.h:192 ../comps-f17.xml.in.h:202
-#: ../comps-f18.xml.in.h:195 ../comps-f19.xml.in.h:196
+#: ../comps-f16.xml.in.h:194 ../comps-f17.xml.in.h:202
+#: ../comps-f18.xml.in.h:195 ../comps-f19.xml.in.h:200
 #: ../comps-el6.xml.in.h:167
 msgid "Nepali Support"
 msgstr "네팔어 지원  "
 
-#: ../comps-f16.xml.in.h:193 ../comps-f17.xml.in.h:203
-#: ../comps-f18.xml.in.h:196 ../comps-f19.xml.in.h:197
+#: ../comps-f16.xml.in.h:195 ../comps-f17.xml.in.h:203
+#: ../comps-f18.xml.in.h:196 ../comps-f19.xml.in.h:201
 #: ../comps-el5.xml.in.h:51
 msgid "Network Servers"
 msgstr "네트워크 서버"
 
-#: ../comps-f16.xml.in.h:194 ../comps-f17.xml.in.h:204
-#: ../comps-f18.xml.in.h:197 ../comps-f19.xml.in.h:198
+#: ../comps-f16.xml.in.h:196 ../comps-f17.xml.in.h:204
+#: ../comps-f18.xml.in.h:197 ../comps-f19.xml.in.h:202
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr "이 패키지에는 DHCP, Kerberos, NIS와 같은 네트워크-기반 서버가 포함되어 있습니다."
 
-#: ../comps-f16.xml.in.h:195 ../comps-f17.xml.in.h:205
-#: ../comps-f18.xml.in.h:198 ../comps-f19.xml.in.h:199
+#: ../comps-f16.xml.in.h:197 ../comps-f17.xml.in.h:205
+#: ../comps-f18.xml.in.h:198 ../comps-f19.xml.in.h:203
 #: ../comps-el5.xml.in.h:53
 msgid "News Server"
 msgstr "뉴스 서버"
 
-#: ../comps-f16.xml.in.h:196 ../comps-f17.xml.in.h:206
-#: ../comps-f18.xml.in.h:199 ../comps-f19.xml.in.h:200
+#: ../comps-f16.xml.in.h:198 ../comps-f17.xml.in.h:206
+#: ../comps-f18.xml.in.h:199 ../comps-f19.xml.in.h:204
 #: ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
 msgstr "이 그룹을 사용하여 시스템을 뉴스 서버로 설정하실 수 있습니다."
 
-#: ../comps-f16.xml.in.h:197 ../comps-f17.xml.in.h:207
+#: ../comps-f16.xml.in.h:199 ../comps-f17.xml.in.h:207
 msgid "Northern Sami Support"
 msgstr "북부 사미어 지원  "
 
-#: ../comps-f16.xml.in.h:198 ../comps-f17.xml.in.h:208
+#: ../comps-f16.xml.in.h:200 ../comps-f17.xml.in.h:208
 #: ../comps-el6.xml.in.h:176
 msgid "Northern Sotho Support"
 msgstr "북부 소토어 지원"
 
-#: ../comps-f16.xml.in.h:199 ../comps-f17.xml.in.h:209
+#: ../comps-f16.xml.in.h:201 ../comps-f17.xml.in.h:209
 #: ../comps-el6.xml.in.h:177
 msgid "Norwegian Support"
 msgstr "노르웨이어 지원"
 
-#: ../comps-f16.xml.in.h:200 ../comps-f17.xml.in.h:210
-#: ../comps-f18.xml.in.h:200 ../comps-f19.xml.in.h:201
+#: ../comps-f16.xml.in.h:202 ../comps-f17.xml.in.h:210
+#: ../comps-f18.xml.in.h:200 ../comps-f19.xml.in.h:205
 msgid "OCaml"
 msgstr "OCaml"
 
-#: ../comps-f16.xml.in.h:201 ../comps-f17.xml.in.h:211
-#: ../comps-f18.xml.in.h:201 ../comps-f19.xml.in.h:202
+#: ../comps-f16.xml.in.h:203 ../comps-f17.xml.in.h:211
+#: ../comps-f18.xml.in.h:201 ../comps-f19.xml.in.h:206
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
 msgstr "Objective CAML 프로그래밍 언어 및 라이브러리를 사용하여 소프트웨어 개발 지원   "
 
-#: ../comps-f16.xml.in.h:202 ../comps-f17.xml.in.h:212
+#: ../comps-f16.xml.in.h:204 ../comps-f17.xml.in.h:212
 #: ../comps-el6.xml.in.h:178
 msgid "Occitan Support"
 msgstr "오크어 지원     "
 
-#: ../comps-f16.xml.in.h:203 ../comps-f17.xml.in.h:213
-#: ../comps-f18.xml.in.h:202 ../comps-f19.xml.in.h:203
+#: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:213
+#: ../comps-f18.xml.in.h:202 ../comps-f19.xml.in.h:207
 #: ../comps-el5.xml.in.h:55
 msgid "Office/Productivity"
 msgstr "Office/제품 도구  "
 
-#: ../comps-f16.xml.in.h:204 ../comps-f17.xml.in.h:214
-#: ../comps-f18.xml.in.h:203 ../comps-f19.xml.in.h:204
+#: ../comps-f16.xml.in.h:206 ../comps-f17.xml.in.h:214
+#: ../comps-f18.xml.in.h:203 ../comps-f19.xml.in.h:208
 #: ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr "이 응용 프로그램은 office 프로그램 모음, PDF 보기 프로그램 등을 포함합니다. "
 
-#: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:215
-#: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:205
+#: ../comps-f16.xml.in.h:207 ../comps-f17.xml.in.h:215
+#: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:209
 msgid "Online Help and Documentation"
 msgstr "온라인 도움말 및 문서 "
 
-#: ../comps-f16.xml.in.h:206 ../comps-f17.xml.in.h:216
-#: ../comps-f18.xml.in.h:205 ../comps-f19.xml.in.h:206
+#: ../comps-f16.xml.in.h:208 ../comps-f17.xml.in.h:216
+#: ../comps-f18.xml.in.h:205 ../comps-f19.xml.in.h:210
 #: ../comps-el6.xml.in.h:181
 msgid "Oriya Support"
 msgstr "오리야어 지원"
 
-#: ../comps-f16.xml.in.h:207 ../comps-f17.xml.in.h:217
+#: ../comps-f16.xml.in.h:209 ../comps-f17.xml.in.h:217
 msgid "Oromo Support"
 msgstr "오로모어 지원 "
 
-#: ../comps-f16.xml.in.h:208 ../comps-f17.xml.in.h:218
-#: ../comps-f18.xml.in.h:206 ../comps-f19.xml.in.h:207
+#: ../comps-f16.xml.in.h:210 ../comps-f17.xml.in.h:218
+#: ../comps-f18.xml.in.h:206 ../comps-f19.xml.in.h:211
 msgid "Perl Development"
 msgstr "Perl 개발  "
 
-#: ../comps-f16.xml.in.h:209 ../comps-f17.xml.in.h:219
-#: ../comps-f18.xml.in.h:207 ../comps-f19.xml.in.h:208
+#: ../comps-f16.xml.in.h:211 ../comps-f17.xml.in.h:219
+#: ../comps-f18.xml.in.h:207 ../comps-f19.xml.in.h:212
 msgid "Support for developing programs in the Perl programming language."
 msgstr "Perl 프로그래밍 언어로 작성된 개발용 프로그램 지원.  "
 
-#: ../comps-f16.xml.in.h:210 ../comps-f17.xml.in.h:220
-#: ../comps-f18.xml.in.h:208 ../comps-f19.xml.in.h:209
+#: ../comps-f16.xml.in.h:212 ../comps-f17.xml.in.h:220
+#: ../comps-f18.xml.in.h:208 ../comps-f19.xml.in.h:213
 #: ../comps-el6.xml.in.h:186
 msgid "Persian Support"
 msgstr "페르시아어 지원  "
 
-#: ../comps-f16.xml.in.h:211 ../comps-f17.xml.in.h:221
+#: ../comps-f16.xml.in.h:213 ../comps-f17.xml.in.h:221
 #: ../comps-el6.xml.in.h:189
 msgid "Polish Support"
 msgstr "폴란드어 지원"
 
-#: ../comps-f16.xml.in.h:212 ../comps-f17.xml.in.h:222
+#: ../comps-f16.xml.in.h:214 ../comps-f17.xml.in.h:222
 #: ../comps-el6.xml.in.h:190
 msgid "Portuguese Support"
 msgstr "포르투갈어 지원"
 
-#: ../comps-f16.xml.in.h:213 ../comps-f17.xml.in.h:223
-#: ../comps-f18.xml.in.h:209 ../comps-f19.xml.in.h:210
+#: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:223
+#: ../comps-f18.xml.in.h:209 ../comps-f19.xml.in.h:214
 msgid "Printing Support"
 msgstr "인쇄 지원"
 
-#: ../comps-f16.xml.in.h:214 ../comps-f17.xml.in.h:224
-#: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:211
+#: ../comps-f16.xml.in.h:216 ../comps-f17.xml.in.h:224
+#: ../comps-f18.xml.in.h:210 ../comps-f19.xml.in.h:215
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
 msgstr "시스템에서 인쇄 하거나 프린트 서버로 사용 하시려면 이 도구를 설치하십시오."
 
-#: ../comps-f16.xml.in.h:215 ../comps-f17.xml.in.h:225
-#: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:212
+#: ../comps-f16.xml.in.h:217 ../comps-f17.xml.in.h:225
+#: ../comps-f18.xml.in.h:211 ../comps-f19.xml.in.h:216
 #: ../comps-el6.xml.in.h:199
 msgid "Punjabi Support"
 msgstr "펀잡어 지원"
 
-#: ../comps-f16.xml.in.h:216 ../comps-f17.xml.in.h:226
+#: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:226
 msgid "Quechua Support"
 msgstr "케추아어 지원 "
 
-#: ../comps-f16.xml.in.h:217 ../comps-f17.xml.in.h:227
-#: ../comps-f18.xml.in.h:212 ../comps-f19.xml.in.h:213
+#: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:227
+#: ../comps-f18.xml.in.h:212 ../comps-f19.xml.in.h:217
 msgid "Robotics"
 msgstr "로봇 공학 "
 
-#: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:228
+#: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:228
+#: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:218
+msgid "Suite of packages for robotics development"
+msgstr ""
+
+#: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:229
 #: ../comps-el6.xml.in.h:201
 msgid "Romanian Support"
 msgstr "루마니아어 지원"
 
-#: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:229
-#: ../comps-f18.xml.in.h:214 ../comps-f19.xml.in.h:215
+#: ../comps-f16.xml.in.h:222 ../comps-f17.xml.in.h:230
+#: ../comps-f18.xml.in.h:214 ../comps-f19.xml.in.h:219
 msgid "Ruby"
 msgstr "Ruby"
 
-#: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:230
-#: ../comps-f18.xml.in.h:215 ../comps-f19.xml.in.h:216
+#: ../comps-f16.xml.in.h:223 ../comps-f17.xml.in.h:231
+#: ../comps-f18.xml.in.h:215 ../comps-f19.xml.in.h:220
 msgid "Basic support for the Ruby programming language."
 msgstr "Ruby 프로그래밍 언어에 대한 기본 지원."
 
-#: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:231
-#: ../comps-f18.xml.in.h:216 ../comps-f19.xml.in.h:217
+#: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:232
+#: ../comps-f18.xml.in.h:216 ../comps-f19.xml.in.h:221
 #: ../comps-el6.xml.in.h:202
 msgid "Russian Support"
 msgstr "러시아어 지원"
 
-#: ../comps-f16.xml.in.h:222 ../comps-f17.xml.in.h:232
+#: ../comps-f16.xml.in.h:225 ../comps-f17.xml.in.h:233
 msgid "Samoan Support"
 msgstr "사모아어 지원  "
 
-#: ../comps-f16.xml.in.h:223 ../comps-f17.xml.in.h:233
-#: ../comps-f18.xml.in.h:217 ../comps-f19.xml.in.h:218
+#: ../comps-f16.xml.in.h:226 ../comps-f17.xml.in.h:234
+#: ../comps-f18.xml.in.h:217 ../comps-f19.xml.in.h:222
 #: ../comps-el6.xml.in.h:203
 msgid "Sanskrit Support"
 msgstr "산스크리트어 지원  "
 
-#: ../comps-f16.xml.in.h:224 ../comps-f17.xml.in.h:235
+#: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:236
 #: ../comps-el6.xml.in.h:204
 msgid "Sardinian Support"
 msgstr "사르디니아어 지원  "
 
-#: ../comps-f16.xml.in.h:225 ../comps-f17.xml.in.h:236
+#: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:237
 #: ../comps-el6.xml.in.h:209
 msgid "Serbian Support"
 msgstr "세르비아어 지원"
 
-#: ../comps-f16.xml.in.h:226 ../comps-f17.xml.in.h:237
-#: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:222
+#: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:238
+#: ../comps-f18.xml.in.h:219 ../comps-f19.xml.in.h:226
 msgid "Server Configuration Tools"
 msgstr "서버 설정 도구"
 
-#: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:238
-#: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:223
+#: ../comps-f16.xml.in.h:230 ../comps-f17.xml.in.h:239
+#: ../comps-f18.xml.in.h:220 ../comps-f19.xml.in.h:227
 msgid ""
 "This group contains all of Red Hat's custom server configuration tools."
 msgstr "이 그룹에는 Red Hat의 사용자 설정 서버 설정 도구를 모두 포함하고 있습니다."
 
-#: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:239
+#: ../comps-f16.xml.in.h:231 ../comps-f17.xml.in.h:240
 msgid "Shuswap Support"
 msgstr "슈스왑어 지원 "
 
-#: ../comps-f16.xml.in.h:229 ../comps-f17.xml.in.h:240
-#: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:224
+#: ../comps-f16.xml.in.h:232 ../comps-f17.xml.in.h:241
+#: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:228
 msgid "Simplified Chinese Support"
 msgstr "중국어 간체 지원 "
 
-#: ../comps-f16.xml.in.h:230 ../comps-f17.xml.in.h:241
-#: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:225
+#: ../comps-f16.xml.in.h:233 ../comps-f17.xml.in.h:242
+#: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:229
 #: ../comps-el6.xml.in.h:216
 msgid "Sindhi Support"
 msgstr "신드어 지원 "
 
-#: ../comps-f16.xml.in.h:231 ../comps-f17.xml.in.h:242
-#: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:226
+#: ../comps-f16.xml.in.h:234 ../comps-f17.xml.in.h:243
+#: ../comps-f18.xml.in.h:223 ../comps-f19.xml.in.h:230
 #: ../comps-el6.xml.in.h:217
 msgid "Sinhala Support"
 msgstr "신할라어 지원"
 
-#: ../comps-f16.xml.in.h:232 ../comps-f17.xml.in.h:243
+#: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:244
 #: ../comps-el6.xml.in.h:218
 msgid "Slovak Support"
 msgstr "슬로바키아어 지원"
 
-#: ../comps-f16.xml.in.h:233 ../comps-f17.xml.in.h:244
+#: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:245
 #: ../comps-el6.xml.in.h:219
 msgid "Slovenian Support"
 msgstr "슬로베이아어 지원"
 
-#: ../comps-f16.xml.in.h:234 ../comps-f17.xml.in.h:245
-#: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:227
+#: ../comps-f16.xml.in.h:237 ../comps-f17.xml.in.h:246
+#: ../comps-f18.xml.in.h:224 ../comps-f19.xml.in.h:231
 msgid "Windows File Server"
 msgstr "Windows 파일 서버"
 
-#: ../comps-f16.xml.in.h:235 ../comps-f17.xml.in.h:246
-#: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:228
+#: ../comps-f16.xml.in.h:238 ../comps-f17.xml.in.h:247
+#: ../comps-f18.xml.in.h:225 ../comps-f19.xml.in.h:232
 msgid ""
 "This package group allows you to share files between Linux and MS "
 "Windows(tm) systems."
 msgstr "이 패키지 그룹을 사용하여 Linux와 MS Windows (tm) 시스템 사이에 파일을 공유할 수 있습니다."
 
-#: ../comps-f16.xml.in.h:236 ../comps-f17.xml.in.h:247
+#: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:248
 msgid "Somali Support"
 msgstr "소말리어 지원  "
 
-#: ../comps-f16.xml.in.h:237 ../comps-f17.xml.in.h:248
-#: ../comps-f18.xml.in.h:226 ../comps-f19.xml.in.h:229
+#: ../comps-f16.xml.in.h:240 ../comps-f17.xml.in.h:249
+#: ../comps-f18.xml.in.h:226 ../comps-f19.xml.in.h:233
 #: ../comps-el5.xml.in.h:57
 msgid "Sound and Video"
 msgstr "사운드와 비디오"
 
-#: ../comps-f16.xml.in.h:238 ../comps-f17.xml.in.h:249
-#: ../comps-f18.xml.in.h:227 ../comps-f19.xml.in.h:230
+#: ../comps-f16.xml.in.h:241 ../comps-f17.xml.in.h:250
+#: ../comps-f18.xml.in.h:227 ../comps-f19.xml.in.h:234
 #: ../comps-el5.xml.in.h:58
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr "이 패키지 그룹을 사용하여 CD 녹음에서 오디오 CD 및 멀티미디어 파일 재생에 이르기까지 다양한 사운드와 비디오 작업을 수행하실 수 있습니다."
 
-#: ../comps-f16.xml.in.h:239 ../comps-f17.xml.in.h:250
+#: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:251
 #: ../comps-el6.xml.in.h:222
 msgid "Southern Ndebele Support"
 msgstr "남부 은데벨레어 지원"
 
-#: ../comps-f16.xml.in.h:240 ../comps-f17.xml.in.h:251
+#: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:252
 #: ../comps-el6.xml.in.h:223
 msgid "Southern Sotho Support"
 msgstr "남부 소토어 지원"
 
-#: ../comps-f16.xml.in.h:241 ../comps-f17.xml.in.h:252
+#: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:253
 #: ../comps-el6.xml.in.h:224
 msgid "Spanish Support"
 msgstr "스페인어 지원"
 
-#: ../comps-f16.xml.in.h:242 ../comps-f17.xml.in.h:253
-#: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:231
+#: ../comps-f16.xml.in.h:245 ../comps-f17.xml.in.h:254
+#: ../comps-f18.xml.in.h:228 ../comps-f19.xml.in.h:235
 msgid "PostgreSQL Database"
 msgstr "PostgreSQL 데이터베이스"
 
-#: ../comps-f16.xml.in.h:243 ../comps-f17.xml.in.h:254
-#: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:232
+#: ../comps-f16.xml.in.h:246 ../comps-f17.xml.in.h:255
+#: ../comps-f18.xml.in.h:229 ../comps-f19.xml.in.h:236
 msgid "This package group includes packages useful for use with Postgresql."
 msgstr "이 그룹에 포함된 패키지는 Postgresql 작업을 도와드립니다."
 
-#: ../comps-f16.xml.in.h:244 ../comps-f17.xml.in.h:255
-#: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:233
+#: ../comps-f16.xml.in.h:247 ../comps-f17.xml.in.h:256
+#: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:237
 msgid "Sugar Desktop Environment"
 msgstr "Sugar 데스크탑 환경 "
 
-#: ../comps-f16.xml.in.h:245 ../comps-f17.xml.in.h:256
-#: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:234
+#: ../comps-f16.xml.in.h:248 ../comps-f17.xml.in.h:257
+#: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:238
 msgid "A software playground for learning about learning."
 msgstr "학습을 위한 학습용 소프트웨어 플레이 그라운드입니다.  "
 
-#: ../comps-f16.xml.in.h:246 ../comps-f17.xml.in.h:257
+#: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:258
 #: ../comps-el6.xml.in.h:233
 msgid "Swahili Support"
 msgstr "스와힐리어 지원  "
 
-#: ../comps-f16.xml.in.h:247 ../comps-f17.xml.in.h:258
+#: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:259
 #: ../comps-el6.xml.in.h:234
 msgid "Swati Support"
 msgstr "스와티어 지원"
 
-#: ../comps-f16.xml.in.h:248 ../comps-f17.xml.in.h:259
+#: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:260
 #: ../comps-el6.xml.in.h:235
 msgid "Swedish Support"
 msgstr "스웨덴어 지원"
 
-#: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:260
-#: ../comps-f18.xml.in.h:232 ../comps-f19.xml.in.h:235
+#: ../comps-f16.xml.in.h:252 ../comps-f17.xml.in.h:261
+#: ../comps-f18.xml.in.h:232 ../comps-f19.xml.in.h:239
 #: ../comps-el5.xml.in.h:59
 msgid "System Tools"
 msgstr "시스템 도구"
 
-#: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:261
-#: ../comps-f18.xml.in.h:233 ../comps-f19.xml.in.h:236
+#: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:262
+#: ../comps-f18.xml.in.h:233 ../comps-f19.xml.in.h:240
 #: ../comps-el5.xml.in.h:60
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr "이 그룹은 SMB 공유에 접속하는데 사용하는 클라이언트와 네트워크 소통량모니터 도구와 같은 다양한 시스템 도구 모음입니다."
 
-#: ../comps-f16.xml.in.h:251 ../comps-f17.xml.in.h:262
+#: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:263
 #: ../comps-el6.xml.in.h:248
 msgid "Tagalog Support"
 msgstr "타갈로그어 지원  "
 
-#: ../comps-f16.xml.in.h:252 ../comps-f17.xml.in.h:263
+#: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:264
 #: ../comps-el6.xml.in.h:249
 msgid "Tajik Support"
 msgstr "타직어 지원  "
 
-#: ../comps-f16.xml.in.h:253 ../comps-f17.xml.in.h:264
-#: ../comps-f18.xml.in.h:234 ../comps-f19.xml.in.h:237
+#: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:265
+#: ../comps-f18.xml.in.h:234 ../comps-f19.xml.in.h:241
 #: ../comps-el6.xml.in.h:250
 msgid "Tamil Support"
 msgstr "타밀어 지원"
 
-#: ../comps-f16.xml.in.h:254 ../comps-f17.xml.in.h:265
-#: ../comps-f18.xml.in.h:235 ../comps-f19.xml.in.h:238
+#: ../comps-f16.xml.in.h:257 ../comps-f17.xml.in.h:266
+#: ../comps-f18.xml.in.h:235 ../comps-f19.xml.in.h:242
 #: ../comps-el6.xml.in.h:253
 msgid "Telugu Support"
 msgstr "텔루구어 지원"
 
-#: ../comps-f16.xml.in.h:255 ../comps-f17.xml.in.h:266
+#: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:267
 #: ../comps-el6.xml.in.h:254
 msgid "Tetum Support"
 msgstr "테툼어 지원  "
 
-#: ../comps-f16.xml.in.h:256 ../comps-f17.xml.in.h:267
-#: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:239
+#: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:268
+#: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:243
 #: ../comps-el5.xml.in.h:61
 msgid "Text-based Internet"
 msgstr "텍스트-기반 인터넷"
 
-#: ../comps-f16.xml.in.h:257 ../comps-f17.xml.in.h:268
-#: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:240
+#: ../comps-f16.xml.in.h:260 ../comps-f17.xml.in.h:269
+#: ../comps-f18.xml.in.h:237 ../comps-f19.xml.in.h:244
 #: ../comps-el5.xml.in.h:62
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr "이 그릅에는 텍스트-기반 이메일, 웹, 채팅 클라이언트가 포함되어 있습니다. X 윈도우 시스템이 없어도 작동합니다."
 
-#: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:269
-#: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:241
+#: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:270
+#: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:245
 #: ../comps-el6.xml.in.h:257
 msgid "Thai Support"
 msgstr "태국어 지원"
 
-#: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:270
-#: ../comps-f18.xml.in.h:239 ../comps-f19.xml.in.h:242
+#: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:271
+#: ../comps-f18.xml.in.h:239 ../comps-f19.xml.in.h:246
 #: ../comps-el6.xml.in.h:258
 msgid "Tibetan Support"
 msgstr "티베트어 지원  "
 
-#: ../comps-f16.xml.in.h:260 ../comps-f17.xml.in.h:271
+#: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:272
 msgid "Tigrinya Support"
 msgstr "티그리냐어 지원 "
 
-#: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:272
+#: ../comps-f16.xml.in.h:264 ../comps-f17.xml.in.h:273
 msgid "Tonga Support"
 msgstr "통가어 지원 "
 
-#: ../comps-f16.xml.in.h:262 ../comps-f17.xml.in.h:273
-#: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:243
+#: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:274
+#: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:247
 msgid "Traditional Chinese Support"
 msgstr "중국어 번체 지원 "
 
-#: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:274
+#: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:275
 #: ../comps-el6.xml.in.h:259
 msgid "Tsonga Support"
 msgstr "총가어 지원"
 
-#: ../comps-f16.xml.in.h:264 ../comps-f17.xml.in.h:275
+#: ../comps-f16.xml.in.h:267 ../comps-f17.xml.in.h:276
 #: ../comps-el6.xml.in.h:260
 msgid "Tswana Support"
 msgstr "스와나어 지원"
 
-#: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:276
+#: ../comps-f16.xml.in.h:268 ../comps-f17.xml.in.h:277
 #: ../comps-el6.xml.in.h:263
 msgid "Turkish Support"
 msgstr "터키어 지원"
 
-#: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:277
+#: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:278
 #: ../comps-el6.xml.in.h:264
 msgid "Turkmen Support"
 msgstr "투르크멘어 지원  "
 
-#: ../comps-f16.xml.in.h:267 ../comps-f17.xml.in.h:278
+#: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:279
 #: ../comps-el6.xml.in.h:265
 msgid "Ukrainian Support"
 msgstr "우크라이나어 지원"
 
-#: ../comps-f16.xml.in.h:268 ../comps-f17.xml.in.h:279
+#: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:280
 #: ../comps-el6.xml.in.h:266
 msgid "Upper Sorbian Support"
 msgstr "세르비아어 (고지) 지원 "
 
-#: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:280
-#: ../comps-f18.xml.in.h:241 ../comps-f19.xml.in.h:244
+#: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:281
+#: ../comps-f18.xml.in.h:241 ../comps-f19.xml.in.h:248
 #: ../comps-el6.xml.in.h:267
 msgid "Urdu Support"
 msgstr "우르두어 지원 "
 
-#: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:281
+#: ../comps-f16.xml.in.h:273 ../comps-f17.xml.in.h:282
 #: ../comps-el6.xml.in.h:268
 msgid "Uzbek Support"
 msgstr "우즈베크어 지원  "
 
-#: ../comps-f16.xml.in.h:271 ../comps-f17.xml.in.h:282
+#: ../comps-f16.xml.in.h:274 ../comps-f17.xml.in.h:283
 #: ../comps-el6.xml.in.h:269
 msgid "Venda Support"
 msgstr "벤다어 지원"
 
-#: ../comps-f16.xml.in.h:272 ../comps-f17.xml.in.h:283
-#: ../comps-el6.xml.in.h:270
+#: ../comps-f16.xml.in.h:275 ../comps-f17.xml.in.h:284
+#: ../comps-f19.xml.in.h:249 ../comps-el6.xml.in.h:270
 msgid "Vietnamese Support"
 msgstr "베트남어 지원 "
 
-#: ../comps-f16.xml.in.h:273 ../comps-f18.xml.in.h:242
-#: ../comps-f19.xml.in.h:245 ../comps-el6.xml.in.h:271
+#: ../comps-f16.xml.in.h:276 ../comps-f18.xml.in.h:242
+#: ../comps-f19.xml.in.h:254 ../comps-el6.xml.in.h:271
 msgid "Virtualization"
 msgstr "가상화"
 
-#: ../comps-f16.xml.in.h:274 ../comps-f17.xml.in.h:285
-#: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:246
+#: ../comps-f16.xml.in.h:277 ../comps-f17.xml.in.h:286
+#: ../comps-f18.xml.in.h:243 ../comps-f19.xml.in.h:255
 msgid "These packages provide a virtualization environment."
 msgstr "이 패키지는 가상화 환경을 제공합니다."
 
-#: ../comps-f16.xml.in.h:275 ../comps-f17.xml.in.h:288
+#: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:289
 #: ../comps-el6.xml.in.h:279
 msgid "Walloon Support"
 msgstr "왈룬어 지원   "
 
-#: ../comps-f16.xml.in.h:276 ../comps-f17.xml.in.h:289
+#: ../comps-f16.xml.in.h:279 ../comps-f17.xml.in.h:290
 #: ../comps-el5.xml.in.h:63
 msgid "Web Development"
 msgstr "웹 개발 "
 
-#: ../comps-f16.xml.in.h:277 ../comps-f17.xml.in.h:290
+#: ../comps-f16.xml.in.h:280 ../comps-f17.xml.in.h:291
 #: ../comps-el5.xml.in.h:64
 msgid ""
 "These packages are helpful when developing web applications or web pages."
 msgstr "이 패키지는 웹 응용 프로그램이나 웹 페이지 개발시 사용합니다. "
 
-#: ../comps-f16.xml.in.h:278 ../comps-f17.xml.in.h:291
-#: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:263
+#: ../comps-f16.xml.in.h:281 ../comps-f17.xml.in.h:292
+#: ../comps-f18.xml.in.h:260 ../comps-f19.xml.in.h:275
 #: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
 msgid "Web Server"
 msgstr "웹 서버"
 
-#: ../comps-f16.xml.in.h:279 ../comps-f17.xml.in.h:292
-#: ../comps-f18.xml.in.h:245 ../comps-f19.xml.in.h:248
+#: ../comps-f16.xml.in.h:282 ../comps-f17.xml.in.h:293
+#: ../comps-f18.xml.in.h:245 ../comps-f19.xml.in.h:257
 #: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
 msgstr "이 도구를 사용하여 시스템 상에서 웹서버를 운영할 수 있습니다."
 
-#: ../comps-f16.xml.in.h:280 ../comps-f17.xml.in.h:293
+#: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:294
 #: ../comps-el6.xml.in.h:284
 msgid "Welsh Support"
 msgstr "웨일즈어 지원"
 
-#: ../comps-f16.xml.in.h:281 ../comps-f17.xml.in.h:294
-#: ../comps-f18.xml.in.h:246 ../comps-f19.xml.in.h:249
+#: ../comps-f16.xml.in.h:284 ../comps-f17.xml.in.h:295
+#: ../comps-f18.xml.in.h:246 ../comps-f19.xml.in.h:258
 #: ../comps-el5.xml.in.h:67
 msgid "Window Managers"
 msgstr "윈도우 관리자 "
 
-#: ../comps-f16.xml.in.h:282 ../comps-f17.xml.in.h:295
-#: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:250
+#: ../comps-f16.xml.in.h:285 ../comps-f17.xml.in.h:296
+#: ../comps-f18.xml.in.h:247 ../comps-f19.xml.in.h:259
 #: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr "대형 데스크탑 환경의 일부분이 아닌 간단한 윈도우 관리자입니다. "
 
-#: ../comps-f16.xml.in.h:283 ../comps-f17.xml.in.h:296
-#: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:251
+#: ../comps-f16.xml.in.h:286 ../comps-f17.xml.in.h:297
+#: ../comps-f18.xml.in.h:248 ../comps-f19.xml.in.h:260
 msgid "X Software Development"
 msgstr "X 소프트웨어 개발"
 
-#: ../comps-f16.xml.in.h:284 ../comps-f17.xml.in.h:297
-#: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:252
+#: ../comps-f16.xml.in.h:287 ../comps-f17.xml.in.h:298
+#: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:261
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr "이 패키지는 X 윈도우 시스템용 응용 프로그램 개발시 사용합니다."
 
-#: ../comps-f16.xml.in.h:285 ../comps-f17.xml.in.h:298
+#: ../comps-f16.xml.in.h:288 ../comps-f17.xml.in.h:299
 #: ../comps-f18.xml.in.h:26 ../comps-f19.xml.in.h:26 ../comps-el6.xml.in.h:289
 msgid "Xfce"
 msgstr "Xfce"
 
-#: ../comps-f16.xml.in.h:286 ../comps-f17.xml.in.h:299
+#: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:300
 #: ../comps-f18.xml.in.h:27 ../comps-f19.xml.in.h:27 ../comps-el6.xml.in.h:290
 msgid "A lightweight desktop environment that works well on low end machines."
 msgstr "저 사양 컴퓨터에서도 잘 작동하는 경량의 데스크탑 환경입니다."
 
-#: ../comps-f16.xml.in.h:287 ../comps-f17.xml.in.h:300
+#: ../comps-f16.xml.in.h:290 ../comps-f17.xml.in.h:301
 msgid "XFCE Software Development"
 msgstr "XFCE 소프트웨어 개발 "
 
-#: ../comps-f16.xml.in.h:288 ../comps-f17.xml.in.h:301
+#: ../comps-f16.xml.in.h:291 ../comps-f17.xml.in.h:302
 msgid ""
 "Install these packages in order to develop GTK+ and XFCE graphical "
 "applications."
 msgstr "GTK+와 GNOME용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
 
-#: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:302
+#: ../comps-f16.xml.in.h:292 ../comps-f17.xml.in.h:303
 #: ../comps-el6.xml.in.h:291
 msgid "Xhosa Support"
 msgstr "코사어 지원"
 
-#: ../comps-f16.xml.in.h:290 ../comps-f17.xml.in.h:303
-#: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:255
+#: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:304
+#: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:264
 msgid "Yiddish Support"
 msgstr "이디시어 지원 "
 
-#: ../comps-f16.xml.in.h:291 ../comps-f17.xml.in.h:304
+#: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:305
 #: ../comps-el6.xml.in.h:292
 msgid "Zulu Support"
 msgstr "줄루어 지원"
 
-#: ../comps-f16.xml.in.h:292 ../comps-f17.xml.in.h:305
+#: ../comps-f16.xml.in.h:295 ../comps-f17.xml.in.h:306
 msgid "Languages"
 msgstr "언어 지원"
 
-#: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:306
+#: ../comps-f16.xml.in.h:296 ../comps-f17.xml.in.h:307
 msgid ""
 "These packages provide support for various locales including fonts and input"
 " methods."
 msgstr "이 패키지는 다양한 로케일 (글꼴 및 입력 방식)을 지원합니다."
 
-#: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:307
+#: ../comps-f16.xml.in.h:297 ../comps-f17.xml.in.h:308
 #: ../comps-el5.xml.in.h:71
 msgid "Desktop Environments"
 msgstr "데스크탑 환경"
 
-#: ../comps-f16.xml.in.h:295 ../comps-f17.xml.in.h:308
+#: ../comps-f16.xml.in.h:298 ../comps-f17.xml.in.h:309
 #: ../comps-el5.xml.in.h:72
 msgid "Desktop environments"
 msgstr "데스크탑 환경"
 
-#: ../comps-f16.xml.in.h:296 ../comps-f17.xml.in.h:309
-#: ../comps-f18.xml.in.h:270 ../comps-f19.xml.in.h:273
+#: ../comps-f16.xml.in.h:299 ../comps-f17.xml.in.h:310
+#: ../comps-f18.xml.in.h:270 ../comps-f19.xml.in.h:284
 #: ../comps-el5.xml.in.h:73 ../comps-el6.xml.in.h:295
 msgid "Applications"
 msgstr "응용 프로그램"
 
-#: ../comps-f16.xml.in.h:297 ../comps-f17.xml.in.h:310
-#: ../comps-f18.xml.in.h:271 ../comps-f19.xml.in.h:274
+#: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:311
+#: ../comps-f18.xml.in.h:271 ../comps-f19.xml.in.h:285
 msgid "Applications to perform a variety of tasks"
 msgstr "다양한 작업을 실행하기 위한 응용 프로그램"
 
-#: ../comps-f16.xml.in.h:298 ../comps-f17.xml.in.h:311
-#: ../comps-f18.xml.in.h:272 ../comps-f19.xml.in.h:275
+#: ../comps-f16.xml.in.h:301 ../comps-f17.xml.in.h:312
+#: ../comps-f18.xml.in.h:272 ../comps-f19.xml.in.h:286
 #: ../comps-el5.xml.in.h:75 ../comps-el6.xml.in.h:297
 msgid "Development"
 msgstr "개발용 도구"
 
-#: ../comps-f16.xml.in.h:299 ../comps-f17.xml.in.h:312
-#: ../comps-f18.xml.in.h:273 ../comps-f19.xml.in.h:276
+#: ../comps-f16.xml.in.h:302 ../comps-f17.xml.in.h:313
+#: ../comps-f18.xml.in.h:273 ../comps-f19.xml.in.h:287
 #: ../comps-el5.xml.in.h:76
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
 msgstr "이 패키지는 응용 프로그램을 개발하기 위한 기능을 제공합니다."
 
-#: ../comps-f16.xml.in.h:300 ../comps-f17.xml.in.h:313
-#: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:277
+#: ../comps-f16.xml.in.h:303 ../comps-f17.xml.in.h:314
+#: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:288
 #: ../comps-el5.xml.in.h:77
 msgid "Servers"
 msgstr "서버"
 
-#: ../comps-f16.xml.in.h:301 ../comps-f17.xml.in.h:314
-#: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:278
+#: ../comps-f16.xml.in.h:304 ../comps-f17.xml.in.h:315
+#: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:289
 #: ../comps-el5.xml.in.h:78
 msgid "Software used for running network servers"
 msgstr "네트워크 서버를 실행하기 위해 사용되는 소프트웨어"
 
-#: ../comps-f16.xml.in.h:302 ../comps-f17.xml.in.h:315
-#: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:279
+#: ../comps-f16.xml.in.h:305 ../comps-f17.xml.in.h:316
+#: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:290
 #: ../comps-el5.xml.in.h:79
 msgid "Base System"
 msgstr "기반 시스템"
 
-#: ../comps-f16.xml.in.h:303 ../comps-f17.xml.in.h:316
-#: ../comps-f18.xml.in.h:277 ../comps-f19.xml.in.h:280
+#: ../comps-f16.xml.in.h:306 ../comps-f17.xml.in.h:317
+#: ../comps-f18.xml.in.h:277 ../comps-f19.xml.in.h:291
 #: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
 msgstr "다양한 주요 시스템"
 
-#: ../comps-f16.xml.in.h:304 ../comps-f17.xml.in.h:317
-#: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:281
+#: ../comps-f16.xml.in.h:307 ../comps-f17.xml.in.h:318
+#: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:292
 msgid "Content"
 msgstr "콘텐츠 "
 
-#: ../comps-f16.xml.in.h:305 ../comps-f17.xml.in.h:318
-#: ../comps-f18.xml.in.h:279 ../comps-f19.xml.in.h:282
+#: ../comps-f16.xml.in.h:308 ../comps-f17.xml.in.h:319
+#: ../comps-f18.xml.in.h:279 ../comps-f19.xml.in.h:293
 msgid "Text and other Free content."
 msgstr "텍스트 및 다른 무료 콘텐츠  "
 
@@ -1645,50 +1662,39 @@ msgid "Infrastructure packages for cloud computing."
 msgstr "클라우드 컴퓨팅을 위한 기반 패키지 "
 
 #: ../comps-f17.xml.in.h:70 ../comps-f18.xml.in.h:115
-#: ../comps-f19.xml.in.h:115
+#: ../comps-f19.xml.in.h:119
 msgid "Dogri Support"
 msgstr "도그리어 지원 "
 
 #: ../comps-f17.xml.in.h:184 ../comps-f18.xml.in.h:183
-#: ../comps-f19.xml.in.h:184
+#: ../comps-f19.xml.in.h:188
 msgid "Manipuri Support"
 msgstr "마니푸리어 지원 "
 
-#: ../comps-f17.xml.in.h:186
-msgid "MATE Desktop Environment"
-msgstr ""
-
-#: ../comps-f17.xml.in.h:187
-msgid ""
-"MATE Desktop is a desktop based on GNOME 2 that provides a powerful "
-"graphical user interface for users who seek a simple, easy to use "
-"traditional desktop interface."
-msgstr ""
-
 #: ../comps-f17.xml.in.h:190 ../comps-f18.xml.in.h:187
-#: ../comps-f19.xml.in.h:188
+#: ../comps-f19.xml.in.h:192
 msgid "Medical Applications"
 msgstr "메디컬 애플리케이션 "
 
 #: ../comps-f17.xml.in.h:191 ../comps-f18.xml.in.h:188
-#: ../comps-f19.xml.in.h:189
+#: ../comps-f19.xml.in.h:193
 msgid "This is a group of applications related to health care."
 msgstr "이는 건강 관리와 관련된 애플리케이션 그룹입니다. "
 
-#: ../comps-f17.xml.in.h:234 ../comps-f18.xml.in.h:218
-#: ../comps-f19.xml.in.h:219
+#: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:218
+#: ../comps-f19.xml.in.h:223
 msgid "Santali Support"
 msgstr "산탈어 지원 "
 
-#: ../comps-f17.xml.in.h:284 ../comps-el6.xml.in.h:273
+#: ../comps-f17.xml.in.h:285 ../comps-el6.xml.in.h:273
 msgid "Virtualization Client"
 msgstr "가상화 클라이언트 "
 
-#: ../comps-f17.xml.in.h:286
+#: ../comps-f17.xml.in.h:287
 msgid "Virtualization Hypervisor"
 msgstr "가상화 하이퍼바이저 "
 
-#: ../comps-f17.xml.in.h:287
+#: ../comps-f17.xml.in.h:288
 msgid "Smallest possible virtualization host installation"
 msgstr "가능한 최소한의 가상화 호스트 설치 "
 
@@ -1748,7 +1754,7 @@ msgstr ""
 msgid "LibreOffice Productivity Suite"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:15
+#: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:268
 msgid "KDE Plasma Workspaces"
 msgstr ""
 
@@ -1851,7 +1857,7 @@ msgstr ""
 msgid "Additional activities for use with the Sugar Environment."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:44 ../comps-f19.xml.in.h:44
+#: ../comps-f18.xml.in.h:44
 msgid "Basic X Window Desktop"
 msgstr ""
 
@@ -1877,11 +1883,11 @@ msgstr ""
 msgid "A tiling window manager"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:50 ../comps-f19.xml.in.h:50
+#: ../comps-f18.xml.in.h:50
 msgid "XMonad for GNOME"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:51 ../comps-f19.xml.in.h:51
+#: ../comps-f18.xml.in.h:51
 msgid "XMonad window manager with GNOME"
 msgstr ""
 
@@ -1973,112 +1979,178 @@ msgstr ""
 msgid "Common set of utilities that extend the minimal installation."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:185
-msgid "MATE"
-msgstr ""
-
-#: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:186
-msgid ""
-"MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
-"interface for users who seek a simple easy to use traditional desktop "
-"interface."
-msgstr ""
-
-#: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:214
-msgid "Suite of packages for robotics development"
-msgstr ""
-
-#: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:247
+#: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:256
 msgid "Basic Web Server"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:253
+#: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:262
 msgid "Xfce Software Development"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:254
+#: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:263
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:256
+#: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:267
 msgid "GNOME Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:257
+#: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:269
 msgid "Xfce Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:258
+#: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:270
 msgid "LXDE Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:259
+#: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:271
 msgid "Cinnamon Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:260
+#: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:272
 msgid "MATE Desktop"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:261
+#: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:273
 msgid "Development and Creative Workstation"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:262
+#: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:274
 msgid "Workstation for software, hardware, graphics, or content development."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:264
+#: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:276
 msgid "Server for serving static and dynamic internet content."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:265
+#: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:277
 msgid "Infrastructure Server"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:266
+#: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:278
 msgid "Server for operating network infrastructure services."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:264 ../comps-f19.xml.in.h:267
+#: ../comps-f18.xml.in.h:264
 msgid "Basic X Window System"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:265 ../comps-f19.xml.in.h:268
+#: ../comps-f18.xml.in.h:265
 msgid "X Window System without a full desktop environment."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:269
+#: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:280
 msgid "Minimal Install"
 msgstr ""
 
-#: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:270
+#: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:281
 msgid "Basic functionality."
 msgstr ""
 
-#: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:271
+#: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:282
 #: ../comps-el6.xml.in.h:126
 msgid "KDE Desktop"
 msgstr "KDE 데스크탑 "
+
+#: ../comps-f19.xml.in.h:15
+msgid "KDE"
+msgstr ""
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:177
+#: ../comps-f19.xml.in.h:44
+msgid "Basic Desktop"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:50
+msgid "XMonad for MATE"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:51
+msgid "XMonad window manager with MATE"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:105
+msgid ""
+"These packages are targeted towards professional designers related to "
+"graphics, web and animations"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:108
+msgid "RPM Development Tools"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:109
+msgid "These tools include core development tools such rpmbuild."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:111
+msgid "These tools include general development tools such as git and cvs."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:112
+msgid "C Development Tools and Libraries"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:113
+msgid ""
+"These tools include core development tools such as automake, gcc and "
+"debuggers."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:181
 msgid "Lepcha Support"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:220
+#: ../comps-f19.xml.in.h:198
+msgid "MariaDB (MySQL) Database"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:199
+msgid ""
+"This package group contains packages useful for use with MariaDB (MySQL)."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:224
 msgid "Security Lab"
 msgstr ""
 
-#: ../comps-f19.xml.in.h:221
+#: ../comps-f19.xml.in.h:225
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security"
 " testing methodologies."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:250
+msgid "Guest Agents"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:251
+msgid "Agents used when running under a hypervisor."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:252
+msgid "Guest Desktop Agents"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:253
+msgid "Agents used when running as a virtualized desktop."
+msgstr ""
+
+#: ../comps-f19.xml.in.h:265
+msgid "3D Printing"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:266
+msgid "3D printing software"
+msgstr ""
+
+#: ../comps-f19.xml.in.h:279
+msgid "X Window System with a choice of window manager."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4
