@@ -4426,6 +4426,30 @@
     </packagelist>
    </group>
    <group>
+    <id>mate-compiz</id>
+    <_name>mate-compiz</_name>
+    <_description>This package group adds Compiz and Emerald to MATE desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+       <packagereq>compiz</packagereq>
+       <packagereq>compiz-plugins-main</packagereq>
+       <packagereq>compiz-plugins-extra</packagereq>
+       <packagereq>compiz-manager</packagereq>
+       <packagereq>compiz-config-python</packagereq>
+       <packagereq>compiz-plugins-unsupported</packagereq>
+       <packagereq>compiz-bcop</packagereq>
+       <packagereq>compiz-mate</packagereq>
+       <packagereq>libcompizconfig</packagereq>
+       <packagereq>compiz-plugins-main</packagereq>
+       <packagereq>ccsm</packagereq>
+       <packagereq>emerald-themes</packagereq>
+       <packagereq>emerald</packagereq>
+       <packagereq>fusion-icon</packagereq>
+       <packagereq>fusion-icon-gtk</packagereq>
+     </packagelist>
+   </group>
+   <group>
     <id>marathi-support</id>
     <_name>Marathi Support</_name>
     <_description/>
@@ -6299,6 +6323,7 @@
     </grouplist>
     <optionlist>
       <groupid>mate-applications</groupid>
+      <groupid>mate-compiz</groupid>
       <groupid>libreoffice</groupid>
       <groupid>3d-printing</groupid>
     </optionlist>
