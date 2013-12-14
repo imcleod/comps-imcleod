@@ -4331,6 +4331,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>abrt-desktop</packagereq>
+      <packagereq>abrt-java-connector</packagereq>
       <packagereq>fedora-release-notes</packagereq>
       <packagereq>NetworkManager-l2tp</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>

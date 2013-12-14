@@ -4315,7 +4315,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>brasero</packagereq>
+      <packagereq>abrt-desktop</packagereq>
+      <packagereq>abrt-java-connector</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>dconf-editor</packagereq>
@@ -4394,6 +4395,7 @@
       <packagereq>system-config-users</packagereq>
       <packagereq>transmission-gtk</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>xfburn</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq>yumex</packagereq>
     </packagelist>

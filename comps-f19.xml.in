@@ -4315,6 +4315,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>abrt-desktop</packagereq>
+      <packagereq>abrt-java-connector</packagereq>
       <packagereq>fedora-release-notes</packagereq>
       <packagereq>lightdm</packagereq>
       <packagereq>lightdm-gtk</packagereq>
