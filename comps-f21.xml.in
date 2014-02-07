@@ -1169,7 +1169,7 @@
       <packagereq type="optional">xmlcopyeditor</packagereq>
     </packagelist>
   </group>
-  <group>
+	  <group>
     <id>standard</id>
     <_name>Standard</_name>
     <_description>Common set of utilities that extend the minimal installation.</_description>
@@ -2485,7 +2485,7 @@
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
       <packagereq type="default">nhn-nanum-gothic-fonts</packagereq>
-      <packagereq type="default">paktype-naqsh-fonts</packagereq>
+      <packagereq type="default">paktype-naskh-basic-fonts</packagereq>
       <packagereq type="default">paratype-pt-sans-fonts</packagereq>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
       <packagereq type="default">sil-mingzat-fonts</packagereq>
@@ -2767,7 +2767,7 @@
       <packagereq type="optional">open-sans-fonts</packagereq>
       <packagereq type="optional">pagul-fonts</packagereq>
       <packagereq type="optional">paktype-ajrak-fonts</packagereq>
-      <packagereq type="optional">paktype-naskh-basic-fonts</packagereq>
+      <packagereq type="optional">paktype-naqsh-fonts</packagereq>
       <packagereq type="optional">paktype-tehreer-fonts</packagereq>
       <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
       <packagereq type="optional">pothana2000-fonts</packagereq>
@@ -5855,7 +5855,7 @@
     <uservisible>false</uservisible>
     <langonly>ur</langonly>
     <packagelist>
-      <packagereq type="mandatory">paktype-naqsh-fonts</packagereq>
+      <packagereq type="mandatory">paktype-naskh-basic-fonts</packagereq>
       <packagereq type="mandatory">paktype-tehreer-fonts</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
@@ -5883,7 +5883,7 @@
       <packagereq type="optional">nafees-riqa-fonts</packagereq>
       <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
       <packagereq type="optional">paktype-ajrak-fonts</packagereq>
-      <packagereq type="optional">paktype-naskh-basic-fonts</packagereq>
+      <packagereq type="optional">paktype-naqsh-fonts</packagereq>
     </packagelist>
   </group>
   <group>
