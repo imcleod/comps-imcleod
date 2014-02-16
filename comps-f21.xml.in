@@ -5022,6 +5022,7 @@
       <packagereq type="default">aircrack-ng</packagereq>
       <packagereq type="default">airsnort</packagereq>
       <packagereq type="default">argus</packagereq>
+      <packagereq type="default">argus-clients</packagereq>
       <packagereq type="default">arp-scan</packagereq>
       <packagereq type="default">bannergrab</packagereq>
       <packagereq type="default">binwalk</packagereq>
@@ -5043,7 +5044,6 @@
       <packagereq type="default">echoping</packagereq>
       <packagereq type="default">etherape</packagereq>
       <packagereq type="default">ettercap</packagereq>
-      <packagereq type="default">ettercap-gtk</packagereq>
       <packagereq type="default">examiner</packagereq>
       <packagereq type="default">firewalk</packagereq>
       <packagereq type="default">firstaidkit-gui</packagereq>
@@ -5051,17 +5051,20 @@
       <packagereq type="default">flawfinder</packagereq>
       <packagereq type="default">foremost</packagereq>
       <packagereq type="default">fping</packagereq>
+      <packagereq type="default">goaccess</packagereq>
       <packagereq type="default">gparted</packagereq>
       <packagereq type="default">halberd</packagereq>
       <packagereq type="default">hexedit</packagereq>
       <packagereq type="default">hfsutils</packagereq>
-      <packagereq type="default">honeyd</packagereq>
       <packagereq type="default">horst</packagereq>
       <packagereq type="default">hping3</packagereq>
       <packagereq type="default">ht</packagereq>
+      <packagereq type="default">httpie</packagereq>
       <packagereq type="default">httping</packagereq>
       <packagereq type="default">httpry</packagereq>
+      <packagereq type="default">httrack</packagereq>
       <packagereq type="default">hunt</packagereq>
+      <packagereq type="default">hydra</packagereq>
       <packagereq type="default">iftop</packagereq>
       <packagereq type="default">inception</packagereq>
       <packagereq type="default">iperf</packagereq>
@@ -5072,8 +5075,10 @@
       <packagereq type="default">kismon</packagereq>
       <packagereq type="default">labrea</packagereq>
       <packagereq type="default">lbd</packagereq>
+      <packagereq type="default">lnav</packagereq>
       <packagereq type="default">lynis</packagereq>
       <packagereq type="default">macchanger</packagereq>
+      <packagereq type="default">masscan</packagereq>
       <packagereq type="default">mausezahn</packagereq>
       <packagereq type="default">mc</packagereq>
       <packagereq type="default">mcabber</packagereq>
@@ -5087,9 +5092,12 @@
       <packagereq type="default">ncrack</packagereq>
       <packagereq type="default">nebula</packagereq>
       <packagereq type="default">net-snmp</packagereq>
+      <packagereq type="default">net-snmp-utils</packagereq>
+      <packagereq type="default">netactview</packagereq>
       <packagereq type="default">nethogs</packagereq>
       <packagereq type="default">netsed</packagereq>
       <packagereq type="default">netsniff-ng</packagereq>
+      <packagereq type="default">nfswatch</packagereq>
       <packagereq type="default">ngrep</packagereq>
       <packagereq type="default">nikto</packagereq>
       <packagereq type="default">nload</packagereq>
@@ -5099,8 +5107,10 @@
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
       <packagereq type="default">ntop</packagereq>
+      <packagereq type="default">ntp</packagereq>
       <packagereq type="default">nwipe</packagereq>
       <packagereq type="default">onesixtyone</packagereq>
+      <packagereq type="default">openssh</packagereq>
       <packagereq type="default">openvas-client</packagereq>
       <packagereq type="default">openvas-scanner</packagereq>
       <packagereq type="default">ophcrack</packagereq>
@@ -5117,6 +5127,7 @@
       <packagereq type="default">prewikka</packagereq>
       <packagereq type="default">proxychains</packagereq>
       <packagereq type="default">pscan</packagereq>
+      <packagereq type="default">pwgen</packagereq>
       <packagereq type="default">pyrit</packagereq>
       <packagereq type="default">raddump</packagereq>
       <packagereq type="default">ratproxy</packagereq>
@@ -5149,14 +5160,17 @@
       <packagereq type="default">sslscan</packagereq>
       <packagereq type="default">sslsplit</packagereq>
       <packagereq type="default">sslstrip</packagereq>
+      <packagereq type="default">subnetcalc</packagereq>
       <packagereq type="default">sucrack</packagereq>
       <packagereq type="default">swaks</packagereq>
+      <packagereq type="default">tcpcopy</packagereq>
       <packagereq type="default">tcpdump</packagereq>
       <packagereq type="default">tcpflow</packagereq>
       <packagereq type="default">tcpick</packagereq>
       <packagereq type="default">tcpjunk</packagereq>
       <packagereq type="default">tcpreen</packagereq>
       <packagereq type="default">tcpreplay</packagereq>
+      <packagereq type="default">tcptrack</packagereq>
       <packagereq type="default">tcpxtract</packagereq>
       <packagereq type="default">telnet</packagereq>
       <packagereq type="default">testdisk</packagereq>
@@ -5173,11 +5187,12 @@
       <packagereq type="default">wget</packagereq>
       <packagereq type="default">whois</packagereq>
       <packagereq type="default">wipe</packagereq>
-      <packagereq type="default">wireshark-gnome</packagereq>
+      <packagereq type="default">wireshark</packagereq>
       <packagereq type="default">xmount</packagereq>
       <packagereq type="default">xprobe2</packagereq>
       <packagereq type="default">yersinia</packagereq>
       <packagereq type="default">yum-utils</packagereq>
+      <packagereq type="default">zmap</packagereq>
     </packagelist>
   </group>
   <group>
