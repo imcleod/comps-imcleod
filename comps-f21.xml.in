@@ -4313,19 +4313,23 @@
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>atril-caja</packagereq>
       <packagereq>atril</packagereq>
-      <packagereq>caja-extensions</packagereq>
       <packagereq>caja</packagereq>
+      <packagereq>caja-beesu</packagereq>
+      <packagereq>caja-image-converter</packagereq>
+      <packagereq>caja-open-terminal</packagereq>
+      <packagereq>caja-sendto</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>dconf-editor</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>desktop-backgrounds-basic</packagereq>
       <packagereq>engrampa</packagereq>
+      <packagereq>eom</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
-      <packagereq>gnome-software</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>gvfs-afc</packagereq>
+      <packagereq>gvfs-archive</packagereq>
       <packagereq>gvfs-fuse</packagereq>
       <packagereq>gvfs-gphoto2</packagereq>
       <packagereq>gvfs-mtp</packagereq>
@@ -4335,22 +4339,20 @@
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>libmatekbd</packagereq>
       <packagereq>libmateweather</packagereq>
+      <packagereq>libsecret</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>lightdm</packagereq>
       <packagereq>marco</packagereq>
-      <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
       <packagereq>mate-calc</packagereq>
-      <packagereq>mate-character-map</packagereq>
       <packagereq>mate-control-center</packagereq>
       <packagereq>mate-desktop</packagereq>
       <packagereq>mate-dialogs</packagereq>
       <packagereq>mate-icon-theme</packagereq>
-      <packagereq>mate-image-viewer</packagereq>
       <packagereq>mate-media</packagereq>
-      <packagereq>mate-menu-editor</packagereq>
       <packagereq>mate-menus</packagereq>
+      <packagereq>mate-menus-preferences-category-menu</packagereq>
       <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-notification-daemon</packagereq>
       <packagereq>mate-panel</packagereq>
@@ -4364,8 +4366,8 @@
       <packagereq>mate-system-log</packagereq>
       <packagereq>mate-system-monitor</packagereq>
       <packagereq>mate-terminal</packagereq>
-      <packagereq>mate-text-editor</packagereq>
       <packagereq>mate-themes</packagereq>
+      <packagereq>mozo</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>NetworkManager-l2tp</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>
@@ -4374,8 +4376,8 @@
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
-      <packagereq>pavucontrol</packagereq>
       <packagereq>pidgin</packagereq>
+      <packagereq>pluma</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
       <packagereq>system-config-language</packagereq>
@@ -4394,20 +4396,24 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>caja-share</packagereq>
+      <packagereq>caja-terminal</packagereq>
       <packagereq>geany</packagereq>
       <packagereq>filezilla</packagereq>
+      <packagereq>firewall-applet</packagereq>
       <packagereq>mate-applet-lockkeys</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-dictionary</packagereq>
       <packagereq>mate-disk-usage-analyzer</packagereq>
       <packagereq>mate-file-manager-share</packagereq>
       <packagereq>mate-icon-theme-faenza</packagereq>
-      <packagereq>mate-menus-preferences-category-menu</packagereq>
       <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
       <packagereq>mate-user-share</packagereq>
       <packagereq>mate-utils</packagereq>
       <packagereq>mintmenu</packagereq>
+      <packagereq>pavucontrol</packagereq>
+      <packagereq>python-caja</packagereq>
       <packagereq>tigervnc</packagereq>
       <packagereq>vim-enhanced</packagereq>
       <packagereq>xterm</packagereq>
@@ -4415,7 +4421,7 @@
    </group>
    <group>
     <id>mate-compiz</id>
-    <_name>mate-compiz</_name>
+    <_name>MATE COMPIZ</_name>
     <_description>This package group adds Compiz and Emerald to MATE desktop</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -4432,6 +4438,7 @@
        <packagereq>compiz-plugins-main</packagereq>
        <packagereq>ccsm</packagereq>
        <packagereq>emerald-themes</packagereq>
+       <packagereq>emerald-themes-extra</packagereq>
        <packagereq>emerald</packagereq>
        <packagereq>fusion-icon</packagereq>
        <packagereq>fusion-icon-gtk</packagereq>
@@ -6318,7 +6325,6 @@
       <groupid>mate-applications</groupid>
       <groupid>mate-compiz</groupid>
       <groupid>libreoffice</groupid>
-      <groupid>3d-printing</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -6562,6 +6568,7 @@
     <grouplist>
       <groupid>mate-desktop</groupid>
       <groupid>mate-applications</groupid>
+      <groupid>mate-compiz</groupid>
     </grouplist>
   </category>
   <category>
