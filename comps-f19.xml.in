@@ -4408,7 +4408,7 @@
    </group>
    <group>
     <id>mate-compiz</id>
-    <_name>mate-compiz</_name>
+    <_name>MATE COMPIZ</_name>
     <_description>This package group adds Compiz and Emerald to MATE desktop</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -4425,6 +4425,7 @@
        <packagereq>compiz-plugins-main</packagereq>
        <packagereq>ccsm</packagereq>
        <packagereq>emerald-themes</packagereq>
+       <packagereq>emerald-themes-extra</packagereq>
        <packagereq>emerald</packagereq>
        <packagereq>fusion-icon</packagereq>
        <packagereq>fusion-icon-gtk</packagereq>
@@ -6543,6 +6544,7 @@
     <display_order>22</display_order>
     <grouplist>
       <groupid>mate-desktop</groupid>
+      <groupid>mate-compiz</groupid>
     </grouplist>
   </category>
   <category>
