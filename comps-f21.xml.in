@@ -4396,6 +4396,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>bluedevil</packagereq>
+      <packagereq>caja-actions</packagereq>
       <packagereq>caja-share</packagereq>
       <packagereq>caja-terminal</packagereq>
       <packagereq>geany</packagereq>
@@ -6325,6 +6327,7 @@
       <groupid>mate-applications</groupid>
       <groupid>mate-compiz</groupid>
       <groupid>libreoffice</groupid>
+      <groupid>3d-printing</groupid>
     </optionlist>
   </environment>
   <environment>
