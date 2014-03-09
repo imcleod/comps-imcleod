@@ -1823,10 +1823,10 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq basearchonly="true" ttype="mandatory">ldc</packagereq>
-      <packagereq basearchonly="true" ttype="mandatory">ldc-druntime-devel</packagereq>
-      <packagereq basearchonly="true" ttype="mandatory">ldc-phobos-devel</packagereq>
-      <packagereq basearchonly="true" ttype="mandatory">ldc-druntime</packagereq>
+      <packagereq basearchonly="true" type="mandatory">ldc</packagereq>
+      <packagereq basearchonly="true" type="mandatory">ldc-druntime-devel</packagereq>
+      <packagereq basearchonly="true" type="mandatory">ldc-phobos-devel</packagereq>
+      <packagereq basearchonly="true" type="mandatory">ldc-druntime</packagereq>
       <packagereq type="mandatory">make</packagereq>
       <packagereq type="mandatory">pkgconfig</packagereq>
       <packagereq type="default">ctags</packagereq>
