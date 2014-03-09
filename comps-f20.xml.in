@@ -1815,6 +1815,33 @@
       <packagereq type="optional">yasm</packagereq>
       <packagereq type="optional">zzuf</packagereq>
     </packagelist>
+    </group>
+    <group>
+    <id>d-development</id>
+    <_name>D Development Tools and Libraries</_name>
+    <_description>These include development tools and lib such as ldc, geany-tag  .</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq basearchonly="true" ttype="mandatory">ldc</packagereq>
+      <packagereq basearchonly="true" ttype="mandatory">ldc-druntime-devel</packagereq>
+      <packagereq basearchonly="true" ttype="mandatory">ldc-phobos-devel</packagereq>
+      <packagereq basearchonly="true" ttype="mandatory">ldc-druntime</packagereq>
+      <packagereq type="mandatory">make</packagereq>
+      <packagereq type="mandatory">pkgconfig</packagereq>
+      <packagereq type="default">ctags</packagereq>
+      <packagereq type="default">indent</packagereq>
+      <packagereq type="optional">astyle</packagereq>
+      <packagereq type="optional">cmake</packagereq>
+      <packagereq type="optional">insight</packagereq>
+      <packagereq type="optional">nemiver</packagereq>
+      <packagereq type="optional">uncrustify</packagereq>
+      <packagereq type="optional">geany</packagereq>
+      <packagereq type="optional">syntastic-d</packagereq>
+      <packagereq type="optional">gl3n-devel</packagereq>
+      <packagereq type="optional">derelict-devel</packagereq>
+      <packagereq type="optional">tango-devel</packagereq>
+    </packagelist>
   </group>
   <group>
     <id>dial-up</id>
