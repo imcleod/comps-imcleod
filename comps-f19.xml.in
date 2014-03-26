@@ -432,6 +432,9 @@
       <packagereq>xscreensaver-base</packagereq>
       <packagereq>yumex</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>NetworkManager-vpnc-gnome</packagereq>
+      <packagereq>NetworkManager-l2tp</packagereq>
+      <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>blueman</packagereq>
@@ -1391,7 +1394,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">aeolus-all</packagereq>
       <packagereq type="optional">ceph</packagereq>
       <packagereq type="optional">deltacloud-core-all</packagereq>
       <packagereq type="optional">euca2ools</packagereq>
@@ -4368,6 +4370,7 @@
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>dconf-editor</packagereq>
       <packagereq>desktop-backgrounds-basic</packagereq>
@@ -4405,10 +4408,10 @@
    </group>
    <group>
     <id>mate-compiz</id>
-    <_name>mate-compiz</_name>
+    <_name>MATE COMPIZ</_name>
     <_description>This package group adds Compiz and Emerald to MATE desktop</_description>
     <default>false</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
     <packagelist>
        <packagereq>compiz</packagereq>
        <packagereq>compiz-plugins-main</packagereq>
@@ -4422,6 +4425,7 @@
        <packagereq>compiz-plugins-main</packagereq>
        <packagereq>ccsm</packagereq>
        <packagereq>emerald-themes</packagereq>
+       <packagereq>emerald-themes-extra</packagereq>
        <packagereq>emerald</packagereq>
        <packagereq>fusion-icon</packagereq>
        <packagereq>fusion-icon-gtk</packagereq>
@@ -6297,6 +6301,7 @@
       <groupid>mate-desktop</groupid>
     </grouplist>
     <optionlist>
+      <groupid>mate-compiz</groupid>
       <groupid>libreoffice</groupid>
       <groupid>3d-printing</groupid>
     </optionlist>
@@ -6540,6 +6545,7 @@
     <display_order>22</display_order>
     <grouplist>
       <groupid>mate-desktop</groupid>
+      <groupid>mate-compiz</groupid>
     </grouplist>
   </category>
   <category>

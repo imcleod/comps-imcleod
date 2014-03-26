@@ -438,6 +438,9 @@
       <packagereq>xscreensaver-base</packagereq>
       <packagereq>yumex</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>NetworkManager-vpnc-gnome</packagereq>
+      <packagereq>NetworkManager-l2tp</packagereq>
+      <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
@@ -916,6 +919,7 @@
       <packagereq>rubygem-hike</packagereq>
       <packagereq>rubygem-i18n</packagereq>
       <packagereq>rubygem-io-console</packagereq>
+      <packagereq>rubygem-jbuilder</packagereq>
       <packagereq>rubygem-journey</packagereq>
       <packagereq>rubygem-jquery-rails</packagereq>
       <packagereq>rubygem-json</packagereq>
@@ -952,6 +956,7 @@
       <packagereq>rubygem-thor</packagereq>
       <packagereq>rubygem-tilt</packagereq>
       <packagereq>rubygem-treetop</packagereq>
+      <packagereq>rubygem-turbolinks</packagereq>
       <packagereq>rubygem-tzinfo</packagereq>
       <packagereq>rubygem-uglifier</packagereq>
       <packagereq>ruby-irb</packagereq>
@@ -1382,7 +1387,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">aeolus-all</packagereq>
       <packagereq type="optional">ceph</packagereq>
       <packagereq type="optional">deltacloud-core-all</packagereq>
       <packagereq type="optional">euca2ools</packagereq>
@@ -1812,6 +1816,33 @@
       <packagereq type="optional">undertaker</packagereq>
       <packagereq type="optional">yasm</packagereq>
       <packagereq type="optional">zzuf</packagereq>
+    </packagelist>
+    </group>
+    <group>
+    <id>d-development</id>
+    <_name>D Development Tools and Libraries</_name>
+    <_description>These include development tools and lib such as ldc, geany-tag  .</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq basearchonly="true" type="mandatory">ldc</packagereq>
+      <packagereq basearchonly="true" type="mandatory">ldc-druntime-devel</packagereq>
+      <packagereq basearchonly="true" type="mandatory">ldc-phobos-devel</packagereq>
+      <packagereq basearchonly="true" type="mandatory">ldc-druntime</packagereq>
+      <packagereq type="mandatory">make</packagereq>
+      <packagereq type="mandatory">pkgconfig</packagereq>
+      <packagereq type="default">ctags</packagereq>
+      <packagereq type="default">indent</packagereq>
+      <packagereq type="optional">astyle</packagereq>
+      <packagereq type="optional">cmake</packagereq>
+      <packagereq type="optional">insight</packagereq>
+      <packagereq type="optional">nemiver</packagereq>
+      <packagereq type="optional">uncrustify</packagereq>
+      <packagereq type="optional">geany</packagereq>
+      <packagereq type="optional">syntastic-d</packagereq>
+      <packagereq type="optional">gl3n-devel</packagereq>
+      <packagereq type="optional">derelict-devel</packagereq>
+      <packagereq type="optional">tango-devel</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4340,6 +4371,7 @@
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>NetworkManager</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>dconf-editor</packagereq>
@@ -4360,7 +4392,7 @@
       <packagereq>hexchat</packagereq>
       <packagereq>initial-setup</packagereq>
       <packagereq>libmatekbd</packagereq>
-      <packagereq>libmatekeyring</packagereq>
+      <packagereq>libsecret</packagereq>
       <packagereq>libmatenotify</packagereq>
       <packagereq>libmateweather</packagereq>
       <packagereq>libmatewnck</packagereq>
@@ -4381,8 +4413,6 @@
       <packagereq>mate-file-manager</packagereq>
       <packagereq>mate-icon-theme</packagereq>
       <packagereq>mate-image-viewer</packagereq>
-      <packagereq>mate-keyring-pam</packagereq>
-      <packagereq>mate-keyring</packagereq>
       <packagereq>mate-media</packagereq>
       <packagereq>mate-menu-editor</packagereq>
       <packagereq>mate-menus-preferences-category-menu</packagereq>
@@ -4423,7 +4453,7 @@
     <_name>MATE Applications</_name>
     <_description>Applications for the MATE Desktop.</_description>
     <default>false</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
     <packagelist>
       <packagereq>bluedevil</packagereq>
       <packagereq>caja-actions</packagereq>
@@ -4442,7 +4472,6 @@
       <packagereq>mate-utils</packagereq>
       <packagereq>mintmenu</packagereq>
       <packagereq>xfburn</packagereq>
-      <packagereq>xterm</packagereq>
     </packagelist>
    </group>
    <group>
@@ -4450,7 +4479,7 @@
     <_name>mate-compiz</_name>
     <_description>This package group adds Compiz and Emerald to MATE desktop</_description>
     <default>false</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
     <packagelist>
        <packagereq>compiz</packagereq>
        <packagereq>compiz-plugins-main</packagereq>
@@ -4464,6 +4493,7 @@
        <packagereq>compiz-plugins-main</packagereq>
        <packagereq>ccsm</packagereq>
        <packagereq>emerald-themes</packagereq>
+       <packagereq>emerald-themes-extra</packagereq>
        <packagereq>emerald</packagereq>
        <packagereq>fusion-icon</packagereq>
        <packagereq>fusion-icon-gtk</packagereq>
@@ -6589,6 +6619,7 @@
     <grouplist>
       <groupid>mate-desktop</groupid>
       <groupid>mate-applications</groupid>
+      <groupid>mate-compiz</groupid>
     </grouplist>
   </category>
   <category>
