@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
 <comps>
+  <environment>
+    <id>mate-desktop-environment</id>
+    <_name>MATE Desktop</_name>
+    <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
+    <display_order>22</display_order>
+    <grouplist>
+      <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
+      <groupid>mate-desktop</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>libreoffice</groupid>
+      <groupid>3d-printing</groupid>
+    </optionlist>
+  </environment>
+  <environment>
   <group>
     <id>additional-devel</id>
     <_name>Additional Development</_name>
@@ -1271,6 +1296,98 @@
     <packagelist/>
   </group>
   <group>
+  <group>
+    <id>mate-desktop</id>
+    <_name>MATE</_name>
+    <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">abrt-desktop</packagereq>
+      <packagereq type="mandatory">abrt-java-connector</packagereq>
+      <packagereq type="mandatory">atril-caja</packagereq>
+      <packagereq type="mandatory">atril</packagereq>
+      <packagereq type="mandatory">caja</packagereq>
+      <packagereq type="mandatory">caja-beesu</packagereq>
+      <packagereq type="mandatory">caja-image-converter</packagereq>
+      <packagereq type="mandatory">caja-open-terminal</packagereq>
+      <packagereq type="mandatory">caja-sendto</packagereq>
+      <packagereq type="mandatory">caja-terminal</packagereq>
+      <packagereq type="mandatory">dconf-editor</packagereq>
+      <packagereq type="mandatory">dconf</packagereq>
+      <packagereq type="mandatory">desktop-backgrounds-basic</packagereq>
+      <packagereq type="mandatory">engrampa</packagereq>
+      <packagereq type="mandatory">eom</packagereq>
+      <packagereq type="mandatory">filezilla</packagereq>
+      <packagereq type="mandatory">firefox</packagereq>
+      <packagereq type="mandatory">firewall-applet</packagereq>
+      <packagereq type="mandatory">firewall-config</packagereq>
+      <packagereq type="mandatory">geany</packagereq>
+      <packagereq type="mandatory">gtk2-engines</packagereq>
+      <packagereq type="mandatory">gvfs-afc</packagereq>
+      <packagereq type="mandatory">gvfs-archive</packagereq>
+      <packagereq type="mandatory">gvfs-fuse</packagereq>
+      <packagereq type="mandatory">gvfs-gphoto2</packagereq>
+      <packagereq type="mandatory">gvfs-mtp</packagereq>
+      <packagereq type="mandatory">gvfs</packagereq>
+      <packagereq type="mandatory">gvfs-smb</packagereq>
+      <packagereq type="mandatory">initial-setup-gui</packagereq>
+      <packagereq type="mandatory">libmatekbd</packagereq>
+      <packagereq type="mandatory">libmateweather</packagereq>
+      <packagereq type="mandatory">libsecret</packagereq>
+      <packagereq type="mandatory">lightdm-gtk</packagereq>
+      <packagereq type="mandatory">lightdm</packagereq>
+      <packagereq type="mandatory">marco</packagereq>
+      <packagereq type="mandatory">mate-applets</packagereq>
+      <packagereq type="mandatory">mate-backgrounds</packagereq>
+      <packagereq type="mandatory">mate-calc</packagereq>
+      <packagereq type="mandatory">mate-control-center</packagereq>
+      <packagereq type="mandatory">mate-desktop</packagereq>
+      <packagereq type="mandatory">mate-dialogs</packagereq>
+      <packagereq type="mandatory">mate-dictionary</packagereq>
+      <packagereq type="mandatory">mate-disk-usage-analyzer</packagereq>
+      <packagereq type="mandatory">mate-icon-theme</packagereq>
+      <packagereq type="mandatory">mate-icon-theme-faenza</packagereq>
+      <packagereq type="mandatory">mate-media</packagereq>
+      <packagereq type="mandatory">mate-menus</packagereq>
+      <packagereq type="mandatory">mate-menus-preferences-category-menu</packagereq>
+      <packagereq type="mandatory">mate-netspeed</packagereq>
+      <packagereq type="mandatory">mate-notification-daemon</packagereq>
+      <packagereq type="mandatory">mate-panel</packagereq>
+      <packagereq type="mandatory">mate-polkit</packagereq>
+      <packagereq type="mandatory">mate-power-manager</packagereq>
+      <packagereq type="mandatory">mate-screensaver</packagereq>
+      <packagereq type="mandatory">mate-screenshot</packagereq>
+      <packagereq type="mandatory">mate-search-tool</packagereq>
+      <packagereq type="mandatory">mate-session-manager</packagereq>
+      <packagereq type="mandatory">mate-settings-daemon</packagereq>
+      <packagereq type="mandatory">mate-system-log</packagereq>
+      <packagereq type="mandatory">mate-system-monitor</packagereq>
+      <packagereq type="mandatory">mate-terminal</packagereq>
+      <packagereq type="mandatory">mate-themes</packagereq>
+      <packagereq type="mandatory">mate-utils</packagereq>
+      <packagereq type="mandatory">mozo</packagereq>
+      <packagereq type="mandatory">network-manager-applet</packagereq>
+      <packagereq type="mandatory">NetworkManager-l2tp</packagereq>
+      <packagereq type="mandatory">NetworkManager-openconnect</packagereq>
+      <packagereq type="mandatory">NetworkManager-openvpn</packagereq>
+      <packagereq type="mandatory">NetworkManager</packagereq>
+      <packagereq type="mandatory">NetworkManager-pptp</packagereq>
+      <packagereq type="mandatory">NetworkManager-vpnc</packagereq>
+      <packagereq type="mandatory">NetworkManager-vpnc-gnome</packagereq>
+      <packagereq type="mandatory">pidgin</packagereq>
+      <packagereq type="mandatory">pluma</packagereq>
+      <packagereq type="mandatory">setroubleshoot</packagereq>
+      <packagereq type="mandatory">simple-scan</packagereq>
+      <packagereq type="mandatory">system-config-language</packagereq>
+      <packagereq type="mandatory">system-config-users</packagereq>
+      <packagereq type="mandatory">transmission-gtk</packagereq>
+      <packagereq type="mandatory">xdg-user-dirs-gtk</packagereq>
+      <packagereq type="mandatory">xfburn</packagereq>
+      <packagereq type="mandatory">yelp</packagereq>
+    </packagelist>
+   </group>
+  <group>
     <id>milkymist</id>
     <_name>Milkymist</_name>
     <_description>Toolchain for Milkymist hardware engineers.</_description>
@@ -2179,6 +2296,15 @@
     <grouplist>
       <groupid>fedora-packager</groupid>
       <groupid>xfce-software-development</groupid>
+    </grouplist>
+  </category>
+  <category>
+    <id>mate-desktop-environment</id>
+    <_name>MATE Desktop</_name>
+    <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
+    <display_order>22</display_order>
+    <grouplist>
+      <groupid>mate-desktop</groupid>
     </grouplist>
   </category>
 </comps>
