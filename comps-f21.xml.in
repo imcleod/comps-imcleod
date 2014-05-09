@@ -5884,9 +5884,8 @@
     <langonly>zh_TW</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
-      <packagereq type="default">wqy-microhei-fonts</packagereq>
-      <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
-      <packagereq type="optional">cjkuni-uming-fonts</packagereq>
+      <packagereq type="default">cjkuni-uming-fonts</packagereq>
+      <packagereq type="default">cjkuni-ukai-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">ibus-table-chinese-array</packagereq>
       <packagereq type="optional">ibus-table-chinese-cangjie</packagereq>
