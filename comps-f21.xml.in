@@ -4002,6 +4002,35 @@
     </packagelist>
   </group>
   <group>
+    <id>kf5-software-development</id>
+    <_name>KDE Frameworks 5 Software Development</_name>
+    <_description>Install these packages to develop applications using Qt5 and KDE frameworks 5.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">cmake</packagereq>
+      <packagereq type="mandatory">extra-cmake-modules</packagereq>
+      <packagereq type="mandatory">qt5-base-devel</packagereq>
+      <packagereq type="default">qt5-qtdeclarative-devel</packagereq>
+      <packagereq type="default">qt5-qtquickcontrols</packagereq>
+      <packagereq type="default">qt5-qttools-devel</packagereq>
+      <packagereq type="default">qt5-qtwebkit-devel</packagereq>
+      <packagereq type="optional">qt-creator</packagereq>
+      <packagereq type="optional">qt5-qtconnectivity-devel</packagereq>
+      <packagereq type="optional">qt5-qtimageformats-devel</packagereq>
+      <packagereq type="optional">qt5-qtlocation-devel</packagereq>
+      <packagereq type="optional">qt5-qtmultimedia-devel</packagereq>
+      <packagereq type="optional">qt5-qtquick1-devel</packagereq>
+      <packagereq type="optional">qt5-qtscript-devel</packagereq>
+      <packagereq type="optional">qt5-qtsensors-devel</packagereq>
+      <packagereq type="optional">qt5-qtserialport-devel</packagereq>
+      <packagereq type="optional">qt5-qtsvg-devel</packagereq>
+      <packagereq type="optional">qt5-qtwayland-devel</packagereq>
+      <packagereq type="optional">qt5-qtx11extras-devel</packagereq>
+      <packagereq type="optional">qt5-qtxmlpatterns-devel</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>khmer-support</id>
     <_name>Khmer Support</_name>
     <_description/>
@@ -6410,6 +6439,7 @@
       <groupid>fedora-packager</groupid>
       <groupid>gnome-software-development</groupid>
       <groupid>kde-software-development</groupid>
+      <groupid>kf5-software-development</groupid>
       <groupid>x-software-development</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>virtualization</groupid>
@@ -6661,6 +6691,7 @@
       <groupid>java-development</groupid>
       <groupid>jbossas</groupid>
       <groupid>kde-software-development</groupid>
+      <groupid>kf5-software-development</groupid>
       <groupid>legacy-software-development</groupid>
       <groupid>libreoffice-development</groupid>
       <groupid>milkymist</groupid>
