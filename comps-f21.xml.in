@@ -151,7 +151,6 @@
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
-      <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>orca</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
@@ -273,7 +272,6 @@
       <packagereq>kde-plasma-nm-pptp</packagereq>
       <packagereq>kde-plasma-nm-vpnc</packagereq>
       <packagereq>kde-print-manager</packagereq>
-      <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>kde-runtime</packagereq>
       <packagereq>kde-settings-pulseaudio</packagereq>
       <packagereq>kde-workspace</packagereq>
@@ -454,7 +452,6 @@
       <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
-      <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>adwaita-cursor-theme</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
@@ -616,7 +613,6 @@
       <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>nm-connection-editor</packagereq>
-      <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>perl-File-MimeInfo</packagereq>
       <packagereq>xcompmgr</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
@@ -742,7 +738,6 @@
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
-      <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-calculator</packagereq>
@@ -1870,6 +1865,7 @@
       <packagereq type="default">lrzsz</packagereq>
       <packagereq type="default">minicom</packagereq>
       <packagereq type="default">ModemManager</packagereq>
+      <packagereq type="default">NetworkManager-adsl</packagereq>
       <packagereq type="default">rp-pppoe</packagereq>
       <packagereq type="default">wvdial</packagereq>
       <packagereq type="optional">efax</packagereq>
@@ -4446,7 +4442,6 @@
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
-      <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>pluma</packagereq>
       <packagereq>seahorse</packagereq>
@@ -4709,6 +4704,21 @@
       <packagereq type="optional">xl2tpd</packagereq>
       <packagereq type="optional">ypserv</packagereq>
       <packagereq type="optional">znc</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>networkmanager-submodules</id>
+    <_name>Common NetworkManager submodules</_name>
+    <_description>
+      This group contains NetworkManager submodules that are commonly used,
+      but may not be wanted in some streamlined configurations.
+    </_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">NetworkManager-wifi</packagereq>
+      <packagereq type="default">NetworkManager-bluetooth</packagereq>
+      <packagereq type="default">NetworkManager-wwan</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6259,6 +6269,7 @@
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
       <groupid>firefox</groupid>
@@ -6286,6 +6297,7 @@
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
@@ -6314,6 +6326,7 @@
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
@@ -6341,6 +6354,7 @@
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
@@ -6366,6 +6380,7 @@
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
@@ -6390,6 +6405,7 @@
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
@@ -6415,6 +6431,7 @@
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>hardware-support</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>sugar-desktop</groupid>
@@ -6436,6 +6453,7 @@
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>hardware-support</groupid>
       <groupid>printing</groupid>
       <groupid>firefox</groupid>
@@ -6542,6 +6560,7 @@
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
       <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>basic-desktop</groupid>
     </grouplist>
@@ -6769,6 +6788,7 @@
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>input-methods</groupid>
       <groupid>java</groupid>
       <groupid>legacy-fonts</groupid>
