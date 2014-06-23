@@ -8,9 +8,11 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>xorg-x11-drv-armsoc</packagereq>
       <packagereq>xorg-x11-drv-ati</packagereq>
       <packagereq>xorg-x11-drv-evdev</packagereq>
       <packagereq>xorg-x11-drv-fbdev</packagereq>
+      <packagereq>xorg-x11-drv-freedreno</packagereq>
       <packagereq>xorg-x11-drv-geode</packagereq>
       <packagereq>xorg-x11-drv-intel</packagereq>
       <packagereq>xorg-x11-drv-mga</packagereq>
