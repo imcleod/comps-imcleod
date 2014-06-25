@@ -812,8 +812,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>abrt-java-connector</packagereq>
-      <packagereq>java-1.7.0-openjdk</packagereq>
-      <packagereq>java-1.7.0-openjdk-devel</packagereq>
+      <packagereq>java-1.8.0-openjdk</packagereq>
+      <packagereq>java-1.8.0-openjdk-devel</packagereq>
       <packagereq>jboss-as</packagereq>
       <packagereq>jboss-modules</packagereq>
       <packagereq>maven</packagereq>
@@ -3828,7 +3828,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">java-1.7.0-openjdk</packagereq>
+      <packagereq type="mandatory">java-1.8.0-openjdk</packagereq>
       <packagereq type="default">abrt-java-connector</packagereq>
       <packagereq type="default">icedtea-web</packagereq>
     </packagelist>
@@ -3842,7 +3842,7 @@
     <packagelist>
       <packagereq type="mandatory">ant</packagereq>
       <packagereq type="mandatory">ecj</packagereq>
-      <packagereq type="mandatory">java-1.7.0-openjdk-devel</packagereq>
+      <packagereq type="mandatory">java-1.8.0-openjdk-devel</packagereq>
       <packagereq type="default">abrt-java-connector</packagereq>
       <packagereq type="default">ant-antlr</packagereq>
       <packagereq type="default">ant-apache-bcel</packagereq>
@@ -3882,9 +3882,9 @@
       <packagereq type="default">gnu-getopt</packagereq>
       <packagereq type="default">jakarta-oro</packagereq>
       <packagereq type="default">jakarta-taglibs-standard</packagereq>
-      <packagereq type="default">java-1.7.0-openjdk-demo</packagereq>
-      <packagereq type="default">java-1.7.0-openjdk-javadoc</packagereq>
-      <packagereq type="default">java-1.7.0-openjdk-src</packagereq>
+      <packagereq type="default">java-1.8.0-openjdk-demo</packagereq>
+      <packagereq type="default">java-1.8.0-openjdk-javadoc</packagereq>
+      <packagereq type="default">java-1.8.0-openjdk-src</packagereq>
       <packagereq type="default">javamail</packagereq>
       <packagereq type="default">java_cup</packagereq>
       <packagereq type="default">jdepend</packagereq>
