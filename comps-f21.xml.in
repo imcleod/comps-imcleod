@@ -241,6 +241,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="gtk2">libappindicator</packagereq>
+      <packagereq type="conditional" requires="gtk3">libappindicator-gtk3</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
       <packagereq>akonadi</packagereq>
