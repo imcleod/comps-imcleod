@@ -1811,6 +1811,7 @@
       <packagereq basearchonly="true" type="default">oprofile-gui</packagereq>
       <packagereq type="default">valgrind</packagereq>
       <packagereq type="optional">astyle</packagereq>
+      <packagereq type="optional">cbmc</packagereq>
       <packagereq type="optional">check</packagereq>
       <packagereq type="optional">cmake</packagereq>
       <packagereq type="optional">coan</packagereq>
@@ -1820,8 +1821,10 @@
       <packagereq type="optional">insight</packagereq>
       <packagereq type="optional">nasm</packagereq>
       <packagereq type="optional">pscan</packagereq>
+      <packagereq type="optional">remake</packagereq>
       <packagereq type="optional">scons</packagereq>
       <packagereq type="optional">splint</packagereq>
+      <packagereq type="optional">trinity</packagereq>
       <packagereq type="optional">undertaker</packagereq>
       <packagereq type="optional">yasm</packagereq>
       <packagereq type="optional">zzuf</packagereq>
