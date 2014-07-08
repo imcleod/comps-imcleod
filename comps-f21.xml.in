@@ -6688,6 +6688,41 @@
       <packagereq type="default">slic3r</packagereq>
     </packagelist>
   </group>
+  <group>
+    <id>cloud-server</id>
+    <_name>Cloud Server Tools</_name>
+    <_description>Software for servers and system images that run in "cloud" environments</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">cloud-init</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>cloud-management</id>
+    <_name>Cloud Management Tools</_name>
+    <_description>Software to managed servers and system images that run in "cloud" environments</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">python-boto</packagereq>
+      <packagereq type="default">python-libcloud</packagereq>
+      <packagereq type="default">rubygem-cloudfiles</packagereq>
+      <packagereq type="default">rubygem-cloudservers</packagereq>
+      <packagereq type="default">cloud-utils</packagereq>
+      <packagereq type="default">cloud-utils-growpart</packagereq>
+      <packagereq type="default">imagefactory</packagereq>
+      <packagereq type="default">imagefactory-plugins</packagereq>
+      <packagereq type="default">imagefactory-plugins-EC2</packagereq>
+      <packagereq type="default">imagefactory-plugins-EC2-JEOS-images</packagereq>
+      <packagereq type="default">imagefactory-plugins-OpenStack</packagereq>
+      <packagereq type="default">imagefactory-plugins-TinMan</packagereq>
+      <packagereq type="default">imagefactory-plugins-Rackspace</packagereq>
+      <packagereq type="default">imagefactory-plugins-Rackspace-JEOS-images</packagereq>
+      <packagereq type="optional">rubygem-cloudfiles-doc</packagereq>
+      <packagereq type="optional">rubygem-cloudservers-doc</packagereq>
+    </packagelist>
+  </group>
   <environment>
     <id>gnome-desktop-environment</id>
     <_name>GNOME Desktop</_name>
