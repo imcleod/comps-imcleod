@@ -6709,6 +6709,7 @@
       <packagereq type="default">python-libcloud</packagereq>
       <packagereq type="default">rubygem-cloudfiles</packagereq>
       <packagereq type="default">rubygem-cloudservers</packagereq>
+      <packagereq type="default">rubygem-amazon-ec2</packagereq>
       <packagereq type="default">cloud-utils</packagereq>
       <packagereq type="default">cloud-utils-growpart</packagereq>
       <packagereq type="default">imagefactory</packagereq>
@@ -6721,6 +6722,7 @@
       <packagereq type="default">imagefactory-plugins-Rackspace-JEOS-images</packagereq>
       <packagereq type="optional">rubygem-cloudfiles-doc</packagereq>
       <packagereq type="optional">rubygem-cloudservers-doc</packagereq>
+      <packagereq type="optional">rubygem-amazon-ec2-doc</packagereq>
     </packagelist>
   </group>
   <environment>
