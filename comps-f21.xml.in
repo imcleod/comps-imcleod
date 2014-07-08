@@ -1412,6 +1412,18 @@
     </packagelist>
   </group>
   <group>
+    <id>container-management</id>
+    <_name>Container Management</_name>
+    <_description>Tools for managing Linux containers</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">docker-io</packagereq>
+      <packagereq type="optional">fedora-dockerfiles</packagereq>
+      <packagereq type="optional">docker-registry</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>core</id>
     <_name>Core</_name>
     <_description>Smallest possible installation</_description>
@@ -3671,6 +3683,21 @@
       <packagereq>hlint</packagereq>
       <packagereq>hscolour</packagereq>
       <packagereq type="optional">leksah</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>headless-management</id>
+    <_name>Headless Management</_name>
+    <_description>
+      Tools for managing the system without an attached graphical console
+    </_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">cockpit</packagereq>
+      <packagereq type="mandatory">openssh-server</packagereq>
+      <packagereq type="default">openlmi</packagereq>
+      <packagereq type="default">tog-pegasus</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6560,23 +6587,26 @@
       <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>hardware-support</groupid>
+      <groupid>headless-management</groupid>
+      <groupid>container-management</groupid>
     </grouplist>
     <optionlist>
       <groupid>dogtag</groupid>
+      <groupid>directory-server</groupid>
       <groupid>dns-server</groupid>
       <groupid>freeipa-server</groupid>
       <groupid>ftp-server</groupid>
+      <groupid>guest-agents</groupid>
+      <groupid>ha</groupid>
+      <groupid>load-balancer</groupid>
       <groupid>mail-server</groupid>
-      <groupid>network-server</groupid>
-      <groupid>smb-server</groupid>
-      <groupid>web-server</groupid>
       <groupid>mysql</groupid>
+      <groupid>network-server</groupid>
+      <groupid>printing</groupid>
+      <groupid>smb-server</groupid>
       <groupid>sql-server</groupid>
       <groupid>virtualization</groupid>
       <groupid>web-server</groupid>
-      <groupid>load-balancer</groupid>
-      <groupid>ha</groupid>
-      <groupid>guest-agents</groupid>
     </optionlist>
   </environment>
   <environment>
