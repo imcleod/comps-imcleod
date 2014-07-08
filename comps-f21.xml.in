@@ -801,8 +801,8 @@
     </packagelist>
   </group>
   <group>
-    <id>jbossas</id>
-    <_name>JBoss Application Server</_name>
+    <id>javaenterprise</id>
+    <_name>Java Application Server</_name>
     <_description>Java application server.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -810,7 +810,7 @@
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>java-1.8.0-openjdk</packagereq>
       <packagereq>java-1.8.0-openjdk-devel</packagereq>
-      <packagereq>jboss-as</packagereq>
+      <packagereq>wildfly</packagereq>
       <packagereq>jboss-modules</packagereq>
       <packagereq>maven</packagereq>
     </packagelist>
@@ -6533,7 +6533,7 @@
     </grouplist>
     <optionlist>
       <groupid>java-development</groupid>
-      <groupid>jbossas</groupid>
+      <groupid>javaenterprise</groupid>
       <groupid>mongodb</groupid>
       <groupid>perl-web</groupid>
       <groupid>php</groupid>
@@ -6566,7 +6566,7 @@
     </grouplist>
     <optionlist>
       <groupid>haproxy</groupid>
-      <groupid>jbossas</groupid>
+      <groupid>javaenterprise</groupid>
       <groupid>mongodb</groupid>
       <groupid>perl-web</groupid>
       <groupid>python-web</groupid>
@@ -6779,7 +6779,7 @@
       <groupid>gnome-software-development</groupid>
       <groupid>haskell</groupid>
       <groupid>java-development</groupid>
-      <groupid>jbossas</groupid>
+      <groupid>javaenterprise</groupid>
       <groupid>kde-software-development</groupid>
       <groupid>kf5-software-development</groupid>
       <groupid>legacy-software-development</groupid>
@@ -6818,7 +6818,7 @@
       <groupid>ftp-server</groupid>
       <groupid>ha</groupid>
       <groupid>haproxy</groupid>
-      <groupid>jbossas</groupid>
+      <groupid>javaenterprise</groupid>
       <groupid>load-balancer</groupid>
       <groupid>legacy-network-server</groupid>
       <groupid>mail-server</groupid>
