@@ -5355,6 +5355,16 @@
     </packagelist>
   </group>
   <group>
+    <id>server-product</id>
+    <_name>Fedora Server product core</_name>
+    <_description>Packages mandatory for the server product.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">fedora-release-server</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>simplified-chinese-support</id>
     <_name>Simplified Chinese Support</_name>
     <_description/>
@@ -6572,11 +6582,51 @@
     </optionlist>
   </environment>
   <environment>
+    <!-- Please keep this mostly in sync with fedora-server-environment. -->
     <id>infrastructure-server-environment</id>
     <_name>Infrastructure Server</_name>
     <_description>Server for operating network infrastructure services.</_description>
     <display_order>55</display_order>
     <grouplist>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>headless-management</groupid>
+      <groupid>container-management</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>dogtag</groupid>
+      <groupid>directory-server</groupid>
+      <groupid>dns-server</groupid>
+      <groupid>freeipa-server</groupid>
+      <groupid>ftp-server</groupid>
+      <groupid>guest-agents</groupid>
+      <groupid>ha</groupid>
+      <groupid>load-balancer</groupid>
+      <groupid>mail-server</groupid>
+      <groupid>mysql</groupid>
+      <groupid>network-server</groupid>
+      <groupid>printing</groupid>
+      <groupid>smb-server</groupid>
+      <groupid>sql-server</groupid>
+      <groupid>virtualization</groupid>
+      <groupid>web-server</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <!-- Intended only for the Fedora Server product; other products will not
+         show this because they don’t include the fedora-release-server
+         package.  Please keep this mostly in sync with
+         infrastructure-server-environment. -->
+    <id>server-product-environment</id>
+    <_name>Fedora Server</_name>
+    <!-- Should eventually say “with a web UI accessible right after installation”
+	 or something else to differentiate from
+	 infrastructure-server-environment. -->
+    <_description>An integrated, easier to manage server.</_description>
+    <display_order>1</display_order>
+    <grouplist>
+      <groupid>server-product</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>hardware-support</groupid>
