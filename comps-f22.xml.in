@@ -4993,7 +4993,6 @@
       <packagereq type="default">mpage</packagereq>
       <packagereq type="default">paps</packagereq>
       <packagereq type="default">samba-client</packagereq>
-      <packagereq type="default">system-config-printer</packagereq>
       <packagereq type="default">system-config-printer-udev</packagereq>
       <packagereq type="default">nss-mdns</packagereq>
       <packagereq type="optional">a2ps</packagereq>
@@ -5004,6 +5003,7 @@
       <packagereq type="optional">pnm2ppa</packagereq>
       <packagereq type="optional">ptouch-driver</packagereq>
       <packagereq type="optional">splix</packagereq>
+      <packagereq type="optional">system-config-printer</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5347,10 +5347,10 @@
       <packagereq type="default">cups-pk-helper</packagereq>
       <packagereq type="default">system-config-httpd</packagereq>
       <packagereq type="default">system-config-nfs</packagereq>
-      <packagereq type="default">system-config-printer</packagereq>
       <packagereq type="default">system-config-samba</packagereq>
       <packagereq type="default">system-config-services</packagereq>
       <packagereq type="optional">system-config-bind</packagereq>
+      <packagereq type="optional">system-config-printer</packagereq>
       <packagereq type="optional">system-switch-mail-gnome</packagereq>
     </packagelist>
   </group>
