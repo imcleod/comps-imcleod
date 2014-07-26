@@ -5149,6 +5149,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">arduino</packagereq>
+      <packagereq type="default">catkin</packagereq>
       <packagereq type="default">eclipse-cdt</packagereq>
       <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-subclipse</packagereq>
@@ -5175,6 +5176,8 @@
       <packagereq type="default">fawkes-plugin-webview</packagereq>
       <packagereq type="default">fawkes-plugin-worldmodel</packagereq>
       <packagereq type="default">fawkes-plugin-xmlrpc</packagereq>
+      <packagereq type="default">gazebo</packagereq>
+      <packagereq type="default">gazebo-doc</packagereq>
       <packagereq type="default">gearbox</packagereq>
       <packagereq type="default">libphidget</packagereq>
       <packagereq type="default">mrpt-apps</packagereq>
@@ -5188,6 +5191,17 @@
       <packagereq type="default">player-examples</packagereq>
       <packagereq type="default">player-python</packagereq>
       <packagereq type="default">player-ruby</packagereq>
+      <packagereq type="default">python-bloom</packagereq>
+      <packagereq type="default">python-catkin_lint</packagereq>
+      <packagereq type="default">python-catkin_pkg</packagereq>
+      <packagereq type="default">python-catkin_tools</packagereq>
+      <packagereq type="default">python-rosdep</packagereq>
+      <packagereq type="default">python-rosdistro</packagereq>
+      <packagereq type="default">python-rosinstall</packagereq>
+      <packagereq type="default">python-rosinstall_generator</packagereq>
+      <packagereq type="default">python-rospkg</packagereq>
+      <packagereq type="default">python-vcstools</packagereq>
+      <packagereq type="default">python-wstool</packagereq>
       <packagereq type="default">rcsslogplayer</packagereq>
       <packagereq type="default">rcssmonitor</packagereq>
       <packagereq type="default">rcssserver</packagereq>
@@ -5198,6 +5212,7 @@
       <packagereq type="default">stage-playerplugin</packagereq>
       <packagereq type="default">urg</packagereq>
       <packagereq type="optional">fawkes-devel</packagereq>
+      <packagereq type="optional">gazebo-devel</packagereq>
       <packagereq type="optional">gearbox-devel</packagereq>
       <packagereq type="optional">libphidget-devel</packagereq>
       <packagereq type="optional">mrpt-devel</packagereq>
