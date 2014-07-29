@@ -1127,6 +1127,126 @@
     </packagelist>
   </group>
   <group>
+    <id>audio</id>
+    <_name>Audio Production</_name>
+    <_description>Various tools for audio synthesis and music production.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">Add64</packagereq>
+      <packagereq type="default">a2jmidid</packagereq>
+      <packagereq type="default">aj-snapshot</packagereq>
+      <packagereq type="default">alsa-firmware</packagereq>
+      <packagereq type="default">alsa-plugins-jack</packagereq>
+      <packagereq type="default">alsa-plugins-samplerate</packagereq>
+      <packagereq type="default">alsa-plugins-upmix</packagereq>
+      <packagereq type="default">alsa-plugins-usbstream</packagereq>
+      <packagereq type="default">alsa-plugins-vdownmix</packagereq>
+      <packagereq type="default">alsa-tools</packagereq>
+      <packagereq type="default">alsa-utils</packagereq>
+      <packagereq type="default">alsamixergui</packagereq>
+      <packagereq type="default">ams</packagereq>
+      <packagereq type="default">ardour3</packagereq>
+      <packagereq type="default">arpage</packagereq>
+      <packagereq type="default">audacity</packagereq>
+      <packagereq type="default">bristol</packagereq>
+      <packagereq type="default">calf</packagereq>
+      <packagereq type="default">drumkv1</packagereq>
+      <packagereq type="default">dssi</packagereq>
+      <packagereq type="default">fluid-soundfont-gm</packagereq>
+      <packagereq type="default">fluidsynth</packagereq>
+      <packagereq type="default">fluidsynth-dssi</packagereq>
+      <packagereq type="default">frescobaldi</packagereq>
+      <packagereq type="default">gladish</packagereq>
+      <packagereq type="default">guitarix</packagereq>
+      <packagereq type="default">harmonyseq</packagereq>
+      <packagereq type="default">hexter-dssi</packagereq>
+      <packagereq type="default">hydrogen</packagereq>
+      <packagereq type="default">idjc</packagereq>
+      <packagereq type="default">jaaa</packagereq>
+      <packagereq type="default">jack-audio-connection-kit</packagereq>
+      <packagereq type="default">jack-audio-connection-kit-dbus</packagereq>
+      <packagereq type="default">jack-rack</packagereq>
+      <packagereq type="default">jack_capture</packagereq>
+      <packagereq type="default">jackctlmmc</packagereq>
+      <packagereq type="default">jamin</packagereq>
+      <packagereq type="default">japa</packagereq>
+      <packagereq type="default">jmeters</packagereq>
+      <packagereq type="default">kernel-tools</packagereq>
+      <packagereq type="default">ladish</packagereq>
+      <packagereq type="default">ladspa</packagereq>
+      <packagereq type="default">ladspa-amb-plugins</packagereq>
+      <packagereq type="default">ladspa-autotalent-plugins</packagereq>
+      <packagereq type="default">ladspa-blop-plugins</packagereq>
+      <packagereq type="default">ladspa-cmt-plugins</packagereq>
+      <packagereq type="default">ladspa-fil-plugins</packagereq>
+      <packagereq type="default">ladspa-mcp-plugins</packagereq>
+      <packagereq type="default">ladspa-rev-plugins</packagereq>
+      <packagereq type="default">ladspa-swh-plugins</packagereq>
+      <packagereq type="default">ladspa-tap-plugins</packagereq>
+      <packagereq type="default">ladspa-vco-plugins</packagereq>
+      <packagereq type="default">lash</packagereq>
+      <packagereq type="default">lilypond</packagereq>
+      <packagereq type="default">lv2</packagereq>
+      <packagereq type="default">lv2-abGate</packagereq>
+      <packagereq type="default">lv2-artyfx-plugins</packagereq>
+      <packagereq type="default">lv2-avw-plugins</packagereq>
+      <packagereq type="default">lv2-c++-tools </packagereq>
+      <packagereq type="default">lv2-drumkv1</packagereq>
+      <packagereq type="default">lv2-fabla</packagereq>
+      <packagereq type="default">lv2-fil-plugins</packagereq>
+      <packagereq type="default">lv2-fomp-plugins</packagereq>
+      <packagereq type="default">lv2-invada-plugins</packagereq>
+      <packagereq type="default">lv2-kn0ck0ut</packagereq>
+      <packagereq type="default">lv2-ll-plugins</packagereq>
+      <packagereq type="default">lv2-newtonator</packagereq>
+      <packagereq type="default">lv2-samplv1</packagereq>
+      <packagereq type="default">lv2-sorcer</packagereq>
+      <packagereq type="default">lv2-swh-plugins</packagereq>
+      <packagereq type="default">lv2-synthv1</packagereq>
+      <packagereq type="default">lv2-triceratops</packagereq>
+      <packagereq type="default">lv2-vocoder-plugins</packagereq>
+      <packagereq type="default">lv2-x42-plugins</packagereq>
+      <packagereq type="default">lv2-zynadd-plugins</packagereq>
+      <packagereq type="default">lv2dynparam</packagereq>
+      <packagereq type="default">monobristol</packagereq>
+      <packagereq type="default">mscore</packagereq>
+      <packagereq type="default">multimedia-menus</packagereq>
+      <packagereq type="default">mup</packagereq>
+      <packagereq type="default">muse</packagereq>
+      <packagereq type="default">nekobee-dssi</packagereq>
+      <packagereq type="default">non-daw</packagereq>
+      <packagereq type="default">non-mixer</packagereq>
+      <packagereq type="default">non-sequencer</packagereq>
+      <packagereq type="default">non-session-manager</packagereq>
+      <packagereq type="default">qastools</packagereq>
+      <packagereq type="default">qjackctl</packagereq>
+      <packagereq type="default">qmidiarp</packagereq>
+      <packagereq type="default">qsynth</packagereq>
+      <packagereq type="default">qtractor</packagereq>
+      <packagereq type="default">radium-compressor</packagereq>
+      <packagereq type="default">rakarrack</packagereq>
+      <packagereq type="default">realTimeConfigQuickScan</packagereq>
+      <packagereq type="default">rosegarden4</packagereq>
+      <packagereq type="default">rtirq</packagereq>
+      <packagereq type="default">samplv1</packagereq>
+      <packagereq type="default">seq24</packagereq>
+      <packagereq type="default">sooperlooper</packagereq>
+      <packagereq type="default">swami</packagereq>
+      <packagereq type="default">synthv1</packagereq>
+      <packagereq type="default">timidity++</packagereq>
+      <packagereq type="default">tuxguitar</packagereq>
+      <packagereq type="default">vmpk</packagereq>
+      <packagereq type="default">whysynth-dssi</packagereq>
+      <packagereq type="default">xsynth-dssi</packagereq>
+      <packagereq type="default">yoshimi</packagereq>
+      <packagereq type="default">zita-at1</packagereq>
+      <packagereq type="default">zita-rev1</packagereq>
+      <packagereq type="default">zynaddsubfx</packagereq>
+      <packagereq type="default">zynjacku</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>authoring-and-publishing</id>
     <_name>Authoring and Publishing</_name>
     <_description>These tools allow you to create documents in the DocBook format and convert them into HTML, PDF, Postscript, and text.</_description>
