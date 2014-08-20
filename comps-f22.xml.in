@@ -112,9 +112,6 @@
       <packagereq>gnome-documents</packagereq>
       <packagereq>gnome-font-viewer</packagereq>
       <packagereq>gnome-getting-started-docs</packagereq>
-      <packagereq>gnome-icon-theme</packagereq>
-      <packagereq>gnome-icon-theme-extras</packagereq>
-      <packagereq>gnome-icon-theme-symbolic</packagereq>
       <packagereq>gnome-initial-setup</packagereq>
       <packagereq>gnome-logs</packagereq>
       <packagereq>gnome-maps</packagereq>
@@ -450,9 +447,8 @@
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
-      <packagereq>adwaita-cursor-theme</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
-      <packagereq>adwaita-gtk3-theme</packagereq>
+      <packagereq>adwaita-icon-theme</packagereq>
       <packagereq>greybird-gtk2-theme</packagereq>
       <packagereq>greybird-gtk3-theme</packagereq>
       <packagereq>greybird-xfce4-notifyd-theme</packagereq>
@@ -604,9 +600,8 @@
       <packagereq>xpad</packagereq>
       <packagereq>gigolo</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
-      <packagereq>adwaita-cursor-theme</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
-      <packagereq>adwaita-gtk3-theme</packagereq>
+      <packagereq>adwaita-icon-theme</packagereq>
       <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>nm-connection-editor</packagereq>
@@ -685,13 +680,11 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>adwaita-cursor-theme</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
-      <packagereq>adwaita-gtk3-theme</packagereq>
+      <packagereq>adwaita-icon-theme</packagereq>
       <packagereq>awesome</packagereq>
       <packagereq>dwm</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
-      <packagereq>gnome-icon-theme-symbolic</packagereq>
       <packagereq>i3</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>lightdm</packagereq>
@@ -739,10 +732,6 @@
       <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
-      <packagereq>gnome-icon-theme</packagereq>
-      <packagereq>gnome-icon-theme-extras</packagereq>
-      <packagereq>gnome-icon-theme-legacy</packagereq>
-      <packagereq>gnome-icon-theme-symbolic</packagereq>
       <packagereq>yumex</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>
