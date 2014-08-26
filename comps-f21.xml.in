@@ -6320,6 +6320,16 @@
     </packagelist>
   </group>
   <group>
+    <id>workstation-product</id>
+    <_name>Fedora Workstation product core</_name>
+    <_description>Packages mandatory for the workstation product.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">fedora-release-workstation</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>x-software-development</id>
     <_name>X Software Development</_name>
     <_description>These packages allow you to develop applications for the X Window System.</_description>
@@ -6776,6 +6786,34 @@
       <groupid>sql-server</groupid>
       <groupid>virtualization</groupid>
       <groupid>web-server</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <id>workstation-product-environment</id>
+    <_name>Fedora Workstation</_name>
+    <_description>Fedora Workstation is a user friendly desktop system for laptops and PCs.</_description>
+    <display_order>2</display_order>
+    <grouplist>
+      <groupid>workstation-product</groupid>
+      <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>firefox</groupid>
+      <groupid>guest-desktop-agents</groupid>
+      <groupid>gnome-desktop</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid default="true">libreoffice</groupid>
+      <groupid>gnome-games</groupid>
+      <groupid>epiphany</groupid>
+      <groupid>3d-printing</groupid>
     </optionlist>
   </environment>
   <environment>
