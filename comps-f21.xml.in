@@ -2046,6 +2046,19 @@
     </packagelist>
   </group>
   <group>
+    <id>domain-client</id>
+    <_name>Domain Membership</_name>
+    <_description>Support for joining a FreeIPA or Active Directory Domain</_description>
+    <default>false</default>
+    <packagelist>
+      <packagereq type="mandatory">realmd</packagereq>
+      <packagereq type="mandatory">sssd</packagereq>
+      <packagereq type="mandatory">freeipa-client</packagereq>
+      <packagereq type="mandatory">samba-winbind</packagereq>
+      <packagereq type="mandatory">oddjob-mkhomedir</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>dogtag</id>
     <_name>Dogtag Certificate System</_name>
     <_description>Enterprise-class open source Certificate Authority</_description>
@@ -6769,6 +6782,7 @@
       <groupid>hardware-support</groupid>
       <groupid>headless-management</groupid>
       <groupid>container-management</groupid>
+      <groupid>domain-client</groupid>
     </grouplist>
     <optionlist>
       <groupid>dogtag</groupid>
