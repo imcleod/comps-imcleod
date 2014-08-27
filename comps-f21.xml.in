@@ -3799,8 +3799,9 @@
       <packagereq type="mandatory">cockpit</packagereq>
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">openlmi</packagereq>
-      <packagereq type="mandatory">tog-pegasus</packagereq>
+      <packagereq type="mandatory">PackageKit</packagereq>
       <packagereq type="mandatory">rolekit</packagereq>
+      <packagereq type="mandatory">tog-pegasus</packagereq>
     </packagelist>
   </group>
   <group>
