@@ -1281,7 +1281,7 @@
       <packagereq type="optional">xmlcopyeditor</packagereq>
     </packagelist>
   </group>
-	  <group>
+  <group>
     <id>standard</id>
     <_name>Standard</_name>
     <_description>Common set of utilities that extend the minimal installation.</_description>
@@ -1732,21 +1732,21 @@
       <packagereq type="optional">audacity</packagereq>
       <packagereq type="optional">calligra-karbon</packagereq>
       <packagereq type="optional">calligra-krita</packagereq>
-	  <packagereq type="optional">cinepaint</packagereq>
+      <packagereq type="optional">cinepaint</packagereq>
       <packagereq type="optional">digikam</packagereq>
       <packagereq type="optional">gthumb</packagereq>
       <packagereq type="optional">istanbul</packagereq>
-	  <packagereq type="optional">LuxRender</packagereq>
-	  <packagereq type="optional">LuxRender-blender</packagereq>
+      <packagereq type="optional">LuxRender</packagereq>
+      <packagereq type="optional">LuxRender-blender</packagereq>
       <packagereq type="optional">openclipart</packagereq>
-	  <packagereq type="optional">pencil</packagereq>
+      <packagereq type="optional">pencil</packagereq>
       <packagereq type="optional">pitivi</packagereq>
       <packagereq type="optional">pngcrush</packagereq>
-	  <packagereq type="optional">rawtherapee</packagereq>
-	  <packagereq type="optional">ufraw</packagereq>
-	  <packagereq type="optional">wings</packagereq>
-	  <packagereq type="optional">YafaRay</packagereq>
-	  <packagereq type="optional">YafaRay-blender</packagereq>
+      <packagereq type="optional">rawtherapee</packagereq>
+      <packagereq type="optional">ufraw</packagereq>
+      <packagereq type="optional">wings</packagereq>
+      <packagereq type="optional">YafaRay</packagereq>
+      <packagereq type="optional">YafaRay-blender</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6757,8 +6757,8 @@
     <id>server-product-environment</id>
     <_name>Fedora Server</_name>
     <!-- Should eventually say “with a web UI accessible right after installation”
-	 or something else to differentiate from
-	 infrastructure-server-environment. -->
+         or something else to differentiate from
+         infrastructure-server-environment. -->
     <_description>An integrated, easier to manage server.</_description>
     <display_order>1</display_order>
     <grouplist>
