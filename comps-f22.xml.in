@@ -6326,18 +6326,15 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">fedora-release-workstation</packagereq>
       <packagereq>abrt-cli</packagereq>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>acl</packagereq>
-      <packagereq>aisleriot</packagereq>
       <packagereq>at</packagereq>
       <packagereq>at-spi2-atk</packagereq>
       <packagereq>at-spi2-core</packagereq>
       <packagereq>attr</packagereq>
       <packagereq>avahi</packagereq>
-      <packagereq>baobab</packagereq>
       <packagereq>bash-completion</packagereq>
       <packagereq>bc</packagereq>
       <packagereq>bijiben</packagereq>
@@ -6354,20 +6351,17 @@
       <packagereq>chrony</packagereq>
       <packagereq>cifs-utils</packagereq>
       <packagereq>control-center</packagereq>
-      <packagereq>coolkey</packagereq>
       <packagereq>cpio</packagereq>
       <packagereq>crontabs</packagereq>
       <packagereq>cryptsetup</packagereq>
       <packagereq>cyrus-sasl-plain</packagereq>
       <packagereq>dbus</packagereq>
       <packagereq>dconf</packagereq>
-      <packagereq>deja-dup</packagereq>
       <packagereq>deltarpm</packagereq>
       <packagereq>desktop-backgrounds-basic</packagereq>
+      <packagereq>devassistant</packagereq>
       <packagereq>dos2unix</packagereq>
       <packagereq>dosfstools</packagereq>
-      <packagereq>dump</packagereq>
-      <packagereq>ed</packagereq>
       <packagereq>empathy</packagereq>
       <packagereq>eog</packagereq>
       <packagereq>ethtool</packagereq>
@@ -6377,15 +6371,15 @@
       <packagereq>evolution-help</packagereq>
       <packagereq>evolution</packagereq>
       <packagereq>fedora-release-notes</packagereq>
+      <packagereq>fedora-release-workstation</packagereq>
       <packagereq>file</packagereq>
       <packagereq>file-roller-nautilus</packagereq>
       <packagereq>file-roller</packagereq>
-      <packagereq>finger</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>firewalld-config-workstation</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
-      <packagereq>ftp</packagereq>
       <packagereq>gdm</packagereq>
       <packagereq>gedit</packagereq>
       <packagereq>glib-networking</packagereq>
@@ -6419,8 +6413,6 @@
       <packagereq>gnome-user-share</packagereq>
       <packagereq>gnome-weather</packagereq>
       <packagereq>gnupg2</packagereq>
-      <packagereq>gtk2-immodule-xim</packagereq>
-      <packagereq>gtk3-immodule-xim</packagereq>
       <packagereq>gucharmap</packagereq>
       <packagereq>gvfs-afc</packagereq>
       <packagereq>gvfs-afp</packagereq>
@@ -6440,22 +6432,13 @@
       <packagereq>ibus-m17n</packagereq>
       <packagereq>ibus-rawcode</packagereq>
       <packagereq>ibus-typing-booster</packagereq>
-      <packagereq>icedtea-web</packagereq>
-      <packagereq>im-chooser</packagereq>
-      <packagereq>imsettings-gsettings</packagereq>
-      <packagereq>imsettings</packagereq>
       <packagereq>iptstate</packagereq>
-      <packagereq>irda-utils</packagereq>
-      <packagereq>irqbalance</packagereq>
-      <packagereq>isdn4k-utils</packagereq>
       <packagereq>jwhois</packagereq>
-      <packagereq>lftp</packagereq>
       <packagereq>libcanberra-gtk2</packagereq>
       <packagereq>libcanberra-gtk3</packagereq>
       <packagereq>libproxy-mozjs</packagereq>
       <packagereq>librsvg2</packagereq>
       <packagereq>libsane-hpaio</packagereq>
-      <packagereq>linux-atm</packagereq>
       <packagereq>logrotate</packagereq>
       <packagereq>lrzsz</packagereq>
       <packagereq>lsof</packagereq>
@@ -6464,17 +6447,14 @@
       <packagereq>mcelog</packagereq>
       <packagereq>mdadm</packagereq>
       <packagereq>microcode_ctl</packagereq>
-      <packagereq>minicom</packagereq>
       <packagereq>mlocate</packagereq>
       <packagereq>ModemManager</packagereq>
       <packagereq>mousetweaks</packagereq>
       <packagereq>mtr</packagereq>
-      <packagereq>nano</packagereq>
       <packagereq>nautilus</packagereq>
       <packagereq>nautilus-sendto</packagereq>
       <packagereq>net-tools</packagereq>
       <packagereq>NetworkManager-adsl</packagereq>
-      <packagereq>NetworkManager-l2tp</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
@@ -6482,10 +6462,9 @@
       <packagereq>nfs-utils</packagereq>
       <packagereq>nmap-ncat</packagereq>
       <packagereq>nm-connection-editor</packagereq>
+      <packagereq>nss-mdns</packagereq>
       <packagereq>ntfs-3g</packagereq>
       <packagereq>ntfsprogs</packagereq>
-      <packagereq>ntsysv</packagereq>
-      <packagereq>numactl</packagereq>
       <packagereq>orca</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
       <packagereq>PackageKit-gtk3-module</packagereq>
@@ -6501,30 +6480,35 @@
       <packagereq>polkit-js-engine</packagereq>
       <packagereq>ppp</packagereq>
       <packagereq>psacct</packagereq>
+      <packagereq>qt5-qtbase-gui</packagereq>
+      <packagereq>qt5-qtbase</packagereq>
+      <packagereq>qt5-qtdeclarative</packagereq>
+      <packagereq>qt5-qtxmlpatterns</packagereq>
+      <packagereq>qt</packagereq>
+      <packagereq>qt-settings</packagereq>
+      <packagereq>qt-x11</packagereq>
       <packagereq>quota</packagereq>
       <packagereq>rdist</packagereq>
       <packagereq>realmd</packagereq>
       <packagereq>rhythmbox</packagereq>
       <packagereq>rng-tools</packagereq>
       <packagereq>rp-pppoe</packagereq>
-      <packagereq>rsh</packagereq>
       <packagereq>rsync</packagereq>
       <packagereq>rsyslog</packagereq>
       <packagereq>rygel</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
+      <packagereq>scl-utils</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>setuptool</packagereq>
       <packagereq>shotwell</packagereq>
       <packagereq>simple-scan</packagereq>
-      <packagereq>smartmontools</packagereq>
       <packagereq>sos</packagereq>
       <packagereq>sssd</packagereq>
       <packagereq>stunnel</packagereq>
       <packagereq>sudo</packagereq>
       <packagereq>sushi</packagereq>
       <packagereq>symlinks</packagereq>
-      <packagereq>talk</packagereq>
       <packagereq>tar</packagereq>
       <packagereq>tcpdump</packagereq>
       <packagereq>tcp_wrappers</packagereq>
