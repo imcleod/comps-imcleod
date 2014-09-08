@@ -6696,6 +6696,13 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">cloud-init</packagereq>
+      <packagereq type="mandatory">grubby</packagereq>
+      <packagereq type="mandatory">heat-cfntools</packagereq>
+      <packagereq type="mandatory">cloud-utils-growpart</packagereq>
+      <packagereq type="mandatory">dracut-config-generic</packagereq>
+      <packagereq type="mandatory">syslinux-extlinux</packagereq>
+      <packagereq type="mandatory">tar</packagereq>
+      <packagereq type="mandatory">rsync</packagereq>
     </packagelist>
   </group>
   <group>
